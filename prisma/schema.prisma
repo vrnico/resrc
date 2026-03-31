@@ -15,9 +15,10 @@ model ZipCode {
   latitude  Float
   longitude Float
   timezone  String?
-  posts     CommunityPost[]
-  reports   Report[]
-  resources ResourceZipCode[]
+  posts       CommunityPost[]
+  reports     Report[]
+  resources   ResourceZipCode[]
+  ambassadors Ambassador[]
 }
 
 model Category {
@@ -64,17 +65,40 @@ model ResourceZipCode {
   @@id([resourceId, zipCode])
 }
 
+model Ambassador {
+  id           String          @id @default(uuid())
+  displayName  String
+  email        String          @unique
+  passwordHash String
+  bio          String?
+  zipCode      String
+  zip          ZipCode         @relation(fields: [zipCode], references: [zip])
+  radius       Int             @default(10) // miles
+  status       String          @default("pending") // pending, approved, suspended
+  role         String          @default("ambassador") // ambassador, moderator
+  verifiedAt   DateTime?
+  createdAt    DateTime        @default(now())
+  updatedAt    DateTime        @updatedAt
+  posts        CommunityPost[]
+}
+
 model CommunityPost {
-  id              String   @id @default(uuid())
+  id              String      @id @default(uuid())
   zipCode         String
-  zip             ZipCode  @relation(fields: [zipCode], references: [zip])
+  zip             ZipCode     @relation(fields: [zipCode], references: [zip])
   body            String
-  category        String   // tip, question, alert, offer
-  upvotes         Int      @default(0)
-  flags           Int      @default(0)
-  status          String   @default("visible") // visible, flagged, removed
+  title           String?
+  category        String      // tip, question, alert, offer, resource, event
+  postType        String      @default("community") // community, ambassador
+  upvotes         Int         @default(0)
+  flags           Int         @default(0)
+  status          String      @default("visible") // visible, flagged, removed, pending_review
+  isPinned        Boolean     @default(false)
+  ambassadorId    String?
+  ambassador      Ambassador? @relation(fields: [ambassadorId], references: [id])
   fingerprintHash String?
-  createdAt       DateTime @default(now())
+  expiresAt       DateTime?
+  createdAt       DateTime    @default(now())
 }
 
 model Report {

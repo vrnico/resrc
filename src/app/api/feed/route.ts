@@ -2,7 +2,7 @@ import type { NextRequest } from "next/server";
 import { prisma } from "@/lib/db";
 import { FeedQuerySchema, FeedPostSchema } from "@/lib/validators";
 import type { FeedResponse, FeedPost } from "@/types/index";
-import type { PostCategory } from "@/lib/constants";
+import type { PostCategory, PostType, AmbassadorRole } from "@/lib/constants";
 
 export async function GET(request: NextRequest) {
   try {
@@ -25,35 +25,82 @@ export async function GET(request: NextRequest) {
 
     const { zip, page, limit } = parsed.data;
 
-    const where = { zipCode: zip, status: "visible" };
+    const where = {
+      AND: [
+        { zipCode: zip },
+        { status: "visible" },
+        {
+          OR: [
+            { expiresAt: null },
+            { expiresAt: { gt: new Date() } },
+          ],
+        },
+      ],
+    };
 
-    const total = await prisma.communityPost.count({ where });
+    const [total, ambassadorCount] = await Promise.all([
+      prisma.communityPost.count({ where }),
+      prisma.ambassador.count({ where: { zipCode: zip, status: "approved" } }),
+    ]);
     const totalPages = Math.max(1, Math.ceil(total / limit));
 
     const posts = await prisma.communityPost.findMany({
       where,
-      orderBy: { createdAt: "desc" },
+      orderBy: [
+        { isPinned: "desc" },
+        { createdAt: "desc" },
+      ],
       skip: (page - 1) * limit,
       take: limit,
       select: {
         id: true,
+        title: true,
         body: true,
         category: true,
+        postType: true,
         upvotes: true,
         flags: true,
+        isPinned: true,
         createdAt: true,
+        expiresAt: true,
+        ambassador: {
+          select: {
+            id: true,
+            displayName: true,
+            bio: true,
+            role: true,
+            verifiedAt: true,
+          },
+        },
       },
     });
 
     const response: FeedResponse = {
       posts: posts.map((p): FeedPost => ({
-        ...p,
+        id: p.id,
+        title: p.title,
+        body: p.body,
         category: p.category as PostCategory,
+        postType: p.postType as PostType,
+        upvotes: p.upvotes,
+        flags: p.flags,
+        isPinned: p.isPinned,
         createdAt: p.createdAt.toISOString(),
+        expiresAt: p.expiresAt?.toISOString() ?? null,
+        ambassador: p.ambassador
+          ? {
+              id: p.ambassador.id,
+              displayName: p.ambassador.displayName,
+              bio: p.ambassador.bio,
+              role: p.ambassador.role as AmbassadorRole,
+              verifiedAt: p.ambassador.verifiedAt?.toISOString() ?? null,
+            }
+          : null,
       })),
       total,
       page,
       totalPages,
+      ambassadorCount,
     };
 
     return Response.json(response);
@@ -97,20 +144,30 @@ export async function POST(request: NextRequest) {
         zipCode: zip,
         body: postBody,
         category,
+        postType: "community",
         status: "visible",
       },
       select: {
         id: true,
+        title: true,
         body: true,
         category: true,
+        postType: true,
         upvotes: true,
         flags: true,
+        isPinned: true,
         createdAt: true,
+        expiresAt: true,
       },
     });
 
     return Response.json(
-      { ...post, createdAt: post.createdAt.toISOString() },
+      {
+        ...post,
+        createdAt: post.createdAt.toISOString(),
+        expiresAt: null,
+        ambassador: null,
+      },
       { status: 201 }
     );
   } catch (error) {

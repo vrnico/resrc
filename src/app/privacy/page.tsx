@@ -8,7 +8,7 @@ export default function PrivacyPage() {
 
       <div className="mt-6 space-y-4 text-foreground leading-relaxed">
         <p>
-          LifeLine is designed to protect your privacy. Here is exactly what we
+          Resrc is designed to protect your privacy. Here is exactly what we
           do and don't do with your information, in plain language.
         </p>
 
@@ -16,7 +16,7 @@ export default function PrivacyPage() {
         <ul className="list-disc pl-6 space-y-2">
           <li>
             <strong>No accounts.</strong> You never need to sign up or log in to
-            use LifeLine.
+            use Resrc.
           </li>
           <li>
             <strong>No cookies.</strong> We don't set any cookies on public

@@ -1,27 +1,15 @@
 import { ExternalLink, Phone, MapPin } from "lucide-react";
 import { Badge } from "@/components/ui/Badge";
 import { Card } from "@/components/ui/Card";
-
-export interface Resource {
-  id: string;
-  name: string;
-  description: string;
-  url: string;
-  scope: "National" | "State" | "Local";
-  eligibility_summary: string;
-  phone?: string;
-  address?: string;
-  verified_at?: string;
-  category: string;
-}
+import type { ResourceResult } from "@/types/index";
 
 interface ResourceCardProps {
-  resource: Resource;
+  resource: ResourceResult;
 }
 
 export function ResourceCard({ resource }: ResourceCardProps) {
-  const verifiedDate = resource.verified_at
-    ? new Date(resource.verified_at).toLocaleDateString("en-US", {
+  const verifiedDate = resource.verifiedAt
+    ? new Date(resource.verifiedAt).toLocaleDateString("en-US", {
         month: "short",
         day: "numeric",
         year: "numeric",
@@ -54,10 +42,12 @@ export function ResourceCard({ resource }: ResourceCardProps) {
         </p>
 
         {/* Eligibility */}
-        <p className="text-muted text-sm">
-          <span className="font-medium">Eligibility:</span>{" "}
-          {resource.eligibility_summary}
-        </p>
+        {resource.eligibilitySummary && (
+          <p className="text-muted text-sm">
+            <span className="font-medium">Eligibility:</span>{" "}
+            {resource.eligibilitySummary}
+          </p>
+        )}
 
         {/* Contact info */}
         <div className="flex flex-wrap gap-x-4 gap-y-1 text-sm">

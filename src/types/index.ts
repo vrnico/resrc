@@ -1,4 +1,4 @@
-import type { ResourceScope, PostCategory, ReportCategory } from "@/lib/constants";
+import type { ResourceScope, PostCategory, ReportCategory, AmbassadorStatus, AmbassadorRole, PostType } from "@/lib/constants";
 
 export interface LocationInfo {
   zip: string;
@@ -44,13 +44,34 @@ export interface CategoryCount {
   count: number;
 }
 
+export interface AmbassadorPublic {
+  id: string;
+  displayName: string;
+  bio: string | null;
+  role: AmbassadorRole;
+  verifiedAt: string | null;
+}
+
+export interface AmbassadorProfile extends AmbassadorPublic {
+  email: string;
+  zipCode: string;
+  radius: number;
+  status: AmbassadorStatus;
+  createdAt: string;
+}
+
 export interface FeedPost {
   id: string;
   body: string;
+  title: string | null;
   category: PostCategory;
+  postType: PostType;
   upvotes: number;
   flags: number;
+  isPinned: boolean;
+  ambassador: AmbassadorPublic | null;
   createdAt: string;
+  expiresAt: string | null;
 }
 
 export interface FeedResponse {
@@ -58,6 +79,7 @@ export interface FeedResponse {
   total: number;
   page: number;
   totalPages: number;
+  ambassadorCount: number;
 }
 
 export interface ReportSubmission {

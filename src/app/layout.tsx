@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "LifeLine — Find Free Assistance Near You",
+  title: "Resrc — Find Free Assistance Near You",
   description:
     "Enter your zip code to find verified food, housing, employment, healthcare, and community assistance programs available in your area.",
 };

@@ -300,7 +300,7 @@ async function seedStatePrograms() {
 }
 
 async function main() {
-  console.log("🌱 Starting LifeLine database seed...\n");
+  console.log("🌱 Starting Resrc database seed...\n");
 
   await seedCategories();
   await seedNationalPrograms();

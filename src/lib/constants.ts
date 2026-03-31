@@ -8,7 +8,7 @@ export const RESOURCE_SCOPES = [
 
 export type ResourceScope = (typeof RESOURCE_SCOPES)[number];
 
-export const POST_CATEGORIES = ["tip", "question", "alert", "offer"] as const;
+export const POST_CATEGORIES = ["tip", "question", "alert", "offer", "resource", "event"] as const;
 export type PostCategory = (typeof POST_CATEGORIES)[number];
 
 export const REPORT_CATEGORIES = [
@@ -54,6 +54,24 @@ export const SCOPE_COLORS: Record<ResourceScope, string> = {
   county: "bg-indigo-100 text-indigo-700",
   city: "bg-green-100 text-green-700",
   zip_specific: "bg-emerald-100 text-emerald-700",
+};
+
+export const AMBASSADOR_STATUSES = ["pending", "approved", "suspended"] as const;
+export type AmbassadorStatus = (typeof AMBASSADOR_STATUSES)[number];
+
+export const AMBASSADOR_ROLES = ["ambassador", "moderator"] as const;
+export type AmbassadorRole = (typeof AMBASSADOR_ROLES)[number];
+
+export const POST_TYPES = ["community", "ambassador"] as const;
+export type PostType = (typeof POST_TYPES)[number];
+
+export const POST_CATEGORY_LABELS: Record<PostCategory, string> = {
+  tip: "Tip",
+  question: "Question",
+  alert: "Alert",
+  offer: "Offer",
+  resource: "Resource",
+  event: "Event",
 };
 
 export const MAX_POST_LENGTH = 1000;

@@ -24,7 +24,7 @@ export default function Home() {
         <section className="bg-muted-bg py-12 px-4">
           <div className="max-w-3xl mx-auto">
             <h2 className="text-xl sm:text-2xl font-semibold text-center mb-8">
-              How LifeLine helps
+              How Resrc helps
             </h2>
             <div className="grid sm:grid-cols-2 gap-6">
               <div className="flex gap-4">
@@ -108,7 +108,7 @@ export default function Home() {
           </Link>
         </div>
         <p className="mt-2">
-          LifeLine is free and open source.
+          Resrc is free and open source.
         </p>
       </footer>
     </>

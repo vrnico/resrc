@@ -3,11 +3,11 @@ import Link from "next/link";
 export default function AboutPage() {
   return (
     <main className="flex-1 px-4 py-12 max-w-3xl mx-auto">
-      <h1 className="text-3xl font-bold text-foreground">About LifeLine</h1>
+      <h1 className="text-3xl font-bold text-foreground">About Resrc</h1>
 
       <div className="mt-6 space-y-4 text-foreground leading-relaxed">
         <p>
-          LifeLine is a free web application that helps people in the United
+          Resrc is a free web application that helps people in the United
           States find verified assistance programs for food, housing,
           employment, healthcare, transportation, and more — all by entering a
           zip code.
@@ -17,7 +17,7 @@ export default function AboutPage() {
         <p>
           Millions of people qualify for assistance programs but never access
           them — often because they don't know the programs exist or can't
-          navigate the fragmented system. LifeLine puts everything in one place,
+          navigate the fragmented system. Resrc puts everything in one place,
           organized by location and category, with direct links to official
           program pages.
         </p>

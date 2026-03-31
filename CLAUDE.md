@@ -1,6 +1,6 @@
 @AGENTS.md
 
-# LifeLine Project
+# Resrc Project
 
 ## Quick Start
 ```bash

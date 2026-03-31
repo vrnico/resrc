@@ -1,8 +1,9 @@
+import { AdminDashboard } from "./AdminDashboard";
+
 export default function AdminPage() {
   return (
-    <main className="flex-1 p-8">
-      <h1 className="text-2xl font-bold">Admin Dashboard</h1>
-      <p className="text-gray-500 mt-2">Phase 2 — Admin dashboard coming soon</p>
+    <main className="flex-1 px-4 py-8 max-w-5xl mx-auto w-full">
+      <AdminDashboard />
     </main>
   );
 }
