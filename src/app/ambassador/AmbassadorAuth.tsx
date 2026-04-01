@@ -28,7 +28,7 @@ export function AmbassadorAuth() {
     setError(null);
 
     try {
-      const res = await fetch("/api/ambassadors/login", {
+      const res = await fetch("/api/auth/signin", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ email: loginEmail, password: loginPassword }),
@@ -52,7 +52,7 @@ export function AmbassadorAuth() {
     setSuccess(null);
 
     try {
-      const res = await fetch("/api/ambassadors", {
+      const res = await fetch("/api/auth/signup", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
@@ -67,7 +67,7 @@ export function AmbassadorAuth() {
       const data = await res.json();
       if (!res.ok) throw new Error(data.error);
 
-      setSuccess("Registration submitted! You'll be notified when approved.");
+      setSuccess("Account created! Check your email to confirm, then sign in.");
       setMode("login");
     } catch (err) {
       setError(err instanceof Error ? err.message : "Registration failed");
@@ -94,7 +94,7 @@ export function AmbassadorAuth() {
             mode === "register" ? "bg-white text-foreground shadow-sm" : "text-muted"
           }`}
         >
-          Apply
+          Sign Up
         </button>
       </div>
 
@@ -151,9 +151,12 @@ export function AmbassadorAuth() {
       ) : (
         <Card>
           <form onSubmit={handleRegister} className="space-y-4">
+            <p className="text-sm text-muted">
+              Pick a pseudonym to protect your identity. We only use your zip code to show your region.
+            </p>
             <div>
               <label htmlFor="reg-name" className="block text-sm font-medium text-foreground mb-1">
-                Display Name
+                Display Name (pseudonym)
               </label>
               <input
                 id="reg-name"
@@ -163,12 +166,13 @@ export function AmbassadorAuth() {
                 required
                 minLength={2}
                 maxLength={50}
+                placeholder="e.g., HelpfulNeighbor42"
                 className="w-full px-3 py-2 border border-border rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-primary focus:border-primary"
               />
             </div>
             <div>
               <label htmlFor="reg-email" className="block text-sm font-medium text-foreground mb-1">
-                Email
+                Email (private, never shown)
               </label>
               <input
                 id="reg-email"
@@ -195,7 +199,7 @@ export function AmbassadorAuth() {
             </div>
             <div>
               <label htmlFor="reg-zip" className="block text-sm font-medium text-foreground mb-1">
-                Your Zip Code
+                Your Zip Code (determines your region)
               </label>
               <input
                 id="reg-zip"
@@ -218,7 +222,7 @@ export function AmbassadorAuth() {
                 onChange={(e) => setRegBio(e.target.value)}
                 rows={3}
                 maxLength={500}
-                placeholder="Tell us about your community involvement..."
+                placeholder="Tell the community a little about yourself..."
                 className="w-full px-3 py-2 border border-border rounded-lg text-sm resize-none focus:outline-none focus:ring-2 focus:ring-primary focus:border-primary"
               />
             </div>
@@ -227,10 +231,10 @@ export function AmbassadorAuth() {
               disabled={loading}
               className="w-full py-2.5 text-sm font-medium text-white bg-primary rounded-lg hover:bg-primary-hover disabled:opacity-50"
             >
-              {loading ? "Submitting..." : "Apply to be an Ambassador"}
+              {loading ? "Creating account..." : "Create Account"}
             </button>
             <p className="text-xs text-muted text-center">
-              Applications are reviewed by our team. You&apos;ll receive an email when approved.
+              Your email is kept private. Other users only see your display name and region.
             </p>
           </form>
         </Card>

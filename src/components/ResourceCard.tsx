@@ -8,8 +8,8 @@ interface ResourceCardProps {
 }
 
 export function ResourceCard({ resource }: ResourceCardProps) {
-  const verifiedDate = resource.verifiedAt
-    ? new Date(resource.verifiedAt).toLocaleDateString("en-US", {
+  const verifiedDate = resource.verified_at
+    ? new Date(resource.verified_at).toLocaleDateString("en-US", {
         month: "short",
         day: "numeric",
         year: "numeric",
@@ -42,10 +42,10 @@ export function ResourceCard({ resource }: ResourceCardProps) {
         </p>
 
         {/* Eligibility */}
-        {resource.eligibilitySummary && (
+        {resource.eligibility_summary && (
           <p className="text-muted text-sm">
             <span className="font-medium">Eligibility:</span>{" "}
-            {resource.eligibilitySummary}
+            {resource.eligibility_summary}
           </p>
         )}
 

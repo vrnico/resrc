@@ -1,58 +1,83 @@
 import type { NextRequest } from "next/server";
-import { prisma } from "@/lib/db";
+import { createClient } from "@/lib/supabase/server";
+import { requireRole } from "@/lib/auth";
 
-function isAdmin(request: NextRequest): boolean {
-  const authHeader = request.headers.get("authorization");
-  if (!authHeader?.startsWith("Bearer ")) return false;
-  return authHeader.slice(7) === process.env.ADMIN_PASSWORD;
-}
-
+// GET flagged posts and pending events
 export async function GET(request: NextRequest) {
-  if (!isAdmin(request)) {
-    return Response.json({ error: "Unauthorized" }, { status: 401 });
-  }
-
-  const url = request.nextUrl;
-  const status = url.searchParams.get("status") || "flagged";
-
-  const posts = await prisma.communityPost.findMany({
-    where: {
-      OR: [
-        { status },
-        { flags: { gte: 3 } },
-      ],
-    },
-    orderBy: { createdAt: "desc" },
-    include: {
-      zip: { select: { city: true, stateCode: true } },
-      ambassador: {
-        select: { id: true, displayName: true, role: true },
-      },
-    },
-  });
-
-  return Response.json({
-    posts: posts.map((p) => ({
-      ...p,
-      createdAt: p.createdAt.toISOString(),
-      expiresAt: p.expiresAt?.toISOString() ?? null,
-    })),
-  });
-}
-
-export async function PATCH(request: NextRequest) {
-  if (!isAdmin(request)) {
-    return Response.json({ error: "Unauthorized" }, { status: 401 });
-  }
-
   try {
-    const body = await request.json();
-    const { id, action } = body;
+    await requireRole("moderator", "social_worker", "admin");
+    const supabase = await createClient();
 
-    if (!id || !action) {
-      return Response.json({ error: "Post ID and action required" }, { status: 400 });
+    const url = request.nextUrl;
+    const type = url.searchParams.get("type") || "posts"; // "posts" or "events"
+
+    if (type === "events") {
+      const status = url.searchParams.get("status") || "pending";
+      const { data: events } = await supabase
+        .from("events_with_author")
+        .select("*")
+        .eq("status", status)
+        .order("created_at", { ascending: false });
+
+      return Response.json({ events: events ?? [] });
     }
 
+    // Default: flagged posts
+    const status = url.searchParams.get("status") || "flagged";
+    const { data: posts } = await supabase
+      .from("posts_with_author")
+      .select("*")
+      .or(`status.eq.${status},flags.gte.3`)
+      .order("created_at", { ascending: false });
+
+    return Response.json({ posts: posts ?? [] });
+  } catch (error) {
+    if (error instanceof Response) return error;
+    console.error("GET /api/admin/moderation error:", error);
+    return Response.json({ error: "Internal server error" }, { status: 500 });
+  }
+}
+
+// PATCH — moderate posts or events
+export async function PATCH(request: NextRequest) {
+  try {
+    const profile = await requireRole("moderator", "social_worker", "admin");
+    const supabase = await createClient();
+    const body = await request.json();
+    const { id, type, action } = body;
+
+    if (!id || !action) {
+      return Response.json({ error: "ID and action required" }, { status: 400 });
+    }
+
+    // Moderate an event
+    if (type === "event") {
+      if (!["approve", "reject"].includes(action)) {
+        return Response.json({ error: "Invalid action for event" }, { status: 400 });
+      }
+
+      const updateData: Record<string, unknown> = {
+        status: action === "approve" ? "approved" : "rejected",
+      };
+      if (action === "approve") {
+        updateData.approved_by = profile.id;
+        updateData.approved_at = new Date().toISOString();
+      }
+
+      const { data: updated, error } = await supabase
+        .from("events")
+        .update(updateData)
+        .eq("id", id)
+        .select("id, status, approved_at")
+        .single();
+
+      if (error) {
+        return Response.json({ error: "Failed to moderate event" }, { status: 500 });
+      }
+      return Response.json(updated);
+    }
+
+    // Default: moderate a post
     let updateData: Record<string, unknown> = {};
     switch (action) {
       case "approve":
@@ -62,23 +87,28 @@ export async function PATCH(request: NextRequest) {
         updateData = { status: "removed" };
         break;
       case "pin":
-        updateData = { isPinned: true };
+        updateData = { is_pinned: true };
         break;
       case "unpin":
-        updateData = { isPinned: false };
+        updateData = { is_pinned: false };
         break;
       default:
         return Response.json({ error: "Invalid action" }, { status: 400 });
     }
 
-    const updated = await prisma.communityPost.update({
-      where: { id },
-      data: updateData,
-      select: { id: true, status: true, isPinned: true },
-    });
+    const { data: updated, error } = await supabase
+      .from("community_posts")
+      .update(updateData)
+      .eq("id", id)
+      .select("id, status, is_pinned")
+      .single();
 
+    if (error) {
+      return Response.json({ error: "Failed to moderate post" }, { status: 500 });
+    }
     return Response.json(updated);
   } catch (error) {
+    if (error instanceof Response) return error;
     console.error("PATCH /api/admin/moderation error:", error);
     return Response.json({ error: "Internal server error" }, { status: 500 });
   }

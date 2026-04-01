@@ -22,6 +22,32 @@ export const REPORT_CATEGORIES = [
 ] as const;
 export type ReportCategory = (typeof REPORT_CATEGORIES)[number];
 
+export const EVENT_CATEGORIES = [
+  "clothing_swap",
+  "free_food",
+  "mutual_aid",
+  "workshop",
+  "meetup",
+  "donation_drive",
+  "job_fair",
+  "health_screening",
+  "legal_clinic",
+  "other",
+] as const;
+export type EventCategory = (typeof EVENT_CATEGORIES)[number];
+
+export const USER_ROLES = ["user", "moderator", "social_worker", "admin"] as const;
+export type UserRole = (typeof USER_ROLES)[number];
+
+export const USER_STATUSES = ["active", "pending", "suspended"] as const;
+export type UserStatus = (typeof USER_STATUSES)[number];
+
+export const EVENT_STATUSES = ["pending", "approved", "rejected", "cancelled"] as const;
+export type EventStatus = (typeof EVENT_STATUSES)[number];
+
+export const EVENT_RECURRENCES = ["weekly", "biweekly", "monthly"] as const;
+export type EventRecurrence = (typeof EVENT_RECURRENCES)[number];
+
 export const REPORT_CATEGORY_LABELS: Record<ReportCategory, string> = {
   unsafe_housing: "Unsafe Housing Conditions",
   employer_abuse: "Employer Violations",
@@ -56,14 +82,25 @@ export const SCOPE_COLORS: Record<ResourceScope, string> = {
   zip_specific: "bg-emerald-100 text-emerald-700",
 };
 
-export const AMBASSADOR_STATUSES = ["pending", "approved", "suspended"] as const;
-export type AmbassadorStatus = (typeof AMBASSADOR_STATUSES)[number];
+export const EVENT_CATEGORY_LABELS: Record<EventCategory, string> = {
+  clothing_swap: "Clothing Swap",
+  free_food: "Free Food",
+  mutual_aid: "Mutual Aid",
+  workshop: "Workshop",
+  meetup: "Meetup",
+  donation_drive: "Donation Drive",
+  job_fair: "Job Fair",
+  health_screening: "Health Screening",
+  legal_clinic: "Legal Clinic",
+  other: "Other",
+};
 
-export const AMBASSADOR_ROLES = ["ambassador", "moderator"] as const;
-export type AmbassadorRole = (typeof AMBASSADOR_ROLES)[number];
-
-export const POST_TYPES = ["community", "ambassador"] as const;
-export type PostType = (typeof POST_TYPES)[number];
+export const ROLE_LABELS: Record<UserRole, string> = {
+  user: "Community Member",
+  moderator: "Ambassador",
+  social_worker: "Social Worker",
+  admin: "Administrator",
+};
 
 export const POST_CATEGORY_LABELS: Record<PostCategory, string> = {
   tip: "Tip",
@@ -74,9 +111,13 @@ export const POST_CATEGORY_LABELS: Record<PostCategory, string> = {
   event: "Event",
 };
 
-export const MAX_POST_LENGTH = 1000;
+export const MAX_POST_LENGTH = 2000;
+export const MAX_COMMENT_LENGTH = 2000;
 export const MAX_REPORT_LENGTH = 5000;
+export const MAX_EVENT_DESCRIPTION_LENGTH = 5000;
 export const POSTS_PER_PAGE = 25;
 export const RESOURCES_PER_PAGE = 20;
+export const COMMENTS_PER_PAGE = 50;
 export const FLAG_THRESHOLD = 3;
 export const POST_EXPIRY_DAYS = 90;
+export const MAX_COMMENT_DEPTH = 5;

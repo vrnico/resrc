@@ -4,27 +4,29 @@ import { useState, useEffect } from "react";
 import { useRouter } from "next/navigation";
 import { Card } from "@/components/ui/Card";
 import { Shield, Plus, LogOut, Send, Eye, EyeOff } from "lucide-react";
-import type { AmbassadorProfile } from "@/types/index";
-import { POST_CATEGORIES, POST_CATEGORY_LABELS } from "@/lib/constants";
+import type { UserProfile } from "@/types/index";
+import { POST_CATEGORIES, POST_CATEGORY_LABELS, ROLE_LABELS } from "@/lib/constants";
+import { createClient } from "@/lib/supabase/client";
 
 interface DashboardPost {
   id: string;
   title: string | null;
   body: string;
   category: string;
-  postType: string;
   upvotes: number;
+  downvotes: number;
   flags: number;
   status: string;
-  isPinned: boolean;
-  createdAt: string;
-  expiresAt: string | null;
-  zip: { zip: string; city: string; stateCode: string };
+  is_pinned: boolean;
+  created_at: string;
+  expires_at: string | null;
+  zip_code: string;
 }
 
 export function AmbassadorDashboard() {
   const router = useRouter();
-  const [profile, setProfile] = useState<AmbassadorProfile | null>(null);
+  const supabase = createClient();
+  const [profile, setProfile] = useState<UserProfile & { city?: string; state_code?: string } | null>(null);
   const [posts, setPosts] = useState<DashboardPost[]>([]);
   const [loading, setLoading] = useState(true);
   const [showNewPost, setShowNewPost] = useState(false);
@@ -39,26 +41,34 @@ export function AmbassadorDashboard() {
   const [postError, setPostError] = useState<string | null>(null);
 
   useEffect(() => {
-    Promise.all([
-      fetch("/api/ambassadors/me").then((r) => {
-        if (!r.ok) throw new Error("Not authenticated");
-        return r.json();
-      }),
-      fetch("/api/ambassadors/posts").then((r) => r.json()),
-    ])
-      .then(([profileData, postsData]) => {
+    async function load() {
+      try {
+        // Get current user profile
+        const res = await fetch("/api/auth/me");
+        if (!res.ok) throw new Error("Not authenticated");
+        const profileData = await res.json();
         setProfile(profileData);
-        setPosts(postsData.posts || []);
-        setPostZip(profileData.zipCode);
-      })
-      .catch(() => {
+        setPostZip(profileData.zip_code);
+
+        // Get user's posts
+        const { data: userPosts } = await supabase
+          .from("community_posts")
+          .select("*")
+          .eq("user_id", profileData.id)
+          .order("created_at", { ascending: false });
+
+        setPosts(userPosts ?? []);
+      } catch {
         router.push("/ambassador");
-      })
-      .finally(() => setLoading(false));
+      } finally {
+        setLoading(false);
+      }
+    }
+    load();
   }, [router]);
 
   async function handleLogout() {
-    await fetch("/api/ambassadors/me", { method: "DELETE" });
+    await fetch("/api/auth/signout", { method: "POST" });
     router.push("/ambassador");
   }
 
@@ -68,7 +78,7 @@ export function AmbassadorDashboard() {
     setPostError(null);
 
     try {
-      const res = await fetch("/api/ambassadors/posts", {
+      const res = await fetch("/api/feed", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
@@ -76,7 +86,6 @@ export function AmbassadorDashboard() {
           title: postTitle,
           body: postBody,
           category: postCategory,
-          expiresInDays: postExpiry ? parseInt(postExpiry) : undefined,
         }),
       });
 
@@ -84,9 +93,14 @@ export function AmbassadorDashboard() {
       if (!res.ok) throw new Error(data.error);
 
       // Refresh posts
-      const postsRes = await fetch("/api/ambassadors/posts");
-      const postsData = await postsRes.json();
-      setPosts(postsData.posts || []);
+      if (profile) {
+        const { data: userPosts } = await supabase
+          .from("community_posts")
+          .select("*")
+          .eq("user_id", profile.id)
+          .order("created_at", { ascending: false });
+        setPosts(userPosts ?? []);
+      }
 
       setShowNewPost(false);
       setPostTitle("");
@@ -111,13 +125,13 @@ export function AmbassadorDashboard() {
         <div>
           <div className="flex items-center gap-2">
             <Shield className="w-5 h-5 text-blue-600" />
-            <h1 className="text-xl font-bold text-foreground">{profile.displayName}</h1>
+            <h1 className="text-xl font-bold text-foreground">{profile.display_name}</h1>
             <span className="text-xs bg-blue-100 text-blue-700 px-2 py-0.5 rounded-full font-medium">
-              {profile.role}
+              {ROLE_LABELS[profile.role] ?? profile.role}
             </span>
           </div>
           <p className="text-sm text-muted mt-1">
-            {profile.zipCode} &middot; {profile.radius} mile radius
+            {profile.city && `${profile.city}, ${profile.state_code} · `}{profile.zip_code} · {profile.radius} mile radius
           </p>
         </div>
         <button
@@ -137,9 +151,9 @@ export function AmbassadorDashboard() {
         </Card>
         <Card className="text-center py-4">
           <p className="text-2xl font-bold text-foreground">
-            {posts.reduce((sum, p) => sum + p.upvotes, 0)}
+            {posts.reduce((sum, p) => sum + p.upvotes - p.downvotes, 0)}
           </p>
-          <p className="text-xs text-muted">Total Upvotes</p>
+          <p className="text-xs text-muted">Net Score</p>
         </Card>
         <Card className="text-center py-4">
           <p className="text-2xl font-bold text-foreground">
@@ -161,7 +175,7 @@ export function AmbassadorDashboard() {
       ) : (
         <Card>
           <form onSubmit={handleNewPost} className="space-y-4">
-            <h2 className="font-semibold text-foreground">New Ambassador Post</h2>
+            <h2 className="font-semibold text-foreground">New Post</h2>
 
             <div className="grid grid-cols-2 gap-4">
               <div>
@@ -176,35 +190,16 @@ export function AmbassadorDashboard() {
                 />
               </div>
               <div>
-                <label className="block text-xs font-medium text-muted mb-1">Expires in (days)</label>
-                <input
-                  type="number"
-                  value={postExpiry}
-                  onChange={(e) => setPostExpiry(e.target.value)}
-                  min="1"
-                  max="90"
+                <label className="block text-xs font-medium text-muted mb-1">Category</label>
+                <select
+                  value={postCategory}
+                  onChange={(e) => setPostCategory(e.target.value)}
                   className="w-full px-3 py-2 border border-border rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-primary"
-                />
-              </div>
-            </div>
-
-            <div>
-              <label className="block text-xs font-medium text-muted mb-1">Category</label>
-              <div className="flex gap-2 flex-wrap">
-                {POST_CATEGORIES.map((cat) => (
-                  <button
-                    key={cat}
-                    type="button"
-                    onClick={() => setPostCategory(cat)}
-                    className={`px-3 py-1 text-xs rounded-full font-medium transition-colors ${
-                      postCategory === cat
-                        ? "bg-primary text-white"
-                        : "bg-gray-100 text-gray-600 hover:bg-gray-200"
-                    }`}
-                  >
-                    {POST_CATEGORY_LABELS[cat]}
-                  </button>
-                ))}
+                >
+                  {POST_CATEGORIES.map((cat) => (
+                    <option key={cat} value={cat}>{POST_CATEGORY_LABELS[cat]}</option>
+                  ))}
+                </select>
               </div>
             </div>
 
@@ -289,10 +284,10 @@ export function AmbassadorDashboard() {
                 </div>
                 <p className="text-xs text-muted line-clamp-2">{post.body}</p>
                 <div className="flex items-center gap-4 text-xs text-muted">
-                  <span>{post.zip.city}, {post.zip.stateCode}</span>
-                  <span>{post.upvotes} upvotes</span>
+                  <span>{post.zip_code}</span>
+                  <span>{post.upvotes - post.downvotes} score</span>
                   {post.flags > 0 && <span className="text-red-500">{post.flags} flags</span>}
-                  <span>{new Date(post.createdAt).toLocaleDateString()}</span>
+                  <span>{new Date(post.created_at).toLocaleDateString()}</span>
                 </div>
               </div>
             </Card>

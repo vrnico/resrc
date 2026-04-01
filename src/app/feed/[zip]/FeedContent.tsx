@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useEffect } from "react";
-import { ThumbsUp, Flag, Shield, Pin, Clock, Plus, Send } from "lucide-react";
+import { ThumbsUp, ThumbsDown, Flag, Shield, Pin, Clock, Plus, Send } from "lucide-react";
 import { Card } from "@/components/ui/Card";
 import { Skeleton } from "@/components/ui/Skeleton";
 import type { FeedResponse, FeedPost } from "@/types/index";
@@ -23,7 +23,7 @@ function timeAgo(dateStr: string): string {
   return new Date(dateStr).toLocaleDateString();
 }
 
-function PostCard({ post, onUpvote }: { post: FeedPost; onUpvote: () => void }) {
+function PostCard({ post, onVote }: { post: FeedPost; onVote: (vote: 1 | -1) => void }) {
   const [flagged, setFlagged] = useState(false);
 
   async function handleFlag() {
@@ -32,25 +32,26 @@ function PostCard({ post, onUpvote }: { post: FeedPost; onUpvote: () => void }) 
     setFlagged(true);
   }
 
-  const isAmbassador = post.postType === "ambassador" && post.ambassador;
+  const isModerator = post.author_name && post.author_state;
   const categoryLabel = POST_CATEGORY_LABELS[post.category] ?? post.category;
+  const netVotes = post.upvotes - post.downvotes;
 
   return (
-    <Card className={`${post.isPinned ? "border-primary border-2" : ""} ${isAmbassador ? "bg-blue-50/50" : ""}`}>
+    <Card className={`${post.is_pinned ? "border-primary border-2" : ""}`}>
       <div className="space-y-2">
         {/* Header */}
         <div className="flex items-start justify-between gap-2">
           <div className="flex items-center gap-2 flex-wrap">
-            {post.isPinned && (
+            {post.is_pinned && (
               <span className="inline-flex items-center gap-1 text-xs text-primary font-medium">
                 <Pin className="w-3 h-3" /> Pinned
               </span>
             )}
-            {isAmbassador && (
+            {post.author_name && (
               <span className="inline-flex items-center gap-1 text-xs bg-blue-100 text-blue-700 px-2 py-0.5 rounded-full font-medium">
                 <Shield className="w-3 h-3" />
-                {post.ambassador!.displayName}
-                {post.ambassador!.role === "moderator" && " (Mod)"}
+                {post.author_name}
+                {post.author_city && ` from ${post.author_city}, ${post.author_state}`}
               </span>
             )}
             <span className="text-xs bg-gray-100 text-gray-600 px-2 py-0.5 rounded-full">
@@ -59,11 +60,11 @@ function PostCard({ post, onUpvote }: { post: FeedPost; onUpvote: () => void }) 
           </div>
           <span className="text-xs text-muted whitespace-nowrap flex items-center gap-1">
             <Clock className="w-3 h-3" />
-            {timeAgo(post.createdAt)}
+            {timeAgo(post.created_at)}
           </span>
         </div>
 
-        {/* Title (ambassador posts) */}
+        {/* Title */}
         {post.title && (
           <h3 className="font-semibold text-foreground">{post.title}</h3>
         )}
@@ -74,22 +75,43 @@ function PostCard({ post, onUpvote }: { post: FeedPost; onUpvote: () => void }) 
         </p>
 
         {/* Expiry */}
-        {post.expiresAt && (
+        {post.expires_at && (
           <p className="text-xs text-muted">
-            Expires {new Date(post.expiresAt).toLocaleDateString()}
+            Expires {new Date(post.expires_at).toLocaleDateString()}
           </p>
         )}
 
-        {/* Actions */}
+        {/* Actions — Reddit-style voting */}
         <div className="flex items-center gap-4 pt-1">
-          <button
-            onClick={onUpvote}
-            className="inline-flex items-center gap-1 text-sm text-muted hover:text-primary transition-colors"
-            aria-label={`Upvote (${post.upvotes})`}
-          >
-            <ThumbsUp className="w-4 h-4" />
-            {post.upvotes > 0 && <span>{post.upvotes}</span>}
-          </button>
+          <div className="inline-flex items-center gap-1">
+            <button
+              onClick={() => onVote(1)}
+              className={`p-1 rounded transition-colors ${
+                post.user_vote === 1
+                  ? "text-primary"
+                  : "text-muted hover:text-primary"
+              }`}
+              aria-label="Upvote"
+            >
+              <ThumbsUp className="w-4 h-4" />
+            </button>
+            <span className={`text-sm font-medium ${
+              netVotes > 0 ? "text-primary" : netVotes < 0 ? "text-red-500" : "text-muted"
+            }`}>
+              {netVotes}
+            </span>
+            <button
+              onClick={() => onVote(-1)}
+              className={`p-1 rounded transition-colors ${
+                post.user_vote === -1
+                  ? "text-red-500"
+                  : "text-muted hover:text-red-500"
+              }`}
+              aria-label="Downvote"
+            >
+              <ThumbsDown className="w-4 h-4" />
+            </button>
+          </div>
           <button
             onClick={handleFlag}
             disabled={flagged}
@@ -181,12 +203,12 @@ function NewPostForm({ zip, onPostCreated }: { zip: string; onPostCreated: () =>
           onChange={(e) => setBody(e.target.value)}
           placeholder="Share a resource, tip, or question with your community..."
           rows={3}
-          maxLength={1000}
+          maxLength={2000}
           className="w-full px-3 py-2 border border-border rounded-lg text-sm resize-none focus:outline-none focus:ring-2 focus:ring-primary focus:border-primary"
         />
 
         <div className="flex items-center justify-between">
-          <span className="text-xs text-muted">{body.length}/1000</span>
+          <span className="text-xs text-muted">{body.length}/2000</span>
           <div className="flex gap-2">
             <button
               type="button"
@@ -227,17 +249,54 @@ export function FeedContent({ zip }: FeedContentProps) {
 
   useEffect(() => { loadFeed(); }, [zip]);
 
-  async function handleUpvote(postId: string) {
-    await fetch(`/api/feed/${postId}/upvote`, { method: "POST" });
-    setData((prev) => {
-      if (!prev) return prev;
-      return {
-        ...prev,
-        posts: prev.posts.map((p) =>
-          p.id === postId ? { ...p, upvotes: p.upvotes + 1 } : p
-        ),
-      };
-    });
+  async function handleVote(postId: string, vote: 1 | -1) {
+    const post = data?.posts.find((p) => p.id === postId);
+    if (!post) return;
+
+    // If already voted the same way, remove the vote
+    if (post.user_vote === vote) {
+      await fetch(`/api/feed/${postId}/vote`, { method: "DELETE" });
+      setData((prev) => {
+        if (!prev) return prev;
+        return {
+          ...prev,
+          posts: prev.posts.map((p) =>
+            p.id === postId
+              ? {
+                  ...p,
+                  upvotes: p.upvotes - (vote === 1 ? 1 : 0),
+                  downvotes: p.downvotes - (vote === -1 ? 1 : 0),
+                  user_vote: null,
+                }
+              : p
+          ),
+        };
+      });
+    } else {
+      await fetch(`/api/feed/${postId}/vote`, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ vote }),
+      });
+      setData((prev) => {
+        if (!prev) return prev;
+        return {
+          ...prev,
+          posts: prev.posts.map((p) => {
+            if (p.id !== postId) return p;
+            let upvotes = p.upvotes;
+            let downvotes = p.downvotes;
+            // Remove old vote
+            if (p.user_vote === 1) upvotes--;
+            if (p.user_vote === -1) downvotes--;
+            // Add new vote
+            if (vote === 1) upvotes++;
+            if (vote === -1) downvotes++;
+            return { ...p, upvotes, downvotes, user_vote: vote as 1 | -1 };
+          }),
+        };
+      });
+    }
   }
 
   if (loading) {
@@ -258,12 +317,6 @@ export function FeedContent({ zip }: FeedContentProps) {
         <h1 className="text-xl sm:text-2xl font-bold text-foreground">
           Community Feed
         </h1>
-        {data && data.ambassadorCount > 0 && (
-          <span className="text-xs text-blue-600 bg-blue-50 px-2 py-1 rounded-full">
-            <Shield className="w-3 h-3 inline mr-1" />
-            {data.ambassadorCount} ambassador{data.ambassadorCount !== 1 ? "s" : ""} active
-          </span>
-        )}
       </div>
 
       <NewPostForm zip={zip} onPostCreated={loadFeed} />
@@ -278,7 +331,7 @@ export function FeedContent({ zip }: FeedContentProps) {
           <PostCard
             key={post.id}
             post={post}
-            onUpvote={() => handleUpvote(post.id)}
+            onVote={(vote) => handleVote(post.id, vote)}
           />
         ))
       )}

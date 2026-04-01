@@ -2,20 +2,19 @@
 
 import { useState, useEffect } from "react";
 import { Card } from "@/components/ui/Card";
-import { Shield, Users, Flag, FileText, Check, X, Eye } from "lucide-react";
+import { Shield, Users, Flag, FileText, Calendar, Check, X, Eye } from "lucide-react";
+import { ROLE_LABELS } from "@/lib/constants";
 
-interface AdminAmbassador {
+interface AdminUser {
   id: string;
-  displayName: string;
-  email: string;
-  bio: string | null;
-  zipCode: string;
-  radius: number;
-  status: string;
+  display_name: string;
+  zip_code: string;
   role: string;
-  postCount: number;
-  verifiedAt: string | null;
-  createdAt: string;
+  status: string;
+  bio: string | null;
+  city: string;
+  state_code: string;
+  created_at: string;
 }
 
 interface ModPost {
@@ -23,56 +22,89 @@ interface ModPost {
   title: string | null;
   body: string;
   category: string;
-  postType: string;
   upvotes: number;
+  downvotes: number;
   flags: number;
   status: string;
-  isPinned: boolean;
-  createdAt: string;
-  zip: { city: string; stateCode: string };
-  ambassador: { id: string; displayName: string; role: string } | null;
+  is_pinned: boolean;
+  created_at: string;
+  author_name: string | null;
+  author_city: string | null;
+  author_state: string | null;
+}
+
+interface ModEvent {
+  id: string;
+  title: string;
+  description: string;
+  category: string;
+  event_date: string;
+  location: string | null;
+  status: string;
+  author_name: string;
+  event_city: string;
+  event_state: string;
+  created_at: string;
 }
 
 export function AdminDashboard() {
   const [authed, setAuthed] = useState(false);
-  const [password, setPassword] = useState("");
-  const [tab, setTab] = useState<"ambassadors" | "moderation">("ambassadors");
-  const [ambassadors, setAmbassadors] = useState<AdminAmbassador[]>([]);
+  const [checkingAuth, setCheckingAuth] = useState(true);
+  const [tab, setTab] = useState<"users" | "moderation" | "events">("users");
+  const [users, setUsers] = useState<AdminUser[]>([]);
   const [posts, setPosts] = useState<ModPost[]>([]);
+  const [events, setEvents] = useState<ModEvent[]>([]);
   const [loading, setLoading] = useState(false);
 
-  function authHeaders() {
-    return { Authorization: `Bearer ${password}` };
-  }
+  // Check if user is already authenticated as admin
+  useEffect(() => {
+    fetch("/api/auth/me")
+      .then((r) => r.ok ? r.json() : Promise.reject())
+      .then((data) => {
+        if (data.role === "admin") {
+          setAuthed(true);
+          loadData();
+        }
+      })
+      .catch(() => {})
+      .finally(() => setCheckingAuth(false));
+  }, []);
 
   async function loadData() {
     setLoading(true);
     try {
-      const [ambRes, modRes] = await Promise.all([
-        fetch("/api/admin/ambassadors", { headers: authHeaders() }),
-        fetch("/api/admin/moderation", { headers: authHeaders() }),
+      const [usersRes, postsRes, eventsRes] = await Promise.all([
+        fetch("/api/admin/users"),
+        fetch("/api/admin/moderation"),
+        fetch("/api/admin/moderation?type=events"),
       ]);
 
-      if (!ambRes.ok) throw new Error("Unauthorized");
+      if (!usersRes.ok) throw new Error("Unauthorized");
 
-      const ambData = await ambRes.json();
-      const modData = await modRes.json();
-      setAmbassadors(ambData.ambassadors || []);
-      setPosts(modData.posts || []);
+      const usersData = await usersRes.json();
+      const postsData = await postsRes.json();
+      const eventsData = await eventsRes.json();
+
+      setUsers(usersData.users || []);
+      setPosts(postsData.posts || []);
+      setEvents(eventsData.events || []);
       setAuthed(true);
     } catch {
       setAuthed(false);
-      alert("Invalid admin password");
     } finally {
       setLoading(false);
     }
   }
 
-  async function updateAmbassador(id: string, status: string) {
-    await fetch("/api/admin/ambassadors", {
+  async function updateUser(userId: string, field: "role" | "status", value: string) {
+    const body = field === "role"
+      ? { userId, role: value }
+      : { userId, status: value };
+
+    await fetch("/api/admin/users", {
       method: "PATCH",
-      headers: { "Content-Type": "application/json", ...authHeaders() },
-      body: JSON.stringify({ id, status }),
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(body),
     });
     loadData();
   }
@@ -80,70 +112,68 @@ export function AdminDashboard() {
   async function moderatePost(id: string, action: string) {
     await fetch("/api/admin/moderation", {
       method: "PATCH",
-      headers: { "Content-Type": "application/json", ...authHeaders() },
+      headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ id, action }),
     });
     loadData();
   }
 
+  async function moderateEvent(id: string, action: string) {
+    await fetch("/api/admin/moderation", {
+      method: "PATCH",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ id, type: "event", action }),
+    });
+    loadData();
+  }
+
+  if (checkingAuth) {
+    return <div className="text-center py-12 text-muted">Checking authentication...</div>;
+  }
+
   if (!authed) {
     return (
       <div className="max-w-sm mx-auto mt-20">
-        <h1 className="text-2xl font-bold text-center mb-6">Admin Login</h1>
+        <h1 className="text-2xl font-bold text-center mb-6">Admin Access</h1>
         <Card>
-          <form
-            onSubmit={(e) => {
-              e.preventDefault();
-              loadData();
-            }}
-            className="space-y-4"
+          <p className="text-sm text-muted text-center py-4">
+            Sign in with an admin account to access this dashboard.
+          </p>
+          <a
+            href="/ambassador"
+            className="block w-full py-2 text-sm font-medium text-white bg-primary rounded-lg hover:bg-primary-hover text-center"
           >
-            <input
-              type="password"
-              value={password}
-              onChange={(e) => setPassword(e.target.value)}
-              placeholder="Admin password"
-              className="w-full px-3 py-2 border border-border rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-primary"
-            />
-            <button
-              type="submit"
-              disabled={loading}
-              className="w-full py-2 text-sm font-medium text-white bg-primary rounded-lg hover:bg-primary-hover disabled:opacity-50"
-            >
-              {loading ? "Checking..." : "Sign In"}
-            </button>
-          </form>
+            Sign In
+          </a>
         </Card>
       </div>
     );
   }
 
-  const pendingAmbassadors = ambassadors.filter((a) => a.status === "pending");
+  const pendingUsers = users.filter((u) => u.status === "pending");
   const flaggedPosts = posts.filter((p) => p.flags >= 3 || p.status === "flagged");
+  const pendingEvents = events.filter((e) => e.status === "pending");
 
   return (
     <div className="space-y-6">
       <div className="flex items-center justify-between">
         <h1 className="text-2xl font-bold text-foreground">Admin Dashboard</h1>
-        <button
-          onClick={loadData}
-          className="text-sm text-primary hover:underline"
-        >
+        <button onClick={loadData} className="text-sm text-primary hover:underline">
           Refresh
         </button>
       </div>
 
-      {/* Stats row */}
+      {/* Stats */}
       <div className="grid grid-cols-2 sm:grid-cols-4 gap-4">
         <Card className="text-center py-4">
           <Users className="w-5 h-5 mx-auto text-blue-500 mb-1" />
-          <p className="text-2xl font-bold">{ambassadors.length}</p>
-          <p className="text-xs text-muted">Ambassadors</p>
+          <p className="text-2xl font-bold">{users.length}</p>
+          <p className="text-xs text-muted">Users</p>
         </Card>
         <Card className="text-center py-4">
           <Shield className="w-5 h-5 mx-auto text-yellow-500 mb-1" />
-          <p className="text-2xl font-bold">{pendingAmbassadors.length}</p>
-          <p className="text-xs text-muted">Pending Approval</p>
+          <p className="text-2xl font-bold">{users.filter((u) => u.role === "moderator").length}</p>
+          <p className="text-xs text-muted">Moderators</p>
         </Card>
         <Card className="text-center py-4">
           <Flag className="w-5 h-5 mx-auto text-red-500 mb-1" />
@@ -151,95 +181,85 @@ export function AdminDashboard() {
           <p className="text-xs text-muted">Flagged Posts</p>
         </Card>
         <Card className="text-center py-4">
-          <FileText className="w-5 h-5 mx-auto text-green-500 mb-1" />
-          <p className="text-2xl font-bold">{posts.length}</p>
-          <p className="text-xs text-muted">Total Posts</p>
+          <Calendar className="w-5 h-5 mx-auto text-green-500 mb-1" />
+          <p className="text-2xl font-bold">{pendingEvents.length}</p>
+          <p className="text-xs text-muted">Pending Events</p>
         </Card>
       </div>
 
       {/* Tabs */}
       <div className="flex gap-4 border-b border-border">
-        <button
-          onClick={() => setTab("ambassadors")}
-          className={`pb-2 text-sm font-medium border-b-2 transition-colors ${
-            tab === "ambassadors"
-              ? "border-primary text-primary"
-              : "border-transparent text-muted hover:text-foreground"
-          }`}
-        >
-          Ambassadors ({ambassadors.length})
-        </button>
-        <button
-          onClick={() => setTab("moderation")}
-          className={`pb-2 text-sm font-medium border-b-2 transition-colors ${
-            tab === "moderation"
-              ? "border-primary text-primary"
-              : "border-transparent text-muted hover:text-foreground"
-          }`}
-        >
-          Moderation ({flaggedPosts.length})
-        </button>
+        {(["users", "moderation", "events"] as const).map((t) => (
+          <button
+            key={t}
+            onClick={() => setTab(t)}
+            className={`pb-2 text-sm font-medium border-b-2 transition-colors ${
+              tab === t
+                ? "border-primary text-primary"
+                : "border-transparent text-muted hover:text-foreground"
+            }`}
+          >
+            {t === "users" && `Users (${users.length})`}
+            {t === "moderation" && `Moderation (${flaggedPosts.length})`}
+            {t === "events" && `Events (${pendingEvents.length})`}
+          </button>
+        ))}
       </div>
 
-      {/* Ambassador Management */}
-      {tab === "ambassadors" && (
+      {/* Users Tab */}
+      {tab === "users" && (
         <div className="space-y-3">
-          {ambassadors.length === 0 ? (
-            <p className="text-center text-muted py-8">No ambassador applications yet.</p>
+          {users.length === 0 ? (
+            <p className="text-center text-muted py-8">No users yet.</p>
           ) : (
-            ambassadors.map((amb) => (
-              <Card key={amb.id}>
+            users.map((user) => (
+              <Card key={user.id}>
                 <div className="flex items-start justify-between gap-4">
                   <div className="flex-1 min-w-0">
                     <div className="flex items-center gap-2 flex-wrap">
-                      <span className="font-medium text-foreground">{amb.displayName}</span>
+                      <span className="font-medium text-foreground">{user.display_name}</span>
                       <span className={`text-xs px-2 py-0.5 rounded-full font-medium ${
-                        amb.status === "approved"
+                        user.status === "active"
                           ? "bg-green-100 text-green-700"
-                          : amb.status === "pending"
+                          : user.status === "pending"
                           ? "bg-yellow-100 text-yellow-700"
                           : "bg-red-100 text-red-700"
                       }`}>
-                        {amb.status}
+                        {user.status}
                       </span>
-                      <span className="text-xs text-muted">{amb.role}</span>
+                      <span className="text-xs bg-blue-100 text-blue-700 px-2 py-0.5 rounded-full">
+                        {ROLE_LABELS[user.role as keyof typeof ROLE_LABELS] ?? user.role}
+                      </span>
                     </div>
                     <p className="text-xs text-muted mt-1">
-                      {amb.email} &middot; {amb.zipCode} &middot; {amb.postCount} posts
+                      {user.city}, {user.state_code} ({user.zip_code})
                     </p>
-                    {amb.bio && <p className="text-xs text-muted mt-1 line-clamp-2">{amb.bio}</p>}
+                    {user.bio && <p className="text-xs text-muted mt-1 line-clamp-2">{user.bio}</p>}
                   </div>
                   <div className="flex gap-2 shrink-0">
-                    {amb.status === "pending" && (
-                      <>
-                        <button
-                          onClick={() => updateAmbassador(amb.id, "approved")}
-                          className="inline-flex items-center gap-1 px-3 py-1.5 text-xs font-medium text-green-700 bg-green-100 rounded-lg hover:bg-green-200"
-                        >
-                          <Check className="w-3 h-3" /> Approve
-                        </button>
-                        <button
-                          onClick={() => updateAmbassador(amb.id, "suspended")}
-                          className="inline-flex items-center gap-1 px-3 py-1.5 text-xs font-medium text-red-700 bg-red-100 rounded-lg hover:bg-red-200"
-                        >
-                          <X className="w-3 h-3" /> Reject
-                        </button>
-                      </>
-                    )}
-                    {amb.status === "approved" && (
+                    <select
+                      value={user.role}
+                      onChange={(e) => updateUser(user.id, "role", e.target.value)}
+                      className="text-xs border border-border rounded px-2 py-1"
+                    >
+                      <option value="user">User</option>
+                      <option value="moderator">Moderator</option>
+                      <option value="social_worker">Social Worker</option>
+                      <option value="admin">Admin</option>
+                    </select>
+                    {user.status === "active" ? (
                       <button
-                        onClick={() => updateAmbassador(amb.id, "suspended")}
-                        className="inline-flex items-center gap-1 px-3 py-1.5 text-xs font-medium text-red-700 bg-red-100 rounded-lg hover:bg-red-200"
+                        onClick={() => updateUser(user.id, "status", "suspended")}
+                        className="px-3 py-1.5 text-xs font-medium text-red-700 bg-red-100 rounded-lg hover:bg-red-200"
                       >
                         Suspend
                       </button>
-                    )}
-                    {amb.status === "suspended" && (
+                    ) : (
                       <button
-                        onClick={() => updateAmbassador(amb.id, "approved")}
-                        className="inline-flex items-center gap-1 px-3 py-1.5 text-xs font-medium text-green-700 bg-green-100 rounded-lg hover:bg-green-200"
+                        onClick={() => updateUser(user.id, "status", "active")}
+                        className="px-3 py-1.5 text-xs font-medium text-green-700 bg-green-100 rounded-lg hover:bg-green-200"
                       >
-                        Reinstate
+                        Activate
                       </button>
                     )}
                   </div>
@@ -250,7 +270,7 @@ export function AdminDashboard() {
         </div>
       )}
 
-      {/* Moderation Queue */}
+      {/* Moderation Tab */}
       {tab === "moderation" && (
         <div className="space-y-3">
           {flaggedPosts.length === 0 ? (
@@ -267,14 +287,14 @@ export function AdminDashboard() {
                       <span className="text-xs bg-red-100 text-red-700 px-2 py-0.5 rounded-full">
                         {post.flags} flags
                       </span>
-                      {post.ambassador && (
+                      {post.author_name && (
                         <span className="text-xs bg-blue-100 text-blue-700 px-2 py-0.5 rounded-full">
-                          by {post.ambassador.displayName}
+                          by {post.author_name}
                         </span>
                       )}
                     </div>
                     <span className="text-xs text-muted whitespace-nowrap">
-                      {post.zip.city}, {post.zip.stateCode}
+                      {post.author_city && `${post.author_city}, ${post.author_state}`}
                     </span>
                   </div>
                   <p className="text-sm text-foreground">{post.body}</p>
@@ -290,6 +310,52 @@ export function AdminDashboard() {
                       className="inline-flex items-center gap-1 px-3 py-1.5 text-xs font-medium text-red-700 bg-red-100 rounded-lg hover:bg-red-200"
                     >
                       <X className="w-3 h-3" /> Remove
+                    </button>
+                  </div>
+                </div>
+              </Card>
+            ))
+          )}
+        </div>
+      )}
+
+      {/* Events Tab */}
+      {tab === "events" && (
+        <div className="space-y-3">
+          {pendingEvents.length === 0 ? (
+            <p className="text-center text-muted py-8">No pending events.</p>
+          ) : (
+            pendingEvents.map((event) => (
+              <Card key={event.id}>
+                <div className="space-y-2">
+                  <div className="flex items-start justify-between gap-2">
+                    <div>
+                      <h3 className="font-medium text-foreground">{event.title}</h3>
+                      <p className="text-xs text-muted">
+                        by {event.author_name} &middot; {event.event_city}, {event.event_state}
+                      </p>
+                    </div>
+                    <div className="text-right">
+                      <p className="text-xs font-medium">{new Date(event.event_date).toLocaleDateString()}</p>
+                      <p className="text-xs text-muted">{event.category.replace("_", " ")}</p>
+                    </div>
+                  </div>
+                  <p className="text-sm text-foreground line-clamp-3">{event.description}</p>
+                  {event.location && (
+                    <p className="text-xs text-muted">Location: {event.location}</p>
+                  )}
+                  <div className="flex gap-2">
+                    <button
+                      onClick={() => moderateEvent(event.id, "approve")}
+                      className="inline-flex items-center gap-1 px-3 py-1.5 text-xs font-medium text-green-700 bg-green-100 rounded-lg hover:bg-green-200"
+                    >
+                      <Check className="w-3 h-3" /> Approve
+                    </button>
+                    <button
+                      onClick={() => moderateEvent(event.id, "reject")}
+                      className="inline-flex items-center gap-1 px-3 py-1.5 text-xs font-medium text-red-700 bg-red-100 rounded-lg hover:bg-red-200"
+                    >
+                      <X className="w-3 h-3" /> Reject
                     </button>
                   </div>
                 </div>

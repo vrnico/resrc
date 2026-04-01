@@ -1,70 +1,69 @@
-import { prisma } from "@/lib/db";
-import type { NextRequest } from "next/server";
+import { createClient } from "@/lib/supabase/server";
+import { createAdminClient } from "@/lib/supabase/admin";
+import type { UserRole } from "@/lib/constants";
 
-// Simple password hashing using Web Crypto API (no bcrypt dependency needed)
-export async function hashPassword(password: string): Promise<string> {
-  const encoder = new TextEncoder();
-  const salt = crypto.randomUUID();
-  const data = encoder.encode(salt + password);
-  const hashBuffer = await crypto.subtle.digest("SHA-256", data);
-  const hashArray = Array.from(new Uint8Array(hashBuffer));
-  const hashHex = hashArray.map((b) => b.toString(16).padStart(2, "0")).join("");
-  return `${salt}:${hashHex}`;
+export interface AuthUser {
+  id: string;
+  email: string;
 }
 
-export async function verifyPassword(password: string, stored: string): Promise<boolean> {
-  const [salt, hash] = stored.split(":");
-  if (!salt || !hash) return false;
-  const encoder = new TextEncoder();
-  const data = encoder.encode(salt + password);
-  const hashBuffer = await crypto.subtle.digest("SHA-256", data);
-  const hashArray = Array.from(new Uint8Array(hashBuffer));
-  const hashHex = hashArray.map((b) => b.toString(16).padStart(2, "0")).join("");
-  return hashHex === hash;
+export interface AuthProfile {
+  id: string;
+  display_name: string;
+  zip_code: string;
+  role: UserRole;
+  status: string;
+  bio: string | null;
+  radius: number;
 }
 
-// Simple token-based auth for ambassadors (stored as cookie)
-export function generateToken(): string {
-  return crypto.randomUUID() + "-" + crypto.randomUUID();
+// Get the authenticated user from the current request (server-side)
+export async function getUser(): Promise<AuthUser | null> {
+  const supabase = await createClient();
+  const { data: { user } } = await supabase.auth.getUser();
+  if (!user) return null;
+  return { id: user.id, email: user.email! };
 }
 
-// In-memory session store (MVP - upgrade to DB/Redis for production)
-const sessions = new Map<string, { ambassadorId: string; expiresAt: number }>();
+// Get the authenticated user's profile
+export async function getUserProfile(): Promise<AuthProfile | null> {
+  const user = await getUser();
+  if (!user) return null;
 
-export function createSession(ambassadorId: string): string {
-  const token = generateToken();
-  sessions.set(token, {
-    ambassadorId,
-    expiresAt: Date.now() + 7 * 24 * 60 * 60 * 1000, // 7 days
-  });
-  return token;
+  const supabase = await createClient();
+  const { data: profile } = await supabase
+    .from("profiles")
+    .select("*")
+    .eq("id", user.id)
+    .single();
+
+  if (!profile || profile.status === "suspended") return null;
+  return profile as AuthProfile;
 }
 
-export function getSession(token: string): string | null {
-  const session = sessions.get(token);
-  if (!session) return null;
-  if (Date.now() > session.expiresAt) {
-    sessions.delete(token);
-    return null;
+// Require authentication — returns user or throws Response
+export async function requireUser(): Promise<AuthUser> {
+  const user = await getUser();
+  if (!user) {
+    throw Response.json({ error: "Not authenticated" }, { status: 401 });
   }
-  return session.ambassadorId;
+  return user;
 }
 
-export function deleteSession(token: string): void {
-  sessions.delete(token);
+// Require a specific role or higher
+export async function requireRole(...roles: UserRole[]): Promise<AuthProfile> {
+  const profile = await getUserProfile();
+  if (!profile) {
+    throw Response.json({ error: "Not authenticated" }, { status: 401 });
+  }
+  if (!roles.includes(profile.role)) {
+    throw Response.json({ error: "Insufficient permissions" }, { status: 403 });
+  }
+  return profile;
 }
 
-export async function getAmbassadorFromRequest(request: NextRequest) {
-  const cookie = request.cookies.get("ambassador_token");
-  if (!cookie?.value) return null;
-
-  const ambassadorId = getSession(cookie.value);
-  if (!ambassadorId) return null;
-
-  const ambassador = await prisma.ambassador.findUnique({
-    where: { id: ambassadorId },
-  });
-
-  if (!ambassador || ambassador.status !== "approved") return null;
-  return ambassador;
+// Admin client operations (bypasses RLS)
+export async function adminUpdateProfile(userId: string, data: Partial<AuthProfile>) {
+  const admin = createAdminClient();
+  return admin.from("profiles").update(data).eq("id", userId);
 }

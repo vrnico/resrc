@@ -1,4 +1,13 @@
-import type { ResourceScope, PostCategory, ReportCategory, AmbassadorStatus, AmbassadorRole, PostType } from "@/lib/constants";
+import type {
+  ResourceScope,
+  PostCategory,
+  ReportCategory,
+  UserRole,
+  UserStatus,
+  EventCategory,
+  EventStatus,
+  EventRecurrence,
+} from "@/lib/constants";
 
 export interface LocationInfo {
   zip: string;
@@ -6,6 +15,30 @@ export interface LocationInfo {
   county: string;
   state: string;
 }
+
+// ---- User / Profile ----
+
+export interface UserProfile {
+  id: string;
+  display_name: string;
+  zip_code: string;
+  role: UserRole;
+  status: UserStatus;
+  bio: string | null;
+  radius: number;
+  created_at: string;
+  updated_at: string;
+}
+
+export interface UserProfilePublic {
+  id: string;
+  display_name: string;
+  role: UserRole;
+  city: string;
+  state_code: string;
+}
+
+// ---- Resources ----
 
 export interface ResourceResult {
   id: string;
@@ -21,11 +54,13 @@ export interface ResourceResult {
   url: string;
   phone: string | null;
   address: string | null;
-  eligibilitySummary: string | null;
-  incomeLimitNotes: string | null;
+  eligibility_summary: string | null;
+  income_limit_notes: string | null;
   hours: string | null;
   languages: string | null;
-  verifiedAt: string | null;
+  net_score: number;
+  verified_at: string | null;
+  user_vote?: 1 | -1 | null;  // current user's vote on this resource
 }
 
 export interface ResourcesResponse {
@@ -44,34 +79,44 @@ export interface CategoryCount {
   count: number;
 }
 
-export interface AmbassadorPublic {
+// ---- Resource Comments (nested threads) ----
+
+export interface ResourceComment {
   id: string;
-  displayName: string;
-  bio: string | null;
-  role: AmbassadorRole;
-  verifiedAt: string | null;
+  resource_id: string;
+  user_id: string;
+  parent_id: string | null;
+  body: string;
+  depth: number;
+  upvotes: number;
+  flags: number;
+  status: "visible" | "flagged" | "removed";
+  created_at: string;
+  updated_at: string;
+  author_name: string;
+  author_city: string;
+  author_state: string;
+  replies?: ResourceComment[];  // populated client-side from flat list
 }
 
-export interface AmbassadorProfile extends AmbassadorPublic {
-  email: string;
-  zipCode: string;
-  radius: number;
-  status: AmbassadorStatus;
-  createdAt: string;
-}
+// ---- Community Posts ----
 
 export interface FeedPost {
   id: string;
   body: string;
   title: string | null;
   category: PostCategory;
-  postType: PostType;
   upvotes: number;
+  downvotes: number;
   flags: number;
-  isPinned: boolean;
-  ambassador: AmbassadorPublic | null;
-  createdAt: string;
-  expiresAt: string | null;
+  is_pinned: boolean;
+  user_id: string | null;
+  author_name: string | null;
+  author_city: string | null;
+  author_state: string | null;
+  created_at: string;
+  expires_at: string | null;
+  user_vote?: 1 | -1 | null;
 }
 
 export interface FeedResponse {
@@ -79,8 +124,38 @@ export interface FeedResponse {
   total: number;
   page: number;
   totalPages: number;
-  ambassadorCount: number;
 }
+
+// ---- Events ----
+
+export interface CalendarEvent {
+  id: string;
+  user_id: string;
+  zip_code: string;
+  title: string;
+  description: string;
+  location: string | null;
+  category: EventCategory;
+  event_date: string;
+  end_date: string | null;
+  recurrence: EventRecurrence | null;
+  status: EventStatus;
+  author_name: string;
+  event_city: string;
+  event_state: string;
+  event_county: string;
+  approved_at: string | null;
+  created_at: string;
+}
+
+export interface EventsResponse {
+  events: CalendarEvent[];
+  total: number;
+  page: number;
+  totalPages: number;
+}
+
+// ---- Reports ----
 
 export interface ReportSubmission {
   zip: string;
@@ -95,6 +170,8 @@ export interface ReportAggregation {
   category: ReportCategory;
   count: number;
 }
+
+// ---- Common ----
 
 export interface ApiError {
   error: string;
