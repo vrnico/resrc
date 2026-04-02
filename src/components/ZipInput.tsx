@@ -16,16 +16,17 @@ export function ZipInput() {
 
   function handleSubmit(e: FormEvent) {
     e.preventDefault();
-    const trimmed = zip.trim();
+    // Extract just the digits, take first 5
+    const digits = zip.replace(/\D/g, "").slice(0, 5);
 
-    if (!/^\d{5}$/.test(trimmed)) {
+    if (digits.length !== 5) {
       setError("Please enter a valid 5-digit zip code.");
       inputRef.current?.focus();
       return;
     }
 
     setError("");
-    router.push(`/results?zip=${trimmed}`);
+    router.push(`/results?zip=${digits}`);
   }
 
   return (
@@ -37,10 +38,10 @@ export function ZipInput() {
             type="text"
             inputMode="numeric"
             maxLength={5}
-            autoComplete="postal-code"
+            autoComplete="off"
             value={zip}
             onChange={(e) => {
-              const val = e.target.value.replace(/\D/g, "");
+              const val = e.target.value.replace(/\D/g, "").slice(0, 5);
               setZip(val);
               if (error) setError("");
             }}
