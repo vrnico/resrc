@@ -2,6 +2,7 @@
 
 import { useState, useEffect, useCallback } from "react";
 import Link from "next/link";
+import { useRouter } from "next/navigation";
 import { ExternalLink, Phone, MapPin, ChevronUp, ChevronDown, MessageSquare, ArrowLeft } from "lucide-react";
 import { Badge } from "@/components/ui/Badge";
 import { Card } from "@/components/ui/Card";
@@ -23,6 +24,7 @@ export function ResourceDetail({ id }: ResourceDetailProps) {
   const [replyBody, setReplyBody] = useState("");
   const [submitting, setSubmitting] = useState(false);
   const [voting, setVoting] = useState(false);
+  const router = useRouter();
 
   const fetchResource = useCallback(async () => {
     try {
@@ -81,7 +83,7 @@ export function ResourceDetail({ id }: ResourceDetailProps) {
           const data = await res.json();
           setResource((r) => r ? { ...r, net_score: data.net_score, user_vote: null } : r);
         } else if (res.status === 401) {
-          alert("Please sign in to vote.");
+          router.push(`/signin?returnTo=/resources/${id}`);
         }
       } else {
         const res = await fetch(`/api/resources/${id}/vote`, {
@@ -93,7 +95,7 @@ export function ResourceDetail({ id }: ResourceDetailProps) {
           const data = await res.json();
           setResource((r) => r ? { ...r, net_score: data.net_score, user_vote: data.user_vote } : r);
         } else if (res.status === 401) {
-          alert("Please sign in to vote.");
+          router.push(`/signin?returnTo=/resources/${id}`);
         }
       }
     } catch {
@@ -113,7 +115,7 @@ export function ResourceDetail({ id }: ResourceDetailProps) {
         body: JSON.stringify({ body, parentId }),
       });
       if (res.status === 401) {
-        alert("Please sign in to comment.");
+        router.push(`/signin?returnTo=/resources/${id}`);
         return;
       }
       if (res.ok) {
