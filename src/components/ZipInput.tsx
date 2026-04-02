@@ -36,8 +36,8 @@ export function ZipInput() {
             ref={inputRef}
             type="text"
             inputMode="numeric"
-            pattern="\d*"
             maxLength={5}
+            autoComplete="postal-code"
             value={zip}
             onChange={(e) => {
               const val = e.target.value.replace(/\D/g, "");
