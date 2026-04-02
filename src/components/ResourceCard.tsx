@@ -1,3 +1,7 @@
+"use client";
+
+import { useState } from "react";
+import { useRouter } from "next/navigation";
 import { ExternalLink, Phone, MapPin, ChevronUp, ChevronDown, MessageSquare } from "lucide-react";
 import { Badge } from "@/components/ui/Badge";
 import { Card } from "@/components/ui/Card";
@@ -8,7 +12,43 @@ interface ResourceCardProps {
   resource: ResourceResult;
 }
 
-export function ResourceCard({ resource }: ResourceCardProps) {
+export function ResourceCard({ resource: initialResource }: ResourceCardProps) {
+  const [resource, setResource] = useState(initialResource);
+  const [voting, setVoting] = useState(false);
+  const router = useRouter();
+
+  async function handleVote(vote: 1 | -1) {
+    if (voting) return;
+    setVoting(true);
+    try {
+      if (resource.user_vote === vote) {
+        const res = await fetch(`/api/resources/${resource.id}/vote`, { method: "DELETE" });
+        if (res.ok) {
+          const data = await res.json();
+          setResource((r) => ({ ...r, net_score: data.net_score, user_vote: null }));
+        } else if (res.status === 401) {
+          router.push(`/signin?returnTo=/results?zip=${new URLSearchParams(window.location.search).get("zip") || ""}`);
+        }
+      } else {
+        const res = await fetch(`/api/resources/${resource.id}/vote`, {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ vote }),
+        });
+        if (res.ok) {
+          const data = await res.json();
+          setResource((r) => ({ ...r, net_score: data.net_score, user_vote: data.user_vote }));
+        } else if (res.status === 401) {
+          router.push(`/signin?returnTo=/results?zip=${new URLSearchParams(window.location.search).get("zip") || ""}`);
+        }
+      }
+    } catch {
+      // Silently fail
+    } finally {
+      setVoting(false);
+    }
+  }
+
   const verifiedDate = resource.verified_at
     ? new Date(resource.verified_at).toLocaleDateString("en-US", {
         month: "short",
@@ -23,19 +63,37 @@ export function ResourceCard({ resource }: ResourceCardProps) {
       tabIndex={0}
     >
       <div className="flex gap-3">
-        {/* Vote indicator */}
+        {/* Vote buttons */}
         <div className="flex flex-col items-center gap-0.5 shrink-0 pt-1">
-          <ChevronUp className={`w-5 h-5 ${
-            resource.user_vote === 1 ? "text-primary" : "text-muted"
-          }`} />
+          <button
+            onClick={() => handleVote(1)}
+            disabled={voting}
+            className={`p-0.5 rounded transition-colors ${
+              resource.user_vote === 1
+                ? "text-primary bg-primary-light"
+                : "text-muted hover:text-primary hover:bg-primary-light"
+            }`}
+            aria-label="Upvote"
+          >
+            <ChevronUp className="w-5 h-5" />
+          </button>
           <span className={`text-xs font-semibold tabular-nums ${
             resource.net_score > 0 ? "text-primary" : resource.net_score < 0 ? "text-error" : "text-muted"
           }`}>
             {resource.net_score}
           </span>
-          <ChevronDown className={`w-5 h-5 ${
-            resource.user_vote === -1 ? "text-error" : "text-muted"
-          }`} />
+          <button
+            onClick={() => handleVote(-1)}
+            disabled={voting}
+            className={`p-0.5 rounded transition-colors ${
+              resource.user_vote === -1
+                ? "text-error bg-red-50"
+                : "text-muted hover:text-error hover:bg-red-50"
+            }`}
+            aria-label="Downvote"
+          >
+            <ChevronDown className="w-5 h-5" />
+          </button>
         </div>
 
         {/* Content */}

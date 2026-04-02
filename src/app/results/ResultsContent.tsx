@@ -1,10 +1,33 @@
 "use client";
 
-import { useState, useEffect } from "react";
+import { useState, useEffect, useMemo } from "react";
 import { ResourceCard } from "@/components/ResourceCard";
 import { CategoryFilter, type CategoryOption } from "@/components/CategoryFilter";
 import { Skeleton } from "@/components/ui/Skeleton";
 import type { ResourcesResponse, ResourceResult } from "@/types/index";
+
+type SortMode = "relevant" | "top" | "new" | "controversial";
+
+function sortResources(resources: ResourceResult[], mode: SortMode): ResourceResult[] {
+  const sorted = [...resources];
+  switch (mode) {
+    case "top":
+      return sorted.sort((a, b) => b.net_score - a.net_score);
+    case "new":
+      return sorted.sort((a, b) => {
+        const dateA = a.verified_at ? new Date(a.verified_at).getTime() : 0;
+        const dateB = b.verified_at ? new Date(b.verified_at).getTime() : 0;
+        return dateB - dateA;
+      });
+    case "controversial":
+      // Resources with scores closest to 0 but with votes (activity) first
+      // Since we only have net_score, treat low absolute score as controversial
+      return sorted.sort((a, b) => Math.abs(a.net_score) - Math.abs(b.net_score));
+    case "relevant":
+    default:
+      return sorted; // API default order (local scope first, then score)
+  }
+}
 
 interface ResultsContentProps {
   zip: string;
@@ -12,6 +35,7 @@ interface ResultsContentProps {
 
 export function ResultsContent({ zip }: ResultsContentProps) {
   const [selectedCategory, setSelectedCategory] = useState("all");
+  const [sortMode, setSortMode] = useState<SortMode>("relevant");
   const [data, setData] = useState<ResourcesResponse | null>(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
@@ -87,10 +111,22 @@ export function ResultsContent({ zip }: ResultsContentProps) {
 
   const { location, results, total, categories } = data;
 
+  const sortedResults = useMemo(
+    () => sortResources(results, sortMode),
+    [results, sortMode]
+  );
+
   const categoryOptions: CategoryOption[] = categories.map((c) => ({
     slug: c.slug,
     name: `${c.name} (${c.count})`,
   }));
+
+  const sortOptions: { value: SortMode; label: string }[] = [
+    { value: "relevant", label: "Relevant" },
+    { value: "top", label: "Top" },
+    { value: "new", label: "New" },
+    { value: "controversial", label: "Controversial" },
+  ];
 
   return (
     <>
@@ -108,17 +144,34 @@ export function ResultsContent({ zip }: ResultsContentProps) {
         />
       </div>
 
-      {/* Results count */}
-      <p className="mt-4 text-sm text-muted">
-        {results.length} of {total}{" "}
-        {total === 1 ? "resource" : "resources"}
-        {selectedCategory !== "all" ? ` in ${selectedCategory}` : ""}
-      </p>
+      {/* Sort + count row */}
+      <div className="mt-4 flex flex-wrap items-center justify-between gap-2">
+        <p className="text-sm text-muted">
+          {results.length} of {total}{" "}
+          {total === 1 ? "resource" : "resources"}
+          {selectedCategory !== "all" ? ` in ${selectedCategory}` : ""}
+        </p>
+        <div className="flex items-center gap-1">
+          {sortOptions.map((opt) => (
+            <button
+              key={opt.value}
+              onClick={() => setSortMode(opt.value)}
+              className={`px-2.5 py-1 text-xs font-medium rounded-md transition-colors ${
+                sortMode === opt.value
+                  ? "bg-primary text-white"
+                  : "text-muted hover:text-foreground hover:bg-muted-bg"
+              }`}
+            >
+              {opt.label}
+            </button>
+          ))}
+        </div>
+      </div>
 
       {/* Resource list */}
-      {results.length > 0 ? (
+      {sortedResults.length > 0 ? (
         <div className="mt-4 space-y-4">
-          {results.map((resource) => (
+          {sortedResults.map((resource) => (
             <ResourceCard key={resource.id} resource={resource} />
           ))}
         </div>
