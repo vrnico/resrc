@@ -1,4 +1,5 @@
 import Link from "next/link";
+import GitHubContributors from "@/components/GitHubContributors";
 
 export default function AboutPage() {
   return (
@@ -54,11 +55,40 @@ export default function AboutPage() {
           codes it serves. Eligibility summaries are written in plain language.
         </p>
 
+        <h2 className="text-xl font-semibold pt-4">Our team</h2>
+        <p>
+          Resrc is built, deployed, and maintained by developers from{" "}
+          <a
+            href="https://multiverse.school"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-primary hover:underline font-medium"
+          >
+            Multiverse School
+          </a>
+          .
+        </p>
+
+        <div className="mt-4 p-4 rounded-lg border border-border bg-card">
+          <h3 className="text-sm font-semibold text-muted-foreground uppercase tracking-wide mb-3">
+            Contributors &amp; Collaborators
+          </h3>
+          <GitHubContributors />
+        </div>
+
         <h2 className="text-xl font-semibold pt-4">Contact</h2>
         <p>
           If you notice a broken link, a missing program, or have suggestions,
-          you can submit a report through the site or contribute through our open
-          source repository.
+          you can submit a report through the site or contribute through our{" "}
+          <a
+            href="https://github.com/vrnico/resrc"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-primary hover:underline font-medium"
+          >
+            open source repository
+          </a>
+          .
         </p>
       </div>
 
