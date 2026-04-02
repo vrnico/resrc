@@ -14,6 +14,31 @@ export default function AboutPage() {
           zip code.
         </p>
 
+        {/* Team card */}
+        <div className="mt-6 p-6 rounded-xl border-2 border-primary/30 bg-card shadow-sm">
+          <p className="text-lg text-foreground">
+            Built and maintained by{" "}
+            <a
+              href="https://themultiverse.school"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-primary hover:underline font-bold text-xl"
+            >
+              The Multiverse School
+            </a>
+          </p>
+          <p className="text-muted-foreground mt-1 text-sm">
+            An open source community project — free for everyone, forever.
+          </p>
+
+          <div className="mt-5 pt-4 border-t border-border">
+            <h3 className="text-sm font-semibold text-muted-foreground uppercase tracking-wide mb-3">
+              Contributors &amp; Collaborators
+            </h3>
+            <GitHubContributors />
+          </div>
+        </div>
+
         <h2 className="text-xl font-semibold pt-4">Why we built this</h2>
         <p>
           Millions of people qualify for assistance programs but never access
@@ -55,38 +80,35 @@ export default function AboutPage() {
           codes it serves. Eligibility summaries are written in plain language.
         </p>
 
-        <h2 className="text-xl font-semibold pt-4">Our team</h2>
+        <h2 className="text-xl font-semibold pt-4">Open source</h2>
         <p>
-          Resrc is built, deployed, and maintained by developers from{" "}
-          <a
-            href="https://themultiverse.school"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-primary hover:underline font-medium"
-          >
-            The Multiverse School
-          </a>
-          .
-        </p>
-
-        <div className="mt-4 p-4 rounded-lg border border-border bg-card">
-          <h3 className="text-sm font-semibold text-muted-foreground uppercase tracking-wide mb-3">
-            Contributors &amp; Collaborators
-          </h3>
-          <GitHubContributors />
-        </div>
-
-        <h2 className="text-xl font-semibold pt-4">Contact</h2>
-        <p>
-          If you notice a broken link, a missing program, or have suggestions,
-          you can submit a report through the site or contribute through our{" "}
+          Resrc is fully open source. The entire codebase — from the resource
+          database to the front end — is available on{" "}
           <a
             href="https://github.com/vrnico/resrc"
             target="_blank"
             rel="noopener noreferrer"
             className="text-primary hover:underline font-medium"
           >
-            open source repository
+            GitHub
+          </a>
+          . We welcome contributions of all kinds: bug reports, feature ideas,
+          code improvements, or help verifying and adding resources for your
+          area. If you want to make assistance information more accessible,
+          there is a place for you here.
+        </p>
+
+        <h2 className="text-xl font-semibold pt-4">Contact</h2>
+        <p>
+          If you notice a broken link, a missing program, or have suggestions,
+          you can submit a report through the site or open an issue on our{" "}
+          <a
+            href="https://github.com/vrnico/resrc"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-primary hover:underline font-medium"
+          >
+            GitHub repository
           </a>
           .
         </p>
