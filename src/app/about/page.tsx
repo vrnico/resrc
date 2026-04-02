@@ -59,12 +59,12 @@ export default function AboutPage() {
         <p>
           Resrc is built, deployed, and maintained by developers from{" "}
           <a
-            href="https://multiverse.school"
+            href="https://themultiverse.school"
             target="_blank"
             rel="noopener noreferrer"
             className="text-primary hover:underline font-medium"
           >
-            Multiverse School
+            The Multiverse School
           </a>
           .
         </p>
