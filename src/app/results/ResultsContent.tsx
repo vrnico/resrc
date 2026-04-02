@@ -60,12 +60,10 @@ export function ResultsContent({ zip }: ResultsContentProps) {
   }, [zip]);
 
   // Fetch filtered results when category changes
-  useEffect(() => {
-    if (!data || selectedCategory === "all") return;
+  function fetchCategory(cat: string) {
+    if (!data || cat === "all") return;
 
-    // Don't re-fetch if we already have the data - filter client-side for the initial load
-    // but fetch from API for category filtering to get proper pagination
-    fetch(`/api/resources?zip=${zip}&category=${selectedCategory}`)
+    fetch(`/api/resources?zip=${zip}&category=${cat}`)
       .then(async (res) => {
         if (!res.ok) throw new Error("Failed to filter");
         return res.json();
@@ -77,10 +75,21 @@ export function ResultsContent({ zip }: ResultsContentProps) {
             : json
         );
       })
-      .catch(() => {
-        // Silently fail category filter - user still sees unfiltered results
-      });
-  }, [selectedCategory, zip]);
+      .catch(() => {});
+  }
+
+  function handleCategorySelect(cat: string) {
+    setSelectedCategory(cat);
+    if (cat !== "all") {
+      fetchCategory(cat);
+    } else if (data) {
+      // Reset to full results
+      fetch(`/api/resources?zip=${zip}`)
+        .then((res) => res.ok ? res.json() : null)
+        .then((json) => { if (json) setData(json); })
+        .catch(() => {});
+    }
+  }
 
   if (loading) {
     return (
@@ -140,7 +149,7 @@ export function ResultsContent({ zip }: ResultsContentProps) {
         <CategoryFilter
           categories={categoryOptions}
           selected={selectedCategory}
-          onSelect={setSelectedCategory}
+          onSelect={handleCategorySelect}
         />
       </div>
 
