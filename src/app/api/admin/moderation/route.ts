@@ -11,6 +11,16 @@ export async function GET(request: NextRequest) {
     const url = request.nextUrl;
     const type = url.searchParams.get("type") || "posts"; // "posts" or "events"
 
+    if (type === "resources") {
+      const { data: resources } = await supabase
+        .from("resources")
+        .select("*, categories(slug, name, icon), profiles(display_name)")
+        .eq("status", "pending")
+        .order("created_at", { ascending: false });
+
+      return Response.json({ resources: resources ?? [] });
+    }
+
     if (type === "events") {
       const status = url.searchParams.get("status") || "pending";
       const { data: events } = await supabase
@@ -48,6 +58,33 @@ export async function PATCH(request: NextRequest) {
 
     if (!id || !action) {
       return Response.json({ error: "ID and action required" }, { status: 400 });
+    }
+
+    // Moderate a resource submission
+    if (type === "resource") {
+      if (!["approve", "reject"].includes(action)) {
+        return Response.json({ error: "Invalid action for resource" }, { status: 400 });
+      }
+
+      const updateData: Record<string, unknown> = {
+        status: action === "approve" ? "approved" : "rejected",
+      };
+      if (action === "approve") {
+        updateData.verified_at = new Date().toISOString();
+        updateData.verified_by = profile.display_name;
+      }
+
+      const { data: updated, error } = await supabase
+        .from("resources")
+        .update(updateData)
+        .eq("id", id)
+        .select("id, status")
+        .single();
+
+      if (error) {
+        return Response.json({ error: "Failed to moderate resource" }, { status: 500 });
+      }
+      return Response.json(updated);
     }
 
     // Moderate an event

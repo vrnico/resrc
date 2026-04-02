@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from "react";
 import { Card } from "@/components/ui/Card";
-import { Shield, Users, Flag, FileText, Calendar, Check, X, Eye } from "lucide-react";
+import { Shield, Users, Flag, FileText, Calendar, Check, X, Eye, Package } from "lucide-react";
 import { ROLE_LABELS } from "@/lib/constants";
 
 interface AdminUser {
@@ -47,13 +47,28 @@ interface ModEvent {
   created_at: string;
 }
 
+interface PendingResource {
+  id: string;
+  name: string;
+  description: string;
+  scope: string;
+  url: string;
+  state_code: string | null;
+  county: string | null;
+  status: string;
+  created_at: string;
+  categories: { slug: string; name: string; icon: string } | null;
+  profiles: { display_name: string } | null;
+}
+
 export function AdminDashboard() {
   const [authed, setAuthed] = useState(false);
   const [checkingAuth, setCheckingAuth] = useState(true);
-  const [tab, setTab] = useState<"users" | "moderation" | "events">("users");
+  const [tab, setTab] = useState<"users" | "resources" | "moderation" | "events">("users");
   const [users, setUsers] = useState<AdminUser[]>([]);
   const [posts, setPosts] = useState<ModPost[]>([]);
   const [events, setEvents] = useState<ModEvent[]>([]);
+  const [pendingResources, setPendingResources] = useState<PendingResource[]>([]);
   const [loading, setLoading] = useState(false);
 
   // Check if user is already authenticated as admin
@@ -73,10 +88,11 @@ export function AdminDashboard() {
   async function loadData() {
     setLoading(true);
     try {
-      const [usersRes, postsRes, eventsRes] = await Promise.all([
+      const [usersRes, postsRes, eventsRes, resourcesRes] = await Promise.all([
         fetch("/api/admin/users"),
         fetch("/api/admin/moderation"),
         fetch("/api/admin/moderation?type=events"),
+        fetch("/api/admin/moderation?type=resources"),
       ]);
 
       if (!usersRes.ok) throw new Error("Unauthorized");
@@ -84,10 +100,12 @@ export function AdminDashboard() {
       const usersData = await usersRes.json();
       const postsData = await postsRes.json();
       const eventsData = await eventsRes.json();
+      const resourcesData = await resourcesRes.json();
 
       setUsers(usersData.users || []);
       setPosts(postsData.posts || []);
       setEvents(eventsData.events || []);
+      setPendingResources(resourcesData.resources || []);
       setAuthed(true);
     } catch {
       setAuthed(false);
@@ -127,6 +145,15 @@ export function AdminDashboard() {
     loadData();
   }
 
+  async function moderateResource(id: string, action: string) {
+    await fetch("/api/admin/moderation", {
+      method: "PATCH",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ id, type: "resource", action }),
+    });
+    loadData();
+  }
+
   if (checkingAuth) {
     return <div className="text-center py-12 text-muted">Checking authentication...</div>;
   }
@@ -140,7 +167,7 @@ export function AdminDashboard() {
             Sign in with an admin account to access this dashboard.
           </p>
           <a
-            href="/ambassador"
+            href="/signin"
             className="block w-full py-2 text-sm font-medium text-white bg-primary rounded-lg hover:bg-primary-hover text-center"
           >
             Sign In
@@ -164,7 +191,7 @@ export function AdminDashboard() {
       </div>
 
       {/* Stats */}
-      <div className="grid grid-cols-2 sm:grid-cols-4 gap-4">
+      <div className="grid grid-cols-2 sm:grid-cols-5 gap-4">
         <Card className="text-center py-4">
           <Users className="w-5 h-5 mx-auto text-blue-500 mb-1" />
           <p className="text-2xl font-bold">{users.length}</p>
@@ -174,6 +201,11 @@ export function AdminDashboard() {
           <Shield className="w-5 h-5 mx-auto text-yellow-500 mb-1" />
           <p className="text-2xl font-bold">{users.filter((u) => u.role === "moderator").length}</p>
           <p className="text-xs text-muted">Moderators</p>
+        </Card>
+        <Card className="text-center py-4">
+          <Package className="w-5 h-5 mx-auto text-purple-500 mb-1" />
+          <p className="text-2xl font-bold">{pendingResources.length}</p>
+          <p className="text-xs text-muted">Pending Resources</p>
         </Card>
         <Card className="text-center py-4">
           <Flag className="w-5 h-5 mx-auto text-red-500 mb-1" />
@@ -188,19 +220,20 @@ export function AdminDashboard() {
       </div>
 
       {/* Tabs */}
-      <div className="flex gap-4 border-b border-border">
-        {(["users", "moderation", "events"] as const).map((t) => (
+      <div className="flex gap-4 border-b border-border overflow-x-auto">
+        {(["users", "resources", "moderation", "events"] as const).map((t) => (
           <button
             key={t}
             onClick={() => setTab(t)}
-            className={`pb-2 text-sm font-medium border-b-2 transition-colors ${
+            className={`pb-2 text-sm font-medium border-b-2 transition-colors whitespace-nowrap ${
               tab === t
                 ? "border-primary text-primary"
                 : "border-transparent text-muted hover:text-foreground"
             }`}
           >
             {t === "users" && `Users (${users.length})`}
-            {t === "moderation" && `Moderation (${flaggedPosts.length})`}
+            {t === "resources" && `Resources (${pendingResources.length})`}
+            {t === "moderation" && `Posts (${flaggedPosts.length})`}
             {t === "events" && `Events (${pendingEvents.length})`}
           </button>
         ))}
@@ -262,6 +295,60 @@ export function AdminDashboard() {
                         Activate
                       </button>
                     )}
+                  </div>
+                </div>
+              </Card>
+            ))
+          )}
+        </div>
+      )}
+
+      {/* Resources Tab */}
+      {tab === "resources" && (
+        <div className="space-y-3">
+          {pendingResources.length === 0 ? (
+            <p className="text-center text-muted py-8">No pending resources.</p>
+          ) : (
+            pendingResources.map((resource) => (
+              <Card key={resource.id}>
+                <div className="space-y-2">
+                  <div className="flex items-start justify-between gap-2">
+                    <div>
+                      <h3 className="font-medium text-foreground">{resource.name}</h3>
+                      <p className="text-xs text-muted">
+                        {resource.categories?.name} &middot; {resource.scope}
+                        {resource.state_code && ` &middot; ${resource.state_code}`}
+                        {resource.county && ` &middot; ${resource.county}`}
+                      </p>
+                      {resource.profiles && (
+                        <p className="text-xs text-muted">
+                          Submitted by {resource.profiles.display_name}
+                        </p>
+                      )}
+                    </div>
+                    <a
+                      href={resource.url}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="text-xs text-primary hover:underline shrink-0"
+                    >
+                      Visit URL
+                    </a>
+                  </div>
+                  <p className="text-sm text-foreground line-clamp-3">{resource.description}</p>
+                  <div className="flex gap-2">
+                    <button
+                      onClick={() => moderateResource(resource.id, "approve")}
+                      className="inline-flex items-center gap-1 px-3 py-1.5 text-xs font-medium text-green-700 bg-green-100 rounded-lg hover:bg-green-200"
+                    >
+                      <Check className="w-3 h-3" /> Approve
+                    </button>
+                    <button
+                      onClick={() => moderateResource(resource.id, "reject")}
+                      className="inline-flex items-center gap-1 px-3 py-1.5 text-xs font-medium text-red-700 bg-red-100 rounded-lg hover:bg-red-200"
+                    >
+                      <X className="w-3 h-3" /> Reject
+                    </button>
                   </div>
                 </div>
               </Card>

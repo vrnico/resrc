@@ -43,6 +43,9 @@ export function SiteHeader() {
             <Link href="/about" className="text-muted hover:text-foreground transition-colors">
               About
             </Link>
+            <Link href="/submit" className="text-muted hover:text-foreground transition-colors">
+              Submit Resource
+            </Link>
             <Link href="/report" className="text-muted hover:text-foreground transition-colors">
               Report
             </Link>
@@ -54,12 +57,17 @@ export function SiteHeader() {
             <div className="w-20 h-8" />
           ) : user ? (
             <>
-              <Link
-                href="/ambassador/dashboard"
-                className="text-foreground font-medium hover:text-primary transition-colors"
-              >
+              {(user.role === "admin" || user.role === "moderator") && (
+                <Link
+                  href="/admin"
+                  className="text-muted hover:text-foreground transition-colors"
+                >
+                  Admin
+                </Link>
+              )}
+              <span className="text-foreground font-medium">
                 {user.display_name}
-              </Link>
+              </span>
               <button
                 onClick={handleSignOut}
                 className="text-muted hover:text-foreground transition-colors"

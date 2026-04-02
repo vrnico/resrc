@@ -36,7 +36,7 @@ export function ZipInput() {
             ref={inputRef}
             type="text"
             inputMode="numeric"
-            pattern="[0-9]*"
+            pattern="\d*"
             maxLength={5}
             value={zip}
             onChange={(e) => {
