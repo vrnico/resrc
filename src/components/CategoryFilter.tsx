@@ -55,7 +55,7 @@ export function CategoryFilter({
 
   return (
     <nav aria-label="Category filter">
-      <div className="flex gap-2 overflow-x-auto hide-scrollbar pb-2">
+      <div className="flex flex-wrap gap-2 pb-2">
         {allCategories.map((cat) => {
           const isActive = selected === cat.slug;
           const Icon = cat.slug === "all" ? LayoutGrid : iconMap[cat.slug];
