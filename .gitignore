@@ -45,3 +45,19 @@ next-env.d.ts
 # database
 *.db
 *.db-journal
+
+# archived / superseded scripts
+scripts/discovery/_archive/
+.superpowers/
+
+# Claude Code local state
+.claude/
+
+# Plugin / tool docs (generated)
+docs/
+
+# Discovery pipeline — all generated/ephemeral data except committed seeds
+scripts/discovery/data/*-zips.json
+scripts/discovery/data/*-batches.json
+scripts/discovery/data/input/
+scripts/discovery/data/output/
