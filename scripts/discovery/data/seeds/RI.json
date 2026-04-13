@@ -1,0 +1,866 @@
+[
+  {
+    "name": "East Bay Coalition for the Homeless (EBCAP)",
+    "description": "Since 1989, this EBCAP program has provided transitional housing apartments with case management, financial counseling, and supportive services to homeless families with children across the East Bay region.",
+    "address": "31 Railroad Ave, Warren, RI 02885",
+    "phone": "(401) 437-5104",
+    "url": "https://ebcap.org/programs/east-bay-coalition-homeless/",
+    "categorySlug": "housing",
+    "zipCode": "02885"
+  },
+  {
+    "name": "East Bay Community Action Program (EBCAP)",
+    "description": "A private nonprofit providing comprehensive health, dental, behavioral health, energy assistance, Head Start, and human services to residents of Rhode Island's East Bay communities including Bristol and Warren.",
+    "address": "220 High St, Bristol, RI 02809",
+    "phone": "(401) 302-6231",
+    "url": "https://ebcap.org",
+    "categorySlug": "community",
+    "zipCode": "02809"
+  },
+  {
+    "name": "East Bay Food Pantry and Thrift Shop",
+    "description": "A community food pantry serving the East Bay area offering guest-choice food shopping, fresh produce Fridays, a Food4Kids program for families, and mobile pantry delivery for homebound residents.",
+    "address": "532 Wood St, Bristol, RI 02809",
+    "phone": "(401) 396-9490",
+    "url": "https://eastbayfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "02809"
+  },
+  {
+    "name": "St. Mary of the Bay Food Pantry",
+    "description": "A Society of St. Vincent de Paul food pantry located at St. Mary of the Bay Catholic Church, serving East Bay residents with free groceries on a weekly basis.",
+    "address": "645 Main St, Warren, RI 02885",
+    "phone": "(401) 245-7000",
+    "url": "https://stmaryofthebay.org",
+    "categorySlug": "food",
+    "zipCode": "02885"
+  },
+  {
+    "name": "Tap-In",
+    "description": "A volunteer-based nonprofit serving the East Bay area that combats food insecurity and economic hardship by providing food, essential supplies, clothing, household items, and transportation assistance to medical appointments.",
+    "address": "281 County Rd, Barrington, RI 02806",
+    "phone": "(401) 247-1444",
+    "url": "https://www.tapinri.org",
+    "categorySlug": "food",
+    "zipCode": "02806"
+  },
+  {
+    "name": "Comprehensive Community Action Program (CCAP)",
+    "description": "A nonprofit community action agency serving Coventry and surrounding communities with emergency housing assistance including back rent, security deposits, utilities, and energy assistance programs.",
+    "address": "191 MacArthur Blvd, Coventry, RI 02816",
+    "phone": "(401) 467-9610",
+    "url": "https://www.comcap.org",
+    "categorySlug": "housing",
+    "zipCode": "02816"
+  },
+  {
+    "name": "Coventry Community Food Bank",
+    "description": "A food bank operated by the Town of Coventry providing quality food items to households experiencing food insecurity; Coventry residents only with proof of residency required.",
+    "address": "191 MacArthur Blvd, Coventry, RI 02816",
+    "phone": "(401) 822-9199",
+    "url": "https://www.coventryri.gov/human-services",
+    "categorySlug": "food",
+    "zipCode": "02816"
+  },
+  {
+    "name": "East Greenwich Interfaith Food Cupboard",
+    "description": "An interfaith food cupboard housed at St. Luke's Episcopal Church providing free groceries to individuals and families in need in East Greenwich and surrounding communities.",
+    "address": "99 Peirce St, East Greenwich, RI 02818",
+    "phone": "(401) 884-4116",
+    "url": "https://stlukeseg.org/outreach/",
+    "categorySlug": "food",
+    "zipCode": "02818"
+  },
+  {
+    "name": "Emanuel Lutheran Church Food Pantry",
+    "description": "A church-based food pantry in West Warwick serving Warwick, West Warwick, and surrounding communities with free groceries on Tuesday mornings.",
+    "address": "20 Leaf St, West Warwick, RI 02893",
+    "phone": "(401) 822-4450",
+    "url": "http://www.emanuelww.org/site/cpage.asp?cpage_id=180095075&sec_id=180019439",
+    "categorySlug": "food",
+    "zipCode": "02893"
+  },
+  {
+    "name": "Faith Fellowship Assembly of God Food Pantry",
+    "description": "A church-based food pantry in West Greenwich serving West Greenwich and Coventry residents, open the second and fourth Saturday of each month.",
+    "address": "260 Victory Hwy, West Greenwich, RI 02817",
+    "phone": "(401) 397-3383",
+    "url": "https://www.faithfellowshipaog.com/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "02817"
+  },
+  {
+    "name": "House of Hope CDC",
+    "description": "A nonprofit community development corporation founded in 1989 offering transitional and permanent housing, emergency winter shelter, street outreach, peer mentoring, and supportive services for homeless individuals in Rhode Island.",
+    "address": "3188 Post Rd, Warwick, RI 02886",
+    "phone": "(401) 463-3324",
+    "url": "https://thehouseofhopecdc.org",
+    "categorySlug": "housing",
+    "zipCode": "02886"
+  },
+  {
+    "name": "Living Faith Christian Church Food Pantry",
+    "description": "A church-operated food pantry in Warwick open six days a week, providing free groceries to anyone in need regardless of residency or income level.",
+    "address": "1201 Greenwich Ave, Warwick, RI 02886",
+    "phone": "(401) 739-2444",
+    "url": "https://livingfaithri.org/pantry",
+    "categorySlug": "food",
+    "zipCode": "02886"
+  },
+  {
+    "name": "Operation Stand Down Rhode Island (OSDRI)",
+    "description": "A nonprofit serving nearly 2,500 veterans annually with housing, rental assistance, transitional and permanent housing facilities, job placement, pro-bono legal services, and a food pantry for veterans in need.",
+    "address": "790 Providence St, West Warwick, RI 02893",
+    "phone": "(401) 383-4730",
+    "url": "https://osdri.org",
+    "categorySlug": "housing",
+    "zipCode": "02893"
+  },
+  {
+    "name": "Project Hand Up",
+    "description": "A nonprofit providing affordable groceries to low-income individuals and families — for a small donation, shoppers receive the equivalent of approximately $200 in groceries; open to everyone regardless of address.",
+    "address": "15 Factory St, West Warwick, RI 02893",
+    "phone": "(401) 965-9050",
+    "url": "https://projecthandup.net",
+    "categorySlug": "food",
+    "zipCode": "02893"
+  },
+  {
+    "name": "St. Rita's Catholic Church Food Pantry",
+    "description": "A parish food pantry in the Oakland Beach neighborhood of Warwick providing free groceries to Oakland Beach residents on Wednesdays.",
+    "address": "722 Oakland Beach Ave, Warwick, RI 02889",
+    "phone": "(401) 738-1800",
+    "url": "https://sainttimothy.weconnect.com",
+    "categorySlug": "food",
+    "zipCode": "02889"
+  },
+  {
+    "name": "Westbay Community Action",
+    "description": "A nonprofit community action agency serving Kent County with a food marketplace, emergency financial assistance, supportive housing, home energy assistance, WIC, senior services, and case management.",
+    "address": "487 Jefferson Blvd, Warwick, RI 02886",
+    "phone": "(401) 732-4660",
+    "url": "https://westbaycap.org",
+    "categorySlug": "community",
+    "zipCode": "02886"
+  },
+  {
+    "name": "Aquidneck Food Pantry",
+    "description": "A volunteer-run food pantry open to all in need (not restricted to Portsmouth residents) providing drive-through food distribution on Wednesdays and Fridays. Located next to the Portsmouth Post Office.",
+    "address": "137 Chase Road, Portsmouth, RI 02871",
+    "phone": "401-683-3674",
+    "url": "https://www.aquidneckfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "02871"
+  },
+  {
+    "name": "Dr. Martin Luther King Jr. Community Center",
+    "description": "A community center in Middletown offering a free on-site food pantry, mobile food pantry, monthly grocery delivery for homebound individuals, and a mobile pantry at local high schools for Newport County residents.",
+    "address": "20 Dr. Marcus F. Wheatland Blvd, Newport, RI 02840",
+    "phone": "(401) 846-4828",
+    "url": "https://mlkccenter.org/hunger-services/",
+    "categorySlug": "food",
+    "zipCode": "02840"
+  },
+  {
+    "name": "East Bay Community Action Program (EBCAP) - Tiverton Food Pantry",
+    "description": "A walk-in food pantry operated by EBCAP serving East Bay residents twice a month with fresh and non-perishable food including frozen meats and vegetables. No appointment needed; photo ID required.",
+    "address": "1048 Stafford Road, Tiverton, RI 02878",
+    "phone": "401-625-5134",
+    "url": "https://ebcap.org/programs/food-pantries/",
+    "categorySlug": "food",
+    "zipCode": "02878"
+  },
+  {
+    "name": "Jamestown Community Food Pantry",
+    "description": "A community food pantry serving Jamestown residents with free groceries distributed by appointment on Tuesdays and Fridays throughout the month.",
+    "address": "99 Narragansett Ave, Jamestown, RI 02835",
+    "phone": "(401) 560-4080",
+    "url": "https://www.jamestownpantry.org",
+    "categorySlug": "food",
+    "zipCode": "02835"
+  },
+  {
+    "name": "Little Compton Food Bank",
+    "description": "A weekly food bank located in the Little Compton Wellness Center, open to all residents of Little Compton and Tiverton who need food support.",
+    "address": "115 E Main St, Little Compton, RI 02837",
+    "phone": "(401) 592-0403",
+    "url": "https://littlecomptonfoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "02837"
+  },
+  {
+    "name": "Lucy's Hearth",
+    "description": "A 24-hour emergency and transitional shelter in Newport County serving children and families experiencing homelessness, offering individual family units, case management, and permanent subsidized housing placement.",
+    "address": "19 Valley Rd, Middletown, RI 02842",
+    "phone": "(401) 847-2021",
+    "url": "https://www.lucyshearth.org",
+    "categorySlug": "housing",
+    "zipCode": "02842"
+  },
+  {
+    "name": "Newport Mental Health",
+    "description": "Rhode Island's first Certified Community Behavioral Health Clinic, providing crisis intervention, outpatient treatment, community support, and permanent supportive housing for adults with mental illness across Newport County.",
+    "address": "127 Johnny Cake Hill Rd, Middletown, RI 02842",
+    "phone": "(401) 846-1213",
+    "url": "https://www.newportmentalhealth.org",
+    "categorySlug": "housing",
+    "zipCode": "02842"
+  },
+  {
+    "name": "Salvation Army Newport Corps Food Pantry",
+    "description": "The Salvation Army's Newport location offers a free food pantry for Newport County residents including those in Middletown, open three days a week by appointment.",
+    "address": "51 Memorial Blvd, Newport, RI 02840",
+    "phone": "(401) 846-3234",
+    "url": "https://easternusa.salvationarmy.org/southern-new-england/newport-rhode-island/",
+    "categorySlug": "food",
+    "zipCode": "02840"
+  },
+  {
+    "name": "ACCESS-RI Homeless Assistance",
+    "description": "A Mental Health Association of Rhode Island program providing intensive case management, street outreach, and psychiatric services for individuals experiencing chronic homelessness with co-occurring mental illness or substance use disorders in Pawtucket.",
+    "address": "249 Roosevelt Avenue, Pawtucket, RI 02860",
+    "phone": "401-726-2422",
+    "url": "https://www.shelterlistings.org/details/22240",
+    "categorySlug": "crisis",
+    "zipCode": "02860"
+  },
+  {
+    "name": "Amos House",
+    "description": "Since 1976, Amos House has operated the state's largest soup kitchen, serving over 200,000 meals annually, and provides emergency, transitional, and permanent supportive housing for more than 400 people each night.",
+    "address": "460 Pine St, Providence, RI 02907",
+    "phone": "(401) 272-0220",
+    "url": "https://amoshouse.com/",
+    "categorySlug": "crisis",
+    "zipCode": "02907"
+  },
+  {
+    "name": "Berean Baptist Church - Helping Hands Food Pantry",
+    "description": "A church-run food pantry exclusively for Burrillville residents open the first and third Saturday of every month from 8:30 to 11am, also offering a clothing exchange for regional residents.",
+    "address": "474 Chapel Street, Harrisville, RI 02830",
+    "phone": "401-568-5411",
+    "url": "https://www.bereanri.net/",
+    "categorySlug": "food",
+    "zipCode": "02830"
+  },
+  {
+    "name": "Better Lives Rhode Island Food Pantry",
+    "description": "A Providence-based food pantry steps from Kennedy Plaza serving all Providence residents. Shoppers choose their own groceries and can also receive help with SNAP enrollment.",
+    "address": "12 Abbott Park Place, Providence, RI 02903",
+    "phone": "(401) 454-7422",
+    "url": "https://www.betterlivesri.org/providence-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "02903"
+  },
+  {
+    "name": "Blackstone Valley Community Action Program (BVCAP) - Food Pantry",
+    "description": "A community action program offering free food twice monthly by appointment to low-income families, plus rental/mortgage assistance and emergency services. Serves Pawtucket, Central Falls, Cumberland, Lincoln, and Woonsocket.",
+    "address": "210 West Ave, Pawtucket, RI 02860",
+    "phone": "401-475-5071",
+    "url": "https://bvcap.org/",
+    "categorySlug": "food",
+    "zipCode": "02860"
+  },
+  {
+    "name": "Blessed Mother Mary Food Pantry",
+    "description": "A nonprofit food pantry serving Cranston residents twice per month, with Spanish translation available and accessible facilities. Open Monday and Saturday mornings.",
+    "address": "1 Weingeroff Blvd, Cranston, RI 02910",
+    "phone": "(401) 946-5291",
+    "url": "https://www.cranstonforward.org/food-resources",
+    "categorySlug": "food",
+    "zipCode": "02910"
+  },
+  {
+    "name": "Burrillville Housing Authority",
+    "description": "A public housing authority providing 76 units of affordable housing for elderly and disabled residents at Ashton Court, plus Section 8 Housing Choice Voucher program management for low-income Burrillville families.",
+    "address": "77 Ashton Court, Harrisville, RI 02830",
+    "phone": "401-568-6200",
+    "url": "https://burrillvillehousing.org/",
+    "categorySlug": "housing",
+    "zipCode": "02830"
+  },
+  {
+    "name": "Burrillville Seventh-Day Adventist Church Food Closet",
+    "description": "A church-operated food distribution program open the last Tuesday of each month from 5:00pm to 6:30pm, providing canned goods and non-perishable food to those in need in the Burrillville area.",
+    "address": "854 Victory Highway, Mapleville, RI 02839",
+    "phone": "401-568-5255",
+    "url": "https://burrillvilleri.adventistchurch.org/",
+    "categorySlug": "food",
+    "zipCode": "02839"
+  },
+  {
+    "name": "Chepachet Union Church Food Pantry",
+    "description": "A community food pantry run by Chepachet Union Church providing food assistance to local residents on the 1st and 3rd Saturday of each month from 10am to 12pm.",
+    "address": "1138 Putnam Pike, Chepachet, RI 02814",
+    "phone": "401-568-2518",
+    "url": "https://www.chepachetunionchurch.org/cuc-food-pantry.html",
+    "categorySlug": "food",
+    "zipCode": "02814"
+  },
+  {
+    "name": "Community Action Partnership of Providence (CAPP) Food Pantry",
+    "description": "A community action agency food pantry serving Providence area residents by appointment, offering a week's worth of groceries per visit with Monday intake and Wednesday distribution.",
+    "address": "518 Hartford Avenue, Providence, RI 02909",
+    "phone": "(401) 273-2000",
+    "url": "https://cappri.org/programs/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "02909"
+  },
+  {
+    "name": "Community Care Alliance - Housing Services",
+    "description": "A nonprofit behavioral health and human services organization offering emergency, transitional, and permanent supportive housing along with 24/7 crisis intervention for individuals and families in the Woonsocket/Burrillville region.",
+    "address": "245 Main Street, Woonsocket, RI 02895",
+    "phone": "401-235-7000",
+    "url": "https://www.communitycareri.org/",
+    "categorySlug": "housing",
+    "zipCode": "02895"
+  },
+  {
+    "name": "Comprehensive Community Action Program (CCAP) - Foster/Scituate Food Bank",
+    "description": "A CCAP-operated food bank providing emergency food for households in financial need and monthly USDA commodity distribution. Serves Foster and Scituate residents; located in the lower level of Foster Town Hall.",
+    "address": "181 Howard Hill Road, Foster, RI 02825",
+    "phone": "401-392-9200",
+    "url": "https://www.comcap.org/services/food-housing/",
+    "categorySlug": "food",
+    "zipCode": "02825"
+  },
+  {
+    "name": "Cranston Interfaith Food Pantry",
+    "description": "A cooperative food pantry founded in 1993 by seven Cranston churches, distributing food to households in need throughout the Cranston community.",
+    "address": "30 Jackson Rd, Cranston, RI 02920",
+    "phone": "401-942-0662",
+    "url": "https://woodridgechurchri.org/cranston-interfaith-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "02920"
+  },
+  {
+    "name": "Crossroads Rhode Island",
+    "description": "Rhode Island's leading provider of emergency shelter, transitional housing, and supportive services for people experiencing homelessness, founded in 1894. Uses a housing-first approach to help individuals and families move into stable homes.",
+    "address": "160 Broad Street, Providence, RI 02903",
+    "phone": "(401) 521-2255",
+    "url": "https://www.crossroadsri.org/",
+    "categorySlug": "housing",
+    "zipCode": "02903"
+  },
+  {
+    "name": "Edgewood Pawtuxet Food Closet",
+    "description": "A neighborhood food closet at Church of the Transfiguration serving Edgewood-Pawtuxet residents in Cranston and Providence's 02905 zip code. Clients may visit twice per month.",
+    "address": "1665 Broad Street, Cranston, RI 02905",
+    "phone": "(401) 461-3142",
+    "url": "https://www.freefood.org/l/ri_02905_edgewood-pawtuxet-food-closet-transfiguration-church",
+    "categorySlug": "food",
+    "zipCode": "02905"
+  },
+  {
+    "name": "Emergency Shelter of Pawtucket and Central Falls",
+    "description": "Emergency shelter providing temporary housing for families in the Pawtucket and Central Falls area, also known as New Hope Shelter.",
+    "address": "183 Barton St, Pawtucket, RI 02860",
+    "phone": "(401) 728-8490",
+    "url": "https://app.housingworks.net/program/3802",
+    "categorySlug": "housing",
+    "zipCode": "02860"
+  },
+  {
+    "name": "Federal Hill House Food Pantry",
+    "description": "A community food pantry serving Providence residents across multiple zip codes (02903, 02905, 02907, 02908, 02909), providing up to a week's worth of groceries per visit, plus fresh produce and hygiene products.",
+    "address": "35 Swiss Street, Providence, RI 02909",
+    "phone": "(401) 421-1095",
+    "url": "https://www.federalhillhouse.org/programs/food-pantries/",
+    "categorySlug": "food",
+    "zipCode": "02909"
+  },
+  {
+    "name": "Gateway Healthcare Capital City Community Center Food Pantry",
+    "description": "A food pantry operated by Gateway Healthcare serving Providence residents in the 02904 and 02908 zip codes, with Spanish-speaking staff on site.",
+    "address": "285A Chad Brown Street, Providence, RI 02908",
+    "phone": "(401) 919-5233",
+    "url": "https://www.brownhealth.org/locations/gateway-healthcare/contact-us",
+    "categorySlug": "food",
+    "zipCode": "02908"
+  },
+  {
+    "name": "Good Neighbors Community Kitchen and Food Pantry",
+    "description": "A nonprofit serving hot meals every weekday through their Community Kitchen and distributing groceries through their Food Pantry to East Providence and surrounding area residents.",
+    "address": "55 Turner Ave, East Providence, RI 02914",
+    "phone": "(774) 340-7824",
+    "url": "https://www.goodneighborsri.org/",
+    "categorySlug": "food",
+    "zipCode": "02914"
+  },
+  {
+    "name": "Good Neighbors Food Pantry - Rumford",
+    "description": "A client-choice food pantry offering shelf-stable groceries, bread, and fresh produce to East Providence and neighboring community residents on the 2nd and 4th Tuesday of each month. Ramp and elevator accessible.",
+    "address": "100 Newman Ave, Rumford, RI 02916",
+    "phone": "401-434-4742",
+    "url": "https://www.goodneighborsri.org/find-food",
+    "categorySlug": "food",
+    "zipCode": "02916"
+  },
+  {
+    "name": "Haitian Baptist Church of Rhode Island - Food Pantry",
+    "description": "A weekly community food pantry serving Cranston and surrounding zip codes, offering groceries with multilingual assistance available in Haitian Creole, French, and Spanish.",
+    "address": "12 Lincoln Ave, Cranston, RI 02920",
+    "phone": "401-944-1440",
+    "url": "https://www.foodpantries.org/li/haitian_baptist_church_of_rhode_island_02920",
+    "categorySlug": "food",
+    "zipCode": "02920"
+  },
+  {
+    "name": "Lighthouse Community Food Pantry",
+    "description": "A community food pantry operated by Lighthouse Christian Church serving Cumberland, Lincoln, Manville, North Smithfield, Woonsocket, and Smithfield residents. Guests may visit twice per month.",
+    "address": "30 Meeting Street, Cumberland, RI 02864",
+    "phone": "(401) 729-1603",
+    "url": "https://www.lccri.org/projects",
+    "categorySlug": "food",
+    "zipCode": "02864"
+  },
+  {
+    "name": "Lime Rock Baptist Church Food Pantry",
+    "description": "A church-based food pantry open to all Rhode Island residents every other Saturday and to Lincoln residents only every other Tuesday. Provides staple groceries, fresh produce, and household supplies.",
+    "address": "1075 Great Road, Lincoln, RI 02865",
+    "phone": "(401) 334-2999",
+    "url": "https://www.lrbcri.org/lrbc-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "02865"
+  },
+  {
+    "name": "MAE Organization for the Homeless",
+    "description": "Nonprofit founded in 2008 dedicated to supporting individuals experiencing homelessness or at risk of losing stable housing, providing food, emergency shelter, housing assistance, clothing, and toiletries.",
+    "address": "1221 Reservoir Ave, Cranston, RI 02920",
+    "phone": "1-833-462-3674",
+    "url": "https://maeorganization.org/",
+    "categorySlug": "housing",
+    "zipCode": "02920"
+  },
+  {
+    "name": "Maranatha Food Pantry of Church of God",
+    "description": "A church-based food pantry open every Friday morning serving Providence residents in the 02908 and 02909 zip codes. Accessible via front ramp with staff assistance available.",
+    "address": "1040 Atwells Ave, Providence, RI 02909",
+    "phone": "(401) 521-4860",
+    "url": "https://www.findhelp.org/maranatha-food-pantry-of-church-of-god--providence-ri--food-pantry/5801525506080768",
+    "categorySlug": "food",
+    "zipCode": "02909"
+  },
+  {
+    "name": "NeighborWorks Blackstone River Valley",
+    "description": "A nonprofit community development corporation offering affordable rental housing access, first-time homebuyer assistance, home repair programs, and homeownership counseling for residents of northern Rhode Island.",
+    "address": "719 Front Street, Woonsocket, RI 02895",
+    "phone": "401-762-0993",
+    "url": "https://neighborworksbrv.org/",
+    "categorySlug": "housing",
+    "zipCode": "02895"
+  },
+  {
+    "name": "New Hope Shelter of Pawtucket/Central Falls",
+    "description": "An emergency family shelter providing apartment-style temporary housing with intensive case management services for up to 5 families at a time in Pawtucket.",
+    "address": "183 Barton Street, Pawtucket, RI 02860",
+    "phone": "401-728-8490",
+    "url": "https://www.homelessshelterdirectory.org/shelter/ri_new-hope-shelter",
+    "categorySlug": "housing",
+    "zipCode": "02860"
+  },
+  {
+    "name": "North Smithfield Residents Food Pantry",
+    "description": "A nonprofit food pantry housed in the basement of Slatersville Congregational Church, serving approximately 60 North Smithfield families per month. Open the last two Tuesdays and Saturdays of each month to North Smithfield residents.",
+    "address": "25 Greene Street, North Smithfield, RI 02895",
+    "phone": "(401) 678-0356",
+    "url": "https://slatersvillechurch.org/nourish-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "02895"
+  },
+  {
+    "name": "Northern Rhode Island Food Pantry",
+    "description": "An all-volunteer, community-supported food pantry serving Cumberland and surrounding towns. Member agency of the RI Community Food Bank; families register on first visit and receive an ID card.",
+    "address": "1 Angell Rd, Cumberland, RI 02864",
+    "phone": "(401) 347-5714",
+    "url": "https://www.nrifoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "02864"
+  },
+  {
+    "name": "Ocean State Baptist Church - Jericho Road Food Resource Center",
+    "description": "A food pantry serving Smithfield, North Smithfield, Johnston, Lincoln, Cumberland, and North Providence with a full range of food assistance open Tuesday afternoons and Saturday mornings.",
+    "address": "600 Douglas Pike, Smithfield, RI 02917",
+    "phone": "401-231-1980",
+    "url": "https://osbc.churchcenter.com/",
+    "categorySlug": "food",
+    "zipCode": "02917"
+  },
+  {
+    "name": "Olneyville Food Center",
+    "description": "A neighborhood food pantry serving Providence residents in the 02908 and 02909 zip codes, open four days a week with Spanish-speaking staff on site. Families may visit twice per month.",
+    "address": "261 Manton Ave, Providence, RI 02909",
+    "phone": "(401) 714-0057",
+    "url": "https://www.olneyville.org/",
+    "categorySlug": "food",
+    "zipCode": "02909"
+  },
+  {
+    "name": "Operation Stand Down Rhode Island (OSDRI) - Veterans Food Pantry",
+    "description": "Rhode Island's largest veteran-dedicated food pantry, serving nearly 2,500 local veterans annually with non-perishable food items alongside housing assistance, job placement, legal services, and disability claims support.",
+    "address": "1010 Hartford Ave, Johnston, RI 02919",
+    "phone": "401-383-4730",
+    "url": "https://osdri.org/services/basic-human-needs/",
+    "categorySlug": "food",
+    "zipCode": "02919"
+  },
+  {
+    "name": "Progreso Latino Food Pantry",
+    "description": "A bilingual nonprofit serving Central Falls residents and immigrant families regardless of citizenship or immigration status. Distributes food weekly with no ID required and no appointment needed.",
+    "address": "20 Claremont St, Central Falls, RI 02863",
+    "phone": "(401) 728-5920",
+    "url": "https://www.progresolatino.org/cffood-pantry",
+    "categorySlug": "food",
+    "zipCode": "02863"
+  },
+  {
+    "name": "Project Outreach Food Pantry",
+    "description": "One of Rhode Island's largest food pantries, operated by Open Table of Christ United Methodist Church, serving exclusively the 02905 and 02907 zip codes. Guests can visit weekly.",
+    "address": "1520 Broad Street, Providence, RI 02905",
+    "phone": "(401) 941-2212",
+    "url": "https://opentableofchrist.org/project-outreach-2/",
+    "categorySlug": "food",
+    "zipCode": "02905"
+  },
+  {
+    "name": "Providence Rescue Mission",
+    "description": "A nonprofit rescue mission providing emergency overnight shelter for up to 90 men and 30 women nightly, plus three hot meals daily, showers, clean clothing, and a residential recovery program.",
+    "address": "627 Cranston Street, Providence, RI 02907",
+    "phone": "(401) 274-8861",
+    "url": "https://www.providencerescuemission.org/",
+    "categorySlug": "crisis",
+    "zipCode": "02907"
+  },
+  {
+    "name": "Rhode Island Community Food Bank",
+    "description": "The central food distribution hub for Rhode Island's statewide network of over 137 food pantries and meal sites, distributing healthy and culturally relevant food to partner agencies across the state.",
+    "address": "200 Niantic Ave, Providence, RI 02907",
+    "phone": "(401) 942-6325",
+    "url": "https://rifoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "02907"
+  },
+  {
+    "name": "Salvation Army Providence Corps Food Pantry",
+    "description": "The Salvation Army's Providence location offers a food pantry serving Providence, Johnston, and Cranston residents, along with social services, elder programs, and emergency assistance.",
+    "address": "386 Broad Street, Providence, RI 02907",
+    "phone": "(401) 831-1119",
+    "url": "https://easternusa.salvationarmy.org/southern-new-england/providence/",
+    "categorySlug": "food",
+    "zipCode": "02907"
+  },
+  {
+    "name": "Scalabrini Dukcevich Center",
+    "description": "A Catholic immigrant services center operating a food pantry and offering WIC, social services, and community programming for Providence's West Side immigrant communities.",
+    "address": "300 Laurel Hill Ave, Providence, RI 02909",
+    "phone": "(401) 632-4770",
+    "url": "https://sdcenterri.org/",
+    "categorySlug": "food",
+    "zipCode": "02909"
+  },
+  {
+    "name": "Scituate Food Pantry",
+    "description": "A community food pantry serving Scituate and surrounding area residents with food distribution by appointment on Tuesdays and Thursdays, located on Chopmist Hill Road in North Scituate.",
+    "address": "1315 Chopmist Hill Road, North Scituate, RI 02857",
+    "phone": "401-647-2768",
+    "url": "https://www.scituatefoodpantry.com/",
+    "categorySlug": "food",
+    "zipCode": "02857"
+  },
+  {
+    "name": "Sojourner House",
+    "description": "A victim services agency providing emergency shelter, transitional housing, permanent supportive housing, and wraparound services for survivors of domestic violence and sexual assault since 1976.",
+    "address": "1570 Westminster Street, Providence, RI 02909",
+    "phone": "(401) 861-6191",
+    "url": "https://sojournerri.org/",
+    "categorySlug": "crisis",
+    "zipCode": "02909"
+  },
+  {
+    "name": "St. Charles Borromeo Food Pantry (SVDP)",
+    "description": "A Society of St. Vincent de Paul food pantry at St. Charles Borromeo Church primarily serving immigrants and refugees in Providence's 02907 and 02909 zip codes. Spanish-speaking staff on site.",
+    "address": "178 Dexter Street, Providence, RI 02907",
+    "phone": "(401) 421-6441",
+    "url": "https://www.homelessshelterdirectory.org/shelter/ri_svdp-st-charles-pantry",
+    "categorySlug": "food",
+    "zipCode": "02907"
+  },
+  {
+    "name": "St. Edward Food and Wellness Center",
+    "description": "A 501(c)(3) nonprofit food pantry and wellness center serving Providence's North End zip codes 02904 and 02908 since 2003, with Spanish-speaking volunteers on site.",
+    "address": "1001 Branch Ave, Providence, RI 02904",
+    "phone": "(401) 621-3827",
+    "url": "https://www.stedwardfoodcenter.org/",
+    "categorySlug": "food",
+    "zipCode": "02904"
+  },
+  {
+    "name": "St. John the Baptist Food Pantry",
+    "description": "A Catholic parish food pantry in Pawtucket distributing food on select Monday mornings and evenings (last two weeks of the month, September through May) and Wednesday mornings to community members in need.",
+    "address": "69 Quincy Avenue, Pawtucket, RI 02860",
+    "phone": "401-722-9054",
+    "url": "https://www.churchofstjohnthebaptist.org/",
+    "categorySlug": "food",
+    "zipCode": "02860"
+  },
+  {
+    "name": "St. Matthew Trinity Lutheran Church Food Pantry",
+    "description": "A church-based food pantry in Pawtucket open Thursday and Friday mornings and the 2nd and 4th Sunday each month, serving Pawtucket and Central Falls residents with free groceries.",
+    "address": "690 Newport Avenue, Pawtucket, RI 02861",
+    "phone": "401-723-5632",
+    "url": "https://smtlc.org/",
+    "categorySlug": "food",
+    "zipCode": "02861"
+  },
+  {
+    "name": "St. Patrick's Church Food Closet",
+    "description": "A Catholic parish food closet serving the Harrisville and Burrillville community on alternating Monday evenings from 5:30pm to 7:30pm (or Tuesday if a holiday).",
+    "address": "45 Harrisville Main Street, Harrisville, RI 02830",
+    "phone": "401-568-5600",
+    "url": "https://stpatrickri.org/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "02830"
+  },
+  {
+    "name": "St. Robert Bellarmine Parish Food Closet",
+    "description": "A parish-run food closet serving Johnston residents only, open Thursday mornings to provide groceries to individuals and families in need.",
+    "address": "1804 Atwood Ave, Johnston, RI 02919",
+    "phone": "401-231-4987",
+    "url": "https://strobertsparish.org/photoalbums/parish-food-closet",
+    "categorySlug": "food",
+    "zipCode": "02919"
+  },
+  {
+    "name": "SVDP St. Philip Food Pantry",
+    "description": "A Society of St. Vincent de Paul food pantry at St. Philip Parish in Greenville offering client-choice food distribution twice weekly on Wednesday afternoons and Saturday mornings.",
+    "address": "620 Putnam Pike, Greenville, RI 02828",
+    "phone": "401-949-2949",
+    "url": "https://svdpri.org/basic-needs/",
+    "categorySlug": "food",
+    "zipCode": "02828"
+  },
+  {
+    "name": "The Genesis Project Food Pantry",
+    "description": "A nonprofit food pantry in Manville operating on the second and fourth Saturday of each month from 9am to 11am, offering free groceries with a suggested $5 donation — no one is turned away for inability to pay.",
+    "address": "11 Winter Street, Manville, RI 02838",
+    "phone": "401-404-4864",
+    "url": "https://www.thegenesisprojectri.org/",
+    "categorySlug": "food",
+    "zipCode": "02838"
+  },
+  {
+    "name": "Tri-County Community Action Agency - North Providence Office",
+    "description": "A community action agency serving Burrillville and Glocester with monthly food commodity distribution, emergency housing assistance, fuel assistance, and other social services for low-income residents.",
+    "address": "11 Emanuel Street, North Providence, RI 02911",
+    "phone": "401-519-1913",
+    "url": "https://www.tricountyri.org/services/food-assistance/",
+    "categorySlug": "food",
+    "zipCode": "02911"
+  },
+  {
+    "name": "Tri-County Community Action Agency - Pascoag Office",
+    "description": "A local office of Tri-County Community Action Agency offering food commodity distribution, emergency housing assistance, fuel assistance, and social services to residents of Burrillville and Glocester.",
+    "address": "185 Pascoag Main Street, Pascoag, RI 02859",
+    "phone": "401-567-7679",
+    "url": "https://www.tricountyri.org/",
+    "categorySlug": "food",
+    "zipCode": "02859"
+  },
+  {
+    "name": "Trinity Episcopal Church Food Pantry",
+    "description": "A community food pantry serving residents of Smithfield, Scituate, Foster, Glocester, Johnston, and parts of Coventry with monthly and emergency food assistance.",
+    "address": "249 Danielson Pike, Smithfield, RI 02917",
+    "phone": "401-647-2322",
+    "url": "https://www.trinitynorthscituate.org/outreach/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "02917"
+  },
+  {
+    "name": "Washington Park Community Center Food Pantry",
+    "description": "An emergency food pantry serving Washington Park neighborhood residents in Providence, open Monday through Friday with additional community support services.",
+    "address": "42 Jillson Street, Providence, RI 02905",
+    "phone": "(401) 461-6650",
+    "url": "https://washparkcc.org/",
+    "categorySlug": "food",
+    "zipCode": "02905"
+  },
+  {
+    "name": "Your Neighborhood Food Pantry",
+    "description": "A community food pantry serving the 02904, 02903, and 02908 zip codes of Providence's North End. Open three days a week and allows guests to visit weekly.",
+    "address": "533 Branch Ave, Providence, RI 02904",
+    "phone": "(401) 919-5233",
+    "url": "https://www.ynfp.org/",
+    "categorySlug": "food",
+    "zipCode": "02904"
+  },
+  {
+    "name": "Exeter Community Food Bank",
+    "description": "A by-appointment food bank operated through the town's Department of Social Services, open Wednesday mornings and afternoons at Exeter Chapel to serve Exeter residents facing food insecurity.",
+    "address": "765 Ten Rod Rd, Exeter, RI 02822",
+    "phone": "401-294-3176",
+    "url": "https://www.exeterri.gov/services/page/exeter-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "02822"
+  },
+  {
+    "name": "Jonnycake Center for Hope",
+    "description": "A comprehensive community resource center serving South Kingstown, Narragansett, Jamestown, and Block Island with a guest-choice food market, housing navigation, emergency financial assistance, economic support, and youth services.",
+    "address": "22 Kersey Rd, Peace Dale, RI 02879",
+    "phone": "(401) 789-1559",
+    "url": "https://www.jonnycakecenter.org",
+    "categorySlug": "food",
+    "zipCode": "02879"
+  },
+  {
+    "name": "Jonnycake Center of Westerly",
+    "description": "A community resource center offering a guest-choice food pantry, emergency financial assistance, a thrift store, furniture pickup and delivery, and school supply distribution to residents of Westerly and surrounding communities.",
+    "address": "23 Industrial Dr, Westerly, RI 02891",
+    "phone": "(401) 377-8069",
+    "url": "https://jonnycake.org",
+    "categorySlug": "food",
+    "zipCode": "02891"
+  },
+  {
+    "name": "Jonnycake Center of Westerly - Food Pantry and Crisis Assistance",
+    "description": "Provides a full week of food every 30 days to residents of Westerly, Charlestown, Richmond, and Hopkinton, along with financial assistance for housing, utilities, heating, and other crisis situations.",
+    "address": "23 Industrial Dr, Westerly, RI 02891",
+    "phone": "401-377-8069",
+    "url": "https://jonnycake.org/programs/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "02891"
+  },
+  {
+    "name": "Jonnycake Center of Westerly - Housing Assistance",
+    "description": "Offers emergency financial assistance for past-due rent, first month's rent, and security deposits to residents of Westerly, Charlestown, Richmond, and Hopkinton facing housing crises.",
+    "address": "23 Industrial Dr, Westerly, RI 02891",
+    "phone": "401-377-8069",
+    "url": "https://jonnycake.org/programs/social-services/",
+    "categorySlug": "housing",
+    "zipCode": "02891"
+  },
+  {
+    "name": "New Hope Chapel Pantry",
+    "description": "A nonprofit food pantry serving the Chariho area including Richmond, providing groceries twice weekly (Tuesday mornings and Friday evenings) on a walk-in basis. Handicap accessible.",
+    "address": "80 Richmond Townhouse Rd, Carolina, RI 02812",
+    "phone": "401-539-4673",
+    "url": "https://newhopechapel.info/ministries/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "02812"
+  },
+  {
+    "name": "New Life Assembly of God Food Pantry",
+    "description": "A church-run food pantry providing quality food items to households experiencing food insecurity throughout Washington County, open on the 2nd and 4th Wednesdays of each month.",
+    "address": "251 Post Rd, South Kingstown, RI 02879",
+    "phone": "(401) 575-3521",
+    "url": "https://www.foodpantries.org/li/new_life_assembly_02879",
+    "categorySlug": "food",
+    "zipCode": "02879"
+  },
+  {
+    "name": "North Kingstown Food Pantry",
+    "description": "A community food pantry serving North Kingstown residents since 1981, providing monthly food assistance to over 850 households with a guest-choice shopping model and extended hours the last Tuesday and Saturday of each month.",
+    "address": "445 School St, North Kingstown, RI 02852",
+    "phone": "(401) 885-3663",
+    "url": "https://www.nkfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "02852"
+  },
+  {
+    "name": "Rhode Island Center Assisting Those In Need (RICAN) - Emergency Housing",
+    "description": "Provides emergency housing assistance and case management services to Washington County residents, alongside food access, employment assistance, and SNAP outreach programs.",
+    "address": "805 Alton Carolina Rd, Charlestown, RI 02813",
+    "phone": "401-364-9412",
+    "url": "https://www.rhodeislandcan.org/",
+    "categorySlug": "housing",
+    "zipCode": "02813"
+  },
+  {
+    "name": "Rhode Island Center Assisting Those In Need (RICAN) - Food Pantry",
+    "description": "A Washington County nonprofit food pantry distributing over 300,000 lbs of food yearly to households facing food insecurity via drive-through and in-store shopping options. Also offers emergency housing, employment assistance, and case management.",
+    "address": "805 Alton Carolina Rd, Charlestown, RI 02813",
+    "phone": "401-364-9412",
+    "url": "https://www.rhodeislandcan.org/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "02813"
+  },
+  {
+    "name": "Society of St. Vincent de Paul Exeter (SVdP Exeter)",
+    "description": "A local SVdP conference providing food pantry services and comprehensive assistance to individuals and families in the Exeter area struggling with poverty and financial hardships.",
+    "address": "765 Ten Rod Rd, Exeter, RI 02822",
+    "phone": "401-294-3176",
+    "url": "https://svdpexeter.com/",
+    "categorySlug": "food",
+    "zipCode": "02822"
+  },
+  {
+    "name": "South County Habitat for Humanity",
+    "description": "A nonprofit building and repairing homes in Washington County since 1990, providing affordable homeownership opportunities with affordable mortgages and home repair services in partnership with low-income families.",
+    "address": "1555 Shannock Rd, Charlestown, RI 02813",
+    "phone": "(401) 213-6711",
+    "url": "https://www.southcountyhabitat.org",
+    "categorySlug": "housing",
+    "zipCode": "02813"
+  },
+  {
+    "name": "St. Peter's by-the-Sea Community Market",
+    "description": "An Episcopal church-operated food pantry open every Friday afternoon providing free groceries to South County residents with no documentation of residency or financial need required.",
+    "address": "72 Central St, Narragansett, RI 02882",
+    "phone": "(401) 783-4623",
+    "url": "https://www.stpetersbythesea.com/community-market",
+    "categorySlug": "food",
+    "zipCode": "02882"
+  },
+  {
+    "name": "St. Vincent de Paul Society – Immaculate Conception",
+    "description": "A Catholic charitable organization providing a food pantry with food and grocery vouchers, and emergency financial assistance for electric bills, heating bills, rent, and clothing to families in need in Westerly.",
+    "address": "111 High St, Westerly, RI 02891",
+    "phone": "(401) 450-9749",
+    "url": "https://immcon.org/svdp",
+    "categorySlug": "food",
+    "zipCode": "02891"
+  },
+  {
+    "name": "WARM Center - Anita's Kitchen",
+    "description": "Community soup kitchen providing free, nutritious meals to anyone in need in the Westerly area and surrounding communities including Bradford, Charlestown, Hopkinton, and Richmond.",
+    "address": "56 Spruce St, Westerly, RI 02891",
+    "phone": "401-596-9276",
+    "url": "https://www.warmcenter.org/programs",
+    "categorySlug": "food",
+    "zipCode": "02891"
+  },
+  {
+    "name": "WARM Center - Emergency Shelter",
+    "description": "Year-round emergency shelter for adults experiencing homelessness with gender-separated dormitories for 13 men and 6 women, open 24/7/365. Also a Regional Access Point for housing and supportive services.",
+    "address": "56 Spruce St, Westerly, RI 02891",
+    "phone": "401-596-9276",
+    "url": "https://www.warmcenter.org/housing-shelter",
+    "categorySlug": "housing",
+    "zipCode": "02891"
+  },
+  {
+    "name": "WARM Center (Westerly Area Rest Meals)",
+    "description": "A comprehensive homeless services organization providing year-round emergency shelter for adults, family emergency shelter programs, Anita's Kitchen soup kitchen with daily meals, street outreach case management, and permanent supportive housing throughout Southern Rhode Island.",
+    "address": "56 Spruce St, Westerly, RI 02891",
+    "phone": "(401) 596-9276",
+    "url": "https://www.warmcenter.org",
+    "categorySlug": "housing",
+    "zipCode": "02891"
+  },
+  {
+    "name": "Welcome House of South County - Emergency Shelter",
+    "description": "A year-round emergency shelter providing safe, supportive housing for adults experiencing homelessness throughout South County and surrounding communities, with soup kitchen and transitional housing.",
+    "address": "8 North Rd, Peace Dale, RI 02879",
+    "phone": "401-782-4770",
+    "url": "https://www.welcomehouseofsouthcounty.org/",
+    "categorySlug": "housing",
+    "zipCode": "02879"
+  },
+  {
+    "name": "Wood River Health",
+    "description": "A federally qualified community health center providing medical, dental, behavioral health, WIC, and food pantry services to residents of rural Washington County including the Wood River Junction and Hope Valley area.",
+    "address": "823 Main St, Hope Valley, RI 02832",
+    "phone": "(401) 539-2461",
+    "url": "https://woodriverhealth.org",
+    "categorySlug": "healthcare",
+    "zipCode": "02832"
+  }
+]
