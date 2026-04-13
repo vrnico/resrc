@@ -1,0 +1,2702 @@
+[
+  {
+    "name": "Bread of Life Food Pantry – Vineyard Church of Mechanic Falls",
+    "description": "Monthly food pantry operating out of the Vineyard Church, serving residents of Mechanic Falls, Minot, and Hebron on the second Tuesday of each month.",
+    "address": "90 Lewiston Road, Mechanic Falls, ME 04256",
+    "phone": "(207) 345-9501",
+    "url": "https://www.mechanicfallsvineyard.com/food-ministry",
+    "categorySlug": "food",
+    "zipCode": "04256"
+  },
+  {
+    "name": "Community Baptist Church Food Pantry",
+    "description": "Twice-monthly food pantry serving Sabattus residents on the 1st and 3rd Saturdays and 2nd Wednesday of each month.",
+    "address": "9 Main Street, Sabattus, ME 04280",
+    "phone": "(207) 375-4337",
+    "url": "https://www.cbcfaith.org",
+    "categorySlug": "food",
+    "zipCode": "04280"
+  },
+  {
+    "name": "Community Concepts Inc.",
+    "description": "Community action agency providing affordable housing, emergency shelter, economic development, and social services for Androscoggin, Franklin, and Oxford county residents since 1965.",
+    "address": "240 Bates Street, Lewiston, ME 04240",
+    "phone": "207-795-4065",
+    "url": "https://ccimaine.org",
+    "categorySlug": "housing",
+    "zipCode": "04240"
+  },
+  {
+    "name": "Community Concepts, Inc.",
+    "description": "Community action agency serving Androscoggin, Franklin, and Oxford counties, offering housing assistance, energy/fuel assistance, weatherization, affordable rental housing, and homeownership programs.",
+    "address": "240 Bates Street, Lewiston, ME 04240",
+    "phone": "(207) 795-4065",
+    "url": "https://ccimaine.org/services/housing-and-energy/",
+    "categorySlug": "housing",
+    "zipCode": "04240"
+  },
+  {
+    "name": "Gather to Grow (formerly St. Mary's Nutrition Center)",
+    "description": "Grocery-style food pantry serving over 1,000 people weekly, operating a free produce and food distribution program open twice weekly in downtown Lewiston.",
+    "address": "208 Bates Street, Lewiston, ME 04240",
+    "phone": "(207) 513-3841",
+    "url": "https://gathertogrowmaine.org",
+    "categorySlug": "food",
+    "zipCode": "04240"
+  },
+  {
+    "name": "Good Shepherd Food Bank",
+    "description": "Maine's largest food bank, distributing millions of pounds of food annually to partner agencies statewide. Serves as the regional distribution hub for Androscoggin County and surrounding areas.",
+    "address": "3121 Hotel Road, Auburn, ME 04210",
+    "phone": "(207) 782-3554",
+    "url": "https://www.gsfb.org",
+    "categorySlug": "food",
+    "zipCode": "04210"
+  },
+  {
+    "name": "Greene Baptist Church Food Pantry",
+    "description": "Bi-monthly food pantry authorized to serve residents of the Town of Greene, operating as a partner agency with Good Shepherd Food Bank on the 1st and 3rd Thursday of each month.",
+    "address": "102 Main Street, Greene, ME 04236",
+    "phone": "(207) 946-5505",
+    "url": "https://www.greenebaptistchurch.org/foodpantry",
+    "categorySlug": "food",
+    "zipCode": "04236"
+  },
+  {
+    "name": "High Street Congregational Church Food Pantry",
+    "description": "Volunteer-staffed food pantry open every Thursday morning, partnering with Good Shepherd Food Bank to provide monthly food allotments to families in need in the Auburn area.",
+    "address": "106 Pleasant Street, Auburn, ME 04210",
+    "phone": "(207) 784-1306",
+    "url": "https://highstreet-ucc.org/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "04210"
+  },
+  {
+    "name": "Hope Haven Gospel Mission",
+    "description": "Emergency shelter and soup kitchen providing a safe place to sleep and meals twice daily for homeless individuals in the Lewiston/Auburn area.",
+    "address": "209 Lincoln Street, Lewiston, ME 04240",
+    "phone": "(207) 783-6086",
+    "url": "https://www.hopehavengospelmission.net",
+    "categorySlug": "housing",
+    "zipCode": "04240"
+  },
+  {
+    "name": "LACO - Lisbon Area Christian Outreach Food Pantry",
+    "description": "A multi-church nonprofit providing supplemental food and a clothing bank to residents of Lisbon, Durham, and Bowdoin experiencing financial hardship. Open three days per week.",
+    "address": "18 School St, Lisbon Falls, ME 04252",
+    "phone": "207-353-0646",
+    "url": "http://lacopantry.org/",
+    "categorySlug": "food",
+    "zipCode": "04252"
+  },
+  {
+    "name": "Lewiston Housing – Homeless Response Service Hub",
+    "description": "Serves as the regional Homeless Response Service Hub for Androscoggin County (Region 4), coordinating homeless services and housing assistance resources across the county.",
+    "address": "86 Lisbon Street, Lewiston, ME 04240",
+    "phone": "(207) 783-1423",
+    "url": "https://lewistonhousing.org/what-we-do/homeless-services/",
+    "categorySlug": "housing",
+    "zipCode": "04240"
+  },
+  {
+    "name": "Lisbon Area Christian Outreach (LACO) Food Pantry",
+    "description": "Community food pantry and clothing bank serving residents of Lisbon, Lisbon Falls, Durham, and Bowdoin, open three times weekly for food distribution.",
+    "address": "16 School Street, Lisbon Falls, ME 04252",
+    "phone": "(207) 353-8544",
+    "url": "https://lacopantry.org",
+    "categorySlug": "food",
+    "zipCode": "04252"
+  },
+  {
+    "name": "Loaves & Fishes Food Pantry – Dominican Sisters of Sabattus",
+    "description": "Food pantry and financial aid program run by the Dominican Sisters, open three mornings per week and offering assistance with lodging, heating, utilities, and medical bills for residents of Sabattus and surrounding towns.",
+    "address": "61 Lisbon Road, Sabattus, ME 04280",
+    "phone": "(207) 375-8399",
+    "url": "https://www.loavesandfishes.me",
+    "categorySlug": "food",
+    "zipCode": "04280"
+  },
+  {
+    "name": "New Beginnings – Marian's Place Youth Shelter",
+    "description": "24-hour emergency shelter for runaway and homeless youth up to age 21, providing safe housing and supportive services in the Lewiston area.",
+    "address": "491 Main Street, Lewiston, ME 04240",
+    "phone": "(207) 795-4070",
+    "url": "https://newbeginmaine.org/programs/emergency-shelter/",
+    "categorySlug": "housing",
+    "zipCode": "04240"
+  },
+  {
+    "name": "Pathway Vineyard Church Food Pantry",
+    "description": "Weekly food pantry open Friday mornings, providing supplemental food assistance to individuals and families in the Lewiston area.",
+    "address": "9 Foss Street, Lewiston, ME 04240",
+    "phone": "(207) 784-9500",
+    "url": "https://www.pathwayvineyard.com",
+    "categorySlug": "food",
+    "zipCode": "04240"
+  },
+  {
+    "name": "Preble Street Rapid Re-Housing – Lewiston/Auburn",
+    "description": "Rapid re-housing program helping individuals and families experiencing homelessness quickly move into permanent housing, with caseworkers serving the greater Lewiston-Auburn area.",
+    "address": "984½ Sabattus Street, Lewiston, ME 04240",
+    "phone": null,
+    "url": "https://www.preblestreet.org/rapid-rehousing/",
+    "categorySlug": "housing",
+    "zipCode": "04240"
+  },
+  {
+    "name": "Salvation Army of Lewiston/Auburn",
+    "description": "Local corps community center offering food pantry services, a Saturday soup kitchen, and mobile food distribution in Kennedy Park to residents of Lewiston and Auburn.",
+    "address": "67 Park Street, Lewiston, ME 04240",
+    "phone": "(207) 783-0801",
+    "url": "https://easternusa.salvationarmy.org/northern-new-england/the-salvation-army-lewiston/",
+    "categorySlug": "food",
+    "zipCode": "04240"
+  },
+  {
+    "name": "Trinity Jubilee Center Food Pantry & Diaper Bank",
+    "description": "Weekly food pantry and diaper bank serving nearly 200 households per week, open to anyone in need including families with children, elderly individuals, and people experiencing homelessness.",
+    "address": "123 Bates Street, Lewiston, ME 04240",
+    "phone": "(207) 782-5700",
+    "url": "https://trinityjubileecenter.org",
+    "categorySlug": "food",
+    "zipCode": "04240"
+  },
+  {
+    "name": "Turner Community Food Pantry – North Turner Union Presbyterian Church",
+    "description": "Monthly food pantry serving Turner residents who financially qualify, operating on the last Wednesday evening of each month at the Boofy Quimby Memorial Center.",
+    "address": "58 Howes Corner Road, North Turner, ME 04266",
+    "phone": "(207) 224-8256",
+    "url": "https://www.northturnerunionpresbyterianchurch.com/outreach-activities.html",
+    "categorySlug": "food",
+    "zipCode": "04282"
+  },
+  {
+    "name": "ACAP Community Cupboard – Houlton",
+    "description": "Food pantry operated by the Aroostook County Action Program (ACAP) at their Houlton office, open Monday through Friday during business hours.",
+    "address": "91 Military St, Houlton, ME 04730",
+    "phone": "(207) 532-9526",
+    "url": "https://acap-me.org/",
+    "categorySlug": "food",
+    "zipCode": "04730"
+  },
+  {
+    "name": "Adopt-A-Block of Aroostook",
+    "description": "Community volunteer organization distributing food assistance to families in the Houlton area on a monthly basis. Located on Military Street.",
+    "address": "307 Military St, Houlton, ME 04730",
+    "phone": "(207) 532-2273",
+    "url": "https://www.foodpantries.org/ci/me-houlton",
+    "categorySlug": "food",
+    "zipCode": "04730"
+  },
+  {
+    "name": "Agape Food Pantry – Island Falls",
+    "description": "Community food pantry in Island Falls serving a wide rural area including Benedicta, Crystal, Oakfield, Sherman, Patten, and Stacyville. Appointments available; delivery offered.",
+    "address": "81 Cleaves St, Island Falls, ME 04747",
+    "phone": "(207) 463-2449",
+    "url": "https://www.foodpantries.org/li/agape_food_pantry_04747",
+    "categorySlug": "food",
+    "zipCode": "04747"
+  },
+  {
+    "name": "Aroostook County Action Program (ACAP) - Madawaska Office",
+    "description": "Community action agency providing housing, energy assistance, rental aid, and case management services to low-income residents of the Madawaska area.",
+    "address": "88 Fox Street, Madawaska, ME 04756",
+    "phone": "(207) 728-6345",
+    "url": "https://www.acap-me.org",
+    "categorySlug": "housing",
+    "zipCode": "04756"
+  },
+  {
+    "name": "Aroostook County Action Program (ACAP) – Housing & Energy Services",
+    "description": "Community action agency providing housing navigation, weatherization, energy assistance (LIHEAP/HEAP), homebuyer education, and supportive transitional housing through Norman L. Fournier Place in Presque Isle, serving all of Aroostook County.",
+    "address": "771 Main St, Presque Isle, ME 04769",
+    "phone": "(207) 764-3721",
+    "url": "https://acap-me.org/programs/energyhousing/",
+    "categorySlug": "housing",
+    "zipCode": "04769"
+  },
+  {
+    "name": "Basket of Blessings",
+    "description": "Faith-based food pantry in Fort Fairfield serving families in the area with monthly grocery distributions on Wednesday afternoons and Saturday mornings.",
+    "address": "298 Main St, Fort Fairfield, ME 04740",
+    "phone": "(207) 325-1635",
+    "url": "https://www.foodpantries.org/ci/me-fort_fairfield",
+    "categorySlug": "food",
+    "zipCode": "04740"
+  },
+  {
+    "name": "Caribou Ecumenical Food Pantry",
+    "description": "Well-established ecumenical food pantry in Caribou offering three distribution sessions per week including Tuesday and Thursday mornings and Saturday appointments.",
+    "address": "31 Herschel St Suite 1, Caribou, ME 04736",
+    "phone": "(207) 493-4860",
+    "url": "https://caribouhousingorg/resource/caribou-ecumenical-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "04736"
+  },
+  {
+    "name": "Caribou Housing Authority",
+    "description": "Public housing authority serving extremely low and very low income families in Caribou since 1977, administering Section 8 housing choice vouchers, public housing units, and a Family Self-Sufficiency program.",
+    "address": "25 High St, Caribou, ME 04736",
+    "phone": "(207) 493-4235",
+    "url": "https://caribouhousing.org/",
+    "categorySlug": "housing",
+    "zipCode": "04736"
+  },
+  {
+    "name": "Catholic Charities Maine – Presque Isle (Threads of Hope)",
+    "description": "Catholic Charities regional office providing food bank services and household supplies to income-eligible residents across Aroostook County, open six days a week.",
+    "address": "830 Main St, Presque Isle, ME 04769",
+    "phone": "(207) 493-8919",
+    "url": "https://www.ccmaine.org/food-bank",
+    "categorySlug": "food",
+    "zipCode": "04769"
+  },
+  {
+    "name": "Grace Interfaith Food Table (GIFT) Pantry",
+    "description": "Interfaith food pantry in Presque Isle operated by local churches, distributing groceries every Wednesday morning to anyone in need.",
+    "address": "11 Industrial St, Presque Isle, ME 04769",
+    "phone": "(207) 764-8584",
+    "url": "https://www.findhelp.org/gift-(grace-interfaith-food-table)--presque-isle-me--food-pantry/6372904942698496",
+    "categorySlug": "food",
+    "zipCode": "04769"
+  },
+  {
+    "name": "Greater Fort Kent Ecumenical Food Pantry",
+    "description": "Ecumenical food pantry serving Fort Kent and surrounding St. John Valley communities, distributing groceries every Wednesday with alternating morning and evening hours.",
+    "address": "229 West Main St Suite 103, Fort Kent, ME 04743",
+    "phone": "(207) 834-4126",
+    "url": "https://www.homelessshelterdirectory.org/shelter/me_greater-fort-kent-ecumenical-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "04743"
+  },
+  {
+    "name": "Homeless Services of Aroostook – Sister Mary O'Donnell Shelter",
+    "description": "The only emergency homeless shelter serving all of Aroostook County, offering 24/7 shelter, meals, case management, housing navigation, and employment support. Serves residents from Caribou to Houlton.",
+    "address": "745 Central Dr, Presque Isle, ME 04769",
+    "phone": "(207) 764-4125",
+    "url": "https://www.aroostookhomeless.org/",
+    "categorySlug": "housing",
+    "zipCode": "04769"
+  },
+  {
+    "name": "Houlton Band of Maliseet Indians Food Pantry",
+    "description": "Tribal food pantry serving the Maliseet community, located in the Housing Authority Building on Clover Circle. Open Wednesdays with morning and afternoon distribution hours.",
+    "address": "13 Clover Ct, Houlton, ME 04730",
+    "phone": "(207) 532-4273",
+    "url": "https://maliseets.net/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "04730"
+  },
+  {
+    "name": "Houlton Band of Maliseet Indians Housing Authority",
+    "description": "Provides low-income housing, down payment assistance, and HUD-backed housing services to Maliseet tribal members and qualified low-income applicants in the Houlton area.",
+    "address": "13 Clover Ct, Houlton, ME 04730",
+    "phone": "(207) 532-4273",
+    "url": "https://maliseets.net/housing-authority",
+    "categorySlug": "housing",
+    "zipCode": "04730"
+  },
+  {
+    "name": "Madawaska General Assistance Office",
+    "description": "Town of Madawaska's General Assistance program providing emergency financial help with housing, food, and utilities for qualifying residents.",
+    "address": "328 St. Thomas Street, Madawaska, ME 04756",
+    "phone": "(207) 728-6351",
+    "url": "https://townofmadawaska.com/town_departments/general_assisstance.php",
+    "categorySlug": "housing",
+    "zipCode": "04756"
+  },
+  {
+    "name": "Mi'kmaq Food Pantry",
+    "description": "Tribal food pantry serving the Mi'kmaq community in Presque Isle, open by appointment Monday through Friday.",
+    "address": "37 Midway Dr, Presque Isle, ME 04769",
+    "phone": "(207) 764-1972",
+    "url": "https://www.foodpantries.org/ci/me-presque_isle",
+    "categorySlug": "food",
+    "zipCode": "04769"
+  },
+  {
+    "name": "Mi'kmaq Nation Food Pantry",
+    "description": "Food pantry operated by the Mi'kmaq Nation providing food assistance to tribal members and the broader Presque Isle community in central Aroostook County.",
+    "address": "37 Midway Drive, Presque Isle, ME 04769",
+    "phone": "(207) 764-1972",
+    "url": "https://micmac-nsn.gov/",
+    "categorySlug": "food",
+    "zipCode": "04769"
+  },
+  {
+    "name": "Orient Town Food Pantry",
+    "description": "Small community food pantry in Orient, serving residents of the Wytopitlock / southern Aroostook border area. Open monthly on the first Friday after the first Tuesday.",
+    "address": "82 School House Rd, Orient, ME 04471",
+    "phone": "(207) 448-2730",
+    "url": "https://www.maine.gov/dacf/ard/food-assistance/tefap/Aroostook.shtml",
+    "categorySlug": "food",
+    "zipCode": "04471"
+  },
+  {
+    "name": "Presque Isle Housing Authority",
+    "description": "Local housing authority administering public housing and Section 8 Housing Choice Voucher programs for low-income residents of Presque Isle and surrounding communities including Mapleton and Chapman.",
+    "address": "58 Birch Street, Presque Isle, ME 04769",
+    "phone": "(207) 768-8321",
+    "url": "https://www.pihousing.org/",
+    "categorySlug": "housing",
+    "zipCode": "04769"
+  },
+  {
+    "name": "Southern Aroostook Pantry",
+    "description": "Independent volunteer-run nonprofit that collects, stores, and distributes food to community members across 36 surrounding towns in southern Aroostook County, often including fresh produce, dairy, and protein.",
+    "address": "434 Callaghan Rd, Houlton, ME 04730",
+    "phone": "(207) 694-6018",
+    "url": "http://www.southernaroostookpantry.com/",
+    "categorySlug": "food",
+    "zipCode": "04730"
+  },
+  {
+    "name": "St. Mary's Ecumenical Emergency Food Pantry",
+    "description": "Ecumenical food pantry operated out of St. Mary's Catholic Church, providing groceries to residents of the Houlton area. Open Tuesdays and Thursdays.",
+    "address": "112 Military St, Houlton, ME 04730",
+    "phone": "(207) 532-9122",
+    "url": "https://food-banks.org/detail/st_marys_ecumenical_emergency_food_pantry_houlton_me.html",
+    "categorySlug": "food",
+    "zipCode": "04730"
+  },
+  {
+    "name": "Bridgton Food Pantry",
+    "description": "Community food pantry providing supplemental groceries to up to 200 families weekly, serving the Bridgton and Lakes Region area. Set up like a grocery store where clients choose items that fit their family's needs.",
+    "address": "225 S High St, Bridgton, ME 04009",
+    "phone": "(207) 318-4467",
+    "url": "https://www.bridgtonfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "04009"
+  },
+  {
+    "name": "Casco Alliance Church Food Pantry",
+    "description": "Church-operated food pantry providing approximately a week's worth of groceries to Casco-area residents. Open twice monthly on the third Monday and first Tuesday evening of each month.",
+    "address": "7 Point Sebago Rd, Casco, ME 04015",
+    "phone": "(207) 344-5370",
+    "url": "https://cascoalliancechurch.com/",
+    "categorySlug": "food",
+    "zipCode": "04015"
+  },
+  {
+    "name": "Casco Village Church Food Pantry",
+    "description": "United Church of Christ congregation offering a free community food pantry to Casco-area residents on the fourth Thursday of each month, plus holiday food baskets for Thanksgiving and Christmas.",
+    "address": "941 Meadow Rd, Casco, ME 04015",
+    "phone": "(207) 627-4282",
+    "url": "https://cascovillageucc.org/",
+    "categorySlug": "food",
+    "zipCode": "04015"
+  },
+  {
+    "name": "Community Housing of Maine (CHOM)",
+    "description": "Maine's largest supportive housing provider, developing and maintaining affordable housing for working families, older adults, and individuals experiencing homelessness or with special needs.",
+    "address": "1 City Center, 4th Floor, Portland, ME 04101",
+    "phone": "207-879-0347",
+    "url": "https://www.chomhousing.org",
+    "categorySlug": "housing",
+    "zipCode": "04101"
+  },
+  {
+    "name": "CrossWalk Community Outreach",
+    "description": "Community outreach organization in Naples providing a free food pantry, community meals, clothing, and resource referrals every other Monday. Serves Naples and surrounding lake-region communities.",
+    "address": "125 State Park Rd, Naples, ME 04055",
+    "phone": "207-615-3226",
+    "url": "https://www.crosswalkcommunityoutreach.com/",
+    "categorySlug": "food",
+    "zipCode": "04055"
+  },
+  {
+    "name": "Cumberland Community Food Pantry",
+    "description": "Volunteer-operated food pantry behind Cumberland Town Hall serving Cumberland, North Yarmouth, Pownal, and New Gloucester residents every other Friday.",
+    "address": "290 Tuttle Road, Cumberland Center, ME 04021",
+    "phone": "207-558-9121",
+    "url": "https://www.townofcumberlandmaine.gov/166/Community-Food-Pantry",
+    "categorySlug": "food",
+    "zipCode": "04021"
+  },
+  {
+    "name": "Falmouth Food Pantry (Town of Falmouth General Assistance)",
+    "description": "Town-operated food pantry and general assistance program offering confidential grocery distribution and financial assistance for housing and utilities to Falmouth and neighboring area residents.",
+    "address": "271 Falmouth Road, Falmouth, ME 04105",
+    "phone": "207-632-2240",
+    "url": "https://www.falmouthme.org/337/General-Assistance-Food-Pantry",
+    "categorySlug": "food",
+    "zipCode": "04105"
+  },
+  {
+    "name": "Falmouth Service Center Food Pantry",
+    "description": "Community food pantry serving Falmouth and neighboring towns, open multiple days per week with weekly client visits permitted. Also provides financial assistance for housing and utilities.",
+    "address": "271 Falmouth Road, Falmouth, ME 04105",
+    "phone": "207-632-2687",
+    "url": "https://www.falmouthservicecenter.org/food-pantry-at-fsc",
+    "categorySlug": "food",
+    "zipCode": "04105"
+  },
+  {
+    "name": "Freeport Community Services",
+    "description": "Nonprofit serving Freeport and Pownal since 1974 with emergency assistance for food, fuel, transportation, and referrals. Provides essential services including a food pantry, fuel assistance, medical equipment lending, and community programs.",
+    "address": "53 Depot St, Freeport, ME 04032",
+    "phone": "207-865-3985",
+    "url": "https://fcsmaine.org/",
+    "categorySlug": "community",
+    "zipCode": "04032"
+  },
+  {
+    "name": "Freeport Community Services Food Pantry",
+    "description": "FCS provides a market-style food pantry for Freeport and Pownal residents, with home delivery available for those who are homebound. A partner agency of Good Shepherd Food Bank offering food, fuel assistance, and emergency services.",
+    "address": "53 Depot St, Freeport, ME 04032",
+    "phone": "207-865-3985",
+    "url": "https://fcsmaine.org/services-and-programs/food/",
+    "categorySlug": "food",
+    "zipCode": "04032"
+  },
+  {
+    "name": "Gorham Food Pantry",
+    "description": "Community food pantry serving Gorham residents at no cost. Requires proof of residency and is open Thursday mornings. Operated ecumenically by Gorham-area churches.",
+    "address": "299-B Main St, Gorham, ME 04038",
+    "phone": "(207) 222-4351",
+    "url": "https://sites.google.com/view/gorhamfoodpantry/home",
+    "categorySlug": "food",
+    "zipCode": "04038"
+  },
+  {
+    "name": "Gray Community Food Pantry",
+    "description": "Community food pantry located at the Gray Congregational Church parish house, open to anyone in need. Serves Gray and surrounding areas with food distribution on the 1st and 3rd Fridays.",
+    "address": "5 Brown St, Gray, ME 04039",
+    "phone": "207-671-4458",
+    "url": "https://extension.umaine.edu/cumberland/map-point/gray-community-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "04039"
+  },
+  {
+    "name": "Greater Portland Family Promise",
+    "description": "Nonprofit providing shelter, meals, and supportive case management for families with children experiencing homelessness, helping them achieve sustainable housing independence.",
+    "address": "PO Box 11048, Portland, ME 04104",
+    "phone": "207-200-8672",
+    "url": "https://www.gpfamilypromise.org",
+    "categorySlug": "housing",
+    "zipCode": "04101"
+  },
+  {
+    "name": "Harpswell Town Office Food Pantry (MCHPP Satellite)",
+    "description": "Satellite food pantry operated by Mid Coast Hunger Prevention Program at the Harpswell Town Office, open five days per week with no appointment required and no questions asked. Provides fresh produce, pantry staples, meat, and dairy.",
+    "address": "263 Mountain Rd, Harpswell, ME 04066",
+    "phone": "207-725-2716",
+    "url": "https://www.harpswell.maine.gov/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "04066"
+  },
+  {
+    "name": "Harrison Food Bank",
+    "description": "Nonprofit food bank serving Western Maine residents with drive-thru food distribution every Tuesday. Operates as a 501(c)(3) and believes access to nutritious food is a basic human right.",
+    "address": "176 Waterford Rd, Harrison, ME 04040",
+    "phone": "207-647-3384",
+    "url": "https://www.harrisonfoodbank.com/",
+    "categorySlug": "food",
+    "zipCode": "04040"
+  },
+  {
+    "name": "Judy's Pantry at Cape Elizabeth United Methodist Church",
+    "description": "Church-based food pantry providing grocery assistance to Cape Elizabeth and South Portland residents on the 2nd and 4th Tuesdays of each month.",
+    "address": "280 Ocean House Road, Cape Elizabeth, ME 04107",
+    "phone": "207-799-3538",
+    "url": "https://www.affordablehousing411.com/food-assistances/cape-elizabeth-me/",
+    "categorySlug": "food",
+    "zipCode": "04107"
+  },
+  {
+    "name": "MaineHealth Food Pantry – Brunswick",
+    "description": "Hospital-affiliated food pantry providing healthy food to Brunswick community members through a partnership with Good Shepherd Food Bank. Open by appointment and walk-in on select days.",
+    "address": "329 Maine St, Brunswick, ME 04011",
+    "phone": "(207) 373-4513",
+    "url": "https://www.mainehealth.org/mainehealth-mid-coast-hospital/healthy-communities-mainehealth-mid-coast-hospital/mainehealth-food-pantry-brunswick",
+    "categorySlug": "food",
+    "zipCode": "04011"
+  },
+  {
+    "name": "MaineHealth Food Pantry at Portland",
+    "description": "Walk-in food pantry at the former Greyhound Station offering fresh and non-perishable groceries every Thursday with no appointment required. Open to all.",
+    "address": "950 Congress Street, Portland, ME 04102",
+    "phone": "207-662-8842",
+    "url": "https://www.mainehealth.org/maine-medical-center/healthy-communities-mainehealth-maine-medical-center/mainehealth-food-pantry-portland",
+    "categorySlug": "food",
+    "zipCode": "04102"
+  },
+  {
+    "name": "MCHPP Satellite Food Pantry at Harpswell Town Office",
+    "description": "Satellite food pantry operated by Mid Coast Hunger Prevention Program, located in the Harpswell Town Office serving Bailey Island and all of Harpswell. No appointment needed, no questions asked.",
+    "address": "263 Mountain Rd, Harpswell, ME 04079",
+    "phone": "(207) 725-2716",
+    "url": "https://www.mchpp.org/",
+    "categorySlug": "food",
+    "zipCode": "04079"
+  },
+  {
+    "name": "Milestone Recovery",
+    "description": "Recovery-focused organization providing emergency shelter, medically managed detoxification, transitional housing, and housing navigation services for individuals in Portland.",
+    "address": "65 India Street, Portland, ME 04101",
+    "phone": "207-775-4790",
+    "url": "https://milestone-recovery.org",
+    "categorySlug": "crisis",
+    "zipCode": "04101"
+  },
+  {
+    "name": "Naples Food Pantry",
+    "description": "Food pantry hosted at Naples United Methodist Church serving Naples low-income residents on Tuesday mornings. Operated by volunteer community members to address local food insecurity.",
+    "address": "1000 Roosevelt Trl, Naples, ME 04055",
+    "phone": "207-595-2754",
+    "url": "https://extension.umaine.edu/cumberland/map-point/naples-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "04055"
+  },
+  {
+    "name": "New Gloucester Food Pantry",
+    "description": "Community food pantry at the First Congregational-Christian Church distributing groceries twice monthly on Saturday mornings, partnering with Good Shepherd Food Bank.",
+    "address": "19 Church Road, New Gloucester, ME 04260",
+    "phone": "207-926-3260",
+    "url": "https://www.ngucc.org/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "04260"
+  },
+  {
+    "name": "North Pownal United Methodist Church Food Pantry",
+    "description": "Church-based food pantry serving Pownal and surrounding communities on Wednesday mornings. Provides free groceries to residents in need in the North Pownal area.",
+    "address": "851 Lawrence Rd, Pownal, ME 04069",
+    "phone": "207-688-4938",
+    "url": "https://www.northpownalumc.org/",
+    "categorySlug": "food",
+    "zipCode": "04069"
+  },
+  {
+    "name": "Peaks Island Community Food Pantry",
+    "description": "Year-round island food pantry at Brackett Memorial Church offering weekly grocery selection plus clothing vouchers, diapers, and social services referrals with a social worker on site.",
+    "address": "3 Church Avenue, Peaks Island, ME 04108",
+    "phone": "207-766-5013",
+    "url": "https://www.peaksislandfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "04108"
+  },
+  {
+    "name": "Preble Street Food Security Hub",
+    "description": "Large-scale food production and distribution facility capable of cooking 10,000 meals daily and storing 50,000 prepared frozen meals, serving the regional food pantry network seven days a week.",
+    "address": "75 Darling Avenue, South Portland, ME 04106",
+    "phone": "207-775-0026",
+    "url": "https://www.preblestreet.org/what-we-do/food-programs/foodsecurityhub/",
+    "categorySlug": "food",
+    "zipCode": "04106"
+  },
+  {
+    "name": "Preble Street Resource Center",
+    "description": "Comprehensive social services nonprofit offering accessible, barrier-free food, shelter, housing, and crisis services to people experiencing homelessness and poverty in Greater Portland.",
+    "address": "55 Portland Street, Portland, ME 04101",
+    "phone": "207-775-0026",
+    "url": "https://www.preblestreet.org",
+    "categorySlug": "housing",
+    "zipCode": "04101"
+  },
+  {
+    "name": "Project FEED (Food Emergency Exchange Depot)",
+    "description": "Nonprofit emergency food pantry founded in 1975 by Portland clergy, distributing groceries Tuesday through Thursday afternoons to individuals and families in need.",
+    "address": "640 Brighton Avenue, Portland, ME 04102",
+    "phone": "207-761-3920",
+    "url": "https://www.projectfeed.org",
+    "categorySlug": "food",
+    "zipCode": "04102"
+  },
+  {
+    "name": "Raymond Food Pantry",
+    "description": "Nonprofit food pantry at Lake Region Baptist Church serving Raymond residents, open the 2nd and 4th Thursday of each month. Distributes fresh produce, dairy, and protein to support healthy diets during hardship.",
+    "address": "1273 Roosevelt Trl, Raymond, ME 04071",
+    "phone": "207-655-6594",
+    "url": "https://www.raymondmaine.org/community-resources/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "04071"
+  },
+  {
+    "name": "Sacred Heart / St. Dominic Food Pantry",
+    "description": "Catholic parish food pantry serving Portland residents with grocery staples every Tuesday morning. Open to all in need regardless of residency.",
+    "address": "80 Sherman Street, Portland, ME 04101",
+    "phone": "207-773-7746",
+    "url": "https://portlandcatholic.org/sh-sd-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "04101"
+  },
+  {
+    "name": "Salvation Army Portland Food Pantry",
+    "description": "Emergency food pantry providing monthly grocery assistance to individuals and families by appointment. Serves Portland and surrounding communities.",
+    "address": "297 Cumberland Avenue, Portland, ME 04101",
+    "phone": "207-774-4172",
+    "url": "https://www.salvationarmyusa.org/usn/",
+    "categorySlug": "food",
+    "zipCode": "04101"
+  },
+  {
+    "name": "Scarborough Food Pantry",
+    "description": "All-volunteer food pantry located at First Congregational Church of Scarborough, open twice weekly plus one evening session per week. Provides free nutritious food to Scarborough-area residents in need.",
+    "address": "167 Black Point Rd, Scarborough, ME 04074",
+    "phone": "207-883-2342",
+    "url": "https://scarboroughfoodpantry.weebly.com/",
+    "categorySlug": "food",
+    "zipCode": "04074"
+  },
+  {
+    "name": "Sebago Warming Hut",
+    "description": "Community food pantry and clothes closet operated by the Town of Sebago, area churches, and civic groups. Serves Sebago residents with food distribution on rotating Mondays and a clothes closet open Saturdays.",
+    "address": "183 Sebago Rd, Sebago, ME 04029",
+    "phone": "207-787-5105",
+    "url": "https://www.townofsebago.org/general-assistance/pages/sebago-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "04029"
+  },
+  {
+    "name": "South Portland Food Cupboard",
+    "description": "Volunteer-based nonprofit food pantry providing fresh and shelf-stable groceries to income-qualifying households in South Portland and surrounding communities three days per week.",
+    "address": "130 Thadeus Street, South Portland, ME 04106",
+    "phone": "207-874-0379",
+    "url": "https://www.southportlandfoodcupboard.org",
+    "categorySlug": "food",
+    "zipCode": "04106"
+  },
+  {
+    "name": "Standish Food Pantry",
+    "description": "Community food pantry serving Standish and surrounding area residents, open twice weekly with Monday morning and Wednesday evening distribution hours.",
+    "address": "410 Northeast Rd, Standish, ME 04084",
+    "phone": "(207) 358-0359",
+    "url": "https://www.standishfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "04084"
+  },
+  {
+    "name": "Stroudwater Food Pantry",
+    "description": "Volunteer-run neighborhood food pantry serving the Stroudwater area of Portland with groceries on Sunday afternoons. Open to all community members.",
+    "address": "1520 Westbrook Street, Portland, ME 04102",
+    "phone": "207-200-5985",
+    "url": "https://stroudwaterfoodpantry.com",
+    "categorySlug": "food",
+    "zipCode": "04102"
+  },
+  {
+    "name": "Sweden Food Pantry",
+    "description": "Community food pantry serving Sweden, Bridgton, Lovell, Fryeburg, Stow, Stoneham, Waterford, and surrounding towns. Open the 1st and 3rd Wednesdays of each month, 10am–1pm, in the historic Sweden Community Church.",
+    "address": "137 Bridgton Road, Sweden, ME 04040",
+    "phone": "207-647-5735",
+    "url": "https://swedenfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "04040"
+  },
+  {
+    "name": "Tedford Housing – Emergency Shelter",
+    "description": "Nonprofit providing emergency shelter for adults and families across northern Cumberland, Sagadahoc, and Lincoln counties, including Harpswell. Shelter guests receive meals and case management.",
+    "address": "65 Thomas Point Rd, Brunswick, ME 04011",
+    "phone": "(207) 729-1161",
+    "url": "https://www.tedfordhousing.org/",
+    "categorySlug": "housing",
+    "zipCode": "04011"
+  },
+  {
+    "name": "The Opportunity Alliance – Cumberland County Homelessness Prevention Program",
+    "description": "Provides housing case management, information, and resources to help families and individuals in Cumberland County find, secure, and maintain housing. Serves communities including Cumberland, Gorham, and Standish (excluding Portland and Brunswick).",
+    "address": "50 Lydia Ln, South Portland, ME 04106",
+    "phone": "(877) 429-6884",
+    "url": "https://www.opportunityalliance.org/cchp",
+    "categorySlug": "housing",
+    "zipCode": "04106"
+  },
+  {
+    "name": "Through These Doors",
+    "description": "Domestic violence shelter and advocacy organization operating a 16-bed emergency residential shelter and 24-hour helpline for survivors in the Greater Portland area.",
+    "address": "PO Box 704, Portland, ME 04104",
+    "phone": "1-800-537-6066",
+    "url": "https://throughthesedoors.org",
+    "categorySlug": "crisis",
+    "zipCode": "04101"
+  },
+  {
+    "name": "Town of Baldwin Food Pantry",
+    "description": "Municipal food assistance program providing supplemental groceries to residents of the Baldwin area through the town community center.",
+    "address": "534 Pequawket Trail, West Baldwin, ME 04091",
+    "phone": "207-625-3581",
+    "url": "https://www.baldwinmaine.org/food-pantry-.html",
+    "categorySlug": "food",
+    "zipCode": "04091"
+  },
+  {
+    "name": "Wayside Food Programs",
+    "description": "Community organization fighting hunger in Greater Portland by providing food distribution, community meals, and mobile grocery programs to residents throughout the area.",
+    "address": "135 Walton Street, Portland, ME 04104",
+    "phone": "207-775-4939",
+    "url": "https://www.waysidemaine.org",
+    "categorySlug": "food",
+    "zipCode": "04103"
+  },
+  {
+    "name": "Westbrook Food Pantry",
+    "description": "Curbside food pantry operating out of the Westbrook Community Center every Tuesday, providing weekly grocery pickup to Westbrook residents.",
+    "address": "426 Bridge Street, Westbrook, ME 04092",
+    "phone": "207-591-8147",
+    "url": "https://westbrookfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "04092"
+  },
+  {
+    "name": "Windham Food Pantry",
+    "description": "Town-supported food pantry at Windham Public Safety Building serving Windham residents by appointment with proof of residency. Open Monday through Thursday and distributes food on a monthly basis.",
+    "address": "377 Gray Rd, Windham, ME 04062",
+    "phone": "207-892-1931",
+    "url": "https://www.windhammaine.us/resourcedirectory/detail/index?resourceId=11&mobile=on",
+    "categorySlug": "food",
+    "zipCode": "04062"
+  },
+  {
+    "name": "Windham Neighbors Helping Neighbors",
+    "description": "Local nonprofit providing one-time emergency heating fuel assistance to Windham residents in critical need. Connects individuals to long-term resources and promotes community mutual aid.",
+    "address": "PO Box 1956, Windham, ME 04062",
+    "phone": "207-756-9738",
+    "url": "https://windhamneighbors.com/",
+    "categorySlug": "utilities",
+    "zipCode": "04062"
+  },
+  {
+    "name": "Yarmouth Community Food Pantry (YCAN)",
+    "description": "Income-based food pantry run by Yarmouth Cares About Neighbors offering groceries and personal items to Yarmouth families twice a week, with delivery available for those unable to visit.",
+    "address": "116 Main Street (Storer Street entrance), Yarmouth, ME 04096",
+    "phone": "207-844-3320",
+    "url": "https://ycan.info/food-support/",
+    "categorySlug": "food",
+    "zipCode": "04096"
+  },
+  {
+    "name": "Care and Share Food Closet",
+    "description": "Ecumenical nonprofit providing a 3–5 day supply of food once a month to households in the greater Farmington area, including Farmington, West Farmington, New Vineyard, New Sharon, Temple, and Chesterville. Open Monday–Friday 12–2 pm.",
+    "address": "508 Fairbanks Road, Farmington, ME 04938",
+    "phone": "207-778-0508",
+    "url": "https://www.careandsharefoodcloset.org/",
+    "categorySlug": "food",
+    "zipCode": "04938"
+  },
+  {
+    "name": "Ecumenical Food Pantry at Church of the Good Shepherd",
+    "description": "Ecumenical food pantry hosted by the Church of the Good Shepherd serving the Rangeley Lakes region, open Tuesdays 10 am–noon. Free food available to all community members.",
+    "address": "2614 Main Street, Rangeley, ME 04970",
+    "phone": "207-520-2470",
+    "url": "https://goodshepherdrangeley.org/ministries/outreach/ecumenical-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "04970"
+  },
+  {
+    "name": "Faith Works Community Outreach",
+    "description": "Interfaith nonprofit food pantry serving Strong and surrounding communities. Open Tuesday 10 am–noon and 5–7 pm, Wednesday noon–2 pm.",
+    "address": "44 N. Main Street, Strong, ME 04983",
+    "phone": "207-578-2118",
+    "url": "https://faithworksmaine.org/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "04983"
+  },
+  {
+    "name": "Food Cupboard of Jay, Livermore and Livermore Falls",
+    "description": "Community food pantry serving Jay and surrounding towns, providing a 3-day supply of supplemental food, open multiple days per week including an evening session on Tuesdays.",
+    "address": "1 Church Street, Jay, ME 04239",
+    "phone": "(207) 897-2441",
+    "url": "https://www.foodcupboardjllf.org",
+    "categorySlug": "food",
+    "zipCode": "04239"
+  },
+  {
+    "name": "MaineHealth Food Pantry at Franklin",
+    "description": "Hospital-based food pantry providing free fresh, frozen, and shelf-stable food to MaineHealth patients and any community member experiencing food insecurity in Franklin County. Open Monday and Wednesday 10 am–2 pm, Friday 11 am–3 pm.",
+    "address": "200 Franklin Health Commons, Farmington, ME 04938",
+    "phone": "207-779-2928",
+    "url": "https://www.mainehealth.org/mainehealth-franklin-hospital/healthy-communities/mainehealth-food-pantry-farmington",
+    "categorySlug": "food",
+    "zipCode": "04938"
+  },
+  {
+    "name": "Phillips Area Food Pantry",
+    "description": "Community food pantry serving Phillips, Avon, Madrid, and surrounding towns including Kingfield. Open select Thursdays 9 am–noon and the 2nd Thursday 3–5:30 pm.",
+    "address": "15 Russell Street, Phillips, ME 04966",
+    "phone": "207-491-0118",
+    "url": "https://thecommunityconnector.org/directory/profile/phillips-shared-ministry/",
+    "categorySlug": "food",
+    "zipCode": "04966"
+  },
+  {
+    "name": "Phillips Area Food Pantry",
+    "description": "Community food pantry also serving Temple residents as part of its Franklin County service area. Open select Thursdays 9 am–noon and the 2nd Thursday 3–5:30 pm.",
+    "address": "15 Russell Street, Phillips, ME 04966",
+    "phone": "207-491-0118",
+    "url": "https://www.findhelp.org/provider/phillips-area-food-pantry--phillips-me/6009636097097728?postal=04984",
+    "categorySlug": "food",
+    "zipCode": "04966"
+  },
+  {
+    "name": "Safe Voices – Lupine Landing Shelter",
+    "description": "Domestic violence shelter for survivors in Franklin County with four emergency shelter rooms and two residential apartments. Confidential location; contact the 24-hour helpline for placement.",
+    "address": "Farmington, ME 04938",
+    "phone": "207-778-6107",
+    "url": "https://safevoices.org/get-help/shelter-housing/",
+    "categorySlug": "crisis",
+    "zipCode": "04938"
+  },
+  {
+    "name": "St. Rose of Lima Community Food Pantry",
+    "description": "Open-access food pantry and community meal program at the parish hall in Jay, with a walk-in pantry open seven days a week and free community meals on the first and third Saturdays.",
+    "address": "1 Church Street, Jay, ME 04239",
+    "phone": "(207) 897-2173",
+    "url": "https://stroseandstjosephmaine.org/st-rose-food-initiatives",
+    "categorySlug": "food",
+    "zipCode": "04239"
+  },
+  {
+    "name": "Stratton-Eustis Food Pantry",
+    "description": "Community food pantry serving Stratton and Eustis residents, open the Friday following the third Wednesday of each month from 9 am–noon. Provides one week's supply of food per family per month.",
+    "address": "84 Main Street, Stratton, ME 04982",
+    "phone": "207-246-7011",
+    "url": "https://mainefoodatlas.org/location/?eid=4285&ss=&lname=Stratton-Eustis-Food-Pantry",
+    "categorySlug": "food",
+    "zipCode": "04982"
+  },
+  {
+    "name": "Town of Weld General Assistance",
+    "description": "Municipal program providing confidential financial assistance to Weld residents for basic necessities including food, shelter, fuel, electricity, and medical expenses.",
+    "address": "23 Mill Street, Weld, ME 04285",
+    "phone": "207-585-2348",
+    "url": "https://www.weld-maine.org/permits-services/general-assistance",
+    "categorySlug": "community",
+    "zipCode": "04285"
+  },
+  {
+    "name": "Western Maine Community Action (WMCA)",
+    "description": "Regional nonprofit community action agency serving western Maine since 1965 with housing and energy assistance, food programs, and support services for low- and moderate-income residents.",
+    "address": "20A Church Street, East Wilton, ME 04234",
+    "phone": "207-645-3764",
+    "url": "https://www.wmca.org",
+    "categorySlug": "housing",
+    "zipCode": "04239"
+  },
+  {
+    "name": "Wilton Area Food Pantry",
+    "description": "Addresses the needs of low-income individuals and households that lack reliable access to affordable, nutritious food. Open Tuesday–Thursday 10 am–12 pm at the United Methodist Church.",
+    "address": "600 Main Street, Wilton, ME 04294",
+    "phone": "207-645-3840",
+    "url": "https://thecommunityconnector.org/directory/profile/wilton-area-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "04294"
+  },
+  {
+    "name": "Bar Harbor Food Pantry",
+    "description": "Provides healthy food and household products free of charge to Hancock County residents with no documentation required. Open Tuesday–Friday with extended Thursday evening hours.",
+    "address": "36 Mt Desert St, Bar Harbor, ME 04609",
+    "phone": "207-288-3375",
+    "url": "https://www.barharborfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "04609"
+  },
+  {
+    "name": "Bucksport Community Concerns Food Pantry",
+    "description": "Community nonprofit providing food, hygiene and household goods, clothing, and seasonal programs (holiday baskets, back-to-school supplies) to residents of Bucksport, Orland, Verona Island, and Prospect. Open Mondays 5–7 pm and Wednesdays 9:30–11:30 am.",
+    "address": "181 Franklin Street, Bucksport, ME 04416",
+    "phone": "207-702-9087",
+    "url": "https://www.bucksportmaine.gov/community/food_pantry.php",
+    "categorySlug": "food",
+    "zipCode": "04416"
+  },
+  {
+    "name": "Common Good Soup Kitchen",
+    "description": "Community kitchen and food pantry serving all individuals of the Mount Desert Island community with food and friendship. Offers a monthly food pantry distribution and a weekly community meal.",
+    "address": "19 Clark Point Road, Southwest Harbor, ME 04679",
+    "phone": "(207) 244-3007",
+    "url": "https://www.commongoodkitchen.org",
+    "categorySlug": "food",
+    "zipCode": "04679"
+  },
+  {
+    "name": "Common Good Soup Kitchen",
+    "description": "Nonprofit serving free meals, operating a food and pet food pantry, and providing weekly grocery delivery to 70 households across Mount Desert Island. Founded in 2009 to serve all island residents.",
+    "address": "19 Clark Point Rd, Southwest Harbor, ME 04679",
+    "phone": "207-244-3007",
+    "url": "https://commongoodsoupkitchen.com/",
+    "categorySlug": "food",
+    "zipCode": "04679"
+  },
+  {
+    "name": "Emmaus Center Food Pantry",
+    "description": "On-site food pantry at the Emmaus Homeless Shelter in Ellsworth, open Monday–Friday 10am–2pm with advance notice. Serves residents of Blue Hill, Brooklin, Brooksville, Castine, and surrounding areas.",
+    "address": "51 Main St, Ellsworth, ME 04605",
+    "phone": "207-667-3962",
+    "url": "https://www.emmaushomelessshelter.org/food-pantry.html",
+    "categorySlug": "food",
+    "zipCode": "04605"
+  },
+  {
+    "name": "Emmaus Homeless Shelter",
+    "description": "A 25-bed emergency shelter operating 24/7/365 serving homeless men, women, and families in Ellsworth and surrounding Hancock County communities. Also includes an on-site food pantry, housing navigation, and support services.",
+    "address": "51 Main St, Ellsworth, ME 04605",
+    "phone": "207-667-3962",
+    "url": "http://emmaushomelessshelter.org/",
+    "categorySlug": "housing",
+    "zipCode": "04605"
+  },
+  {
+    "name": "Families First Community Center",
+    "description": "Transitional housing program for homeless families with children in Hancock County, offering six apartment units with 12–18 month stays. Residents receive life skills support including parenting, budgeting, and employment coaching.",
+    "address": "41 North Street, Ellsworth, ME 04605",
+    "phone": "(207) 460-3711",
+    "url": "https://familiesfirstellsworth.org",
+    "categorySlug": "housing",
+    "zipCode": "04605"
+  },
+  {
+    "name": "H.O.M.E. Co-Op Food Pantry",
+    "description": "Food pantry run by H.O.M.E. Inc. at their Orland cooperative campus, open weekday mornings and early afternoons serving low-income residents of the greater Hancock County area.",
+    "address": "90 School House Road, Orland, ME 04472",
+    "phone": "(207) 469-7961",
+    "url": "https://homemmausa.org/community-assistance/",
+    "categorySlug": "food",
+    "zipCode": "04472"
+  },
+  {
+    "name": "H.O.M.E. Inc.",
+    "description": "Nonprofit founded in 1970 offering emergency overnight shelter, housing navigation, and food rescue programs serving Hancock County including the Bucksport area. Operates 55 emergency shelter beds across four locations.",
+    "address": "90 School House Road, Orland, ME 04472",
+    "phone": "207-469-7961",
+    "url": "https://homemmausa.org/",
+    "categorySlug": "housing",
+    "zipCode": "04472"
+  },
+  {
+    "name": "H.O.M.E. Inc. Emergency Shelter",
+    "description": "Provides emergency overnight shelter and housing navigation services to help guests find permanent, stable housing. Shelter accessible Monday–Friday 8am–4pm; emergency after-hours line also available.",
+    "address": "90 School House Rd, Orland, ME 04472",
+    "phone": "207-469-7961",
+    "url": "https://homemmausa.org/community-assistance/shelter/",
+    "categorySlug": "housing",
+    "zipCode": "04472"
+  },
+  {
+    "name": "H.O.M.E. Inc. Food Pantry",
+    "description": "Community food pantry offering monthly food boxes and produce to individuals and families, with hot lunch served Sunday through Friday at noon. Serves Orland and surrounding communities year-round.",
+    "address": "90 School House Rd, Orland, ME 04472",
+    "phone": "207-469-7961",
+    "url": "https://homemmausa.org/community-assistance/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "04472"
+  },
+  {
+    "name": "Hancock County Habitat for Humanity",
+    "description": "Nonprofit that partners with economically disadvantaged families to build affordable homes sold under affordable mortgages. Also provides home repair and rehabilitation services in Hancock County.",
+    "address": "21 School House Rd, Suite 20, Orland, ME 04472",
+    "phone": "207-702-9457",
+    "url": "https://www.hancockcountyhabitat.org/",
+    "categorySlug": "housing",
+    "zipCode": "04472"
+  },
+  {
+    "name": "Healthy Acadia Housing Support Program",
+    "description": "Provides housing navigation to individuals and families in Hancock and Washington counties who are unhoused or at risk of homelessness, helping them find, apply for, and maintain stable housing.",
+    "address": "24 Church St, Ellsworth, ME 04605",
+    "phone": "207-412-2288",
+    "url": "https://healthyacadia.org/hpm-ehs",
+    "categorySlug": "housing",
+    "zipCode": "04605"
+  },
+  {
+    "name": "Healthy Island Project – HIP Pantry",
+    "description": "Nonprofit food pantry serving Deer Isle and Stonington, open Wednesdays with fresh food rescue from Hannaford and monthly free produce days in partnership with Good Shepherd Food Bank.",
+    "address": "91 South Burnt Cove Road, Stonington, ME 04681",
+    "phone": "(207) 367-6332",
+    "url": "https://healthyislandproject.org/edible-island/",
+    "categorySlug": "food",
+    "zipCode": "04681"
+  },
+  {
+    "name": "Healthy Island Project HIP Pantry",
+    "description": "Nonprofit food pantry on Deer Isle enhancing the health of the Stonington community; partners with Good Shepherd Food Bank and offers free produce days. Open Wednesdays with extended free-produce hours the fourth Wednesday monthly.",
+    "address": "91 South Burnt Cove Road, Stonington, ME 04681",
+    "phone": "(207) 367-6332",
+    "url": "https://healthyislandproject.org",
+    "categorySlug": "food",
+    "zipCode": "04681"
+  },
+  {
+    "name": "Island Food Pantry",
+    "description": "Independent nonprofit food pantry located in the basement of the Island Community Center, providing free food to residents of Deer Isle, Stonington, and surrounding island communities.",
+    "address": "6 Memorial Lane, Stonington, ME 04627",
+    "phone": "207-460-1776",
+    "url": "https://food-banks.org/detail/island_food_pantry_stonington_me.html",
+    "categorySlug": "food",
+    "zipCode": "04627"
+  },
+  {
+    "name": "Island Food Pantry",
+    "description": "Local food pantry serving residents of Deer Isle, Stonington, Little Deer Isle, and Isle au Haut. Open Thursday evenings for food distribution; run in partnership with Good Shepherd Food Bank.",
+    "address": "17 Woods Road, Deer Isle, ME 04627",
+    "phone": "(207) 460-1776",
+    "url": "https://www.foodpantries.org/li/island_food_pantry_04627",
+    "categorySlug": "food",
+    "zipCode": "04627"
+  },
+  {
+    "name": "Island Food Pantry",
+    "description": "Independent nonprofit food pantry located in the basement of the Island Community Center, serving Deer Isle and Stonington residents with free groceries every Thursday; delivers to elderly and mobility-impaired community members.",
+    "address": "10 Memorial Lane, Stonington, ME 04681",
+    "phone": "(207) 367-2735",
+    "url": "https://islandcommunitycenter.org",
+    "categorySlug": "food",
+    "zipCode": "04681"
+  },
+  {
+    "name": "Loaves & Fishes Food Pantry",
+    "description": "Provides free food to anyone in need in Hancock County with no questions asked and no documentation required. Open Monday, Wednesday, and Friday mornings, plus Wednesday evenings.",
+    "address": "119 Bucksport Rd, Ellsworth, ME 04605",
+    "phone": "207-667-4363",
+    "url": "https://www.loavesandfishesellsworth.org/",
+    "categorySlug": "food",
+    "zipCode": "04605"
+  },
+  {
+    "name": "Maine Seacoast Mission – Island Outreach",
+    "description": "Nonprofit serving 16 unbridged Maine islands including Matinicus Isle, Isle au Haut, and North Haven with food pantry restocking, health care, telehealth, and community outreach via the vessel Sunbeam.",
+    "address": "127 West Street, Bar Harbor, ME 04609",
+    "phone": "207-288-5097",
+    "url": "https://seacoastmission.org/sunbeam/island-outreach/",
+    "categorySlug": "food",
+    "zipCode": "04609"
+  },
+  {
+    "name": "MDI and Ellsworth Housing Authorities",
+    "description": "Provides public housing and rental assistance programs to income-qualified individuals and families on Mount Desert Island and in Ellsworth, including Section 8 vouchers.",
+    "address": "PO Box 28, Bar Harbor, ME 04609",
+    "phone": "207-288-4770",
+    "url": "http://www.emdiha.org/",
+    "categorySlug": "housing",
+    "zipCode": "04609"
+  },
+  {
+    "name": "NextStep Domestic Violence Project",
+    "description": "Provides 24/7 emergency shelter, legal advocacy, support groups, and crisis services for survivors of domestic violence in Hancock and Washington Counties. Confidential location; call helpline first.",
+    "address": "PO Box 1466, 733 Bangor Rd, Ellsworth, ME 04605",
+    "phone": "207-667-0176",
+    "url": "https://www.nextstepdvproject.org/",
+    "categorySlug": "crisis",
+    "zipCode": "04605"
+  },
+  {
+    "name": "Schoodic Food Pantry",
+    "description": "Market-style food pantry providing food, paper products, and hygiene items to anyone in need. Serves residents of Gouldsboro, Winter Harbor, Steuben, Sullivan, and surrounding communities.",
+    "address": "829 US Route 1, Gouldsboro, ME 04607",
+    "phone": "207-650-9164",
+    "url": "https://www.facebook.com/p/Schoodic-Food-Pantry-100082394910460/",
+    "categorySlug": "food",
+    "zipCode": "04607"
+  },
+  {
+    "name": "Tree of Life Food Pantry",
+    "description": "Provides food to residents of Blue Hill, Brooklin, Brooksville, Castine, Orland, Penobscot, Sedgwick, and Surry. No one is turned away. Self-funded through its TurnStyle Thrift Shop.",
+    "address": "23 South St, Blue Hill, ME 04614",
+    "phone": "207-374-2900",
+    "url": "https://www.treeoflifepantry.org/",
+    "categorySlug": "food",
+    "zipCode": "04614"
+  },
+  {
+    "name": "Trinity Episcopal Church Food Pantry",
+    "description": "Free community food pantry accessible 24/7 in the lower-level entryway of Trinity Episcopal Church, serving Castine and surrounding Hancock County communities.",
+    "address": "150 Perkins Street, Castine, ME 04421",
+    "phone": "207-326-4180",
+    "url": "https://trinitycastine.org/",
+    "categorySlug": "food",
+    "zipCode": "04421"
+  },
+  {
+    "name": "Westside Food Pantry",
+    "description": "Volunteer-run food pantry serving the towns of Southwest Harbor, Tremont, and Mount Desert for over 30 years. Food is distributed at St. John Episcopal Church on Main Street in Southwest Harbor.",
+    "address": "315 Main Street (St. John Episcopal Church), Southwest Harbor, ME 04679",
+    "phone": "(207) 664-8615",
+    "url": "https://westsidefoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "04679"
+  },
+  {
+    "name": "Augusta Food Bank",
+    "description": "Nonprofit food bank providing free groceries by appointment to residents of Augusta and Manchester, with open surplus food distributions on Thursdays open to anyone.",
+    "address": "161 Mt. Vernon Avenue, Augusta, ME 04330",
+    "phone": "(207) 622-5225",
+    "url": "https://www.augustafoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "04330"
+  },
+  {
+    "name": "Belgrade-Rome Special Needs Food Pantry",
+    "description": "Food pantry serving Belgrade and Rome residents who meet Maine TEFAP income guidelines, open Tuesdays 9–11am.",
+    "address": "508 Smithfield Road, Belgrade, ME 04917",
+    "phone": "207-495-2022",
+    "url": "https://www.foodpantries.org/li/belgrade-rome_special_needs_food_pantry_04917",
+    "categorySlug": "food",
+    "zipCode": "04917"
+  },
+  {
+    "name": "Bread of Life Ministries",
+    "description": "Faith-based organization serving Augusta since 1984 with a daily soup kitchen, two emergency shelters (family and veterans), and over 100 supportive housing units throughout the city.",
+    "address": "159 Water Street, Augusta, ME 04330",
+    "phone": "(207) 626-3434",
+    "url": "https://mainebreadoflife.org",
+    "categorySlug": "housing",
+    "zipCode": "04330"
+  },
+  {
+    "name": "Bridging the Gap",
+    "description": "Low-barrier social service center in Augusta operating a clothing bank, hygiene essentials pantry, overnight warming center for homeless individuals, and resource navigation services.",
+    "address": "209 Eastern Avenue, Augusta, ME 04330",
+    "phone": "(207) 248-1782",
+    "url": "https://www.btgaugusta.org",
+    "categorySlug": "crisis",
+    "zipCode": "04330"
+  },
+  {
+    "name": "China Community Food Pantry",
+    "description": "Volunteer-run pantry founded over 30 years ago to reduce food insecurity in central Maine, open Fridays and Saturdays noon–1pm to anyone in need.",
+    "address": "1320 Lakeview Drive, South China, ME 04358",
+    "phone": "207-968-2421",
+    "url": "https://www.foodpantries.org/li/me_south-china_china-community-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "04358"
+  },
+  {
+    "name": "Chrysalis Place Food Bank",
+    "description": "Nonprofit food pantry serving residents of the Gardiner, Farmingdale, Randolph, Chelsea, Pittston, and West Gardiner area; offers produce, dairy, frozen meats, and nonperishables with home delivery available for seniors.",
+    "address": "576 Brunswick Avenue, Gardiner, ME 04345",
+    "phone": "(207) 582-5507",
+    "url": "https://www.gardinerfoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "04345"
+  },
+  {
+    "name": "Faith Food Pantry",
+    "description": "501(c)(3) nonprofit food pantry operated by Faith Christian Church in Gardiner, providing free groceries to community members most Fridays and one Saturday each month.",
+    "address": "280 Brunswick Avenue, Gardiner, ME 04345",
+    "phone": "(207) 203-0002",
+    "url": "https://www.faithchristianchurch.me/blank-5",
+    "categorySlug": "food",
+    "zipCode": "04345"
+  },
+  {
+    "name": "Family Violence Project",
+    "description": "Provides free, confidential emergency shelter, safety planning, legal advocacy, and housing support to survivors of domestic abuse in Kennebec and Somerset counties; 24/7 helpline available.",
+    "address": "PO Box 304, Augusta, ME 04332",
+    "phone": "1-877-890-7788",
+    "url": "https://www.familyviolenceproject.org/",
+    "categorySlug": "crisis",
+    "zipCode": "04347"
+  },
+  {
+    "name": "Greater Waterville Area Food Bank",
+    "description": "A volunteer-run food bank founded in 1981 by the Waterville Area Interfaith Council, providing groceries including fresh produce, dairy, meat, bread, and pantry staples. Clients may visit every two weeks.",
+    "address": "61 Pleasant Street, Waterville, ME 04901",
+    "phone": "207-616-0363",
+    "url": "https://watervillefoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "04901"
+  },
+  {
+    "name": "Hallowell Food Pantry",
+    "description": "Free food pantry serving Hallowell residents only, open Fridays 10–11am and 1–2pm, operated through a local community organization.",
+    "address": "124 Second Street, Hallowell, ME 04347",
+    "phone": "207-992-6899",
+    "url": "https://www.maine.gov/dacf/ard/food-assistance/tefap/Kennebec.shtml",
+    "categorySlug": "food",
+    "zipCode": "04347"
+  },
+  {
+    "name": "Kennebec Valley Community Action Program (KVCAP)",
+    "description": "Community action agency serving Kennebec and surrounding counties with housing counseling, rental assistance, homebuyer education, weatherization, heating assistance, and other antipoverty services.",
+    "address": "22 Armory Street, Augusta, ME 04330",
+    "phone": "(207) 622-4761",
+    "url": "https://www.kvcap.org",
+    "categorySlug": "housing",
+    "zipCode": "04330"
+  },
+  {
+    "name": "KVCAP Energy & Housing Services",
+    "description": "Kennebec Valley Community Action Program offers heating assistance, weatherization, home repair, foreclosure prevention, homebuyer education, and rental counseling to income-eligible households across Kennebec and Somerset counties.",
+    "address": "97 Water Street, Waterville, ME 04901",
+    "phone": "207-859-1637",
+    "url": "https://www.kvcap.org/for-the-home/energy-housing-services-overview/",
+    "categorySlug": "housing",
+    "zipCode": "04901"
+  },
+  {
+    "name": "Lord's Cupboard Food Pantry",
+    "description": "Community food pantry in Readfield providing free groceries to families in need; call ahead to confirm hours and eligibility.",
+    "address": "874 Main Street, Readfield, ME 04355",
+    "phone": "207-685-4572",
+    "url": "https://mainefoodbanks.org/food-bank/lords-cupboard-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "04355"
+  },
+  {
+    "name": "Maranacook Area Food Pantry",
+    "description": "School-based food pantry serving families in Manchester, Readfield, Mount Vernon, Wayne, and Fayette. Offers curbside pickup Thursdays 3:30–4:30pm; call for appointment.",
+    "address": "1200 Millard Harrison Drive, Readfield, ME 04355",
+    "phone": "207-685-3128",
+    "url": "https://www.maranacook.org/page/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "04355"
+  },
+  {
+    "name": "Mid-Maine Homeless Shelter & Services",
+    "description": "A 65-bed low-barrier emergency shelter open 365 days a year providing beds, meals, hygiene supplies, case management, housing navigation, and rapid rehousing support for individuals and families experiencing homelessness.",
+    "address": "19 Colby Street, Waterville, ME 04901",
+    "phone": "207-872-8082",
+    "url": "https://shelterme.org/",
+    "categorySlug": "housing",
+    "zipCode": "04901"
+  },
+  {
+    "name": "Oakland Food Pantry (Oakland-Sidney United Methodist Church)",
+    "description": "Food pantry serving Oakland residents whose income falls within federal guidelines, operated out of the Oakland-Sidney United Methodist Church parsonage. Open the 2nd and 4th Thursdays each month, 4–6pm.",
+    "address": "20 West School Street, Oakland, ME 04963",
+    "phone": "207-514-6924",
+    "url": "https://www.oaksumc.org/food-bank",
+    "categorySlug": "food",
+    "zipCode": "04963"
+  },
+  {
+    "name": "Waterville Area Soup Kitchen",
+    "description": "Serves a free hot lunch and light breakfast Monday through Friday to anyone in need, with doors open at 8am and lunch served 11:20am–12:30pm.",
+    "address": "38 College Avenue, Waterville, ME 04901",
+    "phone": "207-859-3063",
+    "url": "https://www.watervilleareasoupkitchen.com/",
+    "categorySlug": "food",
+    "zipCode": "04901"
+  },
+  {
+    "name": "Winslow Community Cupboard",
+    "description": "Nonprofit food pantry serving Winslow and surrounding Kennebec County residents with free groceries on a regular schedule. Open the 2nd and 4th Thursdays, 8am–noon and 2–4pm.",
+    "address": "26 Lithgow Street, Winslow, ME 04901",
+    "phone": "207-616-0076",
+    "url": "https://wccpantry.com/",
+    "categorySlug": "food",
+    "zipCode": "04901"
+  },
+  {
+    "name": "Winthrop Food Pantry",
+    "description": "501(c)(3) nonprofit providing free food to income-eligible residents of Winthrop and Wayne, Maine, every Thursday afternoon with additional evening hours twice monthly; offers shelf-stable foods, produce, bread, eggs, dairy, and more.",
+    "address": "10 Cross Road, Winthrop, ME 04364",
+    "phone": "(207) 377-3332",
+    "url": "https://winthropfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "04364"
+  },
+  {
+    "name": "AIO Food and Energy Assistance",
+    "description": "Interfaith nonprofit established in 1990 serving Knox County with a food pantry, fuel assistance, electric disconnect prevention, weekend meals for children, and hygiene products. Serves over 4,000 households per year.",
+    "address": "70 Thomaston Street, Rockland, ME 04841",
+    "phone": "207-596-1043",
+    "url": "https://www.aiofoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "04841"
+  },
+  {
+    "name": "Bread for the Journey — Warren Food Pantry",
+    "description": "Community food pantry located in the Old Brick School Community Center behind the Baptist Church of Warren, providing food assistance to local residents. Open Thursdays 9–11am.",
+    "address": "44 School Street, Warren, ME 04864",
+    "phone": "207-273-4400",
+    "url": "https://www.secondcongregational.org/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "04864"
+  },
+  {
+    "name": "Camden Area Christian Food Pantry",
+    "description": "Nonprofit food pantry serving Camden, Rockport, Lincolnville, Hope, Appleton, Union, Washington, and Searsmont. Open Tuesday 8–11am and Thursday 4–6pm.",
+    "address": "128 Mt. Battie Street, Camden, ME 04843",
+    "phone": "207-236-9790",
+    "url": "https://www.camdenareachristianfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "04843"
+  },
+  {
+    "name": "Come Spring Food Pantry",
+    "description": "Community food pantry serving Union, Appleton, and South Hope residents with a choice-model shopping experience. Open 2nd and 4th Wednesdays and 1st Saturday of each month, 10am–1pm.",
+    "address": "27 Common Road, Union, ME 04862",
+    "phone": "207-509-9211",
+    "url": "https://comespringfp.org/",
+    "categorySlug": "food",
+    "zipCode": "04862"
+  },
+  {
+    "name": "Homeworthy – Hospitality House Family Shelter",
+    "description": "Extended-stay family shelter (formerly Knox County Homeless Coalition) providing temporary housing for up to 22 individuals, with case management to support transition to permanent housing. Average stay 6–9 months.",
+    "address": "169 Old County Road, Rockport, ME 04856",
+    "phone": "207-593-8151",
+    "url": "https://homeworthy.org/hospitality-house",
+    "categorySlug": "housing",
+    "zipCode": "04856"
+  },
+  {
+    "name": "Homeworthy – The Landing Place Youth Center",
+    "description": "Drop-in youth center in downtown Rockland operated by Homeworthy, offering resources, case management, and community support for highly resilient and often marginalized youth in Knox County.",
+    "address": "61 Park Street, Rockland, ME 04841",
+    "phone": "207-593-8151",
+    "url": "https://homeworthy.org/the-landing-place",
+    "categorySlug": "housing",
+    "zipCode": "04841"
+  },
+  {
+    "name": "Homeworthy — Hospitality House Family Shelter",
+    "description": "Extended-stay emergency family shelter providing temporary housing for up to 22 individuals at a time, along with housing navigation, case management, and support services for Knox County residents. Formerly known as Knox County Homeless Coalition.",
+    "address": "169 Old County Road, Rockport, ME 04856",
+    "phone": "207-593-8151",
+    "url": "https://homeworthy.org/",
+    "categorySlug": "housing",
+    "zipCode": "04856"
+  },
+  {
+    "name": "New Hope Midcoast",
+    "description": "Nonprofit providing safe housing, shelter, and advocacy for survivors of domestic abuse, dating violence, and stalking in Knox County and the Midcoast region. Offers 24-hour crisis hotline.",
+    "address": "5 Beech Street, Rockland, ME 04841",
+    "phone": "207-594-2128",
+    "url": "https://newhopemidcoast.org/",
+    "categorySlug": "housing",
+    "zipCode": "04841"
+  },
+  {
+    "name": "North Haven Baptist Church Food Pantry",
+    "description": "Village church on North Haven island operating a 24-hour, year-round food pantry available to all island residents at any time.",
+    "address": "18 Mullins Lane, North Haven, ME 04853",
+    "phone": "(207) 867-0919",
+    "url": "https://www.facebook.com/nhbcme/",
+    "categorySlug": "food",
+    "zipCode": "04853"
+  },
+  {
+    "name": "North Haven Food Pantry",
+    "description": "Community food pantry on North Haven island, open Monday through Friday during business hours to provide food assistance to island residents.",
+    "address": "305 Main Street, North Haven, ME 04853",
+    "phone": "(207) 867-4715",
+    "url": "https://www.foodpantries.org/li/north_haven_food_pantry_04853",
+    "categorySlug": "food",
+    "zipCode": "04853"
+  },
+  {
+    "name": "North Haven Sustainable Housing",
+    "description": "Nonprofit dedicated to providing affordable year-round housing for residents of North Haven island, developing rental properties and homes for sale at below-market rates with affordability covenants, plus energy efficiency programs.",
+    "address": "P.O. Box 373, North Haven, ME 04853",
+    "phone": "(207) 867-5272",
+    "url": "https://nhshousing.org/",
+    "categorySlug": "housing",
+    "zipCode": "04853"
+  },
+  {
+    "name": "Penquis Community Action Program – Rockland Office",
+    "description": "Community action agency offering housing choice vouchers, weatherization, home buyer education, fuel/energy assistance (LIHEAP), lead hazard services, and home repair programs for low-income Knox County residents.",
+    "address": "170 Pleasant Street, Suite A, Rockland, ME 04841",
+    "phone": "207-596-0361",
+    "url": "https://www.penquis.org/",
+    "categorySlug": "housing",
+    "zipCode": "04841"
+  },
+  {
+    "name": "Salvation Army of Rockland – Rescue Room Food Pantry",
+    "description": "Food pantry and social services for Knox County residents, providing groceries Wednesday through Friday and Saturday mornings. Must reside in Knox County to receive services.",
+    "address": "27 Payne Avenue, Rockland, ME 04841",
+    "phone": "207-594-5326",
+    "url": "https://nne.salvationarmy.org/rockland",
+    "categorySlug": "food",
+    "zipCode": "04841"
+  },
+  {
+    "name": "St. George Community Cupboard",
+    "description": "Community food pantry operated by the St. George Community Development Corporation, providing perishable and non-perishable food, fresh produce, and hygiene items to St. George residents. Open Thursdays 2–7pm with online ordering Monday–Wednesday.",
+    "address": "47 Main Street, Tenants Harbor, ME 04860",
+    "phone": "207-372-2193",
+    "url": "https://www.stgeorgecommunity.org/communitycupboard/",
+    "categorySlug": "food",
+    "zipCode": "04860"
+  },
+  {
+    "name": "St. George Community Development Corporation — Community Cupboard",
+    "description": "Local nonprofit operating a food pantry serving the villages of Tenants Harbor, Port Clyde, and Spruce Head in the St. George peninsula. Open every Thursday 2–6pm.",
+    "address": "47 Main Street, Tenants Harbor, ME 04860",
+    "phone": "207-372-2193",
+    "url": "https://stgeorgecommunity.org/",
+    "categorySlug": "food",
+    "zipCode": "04860"
+  },
+  {
+    "name": "Thomaston Interchurch Fellowship Food Pantry",
+    "description": "Volunteer-run food pantry serving Knox County residents experiencing food insecurity, operating for over 34 years and assisting approximately 110 people monthly. Open Tuesday and Thursday 9–11am (closed holidays).",
+    "address": "13 Valley Street, Thomaston, ME 04861",
+    "phone": "207-354-6004",
+    "url": "https://thomastonfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "04861"
+  },
+  {
+    "name": "Vinalhaven Food Pantry",
+    "description": "Local food pantry serving year-round and seasonal residents of Vinalhaven island with essential food items. Open Friday after the 1st Thursday of the month, 12:30–2:30pm.",
+    "address": "25 East Main Street, Vinalhaven, ME 04863",
+    "phone": "207-863-2001",
+    "url": "https://mainefoodbanks.org/food-bank/vinalhaven-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "04863"
+  },
+  {
+    "name": "Vinalhaven Housing Initiative",
+    "description": "Local nonprofit dedicated to creating and preserving affordable and workforce housing for year-round residents on Vinalhaven island, including renovation of existing structures for affordable rental housing.",
+    "address": "Vinalhaven, ME 04863",
+    "phone": "207-867-4866",
+    "url": "https://www.vinalhavenhousing.org/",
+    "categorySlug": "housing",
+    "zipCode": "04863"
+  },
+  {
+    "name": "Washington Food Pantry",
+    "description": "Community food pantry in Washington, Maine, open the Wednesday following the 1st Tuesday of each month, with morning and evening distribution windows.",
+    "address": "33 Liberty Road, Washington, ME 04574",
+    "phone": "207-409-9247",
+    "url": "https://www.maine.gov/dacf/ard/food-assistance/tefap/Knox.shtml",
+    "categorySlug": "food",
+    "zipCode": "04574"
+  },
+  {
+    "name": "Alna Food Pantry",
+    "description": "Food pantry located in the basement of the Alna Town Office, serving local residents with essential groceries on a generous weekly schedule.",
+    "address": "1574 Alna Road, Alna, ME 04535",
+    "phone": "207-586-5313",
+    "url": "https://www.lcrpc.org/economic-and-community-development/list-of-lincoln-county-food-pantries",
+    "categorySlug": "food",
+    "zipCode": "04535"
+  },
+  {
+    "name": "Boothbay Region Community Resource Council",
+    "description": "Nonprofit assisting people on the Boothbay peninsula with information, referrals, and programs including a Community Navigator, fuel fund, clothing closet, addiction outreach, and housing referrals for residents of Boothbay, Boothbay Harbor, Southport, and Edgecomb.",
+    "address": "6 Saint Andrews Lane, Suite 230, Boothbay Harbor, ME 04538",
+    "phone": "(207) 633-6272",
+    "url": "https://knowyouroptions.me/resource/the-boothbay-region-community-resource-council/",
+    "categorySlug": "community",
+    "zipCode": "04538"
+  },
+  {
+    "name": "Boothbay Region Food Pantry",
+    "description": "Volunteer-run food pantry operating since 1985, located in the Fellowship Hall of the Boothbay Harbor Congregational Church. Provides choice-model grocery distributions including staples, fresh, and frozen foods to residents of Boothbay, Boothbay Harbor, Edgecomb, and Southport. Open Fridays 11am–1pm.",
+    "address": "125 Townsend Avenue, Boothbay Harbor, ME 04538",
+    "phone": "207-350-2962",
+    "url": "https://boothbayregionfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "04538"
+  },
+  {
+    "name": "Caring For Kids",
+    "description": "Nonprofit serving families in Bristol and South Bristol through a 24/7 community access food pantry, weekly snack packs, family food boxes with nutritional items and diapers, and a community Christmas project serving 200+ people weekly.",
+    "address": "2561 Bristol Road, New Harbor, ME 04554",
+    "phone": "(207) 677-2924",
+    "url": "https://caringforkidsbristol.com/",
+    "categorySlug": "food",
+    "zipCode": "04554"
+  },
+  {
+    "name": "Coastal Enterprises Inc. (CEI)",
+    "description": "HUD-certified housing counseling agency and community development financial institution based in Wiscasset, providing first-time homebuyer education, affordable housing financing, and economic development support for low-income Maine residents.",
+    "address": "P.O. Box 268, Wiscasset, ME 04578",
+    "phone": "(207) 882-7552",
+    "url": "https://www.ceimaine.org/",
+    "categorySlug": "housing",
+    "zipCode": "04578"
+  },
+  {
+    "name": "Ecumenical Food Pantry",
+    "description": "Volunteer-run nonprofit serving residents of Damariscotta, Newcastle, Nobleboro, and surrounding Lincoln County communities. Operates a weekly market-style pantry on Tuesdays, a weekend school snack program, free diapers, and a Thanksgiving basket program for roughly 350 families.",
+    "address": "51 Main Street, Newcastle, ME 04553",
+    "phone": "(207) 563-1311",
+    "url": "https://newcastlefoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "04553"
+  },
+  {
+    "name": "Ecumenical Homeless Prevention Coalition",
+    "description": "Coalition of six Lincoln County churches providing financial assistance to households facing eviction or utility disconnection, in partnership with a Tedford Housing counselor who is present at the Newcastle food pantry every Tuesday morning.",
+    "address": "11 Glidden Street, Newcastle, ME 04553",
+    "phone": "(207) 563-3533",
+    "url": "https://standrewsnewcastle.org/ministries/outreach/the-ecumenical-homeless-prevention-coalition/",
+    "categorySlug": "housing",
+    "zipCode": "04553"
+  },
+  {
+    "name": "Help Yourself Shelf Food Pantry",
+    "description": "Weekly food pantry at St. Philip's Episcopal Church providing food, household and hygiene items, baby items, and pet food to Wiscasset-area residents in need, open every Thursday evening.",
+    "address": "12 Hodge Street, Wiscasset, ME 04578",
+    "phone": "(207) 882-7184",
+    "url": "https://www.stphilipswiscasset.org/",
+    "categorySlug": "food",
+    "zipCode": "04578"
+  },
+  {
+    "name": "Jefferson Area Community Food Pantry",
+    "description": "Food pantry hosted at St. Giles' Episcopal Church serving Jefferson and Somerville residents with essential groceries. Open the 2nd and 4th Wednesdays of each month, 4–5:30pm.",
+    "address": "72 Gardiner Road, Jefferson, ME 04348",
+    "phone": "207-242-6933",
+    "url": "https://www.stgilesjefferson.org/outreach/jefferson-area-community-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "04348"
+  },
+  {
+    "name": "New Harbor United Methodist Church Food Pantry",
+    "description": "Community food pantry serving all of Bristol and South Bristol, open Saturday mornings at the New Harbor United Methodist Church.",
+    "address": "6 South Side Road, New Harbor, ME 04554",
+    "phone": "(207) 677-0108",
+    "url": "https://www.newharborumc.org/ministries",
+    "categorySlug": "food",
+    "zipCode": "04554"
+  },
+  {
+    "name": "Twin Villages Foodbank Farm",
+    "description": "Community farm that grows vegetables using organic practices and donates all produce to seven food pantries and five youth programs across Lincoln County, delivering 45,000 pounds of food in 2024.",
+    "address": "110 Belvedere Road, Damariscotta, ME 04543",
+    "phone": "(207) 563-1393",
+    "url": "https://www.twinvillagesfarm.org/",
+    "categorySlug": "food",
+    "zipCode": "04543"
+  },
+  {
+    "name": "Waldoboro Community Navigation Program",
+    "description": "Town-run program connecting Waldoboro residents with local and state resources for food assistance, housing counseling, utilities, health insurance, and career services.",
+    "address": "1600 Atlantic Highway, Waldoboro, ME 04572",
+    "phone": "(207) 403-4116",
+    "url": "https://www.waldoboromaine.org/departments/community_navigation_assistance/index.php",
+    "categorySlug": "community",
+    "zipCode": "04572"
+  },
+  {
+    "name": "Waldoboro Food Pantry",
+    "description": "Since the 1970s, this volunteer pantry has distributed packaged goods, eggs, milk, bread, and fresh produce to 110–150 households per distribution, serving residents of Waldoboro, Bremen, and Nobleboro.",
+    "address": "124 Friendship Road, Waldoboro, ME 04572",
+    "phone": "(207) 542-3855",
+    "url": "https://www.waldoborofoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "04572"
+  },
+  {
+    "name": "Whitefield Food Pantry",
+    "description": "Community food pantry hosted at Calvary Bible Baptist Church providing groceries to Whitefield-area residents. Open the 1st Friday 10am–noon and every other Saturday (except the Saturday following 1st Friday) 10am–noon.",
+    "address": "150 Grand Army Road, Whitefield, ME 04353",
+    "phone": "207-549-7014",
+    "url": "https://townofwhitefield.com/food-bank/",
+    "categorySlug": "food",
+    "zipCode": "04353"
+  },
+  {
+    "name": "Wiscasset Church of the Nazarene Outreach Food Pantry",
+    "description": "Church-based food pantry at the Wiscasset Church of the Nazarene, open weekly on Sundays and Wednesdays, providing emergency food supplies to individuals and families facing food insecurity.",
+    "address": "255 Gardiner Road, Wiscasset, ME 04578",
+    "phone": "(207) 882-9088",
+    "url": "https://www.facebook.com/helpfeedme/",
+    "categorySlug": "food",
+    "zipCode": "04578"
+  },
+  {
+    "name": "Bethel Area District Exchange and Food Pantry",
+    "description": "Regional market-choice food pantry and clothing exchange serving Western Maine. Open Monday, Wednesday, and Saturday 9–11am; emergency food and delivery available for those unable to visit in person.",
+    "address": "279 Walkers Mills Road, Bethel, ME 04217",
+    "phone": "207-824-0369",
+    "url": "https://bethelareafoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "04217"
+  },
+  {
+    "name": "Families in Crisis Task Force",
+    "description": "Food pantry in South Paris providing weekly food assistance on Thursdays, with emergency food help available by phone for Oxford Hills area residents.",
+    "address": "South Paris, ME 04281",
+    "phone": "207-357-7072",
+    "url": "https://www.foodpantries.org/ci/me-south_paris",
+    "categorySlug": "food",
+    "zipCode": "04281"
+  },
+  {
+    "name": "GRAMPA Food Pantry",
+    "description": "Community food pantry in Mexico serving the River Valley area, open three days per week providing groceries to families and individuals in need.",
+    "address": "163 Main Street, Mexico, ME 04257",
+    "phone": "207-364-8185",
+    "url": "https://wmari.org/resources/mexico-grampa-food-pantry-location-163-main-street-mexico/",
+    "categorySlug": "food",
+    "zipCode": "04257"
+  },
+  {
+    "name": "Lovell Area Food Pantry",
+    "description": "Local food pantry serving Lovell and surrounding communities, open the 2nd and 4th Thursdays of each month from 10am to noon.",
+    "address": "2081 Main St, Lovell, ME 04051",
+    "phone": "207-542-7239",
+    "url": "https://www.lovellareafoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "04051"
+  },
+  {
+    "name": "MaineHealth Food Pantry Norway",
+    "description": "Hospital-based food pantry operated by MaineHealth at Western Maine Health, providing free healthy food to community members by appointment or during open hours on Tuesdays and Thursdays.",
+    "address": "193 Main Street, Norway, ME 04268",
+    "phone": "207-393-3140",
+    "url": "https://www.mainehealth.org/mainehealth-stephens-hospital/healthy-communities-mainehealth-stephens-hospital/mainehealth-food-pantry-norway",
+    "categorySlug": "food",
+    "zipCode": "04268"
+  },
+  {
+    "name": "Neighborly Niche Food Pantry",
+    "description": "A monthly community food pantry operating out of West Paris, providing food assistance to local residents on the first Tuesday of each month.",
+    "address": "14 Church Street, West Paris, ME 04289",
+    "phone": "207-739-0771",
+    "url": "https://www11.maine.gov/dacf//ard/food-assistance/tefap/Oxford.shtml",
+    "categorySlug": "food",
+    "zipCode": "04289"
+  },
+  {
+    "name": "Norway Community Lunch",
+    "description": "Free weekly hot lunch program hosted at Norway First Universalist Church, open to all community members every Wednesday for over twenty years.",
+    "address": "479 Main Street, Norway, ME 04268",
+    "phone": "207-743-2828",
+    "url": "https://www.norwayuu.org/",
+    "categorySlug": "food",
+    "zipCode": "04268"
+  },
+  {
+    "name": "Old School Food Pantry",
+    "description": "A nonprofit food pantry operated by River Valley Healthy Communities Coalition, relocated from Rumford to Mexico, offering monthly full pantry shopping visits plus weekly produce distribution.",
+    "address": "3 Recreation Drive, Mexico, ME 04257",
+    "phone": "207-364-7408",
+    "url": "https://friendsofrivervalley.org/project/old-school-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "04257"
+  },
+  {
+    "name": "Oxford Hills Food Pantry",
+    "description": "Community food pantry located in the basement of Christ Episcopal Church, serving residents of Norway, South Paris, Oxford, Hebron, and West Paris. Open Monday, Wednesday, and Friday.",
+    "address": "35 Paris Street, Norway, ME 04268",
+    "phone": "207-743-6430",
+    "url": "https://www.facebook.com/p/Oxford-Hills-Food-Pantry-100069391203603/",
+    "categorySlug": "food",
+    "zipCode": "04268"
+  },
+  {
+    "name": "Oxford Seventh-Day Adventist Church Food Pantry",
+    "description": "Monthly food distribution program operated by the Oxford Seventh-Day Adventist Church, open the second Friday of each month to community members in need.",
+    "address": "259 Fore Street, Oxford, ME 04270",
+    "phone": "207-739-2871",
+    "url": "https://oxfordsda.com/",
+    "categorySlug": "food",
+    "zipCode": "04270"
+  },
+  {
+    "name": "Riverside United Methodist Church Food Pantry",
+    "description": "Free food pantry serving Porter and surrounding communities, open the 1st and 3rd Fridays of each month from 8:30–10am.",
+    "address": "5 School St, Porter, ME 04068",
+    "phone": "207-625-4324",
+    "url": "https://portermaine.org/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "04068"
+  },
+  {
+    "name": "Rumford Group Homes - Housing Services",
+    "description": "Nonprofit providing transitional and supportive housing for formerly homeless families and individuals in Oxford County, with apartments in Rumford and outreach services throughout the region.",
+    "address": "201 Knox Street, Rumford, ME 04276",
+    "phone": "207-364-3551",
+    "url": "https://www.rumfordgrouphomes.org/housing-services/",
+    "categorySlug": "housing",
+    "zipCode": "04276"
+  },
+  {
+    "name": "Rumford Group Homes — Monier Family Center Emergency Shelter",
+    "description": "A 14-bed emergency shelter for families experiencing homelessness in Oxford County. On-site case management helps guests develop goals toward stable housing and economic independence. Serves the broader Oxford County region including Andover, East Andover, and Stoneham.",
+    "address": "160 Lincoln Ave, Rumford, ME 04276",
+    "phone": "207-364-3551",
+    "url": "https://www.rumfordgrouphomes.org/emergency-shelters/",
+    "categorySlug": "housing",
+    "zipCode": "04276"
+  },
+  {
+    "name": "Rumford Group Homes — PATH Outreach Services",
+    "description": "Street outreach, engagement, and case management for individuals experiencing homelessness in Oxford County. Connects clients to food, housing, healthcare, substance use treatment, and mental health services.",
+    "address": "160 Lincoln Ave, Rumford, ME 04276",
+    "phone": "207-418-1004",
+    "url": "https://www.rumfordgrouphomes.org/path/",
+    "categorySlug": "crisis",
+    "zipCode": "04276"
+  },
+  {
+    "name": "Servants Heart Food Pantry",
+    "description": "Food pantry operated by Peru Baptist Church, providing weekly groceries to community members every Tuesday morning. Serves residents of Peru and surrounding Oxford County towns.",
+    "address": "98 Main Street, Peru, ME 04290",
+    "phone": "207-562-7167",
+    "url": "https://discoverrvme.com/directory/servants-heart-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "04290"
+  },
+  {
+    "name": "Southwest Oxford County Nutrition (SOCN) Food Pantry",
+    "description": "Regional food pantry serving residents of Brownfield, Denmark, Fryeburg, Hiram, Lovell, Porter, Stoneham, Stow, and Sweden. Major food distributions held the 3rd Thursday of each month, noon to 4pm, from the Brownfield Lions Building. Emergency food boxes available as needed.",
+    "address": "701 Pequaket Trail, Brownfield, ME 04010",
+    "phone": "207-935-2620",
+    "url": "http://www.socnfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "04010"
+  },
+  {
+    "name": "Woodstock Food Pantry",
+    "description": "Monthly food pantry serving Oxford County residents, operating out of Thurlow Hall on the third Tuesday of each month. Serves South Paris, West Paris, and surrounding communities.",
+    "address": "25 Perkins Valley Road, South Woodstock, ME 04219",
+    "phone": "207-393-7458",
+    "url": "https://www.homelessshelterdirectory.org/foodbank/me_woodstock-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "04219"
+  },
+  {
+    "name": "Bangor Area Homeless Shelter",
+    "description": "38-bed emergency shelter open 365 days a year serving adults in Bangor, offering overnight shelter, a day program, soup kitchen, and food pantry. The shelter supports individuals who are homeless or at risk.",
+    "address": "263 Main Street, Bangor, ME 04401",
+    "phone": "207-947-0092",
+    "url": "https://www.bangorareashelter.org/",
+    "categorySlug": "housing",
+    "zipCode": "04401"
+  },
+  {
+    "name": "Bangor Ecumenical Food Cupboard",
+    "description": "Interfaith food pantry located at Hammond Street Congregational Church, open Monday, Wednesday, and Friday mornings to provide groceries to Bangor-area residents in need.",
+    "address": "28 High Street, Bangor, ME 04401",
+    "phone": "207-942-4381",
+    "url": "https://hammondstreetchurch.org/ministries/the-bangor-ecumenical-food-cupboard/",
+    "categorySlug": "food",
+    "zipCode": "04401"
+  },
+  {
+    "name": "Bangor Region YMCA Food Pantry",
+    "description": "Year-round food pantry operated by the Bangor Region YMCA in partnership with Hannaford Supermarkets and Good Shepherd Food Bank, open to all community members including non-YMCA members.",
+    "address": "17 Second Street, Bangor, ME 04401",
+    "phone": "207-941-2808",
+    "url": "https://bangory.org/",
+    "categorySlug": "food",
+    "zipCode": "04401"
+  },
+  {
+    "name": "BangorHousing",
+    "description": "The Bangor Housing Authority provides affordable housing opportunities and rental assistance to low- and moderate-income households in Bangor, managing apartments and houses throughout the city.",
+    "address": "161 Davis Road, Bangor, ME 04401",
+    "phone": "207-942-6365",
+    "url": "https://bangorhousing.org/",
+    "categorySlug": "housing",
+    "zipCode": "04401"
+  },
+  {
+    "name": "Black Bear Exchange – University of Maine",
+    "description": "Campus food pantry and clothing exchange at the University of Maine serving students, faculty, and staff in the Orono community, with open pantry hours and no eligibility restrictions for UMaine cardholders.",
+    "address": "139 Rangeley Rd, Orono, ME 04473",
+    "phone": "207-581-4567",
+    "url": "https://umaine.edu/volunteer/bbe/",
+    "categorySlug": "food",
+    "zipCode": "04473"
+  },
+  {
+    "name": "Bread of Life Food Pantry",
+    "description": "Community food pantry open the 1st and 3rd Saturday of each month, serving residents of Bucksport, Dedham, Holden, Orland, and Orrington.",
+    "address": "696 River Rd, Orrington, ME 04474",
+    "phone": "207-478-0106",
+    "url": "https://bolfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "04474"
+  },
+  {
+    "name": "Brewer Area Food Pantry (OHI)",
+    "description": "Community food pantry operated by OHI serving residents of Brewer and Eddington who meet USDA Emergency Food Assistance Program income guidelines. Open the first four Mondays and Wednesdays of each month, 10am–noon. Proof of residency required at registration.",
+    "address": "222 North Main Street, Brewer, ME 04412",
+    "phone": "207-848-5804",
+    "url": "https://www.ohimaine.org/brewer-area-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "04412"
+  },
+  {
+    "name": "Burlington Food Pantry",
+    "description": "Local food pantry serving Burlington and surrounding communities with free food distributions. Open every other Friday 9am–noon, with a free food table available every Saturday 10am–noon for self-service.",
+    "address": "1510 Long Ridge Road, Burlington, ME 04417",
+    "phone": "207-794-4181",
+    "url": "https://burlingtonfoodpantry.com/",
+    "categorySlug": "food",
+    "zipCode": "04417"
+  },
+  {
+    "name": "Caring Community Cupboard",
+    "description": "Community food pantry in Old Town providing supplemental groceries to individuals and families facing food insecurity, open Tuesdays 10am–noon and 4–6pm.",
+    "address": "345 Main St, Old Town, ME 04468",
+    "phone": "207-852-4487",
+    "url": "https://www.cccot.org/",
+    "categorySlug": "food",
+    "zipCode": "04468"
+  },
+  {
+    "name": "Housing Foundation Support Services",
+    "description": "Nonprofit organization providing affordable and supportive housing options for low-income individuals and families in the Orono area, including subsidized rental units and resident support services.",
+    "address": "353 Main St, Orono, ME 04473",
+    "phone": "207-866-7944",
+    "url": "https://www.nonprofitmaine.org/nonprofit-member-directory/the-housing-foundation",
+    "categorySlug": "housing",
+    "zipCode": "04473"
+  },
+  {
+    "name": "New Hope Baptist Church - Dexter Food Closet",
+    "description": "Faith-based food pantry operating out of New Hope Baptist Church in Dexter, open the first and third Saturday of each month. Provides food staples to registered local residents experiencing hardship.",
+    "address": "130 Spring Street, Dexter, ME 04930",
+    "phone": "(207) 924-7419",
+    "url": "https://www.newhopedexter.org/",
+    "categorySlug": "food",
+    "zipCode": "04930"
+  },
+  {
+    "name": "Newburgh Full Gospel Church Food Pantry",
+    "description": "Faith-based food pantry serving residents of Newburgh and surrounding communities, open Fridays 10am–1pm with emergency access available. Also known as Bread of Life Community Church pantry.",
+    "address": "363 Lindsay Rd, Newburgh, ME 04401",
+    "phone": "207-659-5613",
+    "url": "https://www.breadoflifecomchurch.com/",
+    "categorySlug": "food",
+    "zipCode": "04401"
+  },
+  {
+    "name": "Newport ABC Food Pantry at Gateway Church",
+    "description": "Full-service food pantry at Gateway Pentecostal Church serving Newport, Corinna, Stetson, Etna, Plymouth, and Palmyra. Distributes nonperishables, fresh produce, bread, frozen meats, and household items on Fridays and by appointment on Tuesdays.",
+    "address": "363 Moosehead Trail, Newport, ME 04953",
+    "phone": "(207) 512-5119",
+    "url": "https://gatewaypentecostal.com/",
+    "categorySlug": "food",
+    "zipCode": "04953"
+  },
+  {
+    "name": "Newport Community Food Bank",
+    "description": "Community food bank serving Newport, Dixmont, Etna, Palmyra, and Plymouth, open Saturday mornings. Distributes frozen meats, bakery items, seasonal produce, and personal care items; clients may visit twice monthly.",
+    "address": "26 High Street, Newport, ME 04953",
+    "phone": "(207) 368-4402",
+    "url": "https://mainefoodbanks.org/food-bank/newport-community-food-bank/",
+    "categorySlug": "food",
+    "zipCode": "04953"
+  },
+  {
+    "name": "Old Town Housing Authority",
+    "description": "Public housing authority serving Old Town and surrounding communities, managing affordable public housing units and Section 8 Housing Choice Vouchers for low-income families, seniors, and disabled residents.",
+    "address": "358 Main St, Old Town, ME 04468",
+    "phone": "207-827-6151",
+    "url": "https://oldtownhousing.net/",
+    "categorySlug": "housing",
+    "zipCode": "04468"
+  },
+  {
+    "name": "Parish of the Resurrection of the Lord Food Pantry",
+    "description": "Catholic parish food pantry distributing a full week's worth of groceries to food-insecure families on the fourth Monday of each month, 10am–noon. Emergency food available by contacting the parish office.",
+    "address": "345 Main St, Old Town, ME 04468",
+    "phone": "207-827-4000",
+    "url": "https://resurrectionofthelord.org/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "04468"
+  },
+  {
+    "name": "Preble Street Hope House",
+    "description": "Low-barrier 56-bed emergency shelter in Bangor operated by Preble Street, welcoming individuals regardless of sobriety status, mental health, or ID. Serves over 300 people annually.",
+    "address": "179 Corporate Drive, Bangor, ME 04401",
+    "phone": "207-217-6713",
+    "url": "https://www.preblestreet.org/hope-house-bangor/",
+    "categorySlug": "housing",
+    "zipCode": "04401"
+  },
+  {
+    "name": "Salvation Army of Bangor Food Pantry",
+    "description": "Food pantry available by appointment to Greater Bangor residents, operating Monday through Friday. Also offers additional emergency assistance services to individuals and families.",
+    "address": "65 South Park Street, Bangor, ME 04401",
+    "phone": "207-941-2990",
+    "url": "https://easternusa.salvationarmy.org/northern-new-england/bangor/alleviate-hunger/",
+    "categorySlug": "food",
+    "zipCode": "04401"
+  },
+  {
+    "name": "Samaritan Inc. Food Pantry – Garland",
+    "description": "Weekly free food distribution coordinated by Samaritan Inc., a nonprofit that collects donated food from local grocers and distributes it to Bangor-area towns including Garland. Open Fridays at 10am at the Garland Town Hall.",
+    "address": "108 Corinth Road, Garland, ME 04435",
+    "phone": "207-385-6232",
+    "url": "https://samaritaninc.org/",
+    "categorySlug": "food",
+    "zipCode": "04435"
+  },
+  {
+    "name": "St. Ann / Penobscot Nation DHS Food Pantry",
+    "description": "Tribal food pantry on Indian Island serving Penobscot Nation members and the broader Old Town community, open Fridays 9am–1pm with emergency access available.",
+    "address": "16 Wabanaki Way, Indian Island, ME 04468",
+    "phone": "207-817-7492",
+    "url": "https://www.penobscotnation.org/departments/social-services/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "04468"
+  },
+  {
+    "name": "Stacyville Food Pantry",
+    "description": "Local food pantry serving Stacyville and surrounding northern Penobscot County communities, operating on Tuesdays, Thursdays, and select Saturdays. Part of the Thrive Penobscot food assistance network.",
+    "address": "805 Station Road, Stacyville, ME 04777",
+    "phone": "(207) 365-4285",
+    "url": "https://thrivepenobscot.org/services/food/",
+    "categorySlug": "food",
+    "zipCode": "04777"
+  },
+  {
+    "name": "Tri-Town Baptist Food Pantry",
+    "description": "Faith-based food pantry serving East Millinocket and surrounding communities, open the 3rd Saturday of each month 8am–noon. Emergency food assistance available by phone.",
+    "address": "8 Cone Street, East Millinocket, ME 04430",
+    "phone": "207-598-7674",
+    "url": "https://www.tritownbaptistchurch.org/",
+    "categorySlug": "food",
+    "zipCode": "04430"
+  },
+  {
+    "name": "Dover-Foxcroft Area Food Center",
+    "description": "Food pantry marketplace operated by the Piscataquis Regional Food Center, allowing clients to shop for fresh produce, canned goods, frozen foods, and dairy. Serves residents of Dover-Foxcroft, Sebec, Atkinson, Charleston, and Sangerville by appointment.",
+    "address": "76 North Street, Dover-Foxcroft, ME 04426",
+    "phone": "(207) 802-8230",
+    "url": "https://www.prfoodcenter.org/dfafc",
+    "categorySlug": "food",
+    "zipCode": "04426"
+  },
+  {
+    "name": "Piscataquis Regional Food Center",
+    "description": "Nonprofit regional food distribution center addressing food insecurity across Piscataquis, Penobscot, and Somerset counties, including the Abbot and Brownville areas. Operates a marketplace and home delivery program; office is open Monday through Thursday.",
+    "address": "76 North Street, Dover-Foxcroft, ME 04426",
+    "phone": "(207) 802-8230",
+    "url": "https://www.prfoodcenter.org/",
+    "categorySlug": "food",
+    "zipCode": "04426"
+  },
+  {
+    "name": "Town of Greenville General Assistance",
+    "description": "Municipal general assistance program providing emergency aid within 24 hours for residents unable to meet basic necessities including food, shelter, utilities, clothing, and fuel.",
+    "address": "7 Minden St, Greenville, ME 04441",
+    "phone": "207-695-2421",
+    "url": "https://greenvilleme.gov/town-office/general-assistance/",
+    "categorySlug": "housing",
+    "zipCode": "04441"
+  },
+  {
+    "name": "Bath Area Food Bank",
+    "description": "A nonprofit food pantry and soup kitchen serving Bath, West Bath, Woolwich, Phippsburg, Arrowsic, and Georgetown. Offers food boxes, fresh produce tables, and regular hot meals.",
+    "address": "807 Middle St, Bath, ME 04530",
+    "phone": "207-737-9289",
+    "url": "https://bathfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "04530"
+  },
+  {
+    "name": "Bowdoinham Food Pantry",
+    "description": "A volunteer-run nonprofit food pantry serving all Bowdoin and Bowdoinham residents without income verification requirements. Open Wednesdays and the 1st and 3rd Saturdays, with additional programs for children and homebound individuals.",
+    "address": "9 Main St, Bowdoinham, ME 04008",
+    "phone": "207-751-7779",
+    "url": "https://bowdoinhamfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "04008"
+  },
+  {
+    "name": "MCHPP Topsham OrderAhead Pickup Site",
+    "description": "A satellite food pickup site operated by Mid Coast Hunger Prevention Program, allowing Topsham-area residents to order groceries ahead of time for convenient pickup Monday and Wednesday.",
+    "address": "207 Augusta Rd, Topsham, ME 04086",
+    "phone": "207-373-4513",
+    "url": "https://www.mchpp.org/find-food",
+    "categorySlug": "food",
+    "zipCode": "04086"
+  },
+  {
+    "name": "Midcoast Maine Community Action (MMCA)",
+    "description": "Community action agency providing housing counseling, fuel assistance, utility help, and security deposit assistance to households in Bath, Brunswick, and the surrounding Midcoast region.",
+    "address": "34 Wing Farm Pkwy, Bath, ME 04530",
+    "phone": "(207) 442-7963",
+    "url": "https://midcoastmainecommunityaction.org/",
+    "categorySlug": "housing",
+    "zipCode": "04530"
+  },
+  {
+    "name": "Richmond Area Food Pantry",
+    "description": "A community food pantry serving Richmond, Dresden, and Bowdoinham residents, open on the 1st Wednesday and 3rd Saturday of each month.",
+    "address": "15 Spruce St, Richmond, ME 04357",
+    "phone": "207-607-2777",
+    "url": "https://www.richmondareafoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "04357"
+  },
+  {
+    "name": "Fairfield Interfaith Food Pantry",
+    "description": "Interfaith food pantry serving Fairfield and Benton residents, open the 1st and 3rd Thursday of each month with both morning and evening hours to accommodate working families.",
+    "address": "23 Lawrence Ave, Fairfield, ME 04937",
+    "phone": "207-509-9972",
+    "url": "https://www.fairfieldinterfaithfp.org/",
+    "categorySlug": "food",
+    "zipCode": "04937"
+  },
+  {
+    "name": "Harmony Cares Food Pantry",
+    "description": "Neighbors Helping Neighbors food pantry serving Harmony, Cambridge, Athens, and Wellington with a grocery-style shopping experience including produce, dry goods, and clothing. Open 1st and 3rd Saturdays and following Mondays; emergency distribution available by phone.",
+    "address": "20 Main St, Harmony, ME 04942",
+    "phone": "207-249-1676",
+    "url": "https://www.harmonycommunitycares.org/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "04942"
+  },
+  {
+    "name": "Hartland Area Food Pantry",
+    "description": "Nonprofit food pantry serving residents of the Arrowhead High School District, providing temporary and emergency food assistance to anyone in need in the Hartland region.",
+    "address": "9A Hubbard Avenue, Hartland, ME 04943",
+    "phone": "(207) 938-3283",
+    "url": "https://www.hartlandareafoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "04943"
+  },
+  {
+    "name": "New Hope Women's Shelter",
+    "description": "The only emergency shelter in Somerset County exclusively serving women and children, offering safe residential program-based shelter in a rural setting. Serves the broader Somerset County region including North Anson and surrounding communities.",
+    "address": "111 South Main St, Solon, ME 04979",
+    "phone": "207-643-6015",
+    "url": "https://www.newhopeshelter.com/",
+    "categorySlug": "housing",
+    "zipCode": "04979"
+  },
+  {
+    "name": "Palmyra Baptist Worship Center Food Bank",
+    "description": "Church-operated food bank in Palmyra providing food assistance to the community. Open Wednesday and Friday midday and Saturday evenings.",
+    "address": "768 Main Street, Palmyra, ME 04965",
+    "phone": "(207) 416-8159",
+    "url": "https://www.facebook.com/pastorhp554",
+    "categorySlug": "food",
+    "zipCode": "04965"
+  },
+  {
+    "name": "Skowhegan Community Food Cupboard",
+    "description": "Drive-through food pantry operated by volunteers, providing groceries to Skowhegan residents. Requires proof of residency and income; open Wednesdays and Fridays.",
+    "address": "16 Cariani Street, Skowhegan, ME 04976",
+    "phone": "(207) 474-9249",
+    "url": "https://www.facebook.com/skowhegancommunityfoodcupboard/",
+    "categorySlug": "food",
+    "zipCode": "04976"
+  },
+  {
+    "name": "Solon Community Food Cupboard & Thrift Shop",
+    "description": "Community food cupboard and thrift store in Solon serving residents of Solon and surrounding rural Somerset County towns. Open the 2nd and 4th Thursday of each month.",
+    "address": "56 N. Main Street, Solon, ME 04979",
+    "phone": "(207) 643-2380",
+    "url": "https://www.charitynavigator.org/ein/843076207",
+    "categorySlug": "food",
+    "zipCode": "04979"
+  },
+  {
+    "name": "Starks Food Cupboard",
+    "description": "Small community food cupboard serving residents of Starks and surrounding rural Somerset County towns. Open the 1st and 3rd Wednesday of each month.",
+    "address": "2 Chicken Street, Starks, ME 04911",
+    "phone": "(610) 217-7762",
+    "url": "https://mainefoodbanks.org/food-bank/starks-food-cupboard/",
+    "categorySlug": "food",
+    "zipCode": "04911"
+  },
+  {
+    "name": "Tri-Town Food Cupboard",
+    "description": "Community food cupboard serving residents of Hartland, St. Albans, Palmyra, and surrounding towns. Open Wednesday mornings for pickup.",
+    "address": "9 Hubbard Avenue, Hartland, ME 04943",
+    "phone": null,
+    "url": "https://www.foodpantries.org/li/tri-town_food_cupboard_04943",
+    "categorySlug": "food",
+    "zipCode": "04943"
+  },
+  {
+    "name": "Trinity Evangelical Free Church Food Pantry",
+    "description": "Church-run food pantry in Skowhegan offering free groceries on Wednesday evenings and Friday mornings to community members in need.",
+    "address": "12 McLellan Street, Skowhegan, ME 04976",
+    "phone": "(207) 474-8833",
+    "url": "https://www.findhelp.org/trinity-evangelical-free-church--skowhegan-me--food-pantry/4884138149806080",
+    "categorySlug": "food",
+    "zipCode": "04976"
+  },
+  {
+    "name": "Trinity Men's Shelter",
+    "description": "Emergency homeless shelter for men in Skowhegan, providing warm beds, hot meals, showers, laundry, and clothing with no time-limit requirements for stays.",
+    "address": "12 McClellan Street, Skowhegan, ME 04976",
+    "phone": "(207) 474-8833",
+    "url": "https://www.homelessshelterdirectory.org/shelter/me_trinity-mens-shelter",
+    "categorySlug": "housing",
+    "zipCode": "04976"
+  },
+  {
+    "name": "Belfast Soup Kitchen – Kindness Community Market",
+    "description": "Soup kitchen and supermarket-style food pantry offering dignified food access for Waldo County residents Monday through Friday, with a growing market open to all without income requirements.",
+    "address": "31 Belmont Ave, Belfast, ME 04915",
+    "phone": "(207) 338-4845",
+    "url": "https://www.belfastsoupkitchen.org",
+    "categorySlug": "food",
+    "zipCode": "04915"
+  },
+  {
+    "name": "Greater Bay Area Ministerium Food Cupboard",
+    "description": "Ecumenical food cupboard behind the United Methodist Church in Belfast, serving Waldo County residents on the 2nd and 4th Friday of each month.",
+    "address": "23 Mill Lane, Belfast, ME 04915",
+    "phone": "(207) 218-1213",
+    "url": "https://www.gbamfood.org",
+    "categorySlug": "food",
+    "zipCode": "04915"
+  },
+  {
+    "name": "Islesboro Community Center",
+    "description": "Island community center supporting food resources and meals programs for Islesboro residents, including coordination of community food access through local partnerships.",
+    "address": "103 Pendleton Point Road, Islesboro, ME 04848",
+    "phone": "(207) 734-8200",
+    "url": "https://www.islesborocommunitycenter.org",
+    "categorySlug": "community",
+    "zipCode": "04848"
+  },
+  {
+    "name": "Liberty Baptist Church Food Pantry",
+    "description": "Monthly community food pantry open to all residents with a need — no income verification required. Located in the basement of Liberty Baptist Church, serving Liberty and surrounding Waldo County towns.",
+    "address": "100 Main Street, Liberty, ME 04949",
+    "phone": "(207) 589-4671",
+    "url": "https://www.lbcmaine.org/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "04949"
+  },
+  {
+    "name": "Midcoast Maine Homeless Coalition — Family Harbor House",
+    "description": "Transitional housing program providing temporary shelter, meals, and case management for families experiencing homelessness in Waldo County. Houses up to four families at a time with coordinated support services.",
+    "address": "23 Mill Lane, Belfast, ME 04915",
+    "phone": null,
+    "url": "https://midcoast-maine-homeless-coalition.org",
+    "categorySlug": "housing",
+    "zipCode": "04915"
+  },
+  {
+    "name": "Neighbor's Cupboard",
+    "description": "Nonprofit emergency food resource serving low-income families and working poor in Winterport and Frankfort, providing a three-day supply of food including fresh vegetables from local farms. Open Wednesday mornings.",
+    "address": "40 Park Drive, Winterport, ME 04496",
+    "phone": "(207) 223-4497",
+    "url": "https://www.winterportmaine.gov/community/neighbor_s_cupboard.php",
+    "categorySlug": "food",
+    "zipCode": "04496"
+  },
+  {
+    "name": "Neighbor's Cupboard",
+    "description": "Nonprofit emergency food resource serving low-income families and working poor in Frankfort and Winterport, providing a three-day supply of food. Located in the Victoria Grant Community Center off Route 69.",
+    "address": "40 Park Drive, Winterport, ME 04496",
+    "phone": "(207) 223-4497",
+    "url": "https://www.frankfortme.com/our-community/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "04496"
+  },
+  {
+    "name": "No Greater Love Food Pantry",
+    "description": "Community food pantry in Belfast operated on the 2nd and 4th Sunday mornings, providing groceries to Waldo County residents in need.",
+    "address": "34 Field Street, Belfast, ME 04915",
+    "phone": "(207) 299-2093",
+    "url": "https://www.facebook.com/nogreaterlovefoodpantry/",
+    "categorySlug": "food",
+    "zipCode": "04915"
+  },
+  {
+    "name": "Northport Food Pantry",
+    "description": "Community food pantry serving residents of Lincolnville and surrounding Waldo County towns including Appleton, Camden, Hope, Islesboro, Rockport, Searsmont, Union, and Washington. Open the third Wednesday of each month.",
+    "address": "489 Atlantic Highway, Northport, ME 04849",
+    "phone": "(207) 323-9742",
+    "url": "https://mainefoodbanks.org/food-bank/northport-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "04849"
+  },
+  {
+    "name": "Second Baptist Church Food Pantry",
+    "description": "Church-operated food pantry on Islesboro island serving residents of the island community with food distributions through the Waldo County Bounty network.",
+    "address": "102 Main Road, Islesboro, ME 04848",
+    "phone": null,
+    "url": "https://townofislesboro.com/community-links/",
+    "categorySlug": "food",
+    "zipCode": "04848"
+  },
+  {
+    "name": "Volunteer Regional Food Pantry",
+    "description": "Community-operated 501(c)(3) food pantry providing emergency and supplementary food to those at risk of hunger in the Unity area. Serves approximately 350 families per month, including many elderly residents and children.",
+    "address": "180 Depot Street, Unity, ME 04988",
+    "phone": "(207) 487-1199",
+    "url": "http://www.vrfp.me",
+    "categorySlug": "food",
+    "zipCode": "04988"
+  },
+  {
+    "name": "Waldo Community Action Partners (WCAP)",
+    "description": "Community action agency serving low-income Waldo County residents since 1965, providing housing repair, energy assistance, food support, transportation, and emergency food and shelter program funds.",
+    "address": "9 Field Street, Belfast, ME 04915",
+    "phone": "(207) 338-3025",
+    "url": "https://waldocap.org",
+    "categorySlug": "housing",
+    "zipCode": "04915"
+  },
+  {
+    "name": "Centre Street Congregational Church Community Meals",
+    "description": "Free community suppers open to all on the 2nd and 4th Tuesdays of the month, featuring menus based on weekly surplus food donations; the church also provides ready-to-eat food bags for those outside the food pantry's service area or ineligible for it.",
+    "address": "9 Centre Street, Machias, ME 04654",
+    "phone": "",
+    "url": "https://www.centrestreetchurch.org/",
+    "categorySlug": "food",
+    "zipCode": "04654"
+  },
+  {
+    "name": "Eastport Non-Profit Housing Corporation",
+    "description": "Nonprofit organization providing affordable low-income housing for elderly tenants in Eastport, Maine.",
+    "address": "99 Toll Bridge Road, Eastport, ME 04631",
+    "phone": "",
+    "url": "https://www.causeiq.com/organizations/eastport-non-profit-housing-corporation,237368197/",
+    "categorySlug": "housing",
+    "zipCode": "04631"
+  },
+  {
+    "name": "Indian Township Food Distribution Program",
+    "description": "Passamaquoddy tribal food pantry and USDA Food Distribution Program on Indian Reservations serving the Indian Township community and Princeton area residents.",
+    "address": "13A Industrial Park Road, Princeton, ME 04668",
+    "phone": "207-796-2301",
+    "url": "https://www.passamaquoddy.com/",
+    "categorySlug": "food",
+    "zipCode": "04668"
+  },
+  {
+    "name": "Irene Chadbourne Ecumenical Food Pantry",
+    "description": "Nonprofit 501(c)3 providing emergency food and non-perishable household items to over 250 families monthly in the greater Calais area, with additional services including winter fuel assistance, coat drives, and a thrift store.",
+    "address": "513 Main Street, Calais, ME 04619",
+    "phone": "(207) 726-3908",
+    "url": "https://www.cgwfoundation.org/irene-chadbourne-ecumenical-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "04619"
+  },
+  {
+    "name": "Jonesport Food Pantry",
+    "description": "Community food pantry serving Jonesport and surrounding areas including Beals Island, providing free groceries to households in need on Wednesday mornings.",
+    "address": "28 Sawyer Square, Jonesport, ME 04649",
+    "phone": "(207) 461-9200",
+    "url": "https://mainefoodbanks.org/food-bank/jonesport-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "04649"
+  },
+  {
+    "name": "Labor of Love Food Pantry",
+    "description": "Nonprofit food pantry serving the greater Eastport area including Dennysville, Pembroke, Perry, Robbinston, and surrounding communities, providing monthly food boxes, weekly emergency food bags, and emergency heating fuel assistance.",
+    "address": "137 County Road, Eastport, ME 04631",
+    "phone": "(207) 853-0812",
+    "url": "https://eastportlaboroflove.org/",
+    "categorySlug": "food",
+    "zipCode": "04631"
+  },
+  {
+    "name": "Lubec Community Outreach Center",
+    "description": "Community nonprofit offering a free-choice food pantry with non-perishable, frozen, and fresh items, plus a thrift shop, youth programs, and social service referrals to residents of Lubec and surrounding communities.",
+    "address": "44 South Street, Lubec, ME 04652",
+    "phone": "(207) 733-5262",
+    "url": "https://lcocmaine.org/",
+    "categorySlug": "community",
+    "zipCode": "04652"
+  },
+  {
+    "name": "Machias Area Food Pantry",
+    "description": "Community food pantry serving 180–200 families weekly across an 11-town service area including Machias, East Machias, Machiasport, Cutler, Jonesboro, and surrounding communities, offering nutritious food staples from a dedicated facility.",
+    "address": "43 Kennebec Road, Machias, ME 04654",
+    "phone": "(207) 259-6044",
+    "url": "https://machiasareafoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "04654"
+  },
+  {
+    "name": "Maine Seacoast Mission – Downeast Food Pantry",
+    "description": "Provides nutritious food including meat, dairy, eggs, and fresh produce to individuals and families in the Cherryfield and greater Downeast area. Home delivery available for seniors and those unable to visit in person.",
+    "address": "6 Weald Bethel Lane, Cherryfield, ME 04622",
+    "phone": "207-546-4466",
+    "url": "https://seacoastmission.org/downeast/food-security/",
+    "categorySlug": "food",
+    "zipCode": "04622"
+  },
+  {
+    "name": "Mano en Mano / Hand in Hand",
+    "description": "Community organization serving immigrants and farmworkers in Washington County, operating a food pantry with culturally relevant foods and providing access to housing, healthcare, and government services.",
+    "address": "4 Maple Street, Milbridge, ME 04658",
+    "phone": null,
+    "url": "https://www.manomaine.org",
+    "categorySlug": "food",
+    "zipCode": "04658"
+  },
+  {
+    "name": "Passamaquoddy Food Pantry (Pleasant Point)",
+    "description": "Tribal food pantry serving the Passamaquoddy Pleasant Point community and surrounding Perry area, providing food assistance to tribal members and area residents.",
+    "address": "22 Bayview Dr., Perry, ME 04667",
+    "phone": "207-853-5139",
+    "url": "https://www.foodpantries.org/li/passamaquoddy_food_pantry_04667",
+    "categorySlug": "food",
+    "zipCode": "04667"
+  },
+  {
+    "name": "Ruth Rogan Emergency Shelter",
+    "description": "Short-term emergency shelter for Calais residents operated through the Irene Chadbourne Ecumenical Food Pantry, providing temporary housing for those in crisis.",
+    "address": "513 Main Street, Calais, ME 04619",
+    "phone": "(207) 214-8553",
+    "url": "https://stannescalais.org/ministries-and-activities/irene-chadbourne-ecumenical-food-pantry/",
+    "categorySlug": "housing",
+    "zipCode": "04619"
+  },
+  {
+    "name": "The Lamb House",
+    "description": "Emergency short-term housing for families who have lost their homes due to fire, natural disasters, or other emergencies, operated as a mission project of the Cherryfield Congregational Church.",
+    "address": "Cherryfield, ME 04622",
+    "phone": "",
+    "url": "https://thelambhouse.org",
+    "categorySlug": "housing",
+    "zipCode": "04622"
+  },
+  {
+    "name": "Acton Food Pantry",
+    "description": "Community food pantry serving Acton and surrounding towns since 1984, open the first Monday of each month. Provides food and clothing to residents in need.",
+    "address": "59 H Road, Acton, ME 04001",
+    "phone": "(207) 977-0228",
+    "url": "https://www.actonfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "04001"
+  },
+  {
+    "name": "Acton Food Pantry",
+    "description": "Local food pantry serving Acton and surrounding towns including West Newfield since 1984, providing food and clothing assistance to income-qualifying residents on the first Monday of each month.",
+    "address": "59 H Road, Acton, ME 04001",
+    "phone": "(207) 636-3430",
+    "url": "https://www.maine.gov/dacf/ard/food-assistance/tefap/York.shtml",
+    "categorySlug": "food",
+    "zipCode": "04001"
+  },
+  {
+    "name": "Biddeford Food Pantry",
+    "description": "Nonprofit 501(c)(3) providing free food to Biddeford and surrounding town residents who cannot afford groceries, with no proof of residency or income required. Distributes fresh and shelf-stable food, paper goods, diapers, and pet food.",
+    "address": "162 Elm Street, Biddeford, ME 04005",
+    "phone": "(207) 282-4771",
+    "url": "https://biddefordfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "04005"
+  },
+  {
+    "name": "Buxton Community Cupboard",
+    "description": "Community food pantry operated by Bar Mills Community Church, providing free groceries to Buxton residents on Friday mornings and the first Saturday of each month.",
+    "address": "938 Long Plains Road, Buxton, ME 04093",
+    "phone": "(207) 929-6764",
+    "url": "https://www.barmillscommunitychurch.org/buxton-community-cupboard.html",
+    "categorySlug": "food",
+    "zipCode": "04093"
+  },
+  {
+    "name": "Buxton Food Co-op",
+    "description": "Community food cooperative providing free food to Buxton-area residents on multiple mornings each week, operating near Buxton Center Elementary School.",
+    "address": "262 Haines Meadow Road, Buxton, ME 04093",
+    "phone": "(207) 929-8806",
+    "url": "https://mainefoodbanks.org/food-bank/buxton-food-co-op/",
+    "categorySlug": "food",
+    "zipCode": "04093"
+  },
+  {
+    "name": "Caring Unlimited — York County's Domestic Violence Resource Center",
+    "description": "Nonprofit providing emergency shelter, safety planning, legal assistance, and support services free of charge to domestic violence survivors throughout York County since 1977.",
+    "address": "965 Main St, Sanford, ME 04073",
+    "phone": "(207) 490-3227",
+    "url": "https://www.caring-unlimited.org",
+    "categorySlug": "crisis",
+    "zipCode": "04073"
+  },
+  {
+    "name": "Community Outreach Services Food Pantry",
+    "description": "Food pantry certified by Good Shepherd Food Bank providing perishable and non-perishable food to residents of Kennebunk, Kennebunkport, and Arundel by appointment. Also offers fuel aid and emergency financial assistance for rent and utilities.",
+    "address": "19 Park Street, Kennebunk, ME 04043",
+    "phone": "(207) 985-3844",
+    "url": "https://coskennebunks.org/food-assistance-maine/",
+    "categorySlug": "food",
+    "zipCode": "04043"
+  },
+  {
+    "name": "Cornish Community Food Pantry",
+    "description": "Town-run food pantry in Cornish serving residents facing food insecurity, open on the 1st and 3rd Friday of each month. Operated through the Town of Cornish office.",
+    "address": "17 Maple Street, Cornish, ME 04020",
+    "phone": "(207) 625-4324",
+    "url": "https://www.cornishme.com/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "04020"
+  },
+  {
+    "name": "Fair Tide",
+    "description": "Nonprofit organization developing deeply affordable permanent housing for individuals and families experiencing homelessness in Kittery, with ongoing case management and support services.",
+    "address": "22 Shapleigh Road, Kittery, ME 03904",
+    "phone": "207-439-6376",
+    "url": "https://www.fairtide.org/",
+    "categorySlug": "housing",
+    "zipCode": "03904"
+  },
+  {
+    "name": "First County Food Pantry",
+    "description": "Operates like a grocery store where clients select the foods they prefer, offering fresh produce, meat, dairy, baked goods, canned goods, and frozen items. Open Tuesday and Friday afternoons.",
+    "address": "5 Swetts Bridge Road, Alfred, ME 04002",
+    "phone": "(207) 289-9668",
+    "url": "https://yorkcountyfcf.org/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "04002"
+  },
+  {
+    "name": "First Parish Congregational Church Food Pantry",
+    "description": "Free food pantry serving Lebanon and Acton residents by appointment, welcoming low-income families, seniors, veterans, single parents, and anyone in need. Operated by the First Parish Congregational Church.",
+    "address": "650 Center Road, Lebanon, ME 04027",
+    "phone": "(207) 651-5506",
+    "url": "https://www.lcfoodpantry.com",
+    "categorySlug": "food",
+    "zipCode": "04027"
+  },
+  {
+    "name": "Footprints Food Pantry",
+    "description": "Volunteer-run nonprofit providing free groceries, personal care products, household items, and pet food to individuals and families throughout the Kittery, Kittery Point, and Eliot Seacoast region.",
+    "address": "22 Shapleigh Road, Kittery, ME 03904",
+    "phone": "207-439-4673",
+    "url": "https://www.footprintsfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "03904"
+  },
+  {
+    "name": "Habitat for Humanity York County",
+    "description": "Builds and rehabilitates affordable homes for low-income families in York County, offering homeownership programs and weatherization assistance. Also operates the Kennebunk ReStore with proceeds supporting the housing mission.",
+    "address": "123 York Street, Kennebunk, ME 04043",
+    "phone": "(207) 502-7021",
+    "url": "https://www.habitatyorkcounty.org",
+    "categorySlug": "housing",
+    "zipCode": "04043"
+  },
+  {
+    "name": "Hollis Center Baptist Church Food Pantry",
+    "description": "Free food pantry serving Hollis and bordering communities, open monthly for grocery orders and weekly for produce and baked goods. No strings attached — anyone who needs food is welcome.",
+    "address": "388 Hollis Road, Hollis Center, ME 04042",
+    "phone": "(207) 929-4711",
+    "url": "https://holliscenterchurch.org/foodpantry",
+    "categorySlug": "food",
+    "zipCode": "04042"
+  },
+  {
+    "name": "House of Hope Mission",
+    "description": "Faith-based mission in Berwick operating a soup kitchen, food pantry, and transitional housing for men in need in York County.",
+    "address": "25 Sawmill Hill, Berwick, ME 03901",
+    "phone": "207-698-9944",
+    "url": "https://www.houseofhopemission.org/",
+    "categorySlug": "food",
+    "zipCode": "03901"
+  },
+  {
+    "name": "Lakeside Community Church Food Pantry",
+    "description": "Church-based food pantry in North Waterboro serving residents of the 04061 area. Provides food assistance to community members in need.",
+    "address": "1248 Sokokis Trail, North Waterboro, ME 04061",
+    "phone": "(207) 793-9300",
+    "url": "https://www.lcctoday.org",
+    "categorySlug": "food",
+    "zipCode": "04061"
+  },
+  {
+    "name": "Limington Orthodox Presbyterian Church Food Pantry",
+    "description": "Monthly food pantry open the second Saturday of the month by appointment, serving Limington residents with food, household supplies, and a clothing closet. Contact Katie to schedule before the preceding Wednesday.",
+    "address": "302 Sokokis Avenue, Limington, ME 04049",
+    "phone": "(207) 637-2061",
+    "url": "https://mainefoodbanks.org/food-bank/limington-orthodox-presbyterian-church-pantry/",
+    "categorySlug": "food",
+    "zipCode": "04049"
+  },
+  {
+    "name": "Neighbors Food Pantry",
+    "description": "Community food pantry hosted by Eliot Baptist Church serving Eliot and surrounding Seacoast area residents with free groceries; no proof of residency, appointments, or sign-up required.",
+    "address": "912 Harold L Dow Hwy, Eliot, ME 03903",
+    "phone": "207-748-1248",
+    "url": "https://www.neighborsfoodpantry.com/",
+    "categorySlug": "food",
+    "zipCode": "03903"
+  },
+  {
+    "name": "North Berwick Food Pantry",
+    "description": "Drive-up food pantry serving North Berwick, Berwick, South Berwick, Lebanon, and surrounding communities with nutritious food and essential non-food items; open to all regardless of residency.",
+    "address": "77 High Street, North Berwick, ME 03906",
+    "phone": "207-606-4581",
+    "url": "https://northberwickfoodpantry.com/",
+    "categorySlug": "food",
+    "zipCode": "03906"
+  },
+  {
+    "name": "OOB Community Pantry & Resource Center",
+    "description": "Community food pantry and resource center providing free groceries including fresh produce, meat, dairy, and dry goods to residents experiencing food insecurity in the Old Orchard Beach area.",
+    "address": "155 Saco Ave, Old Orchard Beach, ME 04064",
+    "phone": "(207) 937-8094",
+    "url": "https://www.oobcommunityfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "04064"
+  },
+  {
+    "name": "Parsonsfield Town Office Food Pantry",
+    "description": "Municipal food pantry operated through the Parsonsfield Town Office providing food assistance to Parsonsfield residents facing food insecurity. Contact town office for current distribution schedule.",
+    "address": "634 North Road, Parsonsfield, ME 04047",
+    "phone": "(207) 625-4558",
+    "url": "https://www.parsonsfield.org",
+    "categorySlug": "food",
+    "zipCode": "04047"
+  },
+  {
+    "name": "Saco Food Pantry",
+    "description": "Nonprofit food pantry providing short-term and long-term food assistance to individuals and families in need, currently serving approximately 250 families and 800 individuals per month.",
+    "address": "67 Ocean Park Road, Saco, ME 04072",
+    "phone": "(207) 468-1305",
+    "url": "https://www.sacofoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "04072"
+  },
+  {
+    "name": "Salvation Army Food Pantry — Sanford",
+    "description": "Salvation Army food distribution program offering non-perishable items on Tuesdays and fresh produce, meats, and bread on Fridays to residents of the Sanford and Springvale area.",
+    "address": "871 Main Street, Sanford, ME 04073",
+    "phone": "(207) 324-3134",
+    "url": "https://easternusa.salvationarmy.org/northern-new-england/sanford/",
+    "categorySlug": "food",
+    "zipCode": "04073"
+  },
+  {
+    "name": "Salvation Army Old Orchard Beach Corps Community Center",
+    "description": "Local Salvation Army corps offering direct assistance including groceries, clothing, and rent and utility assistance to residents of Old Orchard Beach, Saco, Biddeford, Dayton, and Arundel.",
+    "address": "2 Sixth St, Old Orchard Beach, ME 04064",
+    "phone": "(207) 934-4381",
+    "url": "https://www.salvationarmyusa.org/me/old-orchard-beach/",
+    "categorySlug": "community",
+    "zipCode": "04064"
+  },
+  {
+    "name": "Sanford Food Pantry",
+    "description": "Community food pantry serving Sanford and Springvale residents, providing supplemental food assistance on Monday mornings with photo ID required.",
+    "address": "1204 Main Street, Sanford, ME 04073",
+    "phone": "(207) 490-2397",
+    "url": "https://www.sanfordmaine.org/community/local_food_banks.php",
+    "categorySlug": "food",
+    "zipCode": "04073"
+  },
+  {
+    "name": "Seeds of Hope Neighborhood Center",
+    "description": "Drop-in community center providing hospitality, support services, and interim housing navigation for individuals experiencing homelessness in Biddeford and surrounding communities. Partners with the City of Biddeford on housing placements.",
+    "address": "35 South Street, Biddeford, ME 04005",
+    "phone": "(207) 571-9601",
+    "url": "https://www.seedsofhope4me.org",
+    "categorySlug": "housing",
+    "zipCode": "04005"
+  },
+  {
+    "name": "Shapleigh Food Pantry — Shapleigh Baptist Church",
+    "description": "Community food pantry housed in the lower level of the Shapleigh First Baptist Church, open Wednesday evenings to assist local residents with food needs.",
+    "address": "600 Shapleigh Corner Road, Shapleigh, ME 04076",
+    "phone": "(207) 636-1662",
+    "url": "https://www.foodpantries.org/li/shapleigh_fo-Shaple-04076",
+    "categorySlug": "food",
+    "zipCode": "04076"
+  },
+  {
+    "name": "South Berwick Community Food Pantry",
+    "description": "Nonprofit organization dedicated to collecting, storing, and distributing food to those in need in South Berwick and surrounding communities. Often provides fresh produce, dairy, and protein to support healthy diets.",
+    "address": "47 Ross Street, South Berwick, ME 03908",
+    "phone": "(207) 384-4324",
+    "url": "https://www.sobocentral.org/foodpantry.html",
+    "categorySlug": "food",
+    "zipCode": "03908"
+  },
+  {
+    "name": "St. Mary's Ecumenical Food Pantry",
+    "description": "Ecumenical food pantry run through Holy Spirit Parish, providing free groceries to residents of Wells and surrounding communities on Thursdays and Fridays.",
+    "address": "236 Eldridge Road, Wells, ME 04090",
+    "phone": "(207) 646-5605",
+    "url": "https://www.findhelp.org/provider/holy-spirit-parish---st.-marys-ecumenical-food-pantry--wells-me/6021219536863232",
+    "categorySlug": "food",
+    "zipCode": "04090"
+  },
+  {
+    "name": "St. Matthew's Parish Food Pantry",
+    "description": "Catholic parish food pantry open weekly serving residents of Limerick, Newfield, Parsonsfield, and parishioners of St. Matthew Church. Provides food to low-income families, seniors, veterans, and anyone in need.",
+    "address": "19 Dora Lane, Limerick, ME 04048",
+    "phone": "(207) 793-2244",
+    "url": "https://stmatthewlimerick.org/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "04048"
+  },
+  {
+    "name": "St. Thérèse of Lisieux Food Closet",
+    "description": "Parish-run food closet open to all residents regardless of residency, distributing food on Thursday afternoons in the Sanford area with no requirement to be a parishioner.",
+    "address": "66 North Avenue, Sanford, ME 04073",
+    "phone": "(207) 793-8912",
+    "url": "https://stthereseparishmaine.org/food-pantries",
+    "categorySlug": "food",
+    "zipCode": "04073"
+  },
+  {
+    "name": "Table of Plenty Food Kitchen",
+    "description": "Free weekly community meal program operating for over thirty years at Berwick United Methodist Church, serving hot meals and take-home bread and pastries to anyone in need in Southern Maine.",
+    "address": "37 School Street, Berwick, ME 03901",
+    "phone": "207-613-5807",
+    "url": "https://www.thetableofplenty.com/",
+    "categorySlug": "food",
+    "zipCode": "03901"
+  },
+  {
+    "name": "Waterboro Community Food Pantry",
+    "description": "Volunteer-run community food pantry serving Waterboro-area residents with weekly distributions every Tuesday, providing groceries to households in need.",
+    "address": "26 Townhouse Road, East Waterboro, ME 04087",
+    "phone": "(207) 247-7789",
+    "url": "https://www.foodpantries.org/li/waterboro-community-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "04087"
+  },
+  {
+    "name": "Waterboro Community Food Pantry",
+    "description": "Community food pantry open every Tuesday serving East Waterboro and surrounding Waterboro area residents. Extended evening hours on the first Tuesday each month for working families.",
+    "address": "26 Townhouse Road, East Waterboro, ME 04030",
+    "phone": "(207) 247-7789",
+    "url": "https://www.facebook.com/WaterboroCommunityPantry/",
+    "categorySlug": "food",
+    "zipCode": "04030"
+  },
+  {
+    "name": "Wells Pentecostal Church Food Pantry",
+    "description": "Church-based food pantry open six days a week, collecting and distributing food to those in need in Wells and surrounding towns.",
+    "address": "131 Crediford Road, Wells, ME 04090",
+    "phone": "(207) 646-2859",
+    "url": "https://mainefoodbanks.org/food-bank/wells-pentecostal-church-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "04090"
+  },
+  {
+    "name": "York Community Service Association (YCSA)",
+    "description": "Nonprofit thrift store and social services organization serving York residents for over 60 years with a client-choice food pantry, family services, and referrals during difficult times.",
+    "address": "855 US-1, York, ME 03909",
+    "phone": "207-363-5504",
+    "url": "https://www.ycsame.org/",
+    "categorySlug": "food",
+    "zipCode": "03909"
+  },
+  {
+    "name": "York Community Service Association Food Pantry",
+    "description": "Food pantry serving York-area residents who meet Maine low-income standards, open Wednesday and Thursday with assigned pickup days by last name. Home delivery available for those with mobility or transportation challenges.",
+    "address": "855 US Route 1, York, ME 03909",
+    "phone": "(207) 363-5504",
+    "url": "https://www.ycsame.org/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "03909"
+  },
+  {
+    "name": "York County Community Action Corp. (YCCAC)",
+    "description": "Community action organization providing housing assistance, utility programs, transportation, healthcare access, and food resources throughout York County, including the Ogunquit and Berwick areas.",
+    "address": "6 Spruce Street, Sanford, ME 04073",
+    "phone": "207-324-5762",
+    "url": "https://yccac.org/",
+    "categorySlug": "housing",
+    "zipCode": "04073"
+  },
+  {
+    "name": "York County Shelter Programs",
+    "description": "Nonprofit emergency shelter and transitional housing program serving York County for over thirty years, also operating a large food pantry feeding more than 6,000 people monthly and providing services to address the root causes of homelessness.",
+    "address": "147 Shaker Hill Road, Alfred, ME 04002",
+    "phone": "207-324-1137",
+    "url": "https://www.yorkcountyshelterprograms.com/",
+    "categorySlug": "housing",
+    "zipCode": "04002"
+  },
+  {
+    "name": "York County Shelter Programs Food Pantry",
+    "description": "Food pantry welcoming any York County resident in need, open Monday through Friday. Now operated in partnership between York County Government and First County Foundation.",
+    "address": "5 Swetts Bridge Road, Alfred, ME 04002",
+    "phone": "(207) 324-1137",
+    "url": "https://www.yorkcountyshelterprograms.com/food-services",
+    "categorySlug": "food",
+    "zipCode": "04002"
+  }
+]
