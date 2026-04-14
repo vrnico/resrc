@@ -1,0 +1,1550 @@
+[
+  {
+    "name": "Altamont Community Food Pantry",
+    "description": "Serves the 12009 zip code.",
+    "address": "122 Grand St, Altamont, NY 12009",
+    "phone": "518-861-6542",
+    "url": "https://regionalfoodbank.net/",
+    "categorySlug": "food",
+    "zipCode": "12009"
+  },
+  {
+    "name": "IPH Sheridan House",
+    "description": "A year-round, 30-bed transitional shelter for adults.",
+    "address": "176 Sheridan Avenue, Albany, NY 12202",
+    "phone": "(518) 434-8021",
+    "url": "https://www.iphny.org/",
+    "categorySlug": "housing",
+    "zipCode": "12202"
+  },
+  {
+    "name": "Capital City Rescue Mission",
+    "description": "Offers emergency shelter for men and women.",
+    "address": "259 South Pearl Street, Albany, NY 12202",
+    "phone": "(518) 462-0459",
+    "url": "https://capitalcityrescuemission.org/",
+    "categorySlug": "housing",
+    "zipCode": "12202"
+  },
+  {
+    "name": "The Gathering Hope Food Pantry",
+    "description": "Serves Berne, NY.",
+    "address": "1212 Thompson's Lake Road, East Berne, NY",
+    "phone": "518-872-7027",
+    "url": "http://gatheringhopefoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "12059"
+  },
+  {
+    "name": "Albany County Rural Housing Alliance",
+    "description": "HUD-approved housing counseling agency.",
+    "address": "24 Martin Rd, Voorheesville, NY 12186",
+    "phone": "(518) 765-2425",
+    "url": "https://www.acrha.org/",
+    "categorySlug": "housing",
+    "zipCode": "12186"
+  },
+  {
+    "name": "Guilderland Food Pantry",
+    "description": "A food pantry in Northeastern New York.",
+    "address": "4 Charles Park, Guilderland, NY 12084",
+    "phone": "(518) 456-5400",
+    "url": "https://www.guilderlandfoodpantry.com/",
+    "categorySlug": "food",
+    "zipCode": "12084"
+  },
+  {
+    "name": "Town of Coeymans Housing Authority",
+    "description": "Provides affordable housing opportunities.",
+    "address": "2524 US RTE 9W Ravena, NY 12143",
+    "phone": "(518)756-6006",
+    "url": "https://coeymans.org/departments/housing-authority/",
+    "categorySlug": "housing",
+    "zipCode": "12143"
+  },
+  {
+    "name": "Loudonville Presbyterian Church Food Pantry",
+    "description": "Provides food for Albany County residents. Open on Tuesdays and Thursdays from 3:30 pm to 5:30 pm, and a picture ID is required.",
+    "address": "22 Old Niskayuna Rd, Loudonville, NY 12211",
+    "phone": "(518) 785-5575",
+    "url": "https://www.lpcny.org/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "12211"
+  },
+  {
+    "name": "Christ Our Light Catholic Church Food Pantry",
+    "description": "A food pantry located at Christ Our Light Catholic Church.",
+    "address": "1 Maria Dr, Loudonville, NY 12211",
+    "phone": "(518) 459-6635",
+    "url": "https://www.christourlight.net/",
+    "categorySlug": "food",
+    "zipCode": "12211"
+  },
+  {
+    "name": "Black Veterans for Social Justice (BVSJ)",
+    "description": "Offers emergency and transitional housing for veterans and their families across New York City.",
+    "address": "665 Willoughby Ave, Brooklyn, NY 11206",
+    "phone": "(718) 852-6004",
+    "url": "https://bvsj.org/",
+    "categorySlug": "housing",
+    "zipCode": "10470"
+  },
+  {
+    "name": "NAICA CGRF Rental Assistance Program",
+    "description": "Offers emergency grants and case management to prevent eviction for eligible households in the Bronx and Queens.",
+    "address": "1910 Arthur Ave, Bronx, NY 10457",
+    "phone": "(718) 295-4670",
+    "url": "https://www.naicany.org/",
+    "categorySlug": "housing",
+    "zipCode": "10470"
+  },
+  {
+    "name": "Catholic Charities Community Services",
+    "description": "Assists families in the Bronx with applying for housing subsidies and other community-based services.",
+    "address": "402 East 152nd Street, Bronx, NY 10455",
+    "phone": "(718) 292-9090",
+    "url": "https://www.catholiccharitiesny.org/",
+    "categorySlug": "housing",
+    "zipCode": "10470"
+  },
+  {
+    "name": "The Riverdale-Yonkers Society for Ethical Culture Men's Shelter",
+    "description": "Operates a men's overnight emergency shelter on Mondays.",
+    "address": "4450 Fieldston Rd, Bronx, NY 10471",
+    "phone": "(718) 548-4445",
+    "url": "https://www.rysec.org/",
+    "categorySlug": "housing",
+    "zipCode": "10471"
+  },
+  {
+    "name": "Bronx Community Board No. 8",
+    "description": "Offers a Housing Resource Guide and information on programs like the Housing Choice Voucher Program (Section 8) for homeless veterans.",
+    "address": "5676 Riverdale Avenue, Suite 100, Bronx, NY 10471",
+    "phone": "(718) 884-3959",
+    "url": "https://www.nyc.gov/site/bronxcb8/index.page",
+    "categorySlug": "housing",
+    "zipCode": "10471"
+  },
+  {
+    "name": "Bread of Life Pantry",
+    "description": "Operates on Saturdays and provides free groceries. A photo ID is requested at intake.",
+    "address": "1104 Elder Avenue, Bronx, NY 10472",
+    "phone": "(718) 893-5435",
+    "url": "n/a",
+    "categorySlug": "food",
+    "zipCode": "10472"
+  },
+  {
+    "name": "St. Joan of Arc Food Pantry",
+    "description": "This pantry serves the Soundview and surrounding areas. Individuals and families can register in person at the Church rectory or online.",
+    "address": "1372 Stratford Avenue, Bronx, NY 10472",
+    "phone": "(718) 842-2222",
+    "url": "https://stjoanofarcbronx.org/",
+    "categorySlug": "food",
+    "zipCode": "10472"
+  },
+  {
+    "name": "CAMBA Evergreen Family Residence",
+    "description": "A family shelter that provides holistic support to families, including job training, assistance with children's well-being, and help transitioning to permanent housing.",
+    "address": "1471 Watson Ave, Bronx, NY 10472",
+    "phone": "(718) 292-2270",
+    "url": "https://camba.org/",
+    "categorySlug": "housing",
+    "zipCode": "10472"
+  },
+  {
+    "name": "Fellowship Covenant Church Food Pantry",
+    "description": "You can call about food on Tuesdays from 9:00 am to 5:00 pm.",
+    "address": "720 Castle Hill Avenue, Bronx, NY 10473",
+    "phone": "(718) 829-5353",
+    "url": "https://www.fccbx.org/",
+    "categorySlug": "food",
+    "zipCode": "10473"
+  },
+  {
+    "name": "Food Bank for New York City - Bronx Warehouse",
+    "description": "This is a distribution warehouse and administrative office for the Food Bank of New York City, a major hub for food distribution to community-based programs.",
+    "address": "355 Food Center Drive, Bronx, NY 10474",
+    "phone": "(212) 566-7855",
+    "url": "https://www.foodbanknyc.org/",
+    "categorySlug": "food",
+    "zipCode": "10474"
+  },
+  {
+    "name": "The Living Room/Safe Havens",
+    "description": "A 24-hour drop-in center for homeless adults, providing services such as laundry, showers, hot meals, and other essential assistance.",
+    "address": "800 Barretto Street, Bronx, NY 10474",
+    "phone": "(646) 393-4070",
+    "url": "https://www.bronxworks.org/the-living-room",
+    "categorySlug": "housing",
+    "zipCode": "10474"
+  },
+  {
+    "name": "BronxWorks Homeless Outreach Team (HOT)",
+    "description": "Assists street homeless individuals in accessing appropriate services, finding safer environments, and securing permanent or long-term transitional housing.",
+    "address": "800 Barretto Street, Bronx, NY 10474",
+    "phone": "(646) 393-4070",
+    "url": "https://www.bronxworks.org/homeless-outreach-team",
+    "categorySlug": "housing",
+    "zipCode": "10474"
+  },
+  {
+    "name": "Coop City SDA Church Food Pantry",
+    "description": "Distributes food on alternating weeks based on the recipient's last name. ID, proof of address, and registration are required.",
+    "address": "1010 Baychester Avenue, Bronx, NY 10475",
+    "phone": "(718) 671-9400",
+    "url": "https://coopcitysda.org/",
+    "categorySlug": "food",
+    "zipCode": "10475"
+  },
+  {
+    "name": "Cardinal McCloskey Services Food Pantry",
+    "description": "This food pantry offers groceries to the community.",
+    "address": "177 Dreiser Loop, Bronx, NY 10475",
+    "phone": "(718) 583-7777",
+    "url": "https://www.cmcs.org/",
+    "categorySlug": "food",
+    "zipCode": "10475"
+  },
+  {
+    "name": "St. Alphonsus Food Pantry",
+    "description": "Clients may access services once a month. Walk-ins are welcome, but appointments are preferred.",
+    "address": "85 E. Genesee St., Auburn, NY 13021",
+    "phone": "(315) 252-0710",
+    "url": "https://www.sacredheartauburn.org/",
+    "categorySlug": "food",
+    "zipCode": "13021"
+  },
+  {
+    "name": "Salvation Army Food Pantry (Auburn)",
+    "description": "A photo ID and proof of address are required for the pantry.",
+    "address": "18 E. Genesee St., Auburn, NY 13021",
+    "phone": "(315) 253-0319",
+    "url": "https://easternusa.salvationarmy.org/empire/auburn/",
+    "categorySlug": "food",
+    "zipCode": "13021"
+  },
+  {
+    "name": "CAP-Community Action Program Food Pantry",
+    "description": "This food pantry is operated by the Community Action Program of Cayuga/Seneca. Staff will meet you in the parking lot for pick up.",
+    "address": "89 York St., Auburn, NY 13021",
+    "phone": "(315) 255-1703",
+    "url": "https://www.caphelps.org/",
+    "categorySlug": "food",
+    "zipCode": "13021"
+  },
+  {
+    "name": "Auburn Rescue Mission",
+    "description": "Offers case management, transitional and permanent housing, meals, clothing, and employment resources to help families experiencing homelessness.",
+    "address": "51 Merriman St, Auburn, NY 13021",
+    "phone": "(315) 253-7777",
+    "url": "https://rescuemissionalliance.org/",
+    "categorySlug": "housing",
+    "zipCode": "13021"
+  },
+  {
+    "name": "Chapel House Men's Shelter",
+    "description": "A 15-bed shelter for men, including designated beds for veterans and overflow for cold weather, offering meals and case management.",
+    "address": "36 Franklin St, Auburn, NY 13021",
+    "phone": "(315) 252-9341",
+    "url": "https://www.chapelhouseshelter.org/",
+    "categorySlug": "housing",
+    "zipCode": "13021"
+  },
+  {
+    "name": "Catholic Charities of the Fingerlakes",
+    "description": "May offer assistance with security deposits, utility bills, and one-time emergency needs.",
+    "address": "134 East Genesee Street, Auburn, NY 13021",
+    "phone": "(315) 253-2222",
+    "url": "https://www.catholiccharitiesfl.org/",
+    "categorySlug": "housing",
+    "zipCode": "13021"
+  },
+  {
+    "name": "King Ferry Food Pantry, Inc.",
+    "description": "Provides food for needy families and individuals in the Southern Cayuga School District.",
+    "address": "2384 State Route 34B, Aurora, NY 13026",
+    "phone": "(315) 497-2049",
+    "url": "http://kingferryfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "13026"
+  },
+  {
+    "name": "Moravia Hope Food Pantry",
+    "description": "A food pantry serving residents of the Moravia School District.",
+    "address": "76 W. Cayuga St, Moravia, NY 13118",
+    "phone": "",
+    "url": "https://off-peakministries.org",
+    "categorySlug": "food",
+    "zipCode": "13118"
+  },
+  {
+    "name": "Port Byron Community Food Pantry",
+    "description": "A community food pantry serving the Port Byron area.",
+    "address": "8510 South Street, Port Byron, NY 13140",
+    "phone": "315-776-5586",
+    "url": "https://www.foodpantries.org/li/port-byron-community-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "13140"
+  },
+  {
+    "name": "Cato Christian Food Pantry",
+    "description": "A food pantry serving residents of the Cato area.",
+    "address": "2570 E. Main Street, Cato, NY 13033",
+    "phone": "315-626-2734",
+    "url": "https://www.foodpantries.org/li/cato-christian-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "13111"
+  },
+  {
+    "name": "Brutus-Sennett Food Pantry",
+    "description": "A food pantry located at the First Baptist Church in Weedsport.",
+    "address": "2707 Liberty St, Weedsport, NY 13166",
+    "phone": "315-834-6749",
+    "url": "https://www.foodpantries.org/li/brutus-sennett-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "13166"
+  },
+  {
+    "name": "Skaneateles Ecumenical Food Pantry",
+    "description": "A food pantry serving the Skaneateles community.",
+    "address": "819 W. Genesee St., Skaneateles, NY 13152",
+    "phone": "315-685-5048",
+    "url": "https://www.foodpantries.org/li/skaneateles-ecumenical-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "13156"
+  },
+  {
+    "name": "JCEO Food Pantry - Plattsburgh",
+    "description": "Provides a 3-day emergency supply of food to families in need in Clinton County.",
+    "address": "54 Margaret Street, Plattsburgh, NY 12901",
+    "phone": "(518) 561-6310",
+    "url": "https://www.jceo.org/food-pantries",
+    "categorySlug": "food",
+    "zipCode": "12901"
+  },
+  {
+    "name": "Plattsburgh Interfaith Food Shelf",
+    "description": "Provides emergency food to all residents of Clinton County.",
+    "address": "127 Beekman Street, Plattsburgh, NY 12901",
+    "phone": "(518) 562-3321",
+    "url": "http://www.plattsburghfoodshelf.org/",
+    "categorySlug": "food",
+    "zipCode": "12901"
+  },
+  {
+    "name": "ETC Housing Corp. Emergency Shelter",
+    "description": "Operates an emergency shelter with family and single units for the homeless population of Clinton County.",
+    "address": "134 Industrial Blvd, Plattsburgh, NY 12901",
+    "phone": "(518) 561-8955",
+    "url": "http://etchousing.org/emergency-shelter/",
+    "categorySlug": "housing",
+    "zipCode": "12901"
+  },
+  {
+    "name": "Catholic Charities of Oswego County Food Pantry",
+    "description": "Food pantry serving residents of Oswego County.",
+    "address": "808 West Broadway, Fulton, NY 13069",
+    "phone": "315-598-3980",
+    "url": "https://ccoswego.com/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "13124"
+  },
+  {
+    "name": "Oswego County Opportunities (OCO) Youth Shelter",
+    "description": "Provides emergency shelter for youth 18 years of age and younger.",
+    "address": "9 Fourth Avenue, Oswego, NY 13126",
+    "phone": "(315) 342-7618",
+    "url": "https://www.oco.org/youth-services",
+    "categorySlug": "housing",
+    "zipCode": "13155"
+  },
+  {
+    "name": "JCEO Food Pantry - Champlain",
+    "description": "JCEO food pantry located at the Champlain Town Hall, offering a 3-day emergency food supply.",
+    "address": "729 Route 9, Champlain, NY 12921",
+    "phone": "(518) 298-8160",
+    "url": "http://www.jceo.org/community-outreach",
+    "categorySlug": "food",
+    "zipCode": "12921"
+  },
+  {
+    "name": "Salvation Army Plattsburgh Food Pantry",
+    "description": "Offers food assistance to those in need in the Plattsburgh area and surrounding Clinton County.",
+    "address": "4804 S. Catherine St, Plattsburgh, NY 12901",
+    "phone": "(518) 561-2952",
+    "url": "https://easternusa.salvationarmy.org/empire/plattsburgh/",
+    "categorySlug": "food",
+    "zipCode": "12901"
+  },
+  {
+    "name": "ETC Housing Corporation - Emergency Shelter",
+    "description": "Provides a 12-unit emergency shelter for homeless families and individuals in Clinton County.",
+    "address": "1345 Military Turnpike, Plattsburgh, NY 12901",
+    "phone": "518-420-8864",
+    "url": "http://www.etchousing.org/",
+    "categorySlug": "housing",
+    "zipCode": "12901"
+  },
+  {
+    "name": "Clinton County Dept. of Social Services - Housing Assistance",
+    "description": "Assists homeless individuals and families with housing needs, offering eviction prevention services and immediate emergency shelter.",
+    "address": "13 Durkee Street, Plattsburgh, NY 12901",
+    "phone": "518-565-3300",
+    "url": "https://www.clintoncountyny.gov/dss",
+    "categorySlug": "housing",
+    "zipCode": "12901"
+  },
+  {
+    "name": "Rural Preservation Company of Clinton County",
+    "description": "A non-profit organization focused on addressing health and safety issues for low-income homeowners in Clinton County.",
+    "address": "6222 Route 22, Suite 1, Plattsburgh, NY 12901",
+    "phone": "(518) 561-4440",
+    "url": "http://www.clintonrpc.org/",
+    "categorySlug": "housing",
+    "zipCode": "12901"
+  },
+  {
+    "name": "Clinton County Housing Assistance Program (HAP)",
+    "description": "Offers Section 8 housing assistance to low-income families in Clinton County.",
+    "address": "301 West Bay Plaza, Plattsburgh, NY 12901",
+    "phone": "518-825-0800",
+    "url": "https://apps.clintoncountyhousing.com/",
+    "categorySlug": "housing",
+    "zipCode": "12901"
+  },
+  {
+    "name": "Chatham Area Silent Food Pantry",
+    "description": "Provides food to residents of the Chatham Central School District. No ID or documentation is required.",
+    "address": "77 Main Street, Chatham, NY 12037",
+    "phone": "518-392-7794",
+    "url": "https://chathamsilentpantry.org",
+    "categorySlug": "food",
+    "zipCode": "12037"
+  },
+  {
+    "name": "Highpointe At Chatham Senior Apartments",
+    "description": "Offers 36 low-income apartments for seniors, families, disabled individuals, and those experiencing homelessness.",
+    "address": "45 Dardess Dr, Chatham, NY 12037",
+    "phone": "",
+    "url": "https://www.hudhouses.us/rental/chatham-ny/12037/highpointe-at-chatham-senior-apartments",
+    "categorySlug": "housing",
+    "zipCode": "12037"
+  },
+  {
+    "name": "Chatham Manor",
+    "description": "Provides low-income apartments.",
+    "address": "18 School St, Chatham, New York 12037",
+    "phone": "",
+    "url": "https://affordablehousingonline.com/housing-search/New-York/Chatham/Chatham-Manor/10084600",
+    "categorySlug": "housing",
+    "zipCode": "12037"
+  },
+  {
+    "name": "Charlie's Pantry",
+    "description": "Food pantry for residents of the New Lebanon Central School District. Photo ID and proof of residency are required.",
+    "address": "732 US Route 20, New Lebanon, NY 12125",
+    "phone": "518-794-0156",
+    "url": "http://www.townofnewlebanon.com/pantry.html",
+    "categorySlug": "food",
+    "zipCode": "12125"
+  },
+  {
+    "name": "Church of St. Joseph Food Pantry",
+    "description": "Food pantry open on the 2nd Friday of every month.",
+    "address": "1820 NY Route 9, Stuyvesant, NY 12173",
+    "phone": "518-799-5411",
+    "url": "https://regionalfoodbank.net/agency/church-st-joseph-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "12173"
+  },
+  {
+    "name": "Truxton Food Pantry",
+    "description": "The Truxton Food Pantry is located at the Truxton United Methodist Church and provides food to those in need.",
+    "address": "Truxton United Methodist Church, Truxton, NY 13158",
+    "phone": "607-753-5060",
+    "url": "https://www.townoftruxton.com/community-organizations.html",
+    "categorySlug": "food",
+    "zipCode": "13158"
+  },
+  {
+    "name": "Catholic Charities of Onondaga County",
+    "description": "Offers emergency services, including relocation assistance for those experiencing homelessness or housing vulnerability.",
+    "address": "Syracuse, NY",
+    "phone": null,
+    "url": "https://www.ccoc.us/services/emergency-services",
+    "categorySlug": "housing",
+    "zipCode": "13158"
+  },
+  {
+    "name": "The Salvation Army Syracuse Area Services",
+    "description": "Operates an Emergency Family Shelter and a Women's Shelter in Syracuse, providing temporary emergency housing and counseling services.",
+    "address": "749 South Warren Street, Syracuse, NY",
+    "phone": null,
+    "url": "https://salvationarmy.org",
+    "categorySlug": "housing",
+    "zipCode": "13158"
+  },
+  {
+    "name": "Stamford Sacred Heart Food Pantry",
+    "description": "A 501(c)(3) nonprofit organization located at Sacred Heart Roman Catholic Church that operates a food pantry.",
+    "address": "27 Harper St, Stamford, NY 12167",
+    "phone": "607-652-7170",
+    "url": "http://www.sacredheartstamford.org/",
+    "categorySlug": "food",
+    "zipCode": "12167"
+  },
+  {
+    "name": "SBC Food Pantry",
+    "description": "A food pantry operated by Stamford Baptist Church, available by appointment only.",
+    "address": "40 Lake St, Stamford, NY 12167",
+    "phone": null,
+    "url": "http://www.stamfordbaptistchurch.com/",
+    "categorySlug": "food",
+    "zipCode": "12167"
+  },
+  {
+    "name": "Delaware Opportunities, Inc.",
+    "description": "Offers housing assistance.",
+    "address": "Stamford, NY 12167",
+    "phone": "607-652-2823",
+    "url": "https://delawareopportunities.org/",
+    "categorySlug": "housing",
+    "zipCode": "12167"
+  },
+  {
+    "name": "Dutchess Outreach - The Pantry",
+    "description": "Offers free groceries including fresh produce, dairy, eggs, and pantry staples. Open to all Dutchess County residents, with visits allowed once every 30 days.",
+    "address": "29 North Hamilton St, Suite 220, Poughkeepsie, NY 12601",
+    "phone": "845-454-3792",
+    "url": "https://dutchessoutreach.org/",
+    "categorySlug": "food",
+    "zipCode": "12601"
+  },
+  {
+    "name": "Community Action Partnership - Dover Plains",
+    "description": "Provides a food pantry and other assistance programs for low-income individuals and families in the Dover Plains area.",
+    "address": "3414 Route 22, Dover Plains, NY 12522",
+    "phone": "845-452-5104",
+    "url": "https://www.dutchesscap.org/",
+    "categorySlug": "food",
+    "zipCode": "12522"
+  },
+  {
+    "name": "Pleasant Valley Ecumenical Food Pantry",
+    "description": "A community food pantry welcoming guests from the Arlington school district with no proof of income required.",
+    "address": "1596 Main St, Pleasant Valley, NY 12569",
+    "phone": "(845) 635-3137",
+    "url": "https://www.pvfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "12569"
+  },
+  {
+    "name": "Love Reaches Out Food Pantry",
+    "description": "A food pantry operated by the Full Gospel Center in Lagrangeville, providing food assistance to the local community.",
+    "address": "123 Storbmville Rd, Lagrangeville, NY 12540",
+    "phone": "(845) 452-5095",
+    "url": "http://www.fgclagrange.com/love-reaches-out.html",
+    "categorySlug": "food",
+    "zipCode": "12540"
+  },
+  {
+    "name": "Trinity United Methodist Church Food Pantry",
+    "description": "A church-based food pantry offering food assistance to individuals and families in the Lagrangeville area.",
+    "address": "815 E Noxon Rd, Lagrangeville, NY 12540",
+    "phone": "845-223-5489",
+    "url": "https://www.tumclagrange.org/",
+    "categorySlug": "food",
+    "zipCode": "12540"
+  },
+  {
+    "name": "Hudson River Housing - Gannett House",
+    "description": "Provides emergency housing for homeless individuals and families. Placement is coordinated through the Dutchess County Department of Social Services.",
+    "address": "389 Manchester Road, LaGrange, NY 12540",
+    "phone": "845-452-8197",
+    "url": "https://hudsonriverhousing.org/",
+    "categorySlug": "housing",
+    "zipCode": "12540"
+  },
+  {
+    "name": "First Reformed Church Food Pantry",
+    "description": "A food pantry located at the First Reformed Church of Fishkill, serving the local community.",
+    "address": "1153 Main St, Fishkill, NY 12524",
+    "phone": "(845) 896-8526",
+    "url": "https://www.frcfishkill.org/",
+    "categorySlug": "food",
+    "zipCode": "12524"
+  },
+  {
+    "name": "Trinity Episcopal Church Food Pantry",
+    "description": "Provides food assistance to those in need from their location at Trinity Episcopal Church in Fishkill.",
+    "address": "1200 Main Street, Fishkill, NY 12524",
+    "phone": "(845) 896-9884",
+    "url": "https://trinityfishkill.org/",
+    "categorySlug": "food",
+    "zipCode": "12524"
+  },
+  {
+    "name": "Reach Out Church Food Pantry",
+    "description": "A church-based food pantry in Hyde Park offering food and support to the community.",
+    "address": "241 Crum Elbow Rd, Hyde Park, NY 12538",
+    "phone": "845-229-6080",
+    "url": "https://www.reachoutchurch.com/",
+    "categorySlug": "food",
+    "zipCode": "12538"
+  },
+  {
+    "name": "Food of Life Food Pantry",
+    "description": "A food pantry in Millbrook providing essential food items to individuals and families.",
+    "address": "3200 Franklin Ave, Millbrook, NY 12545",
+    "phone": "(845) 677-3653",
+    "url": "https://www.lyallmemorial.org/food-of-life-pantry",
+    "categorySlug": "food",
+    "zipCode": "12545"
+  },
+  {
+    "name": "North East Community Center",
+    "description": "Offers a food pantry and a variety of other support services to the residents of the Millerton area.",
+    "address": "51 S Center St, Millerton, NY 12546",
+    "phone": "(518) 789-4259",
+    "url": "https://www.neccmillerton.org/",
+    "categorySlug": "community",
+    "zipCode": "12546"
+  },
+  {
+    "name": "Pawling Resource Center",
+    "description": "Provides a food pantry, transportation assistance, and other support services to the Pawling community.",
+    "address": "126 E Main St, Pawling, NY 12564",
+    "phone": "(845) 855-3459",
+    "url": "https://www.pawlingresourcecenter.org/",
+    "categorySlug": "community",
+    "zipCode": "12564"
+  },
+  {
+    "name": "St. Denis-St. Columba Church Food Pantry",
+    "description": "A church-run food pantry in Hopewell Junction that serves the surrounding communities, including Poughquag.",
+    "address": "602 Beekman Rd, Hopewell Junction, NY 12533",
+    "phone": "(845) 227-8382",
+    "url": "https://www.stdenis-stcolumba.org/",
+    "categorySlug": "food",
+    "zipCode": "12533"
+  },
+  {
+    "name": "St. Margaret's Episcopal Church Food Pantry",
+    "description": "A food pantry operated by St. Margaret's Episcopal Church, providing food for the Staatsburg community.",
+    "address": "1 E Elm Ave, Staatsburg, NY 12580",
+    "phone": "(845) 889-4178",
+    "url": "https://www.stmargs.org/",
+    "categorySlug": "food",
+    "zipCode": "12580"
+  },
+  {
+    "name": "Mental Health America of Dutchess County - Supported Housing",
+    "description": "Offers supported housing for individuals with severe persistent mental illness who are homeless or at risk of homelessness, with rent subsidized based on income.",
+    "address": "253 Mansion Street, Poughkeepsie, NY 12601",
+    "phone": "845-473-2500",
+    "url": "https://mhadutchess.org/",
+    "categorySlug": "housing",
+    "zipCode": "12601"
+  },
+  {
+    "name": "Webster House",
+    "description": "An emergency overnight shelter for adults (18+) in Dutchess County.",
+    "address": "29 North Hamilton Street, Poughkeepsie, NY 12601",
+    "phone": null,
+    "url": "https://hudsonriverhousing.org/what-we-do/homeless-services",
+    "categorySlug": "housing",
+    "zipCode": "12581"
+  },
+  {
+    "name": "Food of Life / Comida de Vida Food Pantry",
+    "description": "Provides a wide variety of healthy food to those in need.",
+    "address": "3360 NY-343, Amenia, NY 12501",
+    "phone": "(845) 373-9161",
+    "url": "https://www.sunriver.org/location/amenia/",
+    "categorySlug": "food",
+    "zipCode": "12582"
+  },
+  {
+    "name": "Dutchess County Department of Community & Family Services (DCFS)",
+    "description": "Provides emergency shelter and housing assistance for residents of Dutchess County.",
+    "address": "60 Market Street, Poughkeepsie, NY 12601",
+    "phone": "845-486-3300",
+    "url": "https://www.dutchessny.gov/Departments/Community-Family-Services/Community-Family-Services.htm",
+    "categorySlug": "housing",
+    "zipCode": "12582"
+  },
+  {
+    "name": "St. Augustine Church Food Pantry",
+    "description": "A food pantry serving the Highland area.",
+    "address": "35 Phillips Avenue, Highland, NY 12528",
+    "phone": "845-691-7673",
+    "url": "https://stanstj.org/",
+    "categorySlug": "food",
+    "zipCode": "12583"
+  },
+  {
+    "name": "Darmstadt Shelter",
+    "description": "Provides emergency housing for up to 21 homeless men and women for up to 90 days.",
+    "address": "40 Thomas Street, Kingston, NY 12401",
+    "phone": "845-331-1395",
+    "url": "https://www.familyofwoodstockinc.org/emergency-housing/darmstadt/",
+    "categorySlug": "housing",
+    "zipCode": "12583"
+  },
+  {
+    "name": "Family Outreach Food Pantry",
+    "description": "Food pantry open on the 2nd and 4th Wednesday of the month.",
+    "address": "529 Route 44 #55, Highland, NY 12528",
+    "phone": "845-891-5945",
+    "url": "https://www.regionalfoodbank.net/agency/family-outreach-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "12585"
+  },
+  {
+    "name": "Ticonderoga First United Methodist Church Food Pantry",
+    "description": "A food pantry serving the Ticonderoga community, open three days a week.",
+    "address": "1045 Wicker Street, Ticonderoga, NY 12883",
+    "phone": "518-585-7995",
+    "url": "https://wellfedessexcounty.org/food-pantries-map/",
+    "categorySlug": "food",
+    "zipCode": "12883"
+  },
+  {
+    "name": "JCEO - Saranac Lake",
+    "description": "A food pantry operated by the Joint Council for Economic Opportunity, located at Saranac Lake High School.",
+    "address": "79 Caranas Dr., Saranac Lake, NY 12983",
+    "phone": "518-897-1446",
+    "url": "https://www.jceo.org/services/food-pantries",
+    "categorySlug": "food",
+    "zipCode": "12913"
+  },
+  {
+    "name": "Senior Citizens Overlook",
+    "description": "Senior low-income housing subsidized by the U.S. Department of Housing and Urban Development (HUD).",
+    "address": "45 Main St, Bloomingdale, NY 12913",
+    "phone": "518-891-2194",
+    "url": "https://www.publichousing.com/details/senior_citizens_overlook",
+    "categorySlug": "housing",
+    "zipCode": "12913"
+  },
+  {
+    "name": "Knapp Senior Center Food Pantry",
+    "description": "A food pantry at the Knapp Senior Center, open on the first and third Thursday of each month.",
+    "address": "2793 NYS Rte 9N, Crown Point, NY 12928",
+    "phone": "518-597-3225",
+    "url": "https://www.townofcrownpointny.gov/community-services.html",
+    "categorySlug": "food",
+    "zipCode": "12928"
+  },
+  {
+    "name": "Housing Assistance Program Of Essex County (HAPEC)",
+    "description": "Offers the Section 8 Housing Choice Voucher Program for Essex County residents.",
+    "address": "103 Hand Avenue, Elizabethtown, NY 12932",
+    "phone": "518-873-6888",
+    "url": "http://www.hapec.org/",
+    "categorySlug": "housing",
+    "zipCode": "12932"
+  },
+  {
+    "name": "Essex Community Heritage Organization Inc",
+    "description": "A non-profit organization providing housing assistance to local residents.",
+    "address": "Po Box 250, Essex, NY 12936",
+    "phone": "(518) 963-7088",
+    "url": "https://www.shelterlistings.org/details/29334/",
+    "categorySlug": "housing",
+    "zipCode": "12936"
+  },
+  {
+    "name": "Keeseville Country Gardens",
+    "description": "Senior low-income housing subsidized by the U.S. Department of Housing and Urban Development (HUD).",
+    "address": "164 Hill St, Keeseville, NY 12944",
+    "phone": "518-834-7725",
+    "url": "http://www.communityos.org/services/s/keesevillecountrygardens.html",
+    "categorySlug": "housing",
+    "zipCode": "12944"
+  },
+  {
+    "name": "Lake Placid Thrive and Thrift",
+    "description": "A food pantry and thrift store serving the Lake Placid community on Friday mornings.",
+    "address": "31 Cummings Rd, Lake Placid, NY 12946",
+    "phone": "518-523-9620",
+    "url": "https://regionalfoodbank.net/find-nearest-agency/",
+    "categorySlug": "food",
+    "zipCode": "12946"
+  },
+  {
+    "name": "Ecumenical Charity Program Food Pantry",
+    "description": "An ecumenical charity program offering a food pantry on Friday mornings.",
+    "address": "169 Hillcrest Ave, Lake Placid, NY 12946",
+    "phone": "(518) 523-8123",
+    "url": "https://www.foodbanks.net/pantry/ecumenical_charity_program_food_pantry_169_hillcrest_ave_lake_placid_ny_12946_518-523-8123/",
+    "categorySlug": "food",
+    "zipCode": "12946"
+  },
+  {
+    "name": "First Baptist Church - Malone Food Pantry",
+    "description": "A food pantry at the First Baptist Church in Malone.",
+    "address": "48 Harrison Place, Malone, NY 12953",
+    "phone": "518-483-0585",
+    "url": "http://www.communityos.org/services/s/fbc.html",
+    "categorySlug": "food",
+    "zipCode": "12950"
+  },
+  {
+    "name": "JCEO Food Pantry (Clinton County)",
+    "description": "Operates 12 food pantries across Clinton County, providing a 3-day emergency food supply.",
+    "address": "54 Margaret St, Plattsburgh, NY 12901",
+    "phone": "(518) 561-6310",
+    "url": "https://www.jceo.org",
+    "categorySlug": "food",
+    "zipCode": "12974"
+  },
+  {
+    "name": "St. James Episcopal Church Ecumenical Food Bank",
+    "description": "Food bank serving the AuSable Forks area. Home delivery is available for the homebound.",
+    "address": "14216 NYS Route 9N, AuSable Forks, NY 12912",
+    "phone": "(914) 204-7279",
+    "url": "https://www.wellfedessexcounty.org/food-assistance-map",
+    "categorySlug": "food",
+    "zipCode": "12914"
+  },
+  {
+    "name": "The Ruth House",
+    "description": "Provides emergency shelter for women and children in Franklin County.",
+    "address": "217 Webster Street, Malone, NY 12953",
+    "phone": "(518) 521-3507",
+    "url": "https://www.shelterlistings.org/details/39203/",
+    "categorySlug": "housing",
+    "zipCode": "12953"
+  },
+  {
+    "name": "Barnabas House Homeless Shelter and Services",
+    "description": "Provides emergency shelter and transitional housing for male residents of Franklin County.",
+    "address": "200 Finney Blvd, Malone, NY 12966",
+    "phone": "(518) 521-3754",
+    "url": "https://www.homelessshelterdirectory.org/shelter/ny_barnabas-house-homeless-shelter-and-services",
+    "categorySlug": "housing",
+    "zipCode": "12966"
+  },
+  {
+    "name": "Franklin County Community Housing Council (FCCHC)",
+    "description": "Provides affordable housing, Section 8 Housing Choice Vouchers, and other housing assistance to Franklin and Northern Essex Counties.",
+    "address": "337 W. Main Street, Malone, NY 12953",
+    "phone": "(518) 483-5934",
+    "url": "https://thefcchc.com/",
+    "categorySlug": "housing",
+    "zipCode": "12953"
+  },
+  {
+    "name": "JCEO Housing Assistance",
+    "description": "Offers housing assistance including information, referral, advocacy, budgeting, and funds for rent or security deposits.",
+    "address": "54 Margaret St, Plattsburgh, NY 12901",
+    "phone": "(518) 561-6310",
+    "url": "https://www.jceo.org/services-and-programs",
+    "categorySlug": "housing",
+    "zipCode": "12974"
+  },
+  {
+    "name": "Church and Community Program",
+    "description": "Operates a food pantry and provides other emergency assistance to residents of Canton and surrounding areas.",
+    "address": "30 Court Street, Canton, NY 13617",
+    "phone": "(315) 386-3534",
+    "url": "http://www.ccpcanton.org/",
+    "categorySlug": "food",
+    "zipCode": "12966"
+  },
+  {
+    "name": "Renewal House",
+    "description": "Provides comprehensive services for victims of domestic violence and sexual assault, including emergency shelter.",
+    "address": "3 Chapel Street, Canton, NY 13617",
+    "phone": "(315) 379-9845",
+    "url": "https://slvrenewalhouse.org/",
+    "categorySlug": "crisis",
+    "zipCode": "12966"
+  },
+  {
+    "name": "Community Action of Greene County - Emergency Food Pantry",
+    "description": "Provides a three-day supply of food to individuals and families in need. They can also connect individuals to other resources.",
+    "address": "7856 Route 9W, Catskill, NY 12414",
+    "phone": "518-943-9205",
+    "url": "https://cagcny.org/",
+    "categorySlug": "food",
+    "zipCode": "12414"
+  },
+  {
+    "name": "Matthew Twenty 25 Food Pantry",
+    "description": "Food pantry that aims to provide a week's worth of groceries to guests once a month.",
+    "address": "8 Union Street, Catskill, NY 12414",
+    "phone": "518-943-5890",
+    "url": "http://m25foodpantry.com/",
+    "categorySlug": "food",
+    "zipCode": "12414"
+  },
+  {
+    "name": "Greene County Department of Social Services (DSS)",
+    "description": "Provides information and services for emergency housing and other social services.",
+    "address": "411 Main St #238, Catskill, NY 12414",
+    "phone": "518-719-3700",
+    "url": "https://www.greenegovernment.com/departments/social-services",
+    "categorySlug": "housing",
+    "zipCode": "12414"
+  },
+  {
+    "name": "Catskill Mountain Housing Development Corporation (CMHDC)",
+    "description": "A non-profit housing agency that services Greene County with various housing programs, including home repair assistance and housing counseling.",
+    "address": "448 Main St, Catskill, NY 12414",
+    "phone": "518-943-6700",
+    "url": "http://www.cmhdc.org/",
+    "categorySlug": "housing",
+    "zipCode": "12414"
+  },
+  {
+    "name": "Family Service Network of New York (FSNNY) Food Pantry",
+    "description": "Provides food pantry services. Requires ID for the first visit.",
+    "address": "1420 Bushwick Ave., Brooklyn, NY 11207",
+    "phone": "718-455-6010 x6148",
+    "url": "https://www.foodpantries.org/li/family_service_network_of_new_york_inc",
+    "categorySlug": "food",
+    "zipCode": "11207"
+  },
+  {
+    "name": "HELP Women's Center",
+    "description": "A DHS shelter for women, open 24/7.",
+    "address": "114 Snediker Avenue, Brooklyn, NY, 11207",
+    "phone": "(718) 483-7700",
+    "url": "https://www.nyc.gov/site/dhs/shelter-intake/single-adults.page",
+    "categorySlug": "housing",
+    "zipCode": "11207"
+  },
+  {
+    "name": "East New York Seventh-day Adventist Church \u2013 Food Pantry",
+    "description": "Food pantry providing essential food items to the community.",
+    "address": "511 Elton Street, Brooklyn, NY 11208",
+    "phone": "(718) 647-0764",
+    "url": "https://www.foodpantries.org/li/east-new-york-seventh-day-adventist-church",
+    "categorySlug": "food",
+    "zipCode": "11208"
+  },
+  {
+    "name": "Salvation Army \u2013 Bay Ridge Corps",
+    "description": "Food pantry available by appointment. Requires Photo ID and proof of address.",
+    "address": "252 86th Street, Brooklyn, NY 11209",
+    "phone": "(718) 238-2991",
+    "url": "https://easternusa.salvationarmy.org/greater-new-york/bay-ridge/",
+    "categorySlug": "food",
+    "zipCode": "11209"
+  },
+  {
+    "name": "Shore Hill Housing",
+    "description": "Federally-assisted HUD project-based Section 8 Housing for low-income elderly or disabled residents.",
+    "address": "9000 Shore Road, Brooklyn, NY 11209",
+    "phone": "",
+    "url": "https://www.shorehillhousingbk.com/",
+    "categorySlug": "housing",
+    "zipCode": "11209"
+  },
+  {
+    "name": "LIFEBRIDGENY/BKPANTRY",
+    "description": "Food pantry serving the local community.",
+    "address": "1895 Flatbush Ave, Brooklyn, New York, 11210",
+    "phone": "(718) 233-5004",
+    "url": "https://www.lifebridgeny.org/",
+    "categorySlug": "food",
+    "zipCode": "11210"
+  },
+  {
+    "name": "Southside United HDFC (Los Sures) Food Pantry",
+    "description": "Food pantry open on Tuesdays and Wednesdays. Requires ID.",
+    "address": "145 South 3rd Street, Brooklyn, NY 11211",
+    "phone": "718-599-1940",
+    "url": "https://www.southsideunitedhdfc.org/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "11211"
+  },
+  {
+    "name": "St. Nicks Alliance",
+    "description": "Manages affordable rental apartments and offers resident services including rental support and eviction prevention.",
+    "address": "211 Ainslie Street, Brooklyn, NY 11211",
+    "phone": "718-305-1159",
+    "url": "https://www.stnicksalliance.org/",
+    "categorySlug": "housing",
+    "zipCode": "11211"
+  },
+  {
+    "name": "Salvation Army \u2013 Brooklyn Brownsville Corps Community Center",
+    "description": "Food pantry available. Requires Photo ID, proof of address and income.",
+    "address": "280 Riverdale Avenue, Brooklyn, NY 11212",
+    "phone": "(718) 345-7050 x4026",
+    "url": "https://easternusa.salvationarmy.org/greater-new-york/brownsville/",
+    "categorySlug": "food",
+    "zipCode": "11212"
+  },
+  {
+    "name": "Transitional Living Community (TLC)",
+    "description": "A 30-bed shelter supporting homeless women with severe mental illness, domestic violence, sexual assault, or trauma.",
+    "address": "Brooklyn Women's Shelter, East New York, Brooklyn, NY 11212",
+    "phone": "",
+    "url": "https://www.wearebcs.org/program/transitional-living-community/",
+    "categorySlug": "housing",
+    "zipCode": "11212"
+  },
+  {
+    "name": "Sisters With Purpose Inc.",
+    "description": "Operates weekly, distributing fresh produce, dry goods, and other essential items.",
+    "address": "1592 Fulton Street Brooklyn, NY 11213",
+    "phone": "1-646-460-4101",
+    "url": "https://sisterswithpurpose.net/",
+    "categorySlug": "food",
+    "zipCode": "11213"
+  },
+  {
+    "name": "Crown Heights Homeless Shelter",
+    "description": "A 104-bed shelter for homeless men over 62 years or older.",
+    "address": "1173 Bergen St Brooklyn, NY 11213",
+    "phone": "",
+    "url": "https://www.shelterlistings.org/details/39269/",
+    "categorySlug": "housing",
+    "zipCode": "11213"
+  },
+  {
+    "name": "Reaching Out Community Services Inc.",
+    "description": "Digital food pantry. Requires proof of address. SNAP assistance available.",
+    "address": "7708 New Utrecht Ave., Brooklyn, NY 11214",
+    "phone": "718-373-4565",
+    "url": "https://www.rcsprograms.org/",
+    "categorySlug": "food",
+    "zipCode": "11214"
+  },
+  {
+    "name": "CHIPS - Park Slope Christian Help",
+    "description": "Offers a food pantry and soup kitchen services.",
+    "address": "200 4th Ave., Brooklyn, NY 11215",
+    "phone": "718-237-2962",
+    "url": "https://chipsonline.org/",
+    "categorySlug": "food",
+    "zipCode": "11215"
+  },
+  {
+    "name": "Park Slope Women's Shelter",
+    "description": "A 100-bed shelter providing temporary housing, nutritious meals and comprehensive services.",
+    "address": "1402 8th Ave, Brooklyn, NY 11215",
+    "phone": "",
+    "url": "https://www.camba.org/programs/homeless-services/womens-shelters/",
+    "categorySlug": "housing",
+    "zipCode": "11215"
+  },
+  {
+    "name": "Family Life Development Center",
+    "description": "Food pantry. Requires ID.",
+    "address": "1476 Bedford Ave., Brooklyn, NY 11216",
+    "phone": "718-636-4938",
+    "url": "https://www.foodpantries.org/li/family-life-development-center",
+    "categorySlug": "food",
+    "zipCode": "11216"
+  },
+  {
+    "name": "CHIPS - Frances Residency Program",
+    "description": "Shelter for women and infants.",
+    "address": "200 4th Avenue Brooklyn, NY 11217",
+    "phone": "718-237-2962",
+    "url": "https://chipsonline.org/shelter/",
+    "categorySlug": "housing",
+    "zipCode": "11217"
+  },
+  {
+    "name": "St. Augustine Church \u2013 Helping Hands Food Pantry",
+    "description": "Food pantry providing food for those in need.",
+    "address": "116 6th Avenue, Brooklyn, NY 11217",
+    "phone": "(718) 638-1880",
+    "url": "https://www.foodpantries.org/li/st-augustine-church-helping-hands-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "11217"
+  },
+  {
+    "name": "Bais Ezra Group Residence",
+    "description": "Offers mental health counseling, developmental disability programs, and trauma services.",
+    "address": "1384 36th St, Brooklyn, NY 11218",
+    "phone": "(718) 972-4820",
+    "url": "https://www.ohelfamily.org/bais-ezra",
+    "categorySlug": "housing",
+    "zipCode": "11218"
+  },
+  {
+    "name": "Masbia of Boro Park",
+    "description": "Soup kitchen open Sunday-Thursday.",
+    "address": "5402 New Utrecht Ave., Brooklyn, NY 11219",
+    "phone": "866-962-7242",
+    "url": "https://www.masbia.org/boropark",
+    "categorySlug": "food",
+    "zipCode": "11219"
+  },
+  {
+    "name": "Salvation Army Sunset Park Corp.",
+    "description": "Soup kitchen and food pantry. Appointment necessary for food pantry.",
+    "address": "520 50th St., Brooklyn, NY 11220",
+    "phone": "718-438-1771",
+    "url": "https://easternusa.salvationarmy.org/greater-new-york/sunset-park/",
+    "categorySlug": "food",
+    "zipCode": "11220"
+  },
+  {
+    "name": "St. John's Bread and Life",
+    "description": "Soup kitchen and food pantry. Requires ID for registration.",
+    "address": "795 Lexington Avenue, Brooklyn, NY 11221",
+    "phone": "718-574-0058 x240",
+    "url": "https://www.breadandlife.org/",
+    "categorySlug": "food",
+    "zipCode": "11221"
+  },
+  {
+    "name": "Institute for Community Equity and Sharing, Inc.",
+    "description": "Provides community services and support.",
+    "address": "13 Greene Avenue, Brooklyn, NY 11238",
+    "phone": "(347) 351-4242",
+    "url": "https://www.onecommunitynyc.org/",
+    "categorySlug": "community",
+    "zipCode": "11238"
+  },
+  {
+    "name": "Child Development Support Corporation",
+    "description": "Offers a food pantry for residents in need.",
+    "address": "352 Classon Ave, Brooklyn, NY 11238",
+    "phone": "(718) 398-2050",
+    "url": "https://cdscnyc.org/",
+    "categorySlug": "food",
+    "zipCode": "11238"
+  },
+  {
+    "name": "Bethel Seventh-Day Adventist Church",
+    "description": "Operates a food pantry and soup kitchen.",
+    "address": "457 Grand Ave, Brooklyn, NY 11238",
+    "phone": "718-783-3630",
+    "url": "https://bethelsda.org/",
+    "categorySlug": "food",
+    "zipCode": "11238"
+  },
+  {
+    "name": "Brown Memorial Baptist Church",
+    "description": "Runs a food pantry on Saturday mornings.",
+    "address": "484 Washington Avenue, Brooklyn, NY 11238",
+    "phone": "718-638-6121",
+    "url": "https://www.brownmemorialbaptist.org/",
+    "categorySlug": "food",
+    "zipCode": "11238"
+  },
+  {
+    "name": "The Bowery Mission",
+    "description": "Provides meals, shelter, and residential programs.",
+    "address": "227 Bowery, New York, NY 10002",
+    "phone": "(212) 674-3456",
+    "url": "https://www.bowery.org/",
+    "categorySlug": "housing",
+    "zipCode": "11238"
+  },
+  {
+    "name": "Catholic Charities Brooklyn and Queens (CCBQ)",
+    "description": "Provides supportive housing and homelessness prevention services.",
+    "address": "683 Dean Street, Brooklyn, NY, 11238",
+    "phone": "718-722-6001",
+    "url": "https://www.ccbq.org/",
+    "categorySlug": "housing",
+    "zipCode": "11238"
+  },
+  {
+    "name": "The Country Pantry",
+    "description": "A non-profit food pantry serving Clinton, Clark Mills, and Westmoreland.",
+    "address": "7616 East South Street, Clark Mills, NY 13323",
+    "phone": "315-272-5267",
+    "url": "https://thecountrypantry.org/",
+    "categorySlug": "food",
+    "zipCode": "13312"
+  },
+  {
+    "name": "Catholic Charities Oneida/Madison Counties",
+    "description": "Offers housing and stabilization services, including rental stipends and landlord mediation.",
+    "address": "1408 Genesee St, Utica, NY 13502",
+    "phone": "(315) 724-2158",
+    "url": "https://catholiccharitiesom.org/",
+    "categorySlug": "housing",
+    "zipCode": "13312"
+  },
+  {
+    "name": "Hamilton Food Cupboard",
+    "description": "A non-profit community food pantry serving the Hamilton area.",
+    "address": "400 Wings Way Extension, Hamilton, NY",
+    "phone": "",
+    "url": "http://hamiltonfoodcupboard.org/",
+    "categorySlug": "food",
+    "zipCode": "13325"
+  },
+  {
+    "name": "Rescue Mission of Utica",
+    "description": "Provides emergency shelter, meals, and support services.",
+    "address": "293 Genesee St, Utica, NY 13501",
+    "phone": "(315) 735-1645",
+    "url": "https://uticamission.org/",
+    "categorySlug": "housing",
+    "zipCode": "13325"
+  },
+  {
+    "name": "Rome Rescue Mission",
+    "description": "A Christian ministry providing shelter, food, and necessities.",
+    "address": "413 E Dominick St, Rome, NY 13440",
+    "phone": "(315) 337-2516",
+    "url": "https://romemission.org/",
+    "categorySlug": "housing",
+    "zipCode": "13327"
+  },
+  {
+    "name": "Great Swamp Conservancy",
+    "description": "Offers a Mobile Food Pantry and Fresh Food Giveaway.",
+    "address": "8375 North Main St, Canastota, NY 13032",
+    "phone": "(315) 697-2950",
+    "url": "https://www.greatswampconservancy.org/",
+    "categorySlug": "food",
+    "zipCode": "13032"
+  },
+  {
+    "name": "CazCares",
+    "description": "A food pantry and clothing closet serving low-income residents.",
+    "address": "101 Nelson St, Cazenovia, NY 13035",
+    "phone": "(315) 655-3174",
+    "url": "https://cazcares.org/",
+    "categorySlug": "food",
+    "zipCode": "13035"
+  },
+  {
+    "name": "Community Resources for Independent Seniors (CRIS)",
+    "description": "A non-profit supporting individuals aged 55 and older to assist with aging in place.",
+    "address": "PO Box 24, Cazenovia, NY 13035",
+    "phone": "(315) 655-5743",
+    "url": "https://www.cris-caz.com/",
+    "categorySlug": "community",
+    "zipCode": "13035"
+  },
+  {
+    "name": "Community Action Partnership for Madison County (CAP)",
+    "description": "Provides housing programs for families who are homeless or at high risk of homelessness.",
+    "address": "1001 New Market Dr, Canastota, NY 13032",
+    "phone": "(315) 697-3588",
+    "url": "https://www.capmadco.org/",
+    "categorySlug": "housing",
+    "zipCode": "13037"
+  },
+  {
+    "name": "The Table FoodPantry (Living Word Church)",
+    "description": "A community-wide food pantry serving Syracuse and surrounding areas.",
+    "address": "6099 Court Street Rd, Syracuse, NY 13206",
+    "phone": "(315) 437-6744",
+    "url": "https://thetablefoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "13052"
+  },
+  {
+    "name": "St. James Roman Catholic Church 'The Mustard Seed'",
+    "description": "An outreach program that includes an emergency food pantry.",
+    "address": "6 Green St, Cazenovia, NY 13035",
+    "phone": "(315) 655-3441",
+    "url": "https://stjamescaz.org/",
+    "categorySlug": "food",
+    "zipCode": "13061"
+  },
+  {
+    "name": "Homer Food Pantry",
+    "description": "A local non-profit organization serving residents of Homer and surrounding communities.",
+    "address": "16 Cayuga Street, Homer, NY",
+    "phone": "",
+    "url": "http://homerfoodpantry.com/",
+    "categorySlug": "food",
+    "zipCode": "13072"
+  },
+  {
+    "name": "The Salvation Army Fulton Corps",
+    "description": "A church-based organization that provides emergency social service programs.",
+    "address": "62 S. First Street, Fulton, New York 13069",
+    "phone": "(315) 593-8531",
+    "url": "https://ny.salvationarmy.org/fulton/",
+    "categorySlug": "housing",
+    "zipCode": "13072"
+  },
+  {
+    "name": "Mary & Joseph's Pantry / Epiphany Parish Food Pantry",
+    "description": "A community outreach program and part of the Liverpool Catholic Community.",
+    "address": "1001 Tulip Street, Liverpool, NY 13088",
+    "phone": "(315) 457-3660",
+    "url": "https://liverpoolnycatholic.org/epiphany-parish",
+    "categorySlug": "food",
+    "zipCode": "13082"
+  },
+  {
+    "name": "Food Pantry at St. Patrick's Church",
+    "description": "A food pantry operated by Christ Our Hope Parish.",
+    "address": "108 Charles St., Boonville, NY 13309",
+    "phone": "315-942-4618",
+    "url": "https://christourhoperc.org/",
+    "categorySlug": "food",
+    "zipCode": "13310"
+  },
+  {
+    "name": "Earlville Food Cupboard",
+    "description": "A food pantry serving the Earlville community.",
+    "address": "9 West Main Street, Earlville, NY 13332",
+    "phone": "607-373-0971",
+    "url": "https://www.uwmrny.org/our-partners/chenango-county-non-profit-partners/",
+    "categorySlug": "food",
+    "zipCode": "13332"
+  },
+  {
+    "name": "Liberty Resources Help Restore Hope Center",
+    "description": "Offers a 9-bed safe-dwelling for individuals and families experiencing domestic violence. They provide crisis counseling and advocacy.",
+    "address": "Serves Madison and Chenango Counties",
+    "phone": "855-966-9723",
+    "url": "https://www.liberty-resources.org/",
+    "categorySlug": "housing",
+    "zipCode": "13332"
+  },
+  {
+    "name": "Little Falls Housing Authority",
+    "description": "Manages low-income housing, including Section 8, Public Housing, and Low-Income Housing Tax Credit properties.",
+    "address": "76 S Ann St, Little Falls, NY 13365",
+    "phone": "(315) 823-2530",
+    "url": "https://www.hud.gov/sites/dfiles/PIH/documents/PHA_Contact_Report_NY.pdf",
+    "categorySlug": "housing",
+    "zipCode": "13334"
+  },
+  {
+    "name": "Catholic Charities of the Diocese of Albany - Food Pantry",
+    "description": "Provides a three-day supply of emergency food and is a client-choice pantry, serving residents of Montgomery County.",
+    "address": "1 Kimball Street, Amsterdam, NY 12010",
+    "phone": "518-842-4202",
+    "url": "https://www.ccrcda.org/agencies-programs/catholic-charities-of-fulton-montgomery-counties/",
+    "categorySlug": "food",
+    "zipCode": "12010"
+  },
+  {
+    "name": "Cupboard of Kindness - Montgomery County Office for Aging, Inc.",
+    "description": "This food pantry serves seniors 60 and over.",
+    "address": "135 Guy Park Avenue, Amsterdam, NY 12010",
+    "phone": "518-843-2300",
+    "url": "http://www.officeforaging.com/programs/nutrition-programs/",
+    "categorySlug": "food",
+    "zipCode": "12010"
+  },
+  {
+    "name": "Danielle's House",
+    "description": "Provides emergency, transitional, and permanent housing for individuals and families experiencing homelessness. It is a program of Interfaith Partnership for the Homeless (IPH).",
+    "address": "Amsterdam, NY 12010",
+    "phone": "(518) 627-4649",
+    "url": "https://www.iphny.org/what-we-do/our-programs/",
+    "categorySlug": "housing",
+    "zipCode": "12010"
+  },
+  {
+    "name": "Amsterdam Housing Authority",
+    "description": "Offers affordable housing options through public housing apartments and the Section 8 Housing Choice Voucher program for low and moderate-income families.",
+    "address": "52 Division Street, Amsterdam, NY 12010",
+    "phone": "(518) 842-2907",
+    "url": "http://www.amsterdamhousingauthority.org/",
+    "categorySlug": "housing",
+    "zipCode": "12010"
+  },
+  {
+    "name": "Fulmont Community Action Agency",
+    "description": "Provides a food pantry in Fonda, NY serving Fulton and Montgomery Counties.",
+    "address": "20 Park St., Fonda, NY 12068",
+    "phone": "(518) 853-3011",
+    "url": "https://www.fulmont.org/",
+    "categorySlug": "food",
+    "zipCode": "12068"
+  },
+  {
+    "name": "Haven of Hope Farm & Residence",
+    "description": "Provides transitional housing for homeless women and their children.",
+    "address": "19 Cemetery Street, Fonda, NY 12068",
+    "phone": "518-522-3342",
+    "url": "http://www.havenofhopefarm.org/",
+    "categorySlug": "housing",
+    "zipCode": "12068"
+  },
+  {
+    "name": "St. Patrick's Food Pantry",
+    "description": "Serves residents of the Ravena-Coeymans-Selkirk (RCS) School District.",
+    "address": "21 Main St, Ravena, NY 12143",
+    "phone": "(518) 330-6789",
+    "url": "https://www.rcda.org/food-pantries",
+    "categorySlug": "food",
+    "zipCode": "12070"
+  },
+  {
+    "name": "Hope Full Life Center",
+    "description": "Provides low-cost groceries and supports local food pantries in the area.",
+    "address": "2015 US Route 9W, Ravena, NY 12143",
+    "phone": "(518) 756-7193",
+    "url": "https://hopefulllifecenter.org/",
+    "categorySlug": "food",
+    "zipCode": "12070"
+  },
+  {
+    "name": "Fonda Food Pantry",
+    "description": "This pantry specifically serves individuals residing within the Fonda-Fultonville Central School District.",
+    "address": "40 Main Street, Fultonville, NY 12072",
+    "phone": "518-853-3621",
+    "url": "https://www.211neny.org/provider/fonda-food-pantry-fonda-reformed-church/",
+    "categorySlug": "food",
+    "zipCode": "12072"
+  },
+  {
+    "name": "Loaves and Fishes Food Pantry",
+    "description": "Helps individuals and families experiencing food emergencies by appointment.",
+    "address": "123 Home St, Sprakers, NY 12166",
+    "phone": "315-360-2345",
+    "url": "http://fortplainandsprakersreformed.org/ministries/loaves-and-fishes-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "12166"
+  },
+  {
+    "name": "Ayres Memorial Animal Shelter",
+    "description": "Provides care for animals.",
+    "address": "133 Hilltop Rd, Sprakers, NY 12166",
+    "phone": "(518) 673-5670",
+    "url": "https://www.ayresanimalshelter.org/",
+    "categorySlug": "community",
+    "zipCode": "12166"
+  },
+  {
+    "name": "Dolgeville Area Food Pantry",
+    "description": "A food pantry serving the Dolgeville area.",
+    "address": "21 North Helmer Avenue, Dolgeville, NY 13329",
+    "phone": "(315) 429-3431",
+    "url": "https://www.foodpantries.org/li/dolgeville_area_food_pantry",
+    "categorySlug": "food",
+    "zipCode": "13317"
+  },
+  {
+    "name": "New Hyde Park Catholic Food Pantry",
+    "description": "A food pantry serving the Floral Park area.",
+    "address": "Floral Park, NY 11001",
+    "phone": "",
+    "url": "https://www.foodhelpline.org/food-pantry/new-hyde-park-catholic-food-pantry-floral-park-ny",
+    "categorySlug": "food",
+    "zipCode": "11001"
+  },
+  {
+    "name": "Our Lady Of Lourdes Parish",
+    "description": "A food pantry serving the South Floral Park area.",
+    "address": "South Floral Park, NY 11001",
+    "phone": "",
+    "url": "https://www.foodhelpline.org/food-pantry/our-lady-of-lourdes-parish-south-floral-park-ny",
+    "categorySlug": "food",
+    "zipCode": "11001"
+  },
+  {
+    "name": "The INN (Interfaith Nutrition Network)",
+    "description": "Operates emergency shelters in Nassau County for individuals and families experiencing homelessness. A referral from the Department of Social Services (DSS) is required.",
+    "address": "211 Fulton Ave, Hempstead, NY 11550",
+    "phone": "(516) 486-8506",
+    "url": "https://the-inn.org/",
+    "categorySlug": "housing",
+    "zipCode": "11001"
+  },
+  {
+    "name": "Bethany French Baptist FP/Elmont",
+    "description": "A food pantry serving the Elmont area.",
+    "address": "471 Elmont Road, Elmont, NY 11003",
+    "phone": "516-430-0149",
+    "url": "https://www.whyhunger.org/find-food/eglise-baptiste-bethanie-de-elmont/",
+    "categorySlug": "food",
+    "zipCode": "11003"
+  },
+  {
+    "name": "St. Boniface Human Services",
+    "description": "A food pantry operating on Thursdays.",
+    "address": "631 Elmont Rd, Elmont, NY 11003",
+    "phone": "516-354-0744",
+    "url": "https://www.freefood.org/l/st-boniface-human-services",
+    "categorySlug": "food",
+    "zipCode": "11003"
+  },
+  {
+    "name": "Elmont Temple SDA Church Food Pantry",
+    "description": "A food pantry that serves over 100 families each month.",
+    "address": "682 Elmont Rd, Elmont, NY 11003",
+    "phone": "516-285-5050",
+    "url": "https://www.elmontadventist.org/ministries/community-service",
+    "categorySlug": "food",
+    "zipCode": "11003"
+  },
+  {
+    "name": "Nassau Haven Emergency Youth Shelter",
+    "description": "Provides 24/7 emergency housing for youth aged 10 to 20 in Nassau County.",
+    "address": "Confidential",
+    "phone": "(516) 221-1310",
+    "url": "https://fcali.org/programs-services/nassau-haven/",
+    "categorySlug": "housing",
+    "zipCode": "11003"
+  },
+  {
+    "name": "Bethany House of Nassau County",
+    "description": "Offers emergency shelter, transitional housing, and permanent housing to women and women with children experiencing homelessness.",
+    "address": "1020 Grand Ave, Baldwin, NY 11510",
+    "phone": "(516) 868-6866",
+    "url": "https://bhny.org/",
+    "categorySlug": "housing",
+    "zipCode": "11003"
+  },
+  {
+    "name": "Lutheran Social Services New LIFE Center",
+    "description": "Operates a food pantry and offers other assistance.",
+    "address": "145 Franklin Avenue, Franklin Square, NY 11010",
+    "phone": "516-483-3240",
+    "url": "https://lssny.org/what-we-do/community-outreach-services/new-life-center.html",
+    "categorySlug": "food",
+    "zipCode": "11010"
+  },
+  {
+    "name": "St. Aloysius Interfaith Food Pantry",
+    "description": "A food pantry serving the Great Neck area.",
+    "address": "592 Middle Neck Road, Great Neck, NY 11023",
+    "phone": "516-829-8343",
+    "url": "https://www.whyhunger.org/find-food/st-aloysius-interfaith-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "11020"
+  },
+  {
+    "name": "Great Neck Kosher Food Pantry",
+    "description": "Serves families in need within Great Neck and its neighboring communities.",
+    "address": "574 Middle Neck Road, Great Neck, NY 11023",
+    "phone": "516-400-3026",
+    "url": "https://www.thechesedfund.com/gnjca/kosherfoodpantry",
+    "categorySlug": "food",
+    "zipCode": "11020"
+  },
+  {
+    "name": "Village of Great Neck Housing Authority",
+    "description": "Offers affordable housing opportunities, including public housing apartments and Section 8 Housing Choice Vouchers.",
+    "address": "700 Middle Neck Rd, Great Neck, NY 11023",
+    "phone": "(516) 482-2727",
+    "url": "http://www.vognha.org/",
+    "categorySlug": "housing",
+    "zipCode": "11020"
+  },
+  {
+    "name": "St. Aloysius Interfaith Food Pantry",
+    "description": "A food pantry serving the Great Neck area.",
+    "address": "592 Middle Neck Road, Great Neck, NY 11023",
+    "phone": "(516) 482-2770",
+    "url": "https://www.gnteachers.net/community-resources",
+    "categorySlug": "food",
+    "zipCode": "11021"
+  },
+  {
+    "name": "Great Neck Kosher Food Pantry - UMJCA",
+    "description": "A kosher food pantry serving the Great Neck area.",
+    "address": "574 Middle Neck Road, Great Neck, New York, 11023",
+    "phone": "516-400-3026",
+    "url": "https://www.whyhunger.org/find-food/great-neck-kosher-food-pantry-umjca/",
+    "categorySlug": "food",
+    "zipCode": "11023"
+  }
+]
