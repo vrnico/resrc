@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Ignite Life Center",
+    "description": "Partners with Bread of the Mighty Food Bank for food distribution. Distributes free groceries on the last Wednesday of every month at 6 PM.",
+    "address": "404 NW 14th Ave, Gainesville, FL 32601",
+    "phone": "",
+    "url": "https://ignitelifecenter.org",
+    "categorySlug": "food",
+    "zipCode": "32601"
+  },
+  {
+    "name": "GRACE Marketplace",
+    "description": "Offers 130 beds across four programs for men, women, couples, and veterans. Provides a wide range of supportive services, including intake, referral, substance abuse and mental health counseling, and case management. Activates severe weather shelter protocols during cold or severe storms.",
+    "address": "3055 NE 28th Drive, Gainesville, FL 32609",
+    "phone": "",
+    "url": "https://gracemarketplace.org",
+    "categorySlug": "housing",
+    "zipCode": "32609"
+  },
+  {
+    "name": "St. Francis House",
+    "description": "Provides safe shelter and essential support for women and families experiencing homelessness. Offers emergency shelter for women and families with children, including night shelter services, meals, individualized case plans, and laundry access.",
+    "address": "Gainesville, FL 32601",
+    "phone": "",
+    "url": "https://stfrancishousegnv.com",
+    "categorySlug": "housing",
+    "zipCode": "32601"
+  },
+  {
+    "name": "Family Promise of Gainesville",
+    "description": "Focuses on families with children, providing shelter, meals, and social services. Adults entering their program are required to be enrolled in school or employed within ten days.",
+    "address": "Gainesville, FL 32601",
+    "phone": "",
+    "url": "https://familypromisegvl.org",
+    "categorySlug": "housing",
+    "zipCode": "32601"
+  }
+]

@@ -1546,5 +1546,563 @@
     "url": "https://www.whyhunger.org/find-food/great-neck-kosher-food-pantry-umjca/",
     "categorySlug": "food",
     "zipCode": "11023"
+  },
+  {
+    "name": "The Rudman Family Food Pantry at the Mid-Island Y JCC",
+    "description": "Provides food assistance.",
+    "address": "45 Manetto Hill Road, Plainview, NY 11803",
+    "phone": "(516) 822-3535",
+    "url": "https://www.foodpantries.org/li/rudman-family-food-pantry-at-the-mid-island-y-jcc",
+    "categorySlug": "food",
+    "zipCode": "11803"
+  },
+  {
+    "name": "Hatzilu Rescue Organization",
+    "description": "Provides kosher food support and delivers food directly to families in Nassau County.",
+    "address": "45 Manetto Hill Road, Plainview, NY 11803",
+    "phone": "516-822-3535 EXT 346",
+    "url": "https://hatzilu.org",
+    "categorySlug": "food",
+    "zipCode": "11803"
+  },
+  {
+    "name": "Family & Children's Association (FCA) - Nassau Haven Emergency Youth Shelter",
+    "description": "Offers short-term housing, case management, and crisis intervention for runaway and homeless youth aged 10 to 20 in Nassau County.",
+    "address": "Nassau County",
+    "phone": "(516) 221-1310",
+    "url": "https://fcali.org",
+    "categorySlug": "housing",
+    "zipCode": "11803"
+  },
+  {
+    "name": "The INN (Interfaith Nutrition Network)",
+    "description": "Operates two emergency shelters in Nassau County: one for families and one for single men. Placement requires DSS referral.",
+    "address": "Main office in Hempstead, NY (Nassau County)",
+    "phone": "(516) 486-8506",
+    "url": "https://the-inn.org",
+    "categorySlug": "housing",
+    "zipCode": "11803"
+  },
+  {
+    "name": "Bethany House of Nassau County",
+    "description": "Provides emergency shelter, transitional housing, and permanent housing for women and women with children experiencing homelessness.",
+    "address": "Nassau County",
+    "phone": "",
+    "url": "https://bhny.org",
+    "categorySlug": "housing",
+    "zipCode": "11803"
+  },
+  {
+    "name": "Mercy Haven, Inc.",
+    "description": "Offers temporary and permanent housing along with essential services for individuals and families in crisis across Long Island.",
+    "address": "Long Island (Nassau County)",
+    "phone": "",
+    "url": "https://mercyhaven.org",
+    "categorySlug": "housing",
+    "zipCode": "11803"
+  },
+  {
+    "name": "Oyster Bay Housing Authority",
+    "description": "Provides housing assistance and serves the 11803 area.",
+    "address": "115 Central Park Road, Plainview, New York 11803",
+    "phone": "(516) 349-1000",
+    "url": "https://oysterbayhousing.com",
+    "categorySlug": "housing",
+    "zipCode": "11803"
+  },
+  {
+    "name": "Circulo De La Hispanidad",
+    "description": "Provides permanent housing rental assistance for individuals and homeless families throughout Nassau County.",
+    "address": "Nassau County",
+    "phone": "",
+    "url": "https://cdlh.org",
+    "categorySlug": "housing",
+    "zipCode": "11803"
+  },
+  {
+    "name": "Economic Opportunity Commission of Nassau County, Inc.",
+    "description": "Has a Rapid Rehousing Program designed to help individuals and families quickly find permanent housing.",
+    "address": "Nassau County",
+    "phone": "",
+    "url": "https://eoc-nassau.org",
+    "categorySlug": "housing",
+    "zipCode": "11803"
+  },
+  {
+    "name": "Options for Community Living, Inc.",
+    "description": "Offers housing and housing stability services, including a Rapid Re-Housing Program and supportive housing for homeless individuals and families in Nassau and Suffolk Counties.",
+    "address": "Nassau and Suffolk Counties",
+    "phone": "631-361-9020 ext. 1132",
+    "url": "https://optionscl.org",
+    "categorySlug": "housing",
+    "zipCode": "11803"
+  },
+  {
+    "name": "Hicksville United Methodist Church Food Pantry",
+    "description": "Provides food assistance.",
+    "address": "113 W. Cherry Street, Hicksville, NY 11801",
+    "phone": "516-931-2626",
+    "url": "https://www.hicksvilleumc.com/",
+    "categorySlug": "food",
+    "zipCode": "11804"
+  },
+  {
+    "name": "St Ignatius Human Services - St Vincent dePaul Society",
+    "description": "Provides food pantry services.",
+    "address": "Serves the area",
+    "phone": "",
+    "url": "https://www.foodpantries.org/li/st-ignatius-human-services-st-vincent-depaul-society",
+    "categorySlug": "food",
+    "zipCode": "11804"
+  },
+  {
+    "name": "Saint Mother Teresa Food Pantry (St. Martin of Tours Parish)",
+    "description": "Provides food assistance by appointment.",
+    "address": "208 Broadway, Bethpage, NY",
+    "phone": "516-931-7332",
+    "url": "https://www.smtbethpage.org/",
+    "categorySlug": "food",
+    "zipCode": "11804"
+  },
+  {
+    "name": "Long Island Cares | The Harry Chapin Food Bank",
+    "description": "Combats hunger across Nassau and Suffolk Counties.",
+    "address": "Nassau and Suffolk Counties",
+    "phone": "",
+    "url": "https://www.licares.org/",
+    "categorySlug": "food",
+    "zipCode": "11804"
+  },
+  {
+    "name": "Family Residences and Essential Enterprises (FREE)",
+    "description": "Assists individuals with serious mental illness who are experiencing homelessness.",
+    "address": "191 Sweet Hollow Road, Old Bethpage, NY - 11804",
+    "phone": "(516) 870-1600",
+    "url": "https://www.familyres.org/",
+    "categorySlug": "housing",
+    "zipCode": "11804"
+  },
+  {
+    "name": "OLD BETHPAGE HSG.",
+    "description": "Affordable housing option.",
+    "address": "102 Round Swamp Rd, Old Bethpage, NY 11804",
+    "phone": "",
+    "url": "https://affordablehousing411.com/",
+    "categorySlug": "housing",
+    "zipCode": "11804"
+  },
+  {
+    "name": "North Shore Food Pantry (UMC)",
+    "description": "Provides food assistance and operates a soup kitchen.",
+    "address": "2 Clay Street, Cleveland, NY 13042",
+    "phone": "315-593-8442",
+    "url": "https://thatscooperativeextension.org/",
+    "categorySlug": "food",
+    "zipCode": "13042"
+  },
+  {
+    "name": "Cortland County Department of Social Services (DSS)",
+    "description": "First point of contact for homelessness assistance.",
+    "address": "60 Central Avenue, Cortland, NY 13045",
+    "phone": "",
+    "url": "https://www.cortland-co.org/",
+    "categorySlug": "housing",
+    "zipCode": "13042"
+  },
+  {
+    "name": "YWCA Aid to Victims of Violence",
+    "description": "Provides emergency shelter for victims of domestic violence.",
+    "address": "Cortland, NY",
+    "phone": "607-756-6363",
+    "url": "https://www.cortlandywca.org/",
+    "categorySlug": "housing",
+    "zipCode": "13042"
+  },
+  {
+    "name": "Catholic Charities of Cortland County",
+    "description": "May have resources for individuals who are homeless or at risk of homelessness.",
+    "address": "33 Central Ave, Cortland, NY",
+    "phone": "(607) 756-5992",
+    "url": "https://www.catholiccharitiescortland.org/",
+    "categorySlug": "housing",
+    "zipCode": "13042"
+  },
+  {
+    "name": "Catholic Charities of Delaware, Otsego, and Schoharie Counties",
+    "description": "Provides housing resources, including financial assistance, shelter, and a Rental Assistance Program. Also offers emergency shelter services for survivors of domestic violence in Schoharie County.",
+    "address": "Schoharie County",
+    "phone": "",
+    "url": "https://www.charitiesccdos.org/",
+    "categorySlug": "housing",
+    "zipCode": "13042"
+  },
+  {
+    "name": "The Village of Cobleskill Housing Authority",
+    "description": "Offers affordable housing options for low and moderate-income families. Administers federal rental assistance programs, such as Section 8 Housing Choice Vouchers, and manages public housing apartments.",
+    "address": "Cobleskill, NY (Schoharie County)",
+    "phone": "",
+    "url": "https://affordablehousing.com/",
+    "categorySlug": "housing",
+    "zipCode": "13042"
+  },
+  {
+    "name": "Schoharie County Rural Preservation Corp",
+    "description": "Assists households with very low to moderate incomes by offering services like technical assistance for home mortgages, financial aid for homes, rental assistance, and homeowner repairs. Also manages a Tenant-Based Rental Assistance (TBRA) program.",
+    "address": "Schoharie County",
+    "phone": "",
+    "url": "https://schohariecountyrpc.com/",
+    "categorySlug": "housing",
+    "zipCode": "13042"
+  },
+  {
+    "name": "The Schoharie County Department of Social Services",
+    "description": "Provides Emergency Assistance to address immediate needs, including help with rent, mortgage payments, utilities, and food.",
+    "address": "Schoharie County",
+    "phone": "",
+    "url": "https://www.schohariecounty-ny.gov/",
+    "categorySlug": "housing",
+    "zipCode": "13042"
+  },
+  {
+    "name": "Schoharie County Community Action Program, Inc.",
+    "description": "Services related to rental housing, such as assistance in finding affordable housing, tenant resources, and information on Section 8 programs.",
+    "address": "Schoharie County",
+    "phone": "",
+    "url": "https://www.sccapinc.org/",
+    "categorySlug": "housing",
+    "zipCode": "13042"
+  },
+  {
+    "name": "Homer Food Pantry (Homer Methodist Church)",
+    "description": "Provides food assistance to the village and town of Homer, and any area within the Homer school district.",
+    "address": "Located at Homer Methodist Church",
+    "phone": "607-749-3260",
+    "url": "https://www.211cortland.org/",
+    "categorySlug": "food",
+    "zipCode": "13054"
+  },
+  {
+    "name": "Food Bank of Central New York",
+    "description": "Serves 11 counties in Central New York, Northern New York, and the Mohawk Valley region, including the county where 13054 is located. Operates a Mobile Food Pantry program.",
+    "address": "Serves the region",
+    "phone": "",
+    "url": "https://www.foodbankcny.org/",
+    "categorySlug": "food",
+    "zipCode": "13054"
+  },
+  {
+    "name": "Community Action Partnership for Madison County (CAP of Madison County)",
+    "description": "Provides a range of services, including temporary rental assistance, utility deposit assistance, and both temporary and permanent housing solutions for families experiencing homelessness.",
+    "address": "Canastota office or Morrisville office (Serves Madison County)",
+    "phone": "315-697-3588 (Canastota) or 315-684-3144 (Morrisville)",
+    "url": "https://capmadco.org",
+    "categorySlug": "housing",
+    "zipCode": "13054"
+  },
+  {
+    "name": "Madison County Public Housing Authority",
+    "description": "Administers the Section 8 Housing Choice Voucher Program, which helps low-income families, individuals with disabilities, and the elderly afford housing in Madison County.",
+    "address": "Serves Madison County",
+    "phone": "",
+    "url": "https://www.centralofficehcv.com/",
+    "categorySlug": "housing",
+    "zipCode": "13054"
+  },
+  {
+    "name": "Stoneleigh Housing, Inc.",
+    "description": "A HUD-certified counseling agency, offers various housing counseling services, including assistance with pre-purchase, mortgage default, home improvements, and general housing guidance. Manages a Home Improvement Program that provides grants for necessary home repairs.",
+    "address": "Serves Madison County",
+    "phone": "",
+    "url": "https://ny.gov/",
+    "categorySlug": "housing",
+    "zipCode": "13054"
+  },
+  {
+    "name": "Legal Aid Society of Mid-NY",
+    "description": "Provides free legal services to tenants in Madison County who are facing eviction proceedings.",
+    "address": "Serves Madison County",
+    "phone": "877-777-6152",
+    "url": "https://www.lasnny.org/",
+    "categorySlug": "legal",
+    "zipCode": "13054"
+  },
+  {
+    "name": "Frankfort - Ilion Food Pantry",
+    "description": "Serves residents of Ilion and the Frankfort-Schuyler School District.",
+    "address": "60 West Street, Ilion, NY 13357",
+    "phone": "",
+    "url": "https://www.foodpantries.org/li/frankfort-ilion-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "13301"
+  },
+  {
+    "name": "Catholic Charities of the Diocese of Albany (Herkimer County Food Pantry)",
+    "description": "Operates a food pantry in Herkimer County that serves the Ilion, Frankfort, and Schuyler areas. Service by appointment only.",
+    "address": "61 West Street, Ilion, NY 13357",
+    "phone": "",
+    "url": "https://www.ccrcda.org/",
+    "categorySlug": "food",
+    "zipCode": "13301"
+  },
+  {
+    "name": "Emmaus House",
+    "description": "Provides temporary emergency housing for women and children. Entry through Oneida County Department of Social Services.",
+    "address": "Kemble Street, Utica, NY",
+    "phone": "(315) 724-2324 or (315) 797-3339",
+    "url": "https://www.stmargaretshouseny.org/",
+    "categorySlug": "housing",
+    "zipCode": "13301"
+  },
+  {
+    "name": "Resurrection House",
+    "description": "Offers emergency housing for women and children, with a focus on helping residents achieve self-sufficiency and secure permanent housing.",
+    "address": "Serves 13301 area",
+    "phone": "",
+    "url": "https://resurrectionhouseinc.org/",
+    "categorySlug": "housing",
+    "zipCode": "13301"
+  },
+  {
+    "name": "Oneida Housing Authority",
+    "description": "Provides safe, sanitary, and affordable housing options for the elderly, non-elderly, disabled, and families who meet eligibility requirements. Administers programs funded by HUD, including Federal Public Housing units and Section 8 Housing Choice Vouchers.",
+    "address": "Serves Oneida County",
+    "phone": "",
+    "url": "https://www.oneidahousingauthority.com/",
+    "categorySlug": "housing",
+    "zipCode": "13301"
+  },
+  {
+    "name": "Helio Health - Housing-Oneida County",
+    "description": "Offers various programs such as Shelter Plus Care, Supportive Living, Dual Recovery Supportive Living, and Rapid Re-Housing. Designed to help low-income individuals, particularly those with substance use and/or mental health diagnoses, and homeless individuals, secure and maintain stable housing.",
+    "address": "Serves Oneida County",
+    "phone": "",
+    "url": "https://helio.health/",
+    "categorySlug": "housing",
+    "zipCode": "13301"
+  },
+  {
+    "name": "Catholic Charities of Syracuse NY (Oneida/Madison)",
+    "description": "Provider for programs like the Empire State Supportive Housing Initiative (ESSHI) and the Homeless Housing and Assistance Program (HHAP) in the Utica Region.",
+    "address": "Serves Oneida/Madison",
+    "phone": "",
+    "url": "https://www.ccoc.us/",
+    "categorySlug": "housing",
+    "zipCode": "13301"
+  },
+  {
+    "name": "The Country Pantry",
+    "description": "Serves people in Clinton, Clark Mills, and Westmoreland.",
+    "address": "7616 E South St, Clinton, NY 13323",
+    "phone": "315-272-5267",
+    "url": "https://thecountrypantry.org",
+    "categorySlug": "food",
+    "zipCode": "13303"
+  },
+  {
+    "name": "Church On The Rock | Oneida (COR Community Center)",
+    "description": "Operates a food pantry that provides households with a large box of assorted food once a month. Emergency boxes can also be made available.",
+    "address": "Serves Oneida, NY",
+    "phone": "",
+    "url": "https://yourcotr.com",
+    "categorySlug": "food",
+    "zipCode": "13303"
+  },
+  {
+    "name": "Oneida County Department of Social Services (DSS)",
+    "description": "The Homeless Services Unit works to meet the housing needs of individuals and families experiencing homelessness.",
+    "address": "800 Park Ave in Utica, or 100 West Dominick Street in Rome.",
+    "phone": "(315) 798-5804 (Utica) or (315) 356-2800 (Rome)",
+    "url": "https://oneidacountyny.gov/",
+    "categorySlug": "housing",
+    "zipCode": "13303"
+  },
+  {
+    "name": "HomeOwnershipCenter (HOC)",
+    "description": "Offers an Emergency Rental Assistance Program for qualified tenants in Oneida County (excluding Utica and Rome) who have experienced financial hardship due to COVID-19.",
+    "address": "Serves Oneida County",
+    "phone": "(315) 724-4197",
+    "url": "https://www.unhs.org/",
+    "categorySlug": "housing",
+    "zipCode": "13303"
+  },
+  {
+    "name": "Mohawk Valley Church - Food Bank",
+    "description": "Food bank serving the area.",
+    "address": "9427 Maynard Dr, Marcy, NY 13403",
+    "phone": "",
+    "url": "https://freefood.org/",
+    "categorySlug": "food",
+    "zipCode": "13304"
+  },
+  {
+    "name": "Rome Food Pantry",
+    "description": "Food pantry serving the area.",
+    "address": "199 W. Dominick Street, Rome, NY 13440",
+    "phone": "315-337-8600",
+    "url": "https://www.foodpantries.org/li/rome-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "13304"
+  },
+  {
+    "name": "Helping Hands Food Pantry (Boonville Methodist Church)",
+    "description": "Serves the Adirondack School District.",
+    "address": "202 Main Street, Boonville, NY 13309",
+    "phone": "",
+    "url": "https://www.foodpantries.org/li/boonville-methodist-church-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "13304"
+  },
+  {
+    "name": "Loaves And Fishes Warming Center",
+    "description": "Warming center.",
+    "address": "429 North Prospect Street, Herkimer, NY",
+    "phone": "",
+    "url": "https://wixsite.com/",
+    "categorySlug": "housing",
+    "zipCode": "13304"
+  },
+  {
+    "name": "The Salvation Army Herkimer Corps",
+    "description": "Offers various services, including emergency disaster services.",
+    "address": "431 N. Prospect Street, Herkimer, NY",
+    "phone": "",
+    "url": "https://www.salvationarmyusa.org/",
+    "categorySlug": "housing",
+    "zipCode": "13304"
+  },
+  {
+    "name": "Catholic Charities of Herkimer County, Domestic Violence Program",
+    "description": "Provides emergency shelter and a 24/7 hotline for domestic violence victims.",
+    "address": "Ilion, NY (Serves Herkimer County)",
+    "phone": "315-894-9917 (business) and 315-866-0458 (hotline)",
+    "url": "https://www.domesticshelters.org/",
+    "categorySlug": "housing",
+    "zipCode": "13304"
+  },
+  {
+    "name": "ICAN's Street Outreach",
+    "description": "Operates across Oneida County, connecting homeless individuals with essential services and helping them secure housing. Also offers a 24-hour on-call service for emergency housing.",
+    "address": "Serves Oneida County",
+    "phone": "",
+    "url": "https://ican.family/",
+    "categorySlug": "housing",
+    "zipCode": "13304"
+  },
+  {
+    "name": "Hamilton Food Cupboard",
+    "description": "Serves the Hamilton and Madison school districts. Provides food, pet food, basic school supplies, and backpacks for children.",
+    "address": "400 Wings Way Extension, Hamilton, NY",
+    "phone": "315-824-2832",
+    "url": "https://hamiltonfoodcupboard.org",
+    "categorySlug": "food",
+    "zipCode": "13308"
+  },
+  {
+    "name": "Madison County Department of Social Services (DSS)",
+    "description": "Provides assistance with emergency housing and resources.",
+    "address": "Serves Madison County",
+    "phone": "",
+    "url": "https://www.madisoncounty.ny.gov/",
+    "categorySlug": "housing",
+    "zipCode": "13308"
+  },
+  {
+    "name": "Herkimer Housing Authority/Stone Ridge Residences",
+    "description": "Administers Section 8 (Housing Choice Voucher) programs and provides safe, affordable housing options for income-eligible seniors, disabled persons, individuals, and families in the Village of Herkimer.",
+    "address": "315 North Prospect Street, Herkimer, NY 13350",
+    "phone": "(315) 866-2252",
+    "url": "https://www.herkimerhousing.org/",
+    "categorySlug": "housing",
+    "zipCode": "13308"
+  },
+  {
+    "name": "Ilion Housing Authority",
+    "description": "Offers Section 8 (HCV) programs and has an open waiting list.",
+    "address": "100 West Main Street, Ilion, NY 13357",
+    "phone": "",
+    "url": "https://www.affordablehousing.com/",
+    "categorySlug": "housing",
+    "zipCode": "13308"
+  },
+  {
+    "name": "Food Pantry at St. Patrick's Church (Christ Our Hope Parish)",
+    "description": "Provides food assistance by appointment.",
+    "address": "108 Charles St., Boonville, NY 13309",
+    "phone": "(315) 942-4618, extension 105",
+    "url": "https://www.christourhoperc.org/",
+    "categorySlug": "food",
+    "zipCode": "13309"
+  },
+  {
+    "name": "Town of Clinton Food Pantry",
+    "description": "Provides food assistance by appointment.",
+    "address": "Pleasant Plains Presbyterian Church on Fiddlers Bridge Rd., Pleasant Plains, NY",
+    "phone": "(845) 889-4019",
+    "url": "https://www.clintondcny.gov/",
+    "categorySlug": "food",
+    "zipCode": "13319"
+  },
+  {
+    "name": "Camden Area Food Pantry",
+    "description": "Provides food assistance.",
+    "address": "84 Main St, Camden, NY 13316",
+    "phone": "(315) 245-5788",
+    "url": "https://www.foodbanksearch.com/",
+    "categorySlug": "food",
+    "zipCode": "13316"
+  },
+  {
+    "name": "Cluster 13",
+    "description": "Operates a food pantry.",
+    "address": "84 Main St, Camden, NY 13316",
+    "phone": "(315) 245-5758",
+    "url": "https://www.foodpantries.org/li/cluster-13",
+    "categorySlug": "food",
+    "zipCode": "13316"
+  },
+  {
+    "name": "The Food For Thought Project",
+    "description": "Working to end food insecurity in the Camden, NY community.",
+    "address": "PO Box 215, Camden, NY 13316",
+    "phone": "",
+    "url": "https://www.abundantlifecamden.com/",
+    "categorySlug": "food",
+    "zipCode": "13316"
+  },
+  {
+    "name": "Camden Apartments",
+    "description": "Low-income senior housing.",
+    "address": "20 Masonic Ave, Camden, NY 13316",
+    "phone": "(315) 334-9333",
+    "url": "https://www.libertyaffordable.org/",
+    "categorySlug": "housing",
+    "zipCode": "13316"
+  },
+  {
+    "name": "Catholic Charities Family and Community Services",
+    "description": "Offers emergency rent assistance, counseling, and support for developing stable housing plans. May provide one-time financial assistance for overdue rent payments or emergency security deposits.",
+    "address": "Serves the area",
+    "phone": "(585) 232-2050",
+    "url": "https://www.fcscharities.org/",
+    "categorySlug": "housing",
+    "zipCode": "13316"
+  },
+  {
+    "name": "Herkimer County Office for the Aging (HEAP)",
+    "description": "Provides assistance with heating costs for individuals 60 or older.",
+    "address": "Serves Herkimer County",
+    "phone": "(315) 867-1195",
+    "url": "https://www.herkimercountyny.gov/",
+    "categorySlug": "housing",
+    "zipCode": "13322"
+  },
+  {
+    "name": "Stonewall CDC",
+    "description": "Offers free assistance to New Yorkers seeking affordable housing, including support with Housing Connect, benefit navigation, and housing search assistance.",
+    "address": "Serves New York",
+    "phone": "",
+    "url": "https://stonewallcdc.org/",
+    "categorySlug": "housing",
+    "zipCode": "13323"
   }
 ]

@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Church of the Ascension",
+    "description": "Food Pantry is open Monday-Friday, 10:00 a.m. - 11:30 a.m., no appointment necessary. Financial assistance is limited to Virginia Beach residents.",
+    "address": "Virginia Beach, VA",
+    "phone": "(757) 495-1886 x414",
+    "url": "https://ascensionvb.org",
+    "categorySlug": "food",
+    "zipCode": "23407"
+  },
+  {
+    "name": "The Chapel Pantry",
+    "description": "A free client-choice food pantry. Open Tuesdays, Thursdays, and Saturdays from 2:00 p.m. to 6:00 p.m.",
+    "address": "2020 Laskin Road, Virginia Beach, VA 23454",
+    "phone": "(757) 428-6763",
+    "url": "https://thechapelpantry.com",
+    "categorySlug": "food",
+    "zipCode": "23407"
+  },
+  {
+    "name": "Thalia UMC",
+    "description": "Food Pantry is open Thursdays, 12:30 p.m. - 2:30 p.m. ID is required.",
+    "address": "4321 Virginia Beach Blvd, Virginia Beach, VA",
+    "phone": "(757) 340-5015",
+    "url": "https://vbumc.org",
+    "categorySlug": "food",
+    "zipCode": "23407"
+  }
+]
