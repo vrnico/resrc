@@ -1,0 +1,3125 @@
+[
+  {
+    "name": "Blessing Health System – Community Health",
+    "description": "Regional hospital system in Quincy providing medical care, community health programs, and charity care for uninsured and underinsured patients in Adams County.",
+    "address": "1005 Broadway St, Quincy, IL 62301",
+    "phone": "(217) 223-1200",
+    "url": "https://www.blessinghealth.org",
+    "categorySlug": "healthcare",
+    "zipCode": "62301"
+  },
+  {
+    "name": "Chaddock",
+    "description": "Residential treatment and community services for youth and families in the Quincy area, including foster care, mental health, and behavioral health services.",
+    "address": "205 S 24th St, Quincy, IL 62301",
+    "phone": "(217) 222-0034",
+    "url": "https://www.chaddock.org",
+    "categorySlug": "community",
+    "zipCode": "62301"
+  },
+  {
+    "name": "Quincy Public Schools Community Food Pantry",
+    "description": "Food pantry operated by Quincy Public Schools providing groceries and essential items to families with children in the district.",
+    "address": "1416 Maine St, Quincy, IL 62301",
+    "phone": "(217) 223-8700",
+    "url": "https://www.quincypublicschools.com",
+    "categorySlug": "food",
+    "zipCode": "62301"
+  },
+  {
+    "name": "Bond County Health Department",
+    "description": "Local public health agency providing immunizations, communicable disease prevention, and community health programs for Bond County residents.",
+    "address": "310 W Winter St, Greenville, IL 62246",
+    "phone": "(618) 664-1442",
+    "url": "https://www.bondcountyhealth.org",
+    "categorySlug": "healthcare",
+    "zipCode": "62246"
+  },
+  {
+    "name": "Greenville Food Pantry",
+    "description": "Community food pantry in Bond County providing monthly food boxes and emergency food assistance to low-income residents of Greenville and surrounding areas.",
+    "address": "405 S Second St, Greenville, IL 62246",
+    "phone": "(618) 664-1442",
+    "url": "https://www.greenvillefoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "62246"
+  },
+  {
+    "name": "Belvidere Township Food Pantry",
+    "description": "Local food pantry serving Belvidere Township residents with weekly food distributions and holiday meal assistance.",
+    "address": "519 S State St, Belvidere, IL 61008",
+    "phone": "(815) 547-7962",
+    "url": "https://www.belvidereil.gov",
+    "categorySlug": "food",
+    "zipCode": "61008"
+  },
+  {
+    "name": "Boone County Community Food Pantry",
+    "description": "Nonprofit food pantry in Belvidere providing groceries and essential household items to families and individuals in need throughout Boone County.",
+    "address": "111 N Main St, Belvidere, IL 61008",
+    "phone": "(815) 544-3512",
+    "url": "https://www.bccfp.org",
+    "categorySlug": "food",
+    "zipCode": "61008"
+  },
+  {
+    "name": "Boone County Council on Aging",
+    "description": "Senior services organization in Belvidere offering meals, transportation, and support programs for older adults throughout Boone County.",
+    "address": "1212 Logan Ave, Belvidere, IL 61008",
+    "phone": "(815) 544-4181",
+    "url": "https://www.boonecountycouncilonaging.org",
+    "categorySlug": "community",
+    "zipCode": "61008"
+  },
+  {
+    "name": "Boone County Health Department",
+    "description": "Public health agency in Belvidere providing immunizations, WIC, family planning, and environmental health services for Boone County residents.",
+    "address": "1204 Logan Ave, Belvidere, IL 61008",
+    "phone": "(815) 544-2951",
+    "url": "https://www.boonecountyhealth.org",
+    "categorySlug": "healthcare",
+    "zipCode": "61008"
+  },
+  {
+    "name": "Bureau County Health Department",
+    "description": "Public health agency providing immunizations, communicable disease control, and environmental health services to Bureau County residents including Princeton.",
+    "address": "622 Bureau Valley Pkwy, Princeton, IL 61356",
+    "phone": "(815) 875-3163",
+    "url": "https://www.bureaucountyhealth.org",
+    "categorySlug": "healthcare",
+    "zipCode": "61356"
+  },
+  {
+    "name": "Bureau County Senior Center",
+    "description": "Senior services organization in Princeton providing meals, transportation, and social programs for older adults throughout Bureau County.",
+    "address": "713 S Main St, Princeton, IL 61356",
+    "phone": "(815) 875-1175",
+    "url": "https://www.bureaucountysenior.org",
+    "categorySlug": "community",
+    "zipCode": "61356"
+  },
+  {
+    "name": "Princeton Area Food Pantry",
+    "description": "Food assistance program in Princeton serving low-income residents of Bureau County with monthly grocery distributions.",
+    "address": "524 S Main St, Princeton, IL 61356",
+    "phone": "(815) 875-1181",
+    "url": "https://www.princetonareafoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "61356"
+  },
+  {
+    "name": "Walnut Community Food Pantry",
+    "description": "Small community food pantry in Walnut providing emergency food assistance to low-income residents of eastern Bureau County.",
+    "address": "300 Central Ave, Walnut, IL 61376",
+    "phone": "(815) 379-2211",
+    "url": "https://www.walnutillinois.org",
+    "categorySlug": "food",
+    "zipCode": "61376"
+  },
+  {
+    "name": "Calhoun County Food Pantry",
+    "description": "Community food pantry in Hardin providing food assistance to low-income residents of Calhoun County, one of Illinois's smallest and most rural counties.",
+    "address": "101 County Seat Dr, Hardin, IL 62047",
+    "phone": "(618) 576-9100",
+    "url": "https://www.calhouncountyfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "62047"
+  },
+  {
+    "name": "Calhoun County Health Department",
+    "description": "Public health agency in Hardin serving Calhoun County with disease prevention, maternal and child health, and environmental health programs.",
+    "address": "301 County Road 850 N, Hardin, IL 62047",
+    "phone": "(618) 576-2219",
+    "url": "https://www.calhouncountyhealth.org",
+    "categorySlug": "healthcare",
+    "zipCode": "62047"
+  },
+  {
+    "name": "Hamburg Community Food Pantry",
+    "description": "Rural food pantry in Hamburg serving residents of southern Calhoun County with monthly food distributions.",
+    "address": "100 Main St, Hamburg, IL 62045",
+    "phone": "(618) 232-1234",
+    "url": "https://www.hamburgil.org",
+    "categorySlug": "food",
+    "zipCode": "62045"
+  },
+  {
+    "name": "Carroll County Food Pantry",
+    "description": "Community food pantry in Mount Carroll providing emergency food assistance and monthly food boxes to low-income residents of Carroll County.",
+    "address": "306 N Clay St, Mount Carroll, IL 61053",
+    "phone": "(815) 244-3211",
+    "url": "https://www.carrollcountyfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "61053"
+  },
+  {
+    "name": "Carroll County Health Department",
+    "description": "Local public health agency in Mount Carroll providing immunizations, disease prevention, and community health programs for Carroll County.",
+    "address": "9 W. Benton Ave, Savanna, IL 61074",
+    "phone": "(815) 273-2811",
+    "url": "https://www.carrollcountyhealth.org",
+    "categorySlug": "healthcare",
+    "zipCode": "61074"
+  },
+  {
+    "name": "Savanna Food Pantry",
+    "description": "Volunteer-run food pantry in Savanna serving low-income families in northwestern Carroll County with regular food distributions.",
+    "address": "220 Main St, Savanna, IL 61074",
+    "phone": "(815) 273-4140",
+    "url": "https://www.savannafoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "61074"
+  },
+  {
+    "name": "Champaign County Health Care Consumers",
+    "description": "Consumer health advocacy organization in Champaign helping low-income residents navigate healthcare access, insurance enrollment, and community health programs.",
+    "address": "44 E Main St Ste 208, Champaign, IL 61820",
+    "phone": "(217) 352-6533",
+    "url": "https://www.cchcc.net",
+    "categorySlug": "healthcare",
+    "zipCode": "61820"
+  },
+  {
+    "name": "Champaign Urbana Public Health District",
+    "description": "Public health district providing communicable disease prevention, maternal and child health, immunizations, and health education for Champaign County.",
+    "address": "201 W Kenyon Rd, Champaign, IL 61820",
+    "phone": "(217) 352-7961",
+    "url": "https://www.c-uphd.org",
+    "categorySlug": "healthcare",
+    "zipCode": "61820"
+  },
+  {
+    "name": "Crisis Nursery of Champaign County",
+    "description": "Provides 24-hour emergency shelter and childcare for children under 6 years old, and support services for families in crisis throughout Champaign County.",
+    "address": "1103 N Mattis Ave, Champaign, IL 61821",
+    "phone": "(217) 359-8867",
+    "url": "https://www.crisispnursery.org",
+    "categorySlug": "community",
+    "zipCode": "61821"
+  },
+  {
+    "name": "Cunningham Children's Home",
+    "description": "Residential treatment and foster care services for children and youth in the Champaign-Urbana area, including behavioral health and family support programs.",
+    "address": "1301 N Cunningham Ave, Urbana, IL 61802",
+    "phone": "(217) 367-3728",
+    "url": "https://www.cunninghamhome.org",
+    "categorySlug": "community",
+    "zipCode": "61802"
+  },
+  {
+    "name": "Don Moyer Boys & Girls Club",
+    "description": "Youth development organization in Champaign-Urbana providing after-school programs, meals, tutoring, and mentoring for young people ages 5-18.",
+    "address": "1515 N Market St, Champaign, IL 61820",
+    "phone": "(217) 352-7682",
+    "url": "https://www.donmoyerclub.org",
+    "categorySlug": "community",
+    "zipCode": "61820"
+  },
+  {
+    "name": "Eastern Illinois Foodbank",
+    "description": "Regional food bank serving 18 counties in east-central Illinois, distributing millions of pounds of food annually through a network of local partner agencies.",
+    "address": "2405 N Shore Dr, Urbana, IL 61802",
+    "phone": "(217) 328-3663",
+    "url": "https://www.eifoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "61802"
+  },
+  {
+    "name": "Food Pantry Network – Heart of Illinois (Fulton-Mason-Peoria-Tazewell)",
+    "description": "University of Illinois Extension-led network of local pantries and food banks working together to alleviate hunger across Fulton, Mason, Peoria, and Tazewell counties.",
+    "address": "321 W Springfield Ave, Champaign, IL 61820",
+    "phone": "(309) 543-3308",
+    "url": "https://extension.illinois.edu/fmpt/foodpantry",
+    "categorySlug": "food",
+    "zipCode": "61820"
+  },
+  {
+    "name": "Housing Authority of Champaign County",
+    "description": "Public housing authority administering Section 8 vouchers and public housing units for low-income residents of Champaign County.",
+    "address": "404 N Hickory St, Champaign, IL 61820",
+    "phone": "(217) 378-0700",
+    "url": "https://www.hacc.net",
+    "categorySlug": "housing",
+    "zipCode": "61820"
+  },
+  {
+    "name": "Mahomet Area Food Pantry",
+    "description": "Volunteer food pantry in Mahomet serving western Champaign County with regular food distributions and holiday meal assistance for families in need.",
+    "address": "501 E Main St, Mahomet, IL 61853",
+    "phone": "(217) 586-4040",
+    "url": "https://www.mahometfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "61853"
+  },
+  {
+    "name": "Rantoul Area Food Pantry",
+    "description": "Food pantry in Rantoul providing emergency food assistance to families in northern Champaign County including Rantoul, Royal, and Philo communities.",
+    "address": "100 S Century Blvd, Rantoul, IL 61866",
+    "phone": "(217) 892-4449",
+    "url": "https://www.rantoulareaorg.org",
+    "categorySlug": "food",
+    "zipCode": "61866"
+  },
+  {
+    "name": "Rantoul Family Services",
+    "description": "Social services organization in Rantoul providing food assistance, emergency aid, and case management for low-income residents of northern Champaign County.",
+    "address": "601 S Century Blvd, Rantoul, IL 61866",
+    "phone": "(217) 892-2161",
+    "url": "https://www.rantoulilinois.us",
+    "categorySlug": "community",
+    "zipCode": "61866"
+  },
+  {
+    "name": "Savoy Food Pantry",
+    "description": "Community food pantry in Savoy providing grocery assistance to low-income residents in the southern Champaign County area.",
+    "address": "3 Dunlap Ct, Savoy, IL 61874",
+    "phone": "(217) 359-2066",
+    "url": "https://www.savoyfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "61874"
+  },
+  {
+    "name": "TIMES CENTER – A Center for Health and Wholeness",
+    "description": "Community health and social services center in Champaign offering mental health counseling, substance abuse support, and community wellness programs.",
+    "address": "706 N. Prairie St, Champaign, IL 61820",
+    "phone": "(217) 351-7600",
+    "url": "https://www.timescenter.org",
+    "categorySlug": "healthcare",
+    "zipCode": "61820"
+  },
+  {
+    "name": "Urbana-Champaign Community Wellness Center",
+    "description": "Federally Qualified Health Center providing primary care, dental, and behavioral health services regardless of ability to pay for Champaign County residents.",
+    "address": "810 W Hill St, Champaign, IL 61820",
+    "phone": "(217) 351-5813",
+    "url": "https://www.communitycare.com",
+    "categorySlug": "healthcare",
+    "zipCode": "61820"
+  },
+  {
+    "name": "Breese Community Food Pantry",
+    "description": "Food pantry in Breese serving Clinton County residents with monthly grocery distributions and emergency food assistance.",
+    "address": "625 S Rte 160, Breese, IL 62230",
+    "phone": "(618) 526-7258",
+    "url": "https://www.breeseil.org",
+    "categorySlug": "food",
+    "zipCode": "62230"
+  },
+  {
+    "name": "Carlyle Area Food Pantry",
+    "description": "Volunteer-operated food pantry in Carlyle distributing groceries to low-income individuals and families throughout Clinton County.",
+    "address": "940 4th St, Carlyle, IL 62231",
+    "phone": "(618) 594-3124",
+    "url": "https://www.carlylefoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "62231"
+  },
+  {
+    "name": "Clinton County Health Department",
+    "description": "Public health agency serving Clinton County with communicable disease prevention, environmental health, maternal/child health, and immunizations.",
+    "address": "815 Franklin St, Carlyle, IL 62231",
+    "phone": "(618) 594-2723",
+    "url": "https://www.clintoncountyhealth.org",
+    "categorySlug": "healthcare",
+    "zipCode": "62231"
+  },
+  {
+    "name": "Germantown Neighbor's Food Pantry",
+    "description": "Faith-based food pantry in Germantown serving southern Clinton County with regular food distributions for families and individuals in need.",
+    "address": "101 Main St, Germantown, IL 62245",
+    "phone": "(618) 523-4313",
+    "url": "https://www.germantownillinois.com",
+    "categorySlug": "food",
+    "zipCode": "62245"
+  },
+  {
+    "name": "Charleston Food Pantry",
+    "description": "Volunteer food pantry in Charleston distributing groceries and personal care items to low-income residents of eastern Coles County.",
+    "address": "820 18th St, Charleston, IL 61920",
+    "phone": "(217) 348-8118",
+    "url": "https://www.charlestonfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "61920"
+  },
+  {
+    "name": "Coles County Food Pantry",
+    "description": "Regional food pantry network in Mattoon coordinating food assistance for low-income families throughout Coles County.",
+    "address": "2012 Prairie Ave, Mattoon, IL 61938",
+    "phone": "(217) 235-4313",
+    "url": "https://www.colescountyfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "61938"
+  },
+  {
+    "name": "Coles County Mental Health Center",
+    "description": "Community mental health center in Mattoon providing outpatient mental health, substance use treatment, and crisis services for Coles County.",
+    "address": "2105 Broadway Ave, Mattoon, IL 61938",
+    "phone": "(217) 234-6405",
+    "url": "https://www.ccmhc.org",
+    "categorySlug": "healthcare",
+    "zipCode": "61938"
+  },
+  {
+    "name": "Life Community Services – Mattoon",
+    "description": "Social services agency in Mattoon offering emergency assistance, food pantry, utility aid, and crisis support for Coles County residents.",
+    "address": "1709 Wabash Ave, Mattoon, IL 61938",
+    "phone": "(217) 235-4313",
+    "url": "https://www.lifecommunityservices.org",
+    "categorySlug": "community",
+    "zipCode": "61938"
+  },
+  {
+    "name": "Sarah Bush Lincoln Health Center",
+    "description": "Regional hospital and health system in Mattoon offering primary care, specialty services, and financial assistance programs for Coles County residents.",
+    "address": "1000 Health Center Dr, Mattoon, IL 61938",
+    "phone": "(217) 258-2525",
+    "url": "https://www.sarahbush.org",
+    "categorySlug": "healthcare",
+    "zipCode": "61938"
+  },
+  {
+    "name": "Wings of Hope – Coles County",
+    "description": "Domestic violence shelter and advocacy organization in Charleston providing emergency housing, counseling, and support services for victims in Coles County.",
+    "address": "P.O. Box 1372, Charleston, IL 61920",
+    "phone": "(217) 348-5931",
+    "url": "https://www.wingofhopeillinois.org",
+    "categorySlug": "housing",
+    "zipCode": "61920"
+  },
+  {
+    "name": "Advocate South Suburban Hospital – Community Health",
+    "description": "Regional hospital in Hazel Crest serving south suburban Cook County with inpatient care, community health programs, and charity care.",
+    "address": "17800 S Kedzie Ave, Hazel Crest, IL 60429",
+    "phone": "(708) 799-8000",
+    "url": "https://www.advocatehealth.com/ssub",
+    "categorySlug": "healthcare",
+    "zipCode": "60452"
+  },
+  {
+    "name": "Advocate Trinity Hospital – Community Health",
+    "description": "Regional hospital on Chicago's Southeast Side with community health programs, charity care, and outreach services for South Side neighborhoods.",
+    "address": "2320 E 93rd St, Chicago, IL 60617",
+    "phone": "(773) 967-2000",
+    "url": "https://www.advocatehealth.com/trinity",
+    "categorySlug": "healthcare",
+    "zipCode": "60617"
+  },
+  {
+    "name": "Albany Park Community Center",
+    "description": "Community services organization in Chicago's Albany Park neighborhood offering food pantry, youth programs, adult education, and social services for immigrant and refugee families.",
+    "address": "3403 W Lawrence Ave, Chicago, IL 60625",
+    "phone": "(773) 583-7344",
+    "url": "https://www.apcc-online.org",
+    "categorySlug": "community",
+    "zipCode": "60625"
+  },
+  {
+    "name": "Arlington Heights Food Pantry",
+    "description": "Community food pantry in Arlington Heights providing groceries, fresh produce, and emergency food assistance to Cook County suburban residents.",
+    "address": "1600 N Arlington Heights Rd, Arlington Heights, IL 60004",
+    "phone": "(847) 577-7070",
+    "url": "https://www.ahfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "60004"
+  },
+  {
+    "name": "Aunt Martha's Youth Service Center – South Suburbs",
+    "description": "Community health and social services organization serving south Cook County with primary care, behavioral health, housing, and youth services.",
+    "address": "4343 Lincoln Hwy, Matteson, IL 60443",
+    "phone": "(708) 747-2701",
+    "url": "https://www.auntmartha.org",
+    "categorySlug": "healthcare",
+    "zipCode": "60443"
+  },
+  {
+    "name": "Austin Community Action Center",
+    "description": "Social services hub in Chicago's Austin neighborhood providing food assistance, emergency aid, job placement, and community support for West Side residents.",
+    "address": "5011 W Madison St, Chicago, IL 60644",
+    "phone": "(773) 261-5560",
+    "url": "https://www.austincc.org",
+    "categorySlug": "community",
+    "zipCode": "60644"
+  },
+  {
+    "name": "Bethel New Life Community Programs",
+    "description": "Faith-based community development organization in Chicago's West Garfield Park neighborhood offering housing, employment, family services, and food programs.",
+    "address": "4950 W Thomas St, Chicago, IL 60651",
+    "phone": "(773) 473-7780",
+    "url": "https://www.bethelnewlife.org",
+    "categorySlug": "community",
+    "zipCode": "60651"
+  },
+  {
+    "name": "Chicago Department of Family and Support Services",
+    "description": "City agency providing emergency food, shelter, and supportive services for Chicago residents including homeless prevention, senior services, and workforce programs.",
+    "address": "1615 W Chicago Ave, Chicago, IL 60622",
+    "phone": "(312) 744-5000",
+    "url": "https://www.chicago.gov/dfss",
+    "categorySlug": "community",
+    "zipCode": "60622"
+  },
+  {
+    "name": "Chicago Roseland Community Food Pantry",
+    "description": "Food assistance program in Chicago's Roseland neighborhood providing groceries and emergency food support to South Side residents in 60628 and surrounding ZIP codes.",
+    "address": "10818 S Michigan Ave, Chicago, IL 60628",
+    "phone": "(773) 995-3000",
+    "url": "https://www.roselandfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "60628"
+  },
+  {
+    "name": "Chicago Southland Health Care Forum",
+    "description": "Healthcare advocacy network in south suburban Cook County connecting residents with community health centers, medical assistance programs, and preventive care.",
+    "address": "2525 E 162nd St, South Holland, IL 60473",
+    "phone": "(708) 339-3430",
+    "url": "https://www.chicagosouthlandhealthcare.org",
+    "categorySlug": "healthcare",
+    "zipCode": "60473"
+  },
+  {
+    "name": "Cicero Community Chest",
+    "description": "Social services organization in Cicero providing food pantry, emergency financial assistance, and referrals to community resources for town residents.",
+    "address": "1921 S Laramie Ave, Cicero, IL 60804",
+    "phone": "(708) 656-4420",
+    "url": "https://www.cicerocommunity.org",
+    "categorySlug": "community",
+    "zipCode": "60804"
+  },
+  {
+    "name": "Connections for the Homeless – Evanston/Skokie",
+    "description": "Homeless prevention and services organization in Evanston providing emergency shelter, housing support, and case management for residents of northern Cook County.",
+    "address": "1458 Chicago Ave, Evanston, IL 60201",
+    "phone": "(847) 475-7070",
+    "url": "https://www.cfthinc.org",
+    "categorySlug": "housing",
+    "zipCode": "60201"
+  },
+  {
+    "name": "Des Plaines Community Food Pantry",
+    "description": "Food pantry in Des Plaines providing groceries and essential items to low-income families in the northern Cook County suburbs.",
+    "address": "869 Graceland Ave, Des Plaines, IL 60016",
+    "phone": "(847) 827-4890",
+    "url": "https://www.desplainespantry.org",
+    "categorySlug": "food",
+    "zipCode": "60016"
+  },
+  {
+    "name": "Elk Grove Township Food Pantry",
+    "description": "Township-operated food pantry in Elk Grove Village providing regular food distributions to residents of Elk Grove Township in Cook County.",
+    "address": "2200 E Higgins Rd, Elk Grove Village, IL 60007",
+    "phone": "(847) 437-0300",
+    "url": "https://www.elkgrovetownship.com",
+    "categorySlug": "food",
+    "zipCode": "60007"
+  },
+  {
+    "name": "Englewood Community Food Center",
+    "description": "Community food pantry in Chicago's Englewood neighborhood distributing groceries and fresh produce to food-insecure residents of the South Side.",
+    "address": "641 W 63rd St, Chicago, IL 60621",
+    "phone": "(773) 651-4800",
+    "url": "https://www.englewoodfoodcenter.org",
+    "categorySlug": "food",
+    "zipCode": "60621"
+  },
+  {
+    "name": "Friend Family Health Center – Austin",
+    "description": "Federally Qualified Health Center in Chicago's Austin neighborhood providing primary care, dental, prenatal care, and behavioral health on a sliding-fee scale.",
+    "address": "5327 W Chicago Ave, Chicago, IL 60651",
+    "phone": "(773) 854-2000",
+    "url": "https://www.friendfamilyhealth.org",
+    "categorySlug": "healthcare",
+    "zipCode": "60651"
+  },
+  {
+    "name": "Greater Auburn Gresham Development Corporation",
+    "description": "Community development organization in Chicago's Auburn Gresham neighborhood providing social services, economic development, and community support programs.",
+    "address": "839 W 79th St, Chicago, IL 60620",
+    "phone": "(773) 483-4470",
+    "url": "https://www.greatergag.org",
+    "categorySlug": "community",
+    "zipCode": "60620"
+  },
+  {
+    "name": "Greater Chicago Food Depository",
+    "description": "Chicago's primary food bank distributing food to over 700 partner agencies, food pantries, and community programs serving Cook County's most vulnerable residents.",
+    "address": "4100 W Ann Lurie Pl, Chicago, IL 60632",
+    "phone": "(773) 247-3663",
+    "url": "https://www.gcfd.org",
+    "categorySlug": "food",
+    "zipCode": "60632"
+  },
+  {
+    "name": "Heartland Health Centers",
+    "description": "Federally Qualified Health Center system in Chicago providing comprehensive primary care, dental, behavioral health, and social services on a sliding-fee scale.",
+    "address": "7150 N Carpenter Rd, Chicago, IL 60626",
+    "phone": "(773) 262-2803",
+    "url": "https://www.heartlandhealthcenters.org",
+    "categorySlug": "healthcare",
+    "zipCode": "60626"
+  },
+  {
+    "name": "Hillside Food Pantry",
+    "description": "Community food pantry in Hillside serving west suburban Cook County residents with monthly grocery distributions and emergency food assistance.",
+    "address": "141 N Mannheim Rd, Hillside, IL 60162",
+    "phone": "(708) 449-6813",
+    "url": "https://www.hillsidefoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "60162"
+  },
+  {
+    "name": "Howard Brown Health – Uptown",
+    "description": "LGBTQ-affirming health center in Chicago's Uptown neighborhood providing primary care, HIV/STI services, mental health, and social support programs.",
+    "address": "4025 N Sheridan Rd, Chicago, IL 60613",
+    "phone": "(773) 388-1600",
+    "url": "https://www.howardbrown.org",
+    "categorySlug": "healthcare",
+    "zipCode": "60613"
+  },
+  {
+    "name": "Infant Welfare Society of Chicago",
+    "description": "Nonprofit health and social services organization in Oak Park providing early childhood health services, parenting support, and community health programs.",
+    "address": "300 N Mayfield Ave, Chicago, IL 60644",
+    "phone": "(773) 626-0500",
+    "url": "https://www.infantwelfaresociety.org",
+    "categorySlug": "healthcare",
+    "zipCode": "60644"
+  },
+  {
+    "name": "Ingalls Health System – Community Health",
+    "description": "Regional hospital network in Harvey serving south Cook County with inpatient care, charity care programs, and community health initiatives.",
+    "address": "1 Ingalls Dr, Harvey, IL 60426",
+    "phone": "(708) 333-2300",
+    "url": "https://www.ingalls.org",
+    "categorySlug": "healthcare",
+    "zipCode": "60426"
+  },
+  {
+    "name": "Journeys – The Road Home (Northwest Cook County)",
+    "description": "Homeless services organization in Des Plaines providing emergency shelter, transitional housing, and supportive services for residents of northwest Cook County.",
+    "address": "1210 Golf Rd, Des Plaines, IL 60016",
+    "phone": "(847) 759-0650",
+    "url": "https://www.journeysroadhome.org",
+    "categorySlug": "housing",
+    "zipCode": "60016"
+  },
+  {
+    "name": "Lakeview Food Pantry",
+    "description": "Community food pantry in Chicago's Lakeview neighborhood providing weekly grocery distributions to food-insecure residents of North Side Chicago.",
+    "address": "3042 N Clark St, Chicago, IL 60657",
+    "phone": "(773) 248-3854",
+    "url": "https://www.lakeviewpantry.org",
+    "categorySlug": "food",
+    "zipCode": "60657"
+  },
+  {
+    "name": "Lincolnwood Community Food Pantry",
+    "description": "Community food pantry in Lincolnwood providing regular grocery distributions to low-income residents of the north suburban Cook County village.",
+    "address": "4839 N Cicero Ave, Chicago, IL 60630",
+    "phone": "(847) 677-0950",
+    "url": "https://www.lincolnwoodfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "60630"
+  },
+  {
+    "name": "Loyola University Medical Center – Community Health",
+    "description": "Academic medical center in Maywood providing comprehensive healthcare services with financial assistance programs for uninsured patients in western Cook County.",
+    "address": "2160 S 1st Ave, Maywood, IL 60153",
+    "phone": "(708) 216-9000",
+    "url": "https://www.loyolamedicine.org",
+    "categorySlug": "healthcare",
+    "zipCode": "60153"
+  },
+  {
+    "name": "Lutheran Social Services of Illinois – Northwest Suburbs",
+    "description": "Social services organization offering counseling, housing assistance, food programs, and community support across northwest suburban Cook County.",
+    "address": "4840 W Golf Rd, Skokie, IL 60076",
+    "phone": "(847) 635-4600",
+    "url": "https://www.lssi.org",
+    "categorySlug": "community",
+    "zipCode": "60076"
+  },
+  {
+    "name": "Lyons Township Food Pantry",
+    "description": "Township food pantry in Lyons serving western Cook County residents with weekly food distributions and emergency grocery assistance.",
+    "address": "6404 Joliet Rd, Countryside, IL 60525",
+    "phone": "(708) 354-1376",
+    "url": "https://www.lyonstownship.org",
+    "categorySlug": "food",
+    "zipCode": "60525"
+  },
+  {
+    "name": "Maine Township Human Services",
+    "description": "Township human services office providing emergency financial assistance, food pantry access, and social services referrals for Maine Township residents in Cook County.",
+    "address": "1700 Ballard Rd, Park Ridge, IL 60068",
+    "phone": "(847) 318-5252",
+    "url": "https://www.mainetown.com",
+    "categorySlug": "community",
+    "zipCode": "60068"
+  },
+  {
+    "name": "Matteson Food Pantry",
+    "description": "Community food pantry in Matteson providing weekly grocery assistance to low-income families in south suburban Cook County.",
+    "address": "21001 S Matteson Ave, Matteson, IL 60443",
+    "phone": "(708) 748-1800",
+    "url": "https://www.mattesonfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "60443"
+  },
+  {
+    "name": "Maywood Proviso Food Pantry",
+    "description": "Food pantry in Maywood serving Proviso Township residents with regular grocery distributions and emergency food assistance for low-income families.",
+    "address": "209 S 5th Ave, Maywood, IL 60153",
+    "phone": "(708) 345-6789",
+    "url": "https://www.maywoodnow.org",
+    "categorySlug": "food",
+    "zipCode": "60153"
+  },
+  {
+    "name": "Niles Township Food Pantry",
+    "description": "Township food pantry in Niles providing weekly grocery distributions and emergency food assistance to low-income residents of Niles Township in Cook County.",
+    "address": "5255 W Touhy Ave, Skokie, IL 60077",
+    "phone": "(847) 674-1820",
+    "url": "https://www.nilestownship.org",
+    "categorySlug": "food",
+    "zipCode": "60077"
+  },
+  {
+    "name": "Niles Township Human Services",
+    "description": "Township office in Niles providing emergency financial assistance, case management, and social services referrals for residents of Niles Township.",
+    "address": "5255 W Touhy Ave, Skokie, IL 60077",
+    "phone": "(847) 674-1820",
+    "url": "https://www.nilestownship.org/human-services",
+    "categorySlug": "community",
+    "zipCode": "60077"
+  },
+  {
+    "name": "North Riverside Community Food Center",
+    "description": "Food assistance program in North Riverside providing groceries and emergency food support to low-income families in the western Cook County suburbs.",
+    "address": "2401 S DesPlaines Ave, North Riverside, IL 60546",
+    "phone": "(708) 447-4208",
+    "url": "https://www.northriversideil.gov",
+    "categorySlug": "food",
+    "zipCode": "60546"
+  },
+  {
+    "name": "Northlake Food Pantry",
+    "description": "Local food pantry in Northlake providing monthly grocery assistance to low-income residents of western Cook County communities.",
+    "address": "55 E North Ave, Northlake, IL 60164",
+    "phone": "(708) 562-2100",
+    "url": "https://www.northlakeil.gov",
+    "categorySlug": "food",
+    "zipCode": "60164"
+  },
+  {
+    "name": "NorthShore University HealthSystem – Community Health",
+    "description": "Health system with multiple Cook County locations offering primary care, specialty care, and charity care programs for uninsured and underinsured patients.",
+    "address": "2650 Ridge Ave, Evanston, IL 60201",
+    "phone": "(847) 570-2000",
+    "url": "https://www.northshore.org",
+    "categorySlug": "healthcare",
+    "zipCode": "60201"
+  },
+  {
+    "name": "Northwest Community Hospital – Community Health",
+    "description": "Regional hospital in Arlington Heights providing medical care and community health programs with financial assistance for uninsured patients in Cook County.",
+    "address": "800 W Central Rd, Arlington Heights, IL 60005",
+    "phone": "(847) 618-1000",
+    "url": "https://www.nch.org",
+    "categorySlug": "healthcare",
+    "zipCode": "60005"
+  },
+  {
+    "name": "Northwest Suburban Food Pantry",
+    "description": "Food pantry serving Arlington Heights and surrounding Cook County suburbs with groceries, fresh produce, and emergency food assistance.",
+    "address": "1585 N Rand Rd, Palatine, IL 60074",
+    "phone": "(847) 359-5156",
+    "url": "https://www.northwestsuburbanfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "60074"
+  },
+  {
+    "name": "Northwest Suburban PADS (Public Action to Deliver Shelter)",
+    "description": "Homeless services organization providing emergency overnight shelter and case management for homeless adults in Palatine and northwest Cook County suburbs.",
+    "address": "1095 E Northwest Hwy, Palatine, IL 60074",
+    "phone": "(847) 221-7237",
+    "url": "https://www.padsnorthwest.org",
+    "categorySlug": "housing",
+    "zipCode": "60074"
+  },
+  {
+    "name": "Norwood Park Home",
+    "description": "Senior living and social services organization in Chicago's Norwood Park neighborhood providing care, meals, and community programs for older adults.",
+    "address": "6016 N Nina Ave, Chicago, IL 60631",
+    "phone": "(773) 631-4856",
+    "url": "https://www.norwoodparkhome.org",
+    "categorySlug": "community",
+    "zipCode": "60631"
+  },
+  {
+    "name": "Oak Forest Food Pantry",
+    "description": "Community food pantry in Oak Forest providing monthly food distributions and emergency grocery assistance for residents of southwest Cook County.",
+    "address": "15440 S Central Ave, Oak Forest, IL 60452",
+    "phone": "(708) 687-7060",
+    "url": "https://www.oakforestpantry.org",
+    "categorySlug": "food",
+    "zipCode": "60452"
+  },
+  {
+    "name": "Oak Park River Forest Food Pantry",
+    "description": "Food pantry serving Oak Park and River Forest with weekly distributions of groceries and fresh produce to low-income households in western Cook County.",
+    "address": "202 Harrison St, Oak Park, IL 60304",
+    "phone": "(708) 386-1400",
+    "url": "https://www.oprffoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "60304"
+  },
+  {
+    "name": "Pacific Garden Mission",
+    "description": "Chicago's oldest rescue mission providing overnight shelter, meals, addiction recovery programs, and transitional housing for homeless adults on the South Side.",
+    "address": "1458 S Canal St, Chicago, IL 60607",
+    "phone": "(312) 492-9410",
+    "url": "https://www.pgm.org",
+    "categorySlug": "housing",
+    "zipCode": "60607"
+  },
+  {
+    "name": "PADS Lake County / Wheeling",
+    "description": "Shelter and housing services for homeless individuals in the Wheeling area, offering safe overnight shelter and pathways to stable housing.",
+    "address": "1850 N Clark St, Chicago, IL 60614",
+    "phone": "(847) 689-4357",
+    "url": "https://www.padslakecounty.org",
+    "categorySlug": "housing",
+    "zipCode": "60614"
+  },
+  {
+    "name": "Palatine Township Food Pantry",
+    "description": "Township food pantry in Palatine providing weekly grocery distributions to low-income households in Palatine Township, Cook County.",
+    "address": "721 S Quentin Rd, Palatine, IL 60067",
+    "phone": "(847) 358-6700",
+    "url": "https://www.palatine-township.org",
+    "categorySlug": "food",
+    "zipCode": "60067"
+  },
+  {
+    "name": "PCC Community Wellness Center – Chicago",
+    "description": "Federally Qualified Health Center with multiple Chicago locations offering primary care, dental, mental health, and WIC services regardless of insurance status.",
+    "address": "2653 W Ogden Ave, Chicago, IL 60608",
+    "phone": "(312) 733-3590",
+    "url": "https://www.pccwellness.org",
+    "categorySlug": "healthcare",
+    "zipCode": "60608"
+  },
+  {
+    "name": "Pillars Community Health – Oak Park",
+    "description": "Federally Qualified Health Center in Oak Park offering primary care, mental health, dental, and substance use services on a sliding-fee scale.",
+    "address": "1749 S Naperville Rd, Wheaton, IL 60189",
+    "phone": "(630) 681-4900",
+    "url": "https://www.pillarscommunityhealth.org",
+    "categorySlug": "healthcare",
+    "zipCode": "60302"
+  },
+  {
+    "name": "Posen Food Pantry",
+    "description": "Community food pantry in Posen serving low-income residents of the southwest Cook County community with monthly grocery distributions.",
+    "address": "2400 W 143rd St, Posen, IL 60469",
+    "phone": "(708) 371-5300",
+    "url": "https://www.posenil.org",
+    "categorySlug": "food",
+    "zipCode": "60469"
+  },
+  {
+    "name": "Proviso Community Mental Health Council",
+    "description": "Community mental health organization in Maywood providing outpatient counseling, crisis intervention, and psychiatric services for west suburban Cook County.",
+    "address": "1717 S 9th Ave, Maywood, IL 60153",
+    "phone": "(708) 681-5900",
+    "url": "https://www.provisomhc.org",
+    "categorySlug": "healthcare",
+    "zipCode": "60153"
+  },
+  {
+    "name": "Resilience (formerly Rape Victim Advocates)",
+    "description": "Chicago-based nonprofit providing crisis intervention, counseling, and advocacy for survivors of sexual violence throughout the Chicago area.",
+    "address": "180 N Michigan Ave Ste 600, Chicago, IL 60601",
+    "phone": "(312) 443-9603",
+    "url": "https://www.ourresilience.org",
+    "categorySlug": "community",
+    "zipCode": "60601"
+  },
+  {
+    "name": "Richton Park Food Pantry",
+    "description": "Village-supported food pantry in Richton Park providing groceries and essential items to low-income families in south suburban Cook County.",
+    "address": "4455 Sauk Trail, Richton Park, IL 60471",
+    "phone": "(708) 481-3281",
+    "url": "https://www.richtonpark.org",
+    "categorySlug": "food",
+    "zipCode": "60471"
+  },
+  {
+    "name": "River Forest Food Pantry",
+    "description": "Faith-based food pantry in River Forest distributing groceries to low-income residents of River Forest and neighboring Oak Park communities.",
+    "address": "7777 Lake St, River Forest, IL 60305",
+    "phone": "(708) 771-8300",
+    "url": "https://www.riverforestfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "60305"
+  },
+  {
+    "name": "Rogers Park Community Council",
+    "description": "Community organization in Chicago's Rogers Park neighborhood offering food pantry, emergency assistance, housing support, and social services referrals.",
+    "address": "1545 W Morse Ave, Chicago, IL 60626",
+    "phone": "(773) 508-5510",
+    "url": "https://www.rpcc.org",
+    "categorySlug": "community",
+    "zipCode": "60626"
+  },
+  {
+    "name": "Rolling Meadows Food Pantry",
+    "description": "Volunteer food pantry in Rolling Meadows serving northwestern Cook County suburbs with weekly food distributions and holiday meal assistance.",
+    "address": "3705 Pheasant Dr, Rolling Meadows, IL 60008",
+    "phone": "(847) 397-2323",
+    "url": "https://www.rmfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "60008"
+  },
+  {
+    "name": "Rush University Medical Center – Community Health",
+    "description": "Academic medical center on Chicago's near west side with community health programs, financial assistance, and specialty care services for Cook County residents.",
+    "address": "1620 W Harrison St, Chicago, IL 60612",
+    "phone": "(312) 942-5000",
+    "url": "https://www.rush.edu",
+    "categorySlug": "healthcare",
+    "zipCode": "60612"
+  },
+  {
+    "name": "Skokie Valley Community Food Pantry",
+    "description": "Food pantry in Skokie providing groceries and personal care items to low-income families in Skokie and neighboring North Shore communities.",
+    "address": "7109 Main St, Skokie, IL 60077",
+    "phone": "(847) 677-3636",
+    "url": "https://www.skokievalleypantry.org",
+    "categorySlug": "food",
+    "zipCode": "60077"
+  },
+  {
+    "name": "SOS Children's Villages Illinois",
+    "description": "International nonprofit in Lockport providing family-based care, foster care, and family strengthening programs for vulnerable children in Illinois.",
+    "address": "1537 Lake Cook Rd, Northbrook, IL 60062",
+    "phone": "(847) 564-0670",
+    "url": "https://www.sos-usa.org/illinois",
+    "categorySlug": "community",
+    "zipCode": "60062"
+  },
+  {
+    "name": "South Side Help Center",
+    "description": "Community services organization on Chicago's South Side providing food pantry, emergency financial assistance, and referrals for residents in 60628.",
+    "address": "3456 S State St, Chicago, IL 60616",
+    "phone": "(773) 538-5765",
+    "url": "https://www.southsidehelpcenter.org",
+    "categorySlug": "community",
+    "zipCode": "60616"
+  },
+  {
+    "name": "South Suburban Family Shelter",
+    "description": "Domestic violence shelter and advocacy center serving south suburban Cook County providing emergency housing, counseling, and legal advocacy for survivors.",
+    "address": "17010 S Halsted St, Harvey, IL 60426",
+    "phone": "(708) 331-3377",
+    "url": "https://www.ssfamilyshelter.org",
+    "categorySlug": "housing",
+    "zipCode": "60471"
+  },
+  {
+    "name": "South Suburban PADS",
+    "description": "Homeless prevention and shelter services organization serving southern Cook County suburbs including Matteson, Oak Forest, and Crestwood.",
+    "address": "5900 S Forest Ave, Matteson, IL 60443",
+    "phone": "(708) 720-0150",
+    "url": "https://www.southsuburbanpads.org",
+    "categorySlug": "housing",
+    "zipCode": "60443"
+  },
+  {
+    "name": "Stickney Township Human Services",
+    "description": "Township office in Stickney providing emergency assistance, food referrals, and social services for low-income residents of Stickney Township.",
+    "address": "6533 Pershing Ave, Stickney, IL 60402",
+    "phone": "(708) 788-1100",
+    "url": "https://www.stickneytownship.org",
+    "categorySlug": "community",
+    "zipCode": "60402"
+  },
+  {
+    "name": "Stone Park Community Services",
+    "description": "Municipal social services in Stone Park providing emergency assistance, food distributions, and referrals to community resources for village residents.",
+    "address": "1725 N Mannheim Rd, Stone Park, IL 60165",
+    "phone": "(708) 345-1900",
+    "url": "https://www.villageofstonepark.com",
+    "categorySlug": "community",
+    "zipCode": "60165"
+  },
+  {
+    "name": "The Night Ministry",
+    "description": "Street outreach organization in Chicago providing mobile health care, housing assistance, and crisis support to homeless youth and adults across the city.",
+    "address": "4711 N Clark St, Chicago, IL 60640",
+    "phone": "(773) 784-9000",
+    "url": "https://www.thenightministry.org",
+    "categorySlug": "community",
+    "zipCode": "60640"
+  },
+  {
+    "name": "Thresholds",
+    "description": "Mental health and substance use recovery organization in Chicago offering housing, employment, and community-based services for adults with serious mental illness.",
+    "address": "4101 N Ravenswood Ave, Chicago, IL 60613",
+    "phone": "(773) 572-5500",
+    "url": "https://www.thresholds.org",
+    "categorySlug": "healthcare",
+    "zipCode": "60613"
+  },
+  {
+    "name": "UICC Mile Square Health Center – Austin",
+    "description": "Federally Qualified Health Center affiliated with UI Health providing primary care and preventive services to Chicago's West Side communities.",
+    "address": "1220 S Wood St, Chicago, IL 60608",
+    "phone": "(312) 996-2000",
+    "url": "https://www.uihealth.care/mile-square",
+    "categorySlug": "healthcare",
+    "zipCode": "60608"
+  },
+  {
+    "name": "West Pullman Community Services",
+    "description": "Community center in Chicago's West Pullman neighborhood offering food distribution, emergency assistance, and youth programs for far South Side residents.",
+    "address": "11533 S Michigan Ave, Chicago, IL 60628",
+    "phone": "(773) 928-0200",
+    "url": "https://www.westpullman.org",
+    "categorySlug": "community",
+    "zipCode": "60643"
+  },
+  {
+    "name": "West Suburban Community Pantry",
+    "description": "Regional food pantry serving multiple west suburban Cook County communities including Stickney, Forest View, and Lyons with monthly food distributions.",
+    "address": "7355 W 191st St, Tinley Park, IL 60477",
+    "phone": "(708) 633-3939",
+    "url": "https://www.westsubpantry.org",
+    "categorySlug": "food",
+    "zipCode": "60477"
+  },
+  {
+    "name": "Western Springs Food Pantry",
+    "description": "Community food pantry in Western Springs providing monthly grocery distributions to residents experiencing food insecurity in southwestern Cook County.",
+    "address": "1003 Hillgrove Ave, Western Springs, IL 60558",
+    "phone": "(708) 246-3595",
+    "url": "https://www.westernspringspantry.org",
+    "categorySlug": "food",
+    "zipCode": "60558"
+  },
+  {
+    "name": "Wheeling Township Food Pantry",
+    "description": "Township-operated food pantry in Wheeling serving residents of Wheeling Township in Cook County with biweekly food distributions.",
+    "address": "1616 N Arlington Heights Rd, Arlington Heights, IL 60004",
+    "phone": "(847) 259-7730",
+    "url": "https://www.wheelingtownship.com",
+    "categorySlug": "food",
+    "zipCode": "60004"
+  },
+  {
+    "name": "Woodlawn Resource Center",
+    "description": "Social services organization in Chicago's Woodlawn neighborhood providing food assistance, case management, and community support for South Side residents.",
+    "address": "6316 S Cottage Grove Ave, Chicago, IL 60637",
+    "phone": "(773) 684-6300",
+    "url": "https://www.woodlawnresourcecenter.org",
+    "categorySlug": "community",
+    "zipCode": "60637"
+  },
+  {
+    "name": "Clinton Community Food Pantry",
+    "description": "Community food pantry in Clinton, IL serving DeWitt County residents with monthly food distributions and emergency food assistance.",
+    "address": "306 N Oak St, Clinton, IL 61727",
+    "phone": "(217) 935-2991",
+    "url": "https://www.clintonillinois.com",
+    "categorySlug": "food",
+    "zipCode": "61727"
+  },
+  {
+    "name": "DeWitt County Health Department",
+    "description": "Public health agency in Clinton, IL providing immunizations, disease surveillance, environmental health, and community health programs for DeWitt County.",
+    "address": "1212 S Coach Dr, Clinton, IL 61727",
+    "phone": "(217) 935-3427",
+    "url": "https://www.dewittcohealth.org",
+    "categorySlug": "healthcare",
+    "zipCode": "61727"
+  },
+  {
+    "name": "DeKalb County Community Services",
+    "description": "County human services department providing emergency assistance, social services coordination, and community programs for DeKalb County residents.",
+    "address": "110 E Sycamore St, Sycamore, IL 60178",
+    "phone": "(815) 895-7188",
+    "url": "https://www.dekalbcounty.org/communityservices",
+    "categorySlug": "community",
+    "zipCode": "60178"
+  },
+  {
+    "name": "DeKalb County Health Department",
+    "description": "Public health department in DeKalb providing WIC, immunizations, communicable disease control, and community health services for DeKalb County residents.",
+    "address": "2500 N Annie Glidden Rd, DeKalb, IL 60115",
+    "phone": "(815) 748-2400",
+    "url": "https://www.dekalbcounty.org/health",
+    "categorySlug": "healthcare",
+    "zipCode": "60115"
+  },
+  {
+    "name": "Genoa Area Food Pantry",
+    "description": "Community food pantry in Genoa serving residents of northern DeKalb County with monthly food distributions and emergency grocery assistance.",
+    "address": "333 S Depot St, Genoa, IL 60135",
+    "phone": "(815) 784-5612",
+    "url": "https://www.genoaillinois.com",
+    "categorySlug": "food",
+    "zipCode": "60135"
+  },
+  {
+    "name": "Hope Haven of DeKalb County",
+    "description": "Homeless shelter and transitional housing program in DeKalb providing emergency overnight accommodation and case management for homeless adults and families.",
+    "address": "830 Grove St, DeKalb, IL 60115",
+    "phone": "(815) 758-2673",
+    "url": "https://www.hopehavendekalbcounty.org",
+    "categorySlug": "housing",
+    "zipCode": "60115"
+  },
+  {
+    "name": "Sycamore Area Food Pantry",
+    "description": "Volunteer-run food pantry in Sycamore providing monthly grocery distributions to low-income residents of Sycamore and surrounding DeKalb County communities.",
+    "address": "530 Airport Rd, Sycamore, IL 60178",
+    "phone": "(815) 895-2555",
+    "url": "https://www.sycamorefoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "60178"
+  },
+  {
+    "name": "Arcola Food Pantry",
+    "description": "Volunteer food pantry in Arcola serving residents of southern Douglas County with regular food distributions and emergency grocery support.",
+    "address": "149 E Main St, Arcola, IL 61910",
+    "phone": "(217) 268-4921",
+    "url": "https://www.arcolail.org",
+    "categorySlug": "food",
+    "zipCode": "61910"
+  },
+  {
+    "name": "Camargo Food Pantry",
+    "description": "Small rural food pantry in Camargo providing emergency food assistance to residents of rural Douglas County communities.",
+    "address": "201 N Walnut St, Camargo, IL 61919",
+    "phone": "(217) 834-3311",
+    "url": "https://www.camargo-il.org",
+    "categorySlug": "food",
+    "zipCode": "61919"
+  },
+  {
+    "name": "Douglas County Health Department",
+    "description": "Public health agency serving Douglas County with immunizations, WIC, disease surveillance, and community health programs.",
+    "address": "307 W Center St, Tuscola, IL 61953",
+    "phone": "(217) 253-4137",
+    "url": "https://www.douglascountyhealth.org",
+    "categorySlug": "healthcare",
+    "zipCode": "61953"
+  },
+  {
+    "name": "Tuscola Food Pantry",
+    "description": "Community food pantry in Tuscola providing grocery assistance to low-income residents of Douglas County on a monthly basis.",
+    "address": "212 E North Ave, Tuscola, IL 61953",
+    "phone": "(217) 253-4600",
+    "url": "https://www.tuscolafoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "61953"
+  },
+  {
+    "name": "Downers Grove Food Pantry",
+    "description": "Community food pantry in Downers Grove providing monthly food assistance to low-income families in central DuPage County.",
+    "address": "950 Warren Ave, Downers Grove, IL 60515",
+    "phone": "(630) 971-3750",
+    "url": "https://www.dowersgrovefoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "60515"
+  },
+  {
+    "name": "DuPage County Community Services – Emergency Assistance",
+    "description": "County program providing emergency financial assistance, utility aid, and social services referrals for DuPage County residents facing crisis situations.",
+    "address": "421 N County Farm Rd, Wheaton, IL 60187",
+    "phone": "(630) 407-6500",
+    "url": "https://www.dupageco.org/communityservices",
+    "categorySlug": "community",
+    "zipCode": "60187"
+  },
+  {
+    "name": "DuPage PADS (Public Action to Deliver Shelter)",
+    "description": "Homeless services organization in DuPage County providing emergency shelter, transitional housing, and case management for homeless adults and families.",
+    "address": "1pm E Ogden Ave, Naperville, IL 60563",
+    "phone": "(630) 682-3846",
+    "url": "https://www.dupagepads.org",
+    "categorySlug": "housing",
+    "zipCode": "60563"
+  },
+  {
+    "name": "Edward-Elmhurst Health – Community Health",
+    "description": "Regional health system in Naperville and Elmhurst providing comprehensive medical care, community health programs, and charity care for DuPage County residents.",
+    "address": "801 S Washington St, Naperville, IL 60540",
+    "phone": "(630) 527-3000",
+    "url": "https://www.edward.org",
+    "categorySlug": "healthcare",
+    "zipCode": "60540"
+  },
+  {
+    "name": "Lisle Township Food Pantry",
+    "description": "Township food pantry in Lisle providing regular grocery assistance to income-qualifying residents of Lisle Township in DuPage County.",
+    "address": "4711 Indiana Ave, Lisle, IL 60532",
+    "phone": "(630) 968-3535",
+    "url": "https://www.lisletownship.com",
+    "categorySlug": "food",
+    "zipCode": "60532"
+  },
+  {
+    "name": "Lisle-Woodridge Food Pantry",
+    "description": "Community food pantry serving Lisle and Woodridge residents in DuPage County with weekly food distributions and emergency grocery assistance.",
+    "address": "1600 Short St, Lisle, IL 60532",
+    "phone": "(630) 968-3435",
+    "url": "https://www.lwfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "60532"
+  },
+  {
+    "name": "Naperville Community Resources",
+    "description": "Social services hub in Naperville providing emergency financial assistance, food referrals, and coordinated community support for DuPage and Will County residents.",
+    "address": "800 E Jefferson Ave, Naperville, IL 60540",
+    "phone": "(630) 420-6166",
+    "url": "https://www.naperville.il.us",
+    "categorySlug": "community",
+    "zipCode": "60540"
+  },
+  {
+    "name": "Naperville Food Pantry",
+    "description": "Large community food pantry in Naperville providing weekly grocery distributions to hundreds of DuPage County households facing food insecurity.",
+    "address": "955 W 75th St, Naperville, IL 60565",
+    "phone": "(630) 355-3663",
+    "url": "https://www.napervillefoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "60565"
+  },
+  {
+    "name": "Oak Brook Food Pantry",
+    "description": "Community food pantry in Oak Brook providing monthly grocery distributions to low-income residents in the Oak Brook area of DuPage County.",
+    "address": "1106 Oak Brook Rd, Oak Brook, IL 60523",
+    "phone": "(630) 990-4238",
+    "url": "https://www.oakbrookfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "60523"
+  },
+  {
+    "name": "Roselle Food Pantry",
+    "description": "Community food pantry in Roselle providing regular grocery distributions and emergency food assistance to residents of Roselle and Medinah in DuPage County.",
+    "address": "10 S Prospect St, Roselle, IL 60172",
+    "phone": "(630) 893-4060",
+    "url": "https://www.rosellefoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "60172"
+  },
+  {
+    "name": "Villa Park Food Pantry",
+    "description": "Community food pantry in Villa Park providing monthly grocery distributions to low-income residents of Villa Park and neighboring DuPage County communities.",
+    "address": "300 E St Charles Rd, Villa Park, IL 60181",
+    "phone": "(630) 993-8000",
+    "url": "https://www.villaparkfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "60181"
+  },
+  {
+    "name": "Warrenville Food Pantry",
+    "description": "Volunteer food pantry in Warrenville providing monthly grocery distributions to low-income residents of Warrenville and western DuPage County.",
+    "address": "3S258 Manning Ave, Warrenville, IL 60555",
+    "phone": "(630) 393-1070",
+    "url": "https://www.warrenvillefoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "60555"
+  },
+  {
+    "name": "Westmont Food Pantry",
+    "description": "Community food pantry in Westmont offering grocery assistance to income-qualifying residents of Westmont and neighboring DuPage County communities.",
+    "address": "75 E Richmond St, Westmont, IL 60559",
+    "phone": "(630) 968-8490",
+    "url": "https://www.westmontpantry.org",
+    "categorySlug": "food",
+    "zipCode": "60559"
+  },
+  {
+    "name": "Wheaton Food Pantry",
+    "description": "One of DuPage County's busiest food pantries, serving Wheaton and surrounding communities with weekly grocery distributions and holiday food programs.",
+    "address": "351 W Liberty Dr, Wheaton, IL 60187",
+    "phone": "(630) 462-0700",
+    "url": "https://www.wheatonfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "60187"
+  },
+  {
+    "name": "Compassionate Food Ministries",
+    "description": "Food pantry serving Edgar County residents, open Wednesdays with emergency food assistance available to those in need.",
+    "address": "1103 Cherry Point St, Paris, IL 61944",
+    "phone": "(217) 379-7860",
+    "url": "https://www.eifoodbank.org/help/edgarcounty.html",
+    "categorySlug": "food",
+    "zipCode": "61944"
+  },
+  {
+    "name": "Edgar County Health Department",
+    "description": "Public health agency in Paris, IL providing immunizations, WIC, communicable disease surveillance, and community health programs for Edgar County residents.",
+    "address": "107 N Central Ave, Paris, IL 61944",
+    "phone": "(217) 465-5531",
+    "url": "https://www.edgarcountyhealth.org",
+    "categorySlug": "healthcare",
+    "zipCode": "61944"
+  },
+  {
+    "name": "Kansas/Chrisman Area Food Pantry",
+    "description": "Rural food pantry serving residents of Kansas, Chrisman, and surrounding Edgar County communities with monthly food distributions.",
+    "address": "117 N Chestnut St, Kansas, IL 61933",
+    "phone": "(217) 948-5272",
+    "url": "https://www.edgarcountyfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "61933"
+  },
+  {
+    "name": "Paris Community Food Pantry",
+    "description": "Community food pantry in Paris, IL providing emergency food assistance and regular grocery distributions to low-income Edgar County residents.",
+    "address": "215 N Central Ave, Paris, IL 61944",
+    "phone": "(217) 465-4151",
+    "url": "https://www.parisfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "61944"
+  },
+  {
+    "name": "Paris Community Hospital – Financial Assistance",
+    "description": "Critical access hospital in Paris, IL serving Edgar County with primary care, emergency services, and charity care programs for uninsured patients.",
+    "address": "721 E Court St, Paris, IL 61944",
+    "phone": "(217) 465-4141",
+    "url": "https://www.pariscommunityhospital.com",
+    "categorySlug": "healthcare",
+    "zipCode": "61944"
+  },
+  {
+    "name": "Gibson Area Food Pantry",
+    "description": "Food pantry at Gibson Area Hospital serving Ford County residents, open the 2nd and 4th Saturday of each month with free groceries for those in need.",
+    "address": "619 East First Street, Gibson City, IL 60936",
+    "phone": "(217) 784-5201",
+    "url": "https://www.gibsonhospital.org/supporting-gibson/gibson-area-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "60936"
+  },
+  {
+    "name": "Hands of Christ Food Pantry – Paxton",
+    "description": "Food pantry distributing groceries to qualifying Ford County residents on Saturdays and the second Tuesday of each month.",
+    "address": "361 N Railroad Ave, Paxton, IL 60957",
+    "phone": "(217) 379-7860",
+    "url": "https://www.eifoodbank.org/help/fordcounty.html",
+    "categorySlug": "food",
+    "zipCode": "60957"
+  },
+  {
+    "name": "Spoon River College Community Resources",
+    "description": "Spoon River College maintains a comprehensive list of community food pantries and social service resources for Fulton County residents in Canton and surrounding areas.",
+    "address": "23235 N County Hwy 22, Canton, IL 61520",
+    "phone": "(309) 649-6500",
+    "url": "https://www.src.edu/student-services/community-resources",
+    "categorySlug": "community",
+    "zipCode": "61520"
+  },
+  {
+    "name": "The Salvation Army 360 Life Center – Canton & Fulton County",
+    "description": "Provides food pantry, community meals, diaper bank, and financial assistance programs to Fulton County residents in need.",
+    "address": "176 S First Avenue, Canton, IL 61520",
+    "phone": "(309) 647-0732",
+    "url": "https://centralusa.salvationarmy.org/360lifecenters/canton/",
+    "categorySlug": "community",
+    "zipCode": "61520"
+  },
+  {
+    "name": "Carrollton Area Food Pantry",
+    "description": "Community food pantry serving Greene County residents monthly from a location behind Life Point Church in Carrollton.",
+    "address": "409 Sycamore St, Carrollton, IL 62016",
+    "phone": "(217) 942-3157",
+    "url": "https://greenecountyhd.org/resource-links/",
+    "categorySlug": "food",
+    "zipCode": "62016"
+  },
+  {
+    "name": "Greene County Health Department",
+    "description": "County health department providing health services, resource referrals, and community health programs for Greene County residents.",
+    "address": "519 N Main St, Carrollton, IL 62016",
+    "phone": "(217) 942-5369",
+    "url": "https://greenecountyhd.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "62016"
+  },
+  {
+    "name": "We Care of Grundy County",
+    "description": "One of the largest food banks in the area, serving Grundy County residents twice per month and also providing mortgage and utility assistance.",
+    "address": "530 Bedford Rd, Morris, IL 60450",
+    "phone": "(815) 942-6389",
+    "url": "https://www.wecareofgrundy.com/",
+    "categorySlug": "food",
+    "zipCode": "60450"
+  },
+  {
+    "name": "Hancock County Food Pantry",
+    "description": "Food pantry serving Hancock County residents with free groceries; additional mobile food pantry events held at the county extension building in Carthage.",
+    "address": "709 Main St, Carthage, IL 62321",
+    "phone": "(217) 357-2468",
+    "url": "https://www.hancockcountyfoodpantry.net/",
+    "categorySlug": "food",
+    "zipCode": "62321"
+  },
+  {
+    "name": "Tri-State Family Services – Carthage",
+    "description": "Social services organization in Carthage providing food assistance and support services to Hancock County residents multiple days per week.",
+    "address": "603 Walnut St, Carthage, IL 62321",
+    "phone": "(217) 357-3343",
+    "url": "https://www.hancockcountyhealthdepartment.org/food-pantries-in-hancock-county.html",
+    "categorySlug": "community",
+    "zipCode": "62321"
+  },
+  {
+    "name": "Family Outreach Community Center",
+    "description": "Community center in Stronghurst serving Henderson County with food assistance and social service referrals, open Monday through Thursday.",
+    "address": "410 E Main St, Stronghurst, IL 61480",
+    "phone": "(309) 924-1872",
+    "url": "https://www.familyoutreachcommunitycenter.org/",
+    "categorySlug": "community",
+    "zipCode": "61480"
+  },
+  {
+    "name": "Interfaith Assistance Ministry – Henderson County",
+    "description": "Nonprofit providing food assistance via mobile pantry and emergency help to Henderson County residents since 1984, established by local churches.",
+    "address": "410 E Main St, Stronghurst, IL 61480",
+    "phone": "(309) 924-1872",
+    "url": "https://www.iam-hc.org/",
+    "categorySlug": "food",
+    "zipCode": "61480"
+  },
+  {
+    "name": "Bureau County CEFS Economic Opportunity Corporation",
+    "description": "Community action agency serving Bureau County with Head Start, emergency assistance, utility aid, and weatherization programs for low-income families.",
+    "address": "303 SE 2nd St, Galva, IL 61434",
+    "phone": "(309) 932-2101",
+    "url": "https://www.cefseoc.org",
+    "categorySlug": "community",
+    "zipCode": "61434"
+  },
+  {
+    "name": "Henry & Stark County Health Department",
+    "description": "Public health department serving Henry and Stark counties with community health services, health programs, and resource referrals for residents of Kewanee and surrounding areas.",
+    "address": "4765 US-34, Kewanee, IL 61443",
+    "phone": "(309) 852-0197",
+    "url": "https://henrystarkhealth.com/",
+    "categorySlug": "healthcare",
+    "zipCode": "61443"
+  },
+  {
+    "name": "Kewanee Area United Way",
+    "description": "United Way chapter mobilizing community resources to improve lives in Henry County, connecting residents to food assistance, health, and social services.",
+    "address": "112 N Chestnut St, Kewanee, IL 61443",
+    "phone": "(309) 853-3936",
+    "url": "https://kauw.org/",
+    "categorySlug": "community",
+    "zipCode": "61443"
+  },
+  {
+    "name": "Kewanee Community Food Pantry",
+    "description": "Food pantry serving Kewanee and the surrounding Bureau County area with emergency food boxes and referrals to other community resources.",
+    "address": "304 N Tremont St, Kewanee, IL 61443",
+    "phone": "(309) 853-3511",
+    "url": "https://www.kewaneepantry.org",
+    "categorySlug": "food",
+    "zipCode": "61443"
+  },
+  {
+    "name": "Kewanee Public Hospital – Community Health",
+    "description": "Critical access hospital in Kewanee providing primary care, emergency services, and community health programs for western Bureau County.",
+    "address": "719 Elliott St, Kewanee, IL 61443",
+    "phone": "(309) 853-3361",
+    "url": "https://www.kewaneehospital.com",
+    "categorySlug": "healthcare",
+    "zipCode": "61443"
+  },
+  {
+    "name": "The Bread Basket Food Pantry – Watseka",
+    "description": "Food pantry in Watseka serving Iroquois County residents by appointment with free groceries for those experiencing food insecurity.",
+    "address": "121 W Walnut St, Watseka, IL 60970",
+    "phone": "(815) 450-1461",
+    "url": "https://www.kanihelp.org/resources/bread-basket-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "60970"
+  },
+  {
+    "name": "Volunteer Services of Iroquois County",
+    "description": "Nonprofit providing volunteer-based senior info services and community assistance programs to Iroquois County residents in Watseka.",
+    "address": "302 E Walnut St, Watseka, IL 60970",
+    "phone": "(815) 432-4935",
+    "url": "https://www.volunteerservices-iroquois-co.com/",
+    "categorySlug": "community",
+    "zipCode": "60970"
+  },
+  {
+    "name": "Watseka United Methodist Church Food Pantry",
+    "description": "Church-based emergency food pantry serving Iroquois County residents; call ahead Monday through Friday to arrange food pickup the same day.",
+    "address": "223 E Walnut St, Watseka, IL 60970",
+    "phone": "(815) 432-4903",
+    "url": "https://www.eifoodbank.org/help/iroquoiscounty.html",
+    "categorySlug": "food",
+    "zipCode": "60970"
+  },
+  {
+    "name": "Jersey County Health Department",
+    "description": "County health department in Jerseyville providing public health services, WIC, and community resource referrals for Jersey County residents.",
+    "address": "1307 IL-109, Jerseyville, IL 62052",
+    "phone": "(618) 498-9565",
+    "url": "https://www.jerseycountyhealth.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "62052"
+  },
+  {
+    "name": "Jersey Township Food Pantry",
+    "description": "Food pantry serving Jersey County residents with free groceries distributed Monday, Wednesday, and Friday; residents may visit once per month.",
+    "address": "720 State Highway 16, Jerseyville, IL 62052",
+    "phone": "(618) 498-3719",
+    "url": "https://www.jerseycountyhealth.org/resources",
+    "categorySlug": "food",
+    "zipCode": "62052"
+  },
+  {
+    "name": "Galena Food Pantry",
+    "description": "Local food pantry serving Jo Daviess County residents in the Galena area with free groceries for individuals and families experiencing food insecurity.",
+    "address": "304 N High St, Galena, IL 61036",
+    "phone": "(815) 777-1388",
+    "url": "https://www.jodaviesscountyil.gov",
+    "categorySlug": "food",
+    "zipCode": "61036"
+  },
+  {
+    "name": "Jo Daviess Local Foods (JDLF)",
+    "description": "Local food hub and online farmers market in Jo Daviess County supporting food access and connecting community members to local food sources year-round.",
+    "address": "2757 W Headquarters Rd, Elizabeth, IL 61028",
+    "phone": "(815) 990-5374",
+    "url": "https://www.jdlf.org/",
+    "categorySlug": "food",
+    "zipCode": "61028"
+  },
+  {
+    "name": "Community Crisis Center",
+    "description": "Provides 24-hour emergency services including domestic violence shelter, sexual assault support, emergency food pantry, rent and utility assistance for northern Kane County residents.",
+    "address": "37 S Geneva St, Elgin, IL 60120",
+    "phone": "(847) 697-2380",
+    "url": "https://www.crisiscenter.org/",
+    "categorySlug": "housing",
+    "zipCode": "60120"
+  },
+  {
+    "name": "Elgin Township Community Assistance",
+    "description": "Township assistance office in Elgin providing emergency financial aid, food referrals, and social services to low-income Kane County residents.",
+    "address": "217 E Chicago St, Elgin, IL 60120",
+    "phone": "(847) 741-2141",
+    "url": "https://elgintownship.com/services/community-assistance/",
+    "categorySlug": "community",
+    "zipCode": "60120"
+  },
+  {
+    "name": "Food for Greater Elgin",
+    "description": "Nonprofit fighting food insecurity in the greater Elgin area by providing access to fresh, quality groceries regardless of immigration status, language, or background.",
+    "address": "1553 Commerce Dr, Elgin, IL 60123",
+    "phone": "(847) 931-9330",
+    "url": "https://foodforgreaterelgin.org/",
+    "categorySlug": "food",
+    "zipCode": "60123"
+  },
+  {
+    "name": "Northern Illinois Food Bank – DeKalb Distribution",
+    "description": "Regional food bank distribution point in DeKalb County serving Northern Illinois communities with food pantry support and direct distribution programs.",
+    "address": "273 Dearborn Ct, Geneva, IL 60134",
+    "phone": "(630) 443-6910",
+    "url": "https://www.solvehungertoday.org",
+    "categorySlug": "food",
+    "zipCode": "60134"
+  },
+  {
+    "name": "Northern Illinois Food Bank – Geneva Distribution Center",
+    "description": "Regional food bank serving 13 northern Illinois counties including Kane County, distributing 250,000 meals per day through a network of over 900 partner pantries.",
+    "address": "273 Dearborn Ct, Geneva, IL 60134",
+    "phone": "(630) 443-6910",
+    "url": "https://solvehungertoday.org/",
+    "categorySlug": "food",
+    "zipCode": "60134"
+  },
+  {
+    "name": "Wayside Cross Ministries – Elgin Wayside Center",
+    "description": "Emergency shelter providing food, clothing, showers, laundry, and supportive services to homeless individuals in Elgin and the Kane County area.",
+    "address": "1732 Berkley St, Elgin, IL 60123",
+    "phone": "(847) 695-4405",
+    "url": "https://www.waysidecross.org/homeless-shelter/",
+    "categorySlug": "housing",
+    "zipCode": "60123"
+  },
+  {
+    "name": "Kankakee County Community Services (KCCSI)",
+    "description": "Community action agency providing food pantry, energy assistance, housing support, and social services to low-income Kankakee County residents.",
+    "address": "657 E Court St Suite 207, Kankakee, IL 60901",
+    "phone": "(815) 933-7883",
+    "url": "https://kccsi-cap.org/",
+    "categorySlug": "community",
+    "zipCode": "60901"
+  },
+  {
+    "name": "Kankakee County Health Department – WIC",
+    "description": "Public health services provider for Kankakee County offering WIC nutrition assistance, immunizations, and community health programs.",
+    "address": "2390 W Station St, Kankakee, IL 60901",
+    "phone": "(815) 802-7750",
+    "url": "https://kankakeehealth.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "60901"
+  },
+  {
+    "name": "The Salvation Army – Kankakee",
+    "description": "Provides emergency food pantry, utility and rent assistance, and seasonal programs to individuals and families in need in Kankakee County.",
+    "address": "296 S Schuyler Ave, Kankakee, IL 60901",
+    "phone": "(815) 932-2141",
+    "url": "https://centralusa.salvationarmy.org/",
+    "categorySlug": "community",
+    "zipCode": "60901"
+  },
+  {
+    "name": "Kendall County Community Food Pantry",
+    "description": "Free food pantry distributing groceries to Kendall County, DeKalb, and LaSalle county residents on Thursdays, with a satellite location in Oswego on Fridays.",
+    "address": "208 Beaver St, Yorkville, IL 60560",
+    "phone": "(630) 553-0473",
+    "url": "https://kccfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "60560"
+  },
+  {
+    "name": "FISH of Galesburg",
+    "description": "Emergency food pantry serving Knox County since 1970, providing non-perishable and frozen foods plus vouchers for milk and eggs to over 14,000 individuals annually.",
+    "address": "876 W Main St Suite A, Galesburg, IL 61401",
+    "phone": "(309) 343-7807",
+    "url": "https://fishofgalesburg.org/",
+    "categorySlug": "food",
+    "zipCode": "61401"
+  },
+  {
+    "name": "Greater Galesburg Community Action – Warren County",
+    "description": "Community action agency providing Head Start, energy assistance, emergency food, and anti-poverty programs for low-income residents of Warren County including Monmouth and Alexis.",
+    "address": "156 E Simmons St, Galesburg, IL 61401",
+    "phone": "(309) 343-4194",
+    "url": "https://www.ggcaa.org",
+    "categorySlug": "community",
+    "zipCode": "61401"
+  },
+  {
+    "name": "River Bend Food Bank – Henry County Distribution",
+    "description": "Regional food bank serving Henry County and surrounding counties with mobile food pantries and agency partner network distribution of free groceries.",
+    "address": "876 W Main St, Galesburg, IL 61401",
+    "phone": "(309) 343-4270",
+    "url": "https://riverbendfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "61401"
+  },
+  {
+    "name": "The Salvation Army 360 Life Center – Galesburg & Knox County",
+    "description": "Provides food pantry, homeless prevention assistance, utility and rent aid, and community services to residents of Knox County and surrounding areas.",
+    "address": "510 N Kellogg St, Galesburg, IL 61401",
+    "phone": "(309) 342-9168",
+    "url": "https://centralusa.salvationarmy.org/360lifecenters/galesburg/",
+    "categorySlug": "community",
+    "zipCode": "61401"
+  },
+  {
+    "name": "Community Food Basket of Ottawa",
+    "description": "Food pantry serving Ottawa and surrounding LaSalle County communities since 1998 with free client-choice groceries on Tuesdays and Thursdays.",
+    "address": "725 Fulton St, Ottawa, IL 61350",
+    "phone": "(815) 431-0155",
+    "url": "https://www.ottawafoodbasket.org/",
+    "categorySlug": "food",
+    "zipCode": "61350"
+  },
+  {
+    "name": "Illinois Valley Community Hospital – Social Services",
+    "description": "Community hospital in Peru serving Bureau County and surrounding areas with inpatient and outpatient care, and social services navigation for uninsured patients.",
+    "address": "925 West St, Peru, IL 61354",
+    "phone": "(815) 223-3300",
+    "url": "https://www.ivch.org",
+    "categorySlug": "healthcare",
+    "zipCode": "61354"
+  },
+  {
+    "name": "IV PADS – LaSalle County Emergency Shelter",
+    "description": "Emergency shelter serving Ottawa and Peru areas in LaSalle County, open to both male and female adults and families needing temporary housing.",
+    "address": "Ottawa, IL 61350",
+    "phone": "(815) 433-5683",
+    "url": "https://www.lasallecountymentalhealth.org/find-help",
+    "categorySlug": "housing",
+    "zipCode": "61350"
+  },
+  {
+    "name": "Safe Journeys – LaSalle County Domestic Violence",
+    "description": "Provides 24-hour crisis line, emergency shelter, legal and medical advocacy, and supportive counseling to domestic and sexual violence survivors in LaSalle and Livingston counties.",
+    "address": "Ottawa, IL 61350",
+    "phone": "(815) 433-5683",
+    "url": "https://www.safejourneys.org/",
+    "categorySlug": "housing",
+    "zipCode": "61350"
+  },
+  {
+    "name": "Somonauk Community Food Pantry",
+    "description": "Faith-based food pantry in Somonauk providing monthly food assistance to low-income families in the southern DeKalb County area.",
+    "address": "201 N Depot St, Somonauk, IL 60552",
+    "phone": "(815) 498-2228",
+    "url": "https://www.somonaukil.org",
+    "categorySlug": "food",
+    "zipCode": "60552"
+  },
+  {
+    "name": "The Salvation Army 360 Life Center – Streator & Livingston",
+    "description": "Provides food pantry, emergency financial assistance, and social services to residents in Livingston County and the Streator area.",
+    "address": "301 E Bridge St, Streator, IL 61364",
+    "phone": "(815) 672-2363",
+    "url": "https://centralusa.salvationarmy.org/360lifecenters/",
+    "categorySlug": "community",
+    "zipCode": "61364"
+  },
+  {
+    "name": "Tri-County Opportunities Council",
+    "description": "Community action agency serving LaSalle, Bureau, Lee, and six other counties with food assistance, housing, energy assistance, Head Start, and employment services.",
+    "address": "308 N 30th Rd, LaSalle, IL 61301",
+    "phone": "(815) 625-7830",
+    "url": "https://tcochelps.org/",
+    "categorySlug": "community",
+    "zipCode": "61301"
+  },
+  {
+    "name": "Lake County Haven",
+    "description": "Empowers homeless women and their children to achieve permanent independent living through transitional shelter homes in Libertyville, offering comprehensive wrap-around services.",
+    "address": "PO Box 127, Libertyville, IL 60048",
+    "phone": "(847) 680-5408",
+    "url": "https://lakecountyhaven.org/",
+    "categorySlug": "housing",
+    "zipCode": "60048"
+  },
+  {
+    "name": "Lake County Health Department and Community Health Center",
+    "description": "Federally Qualified Health Center and accredited public health department providing primary care, behavioral health, maternal care, and preventive services across multiple Lake County sites.",
+    "address": "3010 Grand Ave, Waukegan, IL 60085",
+    "phone": "(847) 377-8800",
+    "url": "https://www.lakecountyil.gov/4917/Health-Department-Community-Health-Cente",
+    "categorySlug": "healthcare",
+    "zipCode": "60085"
+  },
+  {
+    "name": "PADS Lake County",
+    "description": "Point of entry for all homeless services in Lake County, providing a day resource center, emergency shelter (rotating sites October–April), and supportive housing programs.",
+    "address": "1800 Grand Ave, Waukegan, IL 60085",
+    "phone": "(847) 689-4357",
+    "url": "https://padslakecounty.org/",
+    "categorySlug": "housing",
+    "zipCode": "60085"
+  },
+  {
+    "name": "Waukegan Township Community Pantry Resources",
+    "description": "Waukegan Township coordinates emergency food pantry referrals and community assistance resources for Waukegan and Lake County residents.",
+    "address": "415 Washington St, Waukegan, IL 60085",
+    "phone": "(847) 623-9166",
+    "url": "https://www.waukegantownship.com/270/Resources",
+    "categorySlug": "food",
+    "zipCode": "60085"
+  },
+  {
+    "name": "Dixon Community Food Pantry",
+    "description": "Drive-up food pantry serving Lee County residents with free groceries, household supplies, and pet food on Mondays, Wednesdays, and Fridays.",
+    "address": "2001 W Fourth St, Dixon, IL 61021",
+    "phone": "(815) 288-4848",
+    "url": "https://www.lchd.com/resources/",
+    "categorySlug": "food",
+    "zipCode": "61021"
+  },
+  {
+    "name": "Lee County Health Department",
+    "description": "County health department providing public health services, community resources, WIC, and health program referrals to Lee County residents.",
+    "address": "309 S Hennepin Ave, Dixon, IL 61021",
+    "phone": "(815) 284-3371",
+    "url": "https://www.lchd.com/",
+    "categorySlug": "healthcare",
+    "zipCode": "61021"
+  },
+  {
+    "name": "Livingston County Community Pantry",
+    "description": "Free food pantry serving Livingston County residents in Pontiac, open Mondays, Wednesdays, and Saturdays to provide groceries to those experiencing food insecurity.",
+    "address": "420 N Plum St, Pontiac, IL 61764",
+    "phone": "(815) 844-1039",
+    "url": "https://www.pontiac.org/739/Livingston-County-Food-Pantries",
+    "categorySlug": "food",
+    "zipCode": "61764"
+  },
+  {
+    "name": "Staunton Helping Hands Resource Center",
+    "description": "Food pantry and community resource center in Staunton serving Macoupin County residents on Tuesdays, Wednesdays, and the last Saturday of each month.",
+    "address": "219 W Main St, Staunton, IL 62088",
+    "phone": "(618) 635-7037",
+    "url": "https://macoupincountyil.gov/",
+    "categorySlug": "food",
+    "zipCode": "62088"
+  },
+  {
+    "name": "Catholic Charities – Alton & Granite City",
+    "description": "Provides food pantry (Guardian Angel Food Pantry), social services, and emergency assistance to Madison County residents in the Alton and Granite City areas.",
+    "address": "3512 McArthur Blvd, Alton, IL 62002",
+    "phone": "(618) 462-0634",
+    "url": "https://cc.dio.org/locations/alton",
+    "categorySlug": "food",
+    "zipCode": "62002"
+  },
+  {
+    "name": "Community Care Center – Granite City",
+    "description": "Provides free food pantry, soup kitchen, senior food box delivery, and clothing assistance to Granite City, Madison, Venice, and Pontoon Beach residents in Madison County.",
+    "address": "1818 Cleveland Blvd, Granite City, IL 62040",
+    "phone": "(618) 876-8770",
+    "url": "https://www.gccommunitycarecenter.org/",
+    "categorySlug": "food",
+    "zipCode": "62040"
+  },
+  {
+    "name": "Gateway Regional Medical Center – Financial Assistance",
+    "description": "Regional hospital serving southwestern Illinois including Clinton County, offering sliding-scale financial assistance and charity care for uninsured patients.",
+    "address": "2100 Madison Ave, Granite City, IL 62040",
+    "phone": "(618) 798-3000",
+    "url": "https://www.gatewayregional.net",
+    "categorySlug": "healthcare",
+    "zipCode": "62040"
+  },
+  {
+    "name": "Land of Lincoln Legal Aid",
+    "description": "Nonprofit legal aid organization offering free civil legal services to low-income individuals in Jersey County, including housing and eviction prevention.",
+    "address": "331 Piasa St, Alton, IL 62002",
+    "phone": "(618) 462-0029",
+    "url": "https://www.lollaf.org/",
+    "categorySlug": "community",
+    "zipCode": "62002"
+  },
+  {
+    "name": "Madison County Community Development – CSBG Program",
+    "description": "Madison County government-administered Community Services Block Grant program funding food assistance, emergency services, and anti-poverty initiatives countywide.",
+    "address": "157 N Main St Suite 131, Edwardsville, IL 62025",
+    "phone": "(618) 296-4488",
+    "url": "https://www.madisoncountyil.gov/departments/community_development/csbgprogram.php",
+    "categorySlug": "community",
+    "zipCode": "62025"
+  },
+  {
+    "name": "River Bend Growth Association",
+    "description": "Economic development and community services organization serving the river-bend area of Calhoun and Greene counties with workforce and social support programs.",
+    "address": "101 N 4th St, Alton, IL 62002",
+    "phone": "(618) 465-2300",
+    "url": "https://www.growthassociation.com",
+    "categorySlug": "community",
+    "zipCode": "62002"
+  },
+  {
+    "name": "Riverbend Family Ministries",
+    "description": "Community action organization in Madison County providing utility assistance, housing support, and collaborative social services for families and individuals in Alton, Granite City, and Edwardsville.",
+    "address": "131 E Ferguson Ave, Wood River, IL 62095",
+    "phone": "(618) 251-9790",
+    "url": "https://riverbendfamilyministries.com/",
+    "categorySlug": "community",
+    "zipCode": "62095"
+  },
+  {
+    "name": "Koinonia Food Pantry – Lacon",
+    "description": "Food pantry in Lacon serving Marshall County residents on Saturdays from 9 a.m. to noon with free groceries available once per month.",
+    "address": "405 N Washington St, Lacon, IL 61540",
+    "phone": "(309) 238-1246",
+    "url": "https://www.facebook.com/koinoniafoodpantry/",
+    "categorySlug": "food",
+    "zipCode": "61540"
+  },
+  {
+    "name": "Western Illinois Regional Council – Community Action",
+    "description": "Regional council providing social services, food assistance referrals, crisis counseling, and community development programs across western Illinois counties including Hancock and Henderson.",
+    "address": "133 West Jackson Street, Macomb, IL 61455",
+    "phone": "(309) 837-2997",
+    "url": "https://wirpc.org/",
+    "categorySlug": "community",
+    "zipCode": "61455"
+  },
+  {
+    "name": "Western Illinois Regional Council – Good Food Pantry (Macomb)",
+    "description": "Choice-based food pantry operated by WIRC serving over 1,000 McDonough County households with approximately two weeks of free groceries every 30 days.",
+    "address": "133 W Jackson St, Macomb, IL 61455",
+    "phone": "(309) 313-2049",
+    "url": "https://wirpc.org/category/social-services/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "61455"
+  },
+  {
+    "name": "Crystal Lake Food Pantry",
+    "description": "Free food pantry serving McHenry County residents with groceries, a diaper bank, and a Senior Box Program; open Monday, Wednesday, Friday, and Saturday.",
+    "address": "42 East St, Crystal Lake, IL 60014",
+    "phone": "(815) 455-9380",
+    "url": "https://clfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "60014"
+  },
+  {
+    "name": "McHenry County Department of Health – Family Case Management",
+    "description": "County health department offering maternal and child health services, immunizations, and family case management programs for McHenry County residents.",
+    "address": "2200 N Seminary Ave, Woodstock, IL 60098",
+    "phone": "(815) 334-4510",
+    "url": "https://www.mchenrycountyil.gov/county-government/departments-j-z/public-health",
+    "categorySlug": "healthcare",
+    "zipCode": "60098"
+  },
+  {
+    "name": "The Salvation Army – Crystal Lake & McHenry County",
+    "description": "Provides emergency food pantry, daily bread and pastry distribution, and financial assistance to individuals in need throughout McHenry County.",
+    "address": "285 N McHenry Ave, Crystal Lake, IL 60050",
+    "phone": "(815) 455-2769",
+    "url": "https://centralusa.salvationarmy.org/mchenry/",
+    "categorySlug": "community",
+    "zipCode": "60050"
+  },
+  {
+    "name": "Turning Point – McHenry County Crisis Services",
+    "description": "Crisis intervention, domestic violence shelter, and sexual assault services for McHenry County residents including communities in Spring Grove and Wonder Lake.",
+    "address": "400 N Virginia St, Crystal Lake, IL 60014",
+    "phone": "(847) 775-8181",
+    "url": "https://www.turningpointmchenry.org",
+    "categorySlug": "housing",
+    "zipCode": "60014"
+  },
+  {
+    "name": "Turning Point – McHenry County Domestic Violence Services",
+    "description": "Free domestic violence shelter and services for McHenry County residents, offering 24/7 crisis hotline, emergency shelter, legal advocacy, and counseling.",
+    "address": "Woodstock, IL 60098",
+    "phone": "(815) 338-8081",
+    "url": "https://turnpt.org/",
+    "categorySlug": "housing",
+    "zipCode": "60098"
+  },
+  {
+    "name": "Woodstock Food Pantry",
+    "description": "Community food pantry in Woodstock providing free food and personal products to McHenry County residents in need, supported by a coalition of local churches.",
+    "address": "327 Dean St, Woodstock, IL 60098",
+    "phone": "(815) 338-0780",
+    "url": "https://www.woodstockfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "60098"
+  },
+  {
+    "name": "Baby TALK",
+    "description": "Early intervention and family support program in Bloomington-Normal helping parents of infants and toddlers build parenting skills and connect to community resources.",
+    "address": "610 E Washington St, Bloomington, IL 61701",
+    "phone": "(309) 827-5255",
+    "url": "https://www.babytalk.org",
+    "categorySlug": "community",
+    "zipCode": "61701"
+  },
+  {
+    "name": "BroMenn Medical Center – Community Benefit",
+    "description": "Regional hospital in Normal offering charity care, financial assistance programs, and community health initiatives for McLean County residents regardless of ability to pay.",
+    "address": "1304 Franklin Ave, Normal, IL 61761",
+    "phone": "(309) 454-1400",
+    "url": "https://www.osfsaintjames.org",
+    "categorySlug": "healthcare",
+    "zipCode": "61761"
+  },
+  {
+    "name": "Food for People – McLean County Food Bank",
+    "description": "Food bank serving McLean County residents through food pantry distributions, mobile food programs, and partnerships with local pantries in Bloomington, Normal, Chenoa, and Lexington.",
+    "address": "505 W Front St, Bloomington, IL 61701",
+    "phone": "(309) 827-6498",
+    "url": "https://www.foodforpeoplemc.org",
+    "categorySlug": "food",
+    "zipCode": "61701"
+  },
+  {
+    "name": "Heart of Illinois United Way",
+    "description": "United Way chapter serving McLean, Woodford, and Tazewell counties connecting residents to health, education, and financial stability resources including food and shelter referrals.",
+    "address": "201 E Grove St, Bloomington, IL 61701",
+    "phone": "(309) 827-0428",
+    "url": "https://www.heartofil.org",
+    "categorySlug": "community",
+    "zipCode": "61701"
+  },
+  {
+    "name": "Heartland Community College – Social Services",
+    "description": "Community college in Normal providing workforce development, adult education, and connection to local social service resources for McLean County residents.",
+    "address": "1500 W Raab Rd, Normal, IL 61761",
+    "phone": "(309) 268-8000",
+    "url": "https://www.heartland.edu",
+    "categorySlug": "community",
+    "zipCode": "61761"
+  },
+  {
+    "name": "Illinois State University – Student Services Food Pantry",
+    "description": "Food pantry at Illinois State University in Normal providing emergency food assistance to students and community members experiencing food insecurity.",
+    "address": "100 N University St, Normal, IL 61761",
+    "phone": "(309) 438-2111",
+    "url": "https://deanofstudents.illinoisstate.edu/assistance",
+    "categorySlug": "food",
+    "zipCode": "61761"
+  },
+  {
+    "name": "McLean County Center for Human Services",
+    "description": "County-operated social services agency in Bloomington providing mental health, developmental disability, and substance abuse services for Stanford, Towanda, and all McLean County residents.",
+    "address": "108 W Market St, Bloomington, IL 61701",
+    "phone": "(309) 827-5351",
+    "url": "https://www.mcleancountychs.org",
+    "categorySlug": "community",
+    "zipCode": "61701"
+  },
+  {
+    "name": "McLean County Health Department",
+    "description": "Public health services including immunizations, communicable disease prevention, WIC nutrition program, and community health education for all McLean County residents.",
+    "address": "200 W Front St, Bloomington, IL 61701",
+    "phone": "(309) 888-5450",
+    "url": "https://health.mcleancountyil.gov",
+    "categorySlug": "healthcare",
+    "zipCode": "61701"
+  },
+  {
+    "name": "PATH Crisis Center",
+    "description": "Mental health crisis center in Bloomington providing 24-hour crisis intervention, suicide prevention, and community mental health services for McLean County residents.",
+    "address": "502 W Front St, Bloomington, IL 61701",
+    "phone": "(309) 827-4005",
+    "url": "https://www.pathcrisiscenter.org",
+    "categorySlug": "healthcare",
+    "zipCode": "61701"
+  },
+  {
+    "name": "Salvation Army – Bloomington Corps",
+    "description": "Provides emergency food, utility assistance, shelter referrals, and holiday programs for individuals and families in Bloomington and Normal.",
+    "address": "612 W Washington St, Bloomington, IL 61701",
+    "phone": "(309) 828-1582",
+    "url": "https://centralusa.salvationarmy.org/bloomington",
+    "categorySlug": "community",
+    "zipCode": "61701"
+  },
+  {
+    "name": "Mercer County Food Pantry",
+    "description": "Community food pantry serving Aledo and Mercer County residents with monthly food distributions and emergency food assistance for low-income families.",
+    "address": "306 SE 3rd St, Aledo, IL 61231",
+    "phone": "(309) 582-2238",
+    "url": "https://www.mercercountyfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "61231"
+  },
+  {
+    "name": "Mercer County Health Department",
+    "description": "Local public health agency in Aledo providing immunizations, disease prevention, home health services, and WIC nutrition assistance for Mercer County residents.",
+    "address": "804 SE 2nd Ave, Aledo, IL 61231",
+    "phone": "(309) 582-3759",
+    "url": "https://www.co.mercer.il.us/county-departments/health-department",
+    "categorySlug": "healthcare",
+    "zipCode": "61231"
+  },
+  {
+    "name": "Monroe County Health Department",
+    "description": "Public health agency in Waterloo providing immunizations, environmental health, vital records, and community health programs for Monroe County residents.",
+    "address": "901 Illinois Ave, Waterloo, IL 62298",
+    "phone": "(618) 939-3871",
+    "url": "https://www.monroecountyhealth.org",
+    "categorySlug": "healthcare",
+    "zipCode": "62298"
+  },
+  {
+    "name": "St. Paul Catholic Church Food Pantry – Waterloo",
+    "description": "Faith-based food pantry in Waterloo distributing food to Monroe County residents facing hunger, with monthly distributions of canned goods, fresh produce, and staples.",
+    "address": "157 E Third St, Waterloo, IL 62298",
+    "phone": "(618) 939-3834",
+    "url": "https://www.stpaulwaterloo.org",
+    "categorySlug": "food",
+    "zipCode": "62298"
+  },
+  {
+    "name": "Waterloo Food Pantry – Monroe County",
+    "description": "Food pantry serving Waterloo and Monroe County residents with regular food distributions providing groceries and household essentials to families in need.",
+    "address": "310 N Main St, Waterloo, IL 62298",
+    "phone": "(618) 939-3428",
+    "url": "https://www.monroecountyfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "62298"
+  },
+  {
+    "name": "Coffeen Food Bank",
+    "description": "Small community food pantry in Coffeen providing emergency food assistance to residents of western Montgomery County including Butler and Coffeen.",
+    "address": "210 Main St, Coffeen, IL 62017",
+    "phone": "(217) 534-3011",
+    "url": "https://www.coffeenunitedmethodist.org",
+    "categorySlug": "food",
+    "zipCode": "62017"
+  },
+  {
+    "name": "Feitshans Workforce Center – Montgomery County",
+    "description": "Illinois Department of Employment Security workforce center serving Litchfield and Montgomery County residents with job placement, unemployment assistance, and career services.",
+    "address": "111 W State St, Litchfield, IL 62056",
+    "phone": "(217) 324-4334",
+    "url": "https://www.illinoisworknet.com",
+    "categorySlug": "community",
+    "zipCode": "62056"
+  },
+  {
+    "name": "Hillsboro Area Community Food Pantry",
+    "description": "Food pantry in Hillsboro serving Montgomery County residents including Nokomis and Butler with monthly food distributions and emergency assistance.",
+    "address": "526 S Main St, Hillsboro, IL 62049",
+    "phone": "(217) 532-3421",
+    "url": "https://www.hillsborofoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "62049"
+  },
+  {
+    "name": "Litchfield Area Food Pantry",
+    "description": "Community food pantry in Litchfield providing groceries and emergency food assistance to residents of Litchfield and surrounding Montgomery County communities.",
+    "address": "200 N Ottawa St, Litchfield, IL 62056",
+    "phone": "(217) 324-4334",
+    "url": "https://www.litchfieldfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "62056"
+  },
+  {
+    "name": "Montgomery County Health Department",
+    "description": "Public health agency in Hillsboro providing immunizations, disease surveillance, WIC nutrition services, and environmental health programs for Montgomery County residents.",
+    "address": "1200 N Main St, Hillsboro, IL 62049",
+    "phone": "(217) 532-6416",
+    "url": "https://www.montgomeryhealth.org",
+    "categorySlug": "healthcare",
+    "zipCode": "62049"
+  },
+  {
+    "name": "Nokomis Community Food Pantry",
+    "description": "Local food pantry in Nokomis serving southeastern Montgomery County residents with regular food distributions and referrals to additional social services.",
+    "address": "120 N Cedar St, Nokomis, IL 62075",
+    "phone": "(217) 563-2421",
+    "url": "https://www.nokomisil.org",
+    "categorySlug": "food",
+    "zipCode": "62075"
+  },
+  {
+    "name": "Moultrie County Food Pantry",
+    "description": "Community food pantry in Sullivan serving Moultrie County residents including Bethany and Dalton City with regular food distributions and emergency food assistance.",
+    "address": "101 W Harrison St, Sullivan, IL 61951",
+    "phone": "(217) 728-7291",
+    "url": "https://www.moultriecountyfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "61951"
+  },
+  {
+    "name": "Moultrie County Health Department",
+    "description": "Local public health agency in Sullivan providing immunizations, WIC nutrition services, disease prevention, and community health programs for Moultrie County residents.",
+    "address": "310 W Harrison St, Sullivan, IL 61951",
+    "phone": "(217) 728-4114",
+    "url": "https://www.moultriecountyhealth.org",
+    "categorySlug": "healthcare",
+    "zipCode": "61951"
+  },
+  {
+    "name": "Sullivan Food Pantry – First United Methodist Church",
+    "description": "Faith-based food pantry in Sullivan providing monthly groceries and emergency food assistance to individuals and families throughout Moultrie County.",
+    "address": "201 W Water St, Sullivan, IL 61951",
+    "phone": "(217) 728-4612",
+    "url": "https://www.sullivanfumc.org",
+    "categorySlug": "food",
+    "zipCode": "61951"
+  },
+  {
+    "name": "Mount Morris Food Pantry",
+    "description": "Community food pantry in Mount Morris serving northern Ogle County residents with monthly food distributions and emergency food assistance for families.",
+    "address": "105 W Lincoln Ave, Mount Morris, IL 61054",
+    "phone": "(815) 734-6004",
+    "url": "https://www.mtmorrischurch.org",
+    "categorySlug": "food",
+    "zipCode": "61054"
+  },
+  {
+    "name": "Northwest Illinois Community Action Agency – Ogle County",
+    "description": "Community action agency providing Head Start, energy assistance, housing support, and anti-poverty programs for low-income residents of Ogle County.",
+    "address": "422 Green St, Polo, IL 61064",
+    "phone": "(815) 946-2271",
+    "url": "https://www.nwicaa.org",
+    "categorySlug": "community",
+    "zipCode": "61064"
+  },
+  {
+    "name": "Ogle County Food Pantry – Oregon",
+    "description": "Community food pantry in Oregon serving Ogle County residents with monthly food distributions, providing groceries and household essentials to those in need.",
+    "address": "201 N 4th St, Oregon, IL 61061",
+    "phone": "(815) 732-3191",
+    "url": "https://www.oglecountyfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "61061"
+  },
+  {
+    "name": "Ogle County Health Department",
+    "description": "Public health agency providing immunizations, WIC nutrition services, disease prevention, and community health programs for residents throughout Ogle County.",
+    "address": "907 W Pines Rd, Oregon, IL 61061",
+    "phone": "(815) 732-1111",
+    "url": "https://www.oglecountyhealth.org",
+    "categorySlug": "healthcare",
+    "zipCode": "61061"
+  },
+  {
+    "name": "Opportunity House – Rochelle",
+    "description": "Social services organization in Rochelle offering emergency assistance, housing support, and community programs for Ogle County residents including families in crisis.",
+    "address": "321 May Mart Dr, Rochelle, IL 61068",
+    "phone": "(815) 562-3506",
+    "url": "https://www.opportunityhouseinc.org",
+    "categorySlug": "housing",
+    "zipCode": "61068"
+  },
+  {
+    "name": "Rochelle Community Food Pantry",
+    "description": "Food pantry in Rochelle providing emergency food assistance to Ogle County residents including those in Polo, Stillman Valley, and Mount Morris.",
+    "address": "315 Lincoln Hwy, Rochelle, IL 61068",
+    "phone": "(815) 562-6232",
+    "url": "https://www.rochellefoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "61068"
+  },
+  {
+    "name": "Dream Center Peoria",
+    "description": "Community center in Peoria providing food pantry, clothing, youth programs, and wrap-around social services for underserved neighborhoods in Peoria County.",
+    "address": "2108 N Wisconsin Ave, Peoria, IL 61603",
+    "phone": "(309) 671-7325",
+    "url": "https://www.dreamcenterpeoria.org",
+    "categorySlug": "community",
+    "zipCode": "61603"
+  },
+  {
+    "name": "Heart of Illinois Community Health Center",
+    "description": "Federally Qualified Health Center in Peoria providing primary care, dental, behavioral health, and pharmacy services on a sliding fee scale for uninsured and underinsured patients.",
+    "address": "2600 N Knoxville Ave, Peoria, IL 61604",
+    "phone": "(309) 682-4000",
+    "url": "https://www.heartofil.com",
+    "categorySlug": "healthcare",
+    "zipCode": "61604"
+  },
+  {
+    "name": "Midwest Food Bank – Peoria",
+    "description": "Faith-based food bank in Peoria distributing food to partner agencies across central Illinois at no cost, serving hundreds of thousands of meals annually.",
+    "address": "2031 Warehouse Rd, Bloomington, IL 61705",
+    "phone": "(309) 663-5350",
+    "url": "https://www.midwestfoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "61604"
+  },
+  {
+    "name": "Peoria Area Community Foundation – Basic Needs Fund",
+    "description": "Community foundation in Peoria coordinating grants and resources to support food, shelter, and essential services for vulnerable residents of Peoria County.",
+    "address": "331 Fulton St, Ste 310, Peoria, IL 61602",
+    "phone": "(309) 674-8730",
+    "url": "https://www.peoriaareacf.org",
+    "categorySlug": "community",
+    "zipCode": "61602"
+  },
+  {
+    "name": "Peoria City/County Health Department",
+    "description": "Local public health department providing immunizations, disease prevention, WIC nutrition services, HIV testing, and community health programs for Peoria County.",
+    "address": "2116 N Sheridan Rd, Peoria, IL 61604",
+    "phone": "(309) 679-6000",
+    "url": "https://www.pcchd.org",
+    "categorySlug": "healthcare",
+    "zipCode": "61604"
+  },
+  {
+    "name": "Princeville Food Pantry",
+    "description": "Local food pantry in Princeville serving rural northern Peoria County residents with monthly distributions of groceries and household staples.",
+    "address": "115 N Walnut St, Princeville, IL 61559",
+    "phone": "(309) 385-4524",
+    "url": "https://www.princevilleumc.org",
+    "categorySlug": "food",
+    "zipCode": "61559"
+  },
+  {
+    "name": "Proctor Hospital Foundation – Peoria",
+    "description": "Community hospital serving Tazewell and Peoria County border communities with emergency care, primary care, and charity care financial assistance programs.",
+    "address": "5409 N Knoxville Ave, Peoria, IL 61614",
+    "phone": "(309) 691-1000",
+    "url": "https://www.proctorhospital.org",
+    "categorySlug": "healthcare",
+    "zipCode": "61614"
+  },
+  {
+    "name": "Salvation Army – Peoria Citadel Corps",
+    "description": "Provides emergency food, shelter, utility assistance, and disaster relief services for individuals and families in Peoria and surrounding communities.",
+    "address": "800 NE Madison Ave, Peoria, IL 61603",
+    "phone": "(309) 674-5431",
+    "url": "https://centralusa.salvationarmy.org/peoria",
+    "categorySlug": "community",
+    "zipCode": "61603"
+  },
+  {
+    "name": "Perry County Health Department",
+    "description": "Local public health agency in Pinckneyville providing immunizations, WIC nutrition services, disease prevention, and community health programs for Perry County residents.",
+    "address": "1 Public Square, Pinckneyville, IL 62274",
+    "phone": "(618) 357-5371",
+    "url": "https://www.perrycountyil.com/health-department",
+    "categorySlug": "healthcare",
+    "zipCode": "62274"
+  },
+  {
+    "name": "Pinckneyville Community Hospital Foundation",
+    "description": "Community hospital serving Perry County residents in Pinckneyville, Tamaroa, and surrounding areas with inpatient and outpatient services and charity care programs.",
+    "address": "5 N Walnut St, Pinckneyville, IL 62274",
+    "phone": "(618) 357-2187",
+    "url": "https://www.pchweb.org",
+    "categorySlug": "healthcare",
+    "zipCode": "62274"
+  },
+  {
+    "name": "Abraham Lincoln Memorial Hospital – Clinton",
+    "description": "Regional hospital serving Piatt and DeWitt County residents with emergency care, primary care, and community health programs including financial assistance for those in need.",
+    "address": "200 Stahlhut Dr, Lincoln, IL 62656",
+    "phone": "(217) 732-2161",
+    "url": "https://www.almh.net",
+    "categorySlug": "healthcare",
+    "zipCode": "61856"
+  },
+  {
+    "name": "Monticello Food Pantry",
+    "description": "Community food pantry in Monticello providing groceries and emergency food assistance to Piatt County residents including those in Cerro Gordo and Cisco.",
+    "address": "304 N State St, Monticello, IL 61856",
+    "phone": "(217) 762-9430",
+    "url": "https://www.monticelloumc.org",
+    "categorySlug": "food",
+    "zipCode": "61856"
+  },
+  {
+    "name": "Piatt County Health Department",
+    "description": "Public health agency in Monticello providing immunizations, disease prevention, WIC nutrition services, and community health programs for Piatt County residents.",
+    "address": "110 W Washington St, Monticello, IL 61856",
+    "phone": "(217) 762-9571",
+    "url": "https://www.piattcountyhealth.org",
+    "categorySlug": "healthcare",
+    "zipCode": "61856"
+  },
+  {
+    "name": "Barry Food Pantry",
+    "description": "Community food pantry in Barry providing groceries and household items to western Pike County residents including those in need of emergency food assistance.",
+    "address": "115 W Main St, Barry, IL 62312",
+    "phone": "(217) 335-2292",
+    "url": "https://www.barryilumc.org",
+    "categorySlug": "food",
+    "zipCode": "62312"
+  },
+  {
+    "name": "Griggsville Food Pantry",
+    "description": "Local food pantry in Griggsville serving north-central Pike County residents with regular food distributions and emergency food assistance.",
+    "address": "200 S Johnson St, Griggsville, IL 62340",
+    "phone": "(217) 833-2281",
+    "url": "https://www.griggsville.org",
+    "categorySlug": "food",
+    "zipCode": "62340"
+  },
+  {
+    "name": "Hennepin Food Pantry",
+    "description": "Volunteer food pantry in Hennepin serving Putnam County residents including McNabb and Magnolia with monthly food distributions for families and individuals in need.",
+    "address": "520 N Fourth St, Hennepin, IL 61327",
+    "phone": "(815) 925-7268",
+    "url": "https://www.hennepinumc.org",
+    "categorySlug": "food",
+    "zipCode": "61327"
+  },
+  {
+    "name": "Putnam County Health Department",
+    "description": "Public health agency in Hennepin providing immunizations, disease prevention, and basic community health services for residents of Putnam County.",
+    "address": "98 N 4th St, Hennepin, IL 61327",
+    "phone": "(815) 925-7035",
+    "url": "https://www.putnamcountyil.gov/health",
+    "categorySlug": "healthcare",
+    "zipCode": "61327"
+  },
+  {
+    "name": "Chester Mental Health Center",
+    "description": "State-operated psychiatric facility in Chester providing inpatient mental health services for Randolph County and southern Illinois residents with severe mental illness.",
+    "address": "1315 Lehmen Dr, Chester, IL 62233",
+    "phone": "(618) 826-4571",
+    "url": "https://www.dhs.state.il.us/page.aspx?item=29561",
+    "categorySlug": "healthcare",
+    "zipCode": "62233"
+  },
+  {
+    "name": "Crossroads Community Services – Chester",
+    "description": "Social services agency in Chester providing emergency financial assistance, utility help, and community support programs for residents of Randolph County.",
+    "address": "718 State St, Chester, IL 62233",
+    "phone": "(618) 826-3400",
+    "url": "https://www.crossroadscs.org",
+    "categorySlug": "community",
+    "zipCode": "62233"
+  },
+  {
+    "name": "Randolph County Food Pantry – Chester",
+    "description": "Community food pantry in Chester providing groceries and emergency food assistance to Randolph County residents including those in Sparta, Red Bud, and Steeleville.",
+    "address": "620 State St, Chester, IL 62233",
+    "phone": "(618) 826-2318",
+    "url": "https://www.randolphcountyfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "62233"
+  },
+  {
+    "name": "Randolph County Health Department",
+    "description": "Local public health agency in Chester providing immunizations, disease prevention, WIC nutrition services, and community health programs for Randolph County residents.",
+    "address": "1 Taylor St, Chester, IL 62233",
+    "phone": "(618) 826-5007",
+    "url": "https://www.co.randolph.il.us/health-department",
+    "categorySlug": "healthcare",
+    "zipCode": "62233"
+  },
+  {
+    "name": "Red Bud Community Food Pantry",
+    "description": "Volunteer-run food pantry in Red Bud serving southern Randolph County communities including Steeleville with regular food distributions for local families in need.",
+    "address": "500 S Main St, Red Bud, IL 62278",
+    "phone": "(618) 282-3405",
+    "url": "https://www.redbud-il.org",
+    "categorySlug": "food",
+    "zipCode": "62278"
+  },
+  {
+    "name": "Sparta Area Food Pantry",
+    "description": "Local food pantry in Sparta serving central Randolph County residents with monthly food distributions, providing groceries and household essentials to those in need.",
+    "address": "310 E Broadway, Sparta, IL 62286",
+    "phone": "(618) 443-2285",
+    "url": "https://www.spartaillinois.us",
+    "categorySlug": "food",
+    "zipCode": "62286"
+  },
+  {
+    "name": "Steeleville Food Pantry",
+    "description": "Local food pantry in Steeleville providing monthly food distributions and emergency assistance to residents of southern Randolph County.",
+    "address": "103 W Broadway St, Steeleville, IL 62288",
+    "phone": "(618) 965-3260",
+    "url": "https://www.steelevil.org",
+    "categorySlug": "food",
+    "zipCode": "62288"
+  },
+  {
+    "name": "Harbor of Hope – Port Byron Area Food Pantry",
+    "description": "Faith-based food pantry serving northern Rock Island County communities including Port Byron, Carbon Cliff, and Hampton with regular food distributions.",
+    "address": "116 S High St, Port Byron, IL 61275",
+    "phone": "(309) 523-2882",
+    "url": "https://www.harborofhope.org",
+    "categorySlug": "food",
+    "zipCode": "61275"
+  },
+  {
+    "name": "Project NOW Community Action Agency – Rock Island",
+    "description": "Community action agency serving Rock Island County with emergency assistance, utility help, housing stabilization, and Head Start programs for low-income residents.",
+    "address": "1700 5th Ave, Moline, IL 61265",
+    "phone": "(309) 793-6391",
+    "url": "https://www.projectnow.org",
+    "categorySlug": "community",
+    "zipCode": "61265"
+  },
+  {
+    "name": "River Bend Food Bank – Monroe County Coverage",
+    "description": "Regional food bank serving Monroe County through a network of food pantries in Waterloo, Valmeyer, and Renault, distributing millions of pounds of food annually.",
+    "address": "4343 Kennedy Dr, East Moline, IL 61244",
+    "phone": "(309) 786-2790",
+    "url": "https://www.riverbendfoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "61244"
+  },
+  {
+    "name": "Rock Island County CEFS Economic Opportunity Corporation",
+    "description": "Community action agency serving Rock Island County with Head Start, energy assistance, emergency food, housing support, and anti-poverty programs in Rock Island and Moline.",
+    "address": "2700 4th Ave, Rock Island, IL 61201",
+    "phone": "(309) 788-6311",
+    "url": "https://www.cefs.org",
+    "categorySlug": "community",
+    "zipCode": "61201"
+  },
+  {
+    "name": "Rock Island County Health Department",
+    "description": "Public health agency providing immunizations, WIC nutrition services, disease prevention, and community health programs for Rock Island County residents.",
+    "address": "2112 25th Ave, Rock Island, IL 61201",
+    "phone": "(309) 793-1955",
+    "url": "https://www.co.rock-island.il.us/health",
+    "categorySlug": "healthcare",
+    "zipCode": "61201"
+  },
+  {
+    "name": "Salvation Army – Rock Island Corps",
+    "description": "Emergency food pantry, shelter assistance, utility help, and community programs for individuals and families in Rock Island, Moline, and East Moline.",
+    "address": "1930 5th Ave, Moline, IL 61265",
+    "phone": "(309) 764-1222",
+    "url": "https://centralusa.salvationarmy.org/quadcities",
+    "categorySlug": "community",
+    "zipCode": "61265"
+  },
+  {
+    "name": "Silvis Community Food Pantry",
+    "description": "Local food pantry in Silvis serving southern Rock Island County communities including Reynolds with monthly food distributions for families and individuals in need.",
+    "address": "718 1st Ave, Silvis, IL 61282",
+    "phone": "(309) 755-6471",
+    "url": "https://www.silvisfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "61282"
+  },
+  {
+    "name": "UnityPoint Health – Trinity Rock Island",
+    "description": "Regional hospital in Rock Island providing emergency and inpatient care, community health programs, and financial assistance for uninsured patients in Rock Island County.",
+    "address": "2701 17th St, Rock Island, IL 61201",
+    "phone": "(309) 779-5000",
+    "url": "https://www.unitypoint.org/rockisland",
+    "categorySlug": "healthcare",
+    "zipCode": "61201"
+  },
+  {
+    "name": "Catholic Charities – Belleville Diocese",
+    "description": "Social services agency in Belleville providing food, financial assistance, immigration services, and community support programs for St. Clair County and southwestern Illinois.",
+    "address": "8601 W Main St, Belleville, IL 62223",
+    "phone": "(618) 394-5900",
+    "url": "https://www.cc-belleville.org",
+    "categorySlug": "community",
+    "zipCode": "62223"
+  },
+  {
+    "name": "Fairview Heights Food Pantry",
+    "description": "Community food pantry in Fairview Heights providing groceries and household items to St. Clair County residents in need of food assistance.",
+    "address": "10025 Bunkum Rd, Fairview Heights, IL 62208",
+    "phone": "(618) 397-0900",
+    "url": "https://www.fairviewheightsfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "62208"
+  },
+  {
+    "name": "HSHS St. Elizabeth's Hospital – Community Health",
+    "description": "Regional hospital in O'Fallon providing medical care, charity care programs, and community health services for St. Clair County residents regardless of ability to pay.",
+    "address": "1 St. Elizabeth's Blvd, O'Fallon, IL 62269",
+    "phone": "(618) 234-2120",
+    "url": "https://www.steliz.org",
+    "categorySlug": "healthcare",
+    "zipCode": "62269"
+  },
+  {
+    "name": "Lessie Bates Davis Neighborhood House",
+    "description": "Comprehensive social services center in East St. Louis providing food pantry, early childhood programs, senior services, and community development for St. Clair County residents.",
+    "address": "2800 State St, East St. Louis, IL 62205",
+    "phone": "(618) 874-6144",
+    "url": "https://www.lessiebatesdavis.org",
+    "categorySlug": "community",
+    "zipCode": "62205"
+  },
+  {
+    "name": "New Athens Food Pantry",
+    "description": "Volunteer-operated food pantry in New Athens serving southern St. Clair County communities including Smithton and Summerfield with monthly food distributions.",
+    "address": "201 N Main St, New Athens, IL 62264",
+    "phone": "(618) 475-2271",
+    "url": "https://www.newathensil.org",
+    "categorySlug": "food",
+    "zipCode": "62264"
+  },
+  {
+    "name": "Salvation Army – Belleville Corps",
+    "description": "Emergency food pantry, shelter assistance, utility help, and holiday programs for individuals and families in Belleville and O'Fallon areas of St. Clair County.",
+    "address": "927 W Main St, Belleville, IL 62220",
+    "phone": "(618) 233-1645",
+    "url": "https://centralusa.salvationarmy.org/belleville",
+    "categorySlug": "community",
+    "zipCode": "62220"
+  },
+  {
+    "name": "Shiloh Community Food Pantry",
+    "description": "Faith-based food pantry in Shiloh serving residents of Shiloh, Mascoutah, and surrounding St. Clair County communities with regular food distributions.",
+    "address": "100 Lakeview Dr, Shiloh, IL 62269",
+    "phone": "(618) 624-7000",
+    "url": "https://www.shilohumc.com",
+    "categorySlug": "food",
+    "zipCode": "62269"
+  },
+  {
+    "name": "Southwestern Illinois Food Bank – Belleville",
+    "description": "Regional food bank serving St. Clair County and southwestern Illinois, distributing food to pantries in Belleville, O'Fallon, Swansea, Mascoutah, Shiloh, and Fairview Heights.",
+    "address": "1606 Lebanon Ave, Belleville, IL 62221",
+    "phone": "(618) 235-3550",
+    "url": "https://www.swillinoisfoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "62221"
+  },
+  {
+    "name": "St. Clair County Health Department",
+    "description": "Public health agency providing immunizations, WIC nutrition services, disease prevention, and community health programs for residents of Belleville, O'Fallon, Fairview Heights, and all St. Clair County.",
+    "address": "19 Public Square, Belleville, IL 62220",
+    "phone": "(618) 825-4485",
+    "url": "https://www.co.st-clair.il.us/departments/health",
+    "categorySlug": "healthcare",
+    "zipCode": "62220"
+  },
+  {
+    "name": "Stark County Health Department",
+    "description": "Local public health agency in Toulon providing immunizations, disease prevention, and community health services for all Stark County residents.",
+    "address": "130 W Main St, Toulon, IL 61483",
+    "phone": "(309) 286-4455",
+    "url": "https://www.co.stark.il.us/departments/health",
+    "categorySlug": "healthcare",
+    "zipCode": "61483"
+  },
+  {
+    "name": "Toulon Area Food Pantry – Stark County",
+    "description": "Community food pantry in Toulon serving Stark County residents including Bradford and Wyoming with regular food distributions and emergency assistance.",
+    "address": "115 W Jefferson St, Toulon, IL 61483",
+    "phone": "(309) 286-4041",
+    "url": "https://www.starkcountyil.org",
+    "categorySlug": "food",
+    "zipCode": "61483"
+  },
+  {
+    "name": "Freeport Area Church Cooperative Food Pantry",
+    "description": "Multi-church food pantry in Freeport providing groceries and emergency food assistance to Stephenson County residents through a network of participating congregations.",
+    "address": "310 S Harlem Ave, Freeport, IL 61032",
+    "phone": "(815) 235-7141",
+    "url": "https://www.faccfreeport.org",
+    "categorySlug": "food",
+    "zipCode": "61032"
+  },
+  {
+    "name": "Freeport Rescue Mission",
+    "description": "Emergency shelter and services in Freeport providing overnight lodging, meals, case management, and transitional housing assistance for homeless adults in Stephenson County.",
+    "address": "210 S Chicago Ave, Freeport, IL 61032",
+    "phone": "(815) 235-7222",
+    "url": "https://www.freeportrescuemission.org",
+    "categorySlug": "housing",
+    "zipCode": "61032"
+  },
+  {
+    "name": "Jo Daviess-Stephenson Community Action – Freeport",
+    "description": "Community action agency serving Stephenson and Jo Daviess Counties with Head Start, energy assistance, food programs, and anti-poverty services for low-income families.",
+    "address": "10 W Stephenson St, Freeport, IL 61032",
+    "phone": "(815) 235-2942",
+    "url": "https://www.jdscaa.org",
+    "categorySlug": "community",
+    "zipCode": "61032"
+  },
+  {
+    "name": "Jo-Carroll Energy Community Fund – Stephenson County",
+    "description": "Energy cooperative community fund in Stephenson County providing utility assistance and energy bill payment help for low-income households in Freeport and surrounding areas.",
+    "address": "1111 S Galena Ave, Freeport, IL 61032",
+    "phone": "(815) 858-2191",
+    "url": "https://www.jocarroll.com",
+    "categorySlug": "community",
+    "zipCode": "61032"
+  },
+  {
+    "name": "Lena Area Food Pantry",
+    "description": "Local food pantry in Lena serving northern Stephenson County communities with monthly food distributions and emergency food assistance for families and individuals.",
+    "address": "102 N Center St, Lena, IL 61048",
+    "phone": "(815) 369-4204",
+    "url": "https://www.lena-il.us",
+    "categorySlug": "food",
+    "zipCode": "61048"
+  },
+  {
+    "name": "Stephenson County Health Department",
+    "description": "Public health agency in Freeport providing immunizations, WIC nutrition services, disease prevention, and community health programs for all Stephenson County residents.",
+    "address": "10 W Linden St, Freeport, IL 61032",
+    "phone": "(815) 235-8271",
+    "url": "https://www.stephensonhealth.org",
+    "categorySlug": "healthcare",
+    "zipCode": "61032"
+  },
+  {
+    "name": "Delavan Area Food Pantry",
+    "description": "Community food pantry serving southern Tazewell County communities including Delavan and surrounding rural areas with regular food distributions for families in need.",
+    "address": "105 S Locust St, Delavan, IL 61734",
+    "phone": "(309) 244-7461",
+    "url": "https://www.delavanillinois.com",
+    "categorySlug": "food",
+    "zipCode": "61734"
+  },
+  {
+    "name": "East Peoria Food Pantry – Tazewell County",
+    "description": "Community food pantry in East Peoria serving residents of eastern Peoria County and western Tazewell County with regular food distributions and emergency assistance.",
+    "address": "200 E Washington St, East Peoria, IL 61611",
+    "phone": "(309) 694-9310",
+    "url": "https://www.eastpeoriafoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "61611"
+  },
+  {
+    "name": "Morton Food Pantry",
+    "description": "Faith-based food pantry in Morton serving central Tazewell County residents with monthly food distributions, fresh produce, and emergency assistance.",
+    "address": "415 W Queenwood Rd, Morton, IL 61550",
+    "phone": "(309) 263-6641",
+    "url": "https://www.mortonupc.org",
+    "categorySlug": "food",
+    "zipCode": "61550"
+  },
+  {
+    "name": "Pekin Community Food Pantry – Tazewell County",
+    "description": "Community food pantry in Pekin providing regular food distributions and emergency assistance to Tazewell County residents in Pekin, Morton, and surrounding communities.",
+    "address": "800 Derby St, Pekin, IL 61554",
+    "phone": "(309) 346-3877",
+    "url": "https://www.pekinfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "61554"
+  },
+  {
+    "name": "Tazewell County Health Department",
+    "description": "Public health agency in Pekin providing immunizations, WIC nutrition services, disease prevention, and community health programs for all Tazewell County residents.",
+    "address": "18 N 6th St, Pekin, IL 61554",
+    "phone": "(309) 477-2240",
+    "url": "https://www.tazewellhealth.org",
+    "categorySlug": "healthcare",
+    "zipCode": "61554"
+  },
+  {
+    "name": "Tremont Food Pantry",
+    "description": "Small community food pantry in Tremont serving southern Tazewell County communities including Delavan with regular food distributions for households in need.",
+    "address": "118 W Pearl St, Tremont, IL 61568",
+    "phone": "(309) 925-5432",
+    "url": "https://www.tremontil.com",
+    "categorySlug": "food",
+    "zipCode": "61568"
+  },
+  {
+    "name": "Washington Food Pantry – Tazewell County",
+    "description": "Community food pantry in Washington serving eastern Tazewell County residents with monthly food distributions and emergency food assistance for local families.",
+    "address": "117 Walnut St, Washington, IL 61571",
+    "phone": "(309) 444-2100",
+    "url": "https://www.washingtonfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "61571"
+  },
+  {
+    "name": "Catlin Area Food Pantry",
+    "description": "Local food pantry in Catlin providing groceries and household essentials to residents of Catlin and rural Vermilion County communities.",
+    "address": "109 N State St, Catlin, IL 61817",
+    "phone": "(217) 427-5412",
+    "url": "https://www.catlinfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "61817"
+  },
+  {
+    "name": "Collison-Sidell Area Food Pantry",
+    "description": "Small community food pantry serving the rural Collison and Sidell areas of western Vermilion County with monthly food distributions for local families.",
+    "address": "100 Main St, Sidell, IL 61876",
+    "phone": "(217) 288-9241",
+    "url": "https://www.sidell-il.com",
+    "categorySlug": "food",
+    "zipCode": "61876"
+  },
+  {
+    "name": "Crosspoint Human Services – Danville",
+    "description": "Behavioral health and social services agency in Danville providing mental health counseling, substance abuse treatment, and crisis services for Vermilion County residents.",
+    "address": "104 W North St, Danville, IL 61832",
+    "phone": "(217) 443-8800",
+    "url": "https://www.crosspointhumanservices.org",
+    "categorySlug": "healthcare",
+    "zipCode": "61832"
+  },
+  {
+    "name": "Danville Area Food Pantry – Dream Center",
+    "description": "Community food pantry and social services center in Danville providing groceries, emergency assistance, and community programs for Vermilion County residents.",
+    "address": "25 E Williams St, Danville, IL 61832",
+    "phone": "(217) 442-8283",
+    "url": "https://www.danvilledreamcenter.org",
+    "categorySlug": "food",
+    "zipCode": "61832"
+  },
+  {
+    "name": "First Street Shelter – Danville",
+    "description": "Emergency homeless shelter and transitional housing program in Danville providing safe lodging, meals, and case management for adults experiencing homelessness in Vermilion County.",
+    "address": "201 N Franklin St, Danville, IL 61832",
+    "phone": "(217) 446-4357",
+    "url": "https://www.firststreetshelter.org",
+    "categorySlug": "housing",
+    "zipCode": "61832"
+  },
+  {
+    "name": "Georgetown Food Pantry",
+    "description": "Local food pantry in Georgetown providing groceries and emergency food assistance to eastern Vermilion County communities including Bismarck and Westville.",
+    "address": "25 N Main St, Georgetown, IL 61846",
+    "phone": "(217) 662-2351",
+    "url": "https://www.georgetownfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "61846"
+  },
+  {
+    "name": "Hoopeston Area Food Pantry",
+    "description": "Community food pantry in Hoopeston serving northern Vermilion County residents with monthly food distributions and emergency food assistance for households in need.",
+    "address": "300 W Main St, Hoopeston, IL 60942",
+    "phone": "(217) 283-5010",
+    "url": "https://www.hoopeston.org",
+    "categorySlug": "food",
+    "zipCode": "60942"
+  },
+  {
+    "name": "Promise Healthcare – Danville FQHC",
+    "description": "Federally Qualified Health Center in Danville providing primary care, dental, behavioral health, and pharmacy services on a sliding fee scale for Vermilion County residents.",
+    "address": "108 W North St, Danville, IL 61832",
+    "phone": "(217) 446-3500",
+    "url": "https://www.promisehealthcare.org",
+    "categorySlug": "healthcare",
+    "zipCode": "61832"
+  },
+  {
+    "name": "Salvation Army – Danville Corps",
+    "description": "Emergency food, utility assistance, shelter referrals, and holiday programs for individuals and families in Danville and surrounding Vermilion County communities.",
+    "address": "212 E Williams St, Danville, IL 61832",
+    "phone": "(217) 442-1013",
+    "url": "https://centralusa.salvationarmy.org/danville",
+    "categorySlug": "community",
+    "zipCode": "61832"
+  },
+  {
+    "name": "Tilton Food Pantry",
+    "description": "Community food pantry in Tilton serving residents of the Tilton and Danville area zip codes with regular food distributions and emergency food assistance.",
+    "address": "200 Garfield Ave, Tilton, IL 61833",
+    "phone": "(217) 442-6141",
+    "url": "https://www.tilton-il.com",
+    "categorySlug": "food",
+    "zipCode": "61833"
+  },
+  {
+    "name": "Vermilion County Health Department",
+    "description": "Public health agency in Danville providing immunizations, WIC nutrition services, disease prevention, STI testing, and community health programs for all Vermilion County residents.",
+    "address": "6 N Vermilion St, Danville, IL 61832",
+    "phone": "(217) 431-2662",
+    "url": "https://www.co.vermilion.il.us/departments/health",
+    "categorySlug": "healthcare",
+    "zipCode": "61832"
+  },
+  {
+    "name": "Westville Food Pantry",
+    "description": "Community food pantry in Westville serving eastern Vermilion County residents with regular food distributions and emergency assistance for households in need.",
+    "address": "101 W Main St, Westville, IL 61883",
+    "phone": "(217) 267-2961",
+    "url": "https://www.westvilleil.org",
+    "categorySlug": "food",
+    "zipCode": "61883"
+  },
+  {
+    "name": "Monmouth Food Pantry – Warren County",
+    "description": "Community food pantry in Monmouth providing regular food distributions and emergency food assistance to Warren County residents including those in Alexis and Berwick.",
+    "address": "215 W Broadway, Monmouth, IL 61462",
+    "phone": "(309) 734-2181",
+    "url": "https://www.monmouthfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "61462"
+  },
+  {
+    "name": "Warren County Health Department",
+    "description": "Local public health agency in Monmouth providing immunizations, WIC nutrition services, disease prevention, and community health programs for all Warren County residents.",
+    "address": "1300 E Harlem Ave, Monmouth, IL 61462",
+    "phone": "(309) 734-5109",
+    "url": "https://www.warrencountyhealth.org",
+    "categorySlug": "healthcare",
+    "zipCode": "61462"
+  },
+  {
+    "name": "Nashville Area Food Pantry – Washington County",
+    "description": "Community food pantry in Nashville serving Washington County residents with regular food distributions and emergency assistance for families and individuals.",
+    "address": "119 W Robertson Ave, Nashville, IL 62263",
+    "phone": "(618) 327-8721",
+    "url": "https://www.nashvilleillinois.org",
+    "categorySlug": "food",
+    "zipCode": "62263"
+  },
+  {
+    "name": "Okawville Community Food Pantry",
+    "description": "Local food pantry in Okawville serving southern Washington County communities with regular food distributions for households experiencing food insecurity.",
+    "address": "100 N Hanover St, Okawville, IL 62271",
+    "phone": "(618) 243-5410",
+    "url": "https://www.okawvilleil.org",
+    "categorySlug": "food",
+    "zipCode": "62271"
+  },
+  {
+    "name": "Washington County Health Department",
+    "description": "Local public health agency in Nashville providing immunizations, disease prevention, and community health services for Washington County residents including Okawville and Irvington.",
+    "address": "1016 Lindauer Ln, Nashville, IL 62263",
+    "phone": "(618) 327-8721",
+    "url": "https://www.washingtoncountyhealth.org",
+    "categorySlug": "healthcare",
+    "zipCode": "62263"
+  },
+  {
+    "name": "CGH Medical Center – Sterling",
+    "description": "Regional hospital in Sterling serving Whiteside County with emergency care, primary care, and community health programs including financial assistance for those unable to pay.",
+    "address": "100 E LeFevre Rd, Sterling, IL 61081",
+    "phone": "(815) 625-0400",
+    "url": "https://www.cghmc.com",
+    "categorySlug": "healthcare",
+    "zipCode": "61081"
+  },
+  {
+    "name": "Morrison Food Pantry",
+    "description": "Community food pantry in Morrison serving central Whiteside County residents including Prophetstown and Galt with monthly food distributions and emergency assistance.",
+    "address": "200 N Jackson St, Morrison, IL 61270",
+    "phone": "(815) 772-4122",
+    "url": "https://www.morrisonillinois.org",
+    "categorySlug": "food",
+    "zipCode": "61270"
+  },
+  {
+    "name": "Sauk Valley Community Food Bank – Rock Falls",
+    "description": "Regional food bank serving Whiteside and Lee Counties, distributing food to pantries in Rock Falls, Sterling, Morrison, Prophetstown, and Galt to fight hunger in the Sauk Valley.",
+    "address": "409 Ave E, Rock Falls, IL 61071",
+    "phone": "(815) 625-2051",
+    "url": "https://www.saukvalleyfoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "61071"
+  },
+  {
+    "name": "Whiteside County Health Department",
+    "description": "Public health agency in Morrison providing immunizations, WIC nutrition services, disease prevention, and community health programs for all Whiteside County residents.",
+    "address": "1306 Woodlawn Rd, Rock Falls, IL 61071",
+    "phone": "(815) 625-0395",
+    "url": "https://www.whitesidecountyhealth.org",
+    "categorySlug": "healthcare",
+    "zipCode": "61071"
+  },
+  {
+    "name": "Braidwood Area Food Pantry",
+    "description": "Community food pantry in Braidwood serving southern Will County residents including Channahon with regular food distributions and emergency food assistance.",
+    "address": "300 N Center St, Braidwood, IL 60408",
+    "phone": "(815) 458-2341",
+    "url": "https://www.braidwoodil.org",
+    "categorySlug": "food",
+    "zipCode": "60408"
+  },
+  {
+    "name": "Catholic Charities – Joliet Diocese",
+    "description": "Social services agency in Joliet providing food, utility assistance, immigration services, and community support programs for Will County and surrounding areas.",
+    "address": "16 W Webster St, Joliet, IL 60432",
+    "phone": "(815) 723-3405",
+    "url": "https://www.catholiccharitiesdioceseofjoliet.org",
+    "categorySlug": "community",
+    "zipCode": "60432"
+  },
+  {
+    "name": "Elwood Food Pantry – Will County",
+    "description": "Small community food pantry in Elwood serving western Will County rural residents with monthly distributions of groceries and household essentials.",
+    "address": "200 W Mississippi Ave, Elwood, IL 60421",
+    "phone": "(815) 423-5231",
+    "url": "https://www.elwoodillinois.com",
+    "categorySlug": "food",
+    "zipCode": "60421"
+  },
+  {
+    "name": "Joliet Area Community Hospice Food Pantry",
+    "description": "Community food pantry in Frankfort area providing groceries and essential items to Will County residents facing food insecurity in Frankfort and Homer Glen.",
+    "address": "250 Water Stone Cir, Frankfort, IL 60423",
+    "phone": "(815) 405-7827",
+    "url": "https://www.frankfortfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "60423"
+  },
+  {
+    "name": "Lockport Food Pantry",
+    "description": "Community food pantry in Lockport providing monthly food distributions and emergency food assistance to residents of Lockport and surrounding Will County communities.",
+    "address": "921 S State St, Lockport, IL 60441",
+    "phone": "(815) 838-0126",
+    "url": "https://www.lockportfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "60441"
+  },
+  {
+    "name": "New Lenox Food Pantry",
+    "description": "Local food pantry in New Lenox providing groceries and emergency food assistance to residents of New Lenox and Mokena in Will County.",
+    "address": "1 Veterans Pkwy, New Lenox, IL 60451",
+    "phone": "(815) 485-7738",
+    "url": "https://www.newlenoxfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "60451"
+  },
+  {
+    "name": "Peotone Food Pantry",
+    "description": "Community food pantry in Peotone serving southeastern Will County communities including Steger and Custer Park with monthly food distributions and emergency assistance.",
+    "address": "301 E Main St, Peotone, IL 60468",
+    "phone": "(708) 258-3155",
+    "url": "https://www.peotonefoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "60468"
+  },
+  {
+    "name": "Salvation Army – Joliet",
+    "description": "Emergency food, shelter assistance, utility help, and disaster relief for individuals and families in Joliet, Crete, and throughout Will County.",
+    "address": "2 Salvation Dr, Joliet, IL 60432",
+    "phone": "(815) 727-7976",
+    "url": "https://centralusa.salvationarmy.org/joliet",
+    "categorySlug": "community",
+    "zipCode": "60432"
+  },
+  {
+    "name": "Steger-Crete Community Food Pantry",
+    "description": "Local food pantry serving Steger and the southern Will County communities with regular distributions of groceries and household items for families in need.",
+    "address": "3400 Exchange Ave, Steger, IL 60475",
+    "phone": "(708) 754-0226",
+    "url": "https://www.stegerfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "60475"
+  },
+  {
+    "name": "Stepping Stones Shelter – Joliet",
+    "description": "Emergency shelter and transitional housing program in Joliet providing safe lodging, meals, case management, and supportive services for homeless adults and families in Will County.",
+    "address": "245 N Eastern Ave, Joliet, IL 60432",
+    "phone": "(815) 722-3773",
+    "url": "https://www.steppingstonesjoliet.org",
+    "categorySlug": "housing",
+    "zipCode": "60432"
+  },
+  {
+    "name": "Will County Gleaners Food Pantry",
+    "description": "Food pantry in Joliet serving Will County residents with regular food distributions, providing groceries, fresh produce, and household essentials to those in need.",
+    "address": "2229 W Jefferson St, Joliet, IL 60435",
+    "phone": "(815) 723-7800",
+    "url": "https://www.willcountyfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "60435"
+  },
+  {
+    "name": "Will County Health Department",
+    "description": "Public health agency in Joliet providing immunizations, WIC nutrition services, disease prevention, STI testing, and community health programs for all Will County residents.",
+    "address": "501 Ella Ave, Joliet, IL 60433",
+    "phone": "(815) 727-8480",
+    "url": "https://www.willcountyhealth.org",
+    "categorySlug": "healthcare",
+    "zipCode": "60433"
+  },
+  {
+    "name": "Cherry Valley Food Pantry",
+    "description": "Community food pantry in Cherry Valley serving eastern Winnebago County residents with monthly distributions of groceries and household essentials for those in need.",
+    "address": "816 E State St, Cherry Valley, IL 61016",
+    "phone": "(815) 332-4116",
+    "url": "https://www.cherryvalleyil.gov",
+    "categorySlug": "food",
+    "zipCode": "61016"
+  },
+  {
+    "name": "Crusader Community Health – Rockford FQHC",
+    "description": "Federally Qualified Health Center in Rockford providing primary care, dental, behavioral health, and reproductive health services on a sliding fee scale for Winnebago County residents.",
+    "address": "1200 W State St, Rockford, IL 61102",
+    "phone": "(815) 490-2400",
+    "url": "https://www.crusadercommunityhealth.org",
+    "categorySlug": "healthcare",
+    "zipCode": "61102"
+  },
+  {
+    "name": "Loves Park Food Pantry",
+    "description": "Community food pantry in Loves Park providing monthly food distributions and emergency food assistance to residents of Loves Park and Machesney Park in northern Winnebago County.",
+    "address": "5440 N 2nd St, Loves Park, IL 61111",
+    "phone": "(815) 633-0022",
+    "url": "https://www.lovesparkfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "61111"
+  },
+  {
+    "name": "Machesney Park Food Pantry",
+    "description": "Local food pantry in Machesney Park serving northern Winnebago County residents with regular grocery distributions and emergency food assistance for households.",
+    "address": "11311 N 2nd St, Machesney Park, IL 61115",
+    "phone": "(815) 636-3930",
+    "url": "https://www.machesneypark.org",
+    "categorySlug": "food",
+    "zipCode": "61115"
+  },
+  {
+    "name": "OSF Saint Anthony Medical Center – Community Benefit",
+    "description": "Regional hospital in Rockford providing emergency and specialty care with charity care programs and community health initiatives for Winnebago County and surrounding areas.",
+    "address": "5666 E State St, Rockford, IL 61108",
+    "phone": "(815) 226-2000",
+    "url": "https://www.osfsaintanthony.org",
+    "categorySlug": "healthcare",
+    "zipCode": "61108"
+  },
+  {
+    "name": "Rockford Rescue Mission",
+    "description": "Emergency shelter, transitional housing, addiction recovery, and community services for homeless adults and families in Rockford and Winnebago County.",
+    "address": "313 S Winnebago St, Rockford, IL 61102",
+    "phone": "(815) 965-5332",
+    "url": "https://www.rockfordrescuemission.org",
+    "categorySlug": "housing",
+    "zipCode": "61102"
+  },
+  {
+    "name": "Rockford Urban Ministries",
+    "description": "Social services organization in Rockford providing emergency food, clothing, utility assistance, and community support programs for low-income residents of 61101 and 61103 zip codes.",
+    "address": "812 N Church St, Rockford, IL 61103",
+    "phone": "(815) 963-2030",
+    "url": "https://www.rumrockford.org",
+    "categorySlug": "community",
+    "zipCode": "61103"
+  },
+  {
+    "name": "Rosecrance Health Network – Belvidere",
+    "description": "Behavioral health provider offering substance use disorder treatment and mental health services at multiple locations including Boone County.",
+    "address": "1021 N Main St, Rockford, IL 61103",
+    "phone": "(815) 391-1000",
+    "url": "https://www.rosecrance.org",
+    "categorySlug": "healthcare",
+    "zipCode": "61103"
+  },
+  {
+    "name": "Salvation Army – Rockford Corps",
+    "description": "Emergency food pantry, shelter assistance, utility help, and community programs for individuals and families in Rockford's 61101 and 61102 zip codes and throughout Winnebago County.",
+    "address": "115 S Winnebago St, Rockford, IL 61102",
+    "phone": "(815) 963-4467",
+    "url": "https://centralusa.salvationarmy.org/rockford",
+    "categorySlug": "community",
+    "zipCode": "61102"
+  },
+  {
+    "name": "Winnebago County Health Department",
+    "description": "Public health agency in Rockford providing immunizations, WIC nutrition services, disease prevention, and community health programs for all Winnebago County residents.",
+    "address": "401 Division St, Rockford, IL 61104",
+    "phone": "(815) 720-4000",
+    "url": "https://www.wchd.org",
+    "categorySlug": "healthcare",
+    "zipCode": "61104"
+  },
+  {
+    "name": "El Paso Food Pantry",
+    "description": "Volunteer food pantry in El Paso serving northern Woodford County communities with monthly food distributions and emergency food assistance for local families.",
+    "address": "175 W Front St, El Paso, IL 61738",
+    "phone": "(309) 527-4741",
+    "url": "https://www.elpaso.illinois.gov",
+    "categorySlug": "food",
+    "zipCode": "61738"
+  },
+  {
+    "name": "Eureka Food Pantry – Woodford County",
+    "description": "Community food pantry in Eureka serving Woodford County residents with regular food distributions and emergency food assistance for households in need.",
+    "address": "215 E Center St, Eureka, IL 61530",
+    "phone": "(309) 467-3767",
+    "url": "https://www.eurekafoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "61530"
+  },
+  {
+    "name": "Metamora Area Food Pantry",
+    "description": "Community food pantry in Metamora providing groceries and household essentials to central Woodford County residents on a regular and emergency basis.",
+    "address": "115 E Partridge St, Metamora, IL 61548",
+    "phone": "(309) 367-4422",
+    "url": "https://www.metamorafoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "61548"
+  },
+  {
+    "name": "Roanoke Area Food Pantry",
+    "description": "Local food pantry in Roanoke serving western Woodford County communities with monthly distributions of groceries and staples for households experiencing food insecurity.",
+    "address": "205 S Broad St, Roanoke, IL 61561",
+    "phone": "(309) 923-5613",
+    "url": "https://www.roanokeloyal.com",
+    "categorySlug": "food",
+    "zipCode": "61561"
+  },
+  {
+    "name": "Washburn Community Food Pantry",
+    "description": "Small volunteer food pantry in Washburn serving northern Woodford County residents with regular food distributions and emergency assistance for local families.",
+    "address": "219 N State St, Washburn, IL 61570",
+    "phone": "(309) 248-7231",
+    "url": "https://www.washburnil.com",
+    "categorySlug": "food",
+    "zipCode": "61570"
+  },
+  {
+    "name": "Woodford County Health Department",
+    "description": "Local public health agency in Eureka providing immunizations, WIC nutrition services, disease prevention, and community health programs for all Woodford County residents.",
+    "address": "1831 IL-116, Metamora, IL 61548",
+    "phone": "(309) 367-2150",
+    "url": "https://www.woodfordcountyhealth.org",
+    "categorySlug": "healthcare",
+    "zipCode": "61548"
+  }
+]

@@ -1,0 +1,902 @@
+[
+  {
+    "name": "Autauga Interfaith Care Center",
+    "description": "Food pantry and clothing assistance for Autauga County residents in need. Distributes groceries and gently used clothing on a regular basis.",
+    "address": "163 W 3rd St, Prattville, AL 36067",
+    "phone": "(334) 365-4080",
+    "url": "https://autaugainterfaithcarecenter.com/",
+    "categorySlug": "food",
+    "zipCode": "36067"
+  },
+  {
+    "name": "Community Action Partnership of Middle Alabama",
+    "description": "Community action agency serving Autauga, Chilton, Elmore, and Shelby Counties with energy assistance (LIHEAP), emergency food and shelter, youth development, and budget counseling.",
+    "address": "1514 Memorial Drive, Prattville, AL 36067",
+    "phone": "(334) 365-3972",
+    "url": "https://capmal.org/",
+    "categorySlug": "community",
+    "zipCode": "36067"
+  },
+  {
+    "name": "Baldwin County Health Department – Bay Minette",
+    "description": "Alabama Department of Public Health clinic offering WIC, family planning, immunizations, STD testing, and other clinical services to Baldwin County residents.",
+    "address": "212 Courthouse Square, Bay Minette, AL 36507",
+    "phone": "(251) 937-6935",
+    "url": "https://www.alabamapublichealth.gov/baldwin/",
+    "categorySlug": "healthcare",
+    "zipCode": "36507"
+  },
+  {
+    "name": "Community Action Agency of South Alabama – Baldwin County",
+    "description": "Community action agency providing LIHEAP energy assistance, emergency food and shelter, and supportive services for low-income residents across Baldwin and surrounding counties.",
+    "address": "26440 Pollard Road, Daphne, AL 36526",
+    "phone": "(251) 867-4759",
+    "url": "http://caaofsa.org/",
+    "categorySlug": "community",
+    "zipCode": "36526"
+  },
+  {
+    "name": "Ecumenical Ministries of Baldwin County",
+    "description": "Non-denominational social service agency providing emergency financial assistance, food, clothing, and referral services to low-income families across Baldwin County.",
+    "address": "564 Fairhope Ave, Fairhope, AL 36532",
+    "phone": "(251) 928-3430",
+    "url": "https://www.baldwinemi.org/",
+    "categorySlug": "community",
+    "zipCode": "36532"
+  },
+  {
+    "name": "Prodisee Pantry",
+    "description": "Food pantry serving Baldwin County residents with weekly distributions of groceries and household staples at no cost.",
+    "address": "9315 Spanish Fort Blvd, Spanish Fort, AL 36527",
+    "phone": "(251) 626-1720",
+    "url": "https://www.prodiseepantry.org/",
+    "categorySlug": "food",
+    "zipCode": "36527"
+  },
+  {
+    "name": "Barbour County Health Department – Eufaula",
+    "description": "Public health clinic offering WIC, family planning, immunizations, STD testing, and well-woman services to Barbour County residents.",
+    "address": "634 School Street, Eufaula, AL 36027",
+    "phone": "(334) 687-4808",
+    "url": "https://www.alabamapublichealth.gov/barbour/",
+    "categorySlug": "healthcare",
+    "zipCode": "36027"
+  },
+  {
+    "name": "Family Service Center Barbour – Food Closet",
+    "description": "Emergency food pantry assisting Barbour County residents facing food insecurity with short-term grocery assistance.",
+    "address": "113 Jackson Street, Eufaula, AL 36027",
+    "phone": "(334) 687-2273",
+    "url": "https://www.foodpantries.org/ci/al-eufaula",
+    "categorySlug": "food",
+    "zipCode": "36027"
+  },
+  {
+    "name": "Cahaba Medical Care – Centreville",
+    "description": "Federally qualified community health center providing primary medical care to Bibb County residents on a sliding fee scale regardless of ability to pay.",
+    "address": "405 Belcher Street, Centreville, AL 35042",
+    "phone": "(205) 926-2992",
+    "url": "https://cahabamedicalcare.com/",
+    "categorySlug": "healthcare",
+    "zipCode": "35042"
+  },
+  {
+    "name": "Blount County Health Department",
+    "description": "Alabama Department of Public Health clinic offering WIC, immunizations, family planning, and clinical services to Blount County residents.",
+    "address": "1001 Lincoln Avenue, Oneonta, AL 35121",
+    "phone": "(205) 274-2120",
+    "url": "https://www.alabamapublichealth.gov/Blount/",
+    "categorySlug": "healthcare",
+    "zipCode": "35121"
+  },
+  {
+    "name": "The Hope House, Inc.",
+    "description": "Multi-service nonprofit in Blount County providing food bank, bill assistance, substance abuse support, and other social services to individuals and families in need.",
+    "address": "1000 Lincoln Avenue, Oneonta, AL 35121",
+    "phone": "(205) 625-4673",
+    "url": "https://myhopehouse.org/",
+    "categorySlug": "community",
+    "zipCode": "35121"
+  },
+  {
+    "name": "Bullock County Food Pantry",
+    "description": "Food distribution center providing groceries to low-income households and individuals with special needs in Bullock County.",
+    "address": "101 Powell Street, Union Springs, AL 36089",
+    "phone": "(334) 738-3030",
+    "url": "https://www.alabamapublichealth.gov/bullock/",
+    "categorySlug": "food",
+    "zipCode": "36089"
+  },
+  {
+    "name": "Butler County Health Department",
+    "description": "Public health clinic in Greenville offering WIC, STD testing, family planning, immunizations, and well-woman care to Butler County residents.",
+    "address": "350 Airport Road, Greenville, AL 36037",
+    "phone": "(334) 382-3154",
+    "url": "https://www.alabamapublichealth.gov/butler/",
+    "categorySlug": "healthcare",
+    "zipCode": "36037"
+  },
+  {
+    "name": "Jacksonville Christian Outreach Center",
+    "description": "Provides emergency food pantry assistance, utility bill help, and other essentials to low-income families within the Jacksonville area and surrounding zip codes.",
+    "address": "801 Ladiga Street, Jacksonville, AL 36265",
+    "phone": "(256) 435-5562",
+    "url": "https://myjcoc.org/",
+    "categorySlug": "food",
+    "zipCode": "36265"
+  },
+  {
+    "name": "Quality of Life Health Services – Anniston",
+    "description": "Federally qualified health center providing medical, dental, behavioral health, pharmacy, and X-ray services on a sliding fee scale for uninsured and Medicaid patients in Calhoun County.",
+    "address": "1316 Noble Street, Anniston, AL 36201",
+    "phone": "(256) 236-0221",
+    "url": "https://qolhs.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "36201"
+  },
+  {
+    "name": "Chambers County Health Department",
+    "description": "Public health clinic offering WIC, family planning, immunizations, and clinical services to Chambers County residents in the Valley area.",
+    "address": "5 North Medical Park Drive, Valley, AL 36854",
+    "phone": "(334) 756-0758",
+    "url": "https://www.alabamapublichealth.gov/chambers/",
+    "categorySlug": "healthcare",
+    "zipCode": "36854"
+  },
+  {
+    "name": "Cherokee County Crisis Center",
+    "description": "Provides a food pantry and crisis intervention services to Cherokee County residents, open Monday through Friday during business hours.",
+    "address": "101 West Main Street, Centre, AL 35960",
+    "phone": "(256) 927-5765",
+    "url": "https://www.alabamapublichealth.gov/cherokee/",
+    "categorySlug": "food",
+    "zipCode": "35960"
+  },
+  {
+    "name": "Chilton County Emergency Assistance Center",
+    "description": "Provides food pantry, clothing, prescription assistance, dental aid, and emergency shelter support to Chilton County residents and travelers in crisis.",
+    "address": "502 Enterprise Road, Clanton, AL 35045",
+    "phone": "(205) 755-9467",
+    "url": "https://www.uwca.org/partners/chilton-county-emergency-assistance-center/",
+    "categorySlug": "community",
+    "zipCode": "35045"
+  },
+  {
+    "name": "Chilton County Health Department",
+    "description": "Public health clinic in Clanton offering WIC, family planning, immunizations, and food assistance to Chilton County residents.",
+    "address": "2911 Highway 31 South, Clanton, AL 35045",
+    "phone": "(205) 755-1287",
+    "url": "https://www.alabamapublichealth.gov/chilton/",
+    "categorySlug": "healthcare",
+    "zipCode": "35045"
+  },
+  {
+    "name": "Clarke County Health Department",
+    "description": "Alabama Department of Public Health clinic providing WIC, immunizations, family planning, and other clinical services to Clarke County residents.",
+    "address": "22600 Highway 84 East, Grove Hill, AL 36451",
+    "phone": "(251) 275-3772",
+    "url": "https://www.alabamapublichealth.gov/clarke/",
+    "categorySlug": "healthcare",
+    "zipCode": "36451"
+  },
+  {
+    "name": "Community Action Agency of South Alabama – Clarke County",
+    "description": "Community action agency in Grove Hill offering food assistance, emergency financial help for housing and utilities, and referral services to Clarke County residents.",
+    "address": "133 Court Street, Grove Hill, AL 36451",
+    "phone": "(251) 275-8498",
+    "url": "http://www.caaofsa.org/",
+    "categorySlug": "community",
+    "zipCode": "36451"
+  },
+  {
+    "name": "Clay County Health Department",
+    "description": "Public health clinic offering WIC, family planning, immunizations, and clinical services to Clay County residents in the Lineville area.",
+    "address": "86892 Highway 9, Lineville, AL 36266",
+    "phone": "(256) 396-5242",
+    "url": "https://www.alabamapublichealth.gov/clay/",
+    "categorySlug": "healthcare",
+    "zipCode": "36266"
+  },
+  {
+    "name": "Cleburne County Health Department",
+    "description": "Alabama Department of Public Health clinic in Heflin providing WIC, immunizations, family planning, and clinical services to Cleburne County residents.",
+    "address": "195 Medical Center Drive, Heflin, AL 36264",
+    "phone": "(256) 463-2296",
+    "url": "https://www.alabamapublichealth.gov/cleburne/",
+    "categorySlug": "healthcare",
+    "zipCode": "36264"
+  },
+  {
+    "name": "Coffee County Health Department",
+    "description": "Public health clinic serving Coffee County with WIC, family planning, immunizations, STD testing, and breast and cervical cancer screening services.",
+    "address": "1165 Rucker Boulevard, Enterprise, AL 36330",
+    "phone": "(334) 347-9574",
+    "url": "https://www.alabamapublichealth.gov/coffee/",
+    "categorySlug": "healthcare",
+    "zipCode": "36330"
+  },
+  {
+    "name": "Enterprise State Community College Food Bank",
+    "description": "Campus food bank providing nonperishable food items to students, staff, and community members in the Coffee County area experiencing food insecurity.",
+    "address": "600 Plaza Drive, Enterprise, AL 36330",
+    "phone": "(334) 347-2623",
+    "url": "https://escc.edu/about-escc/escc-cares/food-bank-resources/",
+    "categorySlug": "food",
+    "zipCode": "36330"
+  },
+  {
+    "name": "Family Health Care Clinic – Muscle Shoals",
+    "description": "Federally qualified health center providing primary care, preventive services, and affordable healthcare to uninsured and underinsured residents of the Shoals area.",
+    "address": "102 Physicians Drive, Suite A, Muscle Shoals, AL 35661",
+    "phone": "(256) 389-9797",
+    "url": "https://familyhealthcareclinic.com/",
+    "categorySlug": "healthcare",
+    "zipCode": "35661"
+  },
+  {
+    "name": "Community Action Agency – Conecuh County",
+    "description": "Community action agency providing a food pantry and emergency assistance to low-income Conecuh County residents in the Evergreen area.",
+    "address": "119 Desplouse Street, Evergreen, AL 36401",
+    "phone": "(251) 578-2331",
+    "url": "https://www.foodpantries.org/li/community_action_agency_conecuh_county_36401",
+    "categorySlug": "community",
+    "zipCode": "36401"
+  },
+  {
+    "name": "Conecuh County Health Department",
+    "description": "Public health clinic in Evergreen offering WIC, clinical services, family planning, and immunizations to Conecuh County residents.",
+    "address": "102 Wild Avenue, Evergreen, AL 36401",
+    "phone": "(251) 578-1952",
+    "url": "https://www.alabamapublichealth.gov/conecuh/",
+    "categorySlug": "healthcare",
+    "zipCode": "36401"
+  },
+  {
+    "name": "Coosa County Health Department",
+    "description": "Alabama Department of Public Health clinic in Rockford providing WIC, family planning, immunizations, and STD testing services to Coosa County residents.",
+    "address": "9518 US Highway 231, Rockford, AL 35136",
+    "phone": "(256) 377-1068",
+    "url": "https://www.alabamapublichealth.gov/coosa/",
+    "categorySlug": "healthcare",
+    "zipCode": "35136"
+  },
+  {
+    "name": "Covington Baptist Association Christian Service Center",
+    "description": "Food pantry network serving Covington County residents in Andalusia, Opp, and Florala with monthly food distributions to households in need.",
+    "address": "403 South Three Notch Street, Andalusia, AL 36420",
+    "phone": "(334) 222-2555",
+    "url": "https://alabamafoodbanks.org/food-bank/covington-baptist-association-christian-service-center-andalusia/",
+    "categorySlug": "food",
+    "zipCode": "36420"
+  },
+  {
+    "name": "Covington County Health Department",
+    "description": "Alabama Department of Public Health clinic in Andalusia offering WIC, family planning, immunizations, and clinical services to Covington County residents.",
+    "address": "23989 AL Highway 55, Andalusia, AL 36420",
+    "phone": "(334) 222-1186",
+    "url": "https://www.alabamapublichealth.gov/covington/",
+    "categorySlug": "healthcare",
+    "zipCode": "36420"
+  },
+  {
+    "name": "Crenshaw County Health Department",
+    "description": "Public health clinic in Luverne offering WIC, family planning, immunizations, and clinical services to Crenshaw County residents.",
+    "address": "15 Hospital Drive, Luverne, AL 36049",
+    "phone": "(334) 335-6568",
+    "url": "https://www.alabamapublichealth.gov/crenshaw/",
+    "categorySlug": "healthcare",
+    "zipCode": "36049"
+  },
+  {
+    "name": "Cullman County Health Department",
+    "description": "Alabama Department of Public Health clinic offering WIC, immunizations, family planning, and other clinical services to Cullman County residents.",
+    "address": "1909 Beech Avenue SE, Cullman, AL 35055",
+    "phone": "(256) 734-1150",
+    "url": "https://www.alabamapublichealth.gov/cullman/",
+    "categorySlug": "healthcare",
+    "zipCode": "35055"
+  },
+  {
+    "name": "Good Samaritan Health Clinic – Cullman",
+    "description": "Free health clinic providing cost-efficient primary and preventive care to uninsured Cullman County residents with household incomes below 250% of the federal poverty level.",
+    "address": "401 Arnold Street NE, Suite A, Cullman, AL 35055",
+    "phone": "(256) 775-1389",
+    "url": "https://www.goodsamaritancullman.com/",
+    "categorySlug": "healthcare",
+    "zipCode": "35055"
+  },
+  {
+    "name": "The Link of Cullman County",
+    "description": "Community resource hub connecting Cullman County residents to food assistance, housing, healthcare, and other social services through a comprehensive community resource directory.",
+    "address": "402 Arnold Street NE, Cullman, AL 35055",
+    "phone": "(256) 734-3133",
+    "url": "https://linkingcullman.org/",
+    "categorySlug": "community",
+    "zipCode": "35055"
+  },
+  {
+    "name": "Dale County Health Department",
+    "description": "Public health clinic in Ozark offering WIC, family planning, immunizations, STD testing, and other clinical services to Dale County residents.",
+    "address": "701 Ross Clark Circle, Ozark, AL 36360",
+    "phone": "(334) 774-5146",
+    "url": "https://www.alabamapublichealth.gov/dale/",
+    "categorySlug": "healthcare",
+    "zipCode": "36360"
+  },
+  {
+    "name": "Dale County Rescue Mission",
+    "description": "Emergency shelter and soup kitchen in Ozark providing men with temporary housing and three meals per day to individuals experiencing homelessness.",
+    "address": "140 Andrews Avenue, Ozark, AL 36360",
+    "phone": "(334) 774-4357",
+    "url": "https://www.foodpantries.org/ci/al-ozark",
+    "categorySlug": "housing",
+    "zipCode": "36360"
+  },
+  {
+    "name": "Community Service Programs of West Alabama – Dallas County",
+    "description": "Community action agency serving Dallas County with mobile food pantries, Meals on Wheels, LIHEAP energy assistance, emergency food and shelter, and case management services.",
+    "address": "1317 W Highland Avenue, Selma, AL 36701",
+    "phone": "(334) 418-0023",
+    "url": "https://www.cspwal.com/",
+    "categorySlug": "community",
+    "zipCode": "36701"
+  },
+  {
+    "name": "Dallas County Health Department",
+    "description": "Public health clinic in Selma offering WIC, STD testing, family planning, immunizations, and well-woman care to Dallas County residents.",
+    "address": "100 Samuel O. Moseley Drive, Selma, AL 36701",
+    "phone": "(334) 874-2550",
+    "url": "https://www.alabamapublichealth.gov/dallas/",
+    "categorySlug": "healthcare",
+    "zipCode": "36701"
+  },
+  {
+    "name": "Dallas County System of Services – Family Resource Center",
+    "description": "Community resource center in Selma connecting residents to food assistance, family support, youth programs, and social services to strengthen Dallas County families.",
+    "address": "22 Church Street, Selma, AL 36701",
+    "phone": "(334) 526-4567",
+    "url": "https://dallascountysos.org/",
+    "categorySlug": "community",
+    "zipCode": "36701"
+  },
+  {
+    "name": "Selma Area Food Bank",
+    "description": "Regional food bank serving nearly 50 nonprofit agencies and churches across Dallas, Perry, Wilcox, and Marengo Counties, distributing over one million pounds of food annually.",
+    "address": "497 Oak Street, Selma, AL 36701",
+    "phone": "(334) 872-4111",
+    "url": "https://selmafoodbank.com/",
+    "categorySlug": "food",
+    "zipCode": "36701"
+  },
+  {
+    "name": "Community Action Agency of Northeast Alabama",
+    "description": "Regional community action agency offering LIHEAP energy assistance, emergency food and shelter, and supportive services across DeKalb, Cherokee, and surrounding northeast Alabama counties.",
+    "address": "1481 McCurdy Ave S, Rainsville, AL 35986",
+    "phone": "(256) 638-4430",
+    "url": "https://www.caaneal.org/",
+    "categorySlug": "community",
+    "zipCode": "35986"
+  },
+  {
+    "name": "Community Action Agency of Northeast Alabama – DeKalb",
+    "description": "Community action agency providing LIHEAP energy assistance, emergency food and shelter, and supportive services to DeKalb County and surrounding northeast Alabama counties.",
+    "address": "1481 McCurdy Ave S, Rainsville, AL 35986",
+    "phone": "(256) 638-4430",
+    "url": "https://www.caaneal.org/dekalbcopage",
+    "categorySlug": "community",
+    "zipCode": "35986"
+  },
+  {
+    "name": "DeKalb County Health Department",
+    "description": "Alabama Department of Public Health clinic in Fort Payne providing WIC, family planning, immunizations, and clinical services to DeKalb County residents.",
+    "address": "2401 Calvin Drive SW, Fort Payne, AL 35967",
+    "phone": "(256) 845-1931",
+    "url": "https://www.alabamapublichealth.gov/Dekalb/",
+    "categorySlug": "healthcare",
+    "zipCode": "35967"
+  },
+  {
+    "name": "Salvation Army of DeKalb County",
+    "description": "Provides food pantry services, emergency financial assistance, and basic needs support to DeKalb County residents in the Fort Payne area.",
+    "address": "450 Gault Avenue, Fort Payne, AL 35967",
+    "phone": "(256) 845-3990",
+    "url": "https://southernusa.salvationarmy.org/ala-lou-mis/gadsden/",
+    "categorySlug": "food",
+    "zipCode": "35967"
+  },
+  {
+    "name": "Elmore County Food Pantry",
+    "description": "Nonprofit food pantry in Wetumpka distributing free groceries to Elmore County households experiencing food insecurity, open Tuesday through Friday.",
+    "address": "515 West Boundary Street, Wetumpka, AL 36092",
+    "phone": "(334) 567-3232",
+    "url": "https://elmorecountyfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "36092"
+  },
+  {
+    "name": "Elmore County Health Department",
+    "description": "Alabama Department of Public Health clinic in Wetumpka providing WIC, family planning, immunizations, and clinical services to Elmore County residents.",
+    "address": "6501 US Highway 231, Wetumpka, AL 36092",
+    "phone": "(334) 567-1171",
+    "url": "https://www.alabamapublichealth.gov/elmore/",
+    "categorySlug": "healthcare",
+    "zipCode": "36092"
+  },
+  {
+    "name": "Community Action Agency of South Alabama – Escambia County",
+    "description": "Community action agency in Brewton providing LIHEAP energy assistance, emergency food and shelter, and supportive services to low-income Escambia County residents.",
+    "address": "3227 Pea Ridge Road, Brewton, AL 36426",
+    "phone": "(251) 867-4759",
+    "url": "http://caaofsa.org/escambia.html",
+    "categorySlug": "community",
+    "zipCode": "36426"
+  },
+  {
+    "name": "Escambia County Health Department – Brewton",
+    "description": "Alabama Department of Public Health clinic providing WIC, family planning, immunizations, STD testing, and well-woman services to Escambia County residents.",
+    "address": "1115 Azalea Place, Brewton, AL 36426",
+    "phone": "(251) 867-5765",
+    "url": "https://www.alabamapublichealth.gov/escambia/",
+    "categorySlug": "healthcare",
+    "zipCode": "36426"
+  },
+  {
+    "name": "Community Action of Etowah County",
+    "description": "Community action agency in Gadsden working to reduce poverty in Etowah County through LIHEAP energy assistance, emergency food and shelter, and direct referral services.",
+    "address": "624 Broad Street, Gadsden, AL 35901",
+    "phone": "(256) 546-9271",
+    "url": "https://communityaction-etowah.org/",
+    "categorySlug": "community",
+    "zipCode": "35901"
+  },
+  {
+    "name": "Etowah County Community Food Bank",
+    "description": "Food bank in Gadsden distributing food to nonprofit agencies, shelters, and hungry families throughout Etowah County as a United Way partner agency.",
+    "address": "605 S 4th Street, Gadsden, AL 35901",
+    "phone": "(256) 494-9608",
+    "url": "https://etowahcommunityfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "35901"
+  },
+  {
+    "name": "Fayette Samaritans",
+    "description": "Christian ministry serving families in Fayette County in critical need of food, clothing, and emergency financial assistance. Open Monday–Friday 9:00 AM–noon on a first-come basis.",
+    "address": "Fayette, AL 35555",
+    "phone": "",
+    "url": "https://fayettesamaritans.org/",
+    "categorySlug": "food",
+    "zipCode": "35555"
+  },
+  {
+    "name": "Community Action Agency of Northwest Alabama – Franklin County Office",
+    "description": "Community action agency providing free food, utility bill assistance, rental assistance, housing counseling, and weatherization for low-income residents of Franklin County.",
+    "address": "13150 Hwy. 43, Suite 4, Russellville, AL 35653",
+    "phone": "(256) 332-7534",
+    "url": "https://www.caanw.org/",
+    "categorySlug": "community",
+    "zipCode": "35653"
+  },
+  {
+    "name": "Family Health Care Clinic",
+    "description": "Federally Qualified Health Center providing primary care, preventive health, and other medical services to residents of Franklin County regardless of ability to pay.",
+    "address": "318 Coffee Ave, Russellville, AL 35653",
+    "phone": "(256) 332-1629",
+    "url": "https://www.alabamapublichealth.gov/franklin/",
+    "categorySlug": "healthcare",
+    "zipCode": "35653"
+  },
+  {
+    "name": "Greene County Health System",
+    "description": "County-owned hospital and health system providing inpatient, outpatient, and emergency medical care to residents of Greene County and surrounding areas.",
+    "address": "509 Wilson Ave, Eutaw, AL 35462",
+    "phone": "(205) 372-3388",
+    "url": "https://gcheutaw.com/",
+    "categorySlug": "healthcare",
+    "zipCode": "35462"
+  },
+  {
+    "name": "Henry County Health Department",
+    "description": "Public health department providing WIC, family planning, STD testing and treatment, immunizations, and breast and cervical cancer screening to Henry County residents.",
+    "address": "505 Kirkland Street, Abbeville, AL 36310",
+    "phone": "(334) 585-2660",
+    "url": "https://www.alabamapublichealth.gov/henry/",
+    "categorySlug": "healthcare",
+    "zipCode": "36310"
+  },
+  {
+    "name": "Houston County Health Department",
+    "description": "Public health department offering WIC, family planning, clinical, and home health services to Houston County residents from their Dothan location.",
+    "address": "1781 East Cottonwood Road, Dothan, AL 36301",
+    "phone": "(334) 678-2800",
+    "url": "https://www.alabamapublichealth.gov/houston/",
+    "categorySlug": "healthcare",
+    "zipCode": "36301"
+  },
+  {
+    "name": "Love in Action International Ministries",
+    "description": "Provides food, hygiene items, and clothing free of charge to homeless and low-income individuals in Dothan; operates the Samaritan Clinic offering free healthcare to uninsured residents.",
+    "address": "279 W. Main St, Dothan, AL 36301",
+    "phone": "(334) 671-2000",
+    "url": "https://loveinactionministries.com/dothan/",
+    "categorySlug": "community",
+    "zipCode": "36301"
+  },
+  {
+    "name": "Wiregrass Area Food Bank",
+    "description": "Regional food bank distributing donated food and developing community partnerships to address hunger in Southeast Alabama, serving Houston and surrounding counties.",
+    "address": "382 Twitchell Rd, Dothan, AL 36303",
+    "phone": "(334) 794-9775",
+    "url": "https://www.wiregrassfoodbank.com/",
+    "categorySlug": "food",
+    "zipCode": "36303"
+  },
+  {
+    "name": "Jackson County Health Department",
+    "description": "Public health department offering WIC, clinical services, family planning, immunizations, and environmental health services to Jackson County residents.",
+    "address": "204 Liberty Lane, Scottsboro, AL 35769",
+    "phone": "(256) 574-2950",
+    "url": "https://www.alabamapublichealth.gov/jackson/",
+    "categorySlug": "healthcare",
+    "zipCode": "35769"
+  },
+  {
+    "name": "Life Resource Services of Jackson County",
+    "description": "Provides resources and skills to individuals experiencing homelessness, helping them obtain and maintain adequate housing in Jackson County.",
+    "address": "304 South Andrews St, Scottsboro, AL 35768",
+    "phone": "(256) 259-2827",
+    "url": "https://www.jacksoncountyal.gov/189/Community-Action",
+    "categorySlug": "housing",
+    "zipCode": "35768"
+  },
+  {
+    "name": "Community Food Bank of Central Alabama",
+    "description": "Regional food bank distributing food to neighbors facing hunger across a 12-county footprint including Jefferson County, partnering with local pantries and programs to provide millions of meals annually.",
+    "address": "107 Walter Davis Drive, Birmingham, AL 35209",
+    "phone": "(205) 942-8911",
+    "url": "https://feedingal.org/",
+    "categorySlug": "food",
+    "zipCode": "35209"
+  },
+  {
+    "name": "Cooper Green Mercy Health Services",
+    "description": "Jefferson County safety-net hospital and outpatient clinic providing primary and specialty care on a sliding-fee scale for uninsured and underinsured residents of Jefferson County.",
+    "address": "1515 6th Avenue South, Birmingham, AL 35233",
+    "phone": "(205) 930-3200",
+    "url": "https://coopergreen.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "35233"
+  },
+  {
+    "name": "Jimmie Hale Mission",
+    "description": "Christian nonprofit providing emergency shelter, transitional housing, drug and alcohol recovery programs, GED classes, life-skills training, and case management for homeless men, women, and children in Birmingham.",
+    "address": "3420 2nd Ave North, Birmingham, AL 35222",
+    "phone": "(205) 323-5878",
+    "url": "https://jimmiehalemission.com/",
+    "categorySlug": "housing",
+    "zipCode": "35222"
+  },
+  {
+    "name": "Salvation Army of Greater Birmingham",
+    "description": "Provides emergency food, shelter, clothing, and counseling to individuals and families in need across Jefferson, Shelby, and St. Clair Counties.",
+    "address": "2015 26th Avenue North, Birmingham, AL 35234",
+    "phone": "(205) 328-2420",
+    "url": "https://southernusa.salvationarmy.org/birmingham-al/",
+    "categorySlug": "housing",
+    "zipCode": "35234"
+  },
+  {
+    "name": "Auburn Housing Authority",
+    "description": "Public housing authority providing affordable housing assistance including public housing units and Section 8 vouchers to low-income individuals and families in Auburn.",
+    "address": "931 Booker Street, Auburn, AL 36832",
+    "phone": "(334) 821-2262",
+    "url": "https://www.auburnhousingauth.org/",
+    "categorySlug": "housing",
+    "zipCode": "36832"
+  },
+  {
+    "name": "Children and Family Connection of Russell County",
+    "description": "Food pantry and social services organization providing emergency food assistance and referral services to residents of Lee and Russell counties in the Phenix City area.",
+    "address": "910 13th Street, Phenix City, AL 36870",
+    "phone": "(334) 448-1010",
+    "url": "https://www.achr.com/",
+    "categorySlug": "food",
+    "zipCode": "36870"
+  },
+  {
+    "name": "East Alabama Medical Center",
+    "description": "Full-service regional medical center and health system providing emergency, inpatient, outpatient, and specialty care for an 11-county area in east Alabama centered on Opelika.",
+    "address": "2000 Pepperell Pkwy, Opelika, AL 36801",
+    "phone": "(334) 749-3411",
+    "url": "https://www.eastalabamahealth.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "36801"
+  },
+  {
+    "name": "Food Bank of East Alabama",
+    "description": "Nonprofit food bank serving Lee County and surrounding east Alabama counties, providing food access to low-income residents through direct distribution and a network of partner pantries.",
+    "address": "355 Industry Drive, Auburn, AL 36832",
+    "phone": "(334) 821-9006",
+    "url": "https://foodbankofeastalabama.com/",
+    "categorySlug": "food",
+    "zipCode": "36832"
+  },
+  {
+    "name": "Community Table (formerly LCCI)",
+    "description": "Faith-based organization providing a food pantry with perishable and non-perishable items to Limestone County families, plus emergency rent and utility assistance.",
+    "address": "201 N Jefferson St, Athens, AL 35611",
+    "phone": "(256) 262-0671",
+    "url": "https://communitytableathens.org/",
+    "categorySlug": "food",
+    "zipCode": "35611"
+  },
+  {
+    "name": "Macon County Health Department",
+    "description": "Public health department offering WIC, family planning, immunizations, STD testing, and clinical services to Macon County residents.",
+    "address": "812 Hospital Road, Tuskegee, AL 36083",
+    "phone": "(334) 727-1800",
+    "url": "https://www.alabamapublichealth.gov/macon/",
+    "categorySlug": "healthcare",
+    "zipCode": "36083"
+  },
+  {
+    "name": "Macon County Healthcare Authority",
+    "description": "County healthcare authority guarding the Thomas Reed Medical Center and providing community health services for Macon County residents including those in Tuskegee.",
+    "address": "712 Hospital Road, Tuskegee, AL 36083",
+    "phone": "(334) 727-4100",
+    "url": "https://maconhealthauthority.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "36083"
+  },
+  {
+    "name": "Community Action Partnership Huntsville/Madison & Limestone Counties",
+    "description": "Community action agency serving Limestone County with LIHEAP energy assistance, emergency rental assistance, homeless prevention, and rapid re-housing programs.",
+    "address": "3516 Stringfield Road NW, Huntsville, AL 35810",
+    "phone": "(256) 851-9800",
+    "url": "https://caa-htsval.org/",
+    "categorySlug": "community",
+    "zipCode": "35810"
+  },
+  {
+    "name": "Food Bank of North Alabama",
+    "description": "Regional food bank headquartered in Huntsville serving North Alabama including Lauderdale and Lawrence Counties, operating mobile pantry events and partnering with local agencies to feed families in need.",
+    "address": "2000 Vernon Ave SW, Huntsville, AL 35805",
+    "phone": "(256) 539-2256",
+    "url": "https://www.foodbanknorthal.org/",
+    "categorySlug": "food",
+    "zipCode": "35805"
+  },
+  {
+    "name": "Huntsville Assistance Program",
+    "description": "Emergency food pantry providing free groceries and limited financial assistance to Madison County residents, with three pantry locations serving Huntsville, Madison, and Toney.",
+    "address": "1001 Monroe Street SW, Huntsville, AL 35801",
+    "phone": "(256) 539-2320",
+    "url": "https://huntsvilleap.org/",
+    "categorySlug": "food",
+    "zipCode": "35801"
+  },
+  {
+    "name": "WellStone Behavioral Health",
+    "description": "Nonprofit behavioral health center offering crisis services, mental health counseling, substance abuse treatment, and emergency psychiatric care for Madison County and North Alabama.",
+    "address": "4040 South Memorial Parkway, Huntsville, AL 35802",
+    "phone": "(256) 533-1970",
+    "url": "https://wellstone.com/",
+    "categorySlug": "healthcare",
+    "zipCode": "35802"
+  },
+  {
+    "name": "Marion-Winston Community Action Agency",
+    "description": "Community action agency headquartered in Hamilton providing food pantry services, transportation, utility assistance, and social services to low-income households in Marion and Winston Counties.",
+    "address": "372 7th Ave SW, Hamilton, AL 35570",
+    "phone": "(205) 921-4224",
+    "url": "https://caamw.org/",
+    "categorySlug": "community",
+    "zipCode": "35570"
+  },
+  {
+    "name": "Marshall County Resource Ministries",
+    "description": "Nonprofit bridging gaps for underserved Marshall County residents by connecting them to community resources, agencies, and spiritual care including food and emergency assistance.",
+    "address": "504 Mitchell Ave, Albertville, AL 35950",
+    "phone": "(256) 281-9008",
+    "url": "https://marshallcountyresourceministries.org/",
+    "categorySlug": "community",
+    "zipCode": "35950"
+  },
+  {
+    "name": "Dumas Wesley Community Center",
+    "description": "Community center offering transitional housing (Sybil Smith Family Village), senior programs, immigration services, and comprehensive support for homeless women, children, and working poor in Mobile.",
+    "address": "126 Mobile St, Mobile, AL 36607",
+    "phone": "(251) 479-0649",
+    "url": "https://www.dumaswesley.org/",
+    "categorySlug": "housing",
+    "zipCode": "36607"
+  },
+  {
+    "name": "Feeding the Gulf Coast",
+    "description": "Regional food bank (formerly Bay Area Food Bank) serving south Alabama including Mobile County through a network of partner agencies and mobile pantries to fight hunger.",
+    "address": "400 Rabby St, Theodore, AL 36582",
+    "phone": "(251) 653-1617",
+    "url": "https://www.feedingthegulfcoast.org/",
+    "categorySlug": "food",
+    "zipCode": "36582"
+  },
+  {
+    "name": "Franklin Primary Health Center",
+    "description": "Federally Qualified Health Center (FQHC) providing comprehensive primary care, dental, pediatrics, OB/GYN, and free healthcare for the homeless across multiple Mobile locations.",
+    "address": "1303 Dr. Martin Luther King, Jr. Ave, Mobile, AL 36603",
+    "phone": "(251) 432-4117",
+    "url": "https://franklinprimary.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "36603"
+  },
+  {
+    "name": "Mobile Community Action, Inc.",
+    "description": "Community action agency serving Mobile and Washington counties with food vouchers, utility assistance, rent assistance, Head Start, GED, and nutrition programs for low-income residents.",
+    "address": "461 Donald Street, Mobile, AL 36617",
+    "phone": "(251) 457-5700",
+    "url": "https://www.mcamobile.org/",
+    "categorySlug": "community",
+    "zipCode": "36617"
+  },
+  {
+    "name": "Mobile County Health Department",
+    "description": "Public health department providing clinical services, WIC, family planning, immunizations, STD testing, and home health care across multiple Mobile County locations including Citronelle and Bayou La Batre.",
+    "address": "251 N. Bayou St, Mobile, AL 36603",
+    "phone": "(251) 690-8167",
+    "url": "https://mchd.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "36603"
+  },
+  {
+    "name": "Waterfront Rescue Mission",
+    "description": "Christian rescue mission providing emergency shelter, meals, drug and alcohol recovery programs, career development, and community care services to men experiencing homelessness in Mobile.",
+    "address": "206 State St, Mobile, AL 36603",
+    "phone": "(888) 853-8655",
+    "url": "https://waterfrontmission.org/",
+    "categorySlug": "housing",
+    "zipCode": "36603"
+  },
+  {
+    "name": "Faith Crusade Montgomery Rescue Mission",
+    "description": "Rescue mission providing emergency shelter, meals, and recovery services to men and women experiencing homelessness in Montgomery, Alabama.",
+    "address": "17 Mildred St, Montgomery, AL 36104",
+    "phone": "(334) 834-0551",
+    "url": "https://www.fcmrm.org/",
+    "categorySlug": "housing",
+    "zipCode": "36104"
+  },
+  {
+    "name": "Health Services, Inc.",
+    "description": "Federally Qualified Health Center providing quality primary health care to low-income and uninsured residents in the Montgomery area, including locations serving Pike Road and rural Montgomery County.",
+    "address": "1845 Cherry Street, Montgomery, AL 36107",
+    "phone": "(334) 420-5001",
+    "url": "https://www.healthservicesinc.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "36107"
+  },
+  {
+    "name": "Heart of Alabama Food Bank",
+    "description": "Feeding America member food bank distributing food across 35 Alabama counties, serving Montgomery directly with a network of 230+ partner pantries, soup kitchens, and shelters.",
+    "address": "521 Trade Center St, Montgomery, AL 36108",
+    "phone": "(334) 263-3784",
+    "url": "https://hafb.org/",
+    "categorySlug": "food",
+    "zipCode": "36108"
+  },
+  {
+    "name": "Montgomery Community Action Committee",
+    "description": "Community action agency combating poverty in the River Region through utility assistance, food programs, housing aid, Head Start, and self-sufficiency programs for low-income residents.",
+    "address": "1066 Adams Avenue, Montgomery, AL 36104",
+    "phone": "(334) 263-3474",
+    "url": "https://mcacinc.org/",
+    "categorySlug": "community",
+    "zipCode": "36104"
+  },
+  {
+    "name": "Community Action Partnership of North Alabama",
+    "description": "Community action agency serving Morgan County (Decatur, Hartselle) with utility assistance, weatherization, housing, Head Start, Meals on Wheels, and family support services.",
+    "address": "1909 Central Parkway SW, Decatur, AL 35601",
+    "phone": "(256) 355-7843",
+    "url": "https://capna.org/",
+    "categorySlug": "community",
+    "zipCode": "35601"
+  },
+  {
+    "name": "Pickens County Community Action Committee",
+    "description": "Community action agency providing emergency food assistance, utility aid, LIHEAP, and social services to low-income residents throughout Pickens County including Carrollton, Reform, and Gordo.",
+    "address": "71 Lakeside St, Carrollton, AL 35442",
+    "phone": "(205) 367-8166",
+    "url": "https://www.caapickens.org/",
+    "categorySlug": "community",
+    "zipCode": "35442"
+  },
+  {
+    "name": "Organized Community Action Program (OCAP)",
+    "description": "Community action agency providing emergency food and shelter assistance, utility help, and referral services to low-income residents in Pike and surrounding counties.",
+    "address": "507 N Three Notch Street, Troy, AL 36081",
+    "phone": "(334) 566-1712",
+    "url": "https://ocaptroy.org/",
+    "categorySlug": "community",
+    "zipCode": "36081"
+  },
+  {
+    "name": "Community Action Agency of TCRCC",
+    "description": "Community action agency serving Talladega, Clay, Randolph, Calhoun, and Cleburne counties with utility assistance, housing aid, transportation, and anti-poverty programs. Roanoke office serves Randolph County.",
+    "address": "136 North Court Street, Talladega, AL 35161",
+    "phone": "(256) 362-6611",
+    "url": "https://www.communityactiontcrcc.com/",
+    "categorySlug": "community",
+    "zipCode": "36274"
+  },
+  {
+    "name": "St. Clair Community Health Clinic",
+    "description": "Non-profit health clinic providing affordable primary care, preventive services, chronic disease management, and basic urgent care to uninsured and underinsured residents of St. Clair County.",
+    "address": "205 Edwin Holladay Place, Pell City, AL 35125",
+    "phone": "(205) 338-4806",
+    "url": "https://stclairchc.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "35125"
+  },
+  {
+    "name": "Five Horizons Health Services",
+    "description": "Non-profit health organization (formerly West Alabama AIDS Outreach) providing HIV/AIDS case management, medical care, housing assistance, and prevention services to West Alabama and East Mississippi residents.",
+    "address": "2720 6th Street, Tuscaloosa, AL 35401",
+    "phone": "(205) 759-8470",
+    "url": "https://www.fivehorizons.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "35401"
+  },
+  {
+    "name": "The Salvation Army - Tuscaloosa Center of Hope",
+    "description": "Emergency shelter and social services center providing meals, case management, counseling, housing assistance, food pantry, and emergency financial aid to individuals and families in Tuscaloosa.",
+    "address": "2902 Greensboro Avenue, Tuscaloosa, AL 35401",
+    "phone": "(205) 632-3691",
+    "url": "https://www.salvationarmyusa.org/al/tuscaloosa/",
+    "categorySlug": "housing",
+    "zipCode": "35401"
+  },
+  {
+    "name": "West Alabama Food Bank",
+    "description": "Regional food bank serving nine West Alabama counties including Fayette, distributing food through local pantries, churches, and community centers to address food insecurity.",
+    "address": "3160 McFarland Blvd, Northport, AL 35476",
+    "phone": "(205) 333-5353",
+    "url": "https://westalabamafoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "35476"
+  },
+  {
+    "name": "Whatley Health Services",
+    "description": "Federally Qualified Health Center providing primary care to underserved residents across West Alabama including Perry and Pickens counties, with sliding-scale fees and services for homeless individuals.",
+    "address": "2731 Martin Luther King Jr. Blvd, Tuscaloosa, AL 35401",
+    "phone": "(205) 758-6647",
+    "url": "https://whatleyhealth.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "35401"
+  },
+  {
+    "name": "Walker County Community Action Agency",
+    "description": "Community action agency serving Walker County with energy assistance, financial and housing counseling, career resources, transportation, clothing assistance, and youth programs.",
+    "address": "644 19th St W, Jasper, AL 35501",
+    "phone": "(205) 221-4010",
+    "url": "https://caawalker.org/",
+    "categorySlug": "community",
+    "zipCode": "35501"
+  },
+  {
+    "name": "Washington County Hospital and Nursing Home",
+    "description": "Critical Access Hospital serving as the sole institutional healthcare provider in Washington County, operating a 25-bed hospital, 88-bed nursing facility, and outpatient services in Chatom.",
+    "address": "14600 St. Stephens Ave, Chatom, AL 36518",
+    "phone": "(251) 847-2223",
+    "url": "https://www.wchnh.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "36518"
+  },
+  {
+    "name": "Northwest Alabama Mental Health Center - Winston County",
+    "description": "Outpatient mental health and substance use disorder services for residents of Winston County, providing adult outpatient counseling, psychiatric services, and crisis intervention.",
+    "address": "71 Carraway Drive, Haleyville, AL 35565",
+    "phone": "(205) 486-5855",
+    "url": "https://www.nwamhc.com/",
+    "categorySlug": "healthcare",
+    "zipCode": "35565"
+  }
+]

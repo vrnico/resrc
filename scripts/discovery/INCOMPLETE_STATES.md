@@ -695,10 +695,19 @@ States with unsearched zip code batches. Each entry lists the exact batches, cou
   - Cities: Newcastle, Osage, Ten Sleep, Upton
   - Zips: 82442, 82701, 82723, 82730
 
+## AL — Alabama ✓ COMPLETE
+**42/42 batches searched · 0 remaining**
+
+## AR — Arkansas ✓ COMPLETE
+**40/40 batches searched · 0 remaining**
+
+## IL — Illinois ✓ COMPLETE
+**66/66 batches searched · 0 remaining**
+
 ---
 
 ## Not Started (no batch config)
 
-AL, AR, IL, IN, IA, KS, KY, LA, MA, MI, MN, MS, MO, NE, ND, OH, OK, SD, TN, TX, WI
+IN, IA, KS, KY, LA, MA, MI, MN, MS, MO, NE, ND, OH, OK, SD, TN, TX, WI
 
 These states need batch config files created before scanning can begin.
