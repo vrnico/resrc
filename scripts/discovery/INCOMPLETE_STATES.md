@@ -715,8 +715,17 @@ States with unsearched zip code batches. Each entry lists the exact batches, cou
 ## SD — South Dakota ✓ COMPLETE
 **26/26 batches searched · 0 remaining**
 
+## IA — Iowa ✓ COMPLETE
+**63/63 batches searched · 0 remaining**
+
+## IN — Indiana ✓ COMPLETE
+**51/51 batches searched · 0 remaining**
+
+## KS — Kansas ✓ COMPLETE
+**47/47 batches searched · 0 remaining**
+
 ## Not Started (no batch config)
 
-IN, IA, KS, KY, LA, MA, MI, MN, MO, NE, OH, OK, TN, TX, WI
+KY, LA, MA, MI, MN, MO, NE, OH, OK, TN, TX, WI
 
 These states need batch config files created before scanning can begin.
