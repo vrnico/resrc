@@ -4,7 +4,7 @@ States with unsearched zip code batches. Each entry lists the exact batches, cou
 
 ---
 
-## AK — Alaska
+## AK — Alaska ✓ COMPLETE
 **1/17 batches searched · 16 remaining**
 
 - **Batch 002** | Counties: Anchorage Borough, Bethel Census Area
@@ -603,7 +603,7 @@ States with unsearched zip code batches. Each entry lists the exact batches, cou
   - Cities: Bosque Farms, Peralta
   - Zips: 87042, 87068
 
-## UT — Utah
+## UT — Utah ✓ COMPLETE
 **1/19 batches searched · 18 remaining**
 
 - **Batch 002** | Counties: Box Elder, Cache
@@ -661,7 +661,7 @@ States with unsearched zip code batches. Each entry lists the exact batches, cou
   - Cities: Eden, Hooper, Huntsville, Ogden
   - Zips: 84310, 84315, 84317, 84401, 84403, 84404, 84405, 84414
 
-## WY — Wyoming
+## WY — Wyoming ✓ COMPLETE
 **2/12 batches searched · 10 remaining**
 
 - **Batch 003** | Counties: Carbon, Converse, Crook
