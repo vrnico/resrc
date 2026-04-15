@@ -18,6 +18,24 @@
     "zipCode": "86556"
   },
   {
+    "name": "Tsaile Health Center (IHS)",
+    "description": "Indian Health Service ambulatory care facility serving the Navajo Nation in the Lukachukai Mountain area, providing primary and preventive care.",
+    "address": "Indian Route 64, Tsaile, AZ 86556",
+    "phone": "(928) 724-3600",
+    "url": "https://www.ihs.gov/navajo/healthcarefacilities/tsaile/",
+    "categorySlug": "healthcare",
+    "zipCode": "86556"
+  },
+  {
+    "name": "Bisbee Coalition for the Homeless",
+    "description": "24/7 emergency shelter providing food bags, hot meals, and delivered meals to homeless individuals and families in Cochise County.",
+    "address": "509 Romero St, Bisbee, AZ 85603",
+    "phone": "(520) 432-7839",
+    "url": "https://bisbeeshelter.org/",
+    "categorySlug": "housing",
+    "zipCode": "85603"
+  },
+  {
     "name": "Bisbee Coalition for the Homeless",
     "description": "24/7 emergency shelter providing food bags, hot meals, and delivered meals to homeless individuals and families in Cochise County.",
     "address": "509 Romero St, Bisbee, AZ 85603",
@@ -50,6 +68,15 @@
     "address": "115 Calle Portal, Sierra Vista, AZ 85635",
     "phone": "(520) 459-3011",
     "url": "https://cchci.org/contact-pages/sierra-vista-family-clinic",
+    "categorySlug": "healthcare",
+    "zipCode": "85635"
+  },
+  {
+    "name": "Chiricahua Community Health Centers – Sierra Vista Adult Clinic",
+    "description": "FQHC providing adult and women's health, integrated behavioral health, substance use counseling, and dietetics for southeastern Arizona residents.",
+    "address": "155 Calle Portal Ste 300, Sierra Vista, AZ 85635",
+    "phone": "(520) 459-3011",
+    "url": "https://cchci.org/",
     "categorySlug": "healthcare",
     "zipCode": "85635"
   },
@@ -117,6 +144,24 @@
     "zipCode": "85635"
   },
   {
+    "name": "St. Vincent de Paul Food Bank – Sierra Vista",
+    "description": "Provides monthly food boxes, TEFAP, CSFP, and a weekly bread and produce program to families in the Sierra Vista area.",
+    "address": "614 Bartow Dr, Sierra Vista, AZ 85635",
+    "phone": "",
+    "url": "https://www.stvincentdepaul.net/",
+    "categorySlug": "food",
+    "zipCode": "85635"
+  },
+  {
+    "name": "The Salvation Army Sierra Vista Corps",
+    "description": "Provides food pantry services, emergency financial assistance, and social services to individuals and families in the Sierra Vista area.",
+    "address": "180 E Wilcox Dr, Sierra Vista, AZ 85635",
+    "phone": "",
+    "url": "https://www.salvationarmyusa.org/usn/",
+    "categorySlug": "food",
+    "zipCode": "85635"
+  },
+  {
     "name": "The Salvation Army Sierra Vista Corps",
     "description": "Provides food pantry services, emergency financial assistance, and social services to individuals and families in the Sierra Vista area.",
     "address": "180 E Wilcox Dr, Sierra Vista, AZ 85635",
@@ -171,6 +216,15 @@
     "zipCode": "86004"
   },
   {
+    "name": "Flagstaff Family Food Center",
+    "description": "Northern Arizona's largest food bank providing food boxes, a hot meal kitchen program, and children's literacy programs to food-insecure residents.",
+    "address": "3805 E Huntington Dr, Flagstaff, AZ 86004",
+    "phone": "(928) 526-2211",
+    "url": "https://hotfood.org/",
+    "categorySlug": "food",
+    "zipCode": "86004"
+  },
+  {
     "name": "Flagstaff Shelter Services",
     "description": "Largest emergency shelter in Northern Arizona, providing emergency housing and critical support services to over 2,000 individuals annually.",
     "address": "4185 E Huntington Dr, Flagstaff, AZ 86004",
@@ -186,6 +240,24 @@
     "phone": "(928) 225-2533",
     "url": "https://flagshelter.org/",
     "categorySlug": "housing",
+    "zipCode": "86004"
+  },
+  {
+    "name": "Flagstaff Shelter Services",
+    "description": "Largest emergency shelter in Northern Arizona, providing emergency housing and critical support services to over 2,000 individuals annually.",
+    "address": "4185 E Huntington Dr, Flagstaff, AZ 86004",
+    "phone": "(928) 225-2533",
+    "url": "https://flagshelter.org/",
+    "categorySlug": "housing",
+    "zipCode": "86004"
+  },
+  {
+    "name": "North Country HealthCare – Flagstaff",
+    "description": "Federally Qualified Health Center offering family medicine, pediatrics, OB/GYN, dental, behavioral health, and pharmacy services in northern Arizona.",
+    "address": "2920 N 4th St, Flagstaff, AZ 86004",
+    "phone": "(928) 522-9400",
+    "url": "https://northcountryhealthcare.org/",
+    "categorySlug": "healthcare",
     "zipCode": "86004"
   },
   {
@@ -223,6 +295,24 @@
     "url": "http://www.srm-hc.org/",
     "categorySlug": "housing",
     "zipCode": "86001"
+  },
+  {
+    "name": "Sunshine Rescue Mission",
+    "description": "Downtown Flagstaff shelter providing emergency meals, overnight lodging, and recovery support services to homeless adults.",
+    "address": "124 S San Francisco St, Flagstaff, AZ 86001",
+    "phone": "(928) 774-3512",
+    "url": "http://www.srm-hc.org/",
+    "categorySlug": "housing",
+    "zipCode": "86001"
+  },
+  {
+    "name": "Canyonlands Healthcare – Globe",
+    "description": "FQHC providing primary care, dental, and behavioral health services to residents of Gila County on a sliding-fee scale.",
+    "address": "5860 S Hospital Dr Ste 102, Globe, AZ 85501",
+    "phone": "(928) 402-0491",
+    "url": "https://canyonlandschc.org/canyonlands-healthcare-globe/",
+    "categorySlug": "healthcare",
+    "zipCode": "85501"
   },
   {
     "name": "Canyonlands Healthcare – Globe",
@@ -306,6 +396,15 @@
     "zipCode": "85541"
   },
   {
+    "name": "Payson Warming Center",
+    "description": "Year-round shelter and warming center serving homeless individuals and veterans in Northern Gila County with nutrition assistance and basic needs support.",
+    "address": "601 E Hwy 260 Bldg A, Payson, AZ 85541",
+    "phone": "(928) 474-3190",
+    "url": "https://phhvidbawarmingcenter.org/",
+    "categorySlug": "housing",
+    "zipCode": "85541"
+  },
+  {
     "name": "Canyonlands Healthcare – Safford",
     "description": "Federally Qualified Health Center in Safford providing primary care, dental, behavioral health, substance use treatment, and pharmacy on a sliding-fee scale to Graham County residents regardless of insurance status. Operates multiple sites across rural eastern Arizona.",
     "address": "2016 W 16th St, Safford, AZ 85546",
@@ -340,6 +439,24 @@
     "url": "https://chaarizona.com/location/parker/",
     "categorySlug": "healthcare",
     "zipCode": "85344"
+  },
+  {
+    "name": "Community Health Associates – Parker",
+    "description": "Federally Qualified Health Center offering primary care, dental, and behavioral health services to residents of Parker and La Paz County.",
+    "address": "1021 S Kofa Ave, Parker, AZ 85344",
+    "phone": "(928) 669-5319",
+    "url": "https://chaarizona.com/location/parker/",
+    "categorySlug": "healthcare",
+    "zipCode": "85344"
+  },
+  {
+    "name": "Friends of the Quartzsite Food Bank",
+    "description": "Community food bank providing food, clothing, and toiletries to residents and travelers in the Quartzsite area of La Paz County.",
+    "address": "40 N Moon Mountain Ave, Quartzsite, AZ 85346",
+    "phone": "(928) 927-5479",
+    "url": "https://fqfoodbank.com/",
+    "categorySlug": "food",
+    "zipCode": "85346"
   },
   {
     "name": "Friends of the Quartzsite Food Bank",
@@ -387,6 +504,24 @@
     "zipCode": "85344"
   },
   {
+    "name": "La Paz County Food Bank – Parker",
+    "description": "Community food bank providing emergency food boxes and SNAP enrollment assistance to residents of Parker and La Paz County.",
+    "address": "1124 Geronimo Ave, Parker, AZ 85344",
+    "phone": "(928) 669-0114",
+    "url": "https://azfoodbanks.org/maps/la-paz-county-parker-food-bank/",
+    "categorySlug": "food",
+    "zipCode": "85344"
+  },
+  {
+    "name": "Safford Food Bank – Wenden",
+    "description": "Rural food bank serving the Wenden and Salome area of La Paz County, providing food boxes and bags to local households in need.",
+    "address": "69725 Centennial Park Rd, Wenden, AZ 85357",
+    "phone": "(928) 661-7000",
+    "url": "https://azfoodbanks.org/",
+    "categorySlug": "food",
+    "zipCode": "85357"
+  },
+  {
     "name": "Safford Food Bank – Wenden",
     "description": "Rural food bank serving the Wenden and Salome area of La Paz County, providing food boxes and bags to local households in need.",
     "address": "69725 Centennial Park Rd, Wenden, AZ 85357",
@@ -412,6 +547,15 @@
     "url": "https://www.turnanewleaf.org",
     "categorySlug": "housing",
     "zipCode": "85203"
+  },
+  {
+    "name": "A New Leaf – MesaCAN",
+    "description": "Community action network providing rent and utility assistance, food resources, and financial empowerment services to low-income Mesa residents.",
+    "address": "635 E Broadway Rd, Mesa, AZ 85204",
+    "phone": "(480) 833-9200",
+    "url": "https://turnanewleaf.org/services/financial-empowerment/mesacan/",
+    "categorySlug": "community",
+    "zipCode": "85204"
   },
   {
     "name": "A New Leaf – MesaCAN",
@@ -459,6 +603,15 @@
     "zipCode": "85225"
   },
   {
+    "name": "AZCEND – Chandler Community Assistance",
+    "description": "Provides food pantry, emergency shelter through the I-HELP program, and case management to individuals and families in the Chandler area.",
+    "address": "345 S California St, Chandler, AZ 85225",
+    "phone": "(480) 963-1423",
+    "url": "https://azcend.org/",
+    "categorySlug": "community",
+    "zipCode": "85225"
+  },
+  {
     "name": "Buckeye Valley Food Bank",
     "description": "Serves the far West Valley including Buckeye and Avondale communities with emergency food distribution, providing groceries to hundreds of households each week. Relies on community donations and volunteers to address food insecurity in Maricopa County's fastest-growing corridor.",
     "address": "508 E Monroe Ave, Buckeye, AZ 85326",
@@ -478,10 +631,10 @@
   },
   {
     "name": "Central Arizona Shelter Services (CASS)",
-    "description": "Arizona's largest provider of homeless shelter and services, operating emergency shelter, transitional housing, and rapid rehousing programs for single adults and families in Phoenix. Located on the Human Services Campus, CASS provides case management and pathways to permanent housing for over 500 people nightly.",
+    "description": "Phoenix's largest emergency shelter providing beds, meals, showers, medical and dental care, and housing placement assistance to homeless adults.",
     "address": "230 S 12th Ave, Phoenix, AZ 85007",
     "phone": "(602) 256-6945",
-    "url": "https://cassaz.org",
+    "url": "https://www.cassaz.org/",
     "categorySlug": "housing",
     "zipCode": "85007"
   },
@@ -491,6 +644,15 @@
     "address": "230 S 12th Ave, Phoenix, AZ 85007",
     "phone": "(602) 256-6945",
     "url": "https://www.cassaz.org/",
+    "categorySlug": "housing",
+    "zipCode": "85007"
+  },
+  {
+    "name": "Central Arizona Shelter Services (CASS)",
+    "description": "Arizona's largest provider of homeless shelter and services, operating emergency shelter, transitional housing, and rapid rehousing programs for single adults and families in Phoenix. Located on the Human Services Campus, CASS provides case management and pathways to permanent housing for over 500 people nightly.",
+    "address": "230 S 12th Ave, Phoenix, AZ 85007",
+    "phone": "(602) 256-6945",
+    "url": "https://cassaz.org",
     "categorySlug": "housing",
     "zipCode": "85007"
   },
@@ -576,6 +738,15 @@
     "zipCode": "85020"
   },
   {
+    "name": "HonorHealth Desert Mission Food Bank",
+    "description": "Hospital-affiliated food bank providing free food boxes to food-insecure individuals and families in the North Phoenix area.",
+    "address": "9229 N 4th St, Phoenix, AZ 85020",
+    "phone": "(602) 674-6275",
+    "url": "https://www.desertmission.com/food-bank/",
+    "categorySlug": "food",
+    "zipCode": "85020"
+  },
+  {
     "name": "HonorHealth Scottsdale – Community Benefit",
     "description": "HonorHealth's community benefit programs include free and reduced-cost clinic days and connections to sliding-fee healthcare resources for uninsured Scottsdale-area residents. The health system operates multiple campuses in Scottsdale providing emergency care, primary care, and specialty services.",
     "address": "8125 N Hayden Rd, Scottsdale, AZ 85258",
@@ -637,6 +808,24 @@
     "url": "https://phoenixrescuemission.org/foodbank/",
     "categorySlug": "food",
     "zipCode": "85009"
+  },
+  {
+    "name": "Phoenix Rescue Mission – Hope for Hunger Food Bank",
+    "description": "Large faith-based food distribution center providing free food to families and individuals experiencing food insecurity in the Phoenix metro area.",
+    "address": "1801 S 35th Ave, Phoenix, AZ 85009",
+    "phone": "(602) 233-3000",
+    "url": "https://phoenixrescuemission.org/foodbank/",
+    "categorySlug": "food",
+    "zipCode": "85009"
+  },
+  {
+    "name": "Phoenix Rescue Mission – Hope for Hunger Glendale",
+    "description": "Food distribution center providing free groceries and household goods to families experiencing food insecurity in the West Valley.",
+    "address": "5605 N 55th Ave, Glendale, AZ 85301",
+    "phone": "(602) 233-3000",
+    "url": "https://phoenixrescuemission.org/hope-for-hunger/",
+    "categorySlug": "food",
+    "zipCode": "85301"
   },
   {
     "name": "Phoenix Rescue Mission – Hope for Hunger Glendale",
@@ -702,6 +891,15 @@
     "zipCode": "85281"
   },
   {
+    "name": "Tempe Community Action Agency",
+    "description": "Offers food pantry services and an I-HELP emergency shelter program to homeless adults and food-insecure families in the Tempe area.",
+    "address": "2146 E Apache Blvd, Tempe, AZ 85281",
+    "phone": "(480) 422-8922",
+    "url": "https://tempeaction.org/",
+    "categorySlug": "community",
+    "zipCode": "85281"
+  },
+  {
     "name": "Tempe Community Action Agency (TCAA)",
     "description": "Provides emergency food, utility assistance, housing support, and family services to low-income Tempe residents facing hardship. The food pantry and emergency assistance programs help thousands of households annually navigate crises and build long-term stability.",
     "address": "2146 E Apache Blvd, Tempe, AZ 85281",
@@ -709,6 +907,15 @@
     "url": "https://www.tempe.gov/tcaa",
     "categorySlug": "community",
     "zipCode": "85281"
+  },
+  {
+    "name": "The Salvation Army – Glendale Corps",
+    "description": "Provides food pantry boxes, children's clothing, utility assistance, and seasonal assistance to Glendale-area residents in need.",
+    "address": "6010 W Northern Ave, Glendale, AZ 85301",
+    "phone": "(623) 934-0469",
+    "url": "https://glendale-az.salvationarmy.org/",
+    "categorySlug": "food",
+    "zipCode": "85301"
   },
   {
     "name": "The Salvation Army – Glendale Corps",
@@ -765,6 +972,24 @@
     "zipCode": "85004"
   },
   {
+    "name": "Valleywise Community Health Center – McDowell",
+    "description": "FQHC providing primary, behavioral, and specialty care to uninsured and underserved populations in central Phoenix on a sliding-fee scale.",
+    "address": "1101 N Central Ave Ste 204, Phoenix, AZ 85004",
+    "phone": "(602) 344-6550",
+    "url": "https://valleywisehealth.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "85004"
+  },
+  {
+    "name": "Valleywise Community Health Center – North Phoenix",
+    "description": "Federally Qualified Health Center offering comprehensive primary and behavioral health care to underserved residents of North Phoenix.",
+    "address": "2025 W Northern Ave, Phoenix, AZ 85021",
+    "phone": "(602) 655-6406",
+    "url": "https://valleywisehealth.org/locations/community-health-center-north-phoenix/",
+    "categorySlug": "healthcare",
+    "zipCode": "85021"
+  },
+  {
     "name": "Valleywise Community Health Center – North Phoenix",
     "description": "Federally Qualified Health Center offering comprehensive primary and behavioral health care to underserved residents of North Phoenix.",
     "address": "2025 W Northern Ave, Phoenix, AZ 85021",
@@ -790,6 +1015,15 @@
     "url": "https://www.valleywisehealth.org",
     "categorySlug": "healthcare",
     "zipCode": "85008"
+  },
+  {
+    "name": "Vista del Camino Food Bank – Scottsdale",
+    "description": "City-affiliated food bank providing food boxes and homeless food bags to thousands of Scottsdale-area residents each year by appointment.",
+    "address": "7700 E Roosevelt St, Scottsdale, AZ 85257",
+    "phone": "(480) 312-2323",
+    "url": "https://scottsdalecommunitypartners.org/program/vista-del-camino-food-bank/",
+    "categorySlug": "food",
+    "zipCode": "85257"
   },
   {
     "name": "Vista del Camino Food Bank – Scottsdale",
@@ -864,6 +1098,33 @@
     "zipCode": "86025"
   },
   {
+    "name": "North Country HealthCare - Holbrook",
+    "description": "Federally Qualified Health Center providing high-quality comprehensive medical, dental, and preventive health services for patients in Holbrook and eastern Navajo County.",
+    "address": "2109 Navajo Blvd, Holbrook, AZ 86025",
+    "phone": "(928) 524-2851",
+    "url": "https://northcountryhealthcare.org/locations/holbrook/",
+    "categorySlug": "healthcare",
+    "zipCode": "86025"
+  },
+  {
+    "name": "White Mountain Catholic Charities – Pinetop Lakeside Food Bank",
+    "description": "Catholic Charities-affiliated food bank serving White Mountain-area residents with groceries and household essentials on a walk-in basis, no referral required. Accepts clients needing emergency or supplemental food assistance regardless of income.",
+    "address": "3807 Porter Mountain Rd, Lakeside, AZ 85929",
+    "phone": "(928) 367-2244",
+    "url": "https://azfoodbanks.org/maps/white-mountain-catholic-charities-pinetop-lakeside-food-bank/",
+    "categorySlug": "food",
+    "zipCode": "85929"
+  },
+  {
+    "name": "White Mountain Community Center",
+    "description": "Nonprofit community hub in the Pinetop-Lakeside area offering a food bank, social programs, and community support services for families across the White Mountain region of Navajo County.",
+    "address": "820 Moonridge Dr, Pinetop-Lakeside, AZ 85929",
+    "phone": "(928) 537-9087",
+    "url": "https://www.whitemountaincommunitycenter.com",
+    "categorySlug": "community",
+    "zipCode": "85929"
+  },
+  {
     "name": "White Mountain Community Food Bank",
     "description": "Primary food assistance resource for Navajo County's White Mountain communities, distributing groceries and household essentials to families in the Show Low area and surrounding high-desert communities.",
     "address": "2501 Jicarilla Dr, Show Low, AZ 85901",
@@ -898,6 +1159,15 @@
     "url": "https://www.communityfoodbank.org",
     "categorySlug": "food",
     "zipCode": "85713"
+  },
+  {
+    "name": "Community Food Bank of Southern Arizona - Green Valley",
+    "description": "Food pantry serving Green Valley and Sahuarita-area residents with free food boxes distributed on a monthly basis, offering supplemental nutrition to those in need.",
+    "address": "250 E Continental Rd, Green Valley, AZ 85614",
+    "phone": "(520) 625-2879",
+    "url": "https://www.communityfoodbank.org/locations/green-valley-resource-center/",
+    "categorySlug": "food",
+    "zipCode": "85614"
   },
   {
     "name": "Community Food Bank of Southern Arizona - Green Valley",
@@ -981,6 +1251,33 @@
     "zipCode": "85629"
   },
   {
+    "name": "Pinal Cares",
+    "description": "Pinal County's comprehensive social services program connecting residents with health care, food assistance, housing programs, transportation, and utility support. Serves the Gold Canyon, Apache Junction, and broader Pinal County community.",
+    "address": "31 N Pinal St, Florence, AZ 85132",
+    "phone": "(520) 866-6400",
+    "url": "https://www.pinal.gov/845/Pinal-Cares",
+    "categorySlug": "community",
+    "zipCode": "85219"
+  },
+  {
+    "name": "Pinal County Public Health – Apache Junction Clinic",
+    "description": "County public health clinic providing immunizations, WIC services, family planning, STI testing, and general nursing care to Pinal County residents on a sliding-fee scale. No one is refused service due to inability to pay.",
+    "address": "575 N Idaho Rd, Suite 301, Apache Junction, AZ 85119",
+    "phone": "(866) 960-0633",
+    "url": "https://www.pinal.gov/734/Public-Health",
+    "categorySlug": "healthcare",
+    "zipCode": "85219"
+  },
+  {
+    "name": "Superstition Community Food Bank",
+    "description": "Formerly Apache Junction Reach Out, this nonprofit food bank distributes groceries and emergency food supplies to low-income residents in the Apache Junction and Gold Canyon area of Pinal County. No proof of income or residency required.",
+    "address": "575 N Idaho Rd, Suite 701, Apache Junction, AZ 85119",
+    "phone": "(480) 983-2995",
+    "url": "https://superstitionfoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "85219"
+  },
+  {
     "name": "The Salvation Army Apache Junction Corps",
     "description": "Offers food pantry boxes, bread and fresh produce, public showers, and a seasonal cooling center for residents in need.",
     "address": "605 E Broadway Ave, Apache Junction, AZ 85219",
@@ -997,6 +1294,24 @@
     "url": "https://apachejunction.salvationarmy.org/",
     "categorySlug": "food",
     "zipCode": "85219"
+  },
+  {
+    "name": "The Salvation Army Apache Junction Corps",
+    "description": "Offers food pantry boxes, bread and fresh produce, public showers, and a seasonal cooling center for residents in need.",
+    "address": "605 E Broadway Ave, Apache Junction, AZ 85219",
+    "phone": "(480) 982-4110",
+    "url": "https://apachejunction.salvationarmy.org/",
+    "categorySlug": "food",
+    "zipCode": "85219"
+  },
+  {
+    "name": "Community Food Bank of Southern Arizona - Nogales Resource Center",
+    "description": "Food pantry serving Santa Cruz County with monthly food boxes for Nogales and Rio Rico residents, plus SNAP and AHCCCS enrollment assistance and referrals to housing and childcare services.",
+    "address": "2636 N Donna Ave, Nogales, AZ 85621",
+    "phone": "(520) 281-2790",
+    "url": "https://www.communityfoodbank.org/locations/nogales-resource-center/",
+    "categorySlug": "food",
+    "zipCode": "85621"
   },
   {
     "name": "Community Food Bank of Southern Arizona - Nogales Resource Center",
@@ -1125,6 +1440,15 @@
     "zipCode": "85364"
   },
   {
+    "name": "Onvida Health Foothills Medical Plaza",
+    "description": "Full-service outpatient medical campus in Fortuna Foothills operated by Yuma Regional Medical Center (rebranded Onvida Health), offering primary care, pediatrics, women's health, urgent care, podiatry, orthopedics, and diagnostic imaging to Foothills-area residents.",
+    "address": "11351 S Frontage Rd, Yuma, AZ 85367",
+    "phone": "(928) 336-4000",
+    "url": "https://www.onvidahealth.org/foothills/",
+    "categorySlug": "healthcare",
+    "zipCode": "85367"
+  },
+  {
     "name": "Regional Center for Border Health - San Luis Walk-In Clinic",
     "description": "Community health clinic serving border communities in Somerton and San Luis with primary care, health outreach, SNAP and AHCCCS enrollment assistance, and community health worker programs.",
     "address": "950 E Main St Bldg B, Somerton, AZ 85350",
@@ -1148,6 +1472,15 @@
     "address": "445 S 4th Ave, Yuma, AZ 85364",
     "phone": "(928) 783-0181",
     "url": "https://yuma.salvationarmy.org",
+    "categorySlug": "food",
+    "zipCode": "85364"
+  },
+  {
+    "name": "The Salvation Army Yuma Corps",
+    "description": "Faith-based social services organization providing a food pantry, emergency financial assistance for rent and utilities, and seasonal programs to low-income Yuma County residents including those in the 85367 Foothills zip code.",
+    "address": "445 S 4th Ave, Yuma, AZ 85364",
+    "phone": "(928) 783-0181",
+    "url": "https://yuma.salvationarmy.org/yuma_corps/",
     "categorySlug": "food",
     "zipCode": "85364"
   },

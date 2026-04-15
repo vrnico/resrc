@@ -18,6 +18,24 @@
     "zipCode": "83702"
   },
   {
+    "name": "Boise Rescue Mission",
+    "description": "Emergency shelter and addiction recovery programs for homeless and addicted individuals in the Boise and Nampa areas. Provides meals, shelter, and transitional housing.",
+    "address": "308 S 24th St, Boise, ID 83702",
+    "phone": "(208) 343-5420",
+    "url": "https://boiserm.org/",
+    "categorySlug": "housing",
+    "zipCode": "83702"
+  },
+  {
+    "name": "Meridian Food Bank",
+    "description": "Emergency food assistance serving Meridian and Ada County residents. Offers drive-through pantry service providing food baskets to neighbors in need.",
+    "address": "133 W Broadway Ave, Meridian, ID 83642",
+    "phone": "(208) 888-5102",
+    "url": "https://meridianfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "83642"
+  },
+  {
     "name": "Meridian Food Bank",
     "description": "Emergency food assistance serving Meridian and Ada County residents. Offers drive-through pantry service providing food baskets to neighbors in need.",
     "address": "133 W Broadway Ave, Meridian, ID 83642",
@@ -52,6 +70,24 @@
     "url": "https://www.svdpid.org/",
     "categorySlug": "food",
     "zipCode": "83705"
+  },
+  {
+    "name": "St. Vincent de Paul Boise Food Pantry",
+    "description": "Community food distribution pantry operated by the Society of St. Vincent de Paul Southwest Idaho, providing emergency food assistance to those in need.",
+    "address": "3209 W Overland Rd, Boise, ID 83705",
+    "phone": "(208) 333-1460",
+    "url": "https://www.svdpid.org/",
+    "categorySlug": "food",
+    "zipCode": "83705"
+  },
+  {
+    "name": "The Salvation Army Boise Food Pantry",
+    "description": "Client-choice food pantry where approved recipients select their own grocery items including fresh, canned, and frozen food. Clients may visit every 30 days with proof of Ada County residency.",
+    "address": "9492 W Emerald St, Boise, ID 83704",
+    "phone": "(208) 343-5420",
+    "url": "https://boise.salvationarmy.org/",
+    "categorySlug": "food",
+    "zipCode": "83704"
   },
   {
     "name": "The Salvation Army Boise Food Pantry",
@@ -108,11 +144,38 @@
     "zipCode": "83201"
   },
   {
+    "name": "Health West – Pocatello Clinic",
+    "description": "Federally Qualified Health Center providing primary care, behavioral health, and pharmacy services on a sliding-fee scale. Serves uninsured and underinsured patients throughout southeast Idaho.",
+    "address": "1000 N 8th Ave, Pocatello, ID 83201",
+    "phone": "(208) 232-6260",
+    "url": "https://www.healthwestinc.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "83201"
+  },
+  {
     "name": "Idaho Foodbank – Pocatello",
     "description": "Regional distribution center of the Idaho Foodbank serving southeast Idaho, supplying food pantries, soup kitchens, and shelters across 11 counties.",
     "address": "850 Memorial Dr, Pocatello, ID 83201",
     "phone": "(208) 233-4633",
     "url": "https://idahofoodbank.org/locations/pocatello/",
+    "categorySlug": "food",
+    "zipCode": "83201"
+  },
+  {
+    "name": "Idaho Foodbank – Pocatello",
+    "description": "Regional distribution center of the Idaho Foodbank serving southeast Idaho, supplying food pantries, soup kitchens, and shelters across 11 counties.",
+    "address": "850 Memorial Dr, Pocatello, ID 83201",
+    "phone": "(208) 233-4633",
+    "url": "https://idahofoodbank.org/locations/pocatello/",
+    "categorySlug": "food",
+    "zipCode": "83201"
+  },
+  {
+    "name": "Idaho Foodbank – Pocatello Branch",
+    "description": "Regional food bank warehouse and distribution center serving Bannock County and surrounding southeast Idaho communities through a network of partner pantries.",
+    "address": "555 S 1st Ave, Pocatello, ID 83201",
+    "phone": "(208) 233-8811",
+    "url": "https://idahofoodbank.org/",
     "categorySlug": "food",
     "zipCode": "83201"
   },
@@ -142,6 +205,15 @@
     "url": "https://healthandwelfare.idaho.gov/food-banks-food-sites-and-food-pantries/st-vincent-de-paul-pocatello-food-pantry",
     "categorySlug": "food",
     "zipCode": "83201"
+  },
+  {
+    "name": "Valley Mission Food Pantry – Pocatello",
+    "description": "Food pantry serving Pocatello-area residents in need with weekly food distributions. Part of a broader mission serving the homeless and low-income community.",
+    "address": "408 N Arthur St, Pocatello, ID 83204",
+    "phone": "(208) 232-6305",
+    "url": "https://www.valleymission.org/",
+    "categorySlug": "food",
+    "zipCode": "83204"
   },
   {
     "name": "Valley Mission Food Pantry – Pocatello",
@@ -207,12 +279,30 @@
     "zipCode": "83864"
   },
   {
+    "name": "Bonner Community Food Bank",
+    "description": "Food bank serving Bonner County residents with free grocery distribution. Operates a second distribution location in Priest River for rural access.",
+    "address": "1707 Culvers Dr, Sandpoint, ID 83864",
+    "phone": "(208) 263-3663",
+    "url": "https://www.bonnerfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "83864"
+  },
+  {
     "name": "Bonner Community Food Center",
     "description": "Community food pantry in Sandpoint serving Bonner County with weekly food distributions, providing free groceries to low-income individuals and families.",
     "address": "131 S 1st Ave, Sandpoint, ID 83864",
     "phone": "(208) 265-2775",
     "url": "https://www.bonnerfoodcenter.org",
     "categorySlug": "food",
+    "zipCode": "83864"
+  },
+  {
+    "name": "Bonner Homeless Transitions",
+    "description": "Housing programs providing case management, food, clothing, medical assistance, transportation, counseling, and skills classes to those experiencing homelessness in Bonner County.",
+    "address": "231 N 3rd Ave, Sandpoint, ID 83864",
+    "phone": "(208) 265-2952",
+    "url": "https://bonnerhomelesstransitions.org/",
+    "categorySlug": "housing",
     "zipCode": "83864"
   },
   {
@@ -261,6 +351,33 @@
     "zipCode": "83404"
   },
   {
+    "name": "Community Family Clinic – Idaho Falls",
+    "description": "Federally Qualified Health Center delivering comprehensive primary care services to individuals of all ages regardless of ability to pay. Offers medical care on a sliding-fee scale.",
+    "address": "2100 Alan St, Idaho Falls, ID 83404",
+    "phone": "(208) 528-7655",
+    "url": "https://idahocfc.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "83404"
+  },
+  {
+    "name": "Community Food Basket – Idaho Falls",
+    "description": "Community-based food bank providing emergency food supplies and basic needs items to struggling families and individuals without judgment.",
+    "address": "351 W 14th St, Idaho Falls, ID 83402",
+    "phone": "(208) 524-0994",
+    "url": "https://feedidahofalls.org/",
+    "categorySlug": "food",
+    "zipCode": "83402"
+  },
+  {
+    "name": "Community Food Basket – Idaho Falls",
+    "description": "Community-based food bank providing emergency food supplies and basic needs items to struggling families and individuals without judgment.",
+    "address": "351 W 14th St, Idaho Falls, ID 83402",
+    "phone": "(208) 524-0994",
+    "url": "https://feedidahofalls.org/",
+    "categorySlug": "food",
+    "zipCode": "83402"
+  },
+  {
     "name": "Community Food Basket – Idaho Falls",
     "description": "One of southeast Idaho's largest food pantries, serving Bonneville County with weekly distributions providing free groceries, fresh produce, and emergency food boxes.",
     "address": "455 A St, Idaho Falls, ID 83402",
@@ -279,13 +396,13 @@
     "zipCode": "83402"
   },
   {
-    "name": "Community Food Basket – Idaho Falls",
-    "description": "Community-based food bank providing emergency food supplies and basic needs items to struggling families and individuals without judgment.",
-    "address": "351 W 14th St, Idaho Falls, ID 83402",
-    "phone": "(208) 524-0994",
-    "url": "https://feedidahofalls.org/",
-    "categorySlug": "food",
-    "zipCode": "83402"
+    "name": "Eastern Idaho Public Health – Bonneville County Office",
+    "description": "Public health agency serving Bonneville and seven surrounding counties, providing immunizations, disease prevention, health education, and referrals for medical care.",
+    "address": "1250 Hollipark Dr, Idaho Falls, ID 83401",
+    "phone": "(208) 522-0310",
+    "url": "https://eiph.id.gov/",
+    "categorySlug": "healthcare",
+    "zipCode": "83401"
   },
   {
     "name": "Eastern Idaho Public Health – Bonneville County Office",
@@ -330,6 +447,24 @@
     "phone": "(208) 552-5575",
     "url": "https://ifrescuemission.org/",
     "categorySlug": "housing",
+    "zipCode": "83402"
+  },
+  {
+    "name": "Idaho Falls Rescue Mission",
+    "description": "Emergency and transitional housing for men, women, and families, including a 12-month recovery program. Provides daily meals, food pantry for the public, and Christian counseling.",
+    "address": "840 Park Ave, Idaho Falls, ID 83402",
+    "phone": "(208) 552-5575",
+    "url": "https://ifrescuemission.org/",
+    "categorySlug": "housing",
+    "zipCode": "83402"
+  },
+  {
+    "name": "Salvation Army – Idaho Falls Corps",
+    "description": "Food pantry and social services providing emergency food assistance, utility assistance, and other basic needs support to Bonneville County residents.",
+    "address": "605 N Blvd, Idaho Falls, ID 83402",
+    "phone": "(208) 522-7200",
+    "url": "https://www.salvationarmy.org/",
+    "categorySlug": "food",
     "zipCode": "83402"
   },
   {
@@ -396,6 +531,15 @@
     "zipCode": "83651"
   },
   {
+    "name": "Salvation Army – Nampa",
+    "description": "Provides emergency food pantry, utility assistance, and disaster relief services to individuals and families in need throughout Canyon County.",
+    "address": "614 3rd St S, Nampa, ID 83651",
+    "phone": "(208) 467-7630",
+    "url": "https://www.salvationarmyusa.org/usn/nampa-idaho/",
+    "categorySlug": "food",
+    "zipCode": "83651"
+  },
+  {
     "name": "Terry Reilly Health Services – Caldwell",
     "description": "FQHC satellite clinic in Caldwell offering primary care, dental, and behavioral health services on a sliding-fee scale to Canyon County residents.",
     "address": "310 E Cleveland Blvd, Caldwell, ID 83605",
@@ -428,6 +572,15 @@
     "address": "412 16th Ave S, Nampa, ID 83651",
     "phone": "(208) 466-5847",
     "url": "https://www.terryreilly.org",
+    "categorySlug": "healthcare",
+    "zipCode": "83651"
+  },
+  {
+    "name": "Terry Reilly Health Services – Nampa",
+    "description": "Federally Qualified Health Center providing medical, dental, and social services to individuals and families, including those experiencing homelessness. Sliding-scale fees available.",
+    "address": "207 1st St S, Nampa, ID 83651",
+    "phone": "(208) 466-7869",
+    "url": "https://www.trhs.org/",
     "categorySlug": "healthcare",
     "zipCode": "83651"
   },
@@ -475,6 +628,15 @@
     "url": "https://jeromechamber.com/community",
     "categorySlug": "food",
     "zipCode": "83338"
+  },
+  {
+    "name": "Community Action Partnership – Coeur d'Alene",
+    "description": "Provides food banks, emergency services, energy assistance, affordable housing, and children and youth services to low-income residents of North Idaho.",
+    "address": "124 New 6th St, Coeur d'Alene, ID 83814",
+    "phone": "(208) 664-8757",
+    "url": "https://www.cap4action.org/",
+    "categorySlug": "community",
+    "zipCode": "83814"
   },
   {
     "name": "Community Action Partnership – Coeur d'Alene",
@@ -567,6 +729,15 @@
     "zipCode": "83843"
   },
   {
+    "name": "CHAS Health – Latah Community Health",
+    "description": "Nonprofit Federally Qualified Health Center offering medical, dental, pharmacy, and telehealth services to all patients regardless of insurance status or ability to pay.",
+    "address": "803 S Main St Suite 120, Moscow, ID 83843",
+    "phone": "(208) 848-8300",
+    "url": "https://chas.org/location/latah-community-health/",
+    "categorySlug": "healthcare",
+    "zipCode": "83843"
+  },
+  {
     "name": "Family Promise of the Palouse",
     "description": "Nonprofit providing emergency shelter, food, and essential services to families experiencing homelessness in Moscow and the Palouse region. Supported by 30 interfaith congregations.",
     "address": "510 W Palouse River Dr, Moscow, ID 83843",
@@ -582,6 +753,42 @@
     "phone": "(208) 882-0165",
     "url": "https://www.familypromisepalouse.org/",
     "categorySlug": "housing",
+    "zipCode": "83843"
+  },
+  {
+    "name": "Family Promise of the Palouse",
+    "description": "Nonprofit providing emergency shelter, food, and essential services to families experiencing homelessness in Moscow and the Palouse region. Supported by 30 interfaith congregations.",
+    "address": "510 W Palouse River Dr, Moscow, ID 83843",
+    "phone": "(208) 882-0165",
+    "url": "https://www.familypromisepalouse.org/",
+    "categorySlug": "housing",
+    "zipCode": "83843"
+  },
+  {
+    "name": "Moscow Food Bank",
+    "description": "Community food bank providing free food assistance to Latah County residents. Open weekday afternoons for walk-in food pickup.",
+    "address": "110 N Polk St, Moscow, ID 83843",
+    "phone": "(208) 596-4992",
+    "url": "https://www.homelessshelterdirectory.org/cgi-bin/id/cityfoodbanks.cgi?city=Moscow&state=ID",
+    "categorySlug": "food",
+    "zipCode": "83843"
+  },
+  {
+    "name": "Moscow Food Bank",
+    "description": "Community food bank providing free food assistance to Latah County residents. Open weekday afternoons for walk-in food pickup.",
+    "address": "110 N Polk St, Moscow, ID 83843",
+    "phone": "(208) 596-4992",
+    "url": "https://www.homelessshelterdirectory.org/cgi-bin/id/cityfoodbanks.cgi?city=Moscow&state=ID",
+    "categorySlug": "food",
+    "zipCode": "83843"
+  },
+  {
+    "name": "Moscow Food Bank",
+    "description": "Community food bank providing free food assistance to Latah County residents. Open weekday afternoons for walk-in food pickup.",
+    "address": "110 N Polk St, Moscow, ID 83843",
+    "phone": "(208) 596-4992",
+    "url": "https://www.homelessshelterdirectory.org/cgi-bin/id/cityfoodbanks.cgi?city=Moscow&state=ID",
+    "categorySlug": "food",
     "zipCode": "83843"
   },
   {
@@ -590,24 +797,6 @@
     "address": "315 S Jackson St, Moscow, ID 83843",
     "phone": "(208) 882-4800",
     "url": "https://www.moscowfoodbank.org",
-    "categorySlug": "food",
-    "zipCode": "83843"
-  },
-  {
-    "name": "Moscow Food Bank",
-    "description": "Community food bank providing free food assistance to Latah County residents. Open weekday afternoons for walk-in food pickup.",
-    "address": "110 N Polk St, Moscow, ID 83843",
-    "phone": "(208) 596-4992",
-    "url": "https://www.homelessshelterdirectory.org/cgi-bin/id/cityfoodbanks.cgi?city=Moscow&state=ID",
-    "categorySlug": "food",
-    "zipCode": "83843"
-  },
-  {
-    "name": "Moscow Food Bank",
-    "description": "Community food bank providing free food assistance to Latah County residents. Open weekday afternoons for walk-in food pickup.",
-    "address": "110 N Polk St, Moscow, ID 83843",
-    "phone": "(208) 596-4992",
-    "url": "https://www.homelessshelterdirectory.org/cgi-bin/id/cityfoodbanks.cgi?city=Moscow&state=ID",
     "categorySlug": "food",
     "zipCode": "83843"
   },
@@ -702,11 +891,29 @@
     "zipCode": "83301"
   },
   {
+    "name": "Light of Hope – Twin Falls",
+    "description": "Christian community organization providing food distribution, emergency assistance, and support services to individuals and families in need in the Magic Valley.",
+    "address": "213 5th Ave W, Twin Falls, ID 83301",
+    "phone": "(208) 329-2425",
+    "url": "https://lightofhopetwinfalls.org/",
+    "categorySlug": "food",
+    "zipCode": "83301"
+  },
+  {
     "name": "Mustard Seed Ministries – Twin Falls",
     "description": "Faith-based food pantry in Twin Falls providing free groceries, emergency food, and holiday meal programs to individuals and families in need throughout Twin Falls County.",
     "address": "150 Washington St N, Twin Falls, ID 83301",
     "phone": "(208) 734-1477",
     "url": "https://www.mustardseedtf.org",
+    "categorySlug": "food",
+    "zipCode": "83301"
+  },
+  {
+    "name": "South Central Community Action Partnership – Twin Falls",
+    "description": "Food pantry and community action organization providing food boxes, homeless assistance, and support services to residents of south-central Idaho.",
+    "address": "550 Washington St S, Twin Falls, ID 83301",
+    "phone": "(208) 733-9351",
+    "url": "https://www.sccap-id.org/",
     "categorySlug": "food",
     "zipCode": "83301"
   },
@@ -743,6 +950,15 @@
     "address": "242 5th Ave S, Twin Falls, ID 83301",
     "phone": "(208) 736-2033",
     "url": "https://www.valleyhousetwinfalls.org",
+    "categorySlug": "housing",
+    "zipCode": "83301"
+  },
+  {
+    "name": "Valley House Homeless Shelter – Twin Falls",
+    "description": "Private nonprofit homeless shelter helping motivated individuals gain self-sufficiency. Provides shelter for men, women, and families for up to 6 months, plus monthly food boxes.",
+    "address": "507 Addison Ave W, Twin Falls, ID 83301",
+    "phone": "(208) 734-7736",
+    "url": "https://valley-house.org/",
     "categorySlug": "housing",
     "zipCode": "83301"
   },

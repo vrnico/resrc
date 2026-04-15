@@ -18,6 +18,15 @@
     "zipCode": "31513"
   },
   {
+    "name": "Appling County Food Bank",
+    "description": "Nonprofit food bank serving Baxley and Appling County residents with grocery-style distributions including canned goods, fresh produce, and dry goods. Open Tuesday and Friday 9am-12pm with a 4th Wednesday food giveaway program.",
+    "address": "82 Barnes St, Baxley, GA 31513",
+    "phone": "(912) 366-3663",
+    "url": "https://www.facebook.com/applingcountyfoodbank/",
+    "categorySlug": "food",
+    "zipCode": "31513"
+  },
+  {
     "name": "Concerted Services - Appling County Service Center",
     "description": "Multi-service nonprofit providing food pantry, emergency shelter, utility assistance, medical aid, and clothing to residents of Appling and surrounding counties.",
     "address": "57 Harvey St, Baxley, GA 31513",
@@ -72,6 +81,24 @@
     "zipCode": "31061"
   },
   {
+    "name": "New Beginnings Outreach Ministries of Baldwin County",
+    "description": "Food pantry providing essential food assistance to Milledgeville and Baldwin County community. Drive-thru service available Monday-Friday 12-1 PM.",
+    "address": "200 Southside Dr, Milledgeville, GA 31061",
+    "phone": "(478) 363-7444",
+    "url": "https://www.facebook.com/NBWCBaldwin/",
+    "categorySlug": "food",
+    "zipCode": "31061"
+  },
+  {
+    "name": "Charity Baptist Church Food Pantry",
+    "description": "Church-based food pantry serving Banks County residents, partnering with the Food Bank of Northeast Georgia.",
+    "address": "1302 Georgia 51 North, Homer, GA 30547",
+    "phone": "(706) 677-5253",
+    "url": "https://www.charitybaptistch.org/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "30547"
+  },
+  {
     "name": "Charity Baptist Church Food Pantry",
     "description": "Church-based food pantry serving Banks County residents, partnering with the Food Bank of Northeast Georgia.",
     "address": "1302 Georgia 51 North, Homer, GA 30547",
@@ -108,6 +135,15 @@
     "zipCode": "30680"
   },
   {
+    "name": "Barrow County Cooperative Benevolence Ministries Food Pantry",
+    "description": "Network of churches operating an emergency food pantry for Barrow County residents, with regular distributions at their Winder location.",
+    "address": "41 East Candler Street, Winder, GA 30680",
+    "phone": "(678) 425-6605",
+    "url": "https://www.bccbm.org/",
+    "categorySlug": "food",
+    "zipCode": "30680"
+  },
+  {
     "name": "Spirit of Sharing",
     "description": "Nonprofit providing food, clothing, and shelter assistance to Barrow County residents, distributing approximately 28,000 lbs of food monthly via mobile food pantry.",
     "address": "123 E New St, Winder, GA 30680",
@@ -124,6 +160,24 @@
     "url": "https://spiritofsharinginc.org/",
     "categorySlug": "community",
     "zipCode": "30680"
+  },
+  {
+    "name": "Spirit of Sharing",
+    "description": "Nonprofit providing food, clothing, and shelter assistance to Barrow County residents, distributing approximately 28,000 lbs of food monthly via mobile food pantry.",
+    "address": "123 E New St, Winder, GA 30680",
+    "phone": "(470) 429-3016",
+    "url": "https://spiritofsharinginc.org/",
+    "categorySlug": "community",
+    "zipCode": "30680"
+  },
+  {
+    "name": "Good Neighbor Homeless Shelter",
+    "description": "Emergency shelter and transitional housing serving families and individuals in Bartow County, providing 12-week emergency shelter for women and children and two-year transitional housing.",
+    "address": "206 Summit St, Cartersville, GA 30120",
+    "phone": "(770) 607-0610",
+    "url": "https://goodneighborshelter.org/",
+    "categorySlug": "housing",
+    "zipCode": "30120"
   },
   {
     "name": "Good Neighbor Homeless Shelter",
@@ -171,6 +225,15 @@
     "zipCode": "30120"
   },
   {
+    "name": "Red Door Food Pantry",
+    "description": "Independent 501(c)(3) nonprofit food pantry fighting food insecurity in Bartow County. Open Tuesday evenings 5-7pm and Wednesday mornings 9-11am.",
+    "address": "201 W Cherokee Ave, Cartersville, GA 30120",
+    "phone": "(770) 382-2626",
+    "url": "https://reddoorfood.com/",
+    "categorySlug": "food",
+    "zipCode": "30120"
+  },
+  {
     "name": "Salvation Army Cartersville Corps",
     "description": "Provides food pantry and clothing vouchers to Bartow County residents. Food pantry available Tuesday and Wednesday afternoons.",
     "address": "16 Felton Pl Unit B, Cartersville, GA 30120",
@@ -187,6 +250,24 @@
     "url": "https://southernusa.salvationarmy.org/cartersville/",
     "categorySlug": "food",
     "zipCode": "30120"
+  },
+  {
+    "name": "Salvation Army Cartersville Corps",
+    "description": "Provides food pantry and clothing vouchers to Bartow County residents. Food pantry available Tuesday and Wednesday afternoons.",
+    "address": "16 Felton Pl Unit B, Cartersville, GA 30120",
+    "phone": "(770) 382-6660",
+    "url": "https://southernusa.salvationarmy.org/cartersville/",
+    "categorySlug": "food",
+    "zipCode": "30120"
+  },
+  {
+    "name": "Ben Hill County Family Connection",
+    "description": "Community collaborative connecting Ben Hill County families with food assistance, healthcare, housing, and social services resources in Fitzgerald.",
+    "address": "151 Perry House Road, Fitzgerald, GA 31750",
+    "phone": "(229) 426-5300",
+    "url": "https://benhill.gafcp.org/",
+    "categorySlug": "community",
+    "zipCode": "31750"
   },
   {
     "name": "Ben Hill County Family Connection",
@@ -231,6 +312,24 @@
     "phone": "(229) 686-7571",
     "url": "https://coastalplain.org/csbg/",
     "categorySlug": "utilities",
+    "zipCode": "31639"
+  },
+  {
+    "name": "Coastal Plains Community Action Agency - Berrien County",
+    "description": "Community action agency providing utility assistance (LIHEAP), food vouchers, and other support services to Berrien County residents including Nashville and Alapaha.",
+    "address": "402 Hazel Avenue, Nashville, GA 31639",
+    "phone": "(229) 686-7571",
+    "url": "https://coastalplain.org/csbg/",
+    "categorySlug": "utilities",
+    "zipCode": "31639"
+  },
+  {
+    "name": "The Branch of Nashville",
+    "description": "Community support organization in Nashville, GA providing a food pantry with nutritious food and essential groceries to individuals and families in Berrien County.",
+    "address": "431 E. Dennis Ave, Nashville, GA 31639",
+    "phone": null,
+    "url": "https://www.thebranchofnashville.org/food-pantry/",
+    "categorySlug": "food",
     "zipCode": "31639"
   },
   {
@@ -279,6 +378,24 @@
     "zipCode": "31201"
   },
   {
+    "name": "Loaves & Fishes Ministry of Macon",
+    "description": "Faith-based nonprofit providing groceries, meals, clothing, showers, laundry, prescription assistance, and help obtaining IDs to low-income and homeless individuals in Macon.",
+    "address": "651 Martin Luther King Jr. Blvd, Macon, GA 31201",
+    "phone": "(478) 741-1007",
+    "url": "https://www.loavesandfishesministry.org/",
+    "categorySlug": "food",
+    "zipCode": "31201"
+  },
+  {
+    "name": "Macon Outreach",
+    "description": "Faith-based ministry serving struggling families in Bibb County through an emergency grocery pantry reaching over 7,000 people annually, plus a breakfast program on Tuesdays.",
+    "address": "267 1st Street, Macon, GA 31201",
+    "phone": "(478) 743-8026",
+    "url": "http://maconoutreach.com/",
+    "categorySlug": "food",
+    "zipCode": "31201"
+  },
+  {
     "name": "Macon Outreach",
     "description": "Faith-based ministry serving struggling families in Bibb County through an emergency grocery pantry reaching over 7,000 people annually, plus a breakfast program on Tuesdays.",
     "address": "267 1st Street, Macon, GA 31201",
@@ -313,6 +430,24 @@
     "url": "https://mgcfb.org/",
     "categorySlug": "food",
     "zipCode": "31217"
+  },
+  {
+    "name": "Middle Georgia Community Food Bank",
+    "description": "Regional food bank serving 24 counties in Middle Georgia, partnering with over 200 agencies including food pantries, soup kitchens, and shelters to distribute millions of meals annually.",
+    "address": "4490 Ocmulgee East Blvd, Macon, GA 31217",
+    "phone": "(478) 257-6421",
+    "url": "https://mgcfb.org/",
+    "categorySlug": "food",
+    "zipCode": "31217"
+  },
+  {
+    "name": "Rescue Mission of Middle Georgia",
+    "description": "Christian rescue mission providing emergency shelter, meals, clothing, addiction recovery programs, and domestic violence shelter to Macon-area residents in need since 1952.",
+    "address": "6601 Zebulon Road, Macon, GA 31220",
+    "phone": "(478) 743-5445",
+    "url": "https://www.rescuemissionga.com/",
+    "categorySlug": "housing",
+    "zipCode": "31220"
   },
   {
     "name": "Rescue Mission of Middle Georgia",
@@ -388,6 +523,15 @@
   },
   {
     "name": "Feed The Boro",
+    "description": "Nonprofit organization serving Statesboro and Bulloch County combating food insecurity. Operated in the community for over 27 years.",
+    "address": "PO Box 2736, Statesboro, GA 30459",
+    "phone": "",
+    "url": "https://feedtheboro.com/",
+    "categorySlug": "food",
+    "zipCode": "30458"
+  },
+  {
+    "name": "Feed The Boro",
     "description": "Nonprofit organization serving Statesboro and Bulloch County to combat food insecurity, operating in the community for over 27 years.",
     "address": "PO Box 2736, Statesboro, GA 30459",
     "phone": null,
@@ -397,9 +541,9 @@
   },
   {
     "name": "Feed The Boro",
-    "description": "Nonprofit organization serving Statesboro and Bulloch County combating food insecurity. Operated in the community for over 27 years.",
+    "description": "Nonprofit organization serving Statesboro and Bulloch County to combat food insecurity, operating in the community for over 27 years.",
     "address": "PO Box 2736, Statesboro, GA 30459",
-    "phone": "",
+    "phone": null,
     "url": "https://feedtheboro.com/",
     "categorySlug": "food",
     "zipCode": "30458"
@@ -411,6 +555,24 @@
     "phone": "(912) 764-4605",
     "url": "https://safehavenstatesboro.org/",
     "categorySlug": "crisis",
+    "zipCode": "30458"
+  },
+  {
+    "name": "Safe Haven - Statesboro",
+    "description": "Provides emergency shelter and comprehensive services to adult and child victims of domestic violence in Bulloch, Candler, Effingham, Jenkins, Screven and Washington Counties. Open 24/7.",
+    "address": "204 North College St, Statesboro, GA 30458",
+    "phone": "(912) 764-4605",
+    "url": "https://safehavenstatesboro.org/",
+    "categorySlug": "crisis",
+    "zipCode": "30458"
+  },
+  {
+    "name": "Statesboro Food Bank",
+    "description": "Local food bank serving residents of Bulloch County. Provides meal box support, crisis food assistance, and monthly Saturday food pantry. Open Monday through Friday and Saturdays.",
+    "address": "506 Miller Street, Statesboro, GA 30458",
+    "phone": "(912) 489-3663",
+    "url": "https://statesborofoodbank.org/",
+    "categorySlug": "food",
     "zipCode": "30458"
   },
   {
@@ -450,6 +612,15 @@
     "zipCode": "30830"
   },
   {
+    "name": "Golden Harvest Food Bank Mobile Pantry - Waynesboro",
+    "description": "Mobile food pantry providing USDA TEFAP commodities food distribution for families and individuals meeting federal poverty income guidelines in Burke County.",
+    "address": "Waynesboro, GA 30830",
+    "phone": "",
+    "url": "https://www.waynesboroga.com/Calendar.aspx?EID=2917",
+    "categorySlug": "food",
+    "zipCode": "30830"
+  },
+  {
     "name": "Grove Food Bank",
     "description": "Community food bank providing food for those in need in Butts County, including Jackson and surrounding communities.",
     "address": "Jackson, GA 30233",
@@ -457,6 +628,24 @@
     "url": "https://www.facebook.com/grovefood.bank/",
     "categorySlug": "food",
     "zipCode": "30233"
+  },
+  {
+    "name": "Grove Food Bank",
+    "description": "Community food bank providing food for those in need in Butts County, including Jackson and surrounding communities.",
+    "address": "Jackson, GA 30233",
+    "phone": null,
+    "url": "https://www.facebook.com/grovefood.bank/",
+    "categorySlug": "food",
+    "zipCode": "30233"
+  },
+  {
+    "name": "Jackson Food Bank",
+    "description": "Food bank serving Butts County residents in Flovilla, GA. Open every Wednesday.",
+    "address": "138 Potts Trail, Flovilla, GA 30216",
+    "phone": "",
+    "url": "https://www.rise4me.com/resources/jackson-food-bank-2/",
+    "categorySlug": "food",
+    "zipCode": "30216"
   },
   {
     "name": "Jackson Food Bank",
@@ -484,6 +673,24 @@
     "url": "https://www.rise4me.com/resources/salvation-army-jackson/",
     "categorySlug": "food",
     "zipCode": "30233"
+  },
+  {
+    "name": "Salvation Army - Jackson",
+    "description": "Provides food pantry and emergency assistance to residents of Butts County in Jackson, GA.",
+    "address": "Jackson, GA 30233",
+    "phone": "(770) 775-2940",
+    "url": "https://www.rise4me.com/resources/salvation-army-jackson/",
+    "categorySlug": "food",
+    "zipCode": "30233"
+  },
+  {
+    "name": "Harvest House Food Pantry - Kingsland First Methodist",
+    "description": "Church-based food pantry providing food, clothing, and support to Camden County residents since 2008. Open Tuesday and Thursday 9am-12pm.",
+    "address": "120 E William Ave, Kingsland, GA 31548",
+    "phone": "(912) 552-0621",
+    "url": "https://www.kingslandfmc.org/harvest-house-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "31548"
   },
   {
     "name": "Harvest House Food Pantry - Kingsland First Methodist",
@@ -549,13 +756,13 @@
     "zipCode": "30116"
   },
   {
-    "name": "Open Hands United Christian Ministry",
-    "description": "Collaborative Christian ministry providing food pantry, emergency financial assistance for rent and utilities, personal care items, and prayer support to Carroll County residents.",
-    "address": "100 Bledsoe St, Carrollton, GA 30117",
-    "phone": "(678) 664-2206",
-    "url": "https://www.ohucm.org/",
-    "categorySlug": "community",
-    "zipCode": "30117"
+    "name": "Giving Hearts - Carrollton",
+    "description": "Nonprofit food pantry serving Carroll County residents by appointment Monday and Wednesday 9am-2pm and the third Saturday 9am-12pm.",
+    "address": "358 Columbia Drive, Carrollton, GA 30116",
+    "phone": null,
+    "url": "https://www.facebook.com/givinghearts2014/",
+    "categorySlug": "food",
+    "zipCode": "30116"
   },
   {
     "name": "Open Hands United Christian Ministry",
@@ -567,11 +774,29 @@
     "zipCode": "30117"
   },
   {
+    "name": "Open Hands United Christian Ministry",
+    "description": "Collaborative Christian ministry providing food pantry, emergency financial assistance for rent and utilities, personal care items, and prayer support to Carroll County residents.",
+    "address": "100 Bledsoe St, Carrollton, GA 30117",
+    "phone": "(678) 664-2206",
+    "url": "https://www.ohucm.org/",
+    "categorySlug": "community",
+    "zipCode": "30117"
+  },
+  {
+    "name": "Open Hands United Christian Ministry",
+    "description": "Collaborative Christian ministry providing food pantry, emergency financial assistance for rent and utilities, personal care items, and prayer support to Carroll County residents.",
+    "address": "100 Bledsoe St, Carrollton, GA 30117",
+    "phone": "(678) 664-2206",
+    "url": "https://www.ohucm.org/",
+    "categorySlug": "community",
+    "zipCode": "30117"
+  },
+  {
     "name": "Salvation Army - Carrollton",
-    "description": "Food pantry serving Carroll County residents. Open Tuesday, Thursday, and Friday mornings.",
+    "description": "Food pantry serving Carroll County residents with staple food items. Open Tuesday, Thursday, and Friday mornings at the Carrollton Corps.",
     "address": "115 Carroll Blvd, Carrollton, GA 30117",
-    "phone": "",
-    "url": "https://www.findhelp.org/the-salvation-army-georgia-division---carrolton--carrollton-ga--food-pantry/4633725775904768",
+    "phone": "(770) 830-0120",
+    "url": "https://southernusa.salvationarmy.org/carrollton/hunger-relief/",
     "categorySlug": "food",
     "zipCode": "30117"
   },
@@ -585,6 +810,15 @@
     "zipCode": "30117"
   },
   {
+    "name": "Salvation Army - Carrollton",
+    "description": "Food pantry serving Carroll County residents. Open Tuesday, Thursday, and Friday mornings.",
+    "address": "115 Carroll Blvd, Carrollton, GA 30117",
+    "phone": "",
+    "url": "https://www.findhelp.org/the-salvation-army-georgia-division---carrolton--carrollton-ga--food-pantry/4633725775904768",
+    "categorySlug": "food",
+    "zipCode": "30117"
+  },
+  {
     "name": "West Georgia Domestic Violence Shelter",
     "description": "Nonprofit domestic violence shelter serving Carroll, Heard, Haralson, Coweta, and Meriwether Counties. Provides 24-hour crisis line, counseling, legal advocacy, children's programs, and life skills classes.",
     "address": "PO Box 2192, Carrollton, GA 30112",
@@ -592,6 +826,24 @@
     "url": "https://www.westgadv.org/",
     "categorySlug": "crisis",
     "zipCode": "30117"
+  },
+  {
+    "name": "West Georgia Domestic Violence Shelter",
+    "description": "Nonprofit domestic violence shelter serving Carroll, Heard, Haralson, Coweta, and Meriwether Counties. Provides 24-hour crisis line, counseling, legal advocacy, children's programs, and life skills classes.",
+    "address": "PO Box 2192, Carrollton, GA 30112",
+    "phone": "(770) 834-1141",
+    "url": "https://www.westgadv.org/",
+    "categorySlug": "crisis",
+    "zipCode": "30117"
+  },
+  {
+    "name": "Christ's Chapel Share and Care Mission",
+    "description": "Nonprofit providing food pantry and thrift store to Catoosa County and neighboring communities. Pantry open Monday through Saturday 9am-12pm.",
+    "address": "223 Inman St, Ringgold, GA 30736",
+    "phone": "(706) 935-9045",
+    "url": "https://www.facebook.com/ChristsChapelShareandCareMission/",
+    "categorySlug": "food",
+    "zipCode": "30736"
   },
   {
     "name": "Christ's Chapel Share and Care Mission",
@@ -621,6 +873,15 @@
     "zipCode": "31537"
   },
   {
+    "name": "Charlton County Action Pact Services",
+    "description": "Community action agency offering emergency assistance, energy assistance, and food bank services to Charlton County residents in Folkston.",
+    "address": "1516 South 3rd Street, Folkston, GA 31537",
+    "phone": "(912) 496-2045",
+    "url": "https://charlton.gafcp.org/resources/",
+    "categorySlug": "food",
+    "zipCode": "31537"
+  },
+  {
     "name": "Catholic Charities of South Georgia",
     "description": "Provides food pantry services and crisis management assistance to residents of Savannah and Chatham County. Open Monday through Friday.",
     "address": "Savannah, GA 31404",
@@ -637,6 +898,24 @@
     "url": "https://ccsoga.org/",
     "categorySlug": "food",
     "zipCode": "31404"
+  },
+  {
+    "name": "Catholic Charities of South Georgia",
+    "description": "Provides food pantry services and crisis management assistance to residents of Savannah and Chatham County. Open Monday through Friday.",
+    "address": "Savannah, GA 31404",
+    "phone": "",
+    "url": "https://ccsoga.org/",
+    "categorySlug": "food",
+    "zipCode": "31404"
+  },
+  {
+    "name": "Chatham-Savannah Authority for the Homeless",
+    "description": "Coordinating authority connecting homeless individuals and families in Savannah to emergency shelter, transitional housing, and supportive services throughout Chatham County.",
+    "address": "Savannah, GA 31415",
+    "phone": null,
+    "url": "https://www.homelessauthority.org/need-help/",
+    "categorySlug": "housing",
+    "zipCode": "31415"
   },
   {
     "name": "Chatham-Savannah Authority for the Homeless",
@@ -675,6 +954,15 @@
     "zipCode": "31401"
   },
   {
+    "name": "Old Savannah City Mission",
+    "description": "Mission providing food, shelter, clothing, recovery services, job training, and life skills to homeless and low-income individuals in Savannah and Chatham County.",
+    "address": "2414 Bull Street, Savannah, GA 31401",
+    "phone": "(912) 232-1979",
+    "url": "https://oldsavannahcitymission.org/",
+    "categorySlug": "housing",
+    "zipCode": "31401"
+  },
+  {
     "name": "Rising Tyde Community Food Pantry",
     "description": "Community food pantry serving residents of Tybee Island. Open the third Tuesday of each month.",
     "address": "204 5th Street, Tybee Island, GA 31328",
@@ -691,6 +979,24 @@
     "url": "https://www.tybeeisland.com/rising-tyde-community-food-pantry/",
     "categorySlug": "food",
     "zipCode": "31328"
+  },
+  {
+    "name": "Rising Tyde Community Food Pantry",
+    "description": "Community food pantry serving residents of Tybee Island. Open the third Tuesday of each month.",
+    "address": "204 5th Street, Tybee Island, GA 31328",
+    "phone": "",
+    "url": "https://www.tybeeisland.com/rising-tyde-community-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "31328"
+  },
+  {
+    "name": "Savannah Feed the Hungry",
+    "description": "Nonprofit organization providing large sit-down community meals to hungry residents of Savannah and Chatham County.",
+    "address": "Savannah, GA 31406",
+    "phone": "",
+    "url": "https://www.savannahfeedthehungry.net/",
+    "categorySlug": "food",
+    "zipCode": "31406"
   },
   {
     "name": "Savannah Feed the Hungry",
@@ -729,6 +1035,15 @@
     "zipCode": "31401"
   },
   {
+    "name": "Union Mission - Grace House",
+    "description": "Emergency shelter providing 90-day housing program with 32 beds for men in urgent need. Also offers transitional housing, behavioral health services, HIV/AIDS support, and employment assistance.",
+    "address": "120 Fahm St, Savannah, GA 31401",
+    "phone": "(912) 236-7423",
+    "url": "https://www.unionmission.org/",
+    "categorySlug": "housing",
+    "zipCode": "31401"
+  },
+  {
     "name": "United Ministries of Savannah - Emmaus House Soup Kitchen",
     "description": "Nonprofit soup kitchen and community ministry feeding hungry residents of Savannah since 1982.",
     "address": "Savannah, GA 31401",
@@ -745,6 +1060,24 @@
     "url": "https://unitedministriessavannah.org/",
     "categorySlug": "food",
     "zipCode": "31401"
+  },
+  {
+    "name": "United Ministries of Savannah - Emmaus House Soup Kitchen",
+    "description": "Nonprofit soup kitchen and community ministry feeding hungry residents of Savannah since 1982.",
+    "address": "Savannah, GA 31401",
+    "phone": "",
+    "url": "https://unitedministriessavannah.org/",
+    "categorySlug": "food",
+    "zipCode": "31401"
+  },
+  {
+    "name": "Salvation Army - Columbus Shelter",
+    "description": "Emergency shelter and social services for homeless individuals and families in Muscogee County. Also provides food assistance and financial aid.",
+    "address": "1718 2nd Avenue, Columbus, GA 31905",
+    "phone": "(706) 561-9026",
+    "url": "https://southernusa.salvationarmy.org/columbus/",
+    "categorySlug": "housing",
+    "zipCode": "31905"
   },
   {
     "name": "Salvation Army - Columbus Shelter",
@@ -774,6 +1107,15 @@
     "zipCode": "30747"
   },
   {
+    "name": "Community Resource Center of Chattooga",
+    "description": "Volunteer-based nonprofit providing free groceries through a drive-thru food pantry in Summerville, open Monday, Wednesday, and Friday 12-4pm for Chattooga County residents.",
+    "address": "50 Eleanor Ave, Summerville, GA 30747",
+    "phone": "(706) 509-0529",
+    "url": "https://www.feedchattooga.com/",
+    "categorySlug": "food",
+    "zipCode": "30747"
+  },
+  {
     "name": "Encompass Ministries",
     "description": "Client-choice food pantry serving individuals and families across Cherokee, Cobb, Bartow, North Fulton, and Pickens Counties. Provides employment coaching, life skills training, and crisis support.",
     "address": "6551 Commerce Pkwy, Suite 200, Woodstock, GA 30189",
@@ -790,6 +1132,24 @@
     "url": "https://www.encompassministriesinc.org/",
     "categorySlug": "food",
     "zipCode": "30189"
+  },
+  {
+    "name": "Encompass Ministries",
+    "description": "Client-choice food pantry serving individuals and families across Cherokee, Cobb, Bartow, North Fulton, and Pickens Counties. Provides employment coaching, life skills training, and crisis support.",
+    "address": "6551 Commerce Pkwy, Suite 200, Woodstock, GA 30189",
+    "phone": "(770) 591-4707",
+    "url": "https://www.encompassministriesinc.org/",
+    "categorySlug": "food",
+    "zipCode": "30189"
+  },
+  {
+    "name": "House of Hope North Georgia",
+    "description": "Faith-based food bank in Cherokee County. Also provides clothes closet, smoke detector installation, car seat surplus, and satellite food pantry locations.",
+    "address": "11954 Cumming Hwy, Canton, GA 30115",
+    "phone": "(770) 313-6287",
+    "url": "https://houseofhopeng.org/",
+    "categorySlug": "food",
+    "zipCode": "30115"
   },
   {
     "name": "House of Hope North Georgia",
@@ -837,6 +1197,24 @@
     "zipCode": "30114"
   },
   {
+    "name": "MUST Ministries - Cherokee County",
+    "description": "Nonprofit providing food, housing programs, workforce development, and clothing to Cherokee County residents including Acworth area.",
+    "address": "111 Brown Industrial Parkway, Canton, GA 30114",
+    "phone": "(770) 479-5397",
+    "url": "https://mustministries.org/locations/cherokee-client-services/",
+    "categorySlug": "community",
+    "zipCode": "30114"
+  },
+  {
+    "name": "Never Alone Community Food Pantry",
+    "description": "Client-choice food pantry serving families and individuals in Cherokee, Cobb, Bartow, and Pickens Counties facing financial struggles. Open by appointment Monday through Saturday.",
+    "address": "291 Rope Mill Road, Woodstock, GA 30188",
+    "phone": "(470) 302-4055",
+    "url": "https://www.neveralone.org/",
+    "categorySlug": "food",
+    "zipCode": "30188"
+  },
+  {
     "name": "Never Alone Community Food Pantry",
     "description": "Client-choice food pantry serving families and individuals in Cherokee, Cobb, Bartow, and Pickens Counties facing financial struggles. Open by appointment Monday through Saturday.",
     "address": "291 Rope Mill Road, Woodstock, GA 30188",
@@ -882,6 +1260,15 @@
     "zipCode": "30601"
   },
   {
+    "name": "Athens Area Emergency Food Bank",
+    "description": "Food bank providing one week of food to Clarke County residents facing emergencies, by referral from an approved agency. Open Monday through Friday.",
+    "address": "640 Barber St, Athens, GA 30601",
+    "phone": "(706) 353-8182",
+    "url": "https://www.athensfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "30601"
+  },
+  {
     "name": "Athens Area Homeless Shelter",
     "description": "Emergency homeless shelter serving individuals experiencing homelessness in Athens-Clarke County.",
     "address": "620 Barber St, Athens, GA 30601",
@@ -898,6 +1285,24 @@
     "url": "https://www.helpathenshomeless.org/",
     "categorySlug": "housing",
     "zipCode": "30601"
+  },
+  {
+    "name": "Athens Area Homeless Shelter",
+    "description": "Emergency homeless shelter serving individuals experiencing homelessness in Athens-Clarke County.",
+    "address": "620 Barber St, Athens, GA 30601",
+    "phone": "(706) 354-0423",
+    "url": "https://www.helpathenshomeless.org/",
+    "categorySlug": "housing",
+    "zipCode": "30601"
+  },
+  {
+    "name": "Food Bank of Northeast Georgia",
+    "description": "Regional food bank serving 15 northeast Georgia counties including Clarke County. Provides mobile food pantry distributions and works with 230+ partner organizations.",
+    "address": "861 Newton Bridge Road, Athens, GA 30607",
+    "phone": "(706) 354-8191",
+    "url": "https://foodbanknega.org/",
+    "categorySlug": "food",
+    "zipCode": "30607"
   },
   {
     "name": "Food Bank of Northeast Georgia",
@@ -936,6 +1341,24 @@
     "zipCode": "31751"
   },
   {
+    "name": "Serenity House Shelter - Colquitt County",
+    "description": "Domestic violence shelter providing emergency housing, case management, legal advocacy, counseling, safety planning, and assistance with protective orders for women and children in Colquitt County.",
+    "address": "Moultrie, GA 31776",
+    "phone": "(229) 890-7233",
+    "url": "https://serenityhousega.org/",
+    "categorySlug": "crisis",
+    "zipCode": "31751"
+  },
+  {
+    "name": "Atlanta Community Food Bank - Jonesboro Community Food Center",
+    "description": "Community food center operated by Atlanta Community Food Bank serving Clayton County residents experiencing food insecurity.",
+    "address": "6805 Tara Blvd., Jonesboro, GA 30236",
+    "phone": "",
+    "url": "https://www.acfb.org/get-help/jonesboro/",
+    "categorySlug": "food",
+    "zipCode": "30236"
+  },
+  {
     "name": "Atlanta Community Food Bank - Jonesboro Community Food Center",
     "description": "Community food center operated by Atlanta Community Food Bank serving Clayton County residents experiencing food insecurity.",
     "address": "6805 Tara Blvd., Jonesboro, GA 30236",
@@ -970,6 +1393,24 @@
     "url": "https://www.communityoutreachinaction.org/",
     "categorySlug": "food",
     "zipCode": "30236"
+  },
+  {
+    "name": "Community Outreach in Action",
+    "description": "Nonprofit that has distributed over 1,000,000 lbs of free food to more than 33,000 families in Clayton County since 2012.",
+    "address": "7681 Southlake Parkway, Suite 730, Jonesboro, GA 30236",
+    "phone": "",
+    "url": "https://www.communityoutreachinaction.org/",
+    "categorySlug": "food",
+    "zipCode": "30236"
+  },
+  {
+    "name": "Hearts to Nourish Hope",
+    "description": "Food pantry serving over 1,300 families per month in Clayton County. Open to the public every Tuesday and Thursday 10am-2pm.",
+    "address": "640 Hwy 138 SW, Riverdale, GA 30274",
+    "phone": "770-997-4511",
+    "url": "https://www.heartstonourishhope.org/food",
+    "categorySlug": "food",
+    "zipCode": "30274"
   },
   {
     "name": "Hearts to Nourish Hope",
@@ -982,10 +1423,10 @@
   },
   {
     "name": "Hearts to Nourish Hope",
-    "description": "Food pantry serving over 1,300 families per month in Clayton County. Open to the public every Tuesday and Thursday 10am-2pm.",
-    "address": "640 Hwy 138 SW, Riverdale, GA 30274",
-    "phone": "770-997-4511",
-    "url": "https://www.heartstonourishhope.org/food",
+    "description": "Nonprofit food pantry serving over 1,300 families per month with year-round food assistance to Clayton County residents in Riverdale.",
+    "address": "640 GA-138, Riverdale, GA 30274",
+    "phone": "(770) 997-4511",
+    "url": "https://heartstonourishhope.org/",
     "categorySlug": "food",
     "zipCode": "30274"
   },
@@ -1006,6 +1447,24 @@
     "url": "https://www.mfumc.com/food-pantry/",
     "categorySlug": "food",
     "zipCode": "30260"
+  },
+  {
+    "name": "Morrow First United Methodist Church Food Pantry",
+    "description": "Food pantry serving Clayton County residents in the Morrow area.",
+    "address": "Morrow, GA 30260",
+    "phone": null,
+    "url": "https://www.mfumc.com/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "30260"
+  },
+  {
+    "name": "ONEClayton Community Resources",
+    "description": "Comprehensive directory of food and clothing programs available to Clayton County residents with nearly 200 local resources.",
+    "address": "Clayton County, GA",
+    "phone": "404-892-9822",
+    "url": "https://www.oneclayton.org/food-clothing/",
+    "categorySlug": "community",
+    "zipCode": "30288"
   },
   {
     "name": "ONEClayton Community Resources",
@@ -1107,6 +1566,15 @@
     "zipCode": "30060"
   },
   {
+    "name": "Family Promise of Cobb County",
+    "description": "Helps Cobb County families with children experiencing housing instability through eviction prevention, shelter, professional case management, and volunteer support.",
+    "address": "Marietta, GA",
+    "phone": null,
+    "url": "https://www.fpcobb.org/",
+    "categorySlug": "housing",
+    "zipCode": "30060"
+  },
+  {
     "name": "First United Methodist Church of Marietta",
     "description": "Has a food pantry. Community assistance is available on Thursdays from 9:00 AM to 12:00 PM.",
     "address": "56 Whitlock Ave NW, Marietta, GA 30064",
@@ -1170,6 +1638,15 @@
     "zipCode": "30060"
   },
   {
+    "name": "Pantry on Church - First Presbyterian Church Marietta",
+    "description": "Food pantry distributing food every Tuesday. Drive-through pick-up available Tuesdays 5-7pm in the West Parking Lot.",
+    "address": "189 Church Street, Marietta, GA 30060",
+    "phone": null,
+    "url": "https://fpcmarietta.org/pantry/",
+    "categorySlug": "food",
+    "zipCode": "30060"
+  },
+  {
     "name": "The Center For Family Resources (CFR)",
     "description": "Assists individuals and families in Cobb County who are experiencing or are at risk of homelessness. Also a Point of Entry for Coordinated Entry. Offers short-term and transitional housing programs.",
     "address": "48 Henderson Street, Marietta, GA 30064",
@@ -1186,6 +1663,15 @@
     "url": "salvationarmy.org",
     "categorySlug": "housing",
     "zipCode": "30064"
+  },
+  {
+    "name": "The Salvation Army Marietta Corps - Food Pantry",
+    "description": "Food pantry open Monday and Friday 1pm-3pm. Also provides homeless resource center with showers, laundry, and food bags.",
+    "address": "202 Waterman Street, Marietta, GA 30060",
+    "phone": "770-528-5000",
+    "url": "https://southernusa.salvationarmy.org/marietta/family-and-social-services/",
+    "categorySlug": "food",
+    "zipCode": "30060"
   },
   {
     "name": "The Salvation Army Marietta Corps - Food Pantry",
@@ -1233,6 +1719,15 @@
     "zipCode": "31533"
   },
   {
+    "name": "Coffee County Food Bank",
+    "description": "Local food bank serving Coffee County residents in Douglas, GA with emergency food assistance.",
+    "address": "Douglas, GA 31533",
+    "phone": null,
+    "url": "https://www.coffeecountyfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "31533"
+  },
+  {
     "name": "Colquitt County Food Bank",
     "description": "Local food bank serving Colquitt County residents in Moultrie, GA. Open Monday through Friday mornings and first Saturday of each month.",
     "address": "120 3rd St NE, Moultrie, GA 31768",
@@ -1244,6 +1739,15 @@
   {
     "name": "Colquitt County Food Bank",
     "description": "Volunteer-based community food bank serving Colquitt County residents in Moultrie. Open Monday through Friday mornings and first Saturday of each month.",
+    "address": "120 3rd St NE, Moultrie, GA 31768",
+    "phone": "(229) 985-7725",
+    "url": "https://colquittfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "31768"
+  },
+  {
+    "name": "Colquitt County Food Bank",
+    "description": "Local food bank serving Colquitt County residents in Moultrie, GA. Open Monday through Friday mornings and first Saturday of each month.",
     "address": "120 3rd St NE, Moultrie, GA 31768",
     "phone": "(229) 985-7725",
     "url": "https://colquittfoodbank.org/",
@@ -1299,6 +1803,15 @@
     "zipCode": "30802"
   },
   {
+    "name": "Columbia County Cares Food Pantry",
+    "description": "Nonprofit providing food assistance to unemployed, underemployed, elderly on fixed income, and single parents in Columbia County. Open Wednesday and Thursday 9:30am-2pm.",
+    "address": "Appling Harlem Road, Appling, GA 30802",
+    "phone": "706-541-2834",
+    "url": "https://columbiacountycares.org/",
+    "categorySlug": "food",
+    "zipCode": "30802"
+  },
+  {
     "name": "DCCM Food Pantry (Downtown Cooperative Church Ministries)",
     "description": "Largest food pantry in Augusta, providing supplemental and emergency food to residents of Augusta-Richmond and Columbia counties. Provides Snack Packs to homeless clients.",
     "address": "PO Box 2482, Augusta, GA 30903",
@@ -1315,6 +1828,24 @@
     "url": "https://dccmpantry.org/",
     "categorySlug": "food",
     "zipCode": "30813"
+  },
+  {
+    "name": "DCCM Food Pantry (Downtown Cooperative Church Ministries)",
+    "description": "Largest food pantry in Augusta, providing supplemental and emergency food to residents of Augusta-Richmond and Columbia counties. Provides Snack Packs to homeless clients.",
+    "address": "PO Box 2482, Augusta, GA 30903",
+    "phone": null,
+    "url": "https://dccmpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "30813"
+  },
+  {
+    "name": "Golden Harvest Food Bank",
+    "description": "Regional food bank providing meals to neighbors in 24 GA and SC counties. Serves the Augusta CSRA region including Columbia County.",
+    "address": "3310 Commerce Dr, Augusta, GA 30809",
+    "phone": null,
+    "url": "https://goldenharvest.org/",
+    "categorySlug": "food",
+    "zipCode": "30809"
   },
   {
     "name": "Golden Harvest Food Bank",
@@ -1353,6 +1884,15 @@
     "zipCode": "30263"
   },
   {
+    "name": "Bridging the Gap (BTG) Community Outreach",
+    "description": "Nonprofit providing food distribution Wednesdays at 4pm and Saturdays at 8am to 300+ local families. Also offers shower/laundry facilities, case management, clothing closet.",
+    "address": "19 1st Avenue, Newnan, GA 30263",
+    "phone": "770-683-9110",
+    "url": "https://btgcommunity.org/",
+    "categorySlug": "food",
+    "zipCode": "30263"
+  },
+  {
     "name": "One Roof Ecumenical Alliance Outreach",
     "description": "Nonprofit providing food, clothing, shelter, and financial assistance to Coweta County residents.",
     "address": "255 Temple Ave, Newnan, GA 30263",
@@ -1368,6 +1908,24 @@
     "phone": "770-683-7705",
     "url": "https://www.oneroofoutreach.org/",
     "categorySlug": "community",
+    "zipCode": "30263"
+  },
+  {
+    "name": "One Roof Ecumenical Alliance Outreach",
+    "description": "Nonprofit providing food, clothing, shelter, and financial assistance to Coweta County residents.",
+    "address": "255 Temple Ave, Newnan, GA 30263",
+    "phone": "770-683-7705",
+    "url": "https://www.oneroofoutreach.org/",
+    "categorySlug": "community",
+    "zipCode": "30263"
+  },
+  {
+    "name": "The Salvation Army Newnan - Food Pantry",
+    "description": "Food pantry open Tuesdays and Thursdays 9:30am-noon for Coweta County residents. Also offers clothing, utility and rental/mortgage assistance.",
+    "address": "670 Jefferson St, Newnan, GA 30263",
+    "phone": null,
+    "url": "https://www.salvationarmyusa.org/usn/store/georgia/",
+    "categorySlug": "food",
     "zipCode": "30263"
   },
   {
@@ -1437,6 +1995,15 @@
     "zipCode": "31015"
   },
   {
+    "name": "Fuller Center for Housing - Crisp-Dooly",
+    "description": "Affordable housing nonprofit serving Crisp and Dooly counties. Also operates a thrift store offering affordable household items and clothing.",
+    "address": "Cordele, GA 31015",
+    "phone": "229-271-8000",
+    "url": "https://fullercenter.org/crisp-dooly/",
+    "categorySlug": "housing",
+    "zipCode": "31015"
+  },
+  {
     "name": "The Lord's Pantry - Sherwood Church",
     "description": "Free groceries, clothing, and spiritual encouragement to the impoverished in Dougherty County and surrounding areas. Open Monday-Thursday 8am-10:30am.",
     "address": "Albany, GA 31712",
@@ -1462,6 +2029,24 @@
     "url": "https://www.ahomeforeveryoneindekalb.org/",
     "categorySlug": "housing",
     "zipCode": "30032"
+  },
+  {
+    "name": "A Home for Everyone in DeKalb",
+    "description": "Volunteer-led initiative providing emergency cold weather shelters and rapid rehousing assistance for those experiencing homelessness in DeKalb County.",
+    "address": "DeKalb County, GA",
+    "phone": null,
+    "url": "https://www.ahomeforeveryoneindekalb.org/",
+    "categorySlug": "housing",
+    "zipCode": "30032"
+  },
+  {
+    "name": "Community Assistance Center (CAC)",
+    "description": "Alleviates hunger in Sandy Springs and Dunwoody by offering free food to residents. Partners with the Atlanta Community Food Bank and Second Helpings Atlanta.",
+    "address": "Sandy Springs/Dunwoody, GA 30338",
+    "phone": null,
+    "url": "https://ourcac.org/services-food/",
+    "categorySlug": "food",
+    "zipCode": "30338"
   },
   {
     "name": "Community Assistance Center (CAC)",
@@ -1497,6 +2082,24 @@
     "phone": "404-373-9283",
     "url": "https://deamdecatur.org/",
     "categorySlug": "food",
+    "zipCode": "30030"
+  },
+  {
+    "name": "DEAM (Decatur Area Emergency Assistance Ministry)",
+    "description": "Food pantry serving zip codes 30002, 30030, and 30079. Located at Holy Trinity Episcopal Church. Appointment required; call to schedule.",
+    "address": "515 E. Ponce de Leon Ave, Decatur, GA 30030",
+    "phone": "404-373-9283",
+    "url": "https://deamdecatur.org/",
+    "categorySlug": "food",
+    "zipCode": "30030"
+  },
+  {
+    "name": "Decatur Cooperative Ministry (DCM) - Hagar's House",
+    "description": "Emergency night shelter and assessment for homeless families with children in DeKalb County. Also provides homelessness prevention services.",
+    "address": "115 Church St, Decatur, GA 30030",
+    "phone": "404-377-5365",
+    "url": "https://www.decaturcooperativeministry.org/dcm/",
+    "categorySlug": "housing",
     "zipCode": "30030"
   },
   {
@@ -1554,6 +2157,15 @@
     "zipCode": "30307"
   },
   {
+    "name": "Intown Cares",
+    "description": "Nonprofit helping Atlantans meet essential human needs – housing and food – in Intown Atlanta neighborhoods including Kirkwood.",
+    "address": "Atlanta, GA 30307",
+    "phone": null,
+    "url": "https://www.intowncares.org/",
+    "categorySlug": "community",
+    "zipCode": "30307"
+  },
+  {
     "name": "Malachi's Storehouse",
     "description": "Ministry of St. Patrick's Episcopal Church in Dunwoody distributing food, baby supplies, and clothing every Wednesday 9am-12:30pm.",
     "address": "4755 N. Peachtree Rd, Dunwoody, GA 30338",
@@ -1570,6 +2182,24 @@
     "url": "https://malachis.org/",
     "categorySlug": "food",
     "zipCode": "30338"
+  },
+  {
+    "name": "Malachi's Storehouse",
+    "description": "Ministry of St. Patrick's Episcopal Church in Dunwoody distributing food, baby supplies, and clothing every Wednesday 9am-12:30pm.",
+    "address": "4755 N. Peachtree Rd, Dunwoody, GA 30338",
+    "phone": null,
+    "url": "https://malachis.org/",
+    "categorySlug": "food",
+    "zipCode": "30338"
+  },
+  {
+    "name": "Men and Women for Human Excellence (MWFHE) Shelter",
+    "description": "Emergency Shelter Program and Transitional Housing Program for unaccompanied homeless adult males and females in Decatur/DeKalb County.",
+    "address": "Decatur, GA 30079",
+    "phone": null,
+    "url": "https://mwfhe.org/decatur-georgia/",
+    "categorySlug": "housing",
+    "zipCode": "30079"
   },
   {
     "name": "Men and Women for Human Excellence (MWFHE) Shelter",
@@ -1617,6 +2247,24 @@
     "zipCode": "30087"
   },
   {
+    "name": "Stone Mountain Community Food Center (ACFB)",
+    "description": "Atlanta Community Food Bank direct-to-families food center. Appointment required; call or text FOOD to 678-884-4564.",
+    "address": "1979 Parker Ct., Stone Mountain, GA 30087",
+    "phone": "478-394-4547",
+    "url": "https://www.acfb.org/get-help/stone-mountain/",
+    "categorySlug": "food",
+    "zipCode": "30087"
+  },
+  {
+    "name": "Suthers Center for Christian Outreach",
+    "description": "Weekly food pantry serving food insecure clients in Brookhaven (30319) and Chamblee/Dunwoody (30341) areas. Emergency assistance also helps with utility bills and homelessness. Open Saturdays 8-10am.",
+    "address": "3280 Chamblee Dunwoody Road, Chamblee, GA 30341",
+    "phone": null,
+    "url": "https://www.sutherscenter.org/",
+    "categorySlug": "food",
+    "zipCode": "30341"
+  },
+  {
     "name": "Suthers Center for Christian Outreach",
     "description": "Weekly food pantry serving food insecure clients in Brookhaven (30319) and Chamblee/Dunwoody (30341) areas. Emergency assistance also helps with utility bills and homelessness. Open Saturdays 8-10am.",
     "address": "3280 Chamblee Dunwoody Road, Chamblee, GA 30341",
@@ -1662,6 +2310,15 @@
     "zipCode": "31023"
   },
   {
+    "name": "Dodge County Food Bank, Pantry & Thrift Store",
+    "description": "Nonprofit food bank helping those in need in Dodge County through emergency food bank and mobile food bank services. Also operates a thrift store.",
+    "address": "5207 Anson Avenue, Eastman, GA 31023",
+    "phone": null,
+    "url": "https://www.facebook.com/dodgecountyfoodbank/",
+    "categorySlug": "food",
+    "zipCode": "31023"
+  },
+  {
     "name": "Albany Rescue Mission",
     "description": "Rescue mission providing shelter for approximately 40-45 men and 20 women and children. Serves 3 meals daily to residents and public. Emergency food bags for families.",
     "address": "604 N. Monroe St, Albany, GA 31701",
@@ -1678,6 +2335,24 @@
     "url": "https://www.albanyrescuemission.org/",
     "categorySlug": "housing",
     "zipCode": "31701"
+  },
+  {
+    "name": "Albany Rescue Mission",
+    "description": "Rescue mission providing shelter for approximately 40-45 men and 20 women and children. Serves 3 meals daily to residents and public. Emergency food bags for families.",
+    "address": "604 N. Monroe St, Albany, GA 31701",
+    "phone": "229-435-7615",
+    "url": "https://www.albanyrescuemission.org/",
+    "categorySlug": "housing",
+    "zipCode": "31701"
+  },
+  {
+    "name": "Christ's Cupboard Food Pantry - Trinity Lutheran Church Albany",
+    "description": "Food and resource assistance operated by Trinity Lutheran Church in Albany for those in need.",
+    "address": "1508 Whispering Pines Road, Albany, GA 31707",
+    "phone": null,
+    "url": "https://www.rise4me.com/resources/christs-cupboard-food-pantry-albany/",
+    "categorySlug": "food",
+    "zipCode": "31707"
   },
   {
     "name": "Christ's Cupboard Food Pantry - Trinity Lutheran Church Albany",
@@ -1716,6 +2391,24 @@
     "zipCode": "31701"
   },
   {
+    "name": "The Salvation Army Albany - Center of Hope Emergency Shelter",
+    "description": "34-bed emergency shelter available for homeless men and women. Intake 7:30pm-8:30pm daily. Also serves one hot meal daily Mon-Fri at 6pm.",
+    "address": "304 West 2nd Avenue, Albany, GA 31701",
+    "phone": "229-435-1428",
+    "url": "https://southernusa.salvationarmy.org/albany-corps/",
+    "categorySlug": "housing",
+    "zipCode": "31701"
+  },
+  {
+    "name": "Dreams Come True International Foundation",
+    "description": "501(c)(3) Georgia nonprofit committed to addressing food insecurity in Douglas, Cobb, and Fulton Counties. Also provides housing resources.",
+    "address": "Douglasville, GA 30135",
+    "phone": "678-224-8049",
+    "url": "https://dreamscometrueinternational.org/",
+    "categorySlug": "food",
+    "zipCode": "30135"
+  },
+  {
     "name": "Dreams Come True International Foundation",
     "description": "501(c)(3) Georgia nonprofit committed to addressing food insecurity in Douglas, Cobb, and Fulton Counties. Also provides housing resources.",
     "address": "Douglasville, GA 30135",
@@ -1750,6 +2443,24 @@
     "url": "https://www.goodsamaritan-center.org/",
     "categorySlug": "food",
     "zipCode": "30134"
+  },
+  {
+    "name": "Good Samaritan Center Douglasville",
+    "description": "Food bank providing food assistance to Douglas County residents. Open Tuesday and Thursday (closed 12:30-5pm).",
+    "address": "8366 Grady Street, Douglasville, GA 30134",
+    "phone": "770-949-7335",
+    "url": "https://www.goodsamaritan-center.org/",
+    "categorySlug": "food",
+    "zipCode": "30134"
+  },
+  {
+    "name": "The Pantry Douglasville",
+    "description": "Free canned goods and food items to local families in need. Open Saturdays 8am-10:30am (except 5th Saturdays).",
+    "address": "5357 Chapel Hill Road, Douglasville, GA 30135",
+    "phone": "770-217-0729",
+    "url": "https://thepantrydc.com/the-pantry-douglasville/",
+    "categorySlug": "food",
+    "zipCode": "30135"
   },
   {
     "name": "The Pantry Douglasville",
@@ -1797,6 +2508,24 @@
     "zipCode": "31723"
   },
   {
+    "name": "Southwest Georgia Community Action Council",
+    "description": "Serves multiple SW Georgia counties including Miller and Colquitt with commodity distribution, emergency services, homeless/food services, and housing assistance.",
+    "address": "Southwest Georgia",
+    "phone": null,
+    "url": "https://www.swgacac.com/",
+    "categorySlug": "community",
+    "zipCode": "31723"
+  },
+  {
+    "name": "Feed Fannin / Fannin County Family Connection Food Pantry",
+    "description": "All-volunteer nonprofit food pantry serving Fannin County and Copper Basin area. Open Monday-Thursday 10 AM - 12 PM and 1-3 PM. Provides fresh produce from local farms plus food staples.",
+    "address": "501 Fannin Industrial Park, Blue Ridge, GA 30513",
+    "phone": "(706) 632-6063",
+    "url": "https://feedfannin.org/",
+    "categorySlug": "food",
+    "zipCode": "30513"
+  },
+  {
     "name": "Feed Fannin / Fannin County Family Connection Food Pantry",
     "description": "All-volunteer nonprofit food pantry serving Fannin County and Copper Basin area. Open Monday-Thursday 10 AM - 12 PM and 1-3 PM. Provides fresh produce from local farms plus food staples.",
     "address": "501 Fannin Industrial Park, Blue Ridge, GA 30513",
@@ -1822,6 +2551,15 @@
     "url": "https://citybridges.org",
     "categorySlug": "food",
     "zipCode": "30269"
+  },
+  {
+    "name": "Hearts - Nourish Hope, Inc.",
+    "description": "Serves zip codes 30205, 30214, and 30215, among others, and is located near Fayetteville, GA.",
+    "address": null,
+    "phone": null,
+    "url": "https://www.foodpantries.org/",
+    "categorySlug": "food",
+    "zipCode": "30214"
   },
   {
     "name": "Hearts - Nourish Hope, Inc.",
@@ -1869,6 +2607,24 @@
     "zipCode": "30214"
   },
   {
+    "name": "New Beginnings Praise and Worship Center, Inc.",
+    "description": "Food pantry serving Clayton and Fayette counties.",
+    "address": null,
+    "phone": null,
+    "url": "https://www.homelessshelterdirectory.org/",
+    "categorySlug": "food",
+    "zipCode": "30214"
+  },
+  {
+    "name": "Promise Place",
+    "description": "Domestic violence services and shelter in Fayetteville, GA, serving Fayette County residents.",
+    "address": null,
+    "phone": null,
+    "url": "https://www.domesticshelters.org/",
+    "categorySlug": "housing",
+    "zipCode": "30214"
+  },
+  {
     "name": "Promise Place",
     "description": "Domestic violence services and shelter in Fayetteville, GA, serving Fayette County residents.",
     "address": null,
@@ -1905,6 +2661,15 @@
     "zipCode": "30161"
   },
   {
+    "name": "Journey Community Food Pantry",
+    "description": "501(c)3 organization providing groceries, feminine hygiene, and incontinence supplies to Floyd County residents. Open Thursdays 4-6pm.",
+    "address": "Rome, GA 30161",
+    "phone": null,
+    "url": "https://www.facebook.com/hungerender/",
+    "categorySlug": "food",
+    "zipCode": "30161"
+  },
+  {
     "name": "Northwest Georgia Hunger Ministries - Bagwell Choice Pantry",
     "description": "Food pantry providing groceries and essentials to Floyd County residents. Also operates Backpack Buddies program providing weekend meals to food-insecure children. Open Monday, Tuesday, Thursday, and Friday mornings.",
     "address": "90 E Callahan Street, Rome, GA 30165",
@@ -1921,6 +2686,24 @@
     "url": "https://www.hungerministries.org/",
     "categorySlug": "food",
     "zipCode": "30165"
+  },
+  {
+    "name": "Northwest Georgia Hunger Ministries - Bagwell Choice Pantry",
+    "description": "Food pantry providing groceries and essentials to Floyd County residents. Also operates Backpack Buddies program providing weekend meals to food-insecure children. Open Monday, Tuesday, Thursday, and Friday mornings.",
+    "address": "90 E Callahan Street, Rome, GA 30165",
+    "phone": "(706) 844-1612",
+    "url": "https://www.hungerministries.org/",
+    "categorySlug": "food",
+    "zipCode": "30165"
+  },
+  {
+    "name": "Rome Floyd County Community Kitchen",
+    "description": "Community kitchen serving hot lunches Monday through Friday to residents of Floyd County.",
+    "address": "4 Calhoun Avenue NE, Rome, GA 30161",
+    "phone": "",
+    "url": "https://www.rocoki.org/",
+    "categorySlug": "food",
+    "zipCode": "30161"
   },
   {
     "name": "Rome Floyd County Community Kitchen",
@@ -1946,6 +2729,15 @@
     "address": "Rome, GA",
     "phone": null,
     "url": "https://www.romemission.org",
+    "categorySlug": "housing",
+    "zipCode": "30161"
+  },
+  {
+    "name": "The Salvation Army Rome Corps",
+    "description": "Emergency shelter with 15 beds for men, women, and families, plus food and assistance services.",
+    "address": "Rome, GA",
+    "phone": null,
+    "url": "https://southernusa.salvationarmy.org/rome/",
     "categorySlug": "housing",
     "zipCode": "30161"
   },
@@ -2022,6 +2814,15 @@
     "zipCode": "30331"
   },
   {
+    "name": "Atlanta Community Food Center - Southwest",
+    "description": "Community food center operated by Atlanta Community Food Bank, serving southwest Atlanta residents.",
+    "address": "3500 Martin Luther King Jr. Drive SW, Atlanta, GA 30331",
+    "phone": null,
+    "url": "https://www.acfb.org/community-food-center/",
+    "categorySlug": "food",
+    "zipCode": "30331"
+  },
+  {
     "name": "Atlanta Mission",
     "description": "Homeless shelter serving more than 1,000 men, women, and children in Atlanta and Northeast Georgia every day, offering emergency shelter, food, and recovery programs.",
     "address": "Atlanta, GA 30303",
@@ -2076,6 +2877,15 @@
     "zipCode": "30328"
   },
   {
+    "name": "Solidarity Sandy Springs Food Pantry",
+    "description": "Food pantry serving families and individuals who live or work in Sandy Springs and surrounding zip codes including 30319, 30338.",
+    "address": "Sandy Springs, GA 30328",
+    "phone": null,
+    "url": "https://solidaritysandysprings.org/",
+    "categorySlug": "food",
+    "zipCode": "30328"
+  },
+  {
     "name": "The Pantry - Chapelhill Church Atlanta",
     "description": "Community food pantry serving the Atlanta area, located at Chapelhill Church.",
     "address": "4330 Washington Road, Atlanta, GA 30344",
@@ -2092,6 +2902,24 @@
     "url": "https://thepantrydc.com/the-pantry-atlanta/",
     "categorySlug": "food",
     "zipCode": "30344"
+  },
+  {
+    "name": "The Pantry - Chapelhill Church Atlanta",
+    "description": "Community food pantry serving the Atlanta area, located at Chapelhill Church.",
+    "address": "4330 Washington Road, Atlanta, GA 30344",
+    "phone": null,
+    "url": "https://thepantrydc.com/the-pantry-atlanta/",
+    "categorySlug": "food",
+    "zipCode": "30344"
+  },
+  {
+    "name": "The Salvation Army Metro Atlanta",
+    "description": "Provides homelessness prevention, emergency and transitional housing, re-housing programs, and residential recovery programs for men, women, and families.",
+    "address": "Atlanta, GA",
+    "phone": null,
+    "url": "https://southernusa.salvationarmy.org/metro-atlanta/",
+    "categorySlug": "housing",
+    "zipCode": "30310"
   },
   {
     "name": "The Salvation Army Metro Atlanta",
@@ -2136,6 +2964,15 @@
     "phone": null,
     "url": "https://savedbygraceglynn.com",
     "categorySlug": "housing",
+    "zipCode": "31520"
+  },
+  {
+    "name": "Second Harvest of Coastal Georgia",
+    "description": "Regional food bank serving Brantley and surrounding coastal Georgia counties, distributing over 2.2 million pounds of food annually through partner agencies, mobile pantry, and Kids Cafe programs.",
+    "address": "Brunswick, GA 31520",
+    "phone": "(912) 264-4735",
+    "url": "https://helpendhunger.org/",
+    "categorySlug": "food",
     "zipCode": "31520"
   },
   {
@@ -2220,6 +3057,15 @@
     "zipCode": "30039"
   },
   {
+    "name": "HomeFirst Gwinnett - Latin American Association",
+    "description": "Single point of entry for individuals and families in a housing crisis in Gwinnett County, offering diversion, emergency shelter, rental assistance, and utility assistance. Bilingual services available.",
+    "address": "Gwinnett County, GA",
+    "phone": "678-205-1018",
+    "url": "https://thelaa.org/gwinnett/",
+    "categorySlug": "housing",
+    "zipCode": "30039"
+  },
+  {
     "name": "Lawrenceville Cooperative Ministry",
     "description": "Emergency food bank providing food for people in need, serving Lawrenceville, Dacula and surrounding Gwinnett County communities.",
     "address": "52 Gwinnett Drive, Suite C, Lawrenceville, GA 30046",
@@ -2256,6 +3102,15 @@
     "zipCode": "30017"
   },
   {
+    "name": "Southeast Gwinnett Cooperative Ministry",
+    "description": "Food and non-food pantry serving Grayson, Snellville, and Loganville residents. Open Monday 3-7 PM, Wednesday and Friday 10 AM - 2 PM.",
+    "address": "55 Grayson Industrial Pkwy, Grayson, GA 30017",
+    "phone": "(770) 985-5229",
+    "url": "https://segwinnettcoop.org/",
+    "categorySlug": "food",
+    "zipCode": "30017"
+  },
+  {
     "name": "The Fountain Food Pantry",
     "description": "Free grocery and fresh produce food pantry serving Lawrenceville and Gwinnett County. Open Mondays 3-6:30pm.",
     "address": "Lawrenceville, GA",
@@ -2263,6 +3118,15 @@
     "url": "https://thefountain.church/food-pantry",
     "categorySlug": "food",
     "zipCode": "30044"
+  },
+  {
+    "name": "Habersham County Food Pantry - Cornelia",
+    "description": "Food assistance available in Cornelia. Open Monday 10am-2pm, Saturday 10am-12pm, and Wednesday 5-7pm.",
+    "address": "Cornelia, GA 30531",
+    "phone": null,
+    "url": "https://habersham.gafcp.org/resources/",
+    "categorySlug": "food",
+    "zipCode": "30531"
   },
   {
     "name": "Habersham County Food Pantry - Cornelia",
@@ -2328,6 +3192,24 @@
     "zipCode": "31087"
   },
   {
+    "name": "Hancock County Food Pantry",
+    "description": "Local nonprofit food pantry serving residents of Sparta and Hancock County.",
+    "address": "Sparta, GA 31087",
+    "phone": null,
+    "url": "https://www.facebook.com/HancockCountyFoodPantry/",
+    "categorySlug": "food",
+    "zipCode": "31087"
+  },
+  {
+    "name": "FOCUS Ministries Food Bank",
+    "description": "Faith-based nonprofit serving Harris County residents with a food bank, thrift shop, monetary assistance for medical bills and prescriptions, utility payment help, child abuse prevention, and home repair assistance. Operated by over 100 volunteers representing 30+ churches, serving close to 4,000 families per year.",
+    "address": "80 Palmetto Creek Lane, Hamilton, GA 31811",
+    "phone": "(706) 628-9955",
+    "url": "https://www.focusfriends.info/",
+    "categorySlug": "food",
+    "zipCode": "31811"
+  },
+  {
     "name": "FOCUS Ministries Food Bank",
     "description": "Faith-based nonprofit serving Harris County residents with a food bank, thrift shop, monetary assistance for medical bills and prescriptions, utility payment help, child abuse prevention, and home repair assistance. Operated by over 100 volunteers representing 30+ churches, serving close to 4,000 families per year.",
     "address": "80 Palmetto Creek Lane, Hamilton, GA 31811",
@@ -2382,6 +3264,24 @@
     "zipCode": "30643"
   },
   {
+    "name": "Hart County Clothes Closet and Food Pantry",
+    "description": "Nonprofit providing free food and clothing assistance to Hart County residents. No charge for those in need; Hart County ID required. Open Monday, Wednesday, Thursday, and Friday 9:30 AM - 1:00 PM.",
+    "address": "175 Colfax St, Hartwell, GA 30643",
+    "phone": "(706) 376-2022",
+    "url": "https://www.hcccfp.net/",
+    "categorySlug": "food",
+    "zipCode": "30643"
+  },
+  {
+    "name": "Hart County Food Pantry",
+    "description": "Local food pantry providing groceries and food assistance to Hart County residents in need.",
+    "address": "130 E Howell St, Hartwell, GA 30643",
+    "phone": "(706) 376-9444",
+    "url": "https://www.foodbanksearch.com/foodbank-profile.php?id=706&name=hart-county-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "30643"
+  },
+  {
     "name": "Hart County Food Pantry",
     "description": "Local food pantry providing groceries and food assistance to Hart County residents in need.",
     "address": "130 E Howell St, Hartwell, GA 30643",
@@ -2415,6 +3315,24 @@
     "phone": "(706) 376-3258",
     "url": "http://www.harthabitat.org/",
     "categorySlug": "housing",
+    "zipCode": "30643"
+  },
+  {
+    "name": "Hart County Habitat for Humanity",
+    "description": "Provides affordable homeownership opportunities for low-income Hart County families through a no-interest 20-year mortgage program. Also operates a ReStore selling new and used furniture, appliances, and building materials at reduced prices.",
+    "address": "900 Benson St, Hartwell, GA 30643",
+    "phone": "(706) 376-3258",
+    "url": "http://www.harthabitat.org/",
+    "categorySlug": "housing",
+    "zipCode": "30643"
+  },
+  {
+    "name": "Hart Interdenominational Ministry (HIM)",
+    "description": "Collaborative ministry helping Hart County residents in need through emergency financial aid, non-financial assistance, and community outreach. Collaborates with local churches and agencies to provide resources that enhance daily living conditions.",
+    "address": "PO Box 21, Hartwell, GA 30643",
+    "phone": "(706) 377-4446",
+    "url": "https://www.him4hart.org/",
+    "categorySlug": "community",
     "zipCode": "30643"
   },
   {
@@ -2463,6 +3381,24 @@
     "zipCode": "30253"
   },
   {
+    "name": "Connecting Henry",
+    "description": "Georgia Family Connection affiliate providing emergency food and shelter program funds, limited rent/mortgage/utility assistance, and community resource coordination for Henry County families. Also administers the Community Cares Toy Shop for families with children.",
+    "address": "162 Keys Ferry Street, McDonough, GA 30253",
+    "phone": "(770) 274-3642",
+    "url": "https://www.connectinghenry.org/",
+    "categorySlug": "community",
+    "zipCode": "30253"
+  },
+  {
+    "name": "Georgia Food & Resource Center",
+    "description": "Free food pantry serving Henry County residents. Open Wednesdays 9 AM - 2 PM. Must bring valid ID showing Henry County residence; can pick up every 30 days. Closed during Easter, 4th of July, Thanksgiving, and Christmas weeks.",
+    "address": "470 Steele Drive, Hampton, GA 30228",
+    "phone": "(770) 946-0500",
+    "url": "https://www.gafrc.org/",
+    "categorySlug": "food",
+    "zipCode": "30228"
+  },
+  {
     "name": "Georgia Food & Resource Center",
     "description": "Free food pantry serving Henry County residents. Open Wednesdays 9 AM - 2 PM. Must bring valid ID showing Henry County residence; can pick up every 30 days. Closed during Easter, 4th of July, Thanksgiving, and Christmas weeks.",
     "address": "470 Steele Drive, Hampton, GA 30228",
@@ -2508,6 +3444,15 @@
     "zipCode": "30253"
   },
   {
+    "name": "Haven House",
+    "description": "Emergency domestic violence shelter serving victims of family violence in Butts, Henry, Jasper, and Lamar counties. Provides 30-day emergency shelter for up to 40-50 residents, plus case management, counseling, and legal advocacy. Services are free. 24-hour crisis line available.",
+    "address": "P.O. Box 1150, McDonough, GA 30253",
+    "phone": "(770) 954-9229",
+    "url": "https://www.henryhavenhouse.org/",
+    "categorySlug": "crisis",
+    "zipCode": "30253"
+  },
+  {
     "name": "Helping In His Name Ministries Food Pantry",
     "description": "Appointment-only food pantry serving Henry County residents. Open Monday, Wednesday, Friday 9:00 - 11:30 AM; Tuesday 5:30 - 6:30 PM; Thursday 4:30 - 5:30 PM. Call or email to schedule an appointment.",
     "address": "85 Bellamy Pl, Stockbridge, GA 30281",
@@ -2524,6 +3469,24 @@
     "url": "https://helpinginhisname.org/",
     "categorySlug": "food",
     "zipCode": "30281"
+  },
+  {
+    "name": "Helping In His Name Ministries Food Pantry",
+    "description": "Appointment-only food pantry serving Henry County residents. Open Monday, Wednesday, Friday 9:00 - 11:30 AM; Tuesday 5:30 - 6:30 PM; Thursday 4:30 - 5:30 PM. Call or email to schedule an appointment.",
+    "address": "85 Bellamy Pl, Stockbridge, GA 30281",
+    "phone": "(678) 565-6135",
+    "url": "https://helpinginhisname.org/",
+    "categorySlug": "food",
+    "zipCode": "30281"
+  },
+  {
+    "name": "McDonough Housing Authority",
+    "description": "Federally funded public housing authority providing low and moderate-income housing for the City of McDonough. Owns and operates 118 units of conventional public housing at three sites, plus partner programs to help residents improve their lives.",
+    "address": "345 Simpson Street, McDonough, GA 30253",
+    "phone": "(770) 957-4494",
+    "url": "https://mcdonoughha.org/",
+    "categorySlug": "housing",
+    "zipCode": "30253"
   },
   {
     "name": "McDonough Housing Authority",
@@ -2562,6 +3525,24 @@
     "zipCode": "30248"
   },
   {
+    "name": "Operation Lunchbox",
+    "description": "Nonprofit food pantry based in Locust Grove focused on combating food insecurity by providing nourishment to children and families in need throughout Henry County. Partners with Henry County School District to provide meals to students and their families.",
+    "address": "113 Park 42 Drive, Suite C, Locust Grove, GA 30248",
+    "phone": "(678) 962-3333",
+    "url": "https://www.operationlunchbox.org/",
+    "categorySlug": "food",
+    "zipCode": "30248"
+  },
+  {
+    "name": "Saving Grace Food Pantry",
+    "description": "Food pantry at Trinity Chapel serving Henry County residents. Open Wednesdays 10:00 AM - 3:00 PM and the last Thursday of each month 4:00 - 7:00 PM.",
+    "address": "225 Technology Parkway, McDonough, GA 30253",
+    "phone": "(470) 507-3950",
+    "url": "https://savinggracefoodpantry.com/",
+    "categorySlug": "food",
+    "zipCode": "30253"
+  },
+  {
     "name": "Saving Grace Food Pantry",
     "description": "Food pantry at Trinity Chapel serving Henry County residents. Open Wednesdays 10:00 AM - 3:00 PM and the last Thursday of each month 4:00 - 7:00 PM.",
     "address": "225 Technology Parkway, McDonough, GA 30253",
@@ -2598,6 +3579,15 @@
     "zipCode": "30253"
   },
   {
+    "name": "Southern Crescent Resource Ministry",
+    "description": "Nonprofit hunger relief organization collecting excess foods from local merchants and distributing to approximately 200 local churches and charitable organizations. Provides food distribution on Wednesdays 10:00 AM - 3:00 PM and the last Thursday of each month 4:00 - 7:00 PM. Delivery available for those without transportation.",
+    "address": "112 Park West Drive, McDonough, GA 30253",
+    "phone": "(770) 320-8200",
+    "url": "http://www.southerncrescentresourceministry.com/",
+    "categorySlug": "food",
+    "zipCode": "30253"
+  },
+  {
     "name": "The Salvation Army McDonough Service Center",
     "description": "Salvation Army service center providing hunger relief food pantry and other emergency assistance services to McDonough and Henry County residents. Food pantry open Monday through Saturday 9 AM - 5 PM.",
     "address": "401 Racetrack Road, McDonough, GA 30253",
@@ -2612,6 +3602,24 @@
     "address": "401 Racetrack Road, McDonough, GA 30253",
     "phone": "(770) 957-8868",
     "url": "https://southernusa.salvationarmy.org/mcdonough/hunger-relief/",
+    "categorySlug": "food",
+    "zipCode": "30253"
+  },
+  {
+    "name": "The Salvation Army McDonough Service Center",
+    "description": "Salvation Army service center providing hunger relief food pantry and other emergency assistance services to McDonough and Henry County residents. Food pantry open Monday through Saturday 9 AM - 5 PM.",
+    "address": "401 Racetrack Road, McDonough, GA 30253",
+    "phone": "(770) 957-8868",
+    "url": "https://southernusa.salvationarmy.org/mcdonough/hunger-relief/",
+    "categorySlug": "food",
+    "zipCode": "30253"
+  },
+  {
+    "name": "United Food Force",
+    "description": "Nonprofit food bank formed in 2013 to fight hunger and aid the underprivileged in Henry County by providing food resources to network members and partner organizations throughout the community.",
+    "address": "1463 Highway 20 W, McDonough, GA 30253",
+    "phone": "(678) 272-2000",
+    "url": "https://unitedfoodforce.org/",
     "categorySlug": "food",
     "zipCode": "30253"
   },
@@ -2643,16 +3651,22 @@
     "zipCode": "31093"
   },
   {
-    "name": "Family Promise of Greater Houston County",
-    "description": "Provides transitional housing and support services for homeless families with children in Houston County.",
-    "address": "Warner Robins, GA 31088",
-    "phone": "478-328-8181",
-    "url": "https://familypromise.org",
+    "name": "Community Outreach Service Center",
+    "description": "Provides community outreach and support services including emergency assistance to Warner Robins area residents.",
+    "address": "404 Duke Avenue, Warner Robins, GA 31093",
+    "phone": null,
+    "url": "https://ccenteroutreach.org/",
+    "categorySlug": "community",
+    "zipCode": "31093"
+  },
+  {
+    "name": "Genesis Joy House Homeless Shelter",
+    "description": "Homeless shelter for female veterans and their minors, working to break the cycle of homelessness in the Warner Robins area.",
+    "address": "501 Marshall Avenue, Warner Robins, GA 31093",
+    "phone": "478-236-2207",
+    "url": "https://www.facebook.com/GJHWR/",
     "categorySlug": "housing",
-    "zipCode": "08201",
-    "additionalZipCodes": [
-      "31088"
-    ]
+    "zipCode": "31093"
   },
   {
     "name": "Genesis Joy House Homeless Shelter",
@@ -2670,6 +3684,24 @@
     "phone": null,
     "url": "https://www.facebook.com/HeartforHoustonCountyFoodPantry/",
     "categorySlug": "food",
+    "zipCode": "31088"
+  },
+  {
+    "name": "Heart for Houston County Food Pantry",
+    "description": "Food pantry hosted by the Apostolic Church of Warner Robins serving Houston County residents.",
+    "address": "Warner Robins, GA 31088",
+    "phone": null,
+    "url": "https://www.facebook.com/HeartforHoustonCountyFoodPantry/",
+    "categorySlug": "food",
+    "zipCode": "31088"
+  },
+  {
+    "name": "Houston County Habitat for Humanity",
+    "description": "Provides affordable homeownership opportunities and home repair services for low-income families in Houston County.",
+    "address": "2607 Moody Road, Warner Robins, GA 31088",
+    "phone": "478-328-3388",
+    "url": "https://www.habitat.org/",
+    "categorySlug": "housing",
     "zipCode": "31088"
   },
   {
@@ -2691,6 +3723,15 @@
     "zipCode": "31088"
   },
   {
+    "name": "Rebuilding Together Warner Robins",
+    "description": "Nonprofit providing free home repair and modifications for low-income homeowners in the Warner Robins area.",
+    "address": "110 Oak Grove Road, Warner Robins, GA 31088",
+    "phone": "478-922-0228",
+    "url": "https://rebuildingtogetherwr.org/",
+    "categorySlug": "housing",
+    "zipCode": "31088"
+  },
+  {
     "name": "Salvation Army Warner Robins",
     "description": "Provides emergency shelter, food assistance, and housing support to individuals and families in Warner Robins and Houston County.",
     "address": "Warner Robins, GA 31093",
@@ -2698,6 +3739,24 @@
     "url": "https://southernusa.salvationarmy.org/warner-robins/",
     "categorySlug": "crisis",
     "zipCode": "31093"
+  },
+  {
+    "name": "Salvation Army Warner Robins",
+    "description": "Provides emergency shelter, food assistance, and housing support to individuals and families in Warner Robins and Houston County.",
+    "address": "Warner Robins, GA 31093",
+    "phone": null,
+    "url": "https://southernusa.salvationarmy.org/warner-robins/",
+    "categorySlug": "crisis",
+    "zipCode": "31093"
+  },
+  {
+    "name": "Warner Robins Church of Christ Food Pantry",
+    "description": "Food pantry serving individuals and households in Houston County. Open Thursday 11:30 AM - 1:30 PM.",
+    "address": "Warner Robins, GA 31088",
+    "phone": null,
+    "url": "https://www.findhelp.org/warner-robins-church-of-christ--warner-robins-ga--food-pantry/6274579856883712?postal=31088",
+    "categorySlug": "food",
+    "zipCode": "31088"
   },
   {
     "name": "Warner Robins Church of Christ Food Pantry",
@@ -2736,6 +3795,24 @@
     "zipCode": "30549"
   },
   {
+    "name": "Food Bank at First Baptist Church Jefferson",
+    "description": "Food bank ministry serving Jackson County, open Monday and Wednesday 1:00 PM - 3:00 PM except major holidays.",
+    "address": "246 Washington Street, Jefferson, GA 30549",
+    "phone": "706-367-8332",
+    "url": "https://www.fbcjefferson.org/food-bank/",
+    "categorySlug": "food",
+    "zipCode": "30549"
+  },
+  {
+    "name": "iServe Ministries Mobile Food Pantry",
+    "description": "Mobile food pantry that can feed up to 400 families per truck, providing 10-12 days worth of food. Located at Jackson County Family Connections.",
+    "address": "831 S Elm St, Commerce, GA 30529",
+    "phone": null,
+    "url": "https://www.iserveministries.org/mobile-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "30529"
+  },
+  {
     "name": "iServe Ministries Mobile Food Pantry",
     "description": "Mobile food pantry that can feed up to 400 families per truck, providing 10-12 days worth of food. Located at Jackson County Family Connections.",
     "address": "831 S Elm St, Commerce, GA 30529",
@@ -2763,6 +3840,15 @@
     "zipCode": "31539"
   },
   {
+    "name": "Food Pantry of Jeff Davis County",
+    "description": "Food pantry open during regular library business hours providing lunch foods, afterschool snacks, and kid-friendly foods to all children under 18 in Jeff Davis County.",
+    "address": "Hazlehurst, GA 31539",
+    "phone": null,
+    "url": "https://www.foodpantry-jdc.org/",
+    "categorySlug": "food",
+    "zipCode": "31539"
+  },
+  {
     "name": "Jeff Davis Hospital",
     "description": "Community hospital serving Hazlehurst and Jeff Davis County with inpatient, emergency, and outpatient clinic services for area residents.",
     "address": "163 S Tallahassee St, Hazlehurst, GA 31539",
@@ -2770,6 +3856,15 @@
     "url": "https://www.jeffdavishospital.org",
     "categorySlug": "healthcare",
     "zipCode": "31539"
+  },
+  {
+    "name": "Louisville Community Food Pantry",
+    "description": "Community food pantry serving Louisville, Georgia and surrounding areas with food to residents lacking adequate food resources. Open Wednesdays 8-11 AM.",
+    "address": "718 West Nelms Street, Louisville, GA 30434",
+    "phone": "(478) 625-0890",
+    "url": "https://louisvillefoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "30434"
   },
   {
     "name": "Louisville Community Food Pantry",
@@ -2808,6 +3903,24 @@
     "zipCode": "30442"
   },
   {
+    "name": "Jenkins County Family Enrichment Center",
+    "description": "Food pantry serving Jenkins County residents. Open Monday and Wednesday 10:00 AM - 1:30 PM.",
+    "address": "527 Barney Ave, Millen, GA 30442",
+    "phone": "478-982-8004",
+    "url": "https://www.facebook.com/JCFEC/",
+    "categorySlug": "food",
+    "zipCode": "30442"
+  },
+  {
+    "name": "Jenkins County Health Department Millen Clinic",
+    "description": "Provides food assistance and health services to residents facing food insecurity in Jenkins County.",
+    "address": "Millen, GA 30442",
+    "phone": "478-982-2811",
+    "url": "https://georgiafoodbanks.org/food-bank/jenkins-county-health-department-millen-clinic/",
+    "categorySlug": "food",
+    "zipCode": "30442"
+  },
+  {
     "name": "Jenkins County Health Department Millen Clinic",
     "description": "Provides food assistance and health services to residents facing food insecurity in Jenkins County.",
     "address": "Millen, GA 30442",
@@ -2842,6 +3955,24 @@
     "url": "https://www.4jcfoodbank.com/",
     "categorySlug": "food",
     "zipCode": "31032"
+  },
+  {
+    "name": "4JC Food Bank",
+    "description": "Food pantry located at First Baptist Gray Church Office serving Jones County residents.",
+    "address": "126 W Clinton Street, Gray, GA 31032",
+    "phone": null,
+    "url": "https://www.4jcfoodbank.com/",
+    "categorySlug": "food",
+    "zipCode": "31032"
+  },
+  {
+    "name": "Donavan's Dream",
+    "description": "Provides food assistance to the needy in the Barnesville and Lamar County area. Partners with Lamar County School System to provide weekend meals to underprivileged students.",
+    "address": "Barnesville, GA 30204",
+    "phone": "470-592-2004",
+    "url": "https://donavansdream.org/",
+    "categorySlug": "food",
+    "zipCode": "30204"
   },
   {
     "name": "Donavan's Dream",
@@ -2889,12 +4020,30 @@
     "zipCode": "31021"
   },
   {
+    "name": "Dublin Food Pantry",
+    "description": "Provides food, hygiene products, and resources to individuals and families experiencing food insecurity in Dublin and Laurens County.",
+    "address": "Dublin, GA 31021",
+    "phone": null,
+    "url": "https://www.dublinfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "31021"
+  },
+  {
     "name": "Laurens Baptist Association Ministry Center",
     "description": "Provides supplemental groceries and clothing to individuals and families in Laurens County. Open Tuesday through Thursday 10:00 AM - 2:00 PM.",
     "address": "300 North Calhoun Street, Dublin, GA 31021",
     "phone": "478-279-5727",
     "url": "https://www.foodpantries.org/li/dublin-ministry-center",
     "categorySlug": "food",
+    "zipCode": "31021"
+  },
+  {
+    "name": "Salvation Army Dublin",
+    "description": "Provides hunger relief and emergency assistance services to Dublin and Laurens County residents.",
+    "address": "Dublin, GA 31021",
+    "phone": null,
+    "url": "https://southernusa.salvationarmy.org/dublin/hunger-relief/",
+    "categorySlug": "crisis",
     "zipCode": "31021"
   },
   {
@@ -2952,6 +4101,15 @@
     "zipCode": "31313"
   },
   {
+    "name": "LTOP Angels of Mercy Food Ministry",
+    "description": "Nonprofit free food pantry and monthly food bank serving Liberty County residents in the Hinesville area.",
+    "address": "1272 Kelly Dr, Hinesville, GA 31313",
+    "phone": null,
+    "url": "https://ltopangelsofmercyfoodministry.com/",
+    "categorySlug": "food",
+    "zipCode": "31313"
+  },
+  {
     "name": "Food Share of Lincoln County",
     "description": "Food pantry serving Lincoln County residents. Open the 4th Saturday 9:00 AM - 12:00 PM.",
     "address": "Lincolnton, GA 30817",
@@ -2966,6 +4124,24 @@
     "address": "Lincolnton, GA 30817",
     "phone": "706-359-1366",
     "url": "https://foodsharelc.org/welcome/",
+    "categorySlug": "food",
+    "zipCode": "30817"
+  },
+  {
+    "name": "Food Share of Lincoln County",
+    "description": "Food pantry serving Lincoln County residents. Open the 4th Saturday 9:00 AM - 12:00 PM.",
+    "address": "Lincolnton, GA 30817",
+    "phone": "706-359-1366",
+    "url": "https://foodsharelc.org/welcome/",
+    "categorySlug": "food",
+    "zipCode": "30817"
+  },
+  {
+    "name": "Lincoln County Food Pantry",
+    "description": "Provides food assistance to Lincoln County residents. Open Thursday 9:00 AM - 12:00 PM.",
+    "address": "1066 Firetower Rd, Lincolnton, GA 30817",
+    "phone": "706-359-7838",
+    "url": "https://www.loc8nearme.com/georgia/lincolnton/lincoln-county-food-pantry/2764793/",
     "categorySlug": "food",
     "zipCode": "30817"
   },
@@ -3015,6 +4191,24 @@
     "zipCode": "31601"
   },
   {
+    "name": "Lowndes Associated Ministries to People (LAMP)",
+    "description": "The only facility in the area providing emergency shelter and supportive services to men, women, and families from eight surrounding counties. New Horizons Shelter open 4 PM - 8 AM weekdays and all day weekends.",
+    "address": "Valdosta, GA 31601",
+    "phone": "229-245-7157",
+    "url": "https://www.lampinc.org/",
+    "categorySlug": "housing",
+    "zipCode": "31601"
+  },
+  {
+    "name": "Salvation Army Valdosta",
+    "description": "Provides emergency shelter for men experiencing homelessness and hunger relief services to Lowndes County residents.",
+    "address": "Valdosta, GA 31601",
+    "phone": null,
+    "url": "https://southernusa.salvationarmy.org/valdosta/",
+    "categorySlug": "crisis",
+    "zipCode": "31601"
+  },
+  {
     "name": "Salvation Army Valdosta",
     "description": "Provides emergency shelter for men experiencing homelessness and hunger relief services to Lowndes County residents.",
     "address": "Valdosta, GA 31601",
@@ -3051,6 +4245,15 @@
     "zipCode": "31601"
   },
   {
+    "name": "Second Harvest of South Georgia",
+    "description": "The largest rural food bank in the state serving 26 counties. Distributes more than 1.7 million meals worth of food per month across the region.",
+    "address": "Valdosta, GA 31601",
+    "phone": null,
+    "url": "https://feedingsga.org/",
+    "categorySlug": "food",
+    "zipCode": "31601"
+  },
+  {
     "name": "The Haven Emergency Shelter Program",
     "description": "Provides emergency shelter, food, and clothing to women and children who need a safe place to stay. Offers job search assistance, housing, childcare, and legal assistance for Lowndes County residents.",
     "address": "Valdosta, GA 31601",
@@ -3066,6 +4269,24 @@
     "phone": null,
     "url": "https://www.findhelp.org/the-haven--valdosta-ga--emergency-shelter-program/5667028119060480?postal=31601",
     "categorySlug": "crisis",
+    "zipCode": "31601"
+  },
+  {
+    "name": "The Haven Emergency Shelter Program",
+    "description": "Provides emergency shelter, food, and clothing to women and children who need a safe place to stay. Offers job search assistance, housing, childcare, and legal assistance for Lowndes County residents.",
+    "address": "Valdosta, GA 31601",
+    "phone": null,
+    "url": "https://www.findhelp.org/the-haven--valdosta-ga--emergency-shelter-program/5667028119060480?postal=31601",
+    "categorySlug": "crisis",
+    "zipCode": "31601"
+  },
+  {
+    "name": "Valdosta-Lowndes Habitat for Humanity",
+    "description": "Builds strength, stability, and self-reliance in partnership with people and families in need of decent and affordable housing in Lowndes County.",
+    "address": "Valdosta, GA 31601",
+    "phone": null,
+    "url": "https://www.valdostahabitat.org/",
+    "categorySlug": "housing",
     "zipCode": "31601"
   },
   {
@@ -3110,6 +4331,24 @@
     "address": "1127 Georgia 52, Dahlonega, GA 30533",
     "phone": "706-867-9621",
     "url": "https://www.communityhelpingplace.org/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "30533"
+  },
+  {
+    "name": "Community Helping Place Food Pantry",
+    "description": "Provides food to over 900 individuals each month via drive-through. Open Monday, Wednesday and Friday 10 AM - 1 PM. Requires photo ID and Lumpkin County residency.",
+    "address": "1127 Georgia 52, Dahlonega, GA 30533",
+    "phone": "706-867-9621",
+    "url": "https://www.communityhelpingplace.org/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "30533"
+  },
+  {
+    "name": "Community Helping Place Food Pantry",
+    "description": "Addresses the needs of Lumpkin County residents with food assistance and other supportive services. Open Monday, Wednesday and Friday 10am-1pm.",
+    "address": "1127 Georgia 52, Dahlonega, GA 30533",
+    "phone": "706-867-9621",
+    "url": "https://www.communityhelpingplace.org/",
     "categorySlug": "food",
     "zipCode": "30533"
   },
@@ -3148,6 +4387,24 @@
     "url": "https://underthebridgeministries.com/",
     "categorySlug": "food",
     "zipCode": "30533"
+  },
+  {
+    "name": "Under the Bridge Ministries",
+    "description": "Distributes food on the second Saturday 10 AM - 1 PM monthly with no referral needed for Dahlonega area residents.",
+    "address": "523 Ben Higgins Road, Dahlonega, GA 30533",
+    "phone": "678-451-5488",
+    "url": "https://underthebridgeministries.com/",
+    "categorySlug": "food",
+    "zipCode": "30533"
+  },
+  {
+    "name": "Food Bank of Northeast Georgia Mobile Pantries",
+    "description": "Drive-through style distributions providing pre-portioned 50-pound food boxes including meats, dairy, fruits, vegetables, grains, and nonperishables. Serves Madison County.",
+    "address": "Danielsville, GA 30633",
+    "phone": null,
+    "url": "https://foodbanknega.org/services/mobile-pantries/",
+    "categorySlug": "food",
+    "zipCode": "30633"
   },
   {
     "name": "Food Bank of Northeast Georgia Mobile Pantries",
@@ -3222,6 +4479,15 @@
     "zipCode": "31305"
   },
   {
+    "name": "St Andrews Episcopal Church Food Pantry",
+    "description": "Food pantry open Monday through Thursday 10:00 AM - 12:00 PM serving McIntosh County residents.",
+    "address": "301 Washington Street, Darien, GA 31305",
+    "phone": "912-437-4562",
+    "url": "https://standrewsdarien.org/",
+    "categorySlug": "food",
+    "zipCode": "31305"
+  },
+  {
     "name": "Community Action For Improvement",
     "description": "Provides food and nutrition resources, as well as community support services to residents of Meriwether, Heard, Carroll, Coweta, and Troup counties.",
     "address": "Greenville, GA 30222",
@@ -3238,6 +4504,24 @@
     "url": "https://www.cafi-ga.org/food-and-nutrition-resources/",
     "categorySlug": "community",
     "zipCode": "30222"
+  },
+  {
+    "name": "Community Action For Improvement",
+    "description": "Provides food and nutrition resources, as well as community support services to residents of Meriwether, Heard, Carroll, Coweta, and Troup counties.",
+    "address": "Greenville, GA 30222",
+    "phone": null,
+    "url": "https://www.cafi-ga.org/food-and-nutrition-resources/",
+    "categorySlug": "community",
+    "zipCode": "30222"
+  },
+  {
+    "name": "Community Action For Improvement (CAFI)",
+    "description": "Provides utility/energy bill assistance (LIHEAP), housing assistance, home weatherization, and rental assistance for Meriwether County and surrounding counties.",
+    "address": "LaGrange, GA",
+    "phone": "706-882-6412",
+    "url": "https://www.cafi-ga.org/",
+    "categorySlug": "utilities",
+    "zipCode": "31816"
   },
   {
     "name": "Community Action For Improvement (CAFI)",
@@ -3330,6 +4614,15 @@
     "zipCode": "31029"
   },
   {
+    "name": "Middle Georgia Community Action Agency - Monroe County",
+    "description": "Neighborhood service center providing case management and social services for Monroe County residents.",
+    "address": "107 Martin Luther King Jr Dr, Forsyth, GA 31029",
+    "phone": "478-993-3029",
+    "url": "https://www.mgcaa.org/",
+    "categorySlug": "community",
+    "zipCode": "31029"
+  },
+  {
     "name": "Mount Vernon United Methodist Church Food Pantry",
     "description": "Community food pantry in partnership with First Baptist Church of Mount Vernon and Second Harvest of Coastal Georgia. Distributes food donations and USDA provisions.",
     "address": "120 McGregor Street, Mount Vernon, GA 30445",
@@ -3357,6 +4650,15 @@
     "zipCode": "30650"
   },
   {
+    "name": "Madison-Morgan Community Food Pantry",
+    "description": "Nonprofit food pantry serving Morgan County neighbors by providing access to nutritional and essential goods. Open Saturdays.",
+    "address": "951 Eliza Morris Street, Madison, GA 30650",
+    "phone": "706-707-8900",
+    "url": "https://mmcfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "30650"
+  },
+  {
     "name": "The Caring Place Food Pantry",
     "description": "Food pantry serving Morgan County residents for over 28 years. Open Fridays 8:00 AM - 12:00 PM. Requires proof of Morgan County residency.",
     "address": "1140 Monticello Rd. Ste. 400, Madison, GA 30650",
@@ -3364,6 +4666,15 @@
     "url": "https://www.homelessshelterdirectory.org/foodbank/ga_caring-place",
     "categorySlug": "food",
     "zipCode": "30650"
+  },
+  {
+    "name": "Helping Hands Food Pantry",
+    "description": "Local food pantry serving Chatsworth and Murray County residents.",
+    "address": "1685 Highway 411 S, Chatsworth, GA 30705",
+    "phone": "706-517-0091",
+    "url": "https://www.foodbanks.net/organization/379/helping-hands-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "30705"
   },
   {
     "name": "Helping Hands Food Pantry",
@@ -3420,6 +4731,24 @@
     "zipCode": "31820"
   },
   {
+    "name": "Feeding the Valley Food Bank",
+    "description": "Regional food bank serving Muscogee County and 16 other counties in West Georgia. Provides food distribution to partner agencies and mobile pantry programs.",
+    "address": "6744 Flat Rock Rd., Midland, GA 31820",
+    "phone": "",
+    "url": "https://feedingthevalley.org/",
+    "categorySlug": "food",
+    "zipCode": "31820"
+  },
+  {
+    "name": "Open Door Community House",
+    "description": "Provides transitional housing for women, rapid rehousing, case management, and senior ministry. Helps homeless women obtain sustainable income and permanent housing.",
+    "address": "2405 2nd Ave, Columbus, GA 31901",
+    "phone": "706-323-5518",
+    "url": "https://www.odch.org/",
+    "categorySlug": "housing",
+    "zipCode": "31901"
+  },
+  {
     "name": "Open Door Community House",
     "description": "Provides transitional housing for women, rapid rehousing, case management, and senior ministry. Helps homeless women obtain sustainable income and permanent housing.",
     "address": "2405 2nd Ave, Columbus, GA 31901",
@@ -3463,6 +4792,24 @@
     "url": "https://www.valleyrescuemission.org/",
     "categorySlug": "housing",
     "zipCode": "31901"
+  },
+  {
+    "name": "Valley Rescue Mission",
+    "description": "Christ-centered nonprofit offering shelter, free community meals, addiction recovery, and support for men, women, and children experiencing homelessness in Columbus, GA.",
+    "address": "2903 2nd Avenue, Columbus, GA 31901",
+    "phone": "",
+    "url": "https://www.valleyrescuemission.org/",
+    "categorySlug": "housing",
+    "zipCode": "31901"
+  },
+  {
+    "name": "Giving Hands Food Pantry",
+    "description": "Food pantry serving Newton, Butts, and Jasper county residents. Appointment required. Open Monday and Wednesday 2-4 PM and 3rd Saturday 10 AM-12 PM. Requires photo ID and proof of residency.",
+    "address": "2160 Church Street, Covington, GA 30014",
+    "phone": "770-786-7305",
+    "url": "https://www.givinghandsfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "30014"
   },
   {
     "name": "Giving Hands Food Pantry",
@@ -3519,6 +4866,24 @@
     "zipCode": "30014"
   },
   {
+    "name": "Salvation Army Covington Service Center",
+    "description": "Provides free food pantry, clothing assistance, and financial assistance for rent, mortgage, or utilities. Open Tuesday-Thursday 9:30 AM - 12 PM.",
+    "address": "5193 Washington St, Covington, GA 30014",
+    "phone": "",
+    "url": "https://southernusa.salvationarmy.org/covington-ga/",
+    "categorySlug": "community",
+    "zipCode": "30014"
+  },
+  {
+    "name": "Area Churches Together Serving (ACTS)",
+    "description": "Churches joined together to provide food bank and clothes closet for people with emergency needs in Oconee County. Open Tuesday and Friday 9 AM - 1 PM.",
+    "address": "130 East Thompson Street, Bogart, GA 30622",
+    "phone": "770-725-2330",
+    "url": "https://www.rise4me.com/resources/area-churches-together-serving-acts/",
+    "categorySlug": "food",
+    "zipCode": "30622"
+  },
+  {
     "name": "Area Churches Together Serving (ACTS)",
     "description": "Churches joined together to provide food bank and clothes closet for people with emergency needs in Oconee County. Open Tuesday and Friday 9 AM - 1 PM.",
     "address": "130 East Thompson Street, Bogart, GA 30622",
@@ -3555,6 +4920,15 @@
     "zipCode": "30677"
   },
   {
+    "name": "Oconee Area Resource Council (OARC)",
+    "description": "Local 501(c)(3) nonprofit operating a food pantry, Food for Kids Program, and Summer Food for Kids Program in Watkinsville.",
+    "address": "1071 Jamestown Blvd, Bldg 600, Suite 601, Watkinsville, GA 30677",
+    "phone": "706-769-4974",
+    "url": "https://www.oconeeconnection.org/",
+    "categorySlug": "food",
+    "zipCode": "30677"
+  },
+  {
     "name": "Helping Hands of Paulding County",
     "description": "Nonprofit Christian organization providing food pantry (fresh dairy, produce, meats, canned goods), mobile food pantry, job skills training, healthcare access, mental health, and housing assistance. Families may visit up to 12 times per year.",
     "address": "228 West Spring St, Dallas, GA 30132",
@@ -3571,6 +4945,24 @@
     "url": "https://hhpcga.org/",
     "categorySlug": "food",
     "zipCode": "30132"
+  },
+  {
+    "name": "Helping Hands of Paulding County",
+    "description": "Nonprofit Christian organization providing food pantry (fresh dairy, produce, meats, canned goods), mobile food pantry, job skills training, healthcare access, mental health, and housing assistance. Families may visit up to 12 times per year.",
+    "address": "228 West Spring St, Dallas, GA 30132",
+    "phone": "770-443-1230",
+    "url": "https://hhpcga.org/",
+    "categorySlug": "food",
+    "zipCode": "30132"
+  },
+  {
+    "name": "CARES for Pickens County",
+    "description": "Provides food pantry, emergency financial assistance with housing, resource counseling, and educational assistance to Pickens County residents. Part of Feeding America network. Appointment required.",
+    "address": "89 Cares Dr, Jasper, GA 30143",
+    "phone": "706-253-4777",
+    "url": "https://caresforpickens.com/",
+    "categorySlug": "food",
+    "zipCode": "30143"
   },
   {
     "name": "CARES for Pickens County",
@@ -3607,6 +4999,15 @@
     "url": "https://www.foodpantries.org/li/ga_31516_pierce-county-food-pantry-inc",
     "categorySlug": "food",
     "zipCode": "31516"
+  },
+  {
+    "name": "Pike County Christian Outreach Center",
+    "description": "Provides food pantry, clothing, and household items to Pike County residents. Open Monday, Wednesday, and Saturday 10:00 AM - 2:00 PM.",
+    "address": "2564 Main Street, Molena, GA 30258",
+    "phone": "770-884-0010",
+    "url": "https://www.pikecac.org/",
+    "categorySlug": "food",
+    "zipCode": "30258"
   },
   {
     "name": "Pike County Christian Outreach Center",
@@ -3672,6 +5073,15 @@
     "zipCode": "30153"
   },
   {
+    "name": "Helping Hands Food Pantry - Rockmart",
+    "description": "Non-profit food pantry dedicated to helping the community with fruits, vegetables, and non-perishable items in Polk County.",
+    "address": "Rockmart, GA 30153",
+    "phone": null,
+    "url": "https://www.foodbanks.net/organization/360/helping-hands-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "30153"
+  },
+  {
     "name": "The Storehouse Food Pantry - Rockmart",
     "description": "Food pantry serving Polk County residents. Open Tuesday 1:00 PM - 5:00 PM, Thursday 4:00 PM - 7:00 PM, Saturday 11:00 AM - 2:30 PM.",
     "address": "Rockmart, GA 30153",
@@ -3679,6 +5089,15 @@
     "url": "https://www.foodpantries.org/ci/ga-rockmart",
     "categorySlug": "food",
     "zipCode": "30153"
+  },
+  {
+    "name": "Putnam Christian Outreach",
+    "description": "Faith-based nonprofit in Eatonton providing food distribution, medical assistance, utility assistance, clothing, and shelter. Open Tuesday-Friday 9 AM - 6 PM, Saturday 9 AM - 4 PM.",
+    "address": "151 Industrial Boulevard, Eatonton, GA 31024",
+    "phone": "706-485-4066",
+    "url": "https://pcoicares.com/",
+    "categorySlug": "community",
+    "zipCode": "31024"
   },
   {
     "name": "Putnam Christian Outreach",
@@ -3726,6 +5145,15 @@
     "zipCode": "30906"
   },
   {
+    "name": "Augusta Dream Center",
+    "description": "Serves low income, homeless, and underserved individuals and families in Augusta/South Augusta. Food Pantry and Clothes Closet open Tuesdays 10am-noon and Thursdays 5-6pm emergency food.",
+    "address": "3358 Peach Orchard Road, Augusta, GA 30906",
+    "phone": "706-364-2860",
+    "url": "https://www.augustadreamcenter.org/",
+    "categorySlug": "food",
+    "zipCode": "30906"
+  },
+  {
     "name": "Resource Center for Community Action Mobile Food Pantry",
     "description": "Mobile food pantry serving Rockdale County and surrounding communities.",
     "address": "3940 Georgia 20, Conyers, GA 30013",
@@ -3740,6 +5168,24 @@
     "address": "3940 Georgia 20, Conyers, GA 30013",
     "phone": "770-760-1346",
     "url": "https://rccaction.org/",
+    "categorySlug": "food",
+    "zipCode": "30013"
+  },
+  {
+    "name": "Resource Center for Community Action Mobile Food Pantry",
+    "description": "Mobile food pantry serving Rockdale County and surrounding communities.",
+    "address": "3940 Georgia 20, Conyers, GA 30013",
+    "phone": "770-760-1346",
+    "url": "https://rccaction.org/",
+    "categorySlug": "food",
+    "zipCode": "30013"
+  },
+  {
+    "name": "Rockdale Emergency Relief (RER)",
+    "description": "Longest-serving nonprofit dedicated to Rockdale County. Operates a community food bank and financial assistance programs. Open Monday, Tuesday, and Thursday 10 AM - 1:30 PM. Requires proof of Rockdale County residency.",
+    "address": "350 Tall Oaks Circle, Conyers, GA 30013",
+    "phone": "770-922-0165",
+    "url": "https://myrer.org/",
     "categorySlug": "food",
     "zipCode": "30013"
   },
@@ -3789,6 +5235,15 @@
     "zipCode": "30223"
   },
   {
+    "name": "Five Loaves Two Fish Food Pantry",
+    "description": "Food pantry serving Spalding, Butts, Pike, Lamar, and Upson county residents. No appointment required. Open Monday-Saturday 10:00 AM - 12:00 PM. One visit per calendar month.",
+    "address": "215 West Slaton Avenue, Griffin, GA 30223",
+    "phone": "678-603-1238",
+    "url": "https://www.griffinfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "30223"
+  },
+  {
     "name": "Impact Christian Ministries Food Pantry and Clothing Closet",
     "description": "Provides food pantry and clothing closet to Spalding County residents. Open Monday 8:00 AM - 2:00 PM and Friday 8:00 AM - 1:00 PM.",
     "address": "Griffin, GA 30223",
@@ -3813,6 +5268,24 @@
     "phone": "",
     "url": "https://www.rushtonshope.org/",
     "categorySlug": "housing",
+    "zipCode": "30224"
+  },
+  {
+    "name": "Rushton's Hope",
+    "description": "Multi-location nonprofit in Griffin providing food, shelter, and community services to people experiencing homelessness and families in need.",
+    "address": "Griffin, GA 30224",
+    "phone": "",
+    "url": "https://www.rushtonshope.org/",
+    "categorySlug": "housing",
+    "zipCode": "30224"
+  },
+  {
+    "name": "Salvation Army Griffin Corps",
+    "description": "Provides food pantry and hunger relief services to Spalding County residents in Griffin.",
+    "address": "725 Meriwether St, Griffin, GA 30224",
+    "phone": "",
+    "url": "https://southernusa.salvationarmy.org/griffin/hunger-relief/",
+    "categorySlug": "food",
     "zipCode": "30224"
   },
   {
@@ -3879,6 +5352,15 @@
     "zipCode": "31709"
   },
   {
+    "name": "Harvest of Hope Food Pantry",
+    "description": "Emergency food pantry for Sumter County residents. Open Tuesday 8:30 AM - 11:00 AM (closed 5th Tuesday). One visit per month. Income eligibility applies.",
+    "address": "606 McGarrah St, Americus, GA 31709",
+    "phone": "229-891-1967",
+    "url": "https://harvestofhopefoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "31709"
+  },
+  {
     "name": "Concerted Services - Tattnall County Service Center",
     "description": "Multi-service nonprofit providing food pantry, shelter, utility assistance, medical aid, clothing, and transportation to residents of Candler and surrounding counties.",
     "address": "144 W. Brazell Street, Reidsville, GA 30453",
@@ -3924,6 +5406,24 @@
     "zipCode": "31792"
   },
   {
+    "name": "Salvation Army Thomasville Corps",
+    "description": "Provides food pantry (Fridays), community feeding (Wednesdays 1-2 PM), temporary shelter through Needham House, rent and utility assistance, and disaster relief in Thomas County.",
+    "address": "514 N Madison St, Thomasville, GA 31792",
+    "phone": "(229) 226-3772",
+    "url": "https://southernusa.salvationarmy.org/thomasville/",
+    "categorySlug": "food",
+    "zipCode": "31792"
+  },
+  {
+    "name": "Thomas County Food Bank and Outreach Center",
+    "description": "Community food bank providing food assistance to qualifying households in Thomas County. Open Monday 3-5 PM, Tuesday and Thursday 9 AM - 12 PM.",
+    "address": "430 N Broad St, Thomasville, GA 31792",
+    "phone": "(229) 226-4277",
+    "url": "https://thomas-bank.edan.io/",
+    "categorySlug": "food",
+    "zipCode": "31792"
+  },
+  {
     "name": "Thomas County Food Bank and Outreach Center",
     "description": "Community food bank providing food assistance to qualifying households in Thomas County. Open Monday 3-5 PM, Tuesday and Thursday 9 AM - 12 PM.",
     "address": "430 N Broad St, Thomasville, GA 31792",
@@ -3957,6 +5457,24 @@
     "phone": "(229) 396-5990",
     "url": "https://www.tiftareahouseofhope.org/",
     "categorySlug": "housing",
+    "zipCode": "31792"
+  },
+  {
+    "name": "Tiftarea House of Hope",
+    "description": "Faith-based emergency and transitional shelter for homeless women and women with children in the Tifton area. Provides food, clothing, employment training, and transportation assistance.",
+    "address": "602 West 3rd Street, Tifton, GA 31793",
+    "phone": "(229) 396-5990",
+    "url": "https://www.tiftareahouseofhope.org/",
+    "categorySlug": "housing",
+    "zipCode": "31792"
+  },
+  {
+    "name": "VFC Thomasville Food Pantry",
+    "description": "Faith-based food pantry in Thomasville offering food distribution roughly every other Thursday 9-11 AM and quarterly Saturday manna drops.",
+    "address": "Thomasville, GA 31792",
+    "phone": "",
+    "url": "https://vfcthomasville.org/food-pantry/",
+    "categorySlug": "food",
     "zipCode": "31792"
   },
   {
@@ -3988,19 +5506,19 @@
   },
   {
     "name": "Concerted Services - Toombs County Service Center",
-    "description": "Community action agency providing food pantry and other emergency assistance services to Toombs County residents. Open Monday-Friday 8 AM - 4:30 PM.",
+    "description": "Community action agency providing food pantry, emergency assistance, energy assistance, and other basic needs to Toombs County residents. Open Monday-Friday 8 AM - 4:30 PM.",
     "address": "107 Old Airport Rd, Vidalia, GA 30474",
     "phone": "(912) 285-6083",
-    "url": "https://www.foodpantries.org/li/concerted_services_toombs_county_service_center_30474",
+    "url": "https://www.homelessshelterdirectory.org/foodbank/ga_concerted-services-inc-toombs-county-service-center",
     "categorySlug": "food",
     "zipCode": "30474"
   },
   {
     "name": "Concerted Services - Toombs County Service Center",
-    "description": "Community action agency providing food pantry, emergency assistance, energy assistance, and other basic needs to Toombs County residents. Open Monday-Friday 8 AM - 4:30 PM.",
+    "description": "Community action agency providing food pantry and other emergency assistance services to Toombs County residents. Open Monday-Friday 8 AM - 4:30 PM.",
     "address": "107 Old Airport Rd, Vidalia, GA 30474",
     "phone": "(912) 285-6083",
-    "url": "https://www.homelessshelterdirectory.org/foodbank/ga_concerted-services-inc-toombs-county-service-center",
+    "url": "https://www.foodpantries.org/li/concerted_services_toombs_county_service_center_30474",
     "categorySlug": "food",
     "zipCode": "30474"
   },
@@ -4021,6 +5539,15 @@
     "url": "https://www.charitynavigator.org/ein/824337562",
     "categorySlug": "food",
     "zipCode": "30436"
+  },
+  {
+    "name": "Towns County Food Pantry / Ninth District Opportunity",
+    "description": "Food pantry serving Towns and Union County residents. Free food distribution every other Tuesday 2-5 PM and food pantry Tuesday and Wednesday 9 AM - 12 PM.",
+    "address": "1294 Jack Dayton Cir, Young Harris, GA 30582",
+    "phone": "(706) 896-4783",
+    "url": "https://www.ndo.org/area/towns/",
+    "categorySlug": "food",
+    "zipCode": "30582"
   },
   {
     "name": "Towns County Food Pantry / Ninth District Opportunity",
@@ -4068,6 +5595,15 @@
     "zipCode": "30240"
   },
   {
+    "name": "Feeding the Valley Food Bank - LaGrange Branch",
+    "description": "Regional food bank serving Troup County and surrounding areas with food assistance through partner agencies and mobile pantries.",
+    "address": "118 Gordon Commercial Drive, LaGrange, GA 30240",
+    "phone": "",
+    "url": "https://feedingthevalley.org/lagrange/",
+    "categorySlug": "food",
+    "zipCode": "30240"
+  },
+  {
     "name": "West Point Food Closet",
     "description": "Outreach ministry providing food and emergency help to West Point residents only. Open Wednesdays 9:30 AM - 12 PM.",
     "address": "306 E 7th Street, West Point, GA 31833",
@@ -4093,6 +5629,24 @@
     "url": "https://thecaremission.org/",
     "categorySlug": "food",
     "zipCode": "30728"
+  },
+  {
+    "name": "The Care Mission Food Pantry",
+    "description": "Food pantry serving all of Walker County. Open Wednesdays and Fridays 12pm-4pm during first 3 full weeks of each month. Accepts Walker County zip codes including 30738.",
+    "address": "105 N. Chattanooga St., LaFayette, GA 30728",
+    "phone": "706-638-3664",
+    "url": "https://thecaremission.org/",
+    "categorySlug": "food",
+    "zipCode": "30728"
+  },
+  {
+    "name": "Faith in Serving Humanity (FISH) of Walton",
+    "description": "Christian outreach ministry providing food, rental and utility assistance, clothing, emergency shelter, soup kitchen, and transportation assistance to Walton and Barrow County residents.",
+    "address": "700 South Madison Avenue, Monroe, GA 30655",
+    "phone": "(770) 207-4357",
+    "url": "https://www.fishofwalton.org/",
+    "categorySlug": "community",
+    "zipCode": "30655"
   },
   {
     "name": "Faith in Serving Humanity (FISH) of Walton",
@@ -4149,6 +5703,15 @@
     "zipCode": "31501"
   },
   {
+    "name": "Concerted Services - Ware County Service Center",
+    "description": "Community action agency providing emergency food pantry and other basic needs services to Ware County residents. Open Monday-Friday.",
+    "address": "960 C City Blvd, Waycross, GA 31501",
+    "phone": "(912) 283-8634",
+    "url": "https://georgiafoodbanks.org/food-bank/concerted-services-ware-county-service-center/",
+    "categorySlug": "food",
+    "zipCode": "31501"
+  },
+  {
     "name": "The Refinery of Waycross Food Pantry",
     "description": "Faith-based food pantry in Waycross distributing food free of charge on the 4th Tuesday of each month, 3:30-5:30 PM.",
     "address": "522 Miles Still Road, Waycross, GA 31503",
@@ -4185,6 +5748,24 @@
     "zipCode": "31082"
   },
   {
+    "name": "Christian Life Center of Washington County",
+    "description": "Nonprofit food pantry serving Washington County residents in need. Open Tuesdays 9 AM - 12 PM. Referral from Georgia DFCS required.",
+    "address": "PO Box 5057, Sandersville, GA 31082",
+    "phone": "",
+    "url": "https://www.christianlifecenterofwashingtoncounty.org/",
+    "categorySlug": "food",
+    "zipCode": "31082"
+  },
+  {
+    "name": "Action Pact Wayne County Service Center",
+    "description": "Community action agency providing food bank, emergency assistance, energy assistance, senior nutrition programs, and other basic needs services for Wayne County residents. Open Monday–Friday 8 AM–4:30 PM.",
+    "address": "409 South Third Street, Jesup, GA 31545",
+    "phone": "(912) 427-7797",
+    "url": "https://myactionpact.org/",
+    "categorySlug": "food",
+    "zipCode": "31545"
+  },
+  {
     "name": "Action Pact Wayne County Service Center",
     "description": "Community action agency providing food bank, emergency assistance, energy assistance, senior nutrition programs, and other basic needs services for Wayne County residents. Open Monday–Friday 8 AM–4:30 PM.",
     "address": "409 South Third Street, Jesup, GA 31545",
@@ -4209,6 +5790,15 @@
     "phone": "(912) 427-7797",
     "url": "https://www.homelessshelterdirectory.org/shelter/ga_concerted-services-inc-wayne-county-service-center",
     "categorySlug": "food",
+    "zipCode": "31545"
+  },
+  {
+    "name": "Fair Haven Domestic Violence Shelter",
+    "description": "24-hour emergency shelter and comprehensive services for victims of domestic violence and their children in Wayne, Appling, and Jeff Davis counties. Crisis line available 24/7.",
+    "address": "PO Box 1153, Jesup, GA 31598",
+    "phone": "(912) 588-9999",
+    "url": "https://fairhavenjesup.org/",
+    "categorySlug": "crisis",
     "zipCode": "31545"
   },
   {
@@ -4257,6 +5847,15 @@
     "zipCode": "31545"
   },
   {
+    "name": "Unity Church of God Food Pantry and Clothing Closet",
+    "description": "Church-based food pantry and clothing closet serving Jesup and Wayne County. Open on the 2nd and 4th Tuesday of each month, 1:30 PM–3:30 PM.",
+    "address": "1580 Sunset Boulevard, Jesup, GA 31545",
+    "phone": "(912) 530-6625",
+    "url": "https://www.unitycog.org/",
+    "categorySlug": "food",
+    "zipCode": "31545"
+  },
+  {
     "name": "White County Food Pantry",
     "description": "Nonprofit food pantry staffed by over 40 volunteers providing free basic food products to White County community members including those in Cleveland, Helen, and Sautee Nacoochee. Open Monday–Friday 10 AM–12 PM.",
     "address": "1342 Georgia 254, Cleveland, GA 30528",
@@ -4273,6 +5872,24 @@
     "url": "https://www.whitecountyfoodpantry.org/",
     "categorySlug": "food",
     "zipCode": "30528"
+  },
+  {
+    "name": "White County Food Pantry",
+    "description": "Nonprofit food pantry staffed by over 40 volunteers providing free basic food products to White County community members including those in Cleveland, Helen, and Sautee Nacoochee. Open Monday–Friday 10 AM–12 PM.",
+    "address": "1342 Georgia 254, Cleveland, GA 30528",
+    "phone": "(706) 348-6225",
+    "url": "https://www.whitecountyfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "30528"
+  },
+  {
+    "name": "Chattanooga Area Food Bank - Northwest Georgia Warehouse",
+    "description": "Regional food bank warehouse serving 9 northwest Georgia counties including Catoosa and Whitfield, distributing food to community partner agencies.",
+    "address": "1111 S Hamilton St, Dalton, GA 30720",
+    "phone": "(706) 229-9412",
+    "url": "https://www.chattfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "30720"
   },
   {
     "name": "Chattanooga Area Food Bank - Northwest Georgia Warehouse",
@@ -4311,6 +5928,15 @@
     "zipCode": "30721"
   },
   {
+    "name": "City of Refuge Dalton",
+    "description": "Nonprofit providing food pantry, transitional housing, clothing, education, and other support services to Whitfield County residents. Food pantry open Wednesdays.",
+    "address": "416 S Glenwood Ave, Dalton, GA 30721",
+    "phone": "(706) 226-1301",
+    "url": "https://www.cityofrefugedalton.org/",
+    "categorySlug": "community",
+    "zipCode": "30721"
+  },
+  {
     "name": "Dalton-Whitfield Community Development Corporation",
     "description": "Nonprofit providing housing stability and homeless services for individuals and families in Whitfield County who are on the streets or at risk of eviction.",
     "address": "407 S Thornton Ave Ste 3, Dalton, GA 30720",
@@ -4326,6 +5952,24 @@
     "phone": "",
     "url": "https://dwcdc.org/",
     "categorySlug": "housing",
+    "zipCode": "30720"
+  },
+  {
+    "name": "Dalton-Whitfield Community Development Corporation",
+    "description": "Nonprofit providing housing stability and homeless services for individuals and families in Whitfield County who are on the streets or at risk of eviction.",
+    "address": "407 S Thornton Ave Ste 3, Dalton, GA 30720",
+    "phone": "",
+    "url": "https://dwcdc.org/",
+    "categorySlug": "housing",
+    "zipCode": "30720"
+  },
+  {
+    "name": "Dalton's Greater Works Food Pantry",
+    "description": "Client-choice food pantry empowering individuals and families to select food based on dietary needs. Open Sunday 7:30–9 AM and Tuesday 4:30–6 PM. First 25 households signed up are served.",
+    "address": "1001 S Thornton Ave, Dalton, GA 30720",
+    "phone": "(706) 529-3757",
+    "url": "http://daltonsgreaterworks.com/",
+    "categorySlug": "food",
     "zipCode": "30720"
   },
   {
@@ -4365,6 +6009,15 @@
     "zipCode": "30721"
   },
   {
+    "name": "Harvest Outreach Center",
+    "description": "Emergency shelter and outreach ministry providing food, clothing, and housing assistance to men, women, and children in Dalton and surrounding Whitfield County.",
+    "address": "207 E Morris Street, Dalton, GA 30721",
+    "phone": "(706) 226-7995",
+    "url": "https://harvestoutreachcenters.com/",
+    "categorySlug": "housing",
+    "zipCode": "30721"
+  },
+  {
     "name": "Northwest Georgia Family Crisis Center",
     "description": "Confidential emergency shelter and advocacy services for victims of domestic violence in Whitfield, Murray, and Gordon Counties. Free services; 24-hour crisis hotline available.",
     "address": "PO Box 554, Dalton, GA 30722",
@@ -4380,6 +6033,24 @@
     "phone": "(706) 278-5586",
     "url": "https://nwgafcc.com/",
     "categorySlug": "crisis",
+    "zipCode": "30720"
+  },
+  {
+    "name": "Northwest Georgia Family Crisis Center",
+    "description": "Confidential emergency shelter and advocacy services for victims of domestic violence in Whitfield, Murray, and Gordon Counties. Free services; 24-hour crisis hotline available.",
+    "address": "PO Box 554, Dalton, GA 30722",
+    "phone": "(706) 278-5586",
+    "url": "https://nwgafcc.com/",
+    "categorySlug": "crisis",
+    "zipCode": "30720"
+  },
+  {
+    "name": "Salvation Army - Whitfield County",
+    "description": "Salvation Army corps providing food pantry, emergency shelter, utility assistance, and disaster relief services in Whitfield, Murray, and Gordon Counties.",
+    "address": "Dalton, GA 30720",
+    "phone": "",
+    "url": "https://www.facebook.com/SalArmyDalton/",
+    "categorySlug": "food",
     "zipCode": "30720"
   },
   {
@@ -4417,6 +6088,24 @@
     "url": "https://www.facebook.com/soulstationministries/",
     "categorySlug": "food",
     "zipCode": "30755"
+  },
+  {
+    "name": "Soul Station Ministries Food Pantry",
+    "description": "Faith-based nonprofit using thrift store proceeds to fund a free food pantry serving Tunnel Hill and the broader Whitfield County area. Pantry open Tuesday and Thursday by appointment.",
+    "address": "3517 Chattanooga Road, Tunnel Hill, GA 30755",
+    "phone": "(706) 673-7247",
+    "url": "https://www.facebook.com/soulstationministries/",
+    "categorySlug": "food",
+    "zipCode": "30755"
+  },
+  {
+    "name": "The Salvation Army Dalton Food Center",
+    "description": "Food center providing food assistance to individuals and families in Dalton and Whitfield County. Open Monday–Friday 1:00–4:00 PM. Also provides transitional housing for families with children.",
+    "address": "1103 N Thornton Ave, Dalton, GA 30720",
+    "phone": "(706) 278-3960",
+    "url": "https://southernusa.salvationarmy.org/dalton/",
+    "categorySlug": "food",
+    "zipCode": "30720"
   },
   {
     "name": "The Salvation Army Dalton Food Center",
@@ -4444,6 +6133,15 @@
     "url": "https://dfcs.georgia.gov/locations/wilcox-county",
     "categorySlug": "food",
     "zipCode": "31079"
+  },
+  {
+    "name": "United Way of Wilkes County",
+    "description": "Community organization funding local nonprofits providing food, shelter, mental health services, housing stability, and emergency assistance throughout Wilkes County.",
+    "address": "Washington, GA 30673",
+    "phone": "",
+    "url": "https://uwwilkes.org/",
+    "categorySlug": "community",
+    "zipCode": "30673"
   },
   {
     "name": "United Way of Wilkes County",
@@ -4497,6 +6195,24 @@
     "phone": "(229) 776-3337",
     "url": "https://fbcsylvester.org/",
     "categorySlug": "food",
+    "zipCode": "31791"
+  },
+  {
+    "name": "First Baptist Church of Sylvester Food Pantry",
+    "description": "Church food pantry in partnership with Storehouse Ministries providing food and essential resources to struggling families in Sylvester and Worth County.",
+    "address": "207 N Isabella Street, Sylvester, GA 31791",
+    "phone": "(229) 776-3337",
+    "url": "https://fbcsylvester.org/",
+    "categorySlug": "food",
+    "zipCode": "31791"
+  },
+  {
+    "name": "Sylvester Housing Authority",
+    "description": "Federally funded public housing authority providing affordable rental housing for low-income families, elderly, and persons with disabilities in Worth County.",
+    "address": "Sylvester, GA 31791",
+    "phone": "(229) 883-1365",
+    "url": "https://www.shauthority.com/",
+    "categorySlug": "housing",
     "zipCode": "31791"
   },
   {

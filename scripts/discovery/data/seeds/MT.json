@@ -9,6 +9,15 @@
     "zipCode": "59034"
   },
   {
+    "name": "HRDC District 7 – Crow Food Distribution Program (FDPIR)",
+    "description": "Operates the USDA Food Distribution Program on Indian Reservations for the Crow Reservation, delivering food boxes to elders and individuals with disabilities in rural communities including Wyola and Lodge Grass on the second Wednesday of each month.",
+    "address": "501 N Center Ave, Hardin, MT 59034",
+    "phone": "(406) 665-2523",
+    "url": "https://hrdc7.org/how-we-help/food/",
+    "categorySlug": "food",
+    "zipCode": "59034"
+  },
+  {
     "name": "Alluvion Health – Great Falls",
     "description": "Federally Qualified Health Center serving Cascade County with primary care, dental, behavioral health, and pharmacy on a sliding-fee scale for all patients regardless of income.",
     "address": "1120 25th St S, Great Falls, MT 59405",
@@ -28,19 +37,19 @@
   },
   {
     "name": "Great Falls Community Food Bank",
-    "description": "Working to fight hunger in Cascade County by distributing food boxes and connecting residents to supplemental nutrition assistance programs.",
-    "address": "1620 12th Ave N, Great Falls, MT 59401",
-    "phone": "(406) 452-9029",
-    "url": "https://www.greatfallsfoodbank.org",
+    "description": "Primary food bank serving Great Falls and Cascade County, distributing millions of pounds of food annually through a network of partner pantries, mobile markets, and direct-service programs.",
+    "address": "301 4th St S, Great Falls, MT 59401",
+    "phone": "(406) 761-1677",
+    "url": "https://www.gfcfoodbank.org",
     "categorySlug": "food",
     "zipCode": "59401"
   },
   {
     "name": "Great Falls Community Food Bank",
-    "description": "Primary food bank serving Great Falls and Cascade County, distributing millions of pounds of food annually through a network of partner pantries, mobile markets, and direct-service programs.",
-    "address": "301 4th St S, Great Falls, MT 59401",
-    "phone": "(406) 761-1677",
-    "url": "https://www.gfcfoodbank.org",
+    "description": "Working to fight hunger in Cascade County by distributing food boxes and connecting residents to supplemental nutrition assistance programs.",
+    "address": "1620 12th Ave N, Great Falls, MT 59401",
+    "phone": "(406) 452-9029",
+    "url": "https://www.greatfallsfoodbank.org",
     "categorySlug": "food",
     "zipCode": "59401"
   },
@@ -79,6 +88,24 @@
     "url": "https://svdpgfncmt.org/food-pantry",
     "categorySlug": "food",
     "zipCode": "59404"
+  },
+  {
+    "name": "Custer County Food Bank",
+    "description": "Community-supported nonprofit food pantry serving Miles City and Custer County residents with free food distribution on Tuesdays, Wednesdays, and Thursdays from 9 a.m. to 1:30 p.m.",
+    "address": "15 N 8th St, Miles City, MT 59301",
+    "phone": "(406) 234-3663",
+    "url": "https://mfbn.org/resource/custer-county-food-bank/",
+    "categorySlug": "food",
+    "zipCode": "59301"
+  },
+  {
+    "name": "OneHealth – Miles City",
+    "description": "Federally Qualified Health Center providing primary care, behavioral health, dental, pharmacy, and WIC services to people of any age, income, or insurance status in Custer County.",
+    "address": "601 Main St, Miles City, MT 59301",
+    "phone": "(406) 874-8700",
+    "url": "https://www.onechc.org/milescity",
+    "categorySlug": "healthcare",
+    "zipCode": "59301"
   },
   {
     "name": "Central Montana Community Cupboard",
@@ -126,6 +153,15 @@
     "zipCode": "59937"
   },
   {
+    "name": "Big Sky Community Food Bank",
+    "description": "Serves Big Sky area residents and workforce with free emergency food boxes, senior grocery assistance, warm clothing, toiletries, and help applying for local and state assistance programs.",
+    "address": "47995 Gallatin Rd Ste 201, Gallatin Gateway, MT 59730",
+    "phone": "(406) 995-3088",
+    "url": "https://bigskyfoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "59730"
+  },
+  {
     "name": "Bozeman Health Deaconess Hospital – Community Clinics",
     "description": "Community hospital system in Bozeman providing financial assistance programs and community health clinics for Gallatin County residents who need care regardless of ability to pay.",
     "address": "915 Highland Blvd, Bozeman, MT 59715",
@@ -136,19 +172,19 @@
   },
   {
     "name": "Gallatin Valley Food Bank",
-    "description": "Primary food bank serving Bozeman and Gallatin County, distributing food through a pantry, mobile sites, and partner agencies to address hunger across southwest Montana.",
-    "address": "602 N Wallace Ave, Bozeman, MT 59715",
-    "phone": "(406) 587-3663",
-    "url": "https://www.gallatinvalleyfoodbank.org",
+    "description": "Free food pantry in Bozeman offering open-shelf shopping where clients can choose their own groceries with no income requirements and no questions asked.",
+    "address": "206 E Griffin Dr, Bozeman, MT 59715",
+    "phone": "(406) 587-4486",
+    "url": "https://gallatinvalleyfoodbank.org",
     "categorySlug": "food",
     "zipCode": "59715"
   },
   {
     "name": "Gallatin Valley Food Bank",
-    "description": "Free food pantry in Bozeman offering open-shelf shopping where clients can choose their own groceries with no income requirements and no questions asked.",
-    "address": "206 E Griffin Dr, Bozeman, MT 59715",
-    "phone": "(406) 587-4486",
-    "url": "https://gallatinvalleyfoodbank.org",
+    "description": "Primary food bank serving Bozeman and Gallatin County, distributing food through a pantry, mobile sites, and partner agencies to address hunger across southwest Montana.",
+    "address": "602 N Wallace Ave, Bozeman, MT 59715",
+    "phone": "(406) 587-3663",
+    "url": "https://www.gallatinvalleyfoodbank.org",
     "categorySlug": "food",
     "zipCode": "59715"
   },
@@ -190,6 +226,15 @@
   },
   {
     "name": "Havre Community Food Bank",
+    "description": "Community food pantry serving Hill County residents, open Monday, Wednesday, and Friday mornings with free food distribution.",
+    "address": "453 7th Ave N, Havre, MT 59501",
+    "phone": "(406) 265-2007",
+    "url": "https://hrdc4.org/food-bank",
+    "categorySlug": "food",
+    "zipCode": "59501"
+  },
+  {
+    "name": "Havre Community Food Bank",
     "description": "Community food bank in Havre serving Hi-Line residents of Hill County with free monthly food distributions, providing groceries and emergency food to families and individuals.",
     "address": "100 1st Ave, Havre, MT 59501",
     "phone": "(406) 265-3827",
@@ -198,13 +243,23 @@
     "zipCode": "59501"
   },
   {
-    "name": "Havre Community Food Bank",
-    "description": "Community food pantry serving Hill County residents, open Monday, Wednesday, and Friday mornings with free food distribution.",
-    "address": "453 7th Ave N, Havre, MT 59501",
-    "phone": "(406) 265-2007",
-    "url": "https://hrdc4.org/food-bank",
+    "name": "Salvation Army – Havre",
+    "description": "Provides emergency food assistance, utility help, and social services to residents of Havre and Hill County through a food pantry and emergency assistance programs.",
+    "address": "209 3rd St, Havre, MT 59501",
+    "phone": "(406) 265-2516",
+    "url": "https://www.salvationarmyusa.org",
     "categorySlug": "food",
-    "zipCode": "59501"
+    "zipCode": "43906",
+    "additionalZipCodes": [
+      "59501",
+      "64024",
+      "66701",
+      "71635",
+      "74447",
+      "75702",
+      "87401",
+      "90302"
+    ]
   },
   {
     "name": "Salvation Army Havre Service Center",
@@ -235,19 +290,19 @@
   },
   {
     "name": "God's Love Shelter",
-    "description": "Faith-based emergency shelter in Helena providing overnight housing, meals, and supportive services for individuals experiencing homelessness in Lewis & Clark County.",
-    "address": "Helena, MT 59601",
-    "phone": "(406) 443-4520",
-    "url": "https://www.godsloveshelter.org",
+    "description": "Emergency homeless shelter in Helena providing meals, clothing, hygiene products, and access to medical care to individuals experiencing homelessness.",
+    "address": "533 N Last Chance Gulch, Helena, MT 59601",
+    "phone": "(406) 442-7000",
+    "url": "https://godsloveshelter.org",
     "categorySlug": "housing",
     "zipCode": "59601"
   },
   {
     "name": "God's Love Shelter",
-    "description": "Emergency homeless shelter in Helena providing meals, clothing, hygiene products, and access to medical care to individuals experiencing homelessness.",
-    "address": "533 N Last Chance Gulch, Helena, MT 59601",
-    "phone": "(406) 442-7000",
-    "url": "https://godsloveshelter.org",
+    "description": "Faith-based emergency shelter in Helena providing overnight housing, meals, and supportive services for individuals experiencing homelessness in Lewis & Clark County.",
+    "address": "Helena, MT 59601",
+    "phone": "(406) 443-4520",
+    "url": "https://www.godsloveshelter.org",
     "categorySlug": "housing",
     "zipCode": "59601"
   },
@@ -288,6 +343,33 @@
     "zipCode": "59601"
   },
   {
+    "name": "Northwest Community Health Center – Eureka",
+    "description": "Federally Qualified Health Center satellite clinic offering primary care and WIC services to residents of the Tobacco Valley area in northern Lincoln County.",
+    "address": "100 Dewey Ave, Eureka, MT 59917",
+    "phone": "(406) 297-7220",
+    "url": "https://www.northwestchc.org",
+    "categorySlug": "healthcare",
+    "zipCode": "59917"
+  },
+  {
+    "name": "Sunburst Community Service Foundation",
+    "description": "Grassroots nonprofit based in Eureka providing outpatient mental health therapy, medication management, community-based rehabilitation, family support, and parenting services to Lincoln County residents.",
+    "address": "100 Dewey Ave, Eureka, MT 59917",
+    "phone": "(406) 297-0197",
+    "url": "https://www.sunburstmt.org",
+    "categorySlug": "community",
+    "zipCode": "59917"
+  },
+  {
+    "name": "Tobacco Valley Food Pantry",
+    "description": "Community food pantry in Eureka providing free groceries to Lincoln County residents, open Thursday afternoons at the Tobacco Valley Community Center.",
+    "address": "109 Dewey Ave, Eureka, MT 59917",
+    "phone": "(406) 297-2358",
+    "url": "https://mfbn.org/resource/tobacco-valley-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "59917"
+  },
+  {
     "name": "All Nations Health Center",
     "description": "Native American health center in Missoula providing culturally responsive primary care, dental, and behavioral health services to American Indian and Alaska Native community members.",
     "address": "257 E Front St, Missoula, MT 59801",
@@ -316,19 +398,19 @@
   },
   {
     "name": "Missoula Food Bank & Community Center",
-    "description": "Missoula's primary food bank serving low-income residents of Missoula County with a food pantry, community meals, emergency food, and multiple satellite distribution sites.",
+    "description": "Provides emergency food assistance to anyone in need in Missoula County, operating a free grocery store model where clients can choose their own food items.",
     "address": "1720 Wyoming St, Missoula, MT 59801",
     "phone": "(406) 549-0543",
-    "url": "https://www.missoulafoodbank.org",
+    "url": "https://missoulafoodbank.org",
     "categorySlug": "food",
     "zipCode": "59801"
   },
   {
     "name": "Missoula Food Bank & Community Center",
-    "description": "Provides emergency food assistance to anyone in need in Missoula County, operating a free grocery store model where clients can choose their own food items.",
+    "description": "Missoula's primary food bank serving low-income residents of Missoula County with a food pantry, community meals, emergency food, and multiple satellite distribution sites.",
     "address": "1720 Wyoming St, Missoula, MT 59801",
     "phone": "(406) 549-0543",
-    "url": "https://missoulafoodbank.org",
+    "url": "https://www.missoulafoodbank.org",
     "categorySlug": "food",
     "zipCode": "59801"
   },
@@ -352,19 +434,19 @@
   },
   {
     "name": "The Poverello Center",
-    "description": "Comprehensive homeless services center in Missoula providing emergency shelter, daily meals, showers, laundry, and case management for individuals experiencing homelessness.",
+    "description": "Provides emergency homeless shelter, three daily meals, and a food pantry to anyone in need in Missoula. Also offers outreach services for the unsheltered.",
     "address": "1110 W Broadway, Missoula, MT 59802",
-    "phone": "(406) 728-1028",
-    "url": "https://www.thepoverellocenter.org",
+    "phone": "(406) 728-1809",
+    "url": "https://thepoverellocenter.org",
     "categorySlug": "housing",
     "zipCode": "59802"
   },
   {
     "name": "The Poverello Center",
-    "description": "Provides emergency homeless shelter, three daily meals, and a food pantry to anyone in need in Missoula. Also offers outreach services for the unsheltered.",
+    "description": "Comprehensive homeless services center in Missoula providing emergency shelter, daily meals, showers, laundry, and case management for individuals experiencing homelessness.",
     "address": "1110 W Broadway, Missoula, MT 59802",
-    "phone": "(406) 728-1809",
-    "url": "https://thepoverellocenter.org",
+    "phone": "(406) 728-1028",
+    "url": "https://www.thepoverellocenter.org",
     "categorySlug": "housing",
     "zipCode": "59802"
   },
@@ -379,6 +461,15 @@
   },
   {
     "name": "Livingston Food Resource Center",
+    "description": "Community food pantry serving Park County, Montana, offering in-pantry shopping for free groceries twice per week to anyone in need.",
+    "address": "202 S 2nd St, Livingston, MT 59047",
+    "phone": "(406) 222-5335",
+    "url": "https://livingstonfrc.org",
+    "categorySlug": "food",
+    "zipCode": "59047"
+  },
+  {
+    "name": "Livingston Food Resource Center",
     "description": "Community food bank in Livingston serving Park County with free weekly food distributions, emergency food boxes, and produce programs for individuals and families in need.",
     "address": "609 E Park St, Livingston, MT 59047",
     "phone": "(406) 222-2312",
@@ -387,13 +478,13 @@
     "zipCode": "59047"
   },
   {
-    "name": "Livingston Food Resource Center",
-    "description": "Community food pantry serving Park County, Montana, offering in-pantry shopping for free groceries twice per week to anyone in need.",
-    "address": "202 S 2nd St, Livingston, MT 59047",
-    "phone": "(406) 222-5335",
-    "url": "https://livingstonfrc.org",
+    "name": "Phillips County Food Bank (Malta Food Bank)",
+    "description": "Community food pantry serving Phillips County residents including the Zortman and Landusky areas with free food distribution on Tuesdays and Thursdays, and available by call at other times.",
+    "address": "110 S 1st W, Malta, MT 59538",
+    "phone": "(406) 654-1235",
+    "url": "https://mfbn.org/resource/malta-food-bank/",
     "categorySlug": "food",
-    "zipCode": "59047"
+    "zipCode": "59538"
   },
   {
     "name": "Haven House Food Bank",
@@ -432,6 +523,24 @@
     "zipCode": "59270"
   },
   {
+    "name": "Rosebud Health Care Center",
+    "description": "Critical access hospital and long-term care facility serving Rosebud and Treasure counties, providing inpatient, outpatient, emergency, respite, and extended care services to the region.",
+    "address": "383 N 17th Ave, Forsyth, MT 59327",
+    "phone": "(406) 346-2161",
+    "url": "https://www.rosebudhcc.org",
+    "categorySlug": "healthcare",
+    "zipCode": "59327"
+  },
+  {
+    "name": "Samaritan's Pantry",
+    "description": "Community food pantry in Forsyth serving Rosebud County residents with free food distribution every Tuesday morning from 9 a.m. to 11 a.m.",
+    "address": "121 N 11th Ave, Forsyth, MT 59327",
+    "phone": "(406) 351-3203",
+    "url": "https://mfbn.org/resource/samaritans-pantry/",
+    "categorySlug": "food",
+    "zipCode": "59327"
+  },
+  {
     "name": "Butte Emergency Food Bank",
     "description": "Distributes canned goods, boxed food, dairy, bread, baby food, and diapers to individuals and families in Silver Bow County Monday through Friday.",
     "address": "1019 E 2nd St, Butte, MT 59701",
@@ -451,19 +560,19 @@
   },
   {
     "name": "Butte Rescue Mission",
-    "description": "Emergency shelter and recovery program in Butte providing nightly housing, meals, and life-skills programs for individuals experiencing homelessness in Silver Bow County.",
-    "address": "62 W Galena St, Butte, MT 59701",
-    "phone": "(406) 782-3131",
-    "url": "https://www.butterescuemission.org",
+    "description": "Emergency homeless shelter in Butte offering low-barrier and sober living options, serving individuals in need in Silver Bow County.",
+    "address": "610 E Platinum St, Butte, MT 59701",
+    "phone": "(406) 782-0925",
+    "url": "https://butterescuemission.org",
     "categorySlug": "housing",
     "zipCode": "59701"
   },
   {
     "name": "Butte Rescue Mission",
-    "description": "Emergency homeless shelter in Butte offering low-barrier and sober living options, serving individuals in need in Silver Bow County.",
-    "address": "610 E Platinum St, Butte, MT 59701",
-    "phone": "(406) 782-0925",
-    "url": "https://butterescuemission.org",
+    "description": "Emergency shelter and recovery program in Butte providing nightly housing, meals, and life-skills programs for individuals experiencing homelessness in Silver Bow County.",
+    "address": "62 W Galena St, Butte, MT 59701",
+    "phone": "(406) 782-3131",
+    "url": "https://www.butterescuemission.org",
     "categorySlug": "housing",
     "zipCode": "59701"
   },
@@ -475,6 +584,24 @@
     "url": "https://www.smchc.org",
     "categorySlug": "healthcare",
     "zipCode": "59701"
+  },
+  {
+    "name": "Project Hope of Stillwater County",
+    "description": "Nonprofit serving Stillwater County with a free food pantry, thrift store, and community outreach programs, open Monday, Wednesday, and Friday mornings and Saturday afternoons in Columbus.",
+    "address": "428 E Pike Ave, Columbus, MT 59019",
+    "phone": "(406) 322-8537",
+    "url": "https://mfbn.org/resource/project-hope/",
+    "categorySlug": "food",
+    "zipCode": "59019"
+  },
+  {
+    "name": "Stillwater Billings Clinic",
+    "description": "Critical access hospital and clinic in Columbus providing emergency care, inpatient services, primary care, and community health programs to residents of Stillwater County.",
+    "address": "710 N 11th St, Columbus, MT 59019",
+    "phone": "(406) 322-1000",
+    "url": "https://stillwaterbillingsclinic.com",
+    "categorySlug": "healthcare",
+    "zipCode": "59019"
   },
   {
     "name": "Valley Community Emergency Food Bank – Glasgow",

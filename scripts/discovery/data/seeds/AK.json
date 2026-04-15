@@ -72,6 +72,15 @@
     "zipCode": "99501"
   },
   {
+    "name": "Brother Francis Shelter",
+    "description": "Largest homeless shelter in Alaska with nightly capacity of 240, providing temporary emergency shelter for adults 18+, evening meals, showers, laundry, case management, and housing referrals. Operated by Catholic Social Services.",
+    "address": "1021 E 3rd Ave, Anchorage, AK 99501",
+    "phone": "907-277-1731",
+    "url": "https://www.cssalaska.org/our-programs/brother-francis-shelter/",
+    "categorySlug": "housing",
+    "zipCode": "99501"
+  },
+  {
     "name": "Catholic Social Services – St. Francis House Food Pantry",
     "description": "One of Anchorage's largest food pantries, providing a 2-day emergency supply of food to anyone in need, regardless of income or background.",
     "address": "3710 E 20th Ave, Anchorage, AK 99508",
@@ -79,6 +88,15 @@
     "url": "https://www.cssalaska.org",
     "categorySlug": "food",
     "zipCode": "99508"
+  },
+  {
+    "name": "Clare House",
+    "description": "24/7 emergency shelter for women, children, and expectant mothers operated by Catholic Social Services, providing safe shelter, meals, 24-hour support, and case management for families transitioning out of homelessness.",
+    "address": "4110 Spenard Road, Anchorage, AK 99517",
+    "phone": "(907) 563-4545",
+    "url": "https://www.cssalaska.org/our-programs/clare-house/",
+    "categorySlug": "housing",
+    "zipCode": "99517"
   },
   {
     "name": "Clare House",
@@ -153,6 +171,15 @@
     "zipCode": "99501"
   },
   {
+    "name": "Salvation Army Anchorage",
+    "description": "Provides emergency shelter for homeless families with case management, meals, and life skills development. Also offers senior home-delivered meals, utility and rental assistance, and disaster relief.",
+    "address": "143 E 9th Avenue, Anchorage, AK 99501",
+    "phone": "(907) 276-2515",
+    "url": "https://www.salvationarmyusa.org/ak/anchorage/",
+    "categorySlug": "community",
+    "zipCode": "99501"
+  },
+  {
     "name": "Southcentral Foundation – Anchorage Native Primary Care Center",
     "description": "Alaska Native-owned nonprofit health system serving nearly 70,000 Alaska Native and American Indian people, providing comprehensive primary care, behavioral health, dental, and OB/GYN services.",
     "address": "4320 Diplomacy Dr, Anchorage, AK 99508",
@@ -180,6 +207,24 @@
     "zipCode": "99501"
   },
   {
+    "name": "The Salvation Army – Anchorage Corps",
+    "description": "Provides emergency food assistance, shelter referrals, disaster relief, and social services including utility and rent assistance to Anchorage residents in crisis.",
+    "address": "143 E 9th Ave, Anchorage, AK 99501",
+    "phone": "907-276-2515",
+    "url": "https://anchorage.salvationarmy.org/anchorage_corps/",
+    "categorySlug": "community",
+    "zipCode": "99501"
+  },
+  {
+    "name": "Akiak Native Community",
+    "description": "Federally recognized tribal government providing community services, social programs, and referrals to tribal members and residents of the Akiak area.",
+    "address": "1 Akiak Drive, Akiak, AK 99552",
+    "phone": "(907) 765-7112",
+    "url": "https://www.akiak.com",
+    "categorySlug": "community",
+    "zipCode": "99552"
+  },
+  {
     "name": "Bethel Community Services Foundation",
     "description": "Nonprofit providing food bank distribution, food security programs, and community support services to residents of Bethel and the Yukon-Kuskokwim Delta region.",
     "address": "1795 Chief Eddie Hoffman Hwy, Bethel, AK 99559",
@@ -187,6 +232,15 @@
     "url": "http://www.bcsfoundation.org",
     "categorySlug": "community",
     "zipCode": "99559"
+  },
+  {
+    "name": "Native Village of Toksook Bay",
+    "description": "Federally recognized Yup'ik tribal government administering social services, elder programs, and community assistance to residents of Toksook Bay on Nelson Island.",
+    "address": "Toksook Bay, AK 99637",
+    "phone": "(907) 427-7114",
+    "url": "https://www.nvtoksookbay.org",
+    "categorySlug": "community",
+    "zipCode": "99637"
   },
   {
     "name": "Yukon-Kuskokwim Health Corporation (YKHC)",
@@ -204,6 +258,15 @@
     "phone": "(907) 452-1974",
     "url": "https://breadlineak.org",
     "categorySlug": "food",
+    "zipCode": "99701"
+  },
+  {
+    "name": "Chief Andrew Isaac Health Center",
+    "description": "Tribal health facility operated by Tanana Chiefs Conference serving Alaska Native and American Indian residents of Interior Alaska with primary care, behavioral health, dental, pharmacy, and specialty referral services.",
+    "address": "1717 W Cowles St, Fairbanks, AK 99701",
+    "phone": "(907) 451-6682",
+    "url": "https://www.tananachiefs.org/services/health/chief-andrew-isaac-health-center/",
+    "categorySlug": "healthcare",
     "zipCode": "99701"
   },
   {
@@ -279,6 +342,15 @@
     "zipCode": "99701"
   },
   {
+    "name": "Salvation Army Fairbanks Corps",
+    "description": "Provides emergency shelter, food assistance, emergency utility and rental assistance, and seasonal programs for families and individuals in crisis in the Fairbanks area.",
+    "address": "1602 10th Ave, Fairbanks, AK 99701",
+    "phone": "(907) 452-3103",
+    "url": "https://fairbanks.salvationarmy.org/fairbanks_corps/",
+    "categorySlug": "housing",
+    "zipCode": "99701"
+  },
+  {
     "name": "Tanana Chiefs Conference – Chief Andrew Isaac Health Center",
     "description": "Tribal health center serving Alaska Native people in Interior Alaska, providing primary care, behavioral health, dental, and social services across the Fairbanks region and 37 rural villages.",
     "address": "1717 W Cowles St, Fairbanks, AK 99701",
@@ -304,6 +376,24 @@
     "url": "https://www.salvationarmy.org/",
     "categorySlug": "community",
     "zipCode": "99827"
+  },
+  {
+    "name": "Salvation Army – Haines Corps",
+    "description": "Offers emergency financial assistance, food pantry, shelter referrals, and basic social services to individuals and families in Haines and the surrounding Lynn Canal communities.",
+    "address": "430 Union Street, Haines, AK 99827",
+    "phone": "(907) 766-2470",
+    "url": "https://www.salvationarmy.org/",
+    "categorySlug": "community",
+    "zipCode": "99827"
+  },
+  {
+    "name": "Bartlett Regional Hospital",
+    "description": "Full-service community hospital serving Juneau and greater Southeast Alaska, providing emergency care, inpatient and outpatient services, behavioral health, and specialty care.",
+    "address": "3260 Hospital Drive, Juneau, AK 99801",
+    "phone": "(907) 796-8900",
+    "url": "https://www.bartletthospital.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "99801"
   },
   {
     "name": "Bartlett Regional Hospital",
@@ -333,12 +423,30 @@
     "zipCode": "99801"
   },
   {
+    "name": "SEARHC – Juneau Primary Care",
+    "description": "Southeast Alaska Regional Health Consortium providing comprehensive primary care, behavioral health, dental, pharmacy, and WIC services to Alaska Native and non-Native patients in Juneau.",
+    "address": "3100 Channel Drive, Suite 300, Juneau, AK 99801",
+    "phone": "(907) 463-4000",
+    "url": "https://searhc.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "99801"
+  },
+  {
     "name": "Southeast Alaska Food Bank",
     "description": "Regional food bank serving Juneau and surrounding Southeast Alaska communities, coordinating food pantry distribution and addressing food insecurity across the region.",
     "address": "10020 Crazy Horse Dr, Juneau, AK 99801",
     "phone": "907-789-6184",
     "url": "https://www.sealaskafoodbank.org",
     "categorySlug": "food",
+    "zipCode": "99801"
+  },
+  {
+    "name": "The Glory Hall Shelter and Soup Kitchen",
+    "description": "Juneau's primary emergency shelter and soup kitchen providing three meals a day and overnight shelter to individuals experiencing homelessness or crisis. Operated by Juneau Housing First Collaborative.",
+    "address": "8715 Teal Street, Juneau, AK 99801",
+    "phone": "(907) 586-4159",
+    "url": "https://housejuneau.org/",
+    "categorySlug": "housing",
     "zipCode": "99801"
   },
   {
@@ -441,6 +549,15 @@
     "zipCode": "99901"
   },
   {
+    "name": "Salvation Army Gateway Corps – Ketchikan",
+    "description": "Provides a soup kitchen, emergency food boxes, a commodities food bank, emergency financial assistance, and basic social services to individuals and families in the Ketchikan area.",
+    "address": "342 Stedman Street, Ketchikan, AK 99901",
+    "phone": "(907) 225-5277",
+    "url": "https://gatewayalaska.salvationarmy.org/gateway_corps_us_west/",
+    "categorySlug": "food",
+    "zipCode": "99901"
+  },
+  {
     "name": "Alaska Family Services",
     "description": "Provides a 32-bed emergency shelter for women and children fleeing domestic violence or abuse, along with transitional housing and advocacy services. The only nationally accredited DV shelter in Alaska.",
     "address": "403 S Alaska St, Palmer, AK 99645",
@@ -448,6 +565,15 @@
     "url": "https://www.alaskafamilyservices.org",
     "categorySlug": "housing",
     "zipCode": "99645"
+  },
+  {
+    "name": "Big Lake Community Church Food Pantry",
+    "description": "Volunteer-run food pantry offering emergency grocery assistance and referrals to local families and individuals in the Big Lake area of the Mat-Su Borough.",
+    "address": "2495 S Big Lake Rd, Big Lake, AK 99652",
+    "phone": "(907) 892-7205",
+    "url": "https://www.biglakechurch.org",
+    "categorySlug": "food",
+    "zipCode": "99652"
   },
   {
     "name": "Family Promise Mat-Su",
@@ -466,6 +592,15 @@
     "url": "https://www.healthymatsu.org",
     "categorySlug": "community",
     "zipCode": "99654"
+  },
+  {
+    "name": "Mat-Su Health Services – Big Lake",
+    "description": "Provides behavioral health outpatient counseling, substance use treatment, and mental health services to Mat-Su Borough residents including those in the Big Lake area.",
+    "address": "Big Lake, AK 99652",
+    "phone": "(907) 746-5580",
+    "url": "https://www.matsuhealth.com",
+    "categorySlug": "healthcare",
+    "zipCode": "99652"
   },
   {
     "name": "MatSu Food Bank",
@@ -504,6 +639,15 @@
     "zipCode": "99645"
   },
   {
+    "name": "Native Village of Koyuk",
+    "description": "Federally recognized Inupiaq tribal government providing social services, elder assistance, and community programs to residents of Koyuk on the Seward Peninsula.",
+    "address": "Koyuk, AK 99753",
+    "phone": "(907) 963-3651",
+    "url": "https://www.nativevillagekoyuk.com",
+    "categorySlug": "community",
+    "zipCode": "99753"
+  },
+  {
     "name": "Nome Community Center",
     "description": "Provides health, educational, and social services including a food bank to residents of Nome and the broader Bering Straits region; food bank open weekly serving 400+ households.",
     "address": "104 Division St, Nome, AK 99762",
@@ -520,6 +664,33 @@
     "url": "https://www.nortonsoundhealth.org",
     "categorySlug": "healthcare",
     "zipCode": "99762"
+  },
+  {
+    "name": "Norton Sound Health Corporation – Koyuk Health Clinic",
+    "description": "Tribal health clinic providing primary care, dental, behavioral health, and community health aide services to the Inupiaq community of Koyuk on Norton Sound.",
+    "address": "Koyuk, AK 99753",
+    "phone": "(907) 963-3311",
+    "url": "https://www.nshcorp.org",
+    "categorySlug": "healthcare",
+    "zipCode": "99753"
+  },
+  {
+    "name": "City of Nuiqsut",
+    "description": "Municipal government providing community infrastructure, public safety, and coordination of social services and programs for residents of Nuiqsut, an Inupiaq village on the North Slope.",
+    "address": "Nuiqsut, AK 99789",
+    "phone": "(907) 480-6714",
+    "url": "https://www.north-slope.org/communities/nuiqsut",
+    "categorySlug": "community",
+    "zipCode": "99789"
+  },
+  {
+    "name": "North Slope Borough Health & Social Services",
+    "description": "Borough government department providing community health services, senior meal programs (including Meals on Wheels), WIC nutrition, behavioral health, and social services to residents of the North Slope including Utqiagvik.",
+    "address": "P.O. Box 69, Utqiagvik, AK 99723",
+    "phone": "907-852-2611",
+    "url": "https://www.north-slope.org/departments/health-social-services/",
+    "categorySlug": "healthcare",
+    "zipCode": "99723"
   },
   {
     "name": "North Slope Borough Health & Social Services",
@@ -567,12 +738,30 @@
     "zipCode": "99835"
   },
   {
+    "name": "SEARHC Mt. Edgecumbe Medical Center",
+    "description": "SEARHC's flagship regional hospital in Sitka offering 24/7 emergency and inpatient care, primary care, specialty clinics, behavioral health, dental, and pharmacy services for Southeast Alaska.",
+    "address": "222 Tongass Drive, Sitka, AK 99835",
+    "phone": "(907) 966-2411",
+    "url": "https://searhc.org/location/sitka-medical-center/",
+    "categorySlug": "healthcare",
+    "zipCode": "99835"
+  },
+  {
     "name": "Sitka Community Hospital",
     "description": "Community hospital and primary care clinic serving Sitka residents, providing emergency care, inpatient services, walk-in clinic, and outpatient family healthcare.",
     "address": "209 Moller Ave, Sitka, AK 99835",
     "phone": "907-747-3241",
     "url": "http://www.sitkahospital.com",
     "categorySlug": "healthcare",
+    "zipCode": "99835"
+  },
+  {
+    "name": "Sitka Tribe of Alaska – Human Services",
+    "description": "Provides social, health, and human services to tribal members and the broader Sitka community, including behavioral health, elder services, child welfare, and housing assistance.",
+    "address": "456 Katlian Street, Sitka, AK 99835",
+    "phone": "(907) 747-3207",
+    "url": "https://sitkatribe.org/",
+    "categorySlug": "community",
     "zipCode": "99835"
   },
   {
@@ -594,6 +783,24 @@
     "zipCode": "99835"
   },
   {
+    "name": "Fortymile Community Association",
+    "description": "Community organization serving the Chicken and Fortymile region of interior Alaska, supporting seasonal residents, miners, and hunters with local information and emergency coordination.",
+    "address": "Chicken, AK 99732",
+    "phone": "",
+    "url": "https://www.fortymilecommunity.org",
+    "categorySlug": "community",
+    "zipCode": "99732"
+  },
+  {
+    "name": "Alaska Island Community Services – Wrangell",
+    "description": "SEARHC-affiliated Federally Qualified Health Center in Wrangell providing primary care, pharmacy, behavioral health, dental, senior services, and developmental disability services to the Wrangell community.",
+    "address": "Wrangell, AK 99929",
+    "phone": "(907) 874-5000",
+    "url": "http://www.akics.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "99929"
+  },
+  {
     "name": "Alaska Island Community Services – Wrangell",
     "description": "SEARHC-affiliated Federally Qualified Health Center in Wrangell providing primary care, pharmacy, behavioral health, dental, senior services, and developmental disability services to the Wrangell community.",
     "address": "Wrangell, AK 99929",
@@ -610,5 +817,68 @@
     "url": "https://www.salvationarmy.org/ihq/wrangell",
     "categorySlug": "food",
     "zipCode": "99929"
+  },
+  {
+    "name": "SEARHC – Yakutat Community Health Center",
+    "description": "Southeast Alaska Regional Health Consortium clinic providing primary medical care, dental, behavioral health, and public health nursing to Yakutat residents including the Tlingit community.",
+    "address": "808 Airport Rd, Yakutat, AK 99689",
+    "phone": "(907) 784-3275",
+    "url": "https://www.searhc.org",
+    "categorySlug": "healthcare",
+    "zipCode": "99689"
+  },
+  {
+    "name": "Yakutat Food Pantry – St. Rose of Lima Catholic Church",
+    "description": "Volunteer-operated food pantry providing emergency food assistance to Yakutat Borough residents in need.",
+    "address": "Yakutat, AK 99689",
+    "phone": "(907) 784-3812",
+    "url": "https://www.catholicalaska.org",
+    "categorySlug": "food",
+    "zipCode": "99689"
+  },
+  {
+    "name": "Yakutat Tlingit Tribe",
+    "description": "Federally recognized tribal government providing social services, elder programs, tribal TANF, and community assistance to tribal members and Yakutat Borough residents.",
+    "address": "PO Box 418, Yakutat, AK 99689",
+    "phone": "(907) 784-3238",
+    "url": "https://www.yakutattlingittribe.org",
+    "categorySlug": "community",
+    "zipCode": "99689"
+  },
+  {
+    "name": "Chalkyitsik Village Council",
+    "description": "Federally recognized Gwich'in Athabascan tribal government providing community services, elder assistance, and social program coordination for the remote village of Chalkyitsik on the Black River.",
+    "address": "Chalkyitsik, AK 99788",
+    "phone": "(907) 848-8117",
+    "url": "https://www.chalkyitsikvillagecouncil.org",
+    "categorySlug": "community",
+    "zipCode": "99788"
+  },
+  {
+    "name": "Galena City School District Community Programs",
+    "description": "The Galena City School District operates the Interior Distance Education of Alaska (IDEA) and community enrichment programs serving Galena-area families.",
+    "address": "350 Challenger Rd, Galena, AK 99741",
+    "phone": "(907) 656-1707",
+    "url": "https://www.galenaalaska.org",
+    "categorySlug": "community",
+    "zipCode": "99741"
+  },
+  {
+    "name": "Louden Tribal Council",
+    "description": "Federally recognized Athabascan tribal government for the Galena/Louden Village community, providing social services, tribal programs, and community support along the Yukon River.",
+    "address": "Galena, AK 99741",
+    "phone": "(907) 656-1711",
+    "url": "https://www.loudentribalcouncil.org",
+    "categorySlug": "community",
+    "zipCode": "99741"
+  },
+  {
+    "name": "Tanana Chiefs Conference – Chalkyitsik Health Aide Program",
+    "description": "Community health aide program administered through Tanana Chiefs Conference, providing village-based primary care and emergency medical services to Chalkyitsik residents.",
+    "address": "Chalkyitsik, AK 99788",
+    "phone": "(907) 452-8251",
+    "url": "https://www.tananachiefs.org/services/health",
+    "categorySlug": "healthcare",
+    "zipCode": "99788"
   }
 ]
