@@ -32,6 +32,8 @@ export const ZipQuerySchema = z.object({
   category: z.string().optional(),
   page: z.coerce.number().int().min(1).default(1),
   limit: z.coerce.number().int().min(1).max(100).default(20),
+  // Optional — if omitted the API resolves from profile.radius or defaults to 25
+  radius: z.coerce.number().int().min(1).max(200).optional(),
 });
 
 export const ResourceVoteSchema = z.object({

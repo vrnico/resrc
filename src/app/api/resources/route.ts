@@ -1,8 +1,11 @@
 import type { NextRequest } from "next/server";
 import { createClient } from "@/lib/supabase/server";
+import { getUserProfile } from "@/lib/auth";
 import { ZipQuerySchema } from "@/lib/validators";
 import type { ResourcesResponse, CategoryCount, ResourceResult } from "@/types/index";
 import type { ResourceScope } from "@/lib/constants";
+
+const DEFAULT_RADIUS = 25;
 
 export async function GET(request: NextRequest) {
   try {
@@ -12,6 +15,7 @@ export async function GET(request: NextRequest) {
       category: url.searchParams.get("category") || undefined,
       page: url.searchParams.get("page") || undefined,
       limit: url.searchParams.get("limit") || undefined,
+      radius: url.searchParams.get("radius") || undefined,
     });
 
     if (!parsed.success) {
@@ -24,10 +28,10 @@ export async function GET(request: NextRequest) {
     const { zip, category, page, limit } = parsed.data;
     const supabase = await createClient();
 
-    // Look up zip code
+    // Look up zip code — include coordinates for radius search
     const { data: zipRecord } = await supabase
       .from("zip_codes")
-      .select("*")
+      .select("city, county, state_code, latitude, longitude")
       .eq("zip", zip)
       .single();
 
@@ -35,21 +39,31 @@ export async function GET(request: NextRequest) {
       return Response.json({ error: "Zip code not found" }, { status: 404 });
     }
 
-    const { city, county, state_code } = zipRecord;
+    const { city, county, state_code, latitude, longitude } = zipRecord;
     const offset = (page - 1) * limit;
 
-    // Use RPC function for reliable scope-based resource lookup
+    // Resolve radius: explicit URL param > saved profile radius > default
+    let radius = parsed.data.radius;
+    if (radius === undefined) {
+      const profile = await getUserProfile();
+      radius = profile?.radius ?? DEFAULT_RADIUS;
+    }
+
+    const rpcBaseParams = {
+      p_zip: zip,
+      p_city: city,
+      p_county: county,
+      p_state_code: state_code,
+      p_lat: latitude,
+      p_lng: longitude,
+      p_radius_miles: radius,
+      p_category_slug: category ?? null,
+    };
+
+    // Fetch paginated results
     const { data: resources, error: rpcError } = await supabase.rpc(
       "get_resources_for_location",
-      {
-        p_zip: zip,
-        p_city: city,
-        p_county: county,
-        p_state_code: state_code,
-        p_category_slug: category ?? null,
-        p_limit: limit,
-        p_offset: offset,
-      }
+      { ...rpcBaseParams, p_limit: limit, p_offset: offset }
     );
 
     if (rpcError) {
@@ -57,29 +71,20 @@ export async function GET(request: NextRequest) {
       return Response.json({ error: "Failed to fetch resources" }, { status: 500 });
     }
 
-    // Get total count
+    // Get total count for pagination
     const { data: totalCount } = await supabase.rpc(
       "count_resources_for_location",
-      {
-        p_zip: zip,
-        p_city: city,
-        p_county: county,
-        p_state_code: state_code,
-        p_category_slug: category ?? null,
-      }
+      rpcBaseParams
     );
 
     const total = totalCount ?? 0;
     const totalPages = Math.max(1, Math.ceil(total / limit));
 
-    // Build category counts (all matching, no category filter)
+    // Build category counts (unfiltered, so sidebar totals are correct)
     const { data: allForCounts } = await supabase.rpc(
       "get_resources_for_location",
       {
-        p_zip: zip,
-        p_city: city,
-        p_county: county,
-        p_state_code: state_code,
+        ...rpcBaseParams,
         p_category_slug: null,
         p_limit: 10000,
         p_offset: 0,
@@ -133,6 +138,7 @@ export async function GET(request: NextRequest) {
       net_score: r.net_score,
       verified_at: r.verified_at,
       user_vote: (userVotes.get(r.id) as 1 | -1) ?? null,
+      distance_miles: r.distance_miles ?? null,
     }));
 
     const response: ResourcesResponse = {
