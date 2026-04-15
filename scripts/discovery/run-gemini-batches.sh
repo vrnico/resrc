@@ -91,7 +91,7 @@ Respond with ONLY a valid JSON array — no markdown, no explanation, no code fe
 If no resources are found, respond with an empty array: []"
 
   # Call Gemini and capture output
-  RESPONSE=$(echo "$PROMPT" | gemini --approval-mode yolo 2>/dev/null || echo "[]")
+  RESPONSE=$(echo "$PROMPT" | gemini -m gemini-2.5-flash --approval-mode yolo 2>/dev/null || echo "[]")
 
   # Extract JSON array from response (strip any surrounding text)
   JSON=$(echo "$RESPONSE" | python3 -c "
