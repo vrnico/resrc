@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Family Promise of Albany County",
+    "description": "Provides emergency shelter, homeless prevention, and hygiene pantry services for families with children experiencing homelessness in Albany County, Wyoming.",
+    "address": "215 S 11th St, Laramie, WY 82070",
+    "phone": "",
+    "url": "https://www.fpalbanycounty.org",
+    "categorySlug": "housing",
+    "zipCode": "82070"
+  },
+  {
+    "name": "Feeding Laramie Valley",
+    "description": "Food bank serving Laramie and Albany County with free food distribution and food security programs for low-income individuals and families.",
+    "address": "968 N 9th St, Laramie, WY 82070",
+    "phone": "",
+    "url": "https://www.feedinglaramievalley.org",
+    "categorySlug": "food",
+    "zipCode": "82070"
+  },
+  {
+    "name": "Laramie Interfaith Food Pantry",
+    "description": "Trusted food bank and pantry providing free non-perishable and perishable food, hygiene items, and rental assistance to Albany County residents.",
+    "address": "712 E Canby St, Laramie, WY 82070",
+    "phone": "(307) 742-4240",
+    "url": "https://www.laramieinterfaith.org",
+    "categorySlug": "food",
+    "zipCode": "82070"
+  },
+  {
+    "name": "Council of Community Services – Gillette",
+    "description": "Provides food pantry services, emergency homeless shelter, transitional housing, and supportive housing for individuals and families in Campbell County.",
+    "address": "114 S 4-J Rd, Gillette, WY 82716",
+    "phone": "(307) 686-2730",
+    "url": "https://www.ccsgillette.org",
+    "categorySlug": "community",
+    "zipCode": "82716"
+  },
+  {
+    "name": "COMEA House & Resource Center",
+    "description": "Emergency homeless shelter operating since 1982 in Cheyenne, providing housing, daily meals, case management, and services for those at risk of homelessness in Laramie County.",
+    "address": "1421 W Lincolnway, Cheyenne, WY 82001",
+    "phone": "(307) 632-3174",
+    "url": "https://comeashelter.org",
+    "categorySlug": "housing",
+    "zipCode": "82001"
+  },
+  {
+    "name": "NEEDS, Inc.",
+    "description": "Largest food pantry in Laramie County, Wyoming, providing free food, hygiene products, clothing, and career resources to anyone in need.",
+    "address": "900 Central Ave, Cheyenne, WY 82007",
+    "phone": "(307) 632-4132",
+    "url": "https://www.needsinc.org",
+    "categorySlug": "food",
+    "zipCode": "82007"
+  },
+  {
+    "name": "Community Health Center of Central Wyoming",
+    "description": "Federally Qualified Health Center (FQHC) providing primary care, behavioral health, and other medical services to Natrona and Fremont County residents on a sliding-scale fee basis.",
+    "address": "5000 Blackmore Rd, Casper, WY 82609",
+    "phone": "(307) 233-6000",
+    "url": "https://www.chccw.org",
+    "categorySlug": "healthcare",
+    "zipCode": "82609"
+  },
+  {
+    "name": "Health Care for the Homeless – 12th Street Clinic",
+    "description": "Federally Qualified Health Center providing primary medical care and mental health services to homeless and at-risk individuals and families in Natrona County.",
+    "address": "1514 E 12th St, Building E, Casper, WY 82609",
+    "phone": "(307) 235-6116",
+    "url": "https://hch.capnc.org",
+    "categorySlug": "healthcare",
+    "zipCode": "82609"
+  },
+  {
+    "name": "Wyoming Rescue Mission",
+    "description": "Full-service homeless shelter in Casper providing 24/7 emergency shelter, hot meals, case management, and a discipleship recovery program for those experiencing homelessness.",
+    "address": "230 N Park St, Casper, WY 82601",
+    "phone": "(307) 265-2251",
+    "url": "https://www.wyomission.org",
+    "categorySlug": "housing",
+    "zipCode": "82601"
+  },
+  {
+    "name": "VOA Northern Rockies – Sheridan Community Shelter",
+    "description": "Emergency and transitional homeless shelter operated by Volunteers of America in Sheridan, providing safe housing and support services to those in need.",
+    "address": "1898 Fort Rd, Building 24, Sheridan, WY 82801",
+    "phone": "(307) 673-0025",
+    "url": "https://www.voanr.org",
+    "categorySlug": "housing",
+    "zipCode": "82801"
+  },
+  {
+    "name": "Food Bank of Sweetwater County",
+    "description": "Community food bank serving Rock Springs and Green River with bi-monthly food distributions, providing groceries to individuals and families in Sweetwater County.",
+    "address": "90 Center St, Rock Springs, WY 82901",
+    "phone": "(307) 382-7332",
+    "url": "http://www.foodbankswcty.org",
+    "categorySlug": "food",
+    "zipCode": "82901"
+  }
+]
