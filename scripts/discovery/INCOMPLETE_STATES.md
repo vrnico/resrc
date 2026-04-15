@@ -740,8 +740,12 @@ States with unsearched zip code batches. Each entry lists the exact batches, cou
 
 **41/41 batches searched · 0 remaining**
 
+## Completed: OK (103 resources · 44 batches)
+
+**44/44 batches searched · 0 remaining**
+
 ## Not Started (no batch config)
 
-KY, MI, MN, MO, OH, OK, TX, WI
+KY, MI, MN, MO, OH, TX, WI
 
 These states need batch config files created before scanning can begin.
