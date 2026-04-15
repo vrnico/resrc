@@ -45,6 +45,33 @@
     "zipCode": "82716"
   },
   {
+    "name": "Salvation Army Gillette",
+    "description": "Provides food pantry services and emergency assistance programs including rent, utility, and food help to residents of Gillette and Campbell County.",
+    "address": "222 S Gillette Ave, Gillette, WY 82716",
+    "phone": "(307) 682-6982",
+    "url": "https://westernusa.salvationarmy.org/gillette/",
+    "categorySlug": "food",
+    "zipCode": "82716"
+  },
+  {
+    "name": "Wyo Help Food Pantry – Rawlins",
+    "description": "Community action food pantry offering shopper's choice distribution once per month to income-eligible families in Carbon County, with no fees required.",
+    "address": "2100 E Cedar St Suite D, Rawlins, WY 82301",
+    "phone": "(307) 532-0269",
+    "url": "https://www.wyohelp.com",
+    "categorySlug": "food",
+    "zipCode": "82301"
+  },
+  {
+    "name": "Crook County Medical Services District",
+    "description": "County medical district in Sundance providing general medicine, emergency care, physical therapy, radiology, lab, long-term care, and outpatient clinic services.",
+    "address": "713 Oak St, Sundance, WY 82729",
+    "phone": "(307) 283-3501",
+    "url": "https://ccmsd.org",
+    "categorySlug": "healthcare",
+    "zipCode": "82729"
+  },
+  {
     "name": "Care & Share Food Bank – Lander",
     "description": "Community food pantry in Lander providing free groceries to Fremont County residents Tuesday through Thursday with extended Thursday evening hours.",
     "address": "281 Garfield St, Lander, WY 82520",
@@ -52,6 +79,42 @@
     "url": "https://landerfoodbank.org/",
     "categorySlug": "food",
     "zipCode": "82520"
+  },
+  {
+    "name": "Care & Share Food Bank – Lander",
+    "description": "Community food pantry in Lander providing free groceries to Fremont County residents Tuesday through Thursday with extended Thursday evening hours.",
+    "address": "281 Garfield St, Lander, WY 82520",
+    "phone": "(307) 332-7364",
+    "url": "https://landerfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "82520"
+  },
+  {
+    "name": "Warm Valley Health Care",
+    "description": "Community health center on the Wind River Reservation providing primary care, dental, and behavioral health services to Northern Arapaho and Eastern Shoshone tribal members and area residents.",
+    "address": "Fort Washakie, WY 82514",
+    "phone": "(307) 332-3000",
+    "url": "https://warmvalley.health",
+    "categorySlug": "healthcare",
+    "zipCode": "82514"
+  },
+  {
+    "name": "Hot Springs Health",
+    "description": "Critical access hospital and clinic system serving Thermopolis and Hot Springs County with primary care, emergency medicine, and outpatient specialty services.",
+    "address": "150 E Arapahoe St, Thermopolis, WY 82443",
+    "phone": "(307) 864-3121",
+    "url": "https://hotspringshealth.com",
+    "categorySlug": "healthcare",
+    "zipCode": "82443"
+  },
+  {
+    "name": "Johnson County Healthcare Center",
+    "description": "Critical access hospital, family medical clinic, and nursing home in Buffalo providing comprehensive healthcare for all of Johnson County with no one turned away for inability to pay.",
+    "address": "497 W Lott St, Buffalo, WY 82834",
+    "phone": "(307) 684-5521",
+    "url": "https://www.jchealthcare.com",
+    "categorySlug": "healthcare",
+    "zipCode": "82834"
   },
   {
     "name": "COMEA House & Resource Center",
@@ -70,6 +133,15 @@
     "url": "https://www.needsinc.org",
     "categorySlug": "food",
     "zipCode": "82007"
+  },
+  {
+    "name": "Afton Food Pantry",
+    "description": "Nonprofit food pantry serving Star Valley and upper Lincoln County residents every Thursday with free food assistance to anyone in need.",
+    "address": "Afton, WY 83110",
+    "phone": "(307) 887-3663",
+    "url": "https://www.aftonfoodpantry.com",
+    "categorySlug": "food",
+    "zipCode": "83110"
   },
   {
     "name": "Community Health Center of Central Wyoming",
@@ -108,6 +180,24 @@
     "zipCode": "82414"
   },
   {
+    "name": "Cody Cupboard Food Pantry",
+    "description": "Non-profit food pantry in Cody providing temporary food assistance to individuals and families in need in Park County, Wyoming.",
+    "address": "602 16th St, Cody, WY 82414",
+    "phone": "(307) 586-3732",
+    "url": "https://codycupboard.com/",
+    "categorySlug": "food",
+    "zipCode": "82414"
+  },
+  {
+    "name": "One Health – Heritage Health Center",
+    "description": "Federally Qualified Health Center providing primary care, behavioral health, and patient resource services on a sliding-fee scale to Park County residents.",
+    "address": "1201 E 7th St, Powell, WY 82435",
+    "phone": "(307) 764-4107",
+    "url": "https://www.onechc.org/heritage",
+    "categorySlug": "healthcare",
+    "zipCode": "82435"
+  },
+  {
     "name": "People Assistance Food Bank",
     "description": "Non-profit food pantry in Sheridan providing supplemental groceries and emergency food boxes to individuals and families in Sheridan County.",
     "address": "2560 N Main St, Sheridan, WY 82801",
@@ -124,6 +214,15 @@
     "url": "https://www.voanr.org",
     "categorySlug": "housing",
     "zipCode": "82801"
+  },
+  {
+    "name": "Sublette County Hospital District",
+    "description": "Critical access hospital and clinic serving Pinedale and Sublette County, offering primary care, emergency services, and community health resources.",
+    "address": "24 Country Club Ln, Pinedale, WY 82941",
+    "phone": "(307) 367-2111",
+    "url": "https://sublettehospitaldistrict.org",
+    "categorySlug": "healthcare",
+    "zipCode": "82941"
   },
   {
     "name": "Food Bank of Sweetwater County",
@@ -144,6 +243,42 @@
     "zipCode": "82901"
   },
   {
+    "name": "Salvation Army Rock Springs",
+    "description": "Provides emergency food, utility, prescription, and personal hygiene assistance to individuals and families in Sweetwater County.",
+    "address": "649 N Front St, Suite A, Rock Springs, WY 82901",
+    "phone": "(307) 362-6549",
+    "url": "https://www.salvationarmyusa.org/wy/",
+    "categorySlug": "community",
+    "zipCode": "82901"
+  },
+  {
+    "name": "Good Samaritan Mission – Jackson",
+    "description": "Community-driven nonprofit providing free meals, emergency shelter, and wrap-around support services to homeless and hungry residents of Teton County.",
+    "address": "185 W Pearl Ave, Jackson, WY 83001",
+    "phone": "(307) 733-3048",
+    "url": "https://gsmjh.org",
+    "categorySlug": "housing",
+    "zipCode": "83001"
+  },
+  {
+    "name": "Hole Food Rescue",
+    "description": "Nonprofit reducing food waste and improving food security in Teton County by rescuing surplus food and redistributing it to community members in need.",
+    "address": "Jackson, WY 83001",
+    "phone": "",
+    "url": "https://www.holefoodrescue.org",
+    "categorySlug": "food",
+    "zipCode": "83001"
+  },
+  {
+    "name": "One22 Resource Center – Jackson Cupboard",
+    "description": "Free community grocery pantry in Jackson providing no-cost groceries and personal care goods to Teton County residents, with no income requirements.",
+    "address": "185 W Pearl Ave, Jackson, WY 83001",
+    "phone": "(307) 733-3548",
+    "url": "https://one22jh.org",
+    "categorySlug": "food",
+    "zipCode": "83001"
+  },
+  {
     "name": "Lord's Storehouse Food Bank – Evanston",
     "description": "Community food bank in Evanston providing free groceries twice weekly to individuals and families in need in Uinta County.",
     "address": "50 Yellow Creek Rd, Evanston, WY 82930",
@@ -151,5 +286,23 @@
     "url": "https://www.unionpres.net/the-lords-storehouse/",
     "categorySlug": "food",
     "zipCode": "82930"
+  },
+  {
+    "name": "Lord's Storehouse Food Bank – Evanston",
+    "description": "Community food bank in Evanston providing free groceries twice weekly to individuals and families in need in Uinta County.",
+    "address": "50 Yellow Creek Rd, Evanston, WY 82930",
+    "phone": "(307) 679-2628",
+    "url": "https://www.unionpres.net/the-lords-storehouse/",
+    "categorySlug": "food",
+    "zipCode": "82930"
+  },
+  {
+    "name": "Weston County Health Services",
+    "description": "Critical access hospital and outpatient clinic serving Newcastle and Weston County, providing primary care and emergency services to all patients regardless of ability to pay.",
+    "address": "1124 Washington Blvd, Newcastle, WY 82701",
+    "phone": "(307) 746-4491",
+    "url": "https://www.wchs-wy.org",
+    "categorySlug": "healthcare",
+    "zipCode": "82701"
   }
 ]
