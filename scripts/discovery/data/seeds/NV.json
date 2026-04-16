@@ -1,0 +1,659 @@
+[
+  {
+    "name": "Carson City Health and Human Services",
+    "description": "A community action agency providing public assistance programs including SNAP, TANF, Medicaid, energy assistance, and child care support to Carson City residents.",
+    "address": "900 E Long St, Carson City, NV 89706",
+    "phone": "(775) 887-2190",
+    "url": "https://www.gethealthycarsoncity.org/divisions/human-services",
+    "categorySlug": "community",
+    "zipCode": "89706"
+  },
+  {
+    "name": "FISH (Friends In Service Helping) - Carson City Food Bank",
+    "description": "A nonprofit food bank providing free food assistance to low-income families and individuals in Carson City and the surrounding area. Open Monday through Friday with both morning and afternoon hours.",
+    "address": "138 E Long St, Carson City, NV 89706",
+    "phone": "(775) 882-3474",
+    "url": "https://www.nvfish.com",
+    "categorySlug": "food",
+    "zipCode": "89706"
+  },
+  {
+    "name": "Ron Wood Family Resource Center - Food Bank",
+    "description": "A community family resource center offering a food bank for any Carson City family in crisis, along with parent support, WIC, and family advocacy services.",
+    "address": "2621 Northgate Ln Ste 62, Carson City, NV 89706",
+    "phone": "(775) 884-2269",
+    "url": "https://carson-family.org",
+    "categorySlug": "food",
+    "zipCode": "89706"
+  },
+  {
+    "name": "Salvation Army Carson City Corps",
+    "description": "Provides food pantry services, emergency financial assistance, utility help, and other social services to residents of Carson City and Douglas County.",
+    "address": "911 E Second St, Carson City, NV 89701",
+    "phone": "(775) 887-9120",
+    "url": "https://carsoncity.salvationarmy.org",
+    "categorySlug": "food",
+    "zipCode": "89701"
+  },
+  {
+    "name": "Churchill County Social Services",
+    "description": "Provides emergency and temporary financial assistance programs for eligible Churchill County residents, including help with food, utilities, and basic needs.",
+    "address": "270 S Maine Street Suite B, Fallon, NV 89406",
+    "phone": "(775) 423-6695",
+    "url": "https://www.churchillcountynv.gov/171/Social-Services",
+    "categorySlug": "community",
+    "zipCode": "89406"
+  },
+  {
+    "name": "New Frontier Treatment Center - Food Pantry",
+    "description": "Offers a 24/7 emergency food pantry and hot meals in emergencies, plus USDA food commodities distribution every Wednesday morning for Fallon-area residents.",
+    "address": "1490 Grimes Ave, Fallon, NV 89406",
+    "phone": "(775) 427-4040",
+    "url": "https://www.fallonchamber.com/community-resource/new-frontier-treatment-center/",
+    "categorySlug": "food",
+    "zipCode": "89406"
+  },
+  {
+    "name": "William N. Pennington Life Center",
+    "description": "A Churchill County social services hub offering hot lunches Monday through Friday, plus social, recreation, food service, and health programs for the Fallon community.",
+    "address": "952 S Maine St, Fallon, NV 89406",
+    "phone": "(775) 423-7096",
+    "url": "https://www.churchillcountynv.gov/1038/William-N-Pennington-Life-Center",
+    "categorySlug": "community",
+    "zipCode": "89406"
+  },
+  {
+    "name": "Catholic Charities of Southern Nevada - Hands of Hope Food Pantry",
+    "description": "A large food pantry open Monday through Friday providing fresh produce, baked goods, and essential food items alongside emergency shelter and housing services.",
+    "address": "1501 Las Vegas Blvd N, Las Vegas, NV 89101",
+    "phone": "(702) 387-2291",
+    "url": "https://www.catholiccharities.com/programs/hands-of-hope-community-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "89101"
+  },
+  {
+    "name": "Catholic Charities of Southern Nevada - Men's Emergency Night Shelter",
+    "description": "Operates 400 beds of men's emergency overnight shelter every night of the year, with check-in starting at 2:30 p.m. and housing navigation services available.",
+    "address": "1501 Las Vegas Blvd N, Las Vegas, NV 89101",
+    "phone": "(702) 473-5684",
+    "url": "https://www.catholiccharities.com/programs/mens-emergency-night-shelter",
+    "categorySlug": "housing",
+    "zipCode": "89101"
+  },
+  {
+    "name": "Christ the King Catholic Community - Manna Cupboard",
+    "description": "A free food pantry serving hungry community members Monday through Wednesday mornings, covering multiple southwest Las Vegas zip codes including 89118.",
+    "address": "4925 S Torrey Pines Dr, Las Vegas, NV 89118",
+    "phone": "(702) 871-1904",
+    "url": "https://www.ctklv.org/manna-cupboard",
+    "categorySlug": "food",
+    "zipCode": "89118"
+  },
+  {
+    "name": "Colorado River Food Bank - Laughlin",
+    "description": "Provides food boxes to families and individuals in Laughlin based on household size, including non-perishables, fresh produce, and a community clothes closet.",
+    "address": "240 E Laughlin Civic Dr, Laughlin, NV 89028",
+    "phone": "(702) 298-9220",
+    "url": "https://www.findhelp.org/provider/colorado-river-food-bank--laughlin-nv/4788238715191296",
+    "categorySlug": "food",
+    "zipCode": "89028"
+  },
+  {
+    "name": "Emergency Aid of Boulder City",
+    "description": "Provides emergency food and basic needs assistance exclusively to Boulder City residents, open four days a week during morning and afternoon hours.",
+    "address": "600 Nevada Way, Boulder City, NV 89005",
+    "phone": "(702) 293-0332",
+    "url": "https://www.bcnv.org/1027/Housing-Basic-Needs-Assistance",
+    "categorySlug": "food",
+    "zipCode": "89005"
+  },
+  {
+    "name": "Family Promise of Las Vegas",
+    "description": "A nonprofit providing emergency motel shelter, bridge housing, and rental assistance to prevent evictions for families with minor children through case management and wraparound services.",
+    "address": "1410 S Maryland Pkwy, Las Vegas, NV 89104",
+    "phone": "(702) 638-8806",
+    "url": "https://familypromiselv.com",
+    "categorySlug": "housing",
+    "zipCode": "89104"
+  },
+  {
+    "name": "FISH Emergency Assistance - North Las Vegas",
+    "description": "Offers free meals, groceries, and financial assistance for rent and energy bills by appointment to North Las Vegas residents facing food and financial emergencies.",
+    "address": "1600 E Cartier Ave, North Las Vegas, NV 89030",
+    "phone": "(702) 636-3474",
+    "url": "https://www.cityofnorthlasvegas.com/Home/Components/News/News/492/17",
+    "categorySlug": "food",
+    "zipCode": "89030"
+  },
+  {
+    "name": "Helping Hands of Vegas Valley",
+    "description": "A community food pantry in North Las Vegas providing free groceries including fresh produce and pantry staples to households by appointment.",
+    "address": "3640 N 5th St, North Las Vegas, NV 89032",
+    "phone": "(702) 657-0829",
+    "url": "https://foodfinder.threesquare.org/locations/helping-hands-of-vegas-valley",
+    "categorySlug": "food",
+    "zipCode": "89032"
+  },
+  {
+    "name": "Henderson Equality Center Food Pantry",
+    "description": "A welcoming food pantry open Monday through Friday providing free groceries and food items to all Henderson-area residents regardless of background.",
+    "address": "1490 W Sunset Rd Suite 120, Henderson, NV 89014",
+    "phone": "(702) 331-5786",
+    "url": "https://hendersonequalitycenter.org/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "89014"
+  },
+  {
+    "name": "Hope For The City - Central Church Henderson",
+    "description": "A faith-based food distribution ministry serving Henderson residents with free groceries and essential food items to help families facing food insecurity.",
+    "address": "1001 New Beginnings Dr, Henderson, NV 89011",
+    "phone": "(702) 614-4940",
+    "url": "https://hopeforthecity.org/need-food/",
+    "categorySlug": "food",
+    "zipCode": "89011"
+  },
+  {
+    "name": "HopeLink of Southern Nevada",
+    "description": "A full-service family resource center providing food pantry, emergency shelter, housing assistance, rent and utility help, senior services, and free tax preparation.",
+    "address": "178 Westminster Way, Henderson, NV 89015",
+    "phone": "(702) 566-0576",
+    "url": "https://link2hope.org",
+    "categorySlug": "food",
+    "zipCode": "89015"
+  },
+  {
+    "name": "Las Vegas Rescue Mission",
+    "description": "Provides food, shelter, clothing, and addiction recovery programs to homeless individuals and families, serving approximately 30,000 meals each month.",
+    "address": "480 W Bonanza Rd, Las Vegas, NV 89106",
+    "phone": "(702) 382-1766",
+    "url": "https://vegasrescue.org",
+    "categorySlug": "housing",
+    "zipCode": "89106"
+  },
+  {
+    "name": "Restoration & Recovery Foundation Food Pantry",
+    "description": "A recovery-focused nonprofit in West Las Vegas providing free grocery assistance on Tuesday mornings and the second Saturday of each month.",
+    "address": "811 S Decatur Blvd, Las Vegas, NV 89107",
+    "phone": "(702) 302-4288",
+    "url": "https://www.findhelp.org/food/food-pantry--las-vegas-nv",
+    "categorySlug": "food",
+    "zipCode": "89107"
+  },
+  {
+    "name": "Salvation Army - North Las Vegas",
+    "description": "Emergency shelter and social services center offering up to 30-day stays, day shelter, food assistance, and veteran services in North Las Vegas.",
+    "address": "35 W Owens Ave, North Las Vegas, NV 89030",
+    "phone": "(702) 701-5369",
+    "url": "https://www.salvationarmysouthernnevada.org/homeless-services",
+    "categorySlug": "housing",
+    "zipCode": "89030"
+  },
+  {
+    "name": "Salvation Army Henderson Corps",
+    "description": "Offers food pantry services, emergency shelter referrals, utility assistance, and holiday programs for residents in Henderson and the surrounding area.",
+    "address": "830 E Lake Mead Blvd, Henderson, NV 89015",
+    "phone": "(702) 565-9578",
+    "url": "https://www.salvationarmysouthernnevada.org",
+    "categorySlug": "food",
+    "zipCode": "89015"
+  },
+  {
+    "name": "Salvation Army Mesquite Service Center",
+    "description": "Offers food bank, clothing assistance, holiday meals and gifts, and limited emergency financial assistance for utilities and rent to Mesquite-area residents.",
+    "address": "111 S Riverside Rd, Mesquite, NV 89027",
+    "phone": "(702) 345-5116",
+    "url": "https://mesquite.salvationarmy.org",
+    "categorySlug": "food",
+    "zipCode": "89027"
+  },
+  {
+    "name": "SHARE Village Las Vegas",
+    "description": "An award-winning affordable housing nonprofit offering a community food pantry, medical and mental health services, employment referrals, and salon services since 1994.",
+    "address": "50 N 21st St, Las Vegas, NV 89101",
+    "phone": "(702) 382-7500",
+    "url": "https://sharelasvegas.org",
+    "categorySlug": "housing",
+    "zipCode": "89101"
+  },
+  {
+    "name": "Society of St. Vincent de Paul - Henderson Food Pantry",
+    "description": "Offers a weekly food pantry and homeless bag distribution to Henderson residents in need, located on Boulder Highway.",
+    "address": "772 S Boulder Hwy, Henderson, NV 89015",
+    "phone": "(702) 887-9500",
+    "url": "https://www.findhelp.org/food/food-pantry--henderson-nv",
+    "categorySlug": "food",
+    "zipCode": "89015"
+  },
+  {
+    "name": "St. John Neumann Catholic Church Food Pantry",
+    "description": "A weekly community food pantry providing meals, food, and clothing to North Las Vegas residents every Wednesday.",
+    "address": "2575 W El Campo Grande Ave, North Las Vegas, NV 89031",
+    "phone": "(702) 228-7970",
+    "url": "https://www.findhelp.org/food/food-pantry--north-las-vegas-nv",
+    "categorySlug": "food",
+    "zipCode": "89031"
+  },
+  {
+    "name": "The Just One Project - Food Distribution",
+    "description": "A nonprofit food distribution program providing free groceries to families in the Las Vegas 89122 area through a school-based distribution site.",
+    "address": "4051 E Harmon Ave, Las Vegas, NV 89122",
+    "phone": "(702) 550-0551",
+    "url": "https://www.thejustoneproject.org",
+    "categorySlug": "food",
+    "zipCode": "89122"
+  },
+  {
+    "name": "The River Fund - Laughlin",
+    "description": "A local nonprofit providing direct emergency and crisis services including utility assistance, clothing, food, temporary housing help, and severe illness cost support.",
+    "address": "55 Civic Way, Laughlin, NV 89029",
+    "phone": "(702) 298-0611",
+    "url": "https://www.laughlinconstable.org/social-services",
+    "categorySlug": "crisis",
+    "zipCode": "89029"
+  },
+  {
+    "name": "The Shade Tree",
+    "description": "Southern Nevada's only 24-hour emergency shelter specifically designed for women, children, and their pets, offering case management, meals, health services, and housing assistance.",
+    "address": "1 W Owens Ave, North Las Vegas, NV 89030",
+    "phone": "(702) 385-0072",
+    "url": "https://theshadetree.org",
+    "categorySlug": "housing",
+    "zipCode": "89030"
+  },
+  {
+    "name": "Three Square Food Bank",
+    "description": "Southern Nevada's only food bank and largest hunger relief organization, distributing food through 200+ partner agencies across Clark, Lincoln, Nye, and Esmeralda counties.",
+    "address": "4190 N Pecos Rd, Las Vegas, NV 89115",
+    "phone": "(702) 644-3663",
+    "url": "https://www.threesquare.org",
+    "categorySlug": "food",
+    "zipCode": "89115"
+  },
+  {
+    "name": "Virgin Valley Community Food Bank",
+    "description": "A community food bank in Mesquite distributing food boxes twice monthly to qualifying families and operating a monthly mobile food pantry with fresh fruits and vegetables.",
+    "address": "312 W Mesquite Blvd #107, Mesquite, NV 89027",
+    "phone": "(702) 346-0900",
+    "url": "https://www.foodpantries.org/li/virgin-valley-community-food-bank",
+    "categorySlug": "food",
+    "zipCode": "89027"
+  },
+  {
+    "name": "Carson Valley Community Food Closet",
+    "description": "A nonprofit hunger relief organization providing supplemental food to qualifying individuals and families in Douglas County, including senior-specific distribution hours.",
+    "address": "1251 Waterloo Ln, Gardnerville, NV 89410",
+    "phone": "(775) 782-3711",
+    "url": "https://www.thefoodcloset.org",
+    "categorySlug": "food",
+    "zipCode": "89410"
+  },
+  {
+    "name": "Douglas County Social Services",
+    "description": "County agency offering food vouchers, rental and utility assistance, TEFAP food distribution, and social service referrals to Douglas County residents in need.",
+    "address": "1616 8th St, Minden, NV 89423",
+    "phone": "(775) 782-9038",
+    "url": "https://communityservices.douglascountynv.gov/social_services",
+    "categorySlug": "community",
+    "zipCode": "89423"
+  },
+  {
+    "name": "Partnership Douglas County",
+    "description": "A community organization connecting Douglas County residents with basic needs resources including food assistance, housing support, and social service referrals.",
+    "address": "1594 Esmeralda Ave, Minden, NV 89423",
+    "phone": "(775) 783-6477",
+    "url": "https://www.pdcnv.org/basic-needs/",
+    "categorySlug": "community",
+    "zipCode": "89423"
+  },
+  {
+    "name": "Elko County Social Services",
+    "description": "County agency providing rental assistance, utility assistance, energy assistance, food programs, and transportation to the nearest homeless shelter for eligible Elko County residents.",
+    "address": "571 Idaho St, Elko, NV 89801",
+    "phone": "(775) 738-5300",
+    "url": "https://elkocountynv.net/departments/human_resources/social_services/index.php",
+    "categorySlug": "community",
+    "zipCode": "89801"
+  },
+  {
+    "name": "Elko County Social Services",
+    "description": "County social services office working to eliminate homelessness and help low-income individuals and families achieve self-sufficiency through interim assistance and referrals.",
+    "address": "540 Court Street, Suite 105, Elko, NV 89801",
+    "phone": "(775) 738-4375",
+    "url": "https://www.elkocountynv.net/new_page/social_services/index.php",
+    "categorySlug": "housing",
+    "zipCode": "89801"
+  },
+  {
+    "name": "Family Resource Centers of Northeastern Nevada",
+    "description": "Provides WIC nutrition assistance, case management, grandparent respite care, and teen health education to families in Elko County and northeastern Nevada.",
+    "address": "331 7th St, Elko, NV 89801",
+    "phone": "(775) 753-7352",
+    "url": "https://elkofamilyresourcecenter.org",
+    "categorySlug": "community",
+    "zipCode": "89801"
+  },
+  {
+    "name": "Friends In Service Helping (FISH) - Elko Food Bank & Shelter",
+    "description": "Elko's primary nonprofit offering a food pantry, soup kitchen hot lunches, Samaritan House emergency shelter, showers, hygiene supplies, and aid for the chronically homeless.",
+    "address": "821 Water St, Elko, NV 89801",
+    "phone": "(775) 738-3038",
+    "url": "https://fishelko.org/",
+    "categorySlug": "food",
+    "zipCode": "89801"
+  },
+  {
+    "name": "Harbor House (Committee Against Domestic Violence)",
+    "description": "Provides emergency shelter, food, clothing, transportation, legal assistance, and support services for victims of domestic violence, sexual assault, elder abuse, and child abuse in Elko County.",
+    "address": "Elko, NV 89801",
+    "phone": "(775) 738-9454",
+    "url": "https://www.domesticshelters.org/help/nv/elko/89801/harbor-house-committee-against-domestic-violence",
+    "categorySlug": "crisis",
+    "zipCode": "89801"
+  },
+  {
+    "name": "Esmeralda County Food Pantry",
+    "description": "County-operated food pantry distributing food to Goldfield area residents, open the 1st Friday and 3rd Tuesday of each month. Also operates a Commodities Barn for USDA food distribution.",
+    "address": "104 N. Euclid/Eliot St., Goldfield, NV 89013",
+    "phone": "(775) 485-3406",
+    "url": "https://www.accessesmeralda.com/county_offices/economic_development/utilities.php",
+    "categorySlug": "food",
+    "zipCode": "89013"
+  },
+  {
+    "name": "Eureka County Senior Services / FBNN Distribution",
+    "description": "Food Bank of Northern Nevada TEFAP distribution site located at the county offices, distributing food commodities on the last Wednesday of each month from 8:00am to 11:00am.",
+    "address": "20 W. Gold Street, Eureka, NV 89316",
+    "phone": "(775) 237-5594",
+    "url": "https://www.eurekacountynv.gov/departments/senior-services/",
+    "categorySlug": "food",
+    "zipCode": "89316"
+  },
+  {
+    "name": "Eureka County Social Services",
+    "description": "Nevada Department of Social Services office in Eureka providing general assistance, welfare, and social services programs to Eureka County residents.",
+    "address": "20 West Gold Street, Eureka, NV 89316",
+    "phone": "(775) 237-5597",
+    "url": "https://www.dss.nv.gov/contact/program-offices/",
+    "categorySlug": "community",
+    "zipCode": "89316"
+  },
+  {
+    "name": "Catholic Charities Neighborhood Center - Winnemucca",
+    "description": "Client choice food pantry open Tuesdays through Thursdays, also providing case management, immigration assistance, homelessness prevention, and benefits enrollment to Humboldt County residents.",
+    "address": "625 Sheehan Street, Winnemucca, NV 89445",
+    "phone": "(775) 322-7073",
+    "url": "https://ccsnn.org/",
+    "categorySlug": "food",
+    "zipCode": "89445"
+  },
+  {
+    "name": "Nevada Community Action - Winnemucca (Frontier CAA)",
+    "description": "Community action agency offering housing assistance, utility assistance, emergency financial support, and social services referrals to residents of Humboldt County.",
+    "address": "667 Anderson Street, Winnemucca, NV 89445",
+    "phone": "(775) 623-9003",
+    "url": "https://www.nevadacommunityaction.org/get-help/housing-assistance/",
+    "categorySlug": "housing",
+    "zipCode": "89445"
+  },
+  {
+    "name": "Winnemucca Food Bank",
+    "description": "Local food bank providing emergency and supplemental food to Humboldt County residents, open Monday, Wednesday, and Friday mornings and afternoons.",
+    "address": "150 S. Bridge Street, Winnemucca, NV 89445",
+    "phone": "(775) 625-2223",
+    "url": "https://foodbankwinnemucca.com/food-bank/",
+    "categorySlug": "food",
+    "zipCode": "89445"
+  },
+  {
+    "name": "Battle Mountain Family Resource Center / FCAA",
+    "description": "Food pantry and community resource center in Battle Mountain operated through the Food Bank of Northern Nevada partnership, also distributing TEFAP commodities and Golden Groceries senior boxes.",
+    "address": "370 S. Mountain Street, Battle Mountain, NV 89820",
+    "phone": "(775) 635-8302",
+    "url": "https://www.fbnn.org/map-location/battlemountainfcaa/?mpfy-pin=9008",
+    "categorySlug": "food",
+    "zipCode": "89820"
+  },
+  {
+    "name": "Frontier Community Action Agency - Battle Mountain",
+    "description": "Community action agency providing housing assistance, emergency financial support, job and educational services, and referrals to individuals and families in Lander County.",
+    "address": "370 South Mountain Street, Battle Mountain, NV 89820",
+    "phone": "(775) 623-9003",
+    "url": "https://www.nevadacommunityaction.org/get-help/",
+    "categorySlug": "housing",
+    "zipCode": "89820"
+  },
+  {
+    "name": "Lincoln Community Coalition of Nevada",
+    "description": "Community coalition working to help Lincoln County residents live healthy, secure, and drug-free lives through community programs and coordination of local resources.",
+    "address": "Panaca, NV 89042",
+    "phone": "",
+    "url": "https://lccoalition.org/",
+    "categorySlug": "community",
+    "zipCode": "89042"
+  },
+  {
+    "name": "Lincoln County Human Services",
+    "description": "County human services office providing emergency food bank, rent and utility assistance, senior meals programs, and social services referrals to all Lincoln County residents.",
+    "address": "1005 Main Street, Suite #104, Panaca, NV 89042",
+    "phone": "(775) 962-8084",
+    "url": "https://lincolncountynv.org/departments/human-services/",
+    "categorySlug": "community",
+    "zipCode": "89042"
+  },
+  {
+    "name": "Healthy Communities Coalition - Silver Stage Food Pantry",
+    "description": "Free client-choice food pantry operated by the Healthy Communities Coalition of Lyon and Storey Counties, open Wednesdays and Thursdays and serving Silver Springs area residents.",
+    "address": "1290 Lahontan Street, Silver Springs, NV 89429",
+    "phone": "(775) 577-9161",
+    "url": "https://www.healthycomm.org/food-pantries",
+    "categorySlug": "food",
+    "zipCode": "89429"
+  },
+  {
+    "name": "Lyon County Human Services - Fernley Office",
+    "description": "County human services office providing energy assistance, senior nutrition programs, congregate meals, home-delivered meals, and referrals to social services for Lyon County residents.",
+    "address": "460 W. Main Street, Suite 110, Fernley, NV 89408",
+    "phone": "(775) 575-1900",
+    "url": "https://www.lyon-county.org/175/Human-Services",
+    "categorySlug": "community",
+    "zipCode": "89408"
+  },
+  {
+    "name": "Consolidated Agencies of Human Services (CAHS)",
+    "description": "Nonprofit providing emergency food pantry, USDA commodity distribution, family and emergency assistance, and domestic violence crisis services to qualifying residents of Mineral County and northern Nye County.",
+    "address": "924 5th Street, Hawthorne, NV 89415",
+    "phone": "(775) 945-2471",
+    "url": "https://cahsnv.org/",
+    "categorySlug": "food",
+    "zipCode": "89415"
+  },
+  {
+    "name": "Mineral County Care & Share Senior Services",
+    "description": "Senior services organization providing Meals on Wheels, congregate meals, transportation, food bank commodities, and social activities to older residents of Mineral County.",
+    "address": "975 K Street, Hawthorne, NV 89415",
+    "phone": "(775) 945-5519",
+    "url": "https://www.facebook.com/MineralCountyCareShare/",
+    "categorySlug": "food",
+    "zipCode": "89415"
+  },
+  {
+    "name": "Heart n' Hearth Food Pantry - Tonopah",
+    "description": "Community food pantry in Tonopah open the 1st Wednesday of each month from 9:00am to 10:00am, providing food assistance to Nye County residents.",
+    "address": "101 Magnolia Avenue, Tonopah, NV 89049",
+    "phone": "(775) 482-4047",
+    "url": "https://www.tonopahnevada.com/food-pantries/",
+    "categorySlug": "food",
+    "zipCode": "89049"
+  },
+  {
+    "name": "Nye County Health and Human Services",
+    "description": "County office providing assistance for rent, utilities, child care, prescription vouchers, food gift cards, and hygiene kits to low-income Pahrump-area residents.",
+    "address": "1981 E Calvada Blvd N Suite 120, Pahrump, NV 89048",
+    "phone": "(775) 751-7095",
+    "url": "https://nyecc.org",
+    "categorySlug": "community",
+    "zipCode": "89048"
+  },
+  {
+    "name": "Nye County Health and Human Services - Pahrump",
+    "description": "County office providing emergency assistance for food, rent, utilities, transportation to medical appointments, medication, and childcare to Pahrump area residents based on grant fund availability.",
+    "address": "1981 East Calvada Boulevard, Pahrump, NV 89048",
+    "phone": "(775) 727-4884",
+    "url": "https://www.nyecountynv.gov/99/Health-Human-Services",
+    "categorySlug": "community",
+    "zipCode": "89048"
+  },
+  {
+    "name": "Oasis Outreach - Pahrump Food Pantry",
+    "description": "Church-operated food pantry in Pahrump providing free groceries to community members every Sunday, Wednesday, Thursday, and Friday mornings.",
+    "address": "1061 E. 2nd Street, Pahrump, NV 89048",
+    "phone": "(775) 727-7227",
+    "url": "https://foodfinder.threesquare.org/locations/oasis-outreach-worship-center",
+    "categorySlug": "food",
+    "zipCode": "89048"
+  },
+  {
+    "name": "Pahrump Valley United Methodist Church Food Pantry",
+    "description": "A church-run food pantry open Monday mornings and clothing distribution Tuesday and Thursday mornings for Pahrump residents facing food insecurity.",
+    "address": "1300 Hwy 372, Pahrump, NV 89048",
+    "phone": "(775) 727-6767",
+    "url": "https://www.findhelp.org/food/food-pantry--pahrump-nv",
+    "categorySlug": "food",
+    "zipCode": "89048"
+  },
+  {
+    "name": "Salvation Army Pahrump Corps",
+    "description": "Offers a food pantry Tuesday and Friday mornings, emergency financial assistance, and holiday programs to Pahrump and Nye County residents.",
+    "address": "240 Dahlia St, Pahrump, NV 89048",
+    "phone": "(775) 751-6171",
+    "url": "https://pahrump.salvationarmy.org",
+    "categorySlug": "food",
+    "zipCode": "89048"
+  },
+  {
+    "name": "FBNN Mobile Harvest - Lovelock",
+    "description": "Food Bank of Northern Nevada mobile produce and food distribution at 8th & Franklin in Lovelock on the 4th Monday of every month.",
+    "address": "8th & Franklin Street, Lovelock, NV 89419",
+    "phone": "(775) 331-3663",
+    "url": "https://www.fbnn.org/gethelp/",
+    "categorySlug": "food",
+    "zipCode": "89419"
+  },
+  {
+    "name": "Lovelock Community Food Bank",
+    "description": "Community food bank in Lovelock serving Pershing County residents with food distribution and emergency food assistance, participating in the Food Bank of Northern Nevada mobile pantry program.",
+    "address": "810 Franklin Street, Lovelock, NV 89419",
+    "phone": "",
+    "url": "https://www.pershingcountynv.gov/community/community_resources.php",
+    "categorySlug": "food",
+    "zipCode": "89419"
+  },
+  {
+    "name": "Community Health Alliance - Sparks Health Center",
+    "description": "Federally qualified health center providing primary care, dental, behavioral health, low-cost pharmacy, and WIC services to Sparks area residents regardless of ability to pay.",
+    "address": "2244 Oddie Boulevard, Sparks, NV 89431",
+    "phone": "(775) 329-6300",
+    "url": "https://www.chanevada.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "89431"
+  },
+  {
+    "name": "Eddy House",
+    "description": "24/7 shelter and day center for homeless and at-risk youth ages 12-24 in northern Nevada, offering meals, showers, clothing, hygiene items, healthcare, therapy, and case management.",
+    "address": "888 Willow Street, Reno, NV 89502",
+    "phone": "(775) 384-1129",
+    "url": "https://eddyhouse.org/",
+    "categorySlug": "housing",
+    "zipCode": "89502"
+  },
+  {
+    "name": "Food Bank of Northern Nevada - Regional Distribution",
+    "description": "Regional food bank serving more than 160,000 people monthly across northern Nevada through partner pantries, mobile distributions, Kids Cafe, and senior nutrition programs.",
+    "address": "550 Italy Drive, Sparks, NV 89434",
+    "phone": "(775) 331-3663",
+    "url": "https://www.fbnn.org/",
+    "categorySlug": "food",
+    "zipCode": "89434"
+  },
+  {
+    "name": "Reno Housing Authority",
+    "description": "Public housing authority providing affordable housing, Section 8 Housing Choice Vouchers, and moving-to-work programs to over 2,600 low-income families and veterans across Washoe County.",
+    "address": "1525 E. 9th Street, Reno, NV 89512",
+    "phone": "(775) 329-3630",
+    "url": "https://www.renoha.org/",
+    "categorySlug": "housing",
+    "zipCode": "89512"
+  },
+  {
+    "name": "Reno-Sparks Gospel Mission",
+    "description": "Emergency homeless shelter and hunger relief organization providing free meals, emergency lodging, and recovery services to homeless men and women in northern Nevada, preparing up to 1,100 hot meals daily.",
+    "address": "355 Record Street, Reno, NV 89501",
+    "phone": "(775) 323-0386",
+    "url": "https://rsgm.org/",
+    "categorySlug": "housing",
+    "zipCode": "89501"
+  },
+  {
+    "name": "Safe Embrace",
+    "description": "Provides emergency shelter beds, transitional housing, and rapid rehousing programs for individuals and families escaping domestic violence situations in northern Nevada, with a 24-hour crisis hotline.",
+    "address": "220 S. Rock Blvd., #7, Reno, NV 89502",
+    "phone": "(775) 322-3466",
+    "url": "https://www.shelterlistings.org/city/reno-nv.html",
+    "categorySlug": "crisis",
+    "zipCode": "89502"
+  },
+  {
+    "name": "Sparks Family Resource Center (Food Bank of Northern Nevada)",
+    "description": "Neighborhood food distribution center in Sun Valley/Sparks serving Washoe County residents with free groceries, open Monday, Wednesday, and Friday afternoons.",
+    "address": "130 West Gepford Parkway, Sun Valley, NV 89433",
+    "phone": "(775) 331-3663",
+    "url": "https://www.fbnn.org/map-location/sparks-family-resource-center/?mpfy-pin=9495",
+    "categorySlug": "food",
+    "zipCode": "89433"
+  },
+  {
+    "name": "St. Vincent's Dining Room",
+    "description": "Reno's oldest soup kitchen operated by Catholic Charities of Northern Nevada, serving a free hot cafeteria-style lunch daily to over 500 people, open 11:30am to 1:00pm.",
+    "address": "325 Valley Road, Reno, NV 89512",
+    "phone": "(775) 322-7073",
+    "url": "https://ccsnn.org/pages/dining-room",
+    "categorySlug": "food",
+    "zipCode": "89512"
+  },
+  {
+    "name": "St. Vincent's Food Pantry",
+    "description": "Free food pantry operated by Catholic Charities of Northern Nevada, open Monday through Friday with morning and afternoon hours for individuals and families in need.",
+    "address": "435 Eureka Avenue, Reno, NV 89512",
+    "phone": "(775) 322-7073",
+    "url": "https://ccsnn.org/pages/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "89512"
+  },
+  {
+    "name": "Volunteers of America - Men's Emergency Shelter",
+    "description": "Emergency shelter for men experiencing homelessness, providing overnight lodging, meals, case management, substance abuse support, and rapid rehousing programs in downtown Reno.",
+    "address": "315 Record Street, Reno, NV 89512",
+    "phone": "(775) 329-4141",
+    "url": "https://www.voa-ncnn.org/northern-nevada/",
+    "categorySlug": "housing",
+    "zipCode": "89512"
+  },
+  {
+    "name": "Washoe County Housing and Homeless Services",
+    "description": "County division leading regional efforts on homelessness, providing street outreach, shelter coordination, and housing stability programs to ensure all Washoe County residents have access to safe housing.",
+    "address": "350 S. Center Street, Reno, NV 89501",
+    "phone": "(775) 785-8600",
+    "url": "https://www.washoecounty.gov/homeless/",
+    "categorySlug": "housing",
+    "zipCode": "89501"
+  },
+  {
+    "name": "White Pine County Social Services",
+    "description": "County social services office in Ely providing general assistance and connecting residents to social service programs including food, housing, and family support.",
+    "address": "297 Nevada Northern Railway, Suite 1, Ely, NV 89301",
+    "phone": "(775) 293-6528",
+    "url": "https://www.whitepinecounty.net/315/Social-Services",
+    "categorySlug": "community",
+    "zipCode": "89301"
+  }
+]

@@ -1,0 +1,1428 @@
+[
+  {
+    "name": "Alcona County Commission on Aging",
+    "description": "Senior services agency providing home-delivered and congregate meals, homemaker services, personal care, and caregiver support to Alcona County residents aged 60 and older.",
+    "address": "207 Church St, Lincoln, MI 48742",
+    "phone": "(989) 736-8879",
+    "url": "http://alconaseniors.org/",
+    "categorySlug": "community",
+    "zipCode": "48742"
+  },
+  {
+    "name": "Alcona County Food Pantry",
+    "description": "Community food pantry distributing groceries to Alcona County residents on the 2nd Saturday of each month at the United Methodist Church in Harrisville.",
+    "address": "217 N State St, Harrisville, MI 48740",
+    "phone": "(989) 724-6451",
+    "url": "https://www.facebook.com/p/Alcona-County-Food-Pantry-61563455398589/",
+    "categorySlug": "food",
+    "zipCode": "48740"
+  },
+  {
+    "name": "Alger Community Food Pantry",
+    "description": "Nonprofit food pantry providing free food, personal hygiene products, and cleaning supplies to anyone in Alger County with a self-declared need, open Tuesdays and Thursdays.",
+    "address": "414 E Munising Ave, Munising, MI 49862",
+    "phone": "(906) 450-2390",
+    "url": "https://www.facebook.com/algercommunityfoodpantry/",
+    "categorySlug": "food",
+    "zipCode": "49862"
+  },
+  {
+    "name": "Alger County Commission on Aging",
+    "description": "Drop-in center providing meals, social activities, and services for seniors aged 60 and older and adults with disabilities in Alger County.",
+    "address": "1604 Sand Point Rd, Munising, MI 49862",
+    "phone": "",
+    "url": "https://algercounty.gov/services/public-services/",
+    "categorySlug": "community",
+    "zipCode": "49862"
+  },
+  {
+    "name": "Community Action Alger-Marquette",
+    "description": "Community action agency providing homelessness solutions, rental and utility assistance, emergency food, housing choice vouchers, and supportive services for veterans and families in Alger County.",
+    "address": "413 Elm Ave, Munising, MI 49862",
+    "phone": "(906) 387-4554",
+    "url": "https://www.communityactionam.org/",
+    "categorySlug": "community",
+    "zipCode": "49862"
+  },
+  {
+    "name": "Hungry for Christ Food Pantry",
+    "description": "Community food pantry serving all of Allegan County, offering scheduled appointments for families to receive food assistance Monday through Friday.",
+    "address": "4565 135th Ave, Hamilton, MI 49419",
+    "phone": "(269) 264-1307",
+    "url": "https://allegancountyfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "49419"
+  },
+  {
+    "name": "Love INC of Northwest Allegan County",
+    "description": "Faith-based nonprofit coordinating volunteers and resources to meet the practical needs of struggling individuals and families in Hamilton and northwest Allegan County through food, clothing, and referral services.",
+    "address": "4621 135th Ave, Hamilton, MI 49419",
+    "phone": "(269) 751-2533",
+    "url": "https://loveincnwa.org/",
+    "categorySlug": "community",
+    "zipCode": "49419"
+  },
+  {
+    "name": "Northeast Michigan Community Service Agency (NEMCSA)",
+    "description": "Community action agency serving Alcona and 10 other northeast Michigan counties with food programs, housing assistance, weatherization, Head Start, and elder services.",
+    "address": "2569 US-23 South, Alpena, MI 49707",
+    "phone": "(989) 358-4600",
+    "url": "https://www.nemcsa.org/",
+    "categorySlug": "community",
+    "zipCode": "49707"
+  },
+  {
+    "name": "Northeast Michigan Community Service Agency (NEMCSA) – Huron County",
+    "description": "Community action agency providing food assistance, energy help, housing programs, and aging services to low-income residents in Huron County and surrounding northeast Michigan areas.",
+    "address": "2569 US-23 South, Alpena, MI 49707",
+    "phone": "(989) 358-4600",
+    "url": "https://www.nemcsa.org/counties/huron.html",
+    "categorySlug": "community",
+    "zipCode": "49707"
+  },
+  {
+    "name": "Antrim County Baby Pantry",
+    "description": "Baby pantry operating at St. Anthony of Padua Catholic Church in Mancelona, providing baby supplies and essentials to families with young children on the 2nd and 4th Thursdays each month.",
+    "address": "209 Jefferson St, Mancelona, MI 49659",
+    "phone": "(231) 492-7426",
+    "url": "https://www.foodbanksearch.com/foodbank-profile.php?id=1455&name=antrim-county-baby-pantry-inc",
+    "categorySlug": "food",
+    "zipCode": "49659"
+  },
+  {
+    "name": "Mancelona Food Pantry & Resale",
+    "description": "Nonprofit food pantry and resale shop serving Antrim County residents, providing monthly food assistance along with furniture, clothing, and household items at low cost.",
+    "address": "201 N Maple St, Mancelona, MI 49659",
+    "phone": "(231) 587-9606",
+    "url": "https://www.facebook.com/mancelonafoodpantry/",
+    "categorySlug": "food",
+    "zipCode": "49659"
+  },
+  {
+    "name": "Barry County Cares",
+    "description": "Nonprofit coordinating assistance for Barry County residents with utility bills, transportation, rent and housing, clothing, and other needs by connecting people with local churches and organizations.",
+    "address": "PO Box 155, Hastings, MI 49058",
+    "phone": "",
+    "url": "https://www.barrycountycares.org/",
+    "categorySlug": "community",
+    "zipCode": "49058"
+  },
+  {
+    "name": "Barry County United Way Food Resources",
+    "description": "United Way coordinating network of food pantries and hunger-relief programs throughout Barry County including Delton, Hastings, and surrounding communities.",
+    "address": "PO Box 334, Hastings, MI 49058",
+    "phone": "",
+    "url": "https://www.bcunitedway.org/get-help/food-resources/",
+    "categorySlug": "food",
+    "zipCode": "49058"
+  },
+  {
+    "name": "Good Samaritan Rescue Mission",
+    "description": "Emergency shelter and food assistance serving homeless men, women, children, intact families, and veterans in Bay County, operating 24/7 with meals and overnight accommodations.",
+    "address": "713 9th St, Bay City, MI 48708",
+    "phone": "(989) 893-5973",
+    "url": "https://rescuemidmichigan.org/good-samaritan-rescue-mission/",
+    "categorySlug": "housing",
+    "zipCode": "48708"
+  },
+  {
+    "name": "Emergency Shelter Services of Berrien County",
+    "description": "Nonprofit providing emergency and transitional housing, connections to community resources, and a resale store to support people experiencing homelessness in Berrien County.",
+    "address": "600 Main St, St. Joseph, MI 49085",
+    "phone": "",
+    "url": "https://essberrien.org/",
+    "categorySlug": "housing",
+    "zipCode": "49085"
+  },
+  {
+    "name": "Harbor Country Mission",
+    "description": "Nonprofit food pantry and resource center in Bridgman serving southwest Berrien County residents with groceries seven days a week, as well as clothing and household goods.",
+    "address": "9600 Red Arrow Hwy, Bridgman, MI 49106",
+    "phone": "(269) 426-0001",
+    "url": "https://harborcountrymission.org/",
+    "categorySlug": "food",
+    "zipCode": "49106"
+  },
+  {
+    "name": "Southwestern Michigan Community Action Agency (SMCAA)",
+    "description": "Community action agency providing emergency shelter for women, children, and families, along with energy assistance, food programs, and other anti-poverty services throughout Berrien County.",
+    "address": "185 E Main St, Benton Harbor, MI 49022",
+    "phone": "(269) 605-4526",
+    "url": "https://www.smcaa.com/",
+    "categorySlug": "community",
+    "zipCode": "49022"
+  },
+  {
+    "name": "Branch Area Food Pantry",
+    "description": "Community food pantry serving Branch County residents, allowing clients to choose a prepared box or shop from pantry shelves once per month on Tuesdays.",
+    "address": "22 Pierson St, Coldwater, MI 49036",
+    "phone": "(517) 279-0966",
+    "url": "https://branchareafoodpantry.com/",
+    "categorySlug": "food",
+    "zipCode": "49036"
+  },
+  {
+    "name": "Branch-Hillsdale-St. Joseph Community Health Agency",
+    "description": "County public health agency providing WIC nutrition services, immunizations, health education, and chronic disease prevention programs to Branch County residents.",
+    "address": "570 N Marshall Rd, Coldwater, MI 49036",
+    "phone": "(517) 279-9561",
+    "url": "https://www.bhsj.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "49036"
+  },
+  {
+    "name": "Family Promise of Branch County",
+    "description": "Nonprofit providing emergency shelter, meals, and case management to homeless families and single women in Branch County, working with local congregations and community volunteers.",
+    "address": "63 W Washington St, Coldwater, MI 49036",
+    "phone": "(517) 278-0928",
+    "url": "https://familypromise.org",
+    "categorySlug": "housing",
+    "zipCode": "08201",
+    "additionalZipCodes": [
+      "31088",
+      "49036"
+    ]
+  },
+  {
+    "name": "Calhoun County Public Health Department – Albion Office",
+    "description": "Local public health office offering WIC nutrition services, immunizations, family planning, and other health programs to Albion and surrounding Calhoun County residents.",
+    "address": "115 Market Place, Albion, MI 49224",
+    "phone": "(517) 629-9434",
+    "url": "https://www.calhouncountymi.gov/departments/public_health_department/",
+    "categorySlug": "healthcare",
+    "zipCode": "49224"
+  },
+  {
+    "name": "Community Action Agency of South Central Michigan",
+    "description": "Community action agency serving Barry County residents with poverty-reduction programs including emergency assistance, energy help, childhood education, and housing counseling.",
+    "address": "5085 W Dickman Rd, Battle Creek, MI 49015",
+    "phone": "(877) 422-2726",
+    "url": "https://caascm.org/",
+    "categorySlug": "community",
+    "zipCode": "49015"
+  },
+  {
+    "name": "Community Table of Albion",
+    "description": "Food distribution program offering a walk-in pantry on the first Tuesday of each month and drive-through distributions on the second through fourth Tuesdays, serving Albion and Calhoun County residents.",
+    "address": "225 E Watson St, Albion, MI 49224",
+    "phone": "(517) 629-5080",
+    "url": "https://www.albionhca.org/community-table-of-albion-food.html",
+    "categorySlug": "food",
+    "zipCode": "49224"
+  },
+  {
+    "name": "Northeast Michigan Community Service Agency (NEMCSA) – Cheboygan",
+    "description": "Community action agency serving Cheboygan County with quarterly emergency food distributions, monthly commodity food programs, housing technical assistance, weatherization, Head Start, and senior services.",
+    "address": "512 Pine St, Cheboygan, MI 49721",
+    "phone": "(231) 597-9378",
+    "url": "https://www.nemcsa.org/counties/cheboygan.html",
+    "categorySlug": "community",
+    "zipCode": "49721"
+  },
+  {
+    "name": "St. Thomas Food Pantry",
+    "description": "Faith-based food pantry distributing food supplements every Monday to Cheboygan County residents, supported by area congregations and partnering with the Food Bank of Eastern Michigan.",
+    "address": "332 S Western Ave, Cheboygan, MI 49721",
+    "phone": "(231) 627-3167",
+    "url": "https://www.stthomas-elca.org/the-food-pantry.html",
+    "categorySlug": "food",
+    "zipCode": "49721"
+  },
+  {
+    "name": "Chippewa-Luce-Mackinac Community Action Agency (CLM CAA)",
+    "description": "Community action agency serving Chippewa, Luce, and Mackinac counties with food pantries, energy assistance, housing support, senior services, and Head Start programs.",
+    "address": "524 Ashmun St, Sault Sainte Marie, MI 49783",
+    "phone": "(906) 632-3363",
+    "url": "https://cms.clmcaa.org/",
+    "categorySlug": "community",
+    "zipCode": "49783"
+  },
+  {
+    "name": "Saint Joseph Parish Food Pantry",
+    "description": "Parish-run food pantry in Sault Ste. Marie offering free food to anyone in need most Tuesdays, with additional pickup times available by calling the parish office.",
+    "address": "938 Bingham Ave, Sault Sainte Marie, MI 49783",
+    "phone": "(906) 632-9625",
+    "url": "https://stjosephssm.org/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "49783"
+  },
+  {
+    "name": "The Salvation Army – Sault Ste. Marie Food Pantry",
+    "description": "Food pantry and soup kitchen providing emergency food assistance to Chippewa, Mackinac, and Luce County residents, open Monday through Thursday with no appointment required.",
+    "address": "1509 Ashmun St, Sault Sainte Marie, MI 49783",
+    "phone": "(906) 632-9551",
+    "url": "https://centralusa.salvationarmy.org/SaultSteMarie/cure-hunger/",
+    "categorySlug": "food",
+    "zipCode": "49783"
+  },
+  {
+    "name": "Capital Area Community Services – Clinton County Service Center",
+    "description": "Community action agency serving Clinton County with food pantry services, energy assistance, housing counseling, weatherization, childhood education, and financial counseling.",
+    "address": "1001 S Oakland St, St. Johns, MI 48879",
+    "phone": "(989) 224-6702",
+    "url": "https://cacs-inc.org/",
+    "categorySlug": "community",
+    "zipCode": "48879"
+  },
+  {
+    "name": "St. Johns Food Pantry",
+    "description": "Emergency food pantry serving Clinton County residents with groceries and basic food assistance, operating on a regular weekly schedule.",
+    "address": "St. Johns, MI 48879",
+    "phone": "(989) 224-6964",
+    "url": "https://stjohnsfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "48879"
+  },
+  {
+    "name": "Delta County Department of Health and Human Services",
+    "description": "State agency office providing Medicaid, food assistance (SNAP), cash assistance, childcare subsidies, and other social services to Delta County residents including those in Perkins.",
+    "address": "2920 College Ave, Escanaba, MI 49829",
+    "phone": "(906) 786-5394",
+    "url": "https://www.michigan.gov/mdhhs/",
+    "categorySlug": "community",
+    "zipCode": "49829"
+  },
+  {
+    "name": "The Salvation Army – Escanaba",
+    "description": "Community center providing a client-choice food pantry, daily community lunches Monday through Friday, emergency shelter, clothing, furniture, and case management services to Delta County residents.",
+    "address": "3001 5th Ave S, Escanaba, MI 49829",
+    "phone": "(906) 786-0590",
+    "url": "https://www.salvationarmyusa.org/mi/escanaba/5th-avenue-south-corps/",
+    "categorySlug": "food",
+    "zipCode": "49829"
+  },
+  {
+    "name": "Eaton County Health Department – WIC Program",
+    "description": "Public health agency providing WIC nutrition services, health screenings, immunizations, and family health programs to pregnant women, new mothers, infants, and children in Eaton County.",
+    "address": "1033 Healthcare Dr, Charlotte, MI 48813",
+    "phone": "(517) 541-2630",
+    "url": "https://www.eatoncounty.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "48813"
+  },
+  {
+    "name": "Helping Hands Food Pantry",
+    "description": "Faith-based nonprofit food pantry operated almost entirely by volunteers, providing free groceries and personal care items to anyone in need in Charlotte and Eaton County, open Tuesday through Thursday.",
+    "address": "621 Jefferson St, Charlotte, MI 48813",
+    "phone": "(517) 543-8737",
+    "url": "https://www.helpinghandsfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "48813"
+  },
+  {
+    "name": "SIREN/Eaton Shelter",
+    "description": "Nonprofit providing emergency shelter, transitional housing, food pantry, clothing, and advocacy services for domestic violence survivors and unhoused individuals and families in Eaton County.",
+    "address": "520 Robinson St, Charlotte, MI 48813",
+    "phone": "(517) 543-4915",
+    "url": "https://sireneatonshelter.org/",
+    "categorySlug": "housing",
+    "zipCode": "48813"
+  },
+  {
+    "name": "Harbor Springs Community Food Pantry",
+    "description": "Community food pantry providing supplemental groceries to Harbor Springs area residents on Monday mornings.",
+    "address": "150 W Main St, Harbor Springs, MI 49740",
+    "phone": "",
+    "url": "https://wlhs.substack.com/p/harbor-springs-community-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "49740"
+  },
+  {
+    "name": "Manna Food Project",
+    "description": "Local nonprofit food bank in Harbor Springs distributing free groceries to individuals and families in Antrim, Charlevoix, and Emmet counties, with distributions on Tuesdays and select Thursdays.",
+    "address": "8791 McBride Park Ct, Harbor Springs, MI 49740",
+    "phone": "",
+    "url": "https://www.mannafoodproject.org/",
+    "categorySlug": "food",
+    "zipCode": "49740"
+  },
+  {
+    "name": "TrueNorth Community Services",
+    "description": "Nonprofit providing heat and energy assistance, food programs, and other supportive services to low-income individuals and families in Emmet and surrounding northern Michigan counties.",
+    "address": "922 E Mitchell St, Petoskey, MI 49770",
+    "phone": "(231) 355-5880",
+    "url": "https://truenorthservices.org/",
+    "categorySlug": "community",
+    "zipCode": "49770"
+  },
+  {
+    "name": "Food Bank of Eastern Michigan",
+    "description": "Regional food bank distributing over 28 million pounds of food annually through 600+ partner agencies in 22 counties, including Bay County, with mobile pantry distributions serving rural areas like Munger.",
+    "address": "2300 Lapeer Rd, Flint, MI 48503",
+    "phone": "(810) 239-4441",
+    "url": "https://www.fbem.org/",
+    "categorySlug": "food",
+    "zipCode": "48503"
+  },
+  {
+    "name": "Montrose Family Worship Center Food Pantry",
+    "description": "Church-run food pantry serving the Montrose area of Genesee County by appointment on the first Wednesday of the month, plus a walk-in pop-up pantry on Friday evenings.",
+    "address": "9453 W Vienna Rd, Montrose, MI 48457",
+    "phone": "(810) 639-2300",
+    "url": "https://www.charitynavigator.org/ein/382262072",
+    "categorySlug": "food",
+    "zipCode": "48457"
+  },
+  {
+    "name": "United Way of Genesee County",
+    "description": "Nonprofit coordinating basic needs resources, social services, and community programs across Genesee County, connecting residents in Montrose and rural areas to food, housing, and healthcare assistance.",
+    "address": "500 S Saginaw St, Flint, MI 48502",
+    "phone": "(810) 232-8121",
+    "url": "https://www.unitedwaygenesee.org/",
+    "categorySlug": "community",
+    "zipCode": "48502"
+  },
+  {
+    "name": "Gladwin New Dawn Shelter",
+    "description": "Emergency homeless shelter serving Gladwin County residents in need of temporary housing and transitional support services.",
+    "address": "Gladwin, MI 48624",
+    "phone": "",
+    "url": "https://www.facebook.com/newdawnshelter/",
+    "categorySlug": "housing",
+    "zipCode": "48624"
+  },
+  {
+    "name": "Sacred Heart Mission Food Pantry & Thrift Store",
+    "description": "Food pantry and thrift store providing free groceries, fruit and vegetable vouchers, and low-cost household goods to Gladwin County residents, open Monday through Friday.",
+    "address": "220 S James Robertson Dr, Gladwin, MI 48624",
+    "phone": "(989) 426-4661",
+    "url": "https://www.sacredheartmissiongladwin.com/",
+    "categorySlug": "food",
+    "zipCode": "48624"
+  },
+  {
+    "name": "Northwest Michigan Community Action Agency (NMCAA)",
+    "description": "Community action agency offering food assistance, housing and energy efficiency services, homeless prevention, homeownership counseling, and child development programs throughout Antrim County.",
+    "address": "3963 Three Mile Rd, Traverse City, MI 49686",
+    "phone": "(231) 947-3780",
+    "url": "https://nmcaa.net/antrimcounty.asp",
+    "categorySlug": "community",
+    "zipCode": "49686"
+  },
+  {
+    "name": "Breckenridge United Methodist Church Community Food Pantry",
+    "description": "Community food pantry serving Breckenridge, Hemlock, Merrill, and Wheeler residents with free groceries on Tuesday mornings.",
+    "address": "125 Third St, Breckenridge, MI 48615",
+    "phone": "",
+    "url": "https://breckenridgeumc.org/community-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "48615"
+  },
+  {
+    "name": "Community Cabinet Alma",
+    "description": "Local food pantry network coordinating multiple food pantry sites in Alma and Gratiot County, offering free groceries on a regular schedule to low-income residents.",
+    "address": "Alma, MI 48801",
+    "phone": "",
+    "url": "https://www.communitycabinetalma.com/food-pantries",
+    "categorySlug": "food",
+    "zipCode": "48801"
+  },
+  {
+    "name": "EightCAP, Inc. – Gratiot County Office",
+    "description": "Community action agency providing emergency rental and utility assistance, shelter referrals, food pantry information, and housing choice voucher waitlist registration for low-income Gratiot County residents.",
+    "address": "525 N State St Suite 2, Alma, MI 48801",
+    "phone": "(989) 875-5181",
+    "url": "https://8cap.org/gratiot-county-cs/",
+    "categorySlug": "community",
+    "zipCode": "48801"
+  },
+  {
+    "name": "Camden United Methodist Church Food Pantry",
+    "description": "Faith-based food pantry in Camden providing free groceries and essential items to Hillsdale County residents on weekdays.",
+    "address": "Camden, MI 49232",
+    "phone": "",
+    "url": "https://michiganfoodbanks.org/food-bank/camden-united-methodist-church-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "49232"
+  },
+  {
+    "name": "Lifeline Food Pantry",
+    "description": "Nonprofit food pantry and community ministry in Camden offering free food, winter coats, clothing, and seasonal holiday meals to those in need in southern Hillsdale County.",
+    "address": "102 S Main St, Camden, MI 49232",
+    "phone": "(269) 849-9704",
+    "url": "https://www.chamberofcommerce.com/business-directory/michigan/camden/food-bank/2031918956-lifeline-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "49232"
+  },
+  {
+    "name": "BHK Community Action Agency",
+    "description": "Community action agency serving Baraga, Houghton, and Keweenaw counties with monthly food distributions, energy assistance, weatherization, transportation, and other anti-poverty programs.",
+    "address": "926 Dodge St, Houghton, MI 49931",
+    "phone": "(906) 482-5528",
+    "url": "https://bhkcaa.org/",
+    "categorySlug": "community",
+    "zipCode": "49931"
+  },
+  {
+    "name": "Copper Shores Community Health Foundation",
+    "description": "Nonprofit supporting health services and community wellness in the Keweenaw Peninsula, partnering with Feeding America to co-sponsor mobile food pantry deliveries across Houghton and surrounding counties.",
+    "address": "200 Michigan Ave, Hancock, MI 49930",
+    "phone": "",
+    "url": "https://www.coppershores.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "49930"
+  },
+  {
+    "name": "The Salvation Army – Hancock Bread of Life Center",
+    "description": "Food pantry and emergency assistance center in Hancock serving Houghton, Baraga, and Keweenaw County residents with free groceries, clothing, and utility help, open Monday through Thursday.",
+    "address": "408 Ravine St, Hancock, MI 49930",
+    "phone": "(906) 482-3420",
+    "url": "https://centralusa.salvationarmy.org/hancock/programs-and-services/",
+    "categorySlug": "food",
+    "zipCode": "49930"
+  },
+  {
+    "name": "Huron County SafePlace",
+    "description": "Nonprofit providing emergency shelter, crisis intervention, and comprehensive services to survivors of domestic abuse and sexual assault in Huron, Sanilac, and Tuscola counties, with a 24/7 crisis line.",
+    "address": "PO Box 8, Bad Axe, MI 48413",
+    "phone": "(989) 269-5300",
+    "url": "https://www.huroncountysafeplace.com/",
+    "categorySlug": "housing",
+    "zipCode": "48413"
+  },
+  {
+    "name": "Shared Blessings Food Pantry",
+    "description": "Catholic parish-run food pantry at Sacred Heart Church in Bad Axe serving Huron County residents with free groceries and basic necessities.",
+    "address": "605 N Hanselman St, Bad Axe, MI 48413",
+    "phone": "(989) 269-8519",
+    "url": "https://www.thisisfamilylife.org/shared-blessing-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "48413"
+  },
+  {
+    "name": "Dora's Cupboard at Good Shepherd Mission Church",
+    "description": "Food pantry serving the Stockbridge area community with emergency groceries for individuals and families in need.",
+    "address": "5050 E M-36, Stockbridge, MI 49285",
+    "phone": "(517) 851-7425",
+    "url": "https://www.foodpantries.org/li/stockbridge-community-outreach",
+    "categorySlug": "food",
+    "zipCode": "49285"
+  },
+  {
+    "name": "Greater Lansing Food Bank",
+    "description": "Regional food bank serving Clinton, Ingham, Eaton, and five other mid-Michigan counties with emergency food distribution and a network of partner pantries, including mobile distributions in Eagle and rural Clinton County.",
+    "address": "5303 S Cedar St, Lansing, MI 48911",
+    "phone": "(517) 853-7800",
+    "url": "https://greaterlansingfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "48911"
+  },
+  {
+    "name": "Lansing Area AIDS Network (LAAN)",
+    "description": "Nonprofit providing HIV/AIDS testing, prevention education, case management, and support services to residents of East Lansing and Ingham County.",
+    "address": "913 W Holmes Rd Suite 115, Lansing, MI 48910",
+    "phone": "(517) 394-3719",
+    "url": "https://www.laan.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "48910"
+  },
+  {
+    "name": "MSU Student Food Bank",
+    "description": "Michigan State University food bank providing free food and related items to MSU students experiencing food insecurity, open year-round at the Olin Health Center.",
+    "address": "463 E Circle Dr Room 151, East Lansing, MI 48824",
+    "phone": "(517) 432-5136",
+    "url": "https://foodbank.msu.edu/",
+    "categorySlug": "food",
+    "zipCode": "48824"
+  },
+  {
+    "name": "Stockbridge Community Outreach",
+    "description": "Food pantry, clothing bank, and crisis center serving Ingham County residents with food assistance, utility help, housing support, transportation vouchers, and prescription co-pay assistance.",
+    "address": "305 W. Elizabeth St., Stockbridge, MI 49285",
+    "phone": "(517) 851-7285",
+    "url": "https://www.stockbridgecommunityoutreach.org/",
+    "categorySlug": "food",
+    "zipCode": "49285"
+  },
+  {
+    "name": "Au Sable Valley Community Mental Health",
+    "description": "Community mental health authority serving Iosco County residents with behavioral health services, crisis intervention, and community support programs.",
+    "address": "1199 W. Harris St, Tawas City, MI 48763",
+    "phone": "(989) 362-8636",
+    "url": "https://www.avcmh.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "48763"
+  },
+  {
+    "name": "Holy Family Food Pantry",
+    "description": "Parish food pantry serving East Tawas and Iosco County residents with groceries distributed twice weekly and emergency food available by phone.",
+    "address": "Corner of Ogemaw and Lincoln St, East Tawas, MI 48730",
+    "phone": "(989) 362-3162",
+    "url": "https://hf-sh.org/holyfamily/outreach/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "48730"
+  },
+  {
+    "name": "Iosco County Michigan DHHS",
+    "description": "State human services office providing food assistance (SNAP/food stamps), Medicaid, cash assistance, and other social services to Iosco County residents.",
+    "address": "4049 Indian Lake Rd, National City, MI 48748",
+    "phone": "(989) 469-3177",
+    "url": "https://www.michigan.gov/mdhhs/inside-mdhhs/county-offices/northern-mid-michigan/iosco-county",
+    "categorySlug": "community",
+    "zipCode": "48748"
+  },
+  {
+    "name": "Community Compassion Network",
+    "description": "Food pantry network operating stationary and mobile pantries serving Isabella County residents with groceries and basic nutritional support.",
+    "address": "Mt. Pleasant, MI 48858",
+    "phone": "",
+    "url": "https://ccnfeeds.org/stationary-pantry",
+    "categorySlug": "food",
+    "zipCode": "48858"
+  },
+  {
+    "name": "Isabella Community Soup Kitchen",
+    "description": "Nonprofit soup kitchen serving free continental breakfast and hot lunch six days a week to anyone in need, including seniors, homeless individuals, families, veterans, and college students.",
+    "address": "621 S Adams St, Mount Pleasant, MI 48858",
+    "phone": "(989) 772-7392",
+    "url": "https://www.icsk.org/",
+    "categorySlug": "food",
+    "zipCode": "48858"
+  },
+  {
+    "name": "Weidman United Methodist Church Food Pantry",
+    "description": "Food pantry serving residents of six townships surrounding Weidman (Broomfield, Coldwater, Deerfield, Sherman, Nottawa, and Gilmore) with groceries available once every 60 days.",
+    "address": "6000 S Main St, Weidman, MI 48893",
+    "phone": "",
+    "url": "https://weidmanumc.org/",
+    "categorySlug": "food",
+    "zipCode": "48893"
+  },
+  {
+    "name": "Jackson Interfaith Shelter",
+    "description": "Emergency homeless shelter providing 76 beds for men, women, and families, along with three daily meals and assistance with physical, emotional, and spiritual needs in Jackson County.",
+    "address": "414 S Blackstone St, Jackson, MI 49201",
+    "phone": "(517) 789-8735",
+    "url": "https://www.interfaithshelter.com/",
+    "categorySlug": "housing",
+    "zipCode": "49201"
+  },
+  {
+    "name": "Salvation Army of Jackson County",
+    "description": "Social services organization offering a food pantry, emergency financial assistance, utility help, and other basic needs support to Jackson County residents.",
+    "address": "806 E Pearl St, Jackson, MI 49201",
+    "phone": "(517) 782-7580",
+    "url": "https://www.salvationarmyusa.org/usn/",
+    "categorySlug": "community",
+    "zipCode": "49201"
+  },
+  {
+    "name": "Village Hope Church Food Ministry",
+    "description": "Food ministry providing boxes of fresh produce, baked goods, and dairy products in partnership with the South Michigan Food Bank, serving Parma and surrounding Jackson County communities.",
+    "address": "100 E Main St, Parma, MI 49269",
+    "phone": "",
+    "url": "https://www.villagehopechurch.org/food-ministries",
+    "categorySlug": "food",
+    "zipCode": "49269"
+  },
+  {
+    "name": "Kalamazoo Loaves & Fishes",
+    "description": "County-wide food bank providing grocery assistance to Kalamazoo County residents through multiple pantry locations, home delivery, and school-based pantries, serving over 600 individuals daily.",
+    "address": "901 Portage St, Kalamazoo, MI 49001",
+    "phone": "(269) 488-2617",
+    "url": "https://kzoolf.org",
+    "categorySlug": "food",
+    "zipCode": "49001"
+  },
+  {
+    "name": "South County Community Services",
+    "description": "Community hub connecting Kalamazoo County's south county residents with food assistance through a Loaves & Fishes partner pantry, along with financial resources and other support services.",
+    "address": "101 S Main St, Vicksburg, MI 49097",
+    "phone": "(269) 649-2553",
+    "url": "https://southcountycs.com/",
+    "categorySlug": "food",
+    "zipCode": "49097"
+  },
+  {
+    "name": "South Michigan Food Bank",
+    "description": "Regional food bank serving Hillsdale and seven other southern Michigan counties, distributing food through a network of partner pantries and publishing a county-wide resource guide.",
+    "address": "3145 Moorsbridge Rd, Portage, MI 49024",
+    "phone": "(269) 983-3219",
+    "url": "https://smfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "49024"
+  },
+  {
+    "name": "Cedar Springs Community Food Pantry",
+    "description": "Food pantry serving northern Kent County residents with referrals from North Kent Connect, offering monthly grocery assistance up to 12 times per year.",
+    "address": "140 S Main St, Cedar Springs, MI 49319",
+    "phone": "(616) 866-3478",
+    "url": "https://csfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "49319"
+  },
+  {
+    "name": "City Impact Cedar Springs",
+    "description": "Community center and outreach ministry providing food pantry services, job skills training, home repair assistance, and youth programs to individuals of all ages in Cedar Springs.",
+    "address": "288 N Main St, Cedar Springs, MI 49319",
+    "phone": "(616) 843-2438",
+    "url": "https://www.cityimpactmi.org/",
+    "categorySlug": "community",
+    "zipCode": "49319"
+  },
+  {
+    "name": "Feeding America West Michigan",
+    "description": "Regional food bank distributing food through pantries, mobile distributions, and partner agencies across West Michigan including the Wyoming/Grand Rapids south area.",
+    "address": "864 West River Center Dr NE, Comstock Park, MI 49321",
+    "phone": "(616) 784-3250",
+    "url": "https://www.feedwm.org/findfood/",
+    "categorySlug": "food",
+    "zipCode": "49321"
+  },
+  {
+    "name": "North Kent Connect",
+    "description": "Christian social services organization providing food access, housing and utility assistance, case management, and economic independence support to northern Kent County residents.",
+    "address": "10075 Northland Dr NE, Rockford, MI 49341",
+    "phone": "(616) 866-3478",
+    "url": "https://nkconnect.org/",
+    "categorySlug": "community",
+    "zipCode": "49319"
+  },
+  {
+    "name": "Salvation Army - Kent County",
+    "description": "Multi-service organization providing emergency food assistance, shelter referrals, utility help, and holiday programs to residents throughout Kent County including Wyoming.",
+    "address": "1215 Fulton St E, Grand Rapids, MI 49503",
+    "phone": "(616) 459-9468",
+    "url": "https://centralusa.salvationarmy.org/kentcounty/",
+    "categorySlug": "community",
+    "zipCode": "49503"
+  },
+  {
+    "name": "United Church Outreach Ministry (UCOM)",
+    "description": "Food pantry and community services organization in Wyoming serving southwest Grand Rapids residents with client-choice groceries, basic needs assistance, and community support programs.",
+    "address": "1311 Chicago Dr SW, Wyoming, MI 49509",
+    "phone": "(616) 241-4006",
+    "url": "https://ucomgr.org/",
+    "categorySlug": "food",
+    "zipCode": "49509"
+  },
+  {
+    "name": "Catholic Charities of Southeast Michigan - Lapeer",
+    "description": "Social services agency providing food assistance, emergency financial help, and referrals to community resources for Lapeer County residents including those in the Almont area.",
+    "address": "Lapeer, MI 48446",
+    "phone": "(810) 664-4646",
+    "url": "https://ccsem.org/",
+    "categorySlug": "community",
+    "zipCode": "48446"
+  },
+  {
+    "name": "Lapeer County Community Mental Health",
+    "description": "County mental health authority serving Lapeer County residents including the Almont area with behavioral health services, crisis intervention, and community support programs.",
+    "address": "1570 S Main St, Lapeer, MI 48446",
+    "phone": "(810) 667-0500",
+    "url": "https://www.lccmh.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "48446"
+  },
+  {
+    "name": "Leelanau Christian Neighbors",
+    "description": "Nonprofit serving Leelanau County residents with a client-choice food pantry, baby pantry, emergency financial assistance, and referrals to community resources, open Mondays.",
+    "address": "7322 E Duck Lake Rd, Lake Leelanau, MI 49653",
+    "phone": "(231) 994-2271",
+    "url": "https://leelanauchristianneighbors.org/",
+    "categorySlug": "food",
+    "zipCode": "49653"
+  },
+  {
+    "name": "Housing Help of Lenawee",
+    "description": "Lenawee County organization dedicated to preventing and ending homelessness by connecting residents with emergency shelter, transitional housing, and supportive services.",
+    "address": "Adrian, MI 49221",
+    "phone": "",
+    "url": "https://h2lenawee.org/",
+    "categorySlug": "housing",
+    "zipCode": "49221"
+  },
+  {
+    "name": "Morenci Bible Fellowship Church Food Pantry",
+    "description": "Food pantry serving Morenci-area (49256) residents by appointment with groceries and basic food assistance; requires ID and proof of residency.",
+    "address": "751 N Summit St, Morenci, MI 49256",
+    "phone": "(517) 458-7195",
+    "url": "https://michiganfoodbanks.org/food-bank/morenci-bible-fellowship-church-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "49256"
+  },
+  {
+    "name": "Neighbors of Hope",
+    "description": "Lenawee County nonprofit providing homeless transitional housing for men, addiction recovery programs, a food pantry, and a resale store to people in need in the Adrian area.",
+    "address": "227 Riverside Ave, Adrian, MI 49221",
+    "phone": "(517) 265-4019",
+    "url": "https://neighborsofhope.com/",
+    "categorySlug": "housing",
+    "zipCode": "49221"
+  },
+  {
+    "name": "Family Impact Center",
+    "description": "Client-choice food pantry and community services center in Fowlerville serving Livingston County residents with food, home goods, personal care items, and baby supplies.",
+    "address": "165 N Fowlerville Rd, Fowlerville, MI 48836",
+    "phone": "(517) 223-4428",
+    "url": "https://familyimpactcenters.com/",
+    "categorySlug": "food",
+    "zipCode": "48836"
+  },
+  {
+    "name": "OLHSA Shared Harvest Pantry",
+    "description": "Oakland Livingston Human Services Agency food pantry providing emergency groceries and the Commodity Supplemental Food Program for income-eligible Livingston County residents.",
+    "address": "196 Cleaver Rd, Howell, MI 48843",
+    "phone": "(248) 209-2600",
+    "url": "https://www.olhsa.org/",
+    "categorySlug": "food",
+    "zipCode": "48843"
+  },
+  {
+    "name": "Community Christian Church Food Pantry (Community Hands)",
+    "description": "The largest food pantry in Macomb County, providing free food and household supplies to hundreds of families in Sterling Heights on the second and fourth Wednesday of each month.",
+    "address": "42400 Ryan Rd, Sterling Heights, MI 48314",
+    "phone": "(586) 323-1730",
+    "url": "https://cccsterling.org/pantry",
+    "categorySlug": "food",
+    "zipCode": "48314"
+  },
+  {
+    "name": "Community Food Bank of Macomb County",
+    "description": "County food bank supplying groceries to over 55 pantries across Macomb County and serving approximately 35,000 individuals per month with emergency food assistance.",
+    "address": "44900 Vic Wertz Dr, Clinton Township, MI 48036",
+    "phone": "",
+    "url": "https://www.macombgov.org/departments/macomb-community-action/macomb-food-bank",
+    "categorySlug": "food",
+    "zipCode": "48015"
+  },
+  {
+    "name": "Macomb Community Action",
+    "description": "County community action agency providing emergency food, utility assistance, shelter referrals, and other basic needs support to low-income Macomb County residents.",
+    "address": "21885 Dunham Rd, Clinton Township, MI 48036",
+    "phone": "(586) 469-6999",
+    "url": "https://www.macombgov.org/departments/macomb-community-action",
+    "categorySlug": "community",
+    "zipCode": "48314"
+  },
+  {
+    "name": "Macomb Food Program",
+    "description": "Macomb County food assistance network coordinating distribution of food to pantries and families in need throughout Macomb County, including Center Line and Warren communities.",
+    "address": "Clinton Township, MI 48036",
+    "phone": "",
+    "url": "https://www.macombfoodprogram.org/",
+    "categorySlug": "food",
+    "zipCode": "48036"
+  },
+  {
+    "name": "Samaritan House",
+    "description": "Food pantry serving northwestern Macomb County since 1995, providing emergency food orders designed to feed all household members three meals a day for 10–14 days.",
+    "address": "62324 Van Dyke Ave, Washington, MI 48094",
+    "phone": "(586) 336-9956",
+    "url": "https://www.samaritanhousemichigan.org/",
+    "categorySlug": "food",
+    "zipCode": "48065"
+  },
+  {
+    "name": "South Eastern Michigan Indians (SEMIC)",
+    "description": "Native American community organization in Center Line providing social services, cultural programs, and referrals to health and human services for Native American and general community members.",
+    "address": "26641 Lawrence Ave, Center Line, MI 48015",
+    "phone": "(586) 756-1350",
+    "url": "https://www.semindiansinc.org/",
+    "categorySlug": "community",
+    "zipCode": "48015"
+  },
+  {
+    "name": "The Agape Center",
+    "description": "Northern Macomb County nonprofit providing emergency food, clothing, personal supplies, medical services, counseling, and support to individuals and families in the Bruce/Romeo area.",
+    "address": "347 S Main St, Romeo, MI 48065",
+    "phone": "(586) 336-6737",
+    "url": "https://www.agapenorthmacomb.org/",
+    "categorySlug": "community",
+    "zipCode": "48065"
+  },
+  {
+    "name": "Salvation Army of Marquette County",
+    "description": "Multi-service organization serving Marquette County with a client-choice food pantry, community lunch program, emergency financial assistance, and case management.",
+    "address": "1009 W Baraga Ave, Marquette, MI 49855",
+    "phone": "(906) 226-2241",
+    "url": "https://centralusa.salvationarmy.org/marquettecountymi/",
+    "categorySlug": "food",
+    "zipCode": "49855"
+  },
+  {
+    "name": "St. Vincent de Paul - Marquette",
+    "description": "Catholic charitable organization providing food, emergency financial assistance for shelter and utilities, transportation help, and material needs to Marquette County residents in need.",
+    "address": "2119 Presque Isle Ave, Marquette, MI 49855",
+    "phone": "(906) 226-3840",
+    "url": "https://svdpmqtdistrict.org/resources",
+    "categorySlug": "community",
+    "zipCode": "49855"
+  },
+  {
+    "name": "Crossroads Church Mobile Fresh Food Pantry",
+    "description": "Drive-through mobile food pantry distributing free fresh produce and groceries in Scottville through a partnership with Feeding America West Michigan.",
+    "address": "1463 E US-10, Scottville, MI 49454",
+    "phone": "",
+    "url": "https://crossroadsmasoncounty.info/food-truck",
+    "categorySlug": "food",
+    "zipCode": "49454"
+  },
+  {
+    "name": "FiveCAP, Inc.",
+    "description": "Community action agency serving Mason, Lake, Manistee, and Newaygo counties since 1964, providing emergency food and shelter program services, energy assistance, and self-sufficiency programs.",
+    "address": "302 N Main St, Scottville, MI 49454",
+    "phone": "(231) 757-3785",
+    "url": "https://www.fivecap.org/",
+    "categorySlug": "community",
+    "zipCode": "49454"
+  },
+  {
+    "name": "Salvation Army - Ludington (Mason County)",
+    "description": "Social services center serving Mason County with a food pantry, emergency shelter vouchers, and utility assistance; east-side residents may apply at the Scottville Senior Center.",
+    "address": "Ludington, MI 49431",
+    "phone": "(231) 843-4439",
+    "url": "https://centralusa.salvationarmy.org/Ludington/family-social-services-center/",
+    "categorySlug": "community",
+    "zipCode": "49431"
+  },
+  {
+    "name": "Abundant Life Mission",
+    "description": "Emergency homeless shelter and the only Upper Peninsula shelter that houses families, providing beds for single men, single women, and families with children, plus a food pantry.",
+    "address": "1406 10th Ave, Menominee, MI 49858",
+    "phone": "(906) 424-4429",
+    "url": "https://alcmission.wixsite.com/almission",
+    "categorySlug": "housing",
+    "zipCode": "49858"
+  },
+  {
+    "name": "Menominee County DHHS",
+    "description": "State human services office serving Menominee County with SNAP food benefits, Medicaid, cash assistance, child welfare services, and referrals to local resources.",
+    "address": "2003 10th Ave, Menominee, MI 49858",
+    "phone": "(906) 863-9951",
+    "url": "https://www.michigan.gov/mdhhs/inside-mdhhs/county-offices/up-and-northern-michigan/menominee-county",
+    "categorySlug": "community",
+    "zipCode": "49858"
+  },
+  {
+    "name": "St. Vincent de Paul - Menominee",
+    "description": "Catholic charitable society providing food assistance, utility help, and emergency financial support to individuals and families in need in Menominee County.",
+    "address": "Menominee, MI 49858",
+    "phone": "",
+    "url": "https://www.facebook.com/SVDPMenominee/",
+    "categorySlug": "food",
+    "zipCode": "49858"
+  },
+  {
+    "name": "Good Neighbor Food Pantry",
+    "description": "Food pantry serving Lake City and Missaukee County residents on the first and third Thursday of each month, providing groceries to those experiencing food insecurity.",
+    "address": "5804 W Houghton Lake Rd, Lake City, MI 49651",
+    "phone": "",
+    "url": "https://www.feedwm.org/",
+    "categorySlug": "food",
+    "zipCode": "49651"
+  },
+  {
+    "name": "Living Light Christian Church Food Pantry",
+    "description": "Church-based food pantry and Feeding America West Michigan mobile pantry site offering drive-through food distribution and appointment-based basic food supply to Lake City area residents.",
+    "address": "7700 W Blue Rd, Lake City, MI 49651",
+    "phone": "(231) 839-2244",
+    "url": "https://www.feedwm.org/mobile-pantry-schedule/",
+    "categorySlug": "food",
+    "zipCode": "49651"
+  },
+  {
+    "name": "Missaukee Council on Aging",
+    "description": "County aging services agency providing senior nutrition programs, home-delivered meals, and community support services for older adults in Missaukee County.",
+    "address": "2170 S Morey Rd, Lake City, MI 49651",
+    "phone": "(231) 839-7839",
+    "url": "https://www.missaukeecoa.org/",
+    "categorySlug": "community",
+    "zipCode": "49651"
+  },
+  {
+    "name": "Family Medical Center Food Pantry - Temperance",
+    "description": "FQHC-affiliated food pantry serving approximately 1,100 individuals at the Temperance clinic, open Wednesdays to provide groceries to patients and community members in need.",
+    "address": "8765 Lewis Ave, Temperance, MI 48182",
+    "phone": "(734) 847-0025",
+    "url": "https://familymedicalmi.org/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "48182"
+  },
+  {
+    "name": "Monroe County Opportunity Program (MCOP)",
+    "description": "Community action agency coordinating the Emergency Food Assistance Program across Monroe County with 12 pantry locations, quarterly food distribution, and a client-choice grocery program.",
+    "address": "1140 S Telegraph Rd, Monroe, MI 48161",
+    "phone": "(734) 241-2775",
+    "url": "https://monroecountyop.org/food-programs.html",
+    "categorySlug": "community",
+    "zipCode": "48161"
+  },
+  {
+    "name": "Salvation Army of Monroe",
+    "description": "Monroe County social services organization offering emergency food assistance, a warming shelter, utility help, and holiday programs to individuals and families in need.",
+    "address": "Monroe, MI 48161",
+    "phone": "(734) 242-2841",
+    "url": "https://centralusa.salvationarmy.org/monroe/",
+    "categorySlug": "community",
+    "zipCode": "48161"
+  },
+  {
+    "name": "EightCAP, Inc. - Montcalm County",
+    "description": "Community action agency providing emergency food assistance, energy assistance, weatherization, Head Start, and other anti-poverty programs to low-income Montcalm County residents.",
+    "address": "Stanton, MI 48888",
+    "phone": "(989) 831-5545",
+    "url": "https://8cap.org/",
+    "categorySlug": "community",
+    "zipCode": "48888"
+  },
+  {
+    "name": "Have Mercy - Bread of Life Pantry",
+    "description": "Food pantry open twice weekly serving Montcalm County, northeast Kent County, and northern Ionia County residents with prepared food boxes including eggs, cheese, bread, meat, and produce.",
+    "address": "6596 Vining Rd, Greenville, MI 48838",
+    "phone": "(616) 225-8055",
+    "url": "https://havemercymi.org/bread-of-life-pantry/",
+    "categorySlug": "food",
+    "zipCode": "48838"
+  },
+  {
+    "name": "Love INC of Muskegon",
+    "description": "Network of local churches providing food pantry appointments, basic needs assistance, financial coaching, and connections to community resources for Muskegon County residents.",
+    "address": "Muskegon, MI 49442",
+    "phone": "(231) 773-3448",
+    "url": "https://loveincofmuskegon.com/",
+    "categorySlug": "community",
+    "zipCode": "49442"
+  },
+  {
+    "name": "Mission for Area People (MAP)",
+    "description": "Muskegon Heights nonprofit offering a Healthy Choice food pantry, clothing pantry, emergency medical and dental fund, back-to-school supplies, and holiday assistance to Muskegon County residents.",
+    "address": "2500 Jefferson St, Muskegon Heights, MI 49444",
+    "phone": "(231) 733-9672",
+    "url": "https://www.missionforareapeople.org/",
+    "categorySlug": "food",
+    "zipCode": "49444"
+  },
+  {
+    "name": "Muskegon Rescue Mission",
+    "description": "Emergency shelter and social services organization providing food, clothing, shelter, and recovery support to homeless and vulnerable individuals in Muskegon County.",
+    "address": "445 W Western Ave, Muskegon, MI 49440",
+    "phone": "(231) 722-3855",
+    "url": "https://muskegonmission.org/",
+    "categorySlug": "housing",
+    "zipCode": "49440"
+  },
+  {
+    "name": "CARES of Farmington Hills",
+    "description": "Community resource center providing food pantry services, emergency assistance, and referrals to WIC, veteran services, and AA programs for Farmington Hills area residents. Pantry open Tuesday–Thursday the first three weeks of each month.",
+    "address": "27835 Shiawassee Road, Farmington Hills, MI 48336",
+    "phone": "(248) 474-8231",
+    "url": "https://caresfh.org/",
+    "categorySlug": "food",
+    "zipCode": "48331"
+  },
+  {
+    "name": "Forgotten Harvest Community Choice Market",
+    "description": "No-cost grocery market operated by Forgotten Harvest, Metro Detroit's food rescue organization, where community members can select from a variety of fresh and shelf-stable groceries by appointment.",
+    "address": "15000 W Eight Mile Rd, Oak Park, MI 48237",
+    "phone": "(248) 967-1500",
+    "url": "https://www.forgottenharvest.org/find-food/",
+    "categorySlug": "food",
+    "zipCode": "48237"
+  },
+  {
+    "name": "Oakland HOPE Food Pantry",
+    "description": "Oakland County's largest food pantry providing free weekly groceries including fresh produce, protein, dairy, and shelf-stable items to food-insecure families, seniors, and veterans. No appointment needed; walk-in Tuesday–Saturday.",
+    "address": "20 E Walton Blvd, Pontiac, MI 48340",
+    "phone": "(248) 309-3658",
+    "url": "https://oaklandhope.org/",
+    "categorySlug": "food",
+    "zipCode": "48340"
+  },
+  {
+    "name": "OCEF Food Pantry (Ortonville Community Emergency Fund)",
+    "description": "Nonprofit food pantry serving Brandon Township, Groveland Township, Ortonville, and surrounding areas, meeting immediate hunger needs for local families. Open Tuesdays and Fridays; call ahead for an appointment.",
+    "address": "825 S Ortonville Rd, Ortonville, MI 48462",
+    "phone": "(248) 804-7149",
+    "url": "https://www.oceffoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "48462"
+  },
+  {
+    "name": "Rochester Area Neighborhood House",
+    "description": "Nonprofit serving Rochester, Rochester Hills, Auburn Hills, Oakland Township, and Addison Township with a food pantry providing shelf-stable, dairy, and frozen foods, plus a clothing closet and emergency assistance programs.",
+    "address": "1720 S Livernois Road, Rochester Hills, MI 48307",
+    "phone": "(248) 651-5836",
+    "url": "https://www.ranh.org/",
+    "categorySlug": "food",
+    "zipCode": "48307"
+  },
+  {
+    "name": "Southfield Human Services Department",
+    "description": "City department providing emergency food assistance (TEFAP), food vouchers, coat vouchers, rent and utility help, gas and bus tickets to residents of Southfield and Lathrup Village.",
+    "address": "26000 Evergreen Road, Southfield, MI 48076",
+    "phone": "(248) 796-4542",
+    "url": "https://www.cityofsouthfield.com/departments/human-services",
+    "categorySlug": "community",
+    "zipCode": "48034"
+  },
+  {
+    "name": "St. David's Episcopal Church Food Pantry",
+    "description": "Emergency food pantry serving Southeast Oakland County residents, operated as an outreach ministry of St. David's Episcopal Church. Open Monday and Wednesday mornings with no appointment required.",
+    "address": "16200 W. 12 Mile Rd, Southfield, MI 48076",
+    "phone": "(248) 356-8787",
+    "url": "https://www.stdavidssf.org/Food_Pantry",
+    "categorySlug": "food",
+    "zipCode": "48034"
+  },
+  {
+    "name": "The Salvation Army Farmington Hills Corps",
+    "description": "Provides weekly food distribution, emergency food assistance by appointment, utility assistance, and counseling services to residents of Southfield, Farmington Hills, Novi, and surrounding communities.",
+    "address": "27500 Shiawassee Rd, Farmington Hills, MI 48336",
+    "phone": "(248) 477-1153",
+    "url": "https://centralusa.salvationarmy.org/farmingtonhills/home/",
+    "categorySlug": "food",
+    "zipCode": "48034"
+  },
+  {
+    "name": "The Salvation Army Royal Oak Corps",
+    "description": "Multi-service organization serving Oak Park and surrounding Oakland County communities with food assistance, homeless services, utility and financial assistance, and holiday programs.",
+    "address": "619 W Fourth St, Royal Oak, MI 48067",
+    "phone": "(248) 585-5600",
+    "url": "https://centralusa.salvationarmy.org/royaloak/",
+    "categorySlug": "community",
+    "zipCode": "48067"
+  },
+  {
+    "name": "Ontonagon County MDHHS Office",
+    "description": "Michigan Department of Health and Human Services county office providing food assistance (SNAP/EBT), Medicaid, TANF cash assistance, child welfare services, and referrals to local community resources for Ontonagon County residents.",
+    "address": "408 Copper St Ste B, Ontonagon, MI 49953",
+    "phone": "(906) 813-7006",
+    "url": "https://www.michigan.gov/mdhhs/inside-mdhhs/county-offices/up-and-northern-michigan/ontonagon-county",
+    "categorySlug": "community",
+    "zipCode": "49953"
+  },
+  {
+    "name": "Together We Can Food Pantry",
+    "description": "Community food pantry serving Oscoda County residents with monthly food distributions. Covers the Mio and Comins area; call for current distribution dates and eligibility.",
+    "address": "413 Smith Road, Mio, MI 48647",
+    "phone": "(989) 745-4558",
+    "url": "https://www.facebook.com/TogetherwecanOscodaCounty/",
+    "categorySlug": "food",
+    "zipCode": "48647"
+  },
+  {
+    "name": "Community Action House",
+    "description": "Comprehensive community hub serving the Greater Holland area since 1969 with client-choice food pantry locations, free hot lunch five days a week, emergency shelter assistance, housing counseling, and financial education programs for Ottawa and Allegan County residents.",
+    "address": "739 Paw Paw Dr, Holland, MI 49423",
+    "phone": "(616) 392-2368",
+    "url": "https://www.communityactionhouse.org/",
+    "categorySlug": "food",
+    "zipCode": "49423"
+  },
+  {
+    "name": "Macatawa Resource Center – Blessings Food Pantry",
+    "description": "Nonprofit collaborative center in the Macatawa/Holland area offering a free food pantry for neighbors facing food insecurity in Ottawa and Allegan counties, along with additional community support programs under one roof.",
+    "address": "665 136th Ave, Holland, MI 49424",
+    "phone": "(616) 796-0440",
+    "url": "https://macatawaresourcecenter.org/programs/",
+    "categorySlug": "food",
+    "zipCode": "49424"
+  },
+  {
+    "name": "The Salvation Army Holland Corps",
+    "description": "Multi-service organization providing food pantry assistance, utility and financial help, and social services to residents of southern Ottawa County and most of Allegan County.",
+    "address": "89 W 8th St, Holland, MI 49423",
+    "phone": "(616) 396-6837",
+    "url": "https://centralusa.salvationarmy.org/Holland/social-services/",
+    "categorySlug": "community",
+    "zipCode": "49423"
+  },
+  {
+    "name": "Central Michigan District Health Department – Roscommon Office",
+    "description": "Public health office serving Roscommon County with WIC nutrition program, immunizations, family planning, children's special health services, maternal and infant support, and MIChild enrollment assistance.",
+    "address": "200 Grand Ave Ste A, Prudenville, MI 48651",
+    "phone": "(989) 366-3157",
+    "url": "https://www.cmdhd.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "48651"
+  },
+  {
+    "name": "St. Vincent de Paul – Our Lady of the Lake Conference",
+    "description": "Faith-based nonprofit providing a free food pantry, emergency help with housing and utilities, and clothing assistance to Roscommon County residents. No appointment needed; open Tuesday through Friday.",
+    "address": "329 W West Branch Rd, Prudenville, MI 48651",
+    "phone": "(989) 366-7613",
+    "url": "https://www.stvincentprudenville.com/",
+    "categorySlug": "food",
+    "zipCode": "48651"
+  },
+  {
+    "name": "Mid Michigan Community Action Agency",
+    "description": "Community action agency operating local food pantries and providing energy assistance, weatherization, housing support, and other anti-poverty services to Bay County residents.",
+    "address": "110 S. Michigan Ave, Saginaw, MI 48602",
+    "phone": "(989) 753-2005",
+    "url": "https://www.mmcaa.org/",
+    "categorySlug": "community",
+    "zipCode": "48602"
+  },
+  {
+    "name": "Mid Michigan Community Action Agency",
+    "description": "Community action agency operating food pantry programs and providing energy assistance, weatherization, housing support, and other services to low-income residents in Gladwin and surrounding mid-Michigan counties.",
+    "address": "110 S Michigan Ave, Saginaw, MI 48602",
+    "phone": "(989) 753-2005",
+    "url": "https://www.mmcaa.org/local_pantries.html",
+    "categorySlug": "community",
+    "zipCode": "48602"
+  },
+  {
+    "name": "Trinity Merrill Open Hearts Food Pantry",
+    "description": "Community food pantry serving residents of Merrill and the surrounding Saginaw County area, operating out of the Trinity Church basement. Open Wednesdays and Fridays for individuals and families facing food insecurity.",
+    "address": "315 Midland St, Merrill, MI 48637",
+    "phone": "(989) 643-5660",
+    "url": "https://trinitymerrill.com/our-community",
+    "categorySlug": "food",
+    "zipCode": "48637"
+  },
+  {
+    "name": "HELP Inc.",
+    "description": "United ministry of Sandusky-area churches providing low-cost clothing, community food assistance, emergency services, and housing help to Sanilac County residents.",
+    "address": "95 W Speaker St, Sandusky, MI 48471",
+    "phone": "(810) 648-1988",
+    "url": "https://www.sanilaccounty.gov/community/services/",
+    "categorySlug": "community",
+    "zipCode": "48471"
+  },
+  {
+    "name": "Sanilac County MDHHS Office",
+    "description": "State human services office in Sandusky providing SNAP food assistance, Medicaid, TANF, child and adult protective services, and referrals to local resources for all Sanilac County residents including those in the Melvin area.",
+    "address": "515 S Sandusky Ave, Sandusky, MI 48471",
+    "phone": "(810) 648-4420",
+    "url": "https://www.michigan.gov/mdhhs/inside-mdhhs/county-offices/east-michigan/sanilac-county",
+    "categorySlug": "community",
+    "zipCode": "48471"
+  },
+  {
+    "name": "Catholic Charities of Shiawassee & Genesee Counties – Shiawassee Hunger Network",
+    "description": "County-wide food assistance network with pantry locations in Owosso, Corunna, New Lothrop, Vernon, Durand, and more, distributing food and basic needs items weekly to Shiawassee County residents.",
+    "address": "1480 N M-52, Owosso, MI 48867",
+    "phone": "(989) 723-8239",
+    "url": "https://catholiccharitiesflint.org/shiawasseehungernetwork",
+    "categorySlug": "food",
+    "zipCode": "48867"
+  },
+  {
+    "name": "Great Lakes Bay Health Centers – Shiawassee",
+    "description": "Federally Qualified Health Center (FQHC) providing primary medical care, behavioral health, dental, and pharmacy services on a sliding-fee scale to Shiawassee County residents regardless of ability to pay.",
+    "address": "200 Caledonia Dr, Owosso, MI 48867",
+    "phone": "(989) 725-5565",
+    "url": "https://greatlakesbayhealthcenters.org/location/great-lakes-bay-health-center-shiawassee/",
+    "categorySlug": "healthcare",
+    "zipCode": "48867"
+  },
+  {
+    "name": "Blue Water Community Food Depot",
+    "description": "Food pantry serving all St. Clair County residents including those on Harsens Island, providing food distributions open to anyone with a valid food voucher and photo ID. Open Monday, Wednesday, and Friday.",
+    "address": "2408 10th St, Port Huron, MI 48060",
+    "phone": "(810) 987-7886",
+    "url": "https://cscbinfo.org/food-distribution/",
+    "categorySlug": "food",
+    "zipCode": "48060"
+  },
+  {
+    "name": "The Salvation Army Port Huron Corps",
+    "description": "Multi-service organization providing emergency food pantry, utility assistance, financial help, and social services to St. Clair County residents including those in the Harsens Island and Clay Township area.",
+    "address": "2000 Court St, Port Huron, MI 48060",
+    "phone": "(810) 984-2679",
+    "url": "https://centralusa.salvationarmy.org/porthuron/cure-hunger/",
+    "categorySlug": "community",
+    "zipCode": "48060"
+  },
+  {
+    "name": "KeyStone Place",
+    "description": "All-year, all-weather emergency homeless shelter serving St. Joseph County, providing case management, temporary shelter for families and individuals, and essential document and housing navigation assistance.",
+    "address": "505 E Market St, Centreville, MI 49032",
+    "phone": "(269) 467-7078",
+    "url": "https://keystoneplace.org/",
+    "categorySlug": "housing",
+    "zipCode": "49032"
+  },
+  {
+    "name": "Rooted of St. Joseph County",
+    "description": "Nonprofit providing resource coordination, transitional support, and food assistance to foster, guardianship, and kinship families in St. Joseph County, with a resourcing center in downtown Centreville.",
+    "address": "104 W Main St, Centreville, MI 49032",
+    "phone": "",
+    "url": "https://rootedsjc.org/",
+    "categorySlug": "community",
+    "zipCode": "49032"
+  },
+  {
+    "name": "St. Joseph County Human Services Commission",
+    "description": "Coordinates and lists food pantries, emergency assistance programs, and community resources throughout St. Joseph County including the Centreville Food Pantry serving Centreville and Nottawa area residents.",
+    "address": "652 E Main St, Centreville, MI 49032",
+    "phone": "(269) 467-5681",
+    "url": "https://sjchumanservices.com/",
+    "categorySlug": "community",
+    "zipCode": "49032"
+  },
+  {
+    "name": "SAM Food Pantry (Salvation Army Mission) – Tuscola County",
+    "description": "Community food pantry operating out of Tuscola United Methodist Church, providing free groceries to Tuscola County residents including those in the Gagetown and Caro areas. Open Wednesday and Friday mornings.",
+    "address": "134 Prairie St, Tuscola, MI 48769",
+    "phone": "",
+    "url": "https://www.facebook.com/SAMFoodPantryTuscola",
+    "categorySlug": "food",
+    "zipCode": "48735"
+  },
+  {
+    "name": "Tuscola County MDHHS Office",
+    "description": "State human services office providing SNAP food assistance, Medicaid, TANF, cash assistance, and referrals to local resources for all Tuscola County residents including those in the Gagetown area.",
+    "address": "1309 Cleaver Rd, Caro, MI 48723",
+    "phone": "(989) 672-8800",
+    "url": "https://www.michigan.gov/mdhhs/inside-mdhhs/county-offices/east-michigan/tuscola-county",
+    "categorySlug": "community",
+    "zipCode": "48723"
+  },
+  {
+    "name": "InterCare Community Health Network",
+    "description": "Federally qualified health center (FQHC) providing primary care, women's health, dental, behavioral health, and WIC services to patients in Allegan and surrounding counties regardless of ability to pay.",
+    "address": "50 Industrial Park Dr, Bangor, MI 49013",
+    "phone": "(269) 427-7937",
+    "url": "https://intercare.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "49013"
+  },
+  {
+    "name": "Van Buren County MDHHS Office",
+    "description": "State human services office providing SNAP/EBT food assistance, Medicaid, children and adult protective services, and referrals to local resources for Van Buren County residents including the Hartford area.",
+    "address": "57150 CR-681, Hartford, MI 49057",
+    "phone": "(269) 621-2800",
+    "url": "https://www.michigan.gov/mdhhs/inside-mdhhs/county-offices/west-michigan/vanburen-county",
+    "categorySlug": "community",
+    "zipCode": "49057"
+  },
+  {
+    "name": "We Care Community Resource Centers",
+    "description": "Faith-based nonprofit with over 25 programs and pantries serving Van Buren County residents for nearly 40 years, distributing food, clothing, personal care items, baby supplies, and household goods to those in need.",
+    "address": "1301 M-43 Hwy, South Haven, MI 49090",
+    "phone": "(269) 637-4342",
+    "url": "https://www.wecare-inc.org/",
+    "categorySlug": "community",
+    "zipCode": "49090"
+  },
+  {
+    "name": "Food Gatherers",
+    "description": "Washtenaw County's food bank and food rescue organization, partnering with over 150 agencies to distribute free groceries and meals to those in need throughout the Ann Arbor and Saline area.",
+    "address": "1 Carrot Way, Ann Arbor, MI 48105",
+    "phone": "(734) 761-2796",
+    "url": "https://www.foodgatherers.org/",
+    "categorySlug": "food",
+    "zipCode": "48105"
+  },
+  {
+    "name": "Saline Area Social Service",
+    "description": "Community nonprofit serving Saline area residents for over 60 years with a free food pantry, emergency financial aid for rent, utilities, prescriptions, and car repairs, and referrals to additional resources.",
+    "address": "1259 Industrial Dr, Saline, MI 48176",
+    "phone": "(734) 429-4570",
+    "url": "https://salinesocialservice.com/",
+    "categorySlug": "food",
+    "zipCode": "48176"
+  },
+  {
+    "name": "All Saints Catholic Church Food Pantry",
+    "description": "Parish food pantry serving zip codes 48209, 48210, 48216, 48217, 48218, and 48229, open Tuesdays and additional weekday afternoons to provide free groceries to Southwest Detroit households in need.",
+    "address": "4001 W Fort St, Detroit, MI 48209",
+    "phone": "",
+    "url": "https://www.foodpantries.org/ci/mi-detroit",
+    "categorySlug": "food",
+    "zipCode": "48209"
+  },
+  {
+    "name": "Cass Community Social Services",
+    "description": "Detroit-based nonprofit providing emergency homeless shelter, soup kitchen, transitional housing, health services, and job training programs to Detroit's most vulnerable residents since 1917.",
+    "address": "11745 Rosa Parks Blvd, Detroit, MI 48206",
+    "phone": "(313) 883-2277",
+    "url": "https://casscommunity.org/",
+    "categorySlug": "housing",
+    "zipCode": "48226"
+  },
+  {
+    "name": "CHASS Center (Community Health and Social Services Center)",
+    "description": "Federally Qualified Health Center (FQHC) established in 1970 serving Southwest Detroit's underserved African American and Latino communities with comprehensive primary care, dental, WIC, pharmacy, behavioral health, and social services.",
+    "address": "5635 W Fort St, Detroit, MI 48209",
+    "phone": "(313) 849-3920",
+    "url": "https://chasscenter.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "48209"
+  },
+  {
+    "name": "Community Lutheran Church – Helping Hands Food Pantry",
+    "description": "Faith-based food pantry serving Flat Rock residents for over 30 years, providing free food distributions every Wednesday, seasonal holiday meal and gift programs, and referrals to other local services.",
+    "address": "23984 Gibraltar Rd, Flat Rock, MI 48134",
+    "phone": "(734) 782-0563",
+    "url": "https://www.clcflatrock.com/helping-hands/",
+    "categorySlug": "food",
+    "zipCode": "48134"
+  },
+  {
+    "name": "Detroit Rescue Mission Ministries",
+    "description": "One of Detroit's largest housing and addiction treatment providers, offering emergency shelter, transitional housing, rehabilitation programs, and support services to homeless and addicted individuals throughout Metro Detroit since 1909.",
+    "address": "150 Stimson St, Detroit, MI 48201",
+    "phone": "(313) 993-4700",
+    "url": "https://drmm.org/",
+    "categorySlug": "housing",
+    "zipCode": "48201"
+  },
+  {
+    "name": "Gleaners Community Food Bank of Southeastern Michigan",
+    "description": "Regional food bank serving Wayne, Oakland, Macomb, Livingston, and Monroe counties by distributing millions of pounds of food annually through a network of 500+ partner agencies and mobile pantry locations across Metro Detroit.",
+    "address": "2131 Beaufait St, Detroit, MI 48207",
+    "phone": "(313) 923-3535",
+    "url": "https://www.gcfb.org/",
+    "categorySlug": "food",
+    "zipCode": "48207"
+  },
+  {
+    "name": "Southwest Solutions",
+    "description": "Nonprofit serving over 13,500 Southwest Detroit residents annually with affordable and supportive housing, mental health counseling, veteran services, job training, adult literacy, and financial coaching.",
+    "address": "1700 Waterman St, Detroit, MI 48209",
+    "phone": "(313) 841-7474",
+    "url": "https://swsol.org/",
+    "categorySlug": "housing",
+    "zipCode": "48209"
+  },
+  {
+    "name": "St. Mary Community Outreach Center",
+    "description": "Parish-based outreach center providing a free food pantry by appointment to Wayne-area residents Monday, Wednesday, and Friday mornings, along with emergency assistance referrals.",
+    "address": "34530 W Michigan Ave, Wayne, MI 48184",
+    "phone": "(734) 326-2234",
+    "url": "https://stmarywayne.org/st-mary-community-outreach-center",
+    "categorySlug": "food",
+    "zipCode": "48184"
+  },
+  {
+    "name": "Wayne Metro Community Action Agency",
+    "description": "Community action agency providing food box distribution, nutrition education, utility and housing assistance, and self-sufficiency programs to Wayne County residents including western suburbs.",
+    "address": "8300 N Merriman Rd, Westland, MI 48185",
+    "phone": "(734) 595-0264",
+    "url": "https://www.waynemetro.org/food/",
+    "categorySlug": "community",
+    "zipCode": "48185"
+  },
+  {
+    "name": "Family Life Center – Living Light Christian Church",
+    "description": "Faith-based nonprofit ministry reaching out to Wexford-Missaukee area residents with free food pantry distributions and emergency assistance, staffed by volunteers. Open Wednesdays from 9 a.m. to noon.",
+    "address": "7700 W Blue Rd, Cadillac, MI 49601",
+    "phone": "(231) 839-2244",
+    "url": "https://www.livinglightchurch.com/family-life-center/",
+    "categorySlug": "food",
+    "zipCode": "49601"
+  },
+  {
+    "name": "Northwest Michigan Community Action Agency (NMCAA) – Cadillac Office",
+    "description": "Community action agency serving Wexford, Missaukee, and Roscommon counties with food assistance (TEFAP, CSFP commodity food), emergency rental and utility assistance, housing programs, weatherization, Head Start, and senior meal programs.",
+    "address": "1640 Marty Paul, Cadillac, MI 49601",
+    "phone": "(231) 775-9781",
+    "url": "https://nmcaa.net/wexford-county/",
+    "categorySlug": "community",
+    "zipCode": "49601"
+  },
+  {
+    "name": "The Salvation Army Cadillac Corps",
+    "description": "Provides emergency food pantry, social services counseling, utility and energy assistance, and Pathway of Hope case management services to Wexford County residents including the Harrietta area.",
+    "address": "402 N Mitchell St, Cadillac, MI 49601",
+    "phone": "(231) 775-7131",
+    "url": "https://centralusa.salvationarmy.org/Cadillac/overcome-poverty/",
+    "categorySlug": "food",
+    "zipCode": "49601"
+  }
+]

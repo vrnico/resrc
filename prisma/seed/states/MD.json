@@ -243,7 +243,7 @@
     "name": "Maryland Transit Administration (MTA)",
     "description": "Operates bus, light rail, subway, and commuter rail in the Baltimore metropolitan area. Offers reduced fare programs for seniors, people with disabilities, and Medicare card holders.",
     "categorySlug": "transportation",
-    "scope": "city",
+    "scope": "state",
     "url": "https://www.mta.maryland.gov/",
     "phone": "410-539-5000",
     "address": null,
@@ -267,7 +267,7 @@
     "hours": "Monday-Friday, 8:00 AM - 5:00 PM",
     "languages": "English, Spanish",
     "stateCode": "MD",
-    "county": null
+    "county": "Baltimore city"
   },
   {
     "name": "Montgomery County Health and Human Services",
@@ -282,7 +282,7 @@
     "hours": "Monday-Friday, 8:30 AM - 5:00 PM",
     "languages": "English, Spanish, Chinese, Vietnamese, Korean, French",
     "stateCode": "MD",
-    "county": null
+    "county": "Montgomery"
   },
   {
     "name": "Prince George's County Social Services",
@@ -297,7 +297,7 @@
     "hours": "Monday-Friday, 8:00 AM - 5:00 PM",
     "languages": "English, Spanish",
     "stateCode": "MD",
-    "county": null
+    "county": "Prince Georges"
   },
   {
     "name": "Maryland Weatherization Assistance Program",

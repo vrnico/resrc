@@ -1,0 +1,4502 @@
+[
+  {
+    "name": "Bread of the Mighty Food Bank",
+    "description": "Provides food to agency partners (churches, etc.) who then distribute it to their communities. They have 15 to 20 distribution sites monthly within their five-county service area. Also provides Meals on Wheels for seniors and help for migrant workers.",
+    "address": "325 NW 10 Ave, Gainesville, FL 32601",
+    "phone": "(352) 336-0839",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "32601"
+  },
+  {
+    "name": "Ignite Life Center",
+    "description": "Partners with Bread of the Mighty Food Bank for food distribution. Distributes free groceries on the last Wednesday of every month at 6 PM.",
+    "address": "404 NW 14th Ave, Gainesville, FL 32601",
+    "phone": "",
+    "url": "https://ignitelifecenter.org",
+    "categorySlug": "food",
+    "zipCode": "32601"
+  },
+  {
+    "name": "The Salvation Army - Gainesville",
+    "description": "Offers a food pantry for Alachua County residents. Appointment and ID are typically required. Schedule: Monday - Thursday, 9 am - 12 pm. Closed daily 12:00 - 1:00 PM.",
+    "address": "639 East University Avenue, Gainesville, FL 32601",
+    "phone": "352-376-1743",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "32601"
+  },
+  {
+    "name": "Gainesville Community Ministries",
+    "description": "Provides emergency food for the elderly, disabled, and low-income families. Schedule: Monday - Thursday, 9 am - 1 pm. Documentation needed: Photo ID, Social Security Card, and proof of income.",
+    "address": "238 SW 4th Ave, Gainesville, FL 32601",
+    "phone": "(352) 372-8162",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "32601"
+  },
+  {
+    "name": "The Praize Center",
+    "description": "Provides a food pantry. Offers a pre-paid food card to qualifying victims of fire or disaster. Hours are Monday - Friday, 9:00 AM - 5:00 PM.",
+    "address": "Gainesville, FL 32601",
+    "phone": "(352) 376-4669",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "32601"
+  },
+  {
+    "name": "Upper Room Church - Food Pantry",
+    "description": "Food pantry services.",
+    "address": "3575 NE 15th St, Gainesville, FL",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "32601"
+  },
+  {
+    "name": "Mount Olive AME Church",
+    "description": "Food pantry services. Service hours: 2nd and 3rd Saturday every month at 9 am (until supplies last). Documentation: none.",
+    "address": "721 SE 8th St, Gainesville, FL 32601",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "32601"
+  },
+  {
+    "name": "Gainesville Harvest, Inc.",
+    "description": "Food bank serving the Gainesville area.",
+    "address": "4550 SW 41st Blvd, Suite 1, Gainesville, FL 32608",
+    "phone": "352.378.3663",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "32608"
+  },
+  {
+    "name": "GRACE Marketplace",
+    "description": "Offers 130 beds across four programs for men, women, couples, and veterans. Provides a wide range of supportive services, including intake, referral, substance abuse and mental health counseling, and case management. Activates severe weather shelter protocols during cold or severe storms.",
+    "address": "3055 NE 28th Drive, Gainesville, FL 32609",
+    "phone": "",
+    "url": "https://gracemarketplace.org",
+    "categorySlug": "housing",
+    "zipCode": "32609"
+  },
+  {
+    "name": "St. Francis House",
+    "description": "Provides safe shelter and essential support for women and families experiencing homelessness. Offers emergency shelter for women and families with children, including night shelter services, meals, individualized case plans, and laundry access.",
+    "address": "Gainesville, FL 32601",
+    "phone": "",
+    "url": "https://stfrancishousegnv.com",
+    "categorySlug": "housing",
+    "zipCode": "32601"
+  },
+  {
+    "name": "Family Promise of Gainesville",
+    "description": "Focuses on families with children, providing shelter, meals, and social services. Adults entering their program are required to be enrolled in school or employed within ten days.",
+    "address": "Gainesville, FL 32601",
+    "phone": "",
+    "url": "https://familypromisegvl.org",
+    "categorySlug": "housing",
+    "zipCode": "32601"
+  },
+  {
+    "name": "Peaceful Paths",
+    "description": "Certified domestic abuse network offering emergency shelter, transitional housing, a crisis hotline, and other services for survivors of domestic violence in Alachua, Bradford, and Union counties.",
+    "address": "2100 NW 53rd Ave, Gainesville, FL 32653",
+    "phone": "(352) 377-8255",
+    "url": "",
+    "categorySlug": "housing",
+    "zipCode": "32653"
+  },
+  {
+    "name": "The Salvation Army Shelter Gainesville",
+    "description": "Provides shelter services.",
+    "address": "639 E. University Ave, Gainesville, FL 32601",
+    "phone": "",
+    "url": "",
+    "categorySlug": "housing",
+    "zipCode": "32601"
+  },
+  {
+    "name": "Interfaith Hospitality Network",
+    "description": "Provides shelter for homeless families with children, though there is a waiting list and an interview process for acceptance.",
+    "address": "Gainesville, FL 32601",
+    "phone": "",
+    "url": "",
+    "categorySlug": "housing",
+    "zipCode": "32601"
+  },
+  {
+    "name": "Newberry United Methodist Church Harvest Food Pantry",
+    "description": "Harvest Food Pantry serving those with insufficient food for their family's needs. Items distributed every Monday and Wednesday morning at 10:00 a.m.",
+    "address": "24845 West Newberry Road, Newberry, FL 32669",
+    "phone": "352-472-4005",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "32669"
+  },
+  {
+    "name": "St Joseph's Episcopal Church Food Pantry",
+    "description": "Community food pantry provided on the first and third Tuesday of each month.",
+    "address": "16921 West Newberry Road, Newberry, FL 32669",
+    "phone": "352-472-2951",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "32669"
+  },
+  {
+    "name": "Blessed Hope Foundation",
+    "description": "Provides food assistance to people in Alachua County experiencing food insecurity. Open Tuesday 7:00 AM - 12:00 PM.",
+    "address": "26821 West Newberry Road, Newberry, FL 32669",
+    "phone": "352-226-0130",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "32669"
+  },
+  {
+    "name": "Samaritan Food Bank - Baker County Minister's Association",
+    "description": "Food pantry serving Macclenny and Baker County residents at no cost.",
+    "address": "590 N. 7th Street, Macclenny, FL 32063",
+    "phone": "904-259-1199",
+    "url": "https://rightservicefl.org/node/17096",
+    "categorySlug": "food",
+    "zipCode": "32063"
+  },
+  {
+    "name": "Northeast Florida Community Action Agency - Baker County",
+    "description": "Provides emergency financial assistance for utility costs (LIHEAP) to income-qualified families in Baker County.",
+    "address": "96 West Lowder Street, Macclenny, FL 32063",
+    "phone": "",
+    "url": "",
+    "categorySlug": "utilities",
+    "zipCode": "32063"
+  },
+  {
+    "name": "Catholic Charities of Panama City",
+    "description": "Food pantry serving Bay, Calhoun, Gulf, Holmes, Jackson, and Washington counties. Hours: Monday - Thursday 10:00 am - 2:00 pm.",
+    "address": "3128 E. 11th Street, Panama City, FL 32401",
+    "phone": "850-763-0475",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "32401"
+  },
+  {
+    "name": "Panama City Rescue Mission",
+    "description": "Faith-based transitional program offering homeless services and food assistance in Panama City.",
+    "address": "609 Allen Ave, Panama City, FL 32401",
+    "phone": "850-769-0783",
+    "url": "https://www.pcrmission.org/",
+    "categorySlug": "housing",
+    "zipCode": "32401"
+  },
+  {
+    "name": "Callaway First Baptist Church Food Pantry",
+    "description": "Free food pantry open every 3rd Friday of the month for Bay County families.",
+    "address": "640 E Hwy 22, Panama City, FL 32404",
+    "phone": "850-871-2772",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "32404"
+  },
+  {
+    "name": "Family Service Agency of Bay County",
+    "description": "Nonprofit helping keep people fed, sheltered, and employed in Bay County since 1954.",
+    "address": "Panama City, FL 32401",
+    "phone": "",
+    "url": "https://familyserviceagencypc.org/",
+    "categorySlug": "community",
+    "zipCode": "32401"
+  },
+  {
+    "name": "We Care Ministry - Panama City Beach",
+    "description": "Food pantry dedicated to serving residents of Panama City Beach.",
+    "address": "Panama City Beach, FL 32408",
+    "phone": "",
+    "url": "https://woodlawnpcb.info/wecare",
+    "categorySlug": "food",
+    "zipCode": "32408"
+  },
+  {
+    "name": "Bradford Ecumenical Ministries Food Pantry",
+    "description": "Collects, stores, and distributes food to those in need in Bradford and Union counties. Open Friday 11:00 AM - 1:00 PM. Photo ID and proof of Bradford residence required.",
+    "address": "2226 N. Temple Ave., Starke, FL 32091",
+    "phone": "904-964-3984",
+    "url": "https://foodbanksinflorida.org/food-bank/bradford-ecumenical-ministries/",
+    "categorySlug": "food",
+    "zipCode": "32091"
+  },
+  {
+    "name": "True Vine Ministry",
+    "description": "Distributes food to all families in need in Bradford County. Hours: Monday 10:30am - 11:30am. Food distributed in partnership with USDA.",
+    "address": "Starke, FL 32091",
+    "phone": "904-964-9264",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "32091"
+  },
+  {
+    "name": "North Brevard Charities Sharing Center Food Pantry",
+    "description": "Nonprofit food pantry serving North Brevard County. Open Tuesday and Friday 11:00 a.m. - 3:00 p.m.",
+    "address": "412 Main Street, Titusville, FL 32780",
+    "phone": "321-269-6555",
+    "url": "https://northbrevardcharities.org/what-we-do/food-pantry.html",
+    "categorySlug": "food",
+    "zipCode": "32780"
+  },
+  {
+    "name": "No One Hungry - Pine St Pantry",
+    "description": "501(c)(3) nonprofit operating the Pine St Pantry in downtown Titusville. Open Tuesdays 10am to Noon.",
+    "address": "418 Pine St, Titusville, FL 32780",
+    "phone": "",
+    "url": "https://www.noonehungryfl.org/",
+    "categorySlug": "food",
+    "zipCode": "32780"
+  },
+  {
+    "name": "North Brevard Charities Homeless Recovery Center",
+    "description": "Low-dependency care center for post-hospitalized homeless in Brevard County. Provides temporary shelter, meals, clothing, and prescription assistance at no cost.",
+    "address": "4495 South Hopkins Avenue, Titusville, FL 32780",
+    "phone": "321-269-6555",
+    "url": "https://northbrevardcharities.org/",
+    "categorySlug": "housing",
+    "zipCode": "32780"
+  },
+  {
+    "name": "Providence Connects",
+    "description": "Provides services designed to walk alongside individuals experiencing hunger or homelessness in Brevard County.",
+    "address": "Melbourne, FL 32901",
+    "phone": "",
+    "url": "https://www.providenceconnects.org",
+    "categorySlug": "housing",
+    "zipCode": "32901"
+  },
+  {
+    "name": "Sharing Center of Central Brevard",
+    "description": "Emergency assistance for basic needs including food pantry. Serves zip codes including 32920, 32922, 32927, 32931, 32937, 32940, 32955. Open Monday - Friday 9:00 a.m. - 12:00 p.m. and 1:00 p.m. - 3:00 p.m.",
+    "address": "113 Aurora St., Cocoa, FL 32922",
+    "phone": "",
+    "url": "https://sharingcenter.org/",
+    "categorySlug": "food",
+    "zipCode": "32922"
+  },
+  {
+    "name": "Family Promise of Brevard",
+    "description": "Provides emergency shelter and transitional housing services for families experiencing homelessness in Brevard County.",
+    "address": "Brevard County, FL",
+    "phone": "",
+    "url": "https://www.familypromiseofbrevard.org/",
+    "categorySlug": "housing",
+    "zipCode": "32901"
+  },
+  {
+    "name": "St. Joseph's St. Vincent De Paul Food Pantry - Palm Bay",
+    "description": "Serves zip codes 32905, 32907, and 32909. Open Monday-Friday 9:30 a.m. to noon. Also assists with utility payments, pharmaceuticals, and bus passes.",
+    "address": "2824 Palm Bay Road, Palm Bay, FL 32905",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "32905"
+  },
+  {
+    "name": "Saint Vincent de Paul Our Lady of Grace Parish Food Pantry",
+    "description": "Local food pantry serving the Palm Bay community.",
+    "address": "300 Malabar Road SE, Palm Bay, FL 32907",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "32907"
+  },
+  {
+    "name": "The Salvation Army Cocoa",
+    "description": "Provides food, shelter, clothing, and safety to those in need in Brevard County.",
+    "address": "919 Peachtree St, Cocoa, FL 32922",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "32922"
+  },
+  {
+    "name": "The Children's Hunger Project",
+    "description": "Addresses child hunger in Brevard County by providing food assistance.",
+    "address": "26 Forrest Ave., Cocoa, FL 32922",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "32922"
+  },
+  {
+    "name": "House of Hope - First Baptist Church of Merritt Island",
+    "description": "Provides food pantry, clothing closet, case management, and transitional housing for men.",
+    "address": "335 Magnolia Ave., Merritt Island, FL 32952",
+    "phone": "321-453-0318",
+    "url": "https://www.houseofhope-mi.org/",
+    "categorySlug": "housing",
+    "zipCode": "32952"
+  },
+  {
+    "name": "Saint Vincent de Paul Divine Mercy Parish Food Pantry",
+    "description": "Local food pantry serving Merritt Island residents.",
+    "address": "1940 North Courtenay Parkway, Merritt Island, FL 32952",
+    "phone": "321-459-2060",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "32952"
+  },
+  {
+    "name": "Grace United Methodist Church Food Pantry",
+    "description": "Community food pantry serving Merritt Island residents.",
+    "address": "65 Needle Blvd., Merritt Island, FL 32952",
+    "phone": "321-452-2420",
+    "url": "https://gumcmi.com/ministries/outreach-ministry/",
+    "categorySlug": "food",
+    "zipCode": "32952"
+  },
+  {
+    "name": "Grace Life Church Food Pantry - Rockledge",
+    "description": "Local food pantry serving Rockledge and surrounding Brevard County communities.",
+    "address": "3420 Murrell Blvd., Rockledge, FL 32955",
+    "phone": "321-636-3051",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "32955"
+  },
+  {
+    "name": "South Brevard Sharing Center",
+    "description": "Provides emergency assistance for basic needs including food to residents of South Brevard County.",
+    "address": "South Brevard County, FL",
+    "phone": "",
+    "url": "https://mysharingcenter.org/",
+    "categorySlug": "food",
+    "zipCode": "32976"
+  },
+  {
+    "name": "Hallandale Human Services - Hepburn Center",
+    "description": "Community assistance center providing food and social services to Hallandale Beach residents.",
+    "address": "750 N.W. 8th Avenue, Hallandale, FL 33009",
+    "phone": "954-457-1460",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "33009"
+  },
+  {
+    "name": "Jubilee Center of South Broward Food Pantry",
+    "description": "Local food pantry serving Hollywood residents.",
+    "address": "2020 Scott Street, Hollywood, FL 33020",
+    "phone": "954-920-0106",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "33020"
+  },
+  {
+    "name": "Liberia Economic & Social Development Food Pantry",
+    "description": "Community food pantry serving Hollywood residents.",
+    "address": "2334 Greene Street, Hollywood, FL 33020",
+    "phone": "954-924-3635",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "33020"
+  },
+  {
+    "name": "Light House Community Church Food Pantry",
+    "description": "Local food pantry serving the Dania Beach community.",
+    "address": "700 S. Federal Highway, Dania Beach, FL 33004",
+    "phone": "954-923-8660",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "33004"
+  },
+  {
+    "name": "Hope Outreach Center",
+    "description": "Serves low-income families, seniors, and individuals facing homelessness in Broward County for over 30 years with food and community assistance programs.",
+    "address": "4700 S.W. 64th Avenue, Suite A, Davie, FL 33314",
+    "phone": "954-321-0909",
+    "url": "https://hopeoutreachfl.org",
+    "categorySlug": "food",
+    "zipCode": "33023"
+  },
+  {
+    "name": "Catholic Charities Northwest Florida Food Pantry - Panama City",
+    "description": "Food pantry providing food to individuals and families. Open Monday - Thursday 10 a.m. - 2 p.m.",
+    "address": "3128 E. 11th Street, Panama City, FL 32401",
+    "phone": "850-763-0475",
+    "url": "https://ccnwfl.org/food-assistance/",
+    "categorySlug": "food",
+    "zipCode": "32401"
+  },
+  {
+    "name": "A Hand Up Ministry Food Pantry",
+    "description": "Food assistance available by appointment on Tuesday and Friday.",
+    "address": "819 E 11th St, Building 1, Panama City, FL 32401",
+    "phone": "850-257-5786",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "32401"
+  },
+  {
+    "name": "Broward Partnership Central Homeless Assistance Center",
+    "description": "Emergency shelter with walk-up intake for individuals and families experiencing homelessness in Broward County.",
+    "address": "920 NW 7th Ave, Fort Lauderdale, FL 33311",
+    "phone": "",
+    "url": "",
+    "categorySlug": "housing",
+    "zipCode": "33311"
+  },
+  {
+    "name": "Our Father's House Soup Kitchen",
+    "description": "501(c)(3) nonprofit charity in Pompano Beach dedicated to serving those experiencing homelessness and need without discrimination.",
+    "address": "Pompano Beach, FL 33060",
+    "phone": "",
+    "url": "https://ofhsoupkitchen.org/",
+    "categorySlug": "food",
+    "zipCode": "33060"
+  },
+  {
+    "name": "Blessings Food Pantry - Pompano Beach",
+    "description": "Local food pantry serving the Pompano Beach community.",
+    "address": "210 NE 3rd Street, Pompano Beach, FL 33060",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "33060"
+  },
+  {
+    "name": "Northwest Focal Point - Margate",
+    "description": "Community resource center providing food and social services to Margate residents.",
+    "address": "6009 NW 10th St, Margate, FL 33063",
+    "phone": "",
+    "url": "",
+    "categorySlug": "community",
+    "zipCode": "33063"
+  },
+  {
+    "name": "Soref JCC WECARE Food Pantry",
+    "description": "Provides approximately 3,600 bags of free groceries annually to neighbors in need regardless of race, religion, age, gender, or ethnicity.",
+    "address": "6501 West Sunrise Boulevard, Plantation, FL 33313",
+    "phone": "954-792-6700",
+    "url": "https://www.sorefjcc.org/wecare/wecare-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "33313"
+  },
+  {
+    "name": "The Pantry of Broward",
+    "description": "Feeds seniors in need on low fixed incomes and grandparents raising grandchildren. Open Monday through Friday 8:00am to 3:00pm.",
+    "address": "2800 West State Road 84, Suite 101, Fort Lauderdale, FL 33312",
+    "phone": "",
+    "url": "https://www.thepantryofbroward.org/",
+    "categorySlug": "food",
+    "zipCode": "33312"
+  },
+  {
+    "name": "HOPE South Florida",
+    "description": "Provides shared meals, day-center, and family homelessness services in Fort Lauderdale.",
+    "address": "2701 W Cypress Creek Rd, Fort Lauderdale, FL 33309",
+    "phone": "",
+    "url": "",
+    "categorySlug": "housing",
+    "zipCode": "33309"
+  },
+  {
+    "name": "Project Lifeline - United Way Broward",
+    "description": "Coordinates delivery of fresh nutritious food including produce, meat, and grains to 33 local food pantries and feeding programs across Broward County.",
+    "address": "Fort Lauderdale, FL 33301",
+    "phone": "",
+    "url": "https://www.unitedwaybroward.org/project-lifeline",
+    "categorySlug": "food",
+    "zipCode": "33301"
+  },
+  {
+    "name": "Hope Outreach Center - Davie",
+    "description": "Serves low-income families, seniors, and individuals facing homelessness in Broward County for over 30 years. Offers food and emergency assistance.",
+    "address": "4700 S.W. 64th Avenue, Suite A, Davie, FL 33314",
+    "phone": "954-321-0909",
+    "url": "https://hopeoutreachfl.org",
+    "categorySlug": "food",
+    "zipCode": "33325"
+  },
+  {
+    "name": "St. Bonaventure Catholic Church Food Pantry",
+    "description": "Local food pantry for Davie residents.",
+    "address": "1301 S.W. 136th Avenue, Davie, FL 33325",
+    "phone": "954-424-9504",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "33325"
+  },
+  {
+    "name": "Sunrise Senior Center Food Pantry",
+    "description": "Food pantry at the Sunrise Senior Center serving seniors in the Sunrise and Tamarac area.",
+    "address": "10650 W. Oakland Park Boulevard, Sunrise, FL 33351",
+    "phone": "954-746-3670",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "33351"
+  },
+  {
+    "name": "Nina's Place Deerfield Beach",
+    "description": "Community food pantry open Saturdays 9:00 a.m. to 2:00 p.m. for neighbors in 33441, 33442, 33064, 33060, 33062, and 33069. Offers fresh produce, meat, dairy, and dry goods.",
+    "address": "959 SE 6th Avenue, Deerfield Beach, FL 33441",
+    "phone": "954-421-3146",
+    "url": "https://www.ninasplacedfb.org/",
+    "categorySlug": "food",
+    "zipCode": "33441"
+  },
+  {
+    "name": "Christian Love Fellowship Church Food Pantry",
+    "description": "Food pantry open Monday, Wednesday, Friday 10:30 AM - 2 PM and Sunday 9 - 11 AM.",
+    "address": "801 SE 10th St, Deerfield Beach, FL 33441",
+    "phone": "954-428-8980",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "33441"
+  },
+  {
+    "name": "Gateway Community Outreach",
+    "description": "Food pantry serving Deerfield Beach; call before visiting. Available Monday - Friday 9:00 AM - 4:00 PM.",
+    "address": "701 NE 2nd St., Deerfield Beach, FL 33441",
+    "phone": "954-725-8434",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "33441"
+  },
+  {
+    "name": "Calhoun-Liberty Ministry Center Food Pantry",
+    "description": "Food pantry open Tuesdays, Wednesdays, and Thursdays 9:00 a.m. to 12:00 p.m. One application per year based on USDA income levels. No ID required.",
+    "address": "21754 State Road 20 East, Blountstown, FL 32424",
+    "phone": "850-447-1959",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "32424"
+  },
+  {
+    "name": "Chipola Community Church Food Giveaway",
+    "description": "Monthly food giveaway on the 4th Saturday of the month from 7:30 a.m. to 9:30 a.m. for Calhoun County residents.",
+    "address": "16555 NE Jim Godwin Rd, Altha, FL 32421",
+    "phone": "850-372-2113",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "32421"
+  },
+  {
+    "name": "Innovative Charities Calhoun",
+    "description": "Drive-thru food giveaways on Thursdays 9:00 a.m. to 11:00 a.m. for Calhoun County residents. SNAP/SSI recipients automatically qualify.",
+    "address": "12122 SR 20 W, Clarksville, FL 32430",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "32430"
+  },
+  {
+    "name": "Community Life Center Outreach",
+    "description": "Nonprofit food pantry serving between 1,000-1,200 people each week in Port Charlotte and Charlotte County.",
+    "address": "Port Charlotte, FL 33948",
+    "phone": "",
+    "url": "https://communitylifecenteroutreachinc.org/",
+    "categorySlug": "food",
+    "zipCode": "33948"
+  },
+  {
+    "name": "Community Resource Center of Punta Gorda",
+    "description": "Provides food pantry services for those in need. Open Friday 10:00am - 12:30pm.",
+    "address": "Port Charlotte, FL 33948",
+    "phone": "941-625-3039",
+    "url": "https://www.foodpantries.org/li/fl_33948_community-resource-center-of-punta-gorda-inc",
+    "categorySlug": "food",
+    "zipCode": "33948"
+  },
+  {
+    "name": "Salvation Army - Port Charlotte",
+    "description": "Food pantry open Monday - Thursday 9:00am - 2:00pm. Hot meals served every Monday, Wednesday and Friday.",
+    "address": "Port Charlotte, FL 33952",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "33952"
+  },
+  {
+    "name": "Discipleship Driven Ministries - Samaritan's Pantry",
+    "description": "Local food pantry serving Punta Gorda area. Open Monday 1-4 pm and Tuesday 1-6 pm.",
+    "address": "4040 Tamiami Trail, Punta Gorda, FL 33950",
+    "phone": "941-764-8458",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "33950"
+  },
+  {
+    "name": "Charlotte County Homeless Coalition - Charlotte CARE Center",
+    "description": "Emergency shelter program for individuals, families, and Veterans in crisis for up to 30 days. Includes case management, employment support, and hot meals 365 days a year.",
+    "address": "1476 Kenesaw St., Port Charlotte, FL 33948",
+    "phone": "941-627-4313",
+    "url": "https://www.cchomelesscoalition.org/",
+    "categorySlug": "housing",
+    "zipCode": "33948"
+  },
+  {
+    "name": "St. Vincent de Paul CARES Charlotte County",
+    "description": "Provides hunger prevention, shelter, and homeless services through the Charlotte CARE Center.",
+    "address": "Port Charlotte, FL 33950",
+    "phone": "",
+    "url": "https://www.svdpsp.org/service-areas/charlotte-county/",
+    "categorySlug": "food",
+    "zipCode": "33950"
+  },
+  {
+    "name": "East Coast Christian Center Food Pantry",
+    "description": "Community food pantry serving Merritt Island and surrounding Brevard County areas.",
+    "address": "670 North Courtenay Parkway, Merritt Island, FL 32952",
+    "phone": "321-452-1060",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "32952"
+  },
+  {
+    "name": "Saint Vincent de Paul Our Saviour Parish Food Pantry",
+    "description": "Local food pantry serving the Cocoa Beach community.",
+    "address": "130 Cleveland Ave., Cocoa Beach, FL 32931",
+    "phone": "321-799-3677",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "32931"
+  },
+  {
+    "name": "First United Methodist Church Cocoa Beach Food Pantry",
+    "description": "Community food pantry open the third Sunday of every month from 1:00-3:00 p.m.",
+    "address": "Cocoa Beach, FL 32931",
+    "phone": "",
+    "url": "https://www.fumccb.com/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "32931"
+  },
+  {
+    "name": "Pentecostal Gospel Temple Ministries Food Pantry",
+    "description": "Local food pantry serving the Margate and Pompano Beach communities.",
+    "address": "441 S. State Road 7, Suite 12, Margate, FL 33068",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "33068"
+  },
+  {
+    "name": "Project Response",
+    "description": "Food pantry and community assistance serving Melbourne and Brevard County residents.",
+    "address": "745 South Apollo Blvd., Melbourne, FL 32901",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "32901"
+  },
+  {
+    "name": "Dare to Care - Fort Lauderdale",
+    "description": "Community organization providing food assistance and support services to those in need in Broward County.",
+    "address": "Fort Lauderdale, FL 33301",
+    "phone": "",
+    "url": "https://www.daretocareint.org/",
+    "categorySlug": "food",
+    "zipCode": "33301"
+  },
+  {
+    "name": "Haitian Evangelical Baptist Church Food Pantry",
+    "description": "Food pantry serving the Pompano Beach community including Haitian residents.",
+    "address": "153 NW 12th St, Pompano Beach, FL 33060",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "33060"
+  },
+  {
+    "name": "Bread of the Mighty Food Bank",
+    "description": "Takes a holistic approach to nourishing the community by rescuing surplus food and sharing through local pantries across Alachua, Dixie, Gilchrist, Lafayette, and Levy counties.",
+    "address": "Gainesville, FL 32601",
+    "phone": "",
+    "url": "https://breadofthemighty.org/",
+    "categorySlug": "food",
+    "zipCode": "32662"
+  },
+  {
+    "name": "Gulf Coast Partnership",
+    "description": "Serves as a Coordinated Entry Access Point for individuals and families facing a housing crisis in Charlotte County. Conducts assessments and connects to housing programs.",
+    "address": "Port Charlotte, FL 33948",
+    "phone": "",
+    "url": "https://www.gulfcoastpartnership.org/",
+    "categorySlug": "housing",
+    "zipCode": "33948"
+  },
+  {
+    "name": "First Presbyterian Church of Port Charlotte Food Pantry",
+    "description": "Church-based food pantry serving Port Charlotte and Charlotte County residents.",
+    "address": "Port Charlotte, FL 33952",
+    "phone": "",
+    "url": "https://fpcpc.com/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "33952"
+  },
+  {
+    "name": "Charlotte County Health Plus Community Action",
+    "description": "Provides food assistance and community action services. Open Monday, Wednesday, Friday 1pm - 2:30pm.",
+    "address": "3082 Tamiami Trail, Port Charlotte, FL 33952",
+    "phone": "941-625-4343",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "33952"
+  },
+  {
+    "name": "Wholeness To Freedom Ministries",
+    "description": "Provides food pantry and community services to Melbourne and Brevard County residents.",
+    "address": "1619 Ferndale Ave., Melbourne, FL 32935",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "32935"
+  },
+  {
+    "name": "River Run Christian Church Food Pantry",
+    "description": "Local food pantry serving Melbourne and Brevard County area residents.",
+    "address": "1660 Croton Road, Melbourne, FL 32935",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "32935"
+  },
+  {
+    "name": "Salvation Army - Melbourne",
+    "description": "Provides food, shelter, clothing, and safety services to those in need in South Brevard County.",
+    "address": "1080 Hickory St., Melbourne, FL 32901",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "32901"
+  },
+  {
+    "name": "A Village For All - Brevard Food Assistance",
+    "description": "Provides food assistance and social services to Brevard County residents.",
+    "address": "Brevard County, FL",
+    "phone": "",
+    "url": "https://avillageforall.org/food-assistance/",
+    "categorySlug": "food",
+    "zipCode": "32940"
+  },
+  {
+    "name": "Cor Jesu at Saint Theresa Catholic Church Food Pantry",
+    "description": "Local food pantry serving Titusville area residents.",
+    "address": "2306 South Hopkins Ave., Titusville, FL 32780",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "32780"
+  },
+  {
+    "name": "Salvation Army Lecanto Food Pantry",
+    "description": "Food pantry providing groceries to residents in need in Citrus County. Clients must sign in at office at least 15 minutes prior to pantry closing time.",
+    "address": "712 S. School Ave, Lecanto, FL 34461",
+    "phone": "(352) 513-4960",
+    "url": "https://www.salvationarmyflorida.org",
+    "categorySlug": "food",
+    "zipCode": "34461"
+  },
+  {
+    "name": "DayStar Life Center Brooksville",
+    "description": "All-volunteer organization helping needy families in Brooksville and Spring Hill with food and other assistance.",
+    "address": "20428 Cortez Blvd, Brooksville, FL 34601",
+    "phone": "",
+    "url": "http://daystarlifecenter.org",
+    "categorySlug": "food",
+    "zipCode": "34461"
+  },
+  {
+    "name": "Food Pantry of Green Cove Springs",
+    "description": "Local food pantry serving Green Cove Springs and Clay County residents with food assistance Monday through Friday.",
+    "address": "1107 Martin Luther King Jr Blvd, Green Cove Springs, FL 32043",
+    "phone": "",
+    "url": "https://www.homelessshelterdirectory.org/cgi-bin/id/foodbank.cgi?foodbank=111",
+    "categorySlug": "food",
+    "zipCode": "32043"
+  },
+  {
+    "name": "Northeast Florida Community Action Agency - Green Cove Springs",
+    "description": "Community action agency providing emergency assistance programs including help with utilities, temporary food supplies, and referrals in Clay County.",
+    "address": "321 Walnut Street, Green Cove Springs, FL 32043",
+    "phone": "(904) 529-2200",
+    "url": "https://www.nefcaa.org",
+    "categorySlug": "utilities",
+    "zipCode": "32043"
+  },
+  {
+    "name": "The Clothes Closet and Food Pantry - Orange Park",
+    "description": "Nonprofit food pantry and clothing closet serving Clay County residents. Open Monday-Friday and select Saturdays 9am-12pm.",
+    "address": "1010 Fromhart Street, Orange Park, FL 32065",
+    "phone": "",
+    "url": "https://www.ccfpop.org",
+    "categorySlug": "food",
+    "zipCode": "32065"
+  },
+  {
+    "name": "Good Samaritan Ministry of Orange Park United Methodist Church",
+    "description": "Nonprofit organization dedicated to collecting, storing, and distributing food to those in need in Clay County.",
+    "address": "Orange Park, FL 32065",
+    "phone": "(904) 264-2241",
+    "url": "https://foodbanksinflorida.org/food-bank/the-good-samaritan-ministry-of-orange-park-united-methodist-church/",
+    "categorySlug": "food",
+    "zipCode": "32065"
+  },
+  {
+    "name": "St. Matthew's House Naples",
+    "description": "Crisis response food pantry serving Collier County residents with groceries and hygiene products through a client-choice pantry and drive-thru food distributions.",
+    "address": "Naples, FL 34102",
+    "phone": "",
+    "url": "https://stmatthewshouse.org/our-programs/crisis-response/",
+    "categorySlug": "food",
+    "zipCode": "34102"
+  },
+  {
+    "name": "The Shelter for Abused Women & Children",
+    "description": "Two 60-bed emergency shelters, transitional living cottages, and outreach services throughout Collier County. Crisis hotline available 24/7.",
+    "address": "88 12th St N STE 100, Naples, FL 34102",
+    "phone": "(239) 775-1101",
+    "url": "https://naplesshelter.org",
+    "categorySlug": "crisis",
+    "zipCode": "34102"
+  },
+  {
+    "name": "Salvation Army Naples Food Pantry",
+    "description": "Food pantry serving residents in need at the Naples Family Social Services Center in Collier County.",
+    "address": "3180 Estey Avenue, Naples, FL 34104",
+    "phone": "",
+    "url": "https://southernusa.salvationarmy.org/naples/food-pantries/",
+    "categorySlug": "food",
+    "zipCode": "34104"
+  },
+  {
+    "name": "Youth Haven SWFL",
+    "description": "Southwest Florida's only 24-hour emergency and residential shelter for children removed from their homes due to abuse, neglect, abandonment, or homelessness.",
+    "address": "Naples, FL 34108",
+    "phone": "",
+    "url": "https://youthhavenswfl.org",
+    "categorySlug": "crisis",
+    "zipCode": "34108"
+  },
+  {
+    "name": "Catholic Charities Collier County Food Pantry",
+    "description": "Nonprofit food pantry distributing food Wednesdays and Thursdays 9:30am-11:30am. Walk-ins accepted. Provides fresh produce, pantry staples, and essential household items.",
+    "address": "3174 Tamiami Trail E, Naples, FL 34112",
+    "phone": "(239) 793-0059",
+    "url": "https://catholiccharitiesdov.org/Naples-Food-Pantry",
+    "categorySlug": "food",
+    "zipCode": "34112"
+  },
+  {
+    "name": "St. Matthew's House Emergency & Transitional Housing",
+    "description": "Provides emergency and transitional housing to help individuals transition from homelessness to self-sufficiency in Collier County.",
+    "address": "Naples, FL 34112",
+    "phone": "",
+    "url": "https://stmatthewshouse.org",
+    "categorySlug": "housing",
+    "zipCode": "34112"
+  },
+  {
+    "name": "Providence House Naples",
+    "description": "Faith-based transitional housing and self-sufficiency program serving homeless women and children in the Naples area.",
+    "address": "Naples, FL 34116",
+    "phone": "",
+    "url": "https://www.providencehousenaples.org",
+    "categorySlug": "housing",
+    "zipCode": "34116"
+  },
+  {
+    "name": "Meals of Hope Mobile Food Pantry - Collier",
+    "description": "Operates mobile and choice pantries across Southwest Florida each week, providing families with nutritious groceries, fresh produce, protein, and shelf-stable meals.",
+    "address": "Naples, FL 34119",
+    "phone": "",
+    "url": "https://mealsofhope.org/pantry/",
+    "categorySlug": "food",
+    "zipCode": "34119"
+  },
+  {
+    "name": "Collier Hunger & Homeless Coalition",
+    "description": "Provides 24-hour crisis counseling, shelter, elder abuse program, children's program, and prevention services throughout Collier County.",
+    "address": "Naples, FL 34120",
+    "phone": "",
+    "url": "https://collierhomelesscoalition.org",
+    "categorySlug": "crisis",
+    "zipCode": "34120"
+  },
+  {
+    "name": "Catholic Charities Lake City Food Pantry",
+    "description": "Local nonprofit food pantry open Monday-Friday 9am-Noon (closed Thursdays) serving Columbia County residents.",
+    "address": "553 NW Railroad Street, Lake City, FL 32055",
+    "phone": "",
+    "url": "https://www.catholiccharitieslakecity.org/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "32024"
+  },
+  {
+    "name": "Partners of HOPE Food Pantry - Lake City",
+    "description": "Food pantry serving Lake City and Columbia County residents experiencing food insecurity.",
+    "address": "Lake City, FL 32024",
+    "phone": "",
+    "url": "https://www.findhelp.org/partners-of-hope--lake-city-fl--food-pantry/5842066109235200?postal=32024",
+    "categorySlug": "food",
+    "zipCode": "32024"
+  },
+  {
+    "name": "United Way of Suwannee Valley Homeless Services",
+    "description": "Provides homeless services to communities in the Suwannee Valley region, assisting families and individuals experiencing a housing financial emergency.",
+    "address": "Lake City, FL 32025",
+    "phone": "",
+    "url": "https://www.findhelp.org/united-way-of-suwannee-valley--lake-city-fl--homeless-services/5217767347322880?postal=32024",
+    "categorySlug": "housing",
+    "zipCode": "32025"
+  },
+  {
+    "name": "Catholic Charities Lake City Food Pantry",
+    "description": "Local nonprofit food pantry open Monday-Friday 9am-Noon (closed Thursdays) serving Columbia County residents.",
+    "address": "553 NW Railroad Street, Lake City, FL 32055",
+    "phone": "",
+    "url": "https://www.catholiccharitieslakecity.org/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "32055"
+  },
+  {
+    "name": "NorthStar Family Resource Center",
+    "description": "Emergency clothes and food pantry serving Columbia County residents Monday-Thursday 9am-5pm and Friday 9am-1pm.",
+    "address": "255 NE Coach Anders Lane, Lake City, FL 32055",
+    "phone": "",
+    "url": "https://www.pfsf.org/resourcecenters/nsfrc/",
+    "categorySlug": "food",
+    "zipCode": "32055"
+  },
+  {
+    "name": "Christian Service Center of Columbia County",
+    "description": "Provides food, clothing, and other assistance to those in need in Columbia County.",
+    "address": "441 NW Washington Street, Lake City, FL 32055",
+    "phone": "(386) 755-1770",
+    "url": "https://rightservicefl.org/node/17412",
+    "categorySlug": "food",
+    "zipCode": "32055"
+  },
+  {
+    "name": "VOA Florida - Lake City Permanent Supportive Housing",
+    "description": "Provides housing and supportive services to chronically homeless individuals with mental illness or substance abuse disorder to stabilize and prepare them for independence.",
+    "address": "1049 NW Winborn Way, Lake City, FL 32055",
+    "phone": "",
+    "url": "https://www.voaflorida.org/locations/lake-city-permanent-supportive-housing-program/",
+    "categorySlug": "housing",
+    "zipCode": "32055"
+  },
+  {
+    "name": "Renewed Outreach Center",
+    "description": "Emergency shelter for the homeless and recovering addicts with 16 beds, toiletries, and showers \u2014 all free of charge.",
+    "address": "Lake City, FL 32055",
+    "phone": "",
+    "url": "https://www.wuft.org/education/2024-04-26/first-emergency-homeless-center-opens-in-lake-city",
+    "categorySlug": "housing",
+    "zipCode": "32055"
+  },
+  {
+    "name": "DeSoto Food and Resource Center",
+    "description": "All Faiths Food Bank one-stop-shop where clients can receive emergency food and be referred to services. Open Mon-Wed 10am-4pm, Thu 11am-6pm, Fri 9am-1pm.",
+    "address": "1021 E Oak Street, Arcadia, FL 34266",
+    "phone": "",
+    "url": "https://allfaithsfoodbank.org/desoto-food-and-resource-center/",
+    "categorySlug": "food",
+    "zipCode": "34266"
+  },
+  {
+    "name": "Catholic Charities of DeSoto County Food Pantry",
+    "description": "Food pantry providing regular distribution to eligible families to help combat food insecurity in DeSoto County. Open Monday-Friday 9am-5pm.",
+    "address": "1208 East Oak Street, Arcadia, FL 34266",
+    "phone": "(863) 494-1068",
+    "url": "https://catholiccharitiesdov.org/Arcadia-Food-Pantry",
+    "categorySlug": "food",
+    "zipCode": "34266"
+  },
+  {
+    "name": "United Christian Services of Dixie - Cross City Food Pantry",
+    "description": "Primary food pantry serving Dixie County residents. Clients welcome twice per year. Open Monday-Thursday 9am-3pm.",
+    "address": "Cross City, FL 32628",
+    "phone": "",
+    "url": "https://www.findhelp.org/united-christian-services-of-dixie--cross-city-fl--food-pantry/4572816335962112?postal=32628",
+    "categorySlug": "food",
+    "zipCode": "32628"
+  },
+  {
+    "name": "Catholic Charities Jacksonville Food Pantry",
+    "description": "Nonprofit food pantry serving Jacksonville residents in Duval County, including the 32209 area. Distribution days with ticket assignments starting at 11am.",
+    "address": "Jacksonville, FL 32209",
+    "phone": "(904) 354-4846",
+    "url": "https://www.ccbjax.org/food-assistance",
+    "categorySlug": "food",
+    "zipCode": "32209"
+  },
+  {
+    "name": "Mission Uplift for Life Ministries",
+    "description": "Food bank serving Jacksonville's 32209 community. Open Tuesday and Thursday 11am-1:30pm.",
+    "address": "1618 North Myrtle Ave., Jacksonville, FL 32209",
+    "phone": "(904) 444-5378",
+    "url": "https://www.foodpantries.org/ci/fl-jacksonville",
+    "categorySlug": "food",
+    "zipCode": "32209"
+  },
+  {
+    "name": "Daily Growth Outreach & Ministry",
+    "description": "Free food bank with clothing closet, thrift store, and personal products serving Jacksonville's westside community.",
+    "address": "2542-2 Firestone Rd., Jacksonville, FL 32210",
+    "phone": "(904) 524-8295",
+    "url": "https://www.foodpantries.org/ci/fl-jacksonville",
+    "categorySlug": "food",
+    "zipCode": "32210"
+  },
+  {
+    "name": "Charismatic Ecumenical Ministries International Food Pantry",
+    "description": "Local food pantry serving Jacksonville 32210 residents in need.",
+    "address": "6959 Torres Drive, Jacksonville, FL 32210",
+    "phone": "(904) 771-1196",
+    "url": "https://www.foodpantries.org/ci/fl-jacksonville",
+    "categorySlug": "food",
+    "zipCode": "32210"
+  },
+  {
+    "name": "BEAM Food Pantry - Atlantic Beach",
+    "description": "Food pantry serving the Atlantic Beach and surrounding Jacksonville areas including zip code 32233. Appointment-based, open Tue-Wed 9:40am-12:40pm, Thu 9:40am-3:40pm, and select Saturdays.",
+    "address": "Atlantic Beach, FL 32233",
+    "phone": "(904) 241-2326",
+    "url": "https://jaxbeam.org/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "32233"
+  },
+  {
+    "name": "Lutheran Social Services of Northeast Florida Food Pantry",
+    "description": "Nonprofit food pantry serving Jacksonville and Duval County residents in need.",
+    "address": "4615 Philips Highway, Jacksonville, FL 32244",
+    "phone": "",
+    "url": "https://www.lssjax.org/food",
+    "categorySlug": "food",
+    "zipCode": "32244"
+  },
+  {
+    "name": "Global Relief Northeast Florida Food Pantry",
+    "description": "Free food pantry serving Jacksonville and Northeast Florida. Open Monday, Wednesday, and Friday with no documentation required.",
+    "address": "Jacksonville, FL 32246",
+    "phone": "",
+    "url": "https://globalreliefnefl.org/",
+    "categorySlug": "food",
+    "zipCode": "32246"
+  },
+  {
+    "name": "Feeding Northeast Florida",
+    "description": "Regional food bank serving Northeast Florida counties including Duval, providing food to partner agencies throughout the region.",
+    "address": "Jacksonville, FL 32218",
+    "phone": "",
+    "url": "https://feedingnefl.org/",
+    "categorySlug": "food",
+    "zipCode": "32218"
+  },
+  {
+    "name": "JFCSjax Max Block Food Pantry",
+    "description": "Food pantry operated by Jewish Family & Community Services serving Jacksonville residents in need.",
+    "address": "Jacksonville, FL 32217",
+    "phone": "",
+    "url": "https://jfcsjax.org/feeding-hope/",
+    "categorySlug": "food",
+    "zipCode": "32217"
+  },
+  {
+    "name": "Gleaner's Dispatch - Jacksonville",
+    "description": "Local nonprofit food recovery and distribution organization serving Jacksonville's Duval County communities.",
+    "address": "Jacksonville, FL 32219",
+    "phone": "",
+    "url": "https://www.gleanersdispatch.org/",
+    "categorySlug": "food",
+    "zipCode": "32219"
+  },
+  {
+    "name": "Salvation Army Red Shield Lodge Emergency Shelter",
+    "description": "Only emergency shelter in Hillsborough County open 365 days a year, providing lodging for adult men and women in a 132-bed lodge.",
+    "address": "1603 N Florida Ave, Tampa, FL 33602",
+    "phone": "(813) 549-0641",
+    "url": "https://tampa.salvationarmyflorida.org/tampa/shelter/",
+    "categorySlug": "housing",
+    "zipCode": "32226"
+  },
+  {
+    "name": "Waterfront Rescue Mission - Pensacola",
+    "description": "Emergency shelter providing housing for men and women in Pensacola. Fights against hunger, homelessness, and addiction.",
+    "address": "348 W. Herman St., Pensacola, FL 32501",
+    "phone": "",
+    "url": "https://waterfrontmission.org/",
+    "categorySlug": "housing",
+    "zipCode": "32501"
+  },
+  {
+    "name": "Manna Food Pantries - Pensacola",
+    "description": "Local grassroots organization fighting hunger in Escambia and Santa Rosa Counties since 1983. Accepts donations and distributes food to those in need.",
+    "address": "3030 North E Street, Pensacola, FL 32501",
+    "phone": "(850) 432-2053",
+    "url": "https://www.mannahelps.org",
+    "categorySlug": "food",
+    "zipCode": "32501"
+  },
+  {
+    "name": "Northwest Florida Community Outreach, Inc.",
+    "description": "Nonprofit supporting the community through the Harvest of Hope Food Pantry, SOS Program, and community partnerships since 2002. Appointment required.",
+    "address": "Pensacola, FL 32503",
+    "phone": "(850) 505-9673",
+    "url": "https://www.nwfco.info/",
+    "categorySlug": "food",
+    "zipCode": "32503"
+  },
+  {
+    "name": "Re-Entry Alliance Pensacola (REAP)",
+    "description": "501(c)(3) charitable organization providing reentry services, housing, and support to justice-involved individuals in Pensacola.",
+    "address": "1000 W. Blount St., Pensacola, FL 32501",
+    "phone": "",
+    "url": "https://www.reapreentry.org/",
+    "categorySlug": "housing",
+    "zipCode": "32501"
+  },
+  {
+    "name": "Pensacola Caring Hearts Food Pantry",
+    "description": "Nonprofit food pantry dedicated to collecting, storing, and distributing food including fresh produce, dairy, and protein to Pensacola residents in need.",
+    "address": "Pensacola, FL 32503",
+    "phone": "",
+    "url": "https://www.pensacolacaringhearts.org/",
+    "categorySlug": "food",
+    "zipCode": "32503"
+  },
+  {
+    "name": "Opening Doors Northwest Florida",
+    "description": "Collaborative effort to end homelessness in Escambia and Santa Rosa counties; assesses, assists, and assigns people to vital housing resources.",
+    "address": "Pensacola, FL 32501",
+    "phone": "",
+    "url": "https://openingdoorsnwfl.org/",
+    "categorySlug": "housing",
+    "zipCode": "32501"
+  },
+  {
+    "name": "Grace Community Food Pantry",
+    "description": "Faith-based food pantry serving Flagler County residents. Requires proof of Flagler County residency. Located at 245 Education Way, Bunnell and satellite at 5299 Oceanshore Blvd, Palm Coast.",
+    "address": "245 Education Way, Bunnell, FL 32110",
+    "phone": "",
+    "url": "https://www.gracecommunityfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "32110"
+  },
+  {
+    "name": "Little Flower Catholic Church Food Pantry",
+    "description": "Food pantry operated by Mother Teresa of Calcutta ministry at Little Flower Catholic Church. Open Wednesdays and Fridays 9am-11:30am.",
+    "address": "6495 Lillian Highway, Pensacola, FL 32506",
+    "phone": "(850) 455-4274",
+    "url": "https://foodbanksinflorida.org/food-bank/little-flower-catholic-church-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "32506"
+  },
+  {
+    "name": "The Centre for Excellence of Pensacola Food Pantry",
+    "description": "Nonprofit food pantry serving Pensacola's 32506 area. Open 3rd Tuesday and Fridays 8am-9am.",
+    "address": "6847 W Fairfield Dr, Pensacola, FL 32506",
+    "phone": "(850) 332-7671",
+    "url": "https://centre4excellence.org/food/",
+    "categorySlug": "food",
+    "zipCode": "32506"
+  },
+  {
+    "name": "Pensacola Dream Center Food Ministry",
+    "description": "Provides meal kits and food assistance to Pensacola area residents in need.",
+    "address": "Pensacola, FL 32504",
+    "phone": "",
+    "url": "https://pensacoladreamcenter.org/meal-kit-deliveries",
+    "categorySlug": "food",
+    "zipCode": "32504"
+  },
+  {
+    "name": "Grace Community Food Pantry - Palm Coast",
+    "description": "Satellite location of Grace Community Food Pantry serving Flagler County residents at Hammock Community Church. Open Tuesdays 11am-noon.",
+    "address": "5299 Oceanshore Blvd., Palm Coast, FL 32137",
+    "phone": "",
+    "url": "https://www.gracecommunityfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "32137"
+  },
+  {
+    "name": "Calvary Palm Coast Food Pantry",
+    "description": "Church-based food pantry serving Palm Coast and Flagler County residents. Open the fourth Monday of the month 9:30am-11:30am.",
+    "address": "4888 Palm Coast Parkway NW, Palm Coast, FL 32137",
+    "phone": "",
+    "url": "https://www.foodpantries.org/ci/fl-palm-coast",
+    "categorySlug": "food",
+    "zipCode": "32137"
+  },
+  {
+    "name": "Tender Hearts Caring Hands - Pensacola",
+    "description": "Ministry village nonprofit providing food and support services to Pensacola area residents in need.",
+    "address": "Pensacola, FL 32505",
+    "phone": "",
+    "url": "https://ministryvillage.org/tender-hearts-caring-hands",
+    "categorySlug": "food",
+    "zipCode": "32505"
+  },
+  {
+    "name": "Bright Bridge Ministries",
+    "description": "Provides emergency shelter and transitional housing for men in Pensacola.",
+    "address": "2600 W. Strong St., Pensacola, FL 32505",
+    "phone": "",
+    "url": "https://www.homelessshelterdirectory.org/city/fl-pensacola",
+    "categorySlug": "housing",
+    "zipCode": "32505"
+  },
+  {
+    "name": "Franklin's Promise Coalition - Franklin County Food Pantry",
+    "description": "Nonprofit food pantry distributing supplemental food to the most vulnerable citizens of Franklin County. Open 1st and 3rd Tuesdays 9am-12pm.",
+    "address": "192 14th Street, Apalachicola, FL 32320",
+    "phone": "(850) 653-3930",
+    "url": "http://www.franklinspromisecoalition.org",
+    "categorySlug": "food",
+    "zipCode": "32320"
+  },
+  {
+    "name": "Community Action Program - Quincy",
+    "description": "Food pantry serving Gadsden County residents. Open Monday-Friday 8am-5pm.",
+    "address": "104 N. Adams Street, Quincy, FL 32351",
+    "phone": "(850) 875-4250",
+    "url": "https://foodpantries.org/li/community_action_program_quincy_florida",
+    "categorySlug": "food",
+    "zipCode": "32351"
+  },
+  {
+    "name": "Jericho Outreach Ministry - Quincy",
+    "description": "Nonprofit outreach ministry providing food assistance to Gadsden County residents.",
+    "address": "Quincy, FL 32351",
+    "phone": "",
+    "url": "https://www.foodpantries.org/li/jericho_outreach_ministry_inc",
+    "categorySlug": "food",
+    "zipCode": "32351"
+  },
+  {
+    "name": "Community Cares Food Pantry - Havana",
+    "description": "Food pantry serving Gadsden County residents in the Havana area.",
+    "address": "Havana, FL 32333",
+    "phone": "",
+    "url": "https://www.foodpantries.org/li/community_cares_32333",
+    "categorySlug": "food",
+    "zipCode": "32333"
+  },
+  {
+    "name": "Two Fish Food Market - Port Saint Joe",
+    "description": "Local food pantry and ministry of First United Methodist Church serving Gulf County residents.",
+    "address": "212 Williams Avenue, Port Saint Joe, FL 32456",
+    "phone": "",
+    "url": "https://gulffranklin.com/food/",
+    "categorySlug": "food",
+    "zipCode": "32456"
+  },
+  {
+    "name": "Gulf County Food Pantry - Port Saint Joe",
+    "description": "Drive-thru style food pantry serving Bay, Calhoun, Gulf, Holmes, Jackson, and Washington counties. Open 1pm-3pm on scheduled Tuesdays. No ID or proof of income required.",
+    "address": "401 Peters Street, Port Saint Joe, FL 32456",
+    "phone": "(850) 229-1641",
+    "url": "https://gulffranklin.com/food/",
+    "categorySlug": "food",
+    "zipCode": "32456"
+  },
+  {
+    "name": "Free Food Service Pantry (NAIDE) - Jennings",
+    "description": "Food pantry serving Hamilton County residents in Jennings and surrounding areas.",
+    "address": "3589 NW 28th Terrace, Jennings, FL 32053",
+    "phone": "",
+    "url": "https://www.freefood.org/c/fl-jasper",
+    "categorySlug": "food",
+    "zipCode": "32053"
+  },
+  {
+    "name": "Innovative Charities of Northwest Florida - Jackson County Pantry",
+    "description": "501(c)(3) nonprofit helping the hungry, needy, and under-privileged. Jackson County pantry open every Wednesday 10am-12pm CST.",
+    "address": "1994 Hwy 71 South, Marianna, FL 32448",
+    "phone": "",
+    "url": "https://innovativecharities.org/",
+    "categorySlug": "food",
+    "zipCode": "32440"
+  },
+  {
+    "name": "Hardee Help Center",
+    "description": "Food pantry and emergency assistance center serving Hardee County. Open Monday-Friday 9am-12pm and 1pm-2pm. Provides food plus emergency household items.",
+    "address": "713 East Bay Street, Wauchula, FL 33873",
+    "phone": "(863) 773-0034",
+    "url": "https://www.hardeehelpcenter.org",
+    "categorySlug": "food",
+    "zipCode": "33873"
+  },
+  {
+    "name": "Feeding With Hope - Clewiston",
+    "description": "Nonprofit food bank collecting, storing, and distributing food to families in Hendry County. Open Mondays 10am-12pm.",
+    "address": "217 East Aztec Avenue, Clewiston, FL 33440",
+    "phone": "(863) 983-1070",
+    "url": "https://www.feedingwithhope.com/our-food-bank",
+    "categorySlug": "food",
+    "zipCode": "33440"
+  },
+  {
+    "name": "Catholic Charities Diocese of Venice - Clewiston Food Pantry",
+    "description": "Monthly food pantry providing bags of food based on family size to Hendry County residents.",
+    "address": "204 Deane Duff St, Clewiston, FL 33440",
+    "phone": "(239) 334-4007",
+    "url": "https://catholiccharitiesdov.org/Clewiston-Food-Pantry",
+    "categorySlug": "food",
+    "zipCode": "33440"
+  },
+  {
+    "name": "Salvation Army LaBelle Service Center",
+    "description": "Provides emergency assistance services including food and utilities help to Hendry County residents in LaBelle.",
+    "address": "133 Bridge St, LaBelle, FL 33935",
+    "phone": "(863) 674-1441",
+    "url": "https://rightservicefl.org/node/22066",
+    "categorySlug": "food",
+    "zipCode": "33935"
+  },
+  {
+    "name": "LaBelle Community Resource Center (Goodwill)",
+    "description": "Community resource center offering food pantry and housing/rental assistance services to Hendry County residents.",
+    "address": "LaBelle, FL 33935",
+    "phone": "",
+    "url": "https://rightservicefl.org/node/22066",
+    "categorySlug": "food",
+    "zipCode": "33935"
+  },
+  {
+    "name": "DayStar Life Center - Brooksville",
+    "description": "All-volunteer organization helping needy families in Brooksville and Spring Hill, Hernando County with food and essential items.",
+    "address": "20428 Cortez Blvd, Brooksville, FL 34601",
+    "phone": "",
+    "url": "http://daystarlifecenter.org",
+    "categorySlug": "food",
+    "zipCode": "34601"
+  },
+  {
+    "name": "Jericho Food Barn - Brooksville",
+    "description": "Local food pantry in Brooksville serving Hernando County residents. Open Tuesdays and Fridays 9am-noon.",
+    "address": "1163 Howell Ave, Brooksville, FL 34601",
+    "phone": "",
+    "url": "http://daystarlifecenter.org/brooksville-food-pantries/",
+    "categorySlug": "food",
+    "zipCode": "34601"
+  },
+  {
+    "name": "Salvation Army of Hernando County Food Pantry",
+    "description": "Food pantry serving Hernando County. Food distribution Tuesdays 9-11am; pastries available Monday, Thursday, Friday 9am-noon.",
+    "address": "15464 Cortez Blvd, Brooksville, FL 34601",
+    "phone": "",
+    "url": "https://www.findhelp.org/salvation-army---hernando-county--brooksville-fl--food-pantry/5994708888977408?postal=34606",
+    "categorySlug": "food",
+    "zipCode": "34601"
+  },
+  {
+    "name": "Catholic Charities Lake City Emergency Financial Assistance",
+    "description": "Prevents homelessness through emergency financial assistance in Hamilton, Suwannee, Lafayette, Union, and Columbia counties.",
+    "address": "Lake City, FL 32055",
+    "phone": "",
+    "url": "https://www.catholiccharitieslakecity.org/emergency-financial-assistance",
+    "categorySlug": "utilities",
+    "zipCode": "32096"
+  },
+  {
+    "name": "St. Vincent de Paul - Spring Hill Food Pantry",
+    "description": "Free food bank and thrift store serving Spring Hill and Hernando County residents.",
+    "address": "1291 Kass Cir, Spring Hill, FL 34606",
+    "phone": "(352) 688-3331",
+    "url": "https://svdpfl.org",
+    "categorySlug": "food",
+    "zipCode": "34606"
+  },
+  {
+    "name": "People Helping People in Hernando County (PHP)",
+    "description": "Interfaith and secular nonprofit providing food to people in need in Hernando County. Operates the HELP Center at 1396 Kass Circle in Spring Hill.",
+    "address": "1396 Kass Circle, Spring Hill, FL 34606",
+    "phone": "",
+    "url": "https://www.phphernando.org/",
+    "categorySlug": "food",
+    "zipCode": "34606"
+  },
+  {
+    "name": "Heartland Food Bank - Sebring",
+    "description": "Food bank nonprofit serving Highlands County, supplying 40 pantries that distribute food to those in need throughout the county.",
+    "address": "Sebring, FL 33870",
+    "phone": "",
+    "url": "https://www.heartlandfoodbank.com/",
+    "categorySlug": "food",
+    "zipCode": "33870"
+  },
+  {
+    "name": "Parkway Food Ministry - Sebring",
+    "description": "Local food ministry serving Highlands County residents. Open Monday-Friday 9am-5pm.",
+    "address": "3413 Sebring Parkway, Sebring, FL 33870",
+    "phone": "",
+    "url": "https://foodbanksinflorida.org/parkway-food-ministry/",
+    "categorySlug": "food",
+    "zipCode": "33870"
+  },
+  {
+    "name": "Avon Park Church Service Center Food Pantry",
+    "description": "Free food pantry serving Avon Park and Highlands County residents. Open Tuesday-Friday 7:30am-12pm. Requires photo ID and proof of income.",
+    "address": "Avon Park, FL 33825",
+    "phone": "(863) 452-6464",
+    "url": "https://www.findhelp.org/avon-park-church-service-center--avon-park-fl--food-pantry/6394026652860416?postal=33852",
+    "categorySlug": "food",
+    "zipCode": "33825"
+  },
+  {
+    "name": "Southside Community Resource Center - Avon Park",
+    "description": "Food pantry serving low-income families, single parents, seniors, veterans, and others in Highlands County. Open Mondays 11am-3pm and select Saturdays.",
+    "address": "1013 South Delaney Avenue, Avon Park, FL 33825",
+    "phone": "(863) 274-5146",
+    "url": "https://www.findhelp.org/southside-community-resource-center--avon-park-fl--food-pantry/5551755160190976?postal=33852",
+    "categorySlug": "food",
+    "zipCode": "33825"
+  },
+  {
+    "name": "Manna Ministries - Lake Placid",
+    "description": "Feeding America affiliate food pantry serving Lake Placid and Highlands County residents. Open Monday-Friday 9:30am-1pm.",
+    "address": "Lake Placid, FL 33852",
+    "phone": "(863) 699-0093",
+    "url": "https://www.foodpantries.org/ci/fl-lake_placid",
+    "categorySlug": "food",
+    "zipCode": "33852"
+  },
+  {
+    "name": "ECHO of Brandon Food Pantry",
+    "description": "501(c)(3) nonprofit food pantry serving Brandon and surrounding areas including 33510, 33511, 33527, 33547, 33584, 33592, 33594. Open Mon-Fri 8:30am-12:30pm, Tue evenings 5-7pm.",
+    "address": "507 N Parsons Ave, Brandon, FL 33510",
+    "phone": "(813) 685-0935",
+    "url": "https://echofl.org/brandon/",
+    "categorySlug": "food",
+    "zipCode": "33510"
+  },
+  {
+    "name": "Nativity Outreach Food Pantry - Brandon",
+    "description": "Catholic Church-affiliated food pantry serving Brandon and Valrico residents. Open Thursdays 1pm-2pm.",
+    "address": "705 E. Brandon Blvd, Brandon, FL 33511",
+    "phone": "(813) 694-0541",
+    "url": "https://www.nativitycatholicchurch.org/foodBankandPantry",
+    "categorySlug": "food",
+    "zipCode": "33511"
+  },
+  {
+    "name": "United Food Bank & Service of Plant City",
+    "description": "Nonprofit food bank serving Plant City and surrounding Hillsborough County zip codes. Food distribution Mon/Wed/Thu/Fri 12pm-3:30pm, Tue 12pm-6:30pm.",
+    "address": "Plant City, FL 33566",
+    "phone": "",
+    "url": "https://ufbpc.org/food-distribution/",
+    "categorySlug": "food",
+    "zipCode": "33565"
+  },
+  {
+    "name": "ECHO Food Pantry - Riverview",
+    "description": "Emergency Care Help Organization food pantry serving Riverview and south Hillsborough County areas. Open Mon-Fri 9am-1pm, Thu also 5pm-7pm.",
+    "address": "10509 Riverview Drive, Riverview, FL 33578",
+    "phone": "",
+    "url": "https://echofl.org/pantries/",
+    "categorySlug": "food",
+    "zipCode": "33569"
+  },
+  {
+    "name": "Calvary's Angel Attic Community Cupboard - Ruskin",
+    "description": "Church-based food pantry serving Ruskin and south Hillsborough County residents. Open Tuesdays 9am-11am.",
+    "address": "1424 E College Ave, Ruskin, FL 33570",
+    "phone": "",
+    "url": "https://www.foodpantries.org/ci/fl-ruskin",
+    "categorySlug": "food",
+    "zipCode": "33570"
+  },
+  {
+    "name": "St. Anne Catholic Church Food Pantry - Ruskin",
+    "description": "Church food pantry serving Ruskin and surrounding communities. Open Wednesdays 8am-11am.",
+    "address": "106 11th Ave NE, Ruskin, FL 33570",
+    "phone": "",
+    "url": "https://www.findhelp.org/saint-anne-catholic-church--ruskin-fl--food-pantry/5087701218361344?postal=33570",
+    "categorySlug": "food",
+    "zipCode": "33570"
+  },
+  {
+    "name": "Our Lady of Guadalupe Food Pantry (Our Lady's Pantry)",
+    "description": "501(c)(3) all-volunteer food pantry serving Wimauma, Balm, Ruskin, Apollo Beach, and Sun City Center. Open every Saturday 7:30am-10:30am. Requires valid ID and proof of address.",
+    "address": "16650 US Highway 301 South, Wimauma, FL 33598",
+    "phone": "(813) 633-2384",
+    "url": "https://www.ourladyspantry.com/",
+    "categorySlug": "food",
+    "zipCode": "33598"
+  },
+  {
+    "name": "Beth-El Farmworker Ministry Food Distribution",
+    "description": "Nonprofit providing food distribution to farmworker families and low-income residents in Wimauma and south Hillsborough County. Open every Wednesday 1pm-5:30pm.",
+    "address": "18240 US-301, Wimauma, FL 33598",
+    "phone": "(813) 633-1548",
+    "url": "https://www.wimaumaconnects.org/resources/pantries/",
+    "categorySlug": "food",
+    "zipCode": "33598"
+  },
+  {
+    "name": "St. Vincent de Paul Society - Northwest Hillsborough Food Pantry",
+    "description": "Emergency food assistance pantry serving Lutz, Odessa, and Northwest Hillsborough County. Open Wednesdays and Saturdays 9am-11am.",
+    "address": "Lutz, FL 33549",
+    "phone": "(813) 961-4115",
+    "url": "https://svdptampa.org/f_pantries.htm",
+    "categorySlug": "food",
+    "zipCode": "33549"
+  },
+  {
+    "name": "Community Food Pantry - Carrollwood/Northdale",
+    "description": "Drive-through food pantry serving NW Tampa, Carrollwood, and surrounding areas. Open Saturdays and Wednesdays 9am-11am. No need to exit vehicle.",
+    "address": "13115 S Village Dr, Tampa, FL 33618",
+    "phone": "(813) 963-2772",
+    "url": "https://www.thecommunityfoodpantry.com/",
+    "categorySlug": "food",
+    "zipCode": "33584"
+  },
+  {
+    "name": "Metropolitan Ministries - Tampa",
+    "description": "Nonprofit providing emergency shelter for at-risk and homeless households with children and single women, plus food assistance and other services.",
+    "address": "2002 N Florida Ave, Tampa, FL 33602",
+    "phone": "(813) 209-1000",
+    "url": "https://www.metromin.org/",
+    "categorySlug": "housing",
+    "zipCode": "33602"
+  },
+  {
+    "name": "Metropolitan Ministries Food Pantry",
+    "description": "Food pantry serving Tampa and Hillsborough County residents. Open Monday-Friday 9:30am-4:30pm.",
+    "address": "2301 N Tampa St, Tampa, FL 33602",
+    "phone": "(813) 209-1200",
+    "url": "https://www.metromin.org/",
+    "categorySlug": "food",
+    "zipCode": "33602"
+  },
+  {
+    "name": "Trinity Cafe - Tampa",
+    "description": "Free restaurant offering sit-down meals to homeless, hungry, and working poor guests in Tampa. No mandatory religious services or proof of need required.",
+    "address": "Tampa, FL 33603",
+    "phone": "",
+    "url": "https://www.trinitycafe.org",
+    "categorySlug": "food",
+    "zipCode": "33603"
+  },
+  {
+    "name": "Feeding Tampa Bay",
+    "description": "Regional food bank serving Hillsborough County and surrounding areas, providing food to partner agencies and community members in need.",
+    "address": "4702 Transport Drive, Tampa, FL 33605",
+    "phone": "(813) 254-1190",
+    "url": "https://feedingtampabay.org/",
+    "categorySlug": "food",
+    "zipCode": "33605"
+  },
+  {
+    "name": "Dawning Family Services - Tampa",
+    "description": "Nonprofit providing emergency shelter and services for families with children facing homelessness in Tampa.",
+    "address": "Tampa, FL 33606",
+    "phone": "",
+    "url": "https://www.dawningfamilyservices.org/",
+    "categorySlug": "housing",
+    "zipCode": "33606"
+  },
+  {
+    "name": "Tampa Hope - Catholic Charities Emergency Shelter",
+    "description": "Catholic Charities-operated shelter serving up to 335+ homeless adults in Tampa.",
+    "address": "Tampa, FL 33607",
+    "phone": "",
+    "url": "https://www.ccdosp.org/tampa-hope/",
+    "categorySlug": "housing",
+    "zipCode": "33607"
+  },
+  {
+    "name": "Abe Brown Ministries Food Pantry",
+    "description": "Faith-based food distribution serving Tampa's 33605 community on the last two Fridays of each month.",
+    "address": "2918 N. 29th Street, Tampa, FL 33605",
+    "phone": "",
+    "url": "https://www.foodpantries.org/ci/fl-tampa",
+    "categorySlug": "food",
+    "zipCode": "33609"
+  },
+  {
+    "name": "ECHO Food Pantry - New Tampa",
+    "description": "Food pantry and clothing closet serving New Tampa (33647) residents experiencing recent hardship. Open Saturdays 9:30am-11:30am. No appointment or ID needed.",
+    "address": "19911 Bruce B. Downs Blvd, Tampa, FL 33647",
+    "phone": "",
+    "url": "https://echofl.org",
+    "categorySlug": "food",
+    "zipCode": "33612"
+  },
+  {
+    "name": "Community Food Pantry - North Tampa",
+    "description": "Drive-through community food pantry serving North Tampa, Carrollwood, and New Tampa zip codes with health screenings, veterans assistance, and nutritional education. Open Sat and Wed 9am-11am.",
+    "address": "13115 S Village Dr, Tampa, FL 33618",
+    "phone": "(813) 963-2772",
+    "url": "https://www.thecommunityfoodpantry.com/",
+    "categorySlug": "food",
+    "zipCode": "33616"
+  },
+  {
+    "name": "Truth Outreach Global Ministries Food Pantry",
+    "description": "Walk-in pantry, free hot meals, and clothing closet serving the Temple Terrace/Tampa area.",
+    "address": "10711 N 53rd St, Temple Terrace, FL 33617",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "33617"
+  },
+  {
+    "name": "St. Mark the Evangelist Catholic Church Food Pantry",
+    "description": "Community food pantry open on 1st, 3rd, and 5th Tuesdays of each month from 3\u20136 PM.",
+    "address": "1924 Cross Creek Blvd, Tampa, FL 33617",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "33617"
+  },
+  {
+    "name": "CCMAD Food Pantry at Rock Church of Tampa Bay",
+    "description": "A Can, Can Make A Difference food pantry open Monday & Thursday 10:00am\u201312:00pm.",
+    "address": "Tampa, FL 33626",
+    "phone": "813-926-4101",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "33626"
+  },
+  {
+    "name": "Tampa Jewish Family Services Community Food Bank",
+    "description": "Community food bank with monthly distribution, serving Tampa Bay area residents.",
+    "address": "13009 Community Campus Dr, Tampa, FL 33625",
+    "phone": "",
+    "url": "https://tjfs.org/services/community-food-bank/",
+    "categorySlug": "food",
+    "zipCode": "33625"
+  },
+  {
+    "name": "Christlike Ministry Men's Shelter",
+    "description": "40-room men's emergency shelter for homeless or those in substance abuse recovery, with a 40-day step-down program.",
+    "address": "3011 N Orient Rd, Tampa, FL 33619",
+    "phone": "813-623-1099",
+    "url": "",
+    "categorySlug": "housing",
+    "zipCode": "33619"
+  },
+  {
+    "name": "DACCO Community Housing Solutions Center",
+    "description": "Emergency bridge housing for up to 75 homeless adult men and women, connecting residents to housing and employment.",
+    "address": "3630 N 50th St, Tampa, FL 33619",
+    "phone": "813-621-8781",
+    "url": "",
+    "categorySlug": "housing",
+    "zipCode": "33619"
+  },
+  {
+    "name": "Dawning Family Services",
+    "description": "Emergency shelter and services for families with minor children experiencing or at risk of homelessness in Tampa.",
+    "address": "Tampa, FL 33617",
+    "phone": "",
+    "url": "https://www.dawningfamilyservices.org/",
+    "categorySlug": "housing",
+    "zipCode": "33617"
+  },
+  {
+    "name": "Metropolitan Ministries",
+    "description": "Volunteer and donor-fueled nonprofit providing emergency shelter, food, and support services for homeless and at-risk individuals in Hillsborough County.",
+    "address": "Tampa, FL 33610",
+    "phone": "",
+    "url": "https://www.metromin.org/",
+    "categorySlug": "community",
+    "zipCode": "33610"
+  },
+  {
+    "name": "Holmes County Community Food Pantry (Bonifay)",
+    "description": "Local food pantry serving residents of Holmes County including Bonifay and surrounding areas.",
+    "address": "Bonifay, FL 32425",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "32425"
+  },
+  {
+    "name": "The Food Pantry of Indian River County",
+    "description": "Provides food to county residents and transients on a monthly basis, offering emergency food supply at no cost.",
+    "address": "2206 16th Avenue, Vero Beach, FL 32960",
+    "phone": "",
+    "url": "https://www.foodpantryirc.org/",
+    "categorySlug": "food",
+    "zipCode": "32960"
+  },
+  {
+    "name": "United Against Poverty - Indian River Campus",
+    "description": "Comprehensive poverty-fighting organization providing food, job training, and support services to Indian River County residents.",
+    "address": "1400 27th Street, Vero Beach, FL 32960",
+    "phone": "",
+    "url": "https://unitedagainstpoverty.org/campus/indian-river/",
+    "categorySlug": "community",
+    "zipCode": "32960"
+  },
+  {
+    "name": "I AM Ministries - The Source",
+    "description": "Full-time resource center and Christian outreach mission for the homeless and less fortunate in Vero Beach.",
+    "address": "1015 Commerce Ave, Vero Beach, FL 32960",
+    "phone": "",
+    "url": "",
+    "categorySlug": "crisis",
+    "zipCode": "32960"
+  },
+  {
+    "name": "Lakeside Fellowship Food Pantry",
+    "description": "Food pantry serving Sebastian and north Indian River County, open Monday, Wednesday, and Friday 10:00am\u20131:00pm.",
+    "address": "Sebastian, FL 32958",
+    "phone": "772-589-3035",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "32958"
+  },
+  {
+    "name": "Sebastian Christian Church Food Pantry",
+    "description": "Drive-thru food pantry on the 4th Thursday of every month serving Sebastian residents.",
+    "address": "Sebastian, FL 32958",
+    "phone": "772-584-1751",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "32958"
+  },
+  {
+    "name": "Innovative Charities of Northwest Florida - Jackson County",
+    "description": "USDA-approved TEFAP agency distributing over 75,000 pounds of food monthly across Jackson County. Open every Wednesday 10am\u201312pm CST.",
+    "address": "1994 Hwy 71 South, Marianna, FL 32446",
+    "phone": "",
+    "url": "https://innovativecharities.org/",
+    "categorySlug": "food",
+    "zipCode": "32446"
+  },
+  {
+    "name": "Chipola Ministries Food Pantry",
+    "description": "Community food pantry serving Marianna and Jackson County, open Tuesday and Wednesday 9am\u201312pm.",
+    "address": "3004 Hwy 71 North, Marianna, FL 32446",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "32446"
+  },
+  {
+    "name": "One Step at a Time",
+    "description": "Community-based organization providing support services for individuals experiencing homelessness or incarceration in Jackson County.",
+    "address": "2917 Optimist Drive, Suite B, Marianna, FL 32448",
+    "phone": "",
+    "url": "",
+    "categorySlug": "housing",
+    "zipCode": "32448"
+  },
+  {
+    "name": "My Father's Closet - Graceville",
+    "description": "Food pickup Wednesday\u2013Friday 10am\u20132:30pm; produce and bread sign-ups on Tuesdays at the Graceville Civic Center.",
+    "address": "Graceville, FL 32440",
+    "phone": "850-263-9555",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "32440"
+  },
+  {
+    "name": "Innovative Charities of Northwest Florida - Graceville",
+    "description": "Food pantry program serving Graceville and Jackson County residents.",
+    "address": "Graceville, FL 32440",
+    "phone": "",
+    "url": "https://innovativecharities.org/",
+    "categorySlug": "food",
+    "zipCode": "32440"
+  },
+  {
+    "name": "Eagles Wings Food Pantry",
+    "description": "Local food pantry serving Jefferson County residents in the Monticello area.",
+    "address": "290 E Dogwood St, Monticello, FL 32344",
+    "phone": "850-997-2252",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "32344"
+  },
+  {
+    "name": "A New Day Initiative Monticello",
+    "description": "Nonprofit providing food assistance and community support services to Jefferson County residents.",
+    "address": "1599 Waukeenah Highway, Monticello, FL 32344",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "32344"
+  },
+  {
+    "name": "Our Blessings Food Pantry",
+    "description": "Community food pantry serving Monticello and Jefferson County residents.",
+    "address": "295 E Palmer Mill Rd, Monticello, FL 32344",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "32344"
+  },
+  {
+    "name": "Capital Area Community Action Agency - Jefferson County",
+    "description": "Community action agency providing food assistance and social services to Jefferson County residents, open Monday\u2013Friday 8am\u20134pm.",
+    "address": "1155 N Jefferson Street, Monticello, FL 32344",
+    "phone": "850-643-5113",
+    "url": "",
+    "categorySlug": "community",
+    "zipCode": "32344"
+  },
+  {
+    "name": "Jefferson County Short-Term Shelter For Families",
+    "description": "Emergency shelter program for families experiencing housing instability in Jefferson County.",
+    "address": "Monticello, FL 32344",
+    "phone": "",
+    "url": "",
+    "categorySlug": "housing",
+    "zipCode": "32344"
+  },
+  {
+    "name": "Suwannee River Economic Council - Madison",
+    "description": "Nonprofit providing food assistance, emergency services, and community resources to Madison County residents, open Monday\u2013Friday 8am\u20134:30pm.",
+    "address": "Madison, FL 32340",
+    "phone": "850-973-6709",
+    "url": "",
+    "categorySlug": "community",
+    "zipCode": "32340"
+  },
+  {
+    "name": "North Lake Presbyterian Church - Christian Food Pantry",
+    "description": "Supplemental grocery program serving Lady Lake and The Villages since 1998. Open Monday, Tuesday, and Thursday 10am\u20132pm. Serves families meeting poverty level guidelines or on SNAP/Medicaid. Also provides pet food.",
+    "address": "103 High Avenue, Lady Lake, FL 32159",
+    "phone": "352-753-8484",
+    "url": "https://www.northlakepc.org/cfp",
+    "categorySlug": "food",
+    "zipCode": "32159"
+  },
+  {
+    "name": "Leesburg Food Bank, Inc.",
+    "description": "Volunteer-run 501(c)(3) food pantry serving needy families in Leesburg, Fruitland Park, Lady Lake, and Okahumpka since 1982.",
+    "address": "503 N 13th St, Leesburg, FL 34748",
+    "phone": "352-326-5463",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "34748"
+  },
+  {
+    "name": "Christian Care Center - Benevolence Center",
+    "description": "Lake County's largest food pantry, serving over 2,400 individuals per month with more than 160,000 pounds of food distributed monthly.",
+    "address": "Leesburg, FL 34748",
+    "phone": "352-464-6373",
+    "url": "https://www.christiancarecenter.org/benevolencecenter",
+    "categorySlug": "food",
+    "zipCode": "34748"
+  },
+  {
+    "name": "Catholic Charities of Central Florida - Food Pantry Lake County",
+    "description": "Food pantry serving Lake County residents in Leesburg provided by Catholic Charities of Central Florida.",
+    "address": "1321 Sunshine Ave, Leesburg, FL 34748",
+    "phone": "352-787-6354",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "34748"
+  },
+  {
+    "name": "Mascotte Food Pantry",
+    "description": "Community food pantry in Mascotte open Fridays 10:00am\u20132:00pm, serving South Lake County residents.",
+    "address": "Mascotte, FL 34753",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "34753"
+  },
+  {
+    "name": "South Lake County Community Meals Program",
+    "description": "Provides hot meals and a food pantry for homeless, at-risk families, children, veterans, and those in need in Mascotte, Groveland, and Clermont. Hot meals Tuesdays 6pm\u20137:30pm.",
+    "address": "Mascotte, FL 34753",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "34753"
+  },
+  {
+    "name": "Fort Myers Christian Outreach Center",
+    "description": "Provides meals, food pantry, emergency shelter, crisis management, transitional living, and medical care to people who are homeless or near homeless. Open Monday\u2013Friday 8:00am\u20134:30pm.",
+    "address": "Fort Myers, FL 33901",
+    "phone": "239-334-3745",
+    "url": "",
+    "categorySlug": "crisis",
+    "zipCode": "33901"
+  },
+  {
+    "name": "Harry Chapin Food Bank of Southwest Florida",
+    "description": "Regional food bank serving Charlotte, Collier, Glades, Hendry and Lee counties, providing hunger relief through a network of partner agencies.",
+    "address": "3760 Fowler St, Fort Myers, FL 33901",
+    "phone": "239-334-7007",
+    "url": "https://harrychapinfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "33901"
+  },
+  {
+    "name": "All Souls Episcopal Church Food Pantry",
+    "description": "Food pantry serving Fort Myers residents through the Episcopal church community.",
+    "address": "Fort Myers, FL 33901",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "33901"
+  },
+  {
+    "name": "The Salvation Army Fort Myers - Homeless Resource Day Center",
+    "description": "Comprehensive day center and emergency shelter providing basic needs, wrap-around services, job skills training, mental/behavioral health services, and medical referrals. Hours Monday\u2013Saturday 9am\u20136pm.",
+    "address": "2450 Edison Ave, Fort Myers, FL 33901",
+    "phone": "",
+    "url": "https://southernusa.salvationarmy.org/fortmyers/shelter/",
+    "categorySlug": "housing",
+    "zipCode": "33901"
+  },
+  {
+    "name": "Community Cooperative Soup Kitchen",
+    "description": "Soup kitchen striving to alleviate hunger and homelessness in Southwest Florida.",
+    "address": "3429 Dr. Martin Luther King Jr. Blvd, Fort Myers, FL 33916",
+    "phone": "",
+    "url": "https://communitycooperative.com/",
+    "categorySlug": "food",
+    "zipCode": "33916"
+  },
+  {
+    "name": "Catholic Charities Diocese of Venice - Fort Myers Food Pantry",
+    "description": "Food pantry serving Lee County residents through Catholic Charities.",
+    "address": "Fort Myers, FL 33907",
+    "phone": "",
+    "url": "https://catholiccharitiesdov.org/Fort-Myers-Food-Pantry",
+    "categorySlug": "food",
+    "zipCode": "33907"
+  },
+  {
+    "name": "Lutheran Services Florida - Oasis/Safe Place",
+    "description": "24/7 shelter for youth ages 10\u201317 in Fort Myers.",
+    "address": "3642 Central Ave, Fort Myers, FL 33901",
+    "phone": "239-284-8275",
+    "url": "",
+    "categorySlug": "housing",
+    "zipCode": "33901"
+  },
+  {
+    "name": "Interfaith Charities of South Lee",
+    "description": "Provides food pantry, bill payment assistance, free tax help, and community programs for residents of South Fort Myers, Estero, and San Carlos Park.",
+    "address": "Estero, FL 33928",
+    "phone": "",
+    "url": "https://www.icslee.org",
+    "categorySlug": "food",
+    "zipCode": "33928"
+  },
+  {
+    "name": "Lehigh Community Services Food Pantry",
+    "description": "Local 501(c)(3) nonprofit serving Lehigh Acres since 1977. Pantry open Monday and Wednesday 9:00am\u201311:00am by appointment. Also offers emergency utility and SNAP/Medicaid application assistance.",
+    "address": "Lehigh Acres, FL 33936",
+    "phone": "239-369-5818",
+    "url": "https://www.lehighcommunityservices.com/",
+    "categorySlug": "food",
+    "zipCode": "33936"
+  },
+  {
+    "name": "Cape Coral Caring Center",
+    "description": "Emergency food pantry for Cape Coral residents, founded in 1990 by the Cape Coral Ministerial Association.",
+    "address": "Cape Coral, FL 33990",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "33990"
+  },
+  {
+    "name": "Cape Coral Assembly of God Food Pantry",
+    "description": "Community food pantry serving Cape Coral residents, open Saturdays 9:00am\u20131:00pm.",
+    "address": "Cape Coral, FL 33991",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "33991"
+  },
+  {
+    "name": "Around the Clock Caring",
+    "description": "Provides transitional housing to families in need and assists with job skills training and job mentoring in Cape Coral.",
+    "address": "1140 Ceitus Terrace #8, Cape Coral, FL 33991",
+    "phone": "",
+    "url": "",
+    "categorySlug": "housing",
+    "zipCode": "33991"
+  },
+  {
+    "name": "ECHO - Emergency Care and Help Organization",
+    "description": "Food pantry serving Leon County residents in emergency need. Open Monday\u2013Wednesday and Friday 9:00am\u201312:00pm and 1:00pm\u20135:00pm, Thursday 8:00am\u201312:00pm.",
+    "address": "Tallahassee, FL 32301",
+    "phone": "850-224-3246",
+    "url": "https://echotlh.org/",
+    "categorySlug": "food",
+    "zipCode": "32301"
+  },
+  {
+    "name": "Good News Outreach",
+    "description": "Food pantry and community outreach serving Tallahassee and Leon County residents.",
+    "address": "Tallahassee, FL 32303",
+    "phone": "",
+    "url": "https://www.goodnewsoutreach.org/",
+    "categorySlug": "food",
+    "zipCode": "32303"
+  },
+  {
+    "name": "The Kearney Center",
+    "description": "24-hour comprehensive emergency center for individuals experiencing or on-the-verge of homelessness in the Big Bend region. Provides overnight shelter, daytime services, medical care, laundry, case management, and housing referrals.",
+    "address": "Tallahassee, FL 32304",
+    "phone": "",
+    "url": "https://kearneycenter.org/",
+    "categorySlug": "housing",
+    "zipCode": "32304"
+  },
+  {
+    "name": "The Tallahassee-Leon Shelter",
+    "description": "Entry point into homeless assistance for individuals and families with children, open 24/7/365.",
+    "address": "Tallahassee, FL 32304",
+    "phone": "850-792-9000",
+    "url": "",
+    "categorySlug": "housing",
+    "zipCode": "32304"
+  },
+  {
+    "name": "Family Promise of the Big Bend",
+    "description": "Formerly the Big Bend Homeless Coalition, provides shelter and housing services since 1987. Works to end homelessness through advocacy and affordable housing.",
+    "address": "Tallahassee, FL 32303",
+    "phone": "",
+    "url": "https://familypromisebigbend.org/",
+    "categorySlug": "housing",
+    "zipCode": "32303"
+  },
+  {
+    "name": "Capital Area Community Action Agency - Leon County",
+    "description": "Community action agency providing food assistance and social services to residents of Leon County and the Big Bend region.",
+    "address": "Tallahassee, FL 32301",
+    "phone": "",
+    "url": "",
+    "categorySlug": "community",
+    "zipCode": "32301"
+  },
+  {
+    "name": "Tri-County Community Resource Center - Chiefland",
+    "description": "Provides emergency food closet assistance to Levy County residents. Open Monday\u2013Thursday 9am\u201312pm, 1pm\u20133pm.",
+    "address": "15 N Main Street, Chiefland, FL 32626",
+    "phone": "352-507-4000",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "32626"
+  },
+  {
+    "name": "Tri-County Outreach Food Pantry",
+    "description": "Food pantry serving Chiefland and Levy County, open Monday\u2013Thursday 10:00am\u20133:00pm. Onsite thrift store also available.",
+    "address": "Chiefland, FL 32626",
+    "phone": "352-493-2310",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "32626"
+  },
+  {
+    "name": "First United Methodist Church Williston Food Pantry",
+    "description": "Food pantry serving Williston, Morriston, and surrounding areas. Open Tuesday and Thursday 9:00am\u201312:00pm, one visit per household every three months.",
+    "address": "Williston, FL 32696",
+    "phone": "352-528-3636",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "32696"
+  },
+  {
+    "name": "Unity of Life Foundation - Levy County",
+    "description": "Food bank serving Levy County focused on eliminating hunger, homelessness, and poverty through food, clothing, and shelter resources.",
+    "address": "Levy County, FL 32696",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "32696"
+  },
+  {
+    "name": "Capital Area Community Action Agency - Liberty County",
+    "description": "Community action agency providing food assistance and social services to Liberty County residents in Bristol, open Monday\u2013Friday 8am\u20134pm.",
+    "address": "Bristol, FL 32321",
+    "phone": "850-643-5113",
+    "url": "",
+    "categorySlug": "community",
+    "zipCode": "32321"
+  },
+  {
+    "name": "The Bristol Emergency Food Pantry",
+    "description": "Nonprofit emergency food pantry serving residents of Liberty County in Bristol.",
+    "address": "Bristol, FL 32321",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "32321"
+  },
+  {
+    "name": "Suwannee River Economic Council - Madison County",
+    "description": "Nonprofit providing food assistance, emergency services, and community resources to Madison County residents, open Monday\u2013Friday 8am\u20134:30pm.",
+    "address": "Madison, FL 32340",
+    "phone": "850-973-6709",
+    "url": "",
+    "categorySlug": "community",
+    "zipCode": "32340"
+  },
+  {
+    "name": "Catholic Charities of Northwest Florida - Big Bend Region",
+    "description": "Food pantry serving multiple counties including Liberty, Madison, Jefferson, and surrounding Big Bend area counties.",
+    "address": "Madison, FL 32340",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "32340"
+  },
+  {
+    "name": "Food Bank of Manatee",
+    "description": "Drive-through food bank distributing groceries every Wednesday 8:30\u201311:00am for Manatee County residents.",
+    "address": "Bradenton, FL 34203",
+    "phone": "941-753-4153",
+    "url": "https://mealsonwheelsplus.org/food-bank-of-manatee/",
+    "categorySlug": "food",
+    "zipCode": "34203"
+  },
+  {
+    "name": "Our Daily Bread of Bradenton",
+    "description": "Soup kitchen and food pantry founded in 1984 serving individuals and families with food insecurity in the Bradenton area.",
+    "address": "Bradenton, FL 34205",
+    "phone": "",
+    "url": "https://www.ourdailybreadofbradenton.org/",
+    "categorySlug": "food",
+    "zipCode": "34205"
+  },
+  {
+    "name": "Bethel Church Food Pantry",
+    "description": "Community food pantry open the 1st and 3rd Tuesdays of every month 11am\u20132pm.",
+    "address": "Bradenton, FL 34209",
+    "phone": "",
+    "url": "https://bethelbradenton.com/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "34209"
+  },
+  {
+    "name": "St. Joseph Food Pantry",
+    "description": "Food pantry serving Manatee County residents.",
+    "address": "Bradenton, FL 34205",
+    "phone": "941-756-3732",
+    "url": "https://stjoepantry.com/",
+    "categorySlug": "food",
+    "zipCode": "34205"
+  },
+  {
+    "name": "Christ Episcopal Church - The Lord's Pantry",
+    "description": "Faith-based food pantry serving Manatee County residents.",
+    "address": "4030 Manatee Ave W, Bradenton, FL 34209",
+    "phone": "941-747-3709",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "34209"
+  },
+  {
+    "name": "Turning Points",
+    "description": "One-stop center providing services to those experiencing or at risk of homelessness, including emergency rent and utility assistance for very low-income Manatee County residents.",
+    "address": "701 17th Avenue West, Bradenton, FL 34205",
+    "phone": "941-747-1509",
+    "url": "https://tpmanatee.org/",
+    "categorySlug": "housing",
+    "zipCode": "34205"
+  },
+  {
+    "name": "Salvation Army of Manatee County",
+    "description": "Emergency shelter providing nutritious meals, linens, and showers. Provides seven free nights annually to Manatee County residents.",
+    "address": "1204 14th Street West, Bradenton, FL 34205",
+    "phone": "941-748-5110",
+    "url": "",
+    "categorySlug": "housing",
+    "zipCode": "34205"
+  },
+  {
+    "name": "Mt. Carmel Community Resource Center",
+    "description": "Provides bagged lunches and food assistance in the Palmetto area Monday\u2013Friday, 9am\u201312pm.",
+    "address": "1314 2nd Avenue West, Palmetto, FL 34221",
+    "phone": "941-981-5354",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "34221"
+  },
+  {
+    "name": "Increasing Joy Ministries",
+    "description": "Faith-based food pantry serving Palmetto and Manatee County by appointment.",
+    "address": "2515 37th St E, Palmetto, FL 34221",
+    "phone": "941-721-0684",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "34221"
+  },
+  {
+    "name": "Myakka United Methodist Church Food Pantry",
+    "description": "Community food pantry in Myakka City, open Fridays 9am\u201312pm and Saturdays 9am\u20131pm; also available by phone appointment Monday\u2013Friday.",
+    "address": "10525 Lebanon St, Myakka City, FL 34251",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "34251"
+  },
+  {
+    "name": "Giving Alliance of Myakka City",
+    "description": "Nonprofit distributing food on the third Saturday of each month, 9am\u201311am, in Myakka City.",
+    "address": "36826 Manatee Ave, Myakka City, FL 34251",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "34251"
+  },
+  {
+    "name": "Bon Samaritain Community Outreach",
+    "description": "Food pantry serving the Sarasota/Manatee border area, open Fridays 10:00am\u20131:00pm.",
+    "address": "6370 15th Street E, Sarasota, FL 34243",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "34243"
+  },
+  {
+    "name": "Community of Gratitude",
+    "description": "Provides emergency food to neighbors in Ocklawaha, Weirsdale, Silver Springs, East Lake Weir, and Umatilla. Open Tuesday 10am\u201312pm, Thursday 1pm\u20133pm, and Saturday 10am\u201312pm.",
+    "address": "Ocklawaha, FL 32179",
+    "phone": "",
+    "url": "https://www.communityofgratitude.org/",
+    "categorySlug": "food",
+    "zipCode": "32179"
+  },
+  {
+    "name": "Interfaith Emergency Services",
+    "description": "Provides food, clothing, shelter, and essential resources for individuals and families in need across Marion County. Open Monday\u2013Friday 9:00am\u20134:00pm.",
+    "address": "435 NW 2nd St, Ocala, FL 34475",
+    "phone": "352-629-8868",
+    "url": "https://www.iesmarion.org/",
+    "categorySlug": "crisis",
+    "zipCode": "34475"
+  },
+  {
+    "name": "Annie W. Johnson Senior and Family Center Food Pantry",
+    "description": "Food pantry available once every 90 days for Marion and Citrus County residents, open Monday\u2013Friday 9:00am\u201312:00pm.",
+    "address": "Dunnellon, FL 34431",
+    "phone": "352-465-7957",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "34431"
+  },
+  {
+    "name": "Helping Hands Food Pantry - St. John the Baptist",
+    "description": "Distributes produce, canned goods, frozen/refrigerated foods, baby food, diapers, personal care items, and pet food to Dunnellon residents on a non-discriminatory basis.",
+    "address": "Dunnellon, FL 34432",
+    "phone": "352-489-9112",
+    "url": "https://dunnelloncatholic.org/helping-hands-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "34432"
+  },
+  {
+    "name": "Ramah Missionary Baptist Church Food Pantry - Belleview",
+    "description": "Food pantry serving Belleview residents, open Monday\u2013Wednesday 9:00am\u201312:00pm.",
+    "address": "Belleview, FL 34420",
+    "phone": "352-245-1944",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "34420"
+  },
+  {
+    "name": "Belleview Area Food Pantry",
+    "description": "Food pantry serving Marion County residents in Belleview, open Monday\u2013Friday 9:00am\u201312:00pm. Requires photo ID and Florida residency.",
+    "address": "11528 US-301, Belleview, FL 34420",
+    "phone": "352-245-2458",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "34420"
+  },
+  {
+    "name": "Interfaith Emergency Services - Ocala",
+    "description": "Comprehensive nonprofit providing food, clothing, emergency shelter, and essential resources for individuals and families in need throughout Marion County. Open Monday\u2013Friday 9:00am\u20134:00pm.",
+    "address": "435 NW 2nd St, Ocala, FL 34475",
+    "phone": "352-629-8868",
+    "url": "https://www.iesmarion.org/",
+    "categorySlug": "crisis",
+    "zipCode": "34470"
+  },
+  {
+    "name": "His Compassion Food Pantry",
+    "description": "Free food pantry covering Marion County and several surrounding counties.",
+    "address": "Ocala, FL 34470",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "34470"
+  },
+  {
+    "name": "Community of Gratitude - Silver Springs Area",
+    "description": "Provides emergency food to neighbors in Silver Springs, Ocklawaha, Weirsdale, East Lake Weir, and surrounding communities in Marion County.",
+    "address": "Silver Springs, FL 34488",
+    "phone": "",
+    "url": "https://www.communityofgratitude.org/",
+    "categorySlug": "food",
+    "zipCode": "34488"
+  },
+  {
+    "name": "Marion County Hospital District - Food and Clothing Program",
+    "description": "Christ-based 501(c)(3) ministry offering drive-through free food pick-up for individuals and families in the greater Ocala area.",
+    "address": "Ocala, FL 34471",
+    "phone": "",
+    "url": "https://mchdt.org/healthy-ocala-initiative/food-and-clothing/",
+    "categorySlug": "food",
+    "zipCode": "34471"
+  },
+  {
+    "name": "Dunnellon Community Services Food Pantry",
+    "description": "Local food pantry serving Dunnellon and surrounding Marion County communities.",
+    "address": "Dunnellon, FL 34432",
+    "phone": "",
+    "url": "https://foodbanksinflorida.org/dunnellon-community-services-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "34432"
+  },
+  {
+    "name": "House of Hope - Hobe Sound",
+    "description": "Founded in 1984, empowers Martin County residents to overcome hunger and hardship through food pantry and support services. Open Tuesday\u2013Saturday 10am\u20134pm.",
+    "address": "11760 SE Dixie Highway, Hobe Sound, FL 33455",
+    "phone": "772-545-9342",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "33455"
+  },
+  {
+    "name": "St. Vincent de Paul Society - Hobe Sound",
+    "description": "Nonprofit food pantry serving Martin County residents. Open Monday\u2013Friday 9:00am\u201312:00pm.",
+    "address": "Hobe Sound, FL 33455",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "33455"
+  },
+  {
+    "name": "Interfaith Emergency Services",
+    "description": "Full-range nonprofit providing food pantry, clothing closet, emergency shelter, prescription assistance, and supportive housing for Marion County residents since 1983.",
+    "address": "435 NW 2nd St, Ocala, FL 34475",
+    "phone": "352-629-8868",
+    "url": "https://www.iesmarion.org/",
+    "categorySlug": "food",
+    "zipCode": "34475"
+  },
+  {
+    "name": "Helping Hands of Ocala",
+    "description": "Nonprofit charity providing emergency shelter and support services including food, clothing, medical, dental, transportation, and counseling for homeless and those in difficult situations in Marion County.",
+    "address": "101 NE 16th Avenue, Ocala, FL 34470",
+    "phone": "352-547-4212",
+    "url": "https://www.helpinghandsocala.org/",
+    "categorySlug": "housing",
+    "zipCode": "34470"
+  },
+  {
+    "name": "Gateway to Hope Ministries",
+    "description": "501(c)(3) nonprofit serving the homeless, needy, underprivileged, frail elderly, and working poor in Greater Ocala with food pantry and hot meals.",
+    "address": "3803 NE 7th Street, Ocala, FL 34470",
+    "phone": "352-433-1119",
+    "url": "https://gatewaytohopeministries.com/",
+    "categorySlug": "food",
+    "zipCode": "34470"
+  },
+  {
+    "name": "His Compassion Food Bank",
+    "description": "Food pantry providing quality food items to households experiencing food insecurity in Marion County and surrounding counties. Distribution held first and third Tuesdays monthly.",
+    "address": "2000 NE 78th Street, Ocala, FL 34479",
+    "phone": "352-282-3569",
+    "url": "https://hiscompassionflorida.org/",
+    "categorySlug": "food",
+    "zipCode": "34479"
+  },
+  {
+    "name": "Dunnellon Community Services Food Pantry",
+    "description": "Food pantry serving Marion County residents experiencing food insecurity, open first and third Mondays of each month. Also offers free lunch for seniors 60 and older.",
+    "address": "19924 W Blue Cove Drive, Dunnellon, FL 34432",
+    "phone": "",
+    "url": "https://foodbanksinflorida.org/dunnellon-community-services-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "34432"
+  },
+  {
+    "name": "Help Agency of the Forest",
+    "description": "Food pantry serving Belleview and Summerfield residents in the Silver Springs area of Marion County, open Monday through Friday.",
+    "address": "Silver Springs, FL 34488",
+    "phone": "",
+    "url": "https://www.foodpantries.org/li/help_agency_of_the_forest_",
+    "categorySlug": "food",
+    "zipCode": "34488"
+  },
+  {
+    "name": "House of Hope - Stuart",
+    "description": "Nonprofit providing food pantry, clothing, furniture, financial assistance, and case management services to Martin County residents in need. Main administrative office and largest food pantry.",
+    "address": "2484 SE Bonita Street, Stuart, FL 34997",
+    "phone": "772-286-4673",
+    "url": "https://www.hohmartin.org/",
+    "categorySlug": "food",
+    "zipCode": "34997"
+  },
+  {
+    "name": "House of Hope - Indiantown",
+    "description": "Branch location of House of Hope providing food pantry, thrift store, and access to Project HOPE services for Indiantown area residents.",
+    "address": "15549 SW Warfield Blvd, Indiantown, FL 34956",
+    "phone": "772-286-4673",
+    "url": "https://www.hohmartin.org/",
+    "categorySlug": "food",
+    "zipCode": "34956"
+  },
+  {
+    "name": "House of Hope - Jensen Beach",
+    "description": "Branch of House of Hope serving Jensen Beach area residents with food pantry and Project HOPE supportive services.",
+    "address": "1090 NE Jensen Beach Blvd, Jensen Beach, FL 34957",
+    "phone": "772-286-4673",
+    "url": "https://www.hohmartin.org/",
+    "categorySlug": "food",
+    "zipCode": "34957"
+  },
+  {
+    "name": "House of Hope - Hobe Sound",
+    "description": "Branch of House of Hope serving Hobe Sound area residents with food pantry, thrift store, and access to Project HOPE services.",
+    "address": "8937 SE Bridge Road, Hobe Sound, FL 33455",
+    "phone": "772-286-4673",
+    "url": "https://www.hohmartin.org/",
+    "categorySlug": "food",
+    "zipCode": "33455"
+  },
+  {
+    "name": "Family Promise of Martin County",
+    "description": "Nonprofit providing family shelter, transitional housing, and support services to help families experiencing homelessness achieve stability and self-sufficiency.",
+    "address": "Stuart, FL 34995",
+    "phone": "772-266-9327",
+    "url": "https://www.mcfamilypromise.org/",
+    "categorySlug": "housing",
+    "zipCode": "34994"
+  },
+  {
+    "name": "Love and Hope in Action (LAHIA)",
+    "description": "The only full-service daytime safe haven for unhoused individuals in Martin County, offering case management, social service assistance, basic necessities, transportation assistance, and housing referrals.",
+    "address": "1760 SE Salerno Rd, Stuart, FL 34997",
+    "phone": "772-781-7002",
+    "url": "https://www.lahia.org/",
+    "categorySlug": "crisis",
+    "zipCode": "34997"
+  },
+  {
+    "name": "First United Methodist Church of Homestead Food Pantry",
+    "description": "Church-run food pantry serving the Homestead community for over 14 years, providing free groceries and emergency food assistance to low-income families.",
+    "address": "Homestead, FL 33033",
+    "phone": "305-246-3276",
+    "url": "https://homestead.church/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "33033"
+  },
+  {
+    "name": "COFFO Inc (Coalition of Florida Farmworker Organizations)",
+    "description": "Nonprofit supporting farmworker families in the Homestead and Florida City area with food assistance and emergency resources.",
+    "address": "778 W Palm Drive, Florida City, FL 33034",
+    "phone": "305-246-0357",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "33034"
+  },
+  {
+    "name": "Bridge to Hope Food Pantry",
+    "description": "Free food pantry operated by Homestead Church of Christ serving residents of Homestead and the surrounding area.",
+    "address": "Homestead, FL 33030",
+    "phone": "",
+    "url": "https://www.findhelp.org/homestead-church-of-christ--homestead-fl--food-pantry-program/4724844163235840",
+    "categorySlug": "food",
+    "zipCode": "33030"
+  },
+  {
+    "name": "Worship Center Blessed Ministries",
+    "description": "Nonprofit ministry providing free food distribution to Opa-Locka community members on Wednesdays, 11am-2pm.",
+    "address": "1793 Opa-Locka Blvd, Opa-Locka, FL 33054",
+    "phone": "786-704-2009",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "33054"
+  },
+  {
+    "name": "Food For Life Network",
+    "description": "501(c)(3) nonprofit food pantry founded in 1987, dedicated to eliminating food insecurity and malnutrition for men, women, and children living with chronic illnesses in Miami-Dade County.",
+    "address": "3510 Biscayne Blvd Suite 109, Miami, FL 33137",
+    "phone": "",
+    "url": "https://www.foodforlifenetwork.org",
+    "categorySlug": "food",
+    "zipCode": "33137"
+  },
+  {
+    "name": "Salvation Army Hialeah Food Pantry",
+    "description": "Salvation Army food pantry providing emergency food assistance to Hialeah-area residents facing food insecurity.",
+    "address": "Hialeah, FL 33013",
+    "phone": "",
+    "url": "https://foodbanksinflorida.org/food-bank/salvation-army-hialeah-pantry/",
+    "categorySlug": "food",
+    "zipCode": "33013"
+  },
+  {
+    "name": "Coconut Grove Crisis Food Pantry",
+    "description": "501(c)(3) nonprofit food pantry serving low-income and food-insecure residents of the Coconut Grove / South Miami area (zip 33133).",
+    "address": "Coconut Grove, Miami, FL 33133",
+    "phone": "",
+    "url": "https://coconutgrovecrisisfoodpantry.com/",
+    "categorySlug": "food",
+    "zipCode": "33133"
+  },
+  {
+    "name": "Camillus House",
+    "description": "Catholic humanitarian nonprofit providing emergency shelter, meals, medical care, substance abuse treatment, and supportive services to homeless and indigent residents of Miami-Dade County for over 50 years.",
+    "address": "1603 NW 7th Avenue, Miami, FL 33136",
+    "phone": "305-374-1065",
+    "url": "https://www.camillus.org/",
+    "categorySlug": "housing",
+    "zipCode": "33136"
+  },
+  {
+    "name": "New Life Family Center",
+    "description": "Catholic Charities emergency shelter serving homeless families in Miami-Dade County, providing services to help families move into permanent independent living and self-sufficiency.",
+    "address": "3620 NW 1st Ave, Miami, FL 33127",
+    "phone": "305-573-3333",
+    "url": "https://www.ccadm.org/sh_projects/the-new-life-family-center/",
+    "categorySlug": "housing",
+    "zipCode": "33127"
+  },
+  {
+    "name": "Miami Rescue Mission - Center for Women and Children",
+    "description": "Emergency night shelter for women and children providing overnight shelter, dinner, breakfast, and emergency clothing and toiletries.",
+    "address": "2250 NW 1st Avenue, Miami, FL 33127",
+    "phone": "305-571-2250",
+    "url": "",
+    "categorySlug": "housing",
+    "zipCode": "33127"
+  },
+  {
+    "name": "Lotus House Women's Shelter",
+    "description": "The largest women's homeless shelter in the country, serving 1,550+ women, youth, and children annually, offering 24/7 emergency shelter and comprehensive supportive services.",
+    "address": "217 NW 15th Street, Miami, FL 33136",
+    "phone": "305-438-0556",
+    "url": "https://www.lotushouse.org/",
+    "categorySlug": "housing",
+    "zipCode": "33136"
+  },
+  {
+    "name": "Salvation Army Miami - Center of Hope",
+    "description": "Salvation Army distributes 500+ grocery bag meals weekly with fresh produce and shelf-stable items to residents in Allapattah and Little Havana neighborhoods.",
+    "address": "Miami, FL 33135",
+    "phone": "",
+    "url": "https://miami.salvationarmyflorida.org/miami/food-assistance/",
+    "categorySlug": "food",
+    "zipCode": "33135"
+  },
+  {
+    "name": "NoMi Food Pantry",
+    "description": "City-supported nonprofit food pantry in North Miami providing fruits, vegetables, protein, dairy, shelf-stable items, diapers, and personal hygiene items to North Miami residents by appointment.",
+    "address": "12500 NW 13th Avenue, North Miami, FL 33167",
+    "phone": "305-953-3053",
+    "url": "https://nomicares.org/",
+    "categorySlug": "food",
+    "zipCode": "33167"
+  },
+  {
+    "name": "Good News Community Outreach Center - Helping Hand Food Pantry",
+    "description": "Nonprofit offering free food pantry services to North Miami Beach and surrounding community members in need.",
+    "address": "North Miami Beach, FL 33160",
+    "phone": "",
+    "url": "https://www.findhelp.org/good-news-community-outreach-center--miami-fl--helping-hand-food-pantry/5397962549886976",
+    "categorySlug": "food",
+    "zipCode": "33160"
+  },
+  {
+    "name": "Camillus House - Emergency Housing",
+    "description": "Emergency and transitional housing services for homeless individuals and families in Miami-Dade, including shelter, meals, healthcare, and case management.",
+    "address": "1603 NW 7th Avenue, Miami, FL 33136",
+    "phone": "305-374-1065",
+    "url": "https://www.camillus.org/",
+    "categorySlug": "housing",
+    "zipCode": "33136"
+  },
+  {
+    "name": "Food For Life Network",
+    "description": "Trusted 501(c)(3) nonprofit food pantry serving people with chronic illnesses in Miami-Dade County with free nutritious food since 1987.",
+    "address": "3510 Biscayne Blvd Suite 109, Miami, FL 33137",
+    "phone": "",
+    "url": "https://www.foodforlifenetwork.org",
+    "categorySlug": "food",
+    "zipCode": "33137"
+  },
+  {
+    "name": "Axis Helps Miami - Food Pantry",
+    "description": "Nonprofit providing food pantry and shelter services specifically to residents of North Miami and Miami-Dade County.",
+    "address": "North Miami, FL 33161",
+    "phone": "",
+    "url": "https://www.axishelps.org/individual/food-pantry-north-miami",
+    "categorySlug": "food",
+    "zipCode": "33161"
+  },
+  {
+    "name": "Camillus House",
+    "description": "Comprehensive humanitarian nonprofit providing emergency shelter, meals, medical care, substance abuse treatment, and legal assistance to homeless and at-risk populations in Miami-Dade County.",
+    "address": "1603 NW 7th Avenue, Miami, FL 33136",
+    "phone": "305-374-1065",
+    "url": "https://www.camillus.org/",
+    "categorySlug": "housing",
+    "zipCode": "33168"
+  },
+  {
+    "name": "Food Rescue US - South Florida",
+    "description": "Nonprofit committed to ending hunger and reducing food waste by same-day delivering fresh food from grocers and restaurants to shelters, pantries and food-insecure families in communities including Liberty City, Little Haiti, and Overtown.",
+    "address": "Miami, FL 33172",
+    "phone": "",
+    "url": "https://foodrescue.us/south-florida/",
+    "categorySlug": "food",
+    "zipCode": "33172"
+  },
+  {
+    "name": "Lotus House Women's Shelter",
+    "description": "Nation's largest women's homeless shelter serving 1,550+ women, youth, and children annually with 24/7 emergency shelter and comprehensive supportive services in Miami.",
+    "address": "217 NW 15th Street, Miami, FL 33136",
+    "phone": "305-438-0556",
+    "url": "https://www.lotushouse.org/",
+    "categorySlug": "housing",
+    "zipCode": "33176"
+  },
+  {
+    "name": "New Life Family Center",
+    "description": "Emergency family shelter in Miami providing transitional services to help homeless families achieve permanent independent living and self-sufficiency.",
+    "address": "3620 NW 1st Ave, Miami, FL 33127",
+    "phone": "305-573-3333",
+    "url": "https://www.ccadm.org/sh_projects/the-new-life-family-center/",
+    "categorySlug": "housing",
+    "zipCode": "33170"
+  },
+  {
+    "name": "Camillus House",
+    "description": "Comprehensive humanitarian nonprofit providing emergency shelter, meals, medical care, and supportive services to homeless and at-risk populations in Miami-Dade County.",
+    "address": "1603 NW 7th Avenue, Miami, FL 33136",
+    "phone": "305-374-1065",
+    "url": "https://www.camillus.org/",
+    "categorySlug": "housing",
+    "zipCode": "33184"
+  },
+  {
+    "name": "Food For Life Network",
+    "description": "501(c)(3) nonprofit food pantry serving people with chronic illnesses in Miami-Dade County with free nutritious food since 1987.",
+    "address": "3510 Biscayne Blvd Suite 109, Miami, FL 33137",
+    "phone": "",
+    "url": "https://www.foodforlifenetwork.org",
+    "categorySlug": "food",
+    "zipCode": "33186"
+  },
+  {
+    "name": "Florida Keys Outreach Coalition for the Homeless (FKOC)",
+    "description": "Nonprofit incorporated in 1992 providing homeless prevention, emergency shelter, transitional housing, and supportive services throughout Monroe County. Operates Loaves & Fish Food Pantry and men's residential facilities.",
+    "address": "2221 Patterson Ave, Key West, FL 33040",
+    "phone": "305-293-0641",
+    "url": "https://fkoc.org/",
+    "categorySlug": "housing",
+    "zipCode": "33040"
+  },
+  {
+    "name": "FKOC Loaves & Fish Food Pantry",
+    "description": "Food pantry operated by the Florida Keys Outreach Coalition serving Monroe County community members who are unable to afford sufficient food. Open Monday-Friday 9am-5pm.",
+    "address": "2221 Patterson Ave, Key West, FL 33040",
+    "phone": "305-293-0641",
+    "url": "https://fkoc.org/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "33040"
+  },
+  {
+    "name": "SOS Foundation - Florida Keys Hunger Relief",
+    "description": "Local nonprofit addressing hunger relief in the Florida Keys communities, including Islamorada and surrounding areas.",
+    "address": "Islamorada, FL 33036",
+    "phone": "",
+    "url": "https://www.sosfoundation.org",
+    "categorySlug": "food",
+    "zipCode": "33036"
+  },
+  {
+    "name": "KAIR (Keys Area Interdenominational Resources)",
+    "description": "Certified food pantry based in Marathon serving individuals and families in crisis throughout Marathon and the Florida Keys. Distributes 300,000 lbs of food per year and provides rental and utility assistance.",
+    "address": "3010 Overseas Hwy, Marathon, FL 33050",
+    "phone": "305-743-4582",
+    "url": "https://kaironline.org/",
+    "categorySlug": "food",
+    "zipCode": "33050"
+  },
+  {
+    "name": "Burton Memorial United Methodist Church Food Pantry",
+    "description": "Food pantry in Tavernier offering free groceries and essentials to Upper Keys residents, open Thursdays 5-7pm. Free hot meal provided Thursday 5-6:30pm.",
+    "address": "Tavernier, FL 33070",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "33070"
+  },
+  {
+    "name": "First Baptist Islamorada Community Ministry Food Bank",
+    "description": "Church-operated food bank providing nutritious food and caring support to individuals and families facing short-term challenges or longer-term financial hardship in the Keys.",
+    "address": "Islamorada, FL 33036",
+    "phone": "305-664-4910",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "33036"
+  },
+  {
+    "name": "Coalition for the Homeless of Nassau County",
+    "description": "Nonprofit providing emergency shelter, day drop-in center, food assistance, job application help, housing assistance, and case management to homeless and at-risk individuals in Nassau County.",
+    "address": "1005 South 14th Street, Fernandina Beach, FL 32034",
+    "phone": "",
+    "url": "https://www.chnassau.com/",
+    "categorySlug": "housing",
+    "zipCode": "32034"
+  },
+  {
+    "name": "Barnabas Center - Nassau County",
+    "description": "Community services nonprofit in Fernandina Beach offering food pantry to low- and moderate-income Nassau County residents Tuesday-Friday 10am-noon, plus five mobile food distributions monthly.",
+    "address": "1303 Jasmine St Suite 101, Fernandina Beach, FL 32034",
+    "phone": "",
+    "url": "https://barnabasnassau.org/",
+    "categorySlug": "food",
+    "zipCode": "32034"
+  },
+  {
+    "name": "Yulee Baptist Church Food Pantry",
+    "description": "Food pantry serving Yulee, Fernandina Beach, Callahan, Hilliard, and all of Nassau County. Open Mondays 1-4pm at 85971 Harts Rd. Serves 13,000+ people annually.",
+    "address": "85971 Harts Rd, Yulee, FL 32097",
+    "phone": "904-225-5128",
+    "url": "http://www.yuleebaptist.com/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "32097"
+  },
+  {
+    "name": "Sharing & Caring of Okaloosa County - Crestview",
+    "description": "Nonprofit providing food boxes every 30 days, bagged lunches on Fridays, personal care items, and prescription medication vouchers to Okaloosa County residents.",
+    "address": "298 Martin Luther King Jr Ave, Crestview, FL 32536",
+    "phone": "850-682-1907",
+    "url": "https://sharing-n-caring.org/crestviewhome.html",
+    "categorySlug": "food",
+    "zipCode": "32536"
+  },
+  {
+    "name": "Sharing & Caring of Okaloosa County - Fort Walton Beach",
+    "description": "Food pantry branch serving Fort Walton Beach area residents with food boxes, bagged lunches, personal care items, and prescription assistance.",
+    "address": "126 Beal Pkwy SW, Fort Walton Beach, FL 32548",
+    "phone": "850-244-0778",
+    "url": "https://sharing-n-caring.org/",
+    "categorySlug": "food",
+    "zipCode": "32548"
+  },
+  {
+    "name": "Sharing & Caring of Okaloosa County - Niceville",
+    "description": "Food pantry serving Niceville and Valparaiso residents with groceries Monday-Thursday 9am-2pm and Friday 9am-noon. Proof of local residency required.",
+    "address": "104 Bullock Blvd, Niceville, FL 32578",
+    "phone": "850-678-8459",
+    "url": "https://sharing-n-caring.org/",
+    "categorySlug": "food",
+    "zipCode": "32578"
+  },
+  {
+    "name": "Center of Hope Benevolent Ministry",
+    "description": "Nonprofit providing food and other assistance to eligible residents of Niceville and Valparaiso, with interviews conducted Monday-Thursday 9:30am-12:30pm.",
+    "address": "601 31st St, Niceville, FL 32578",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "32578"
+  },
+  {
+    "name": "Christ Our Redeemer Catholic Outreach",
+    "description": "Nonprofit outreach program providing food, clothing, rent, and utility assistance to residents of the Niceville area Monday-Thursday 9am-2pm.",
+    "address": "1028 White Point Road, Niceville, FL 32578",
+    "phone": "850-897-7797",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "32578"
+  },
+  {
+    "name": "Okeechobee Church of God Food Pantry",
+    "description": "Nonprofit food pantry open the 1st and 3rd Monday of the month, collecting, storing, and distributing food to those in need in Okeechobee County.",
+    "address": "301 NE 4th Avenue, Okeechobee, FL 34972",
+    "phone": "863-763-4127",
+    "url": "https://foodbanksinflorida.org/food-bank/okeechobee-church-of-god-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "34972"
+  },
+  {
+    "name": "Okeechobee Presbyterian Church Food Pantry",
+    "description": "Community food pantry serving low-income families, single parents, senior citizens, unemployed individuals, disabled veterans, and working poor in Okeechobee County.",
+    "address": "312 N Parrott Ave, Okeechobee, FL 34972",
+    "phone": "863-824-0013",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "34972"
+  },
+  {
+    "name": "Hope CommUnity Center - Apopka Food Pantry",
+    "description": "Nonprofit food pantry in Apopka operating Tuesdays 9:30am-5pm and Thursdays 9:30am-5pm at two locations, offering non-perishable goods and essentials to needy families in partnership with Second Harvest Food Bank.",
+    "address": "1016 N Park Ave, Apopka, FL 32712",
+    "phone": "",
+    "url": "https://hopecommunitycenter.org/",
+    "categorySlug": "food",
+    "zipCode": "32712"
+  },
+  {
+    "name": "Loaves and Fishes - Winter Park",
+    "description": "Food pantry serving Orange and Seminole County residents by appointment only, open Monday-Thursday 9am-4pm.",
+    "address": "2100 Lee Rd, Winter Park, FL 32789",
+    "phone": "407-644-7593",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "32789"
+  },
+  {
+    "name": "Coalition for the Homeless of Central Florida",
+    "description": "Nonprofit providing emergency shelter, intake services, and support programs for homeless men, women, and families in Orlando and Central Florida since the 1980s.",
+    "address": "18 N Terry Ave, Orlando, FL 32801",
+    "phone": "407-652-5300",
+    "url": "https://www.centralfloridahomeless.org/",
+    "categorySlug": "housing",
+    "zipCode": "32801"
+  },
+  {
+    "name": "Orlando Union Rescue Mission",
+    "description": "Faith-based nonprofit offering long-term residential programs, emergency shelter, and three meals daily 365 days a year to homeless men, women, and children in Orlando.",
+    "address": "1521 W Washington St, Orlando, FL 32805",
+    "phone": "407-422-4855",
+    "url": "https://ourm.org/",
+    "categorySlug": "housing",
+    "zipCode": "32805"
+  },
+  {
+    "name": "United Against Poverty Orlando",
+    "description": "Nonprofit fighting poverty through a Member Share Grocery Program providing free and dignified food and household assistance for low-income families, plus emergency food pantry for crisis situations.",
+    "address": "150 W Michigan St, Orlando, FL 32806",
+    "phone": "407-650-0774",
+    "url": "https://uporlando.org/",
+    "categorySlug": "food",
+    "zipCode": "32806"
+  },
+  {
+    "name": "Project Downtown Orlando",
+    "description": "Nonprofit providing food, clothing, and hygiene products to homeless individuals in Downtown Orlando.",
+    "address": "Orlando, FL 32801",
+    "phone": "",
+    "url": "https://pdorlando.org/",
+    "categorySlug": "food",
+    "zipCode": "32801"
+  },
+  {
+    "name": "Human Crisis Center",
+    "description": "Nonprofit food pantry serving Orlando area residents in need of emergency food assistance.",
+    "address": "Orlando, FL 32801",
+    "phone": "",
+    "url": "https://www.findhelp.org/human-crisis-center,-inc.--orlando-fl--food-pantry/5984172124667904",
+    "categorySlug": "food",
+    "zipCode": "32801"
+  },
+  {
+    "name": "Loaves and Fishes - Apopka",
+    "description": "Food pantry in the Apopka/northwest Orange County area serving qualifying households, with new clients calling for a qualification appointment.",
+    "address": "206 E 8th St, Apopka, FL 32703",
+    "phone": "407-886-6005",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "32703"
+  },
+  {
+    "name": "Holy Redeemer Catholic Church Food Pantry",
+    "description": "Food pantry serving Kissimmee residents on Tuesdays and Thursdays 9am\u201312pm. Proof of residency required. Also hosts Agape Mission Market (Catholic Charities of Central Florida).",
+    "address": "1603 N Thacker Ave, Kissimmee, FL 34741",
+    "phone": "(407) 847-2500",
+    "url": "https://cflcc.org/mission-markets/",
+    "categorySlug": "food",
+    "zipCode": "34741"
+  },
+  {
+    "name": "Church and Community Assistance Program (CCAP)",
+    "description": "One-stop food pantry serving Osceola County residents, distributing food to 60+ individuals and families per day Tuesday\u2013Friday 9am\u20131pm. Offers food, clothing, shelter referrals, and healthcare resources.",
+    "address": "2617 Michigan Ave, Kissimmee, FL 34744",
+    "phone": "(407) 572-8023",
+    "url": "https://www.ccapflorida.org",
+    "categorySlug": "food",
+    "zipCode": "34744"
+  },
+  {
+    "name": "Calvary Assembly of God Food Pantry",
+    "description": "Food box distribution every Thursday evening. Clients get a number at 6:30pm and food boxes are distributed at 8:30pm.",
+    "address": "711 N Thacker Ave, Kissimmee, FL 34741",
+    "phone": "(407) 847-5673",
+    "url": null,
+    "categorySlug": "food",
+    "zipCode": "34741"
+  },
+  {
+    "name": "Help Now of Osceola",
+    "description": "Emergency safe shelter for victims of domestic abuse facing imminent danger. Provides temporary housing and supportive services. 24-hour hotline available.",
+    "address": "108 Church St, Kissimmee, FL 34741",
+    "phone": "(407) 847-8562",
+    "url": "https://www.helpnowshelter.org/",
+    "categorySlug": "crisis",
+    "zipCode": "34741"
+  },
+  {
+    "name": "AVOS Food Pantry",
+    "description": "Nonprofit food pantry, charity, and volunteer organization serving the Poinciana/Kissimmee area with food assistance and success education services.",
+    "address": "1901 S Poinciana Blvd, Kissimmee, FL 34758",
+    "phone": "(407) 350-3311",
+    "url": "https://www.avoshelps.org/",
+    "categorySlug": "food",
+    "zipCode": "34758"
+  },
+  {
+    "name": "St. Cloud Dream Center",
+    "description": "Nonprofit community resource center providing food and community assistance services in St. Cloud.",
+    "address": "311 Commerce Center Dr, St. Cloud, FL 34769",
+    "phone": "(407) 985-4247",
+    "url": "https://www.dreamcenter.life/",
+    "categorySlug": "food",
+    "zipCode": "34769"
+  },
+  {
+    "name": "St. Cloud Community Pantry / Pantry Planters",
+    "description": "Free food pantry dedicated to serving Osceola County, operated solely by volunteers with no administrative overhead expenses.",
+    "address": "115 N Stewart Ave, St. Cloud, FL 34769",
+    "phone": "(407) 709-8475",
+    "url": "https://www.pantryplanters.org/pantries",
+    "categorySlug": "food",
+    "zipCode": "34769"
+  },
+  {
+    "name": "Osceola Council on Aging Food Pantry",
+    "description": "Food pantry program serving Osceola County seniors and residents in need, operated by the Osceola Council on Aging.",
+    "address": "Kissimmee, FL 34741",
+    "phone": null,
+    "url": "https://counciloffice.org/foodregistration/pantries.php",
+    "categorySlug": "food",
+    "zipCode": "34741"
+  },
+  {
+    "name": "The Hope Partnership",
+    "description": "Nonprofit providing food pantry services, homelessness prevention, and other community support resources for Osceola County residents.",
+    "address": "Kissimmee, FL 34741",
+    "phone": null,
+    "url": "https://www.thehopepartnership.org/",
+    "categorySlug": "community",
+    "zipCode": "34741"
+  },
+  {
+    "name": "Adopt-A-Family Program REACH Family Shelter",
+    "description": "Largest emergency shelter for families with minor children experiencing homelessness in Palm Beach County. 19 apartments providing immediate stabilization while working toward permanent housing.",
+    "address": "West Palm Beach, FL 33401",
+    "phone": null,
+    "url": "https://www.aafpbc.org/program-reach/",
+    "categorySlug": "housing",
+    "zipCode": "33401"
+  },
+  {
+    "name": "Emmanuel Deliverance Church of God Food Pantry",
+    "description": "Local church providing free food, meals, and assistance to West Palm Beach residents in need.",
+    "address": "1309 Georgia Ave, West Palm Beach, FL 33401",
+    "phone": "(561) 832-5148",
+    "url": null,
+    "categorySlug": "food",
+    "zipCode": "33401"
+  },
+  {
+    "name": "New Bethel Missionary Baptist Church Food Ministry",
+    "description": "Local church providing food, groceries, and other goods including clothing to community members in need.",
+    "address": "911 9th St, West Palm Beach, FL 33401",
+    "phone": "(561) 832-2101",
+    "url": null,
+    "categorySlug": "food",
+    "zipCode": "33401"
+  },
+  {
+    "name": "St. Ann Place Outreach Center",
+    "description": "Homeless resource and outreach center providing services to individuals experiencing homelessness in West Palm Beach.",
+    "address": "2107 N Dixie Hwy, West Palm Beach, FL 33407",
+    "phone": "(561) 805-7708",
+    "url": "https://www.stannplaceoc.org/",
+    "categorySlug": "housing",
+    "zipCode": "33407"
+  },
+  {
+    "name": "The Lord's Place",
+    "description": "Nonprofit transforming lives by providing solutions that break the cycle of homelessness for the most vulnerable in Palm Beach County. Offers emergency shelter, transitional housing, and supportive services.",
+    "address": "West Palm Beach, FL 33407",
+    "phone": null,
+    "url": "https://thelordsplace.org/",
+    "categorySlug": "housing",
+    "zipCode": "33407"
+  },
+  {
+    "name": "Families That Care",
+    "description": "Community nonprofit providing food assistance and family support services in West Palm Beach.",
+    "address": "3701 Broadway, West Palm Beach, FL 33407",
+    "phone": "(561) 594-9657",
+    "url": null,
+    "categorySlug": "food",
+    "zipCode": "33407"
+  },
+  {
+    "name": "Divine Church of God of Prophecy Food Ministry",
+    "description": "Local church providing food assistance and basic needs support to residents of West Palm Beach.",
+    "address": "2845 N Military Trail Suite 17, West Palm Beach, FL 33409",
+    "phone": "(561) 502-9226",
+    "url": null,
+    "categorySlug": "food",
+    "zipCode": "33409"
+  },
+  {
+    "name": "CROS Ministries North County Food Pantry",
+    "description": "Christians Reaching Out to Society (CROS) operates a food pantry in Jupiter offering free food, groceries, and referrals to social services and government assistance programs.",
+    "address": "106 Military Trail, Jupiter, FL 33458",
+    "phone": "(561) 233-9009",
+    "url": "https://www.crosministries.org/food-pantries",
+    "categorySlug": "food",
+    "zipCode": "33458"
+  },
+  {
+    "name": "Palm Beach County Food Bank",
+    "description": "Regional food bank nourishing neighbors in need through over 200 partner agencies across Palm Beach County.",
+    "address": "West Palm Beach, FL 33401",
+    "phone": null,
+    "url": "https://www.pbcfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "33401"
+  },
+  {
+    "name": "Liberty Movement Ministry",
+    "description": "Nonprofit providing food, school supplies, and essential items to families across the Palm Beaches since 2004.",
+    "address": "West Palm Beach, FL 33401",
+    "phone": null,
+    "url": "https://libertymovementministry.org/",
+    "categorySlug": "food",
+    "zipCode": "33401"
+  },
+  {
+    "name": "Senator Philip D. Lewis Homeless Resource Center",
+    "description": "County-affiliated homeless resource center providing intake, assessments, and referrals to shelter and services for individuals experiencing homelessness in Palm Beach County.",
+    "address": "West Palm Beach, FL 33401",
+    "phone": "(561) 904-7900",
+    "url": "https://www.aafpbc.org/senator-philip-d-lewis-homeless-resource-center/",
+    "categorySlug": "housing",
+    "zipCode": "33401"
+  },
+  {
+    "name": "Boca Helping Hands Food Center",
+    "description": "Provides food, medical, and financial assistance to meet basic human needs, plus education and job training. Distributes approximately 80,000 pantry bags annually. Open Monday\u2013Friday 9am\u20134pm, Saturday 9am\u201312:30pm.",
+    "address": "1500 NW 1st Ct, Boca Raton, FL 33432",
+    "phone": "(561) 417-0913",
+    "url": "https://www.bocahelpinghands.org/",
+    "categorySlug": "food",
+    "zipCode": "33432"
+  },
+  {
+    "name": "HOME (Homeless Outreach Mentoring and Education)",
+    "description": "Enriches the lives of homeless women and men in Boca Raton through sustenance, wellness, edification, housing, and family reunification services. Intakes by appointment Monday\u2013Thursday.",
+    "address": "2236 N Dixie Hwy, Boca Raton, FL 33431",
+    "phone": "(561) 287-0307",
+    "url": "https://bocaratonobserver.com/locations/home/",
+    "categorySlug": "housing",
+    "zipCode": "33431"
+  },
+  {
+    "name": "Feeding Palm Beach County (Feeding South Florida)",
+    "description": "Regional food distribution hub operating out of a 25,644-sq.-ft. facility in Boynton Beach, distributing food to agencies throughout Palm Beach County.",
+    "address": "4925 Park Ridge Blvd, Boynton Beach, FL 33426",
+    "phone": null,
+    "url": "https://feedingsouthflorida.org/",
+    "categorySlug": "food",
+    "zipCode": "33426"
+  },
+  {
+    "name": "Loving Hands for the Needy",
+    "description": "Local nonprofit providing food and essential assistance to low-income residents in Boynton Beach and surrounding Palm Beach County communities.",
+    "address": "3100 S Congress Ave Suite 1, Boynton Beach, FL 33426",
+    "phone": null,
+    "url": null,
+    "categorySlug": "food",
+    "zipCode": "33426"
+  },
+  {
+    "name": "Boca Helping Hands West Boca Distribution",
+    "description": "Satellite food distribution site serving the West Boca area, located in the Boca Glades Baptist Church parking lot.",
+    "address": "10101 Judge Winikoff Rd, Boca Raton, FL 33428",
+    "phone": "(561) 417-0913",
+    "url": "https://www.bocahelpinghands.org/hours-and-locations",
+    "categorySlug": "food",
+    "zipCode": "33428"
+  },
+  {
+    "name": "Ruth & Norman Rales Jewish Family Services - Food & Financial Assistance",
+    "description": "501(c)(3) nonprofit providing food assistance, financial support, and social services to residents of Boca Raton, Delray Beach, and Highland Beach.",
+    "address": "21300 Ruth & Baron Coleman Blvd, Boca Raton, FL 33428",
+    "phone": null,
+    "url": "https://ralesjfs.org/our-services/food-financial-assistance/",
+    "categorySlug": "food",
+    "zipCode": "33428"
+  },
+  {
+    "name": "CROS Ministries Lake Worth Food Pantry",
+    "description": "Christians Reaching Out to Society operates a food pantry at Our Savior Lutheran Church, Lake Worth Beach, open Monday\u2013Friday 11am\u20132pm.",
+    "address": "301 1st Ave S, Lake Worth, FL 33460",
+    "phone": "(561) 233-9009",
+    "url": "https://www.crosministries.org/food-pantries",
+    "categorySlug": "food",
+    "zipCode": "33460"
+  },
+  {
+    "name": "Servants of the Great I Am Church",
+    "description": "Church-based nonprofit providing meals, food, clothing, and case management to low-income and working poor residents in Lake Worth.",
+    "address": "3822 Coconut Rd, Lake Worth, FL 33460",
+    "phone": null,
+    "url": null,
+    "categorySlug": "food",
+    "zipCode": "33460"
+  },
+  {
+    "name": "Salvation Army Lake Worth Corps",
+    "description": "Local Salvation Army providing food pantry services, emergency assistance, and community support to Lake Worth residents.",
+    "address": "4051 Kirk Rd, Lake Worth, FL 33461",
+    "phone": "(561) 968-8189",
+    "url": null,
+    "categorySlug": "food",
+    "zipCode": "33461"
+  },
+  {
+    "name": "Palm Beach Harvest",
+    "description": "Nonprofit food rescue organization that delivers fresh, nutritious meals to local food banks, shelters, and families in need across Palm Beach County.",
+    "address": "Palm Beach County, FL 33431",
+    "phone": null,
+    "url": "https://www.palmbeachharvest.org/",
+    "categorySlug": "food",
+    "zipCode": "33431"
+  },
+  {
+    "name": "Jacobson Family Food Pantry (Rales Jewish Family Services)",
+    "description": "Food pantry providing food to individuals who may not qualify for other programs. Operated by Ruth & Norman Rales Jewish Family Services, a 501(c)(3) nonprofit.",
+    "address": "430 S Congress Ave Unit 1C, Delray Beach, FL 33445",
+    "phone": "(561) 274-1940",
+    "url": "https://ralesjfs.org/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "33445"
+  },
+  {
+    "name": "Shirley & Barton Weisman Delray Community Center",
+    "description": "Community center operated by Ruth & Norman Rales Jewish Family Services offering food assistance and social services to Delray Beach residents.",
+    "address": "7091 W Atlantic Ave, Delray Beach, FL 33446",
+    "phone": "(561) 558-2100",
+    "url": "https://ralesjfs.org/our-services/food-financial-assistance/",
+    "categorySlug": "food",
+    "zipCode": "33446"
+  },
+  {
+    "name": "CROS Ministries Caring Kitchen - Delray Beach",
+    "description": "CROS Ministries has served meals to anyone who is hungry since 1993. Operates seven food pantries and a Caring Kitchen program across Palm Beach County.",
+    "address": "Delray Beach, FL 33483",
+    "phone": "(561) 233-9009",
+    "url": "https://www.crosministries.org/caring-kitchen",
+    "categorySlug": "food",
+    "zipCode": "33483"
+  },
+  {
+    "name": "CROS Ministries Delray Beach Community Food Pantry",
+    "description": "Nonprofit providing food, rent help, financial assistance, clothing, and other support to low-income and senior citizens in Delray Beach.",
+    "address": "Delray Beach, FL 33483",
+    "phone": "(561) 233-9009",
+    "url": "https://www.crosministries.org/food-pantries",
+    "categorySlug": "food",
+    "zipCode": "33483"
+  },
+  {
+    "name": "The Soup Kitchen in Boynton Beach",
+    "description": "Local nonprofit soup kitchen serving free meals to people in need in Boynton Beach and surrounding Palm Beach County.",
+    "address": "Boynton Beach, FL 33426",
+    "phone": null,
+    "url": "https://thesoupkitchen.org/",
+    "categorySlug": "food",
+    "zipCode": "33426"
+  },
+  {
+    "name": "Feed the Hungry Pantry of Palm Beach County",
+    "description": "Local food pantry serving Palm Beach County residents experiencing food insecurity.",
+    "address": "West Palm Beach, FL 33401",
+    "phone": null,
+    "url": "https://feedthehungrypbc.org/",
+    "categorySlug": "food",
+    "zipCode": "33401"
+  },
+  {
+    "name": "Tree of Life Resource Center",
+    "description": "Nonprofit resource center providing food assistance and community support services to Palm Beach County residents.",
+    "address": "North Palm Beach, FL 33408",
+    "phone": null,
+    "url": "https://treeofliferesourcecenter.org/",
+    "categorySlug": "community",
+    "zipCode": "33408"
+  },
+  {
+    "name": "Salvation Army East Pasco Service Center",
+    "description": "Salvation Army service center in Dade City providing food pantry, emergency assistance, and basic needs support to East Pasco County residents.",
+    "address": "15000 Citrus Country Dr, Dade City, FL 33523",
+    "phone": "(352) 521-3126",
+    "url": null,
+    "categorySlug": "food",
+    "zipCode": "33523"
+  },
+  {
+    "name": "Foundations of Life",
+    "description": "Local nonprofit food pantry in Dade City open Monday\u2013Thursday 8am\u201311am, Fridays for free vegetables only.",
+    "address": "37733 Meridian Ave, Dade City, FL 33525",
+    "phone": "(352) 521-1218",
+    "url": null,
+    "categorySlug": "food",
+    "zipCode": "33525"
+  },
+  {
+    "name": "Farm Workers Self Help",
+    "description": "Nonprofit organization assisting farmworkers and low-income families in Dade City with food distribution on Thursdays at 8am.",
+    "address": "37124 Lock St, Dade City, FL 33525",
+    "phone": "(352) 567-1432",
+    "url": null,
+    "categorySlug": "food",
+    "zipCode": "33525"
+  },
+  {
+    "name": "Metropolitan Ministries Family Support Center - Dade City",
+    "description": "Provides housing assistance, meals, counseling, and financial wellness services to Pasco County residents. Open Monday\u2013Friday 9am\u20135pm, Tuesday until 7pm.",
+    "address": "13703 17th St, Dade City, FL 33525",
+    "phone": "(352) 437-4815",
+    "url": "https://www.metromin.org/our-work/pasco/",
+    "categorySlug": "community",
+    "zipCode": "33525"
+  },
+  {
+    "name": "Neighborhood Care Center Food Pantry",
+    "description": "Food pantry serving Central and East Pasco County including Zephyrhills area. Open Monday, Wednesday, and Friday 9am\u2013noon.",
+    "address": "5140 6th St, Zephyrhills, FL 33540",
+    "phone": null,
+    "url": "https://www.pascocountycoc.org/food-pantries/",
+    "categorySlug": "food",
+    "zipCode": "33540"
+  },
+  {
+    "name": "Helping Hands Food Pantry of Wesley Chapel",
+    "description": "Food pantry providing food for over 800 needy families in Central and East Pasco County. Open Wednesdays 8:30am\u201312:30pm.",
+    "address": "Wesley Chapel, FL 33543",
+    "phone": null,
+    "url": "https://helpinghandsofwesleychapel.com/",
+    "categorySlug": "food",
+    "zipCode": "33543"
+  },
+  {
+    "name": "The Church at Chancey Road Community Pantry",
+    "description": "Church-run community pantry serving Zephyrhills area. Campus pantry Mondays & Thursdays 10\u201311am, plus mobile pantry sites in Zephyrhills and Wesley Chapel.",
+    "address": "34921 Chancey Rd, Zephyrhills, FL 33541",
+    "phone": null,
+    "url": null,
+    "categorySlug": "food",
+    "zipCode": "33541"
+  },
+  {
+    "name": "Love One Another Ministry",
+    "description": "Local nonprofit ministry in Dade City providing food distribution on Sundays 1:30\u20133pm.",
+    "address": "13853 15th St, Dade City, FL 33525",
+    "phone": "(352) 424-4972",
+    "url": null,
+    "categorySlug": "food",
+    "zipCode": "33525"
+  },
+  {
+    "name": "Feeding Tampa Bay - Auburndale Distribution",
+    "description": "Regional food bank distribution site in Auburndale serving Polk County residents with free food assistance.",
+    "address": "405 Bennett St, Auburndale, FL 33823",
+    "phone": null,
+    "url": null,
+    "categorySlug": "food",
+    "zipCode": "33823"
+  },
+  {
+    "name": "Our Lady Queen of Peace Food Pantry",
+    "description": "Parish food pantry and utility assistance program in New Port Richey. Open Monday 10am\u201312pm, Tuesday 12\u20132pm, Thursday 12\u20132pm, Friday 10am\u201312pm.",
+    "address": "5320 Shaw St, New Port Richey, FL 34652",
+    "phone": null,
+    "url": "https://rightservicefl.org/node/16652",
+    "categorySlug": "food",
+    "zipCode": "34652"
+  },
+  {
+    "name": "The Volunteer Way Food Pantry",
+    "description": "Nonprofit operating a food bank, soup kitchen, and food pantry in New Port Richey. Open Monday\u2013Tuesday 8am\u20131pm, Wednesday 8:30am\u20131:30pm, Thursday\u2013Saturday 8am\u20131pm.",
+    "address": "New Port Richey, FL 34652",
+    "phone": null,
+    "url": "https://www.foodpantries.org/li/the-volunteer-way-inc",
+    "categorySlug": "food",
+    "zipCode": "34652"
+  },
+  {
+    "name": "Hopeville Family Healing Center",
+    "description": "Non-profit Christian community serving New Port Richey with community support, food pantry, training, and ministry services.",
+    "address": "New Port Richey, FL 34653",
+    "phone": null,
+    "url": "https://hfm2019.org/",
+    "categorySlug": "food",
+    "zipCode": "34653"
+  },
+  {
+    "name": "Calvary Chapel Worship Center Food Pantry",
+    "description": "Local church food pantry in New Port Richey open Monday\u2013Friday 10am\u20131pm.",
+    "address": "6825 Trouble Creek Rd, New Port Richey, FL 34653",
+    "phone": "(727) 376-7733",
+    "url": null,
+    "categorySlug": "food",
+    "zipCode": "34653"
+  },
+  {
+    "name": "Coalition for the Homeless of Pasco County",
+    "description": "Nonprofit coalition helping homeless individuals regain stability in Pasco County. Provides emergency shelter referrals, services coordination, and advocacy.",
+    "address": "5652 Pine St, New Port Richey, FL 34652",
+    "phone": "(727) 842-8605",
+    "url": "https://www.pascohomelesscoalition.org/",
+    "categorySlug": "housing",
+    "zipCode": "34652"
+  },
+  {
+    "name": "Youth & Family Alternatives (YFA) - Youth Crisis Shelters",
+    "description": "Provides youth crisis shelter services in New Port Richey for ages 10\u201317 who are runaway or homeless, kicked out by parents, or in need of short-term crisis placement.",
+    "address": "New Port Richey, FL 34653",
+    "phone": "(727) 835-1777",
+    "url": "https://yfainc.org/youth-crisis-shelters",
+    "categorySlug": "housing",
+    "zipCode": "34653"
+  },
+  {
+    "name": "Pasco Hope (Catholic Charities)",
+    "description": "Catholic Charities facility in Port Richey providing emergency shelter for families, accommodating up to 108 family members. Opened December 2024.",
+    "address": "Port Richey, FL 34668",
+    "phone": null,
+    "url": "https://www.ccdosp.org/pasco-hope/",
+    "categorySlug": "housing",
+    "zipCode": "34668"
+  },
+  {
+    "name": "Our House Emergency Shelter",
+    "description": "Emergency shelter serving Pasco County residents in crisis, providing safe temporary housing and support services.",
+    "address": "New Port Richey, FL 34652",
+    "phone": null,
+    "url": "https://www.ourhousees.org/",
+    "categorySlug": "housing",
+    "zipCode": "34652"
+  },
+  {
+    "name": "St. Pete Free Clinic - FRESH Food Pantry",
+    "description": "Provides free food and hygiene products to ANY Pinellas County resident. Open Monday\u2013Wednesday 8:30am\u20133pm, Thursday 8:30am\u20137pm.",
+    "address": "863 3rd Ave N, St. Petersburg, FL 33701",
+    "phone": null,
+    "url": "https://thespfc.org/food-hygiene/",
+    "categorySlug": "food",
+    "zipCode": "33701"
+  },
+  {
+    "name": "St. Vincent de Paul CARES - Food Center",
+    "description": "Food pantry open to Pinellas residents in zip codes 33705, 33704, and 33712. Part of the SVDP CARES Center of Hope.",
+    "address": "401 15th St N, St. Petersburg, FL 33705",
+    "phone": "(727) 896-3300",
+    "url": "https://www.svdpsp.org/programs/homeless-services/food-center/",
+    "categorySlug": "food",
+    "zipCode": "33705"
+  },
+  {
+    "name": "Feed St Pete",
+    "description": "Second largest food pantry in Southern Pinellas County, operating on the campus of Pinellas Community Church.",
+    "address": "5501 31st St S, St. Petersburg, FL 33712",
+    "phone": null,
+    "url": "https://feedstpete.org/",
+    "categorySlug": "food",
+    "zipCode": "33712"
+  },
+  {
+    "name": "The GOW Food Pantry (Gathering of Women)",
+    "description": "Food pantry serving St. Petersburg and Pinellas County, especially families in zip codes 33712, 33711, 33705. Open every Thursday & Friday 11am\u20131pm.",
+    "address": "1801 34th St S, St. Petersburg, FL 33711",
+    "phone": null,
+    "url": "https://thegatheringofwomen.com/the-gow-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "33711"
+  },
+  {
+    "name": "Salvation Army - Emergency Shelter St. Petersburg",
+    "description": "Emergency shelter providing 112 beds, 3 hot meals daily, and a 30-night free stay for homeless individuals in St. Petersburg.",
+    "address": "340 14th Ave S, St. Petersburg, FL 33701",
+    "phone": "(727) 230-1578",
+    "url": null,
+    "categorySlug": "housing",
+    "zipCode": "33701"
+  },
+  {
+    "name": "St. Vincent de Paul CARES - Center of Hope Shelter",
+    "description": "Shelter for adults (18+), veterans, and families experiencing homelessness. New clients seen Mon\u2013Thurs 1\u20134pm; families with minor children call First Contact (211).",
+    "address": "401 15th St N, St. Petersburg, FL 33701",
+    "phone": "(727) 896-3300",
+    "url": "https://www.svdpsp.org/",
+    "categorySlug": "housing",
+    "zipCode": "33701"
+  },
+  {
+    "name": "Pinellas Hope",
+    "description": "Catholic Charities program providing temporary emergency shelter to homeless adults on the streets of Pinellas County.",
+    "address": "St. Petersburg, FL 33701",
+    "phone": null,
+    "url": "https://pinellashope.org/",
+    "categorySlug": "housing",
+    "zipCode": "33701"
+  },
+  {
+    "name": "Positive Impact St. Pete",
+    "description": "Nonprofit proactively addressing food insecurity, inequality, and root causes of hunger by providing FREE groceries to individuals and families in St. Petersburg.",
+    "address": "St. Petersburg, FL 33713",
+    "phone": null,
+    "url": "https://positiveimpact.org/",
+    "categorySlug": "food",
+    "zipCode": "33713"
+  },
+  {
+    "name": "RCS Food Bank (Religious Community Services)",
+    "description": "Provides emergency and short-term food assistance and referrals to residents of Clearwater and surrounding zip codes (33755\u201333767, 33770, 33771, 33773, 33774, 33778, 33785, 33786, 34677, 34695, 34698). Open Monday, Tuesday, Wednesday & Friday 12:30\u20133:30pm, Thursday 12:30\u20136:45pm.",
+    "address": "700 Druid Rd, Clearwater, FL 33756",
+    "phone": "(727) 443-4031",
+    "url": "https://www.foodpantries.org/li/the-rcs-food-bank",
+    "categorySlug": "food",
+    "zipCode": "33756"
+  },
+  {
+    "name": "Corinne's Food Pantry",
+    "description": "501(c)(3) nonprofit food pantry serving Clearwater and surrounding Pinellas County residents.",
+    "address": "1122 S Myrtle Ave, Clearwater, FL 33756",
+    "phone": null,
+    "url": "https://corinnesfoodpantry.com/",
+    "categorySlug": "food",
+    "zipCode": "33756"
+  },
+  {
+    "name": "Dunedin Cares Food Pantry",
+    "description": "Client-choice food pantry committed to ending hunger in Clearwater, Dunedin, and Palm Harbor. Clients choose their food as they would at a grocery store.",
+    "address": "Dunedin, FL 34698",
+    "phone": null,
+    "url": "https://dunedincares.org/",
+    "categorySlug": "food",
+    "zipCode": "34698"
+  },
+  {
+    "name": "Salvation Army Clearwater Mobile Food Pantry",
+    "description": "Mobile food pantry operated by the Salvation Army serving Clearwater and surrounding Pinellas County communities.",
+    "address": "Clearwater, FL 33755",
+    "phone": null,
+    "url": "https://clearwater.salvationarmyflorida.org/clearwater/mobile-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "33755"
+  },
+  {
+    "name": "Interfaith Food Pantry of Seminole",
+    "description": "Interfaith nonprofit food pantry officially designated by the City of Seminole, providing food assistance to Seminole and surrounding Pinellas County residents.",
+    "address": "Seminole, FL 33770",
+    "phone": null,
+    "url": "https://www.myseminole.com/website/interfaith-food-pantry.html",
+    "categorySlug": "food",
+    "zipCode": "33770"
+  },
+  {
+    "name": "St. Patrick Catholic Church Food Pantry",
+    "description": "Parish food pantry in Largo providing grocery assistance to community members in need.",
+    "address": "Largo, FL 33771",
+    "phone": "(727) 210-5433",
+    "url": "https://stpatricklargo.org/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "33771"
+  },
+  {
+    "name": "Indian Rocks Beach Food Pantry",
+    "description": "Local food pantry serving Pinellas County residents, providing approximately 900 meals per month. Open Wednesdays 10am\u201312pm and Thursdays 5\u20137pm.",
+    "address": "Indian Rocks Beach, FL 33785",
+    "phone": null,
+    "url": null,
+    "categorySlug": "food",
+    "zipCode": "33785"
+  },
+  {
+    "name": "FEAST Food Pantry (Palm Harbor)",
+    "description": "Palm Harbor food pantry providing fresh and shelf-stable food through drive-up distribution five days a week. Serves zip codes 34698, 34683, 34684, 34685, 34677, and 34695.",
+    "address": "2255 Nebraska Ave, Palm Harbor, FL 34683",
+    "phone": null,
+    "url": "https://feastfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "34683"
+  },
+  {
+    "name": "Harriet's Food Pantry",
+    "description": "Christ-centered food pantry serving zip codes 34698, 34683, 34684, 34685, 34677, and 34695. Open Thursdays 10:30am\u20131:30pm.",
+    "address": "Palm Harbor, FL 34684",
+    "phone": null,
+    "url": null,
+    "categorySlug": "food",
+    "zipCode": "34684"
+  },
+  {
+    "name": "Oldsmar Cares",
+    "description": "501(c)(3) nonprofit providing food, clothing, and health screenings to residents of Oldsmar and surrounding communities in Pinellas County.",
+    "address": "Oldsmar, FL 34677",
+    "phone": null,
+    "url": null,
+    "categorySlug": "community",
+    "zipCode": "34677"
+  },
+  {
+    "name": "Mattie Williams Neighborhood Family Center Food Pantry",
+    "description": "Food pantry operated by a community family center, serving Safety Harbor and surrounding Pinellas County residents.",
+    "address": "Safety Harbor, FL 34695",
+    "phone": null,
+    "url": "https://mwnfc.org/services/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "34695"
+  },
+  {
+    "name": "Talbot House Ministries",
+    "description": "Polk County's largest homeless shelter providing emergency shelter, food, healthcare, and long-term support. Guests receive admission, shower, clothing, dinner, bedding, and breakfast.",
+    "address": "814 N Kentucky Ave, Lakeland, FL 33801",
+    "phone": "(863) 687-8475",
+    "url": "https://talbothouse.org/",
+    "categorySlug": "housing",
+    "zipCode": "33801"
+  },
+  {
+    "name": "Salvation Army Center of Hope - Lakeland",
+    "description": "Emergency shelter and feeding program accommodating families with children and single adults. Provides community lunch, showers, fresh linens, bed, breakfast, and dinner.",
+    "address": "830 N Massachusetts Ave, Lakeland, FL 33801",
+    "phone": "(863) 682-8179",
+    "url": null,
+    "categorySlug": "housing",
+    "zipCode": "33801"
+  },
+  {
+    "name": "Blessings and Hope Food Pantry",
+    "description": "Local nonprofit food pantry in Lakeland operating every Tuesday 10am\u201312pm. Sign-in at Highland Park Church, serving Greater Lakeland area.",
+    "address": "2150 E Edgewood Dr, Lakeland, FL 33803",
+    "phone": null,
+    "url": "https://www.blessingsandhope.org/",
+    "categorySlug": "food",
+    "zipCode": "33803"
+  },
+  {
+    "name": "Lighthouse Ministries Lakeland",
+    "description": "Ministry providing emergency assistance, food, and shelter resources to low-income and homeless individuals and families in the Lakeland area.",
+    "address": "Lakeland, FL 33801",
+    "phone": null,
+    "url": "https://www.lighthousemin.org/",
+    "categorySlug": "community",
+    "zipCode": "33801"
+  },
+  {
+    "name": "EmpowHERment Food Program",
+    "description": "Nonprofit providing food resources and support services to women and families in the Palm Harbor and surrounding Pinellas County area.",
+    "address": "Palm Harbor, FL 34685",
+    "phone": null,
+    "url": "https://www.empowherment.org/food",
+    "categorySlug": "food",
+    "zipCode": "34685"
+  },
+  {
+    "name": "Shepherd Road Presbyterian Church Food Pantry",
+    "description": "Local church food pantry serving residents of zip code 33811 and surrounding area. Open Wednesdays 9:30\u201311:30am. No verification required \u2014 only name, address, and family size.",
+    "address": "Lakeland, FL 33811",
+    "phone": null,
+    "url": null,
+    "categorySlug": "food",
+    "zipCode": "33811"
+  },
+  {
+    "name": "Blessings and Hope at Highland Park Church",
+    "description": "Food pantry distribution for South Lakeland area (33813) every Tuesday 10am\u201312pm. Operated by Blessings and Hope nonprofit.",
+    "address": "4730 Lakeland Highlands Rd, Lakeland, FL 33813",
+    "phone": null,
+    "url": "https://www.blessingsandhope.org/",
+    "categorySlug": "food",
+    "zipCode": "33813"
+  },
+  {
+    "name": "St. Ann Conference SVDP Food Pantry - Haines City",
+    "description": "Society of St. Vincent de Paul food pantry in Haines City providing food distribution every other week to residents in need.",
+    "address": "1001 S 10th St, Haines City, FL 33844",
+    "phone": null,
+    "url": "https://svdpstann.org/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "33844"
+  },
+  {
+    "name": "First Christian Church Food Pantry - Haines City",
+    "description": "Local church food pantry serving Haines City and surrounding Polk County communities.",
+    "address": "114 S 2nd St, Haines City, FL 33844",
+    "phone": "(863) 421-9115",
+    "url": null,
+    "categorySlug": "food",
+    "zipCode": "33844"
+  },
+  {
+    "name": "Catholic Charities Haines City",
+    "description": "Catholic Charities office in Haines City addressing food, holiday, and immigration needs for Polk County residents.",
+    "address": "1416 Old Polk City Rd, Haines City, FL 33844",
+    "phone": null,
+    "url": null,
+    "categorySlug": "food",
+    "zipCode": "33844"
+  },
+  {
+    "name": "HELP of Fort Meade",
+    "description": "Nonprofit providing food distribution to Fort Meade and surrounding Polk County communities on the 2nd and 4th Thursday of each month.",
+    "address": "1639 Frostproof Hwy, Fort Meade, FL 33841",
+    "phone": null,
+    "url": null,
+    "categorySlug": "food",
+    "zipCode": "33841"
+  },
+  {
+    "name": "Polk for Recovery Food Assistance",
+    "description": "Nonprofit in Bartow providing food boxes and basic needs assistance to low-income residents and individuals in recovery throughout Polk County.",
+    "address": "390 E Parker Ave, Bartow, FL 33830",
+    "phone": "(863) 533-6054",
+    "url": "https://www.polkforrecovery.org/foodassistance",
+    "categorySlug": "food",
+    "zipCode": "33830"
+  },
+  {
+    "name": "First Presbyterian Church of Zephyrhills Food Pantry",
+    "description": "Church food pantry partnering with Feeding Tampa Bay for drive-through food distribution Tuesdays 2\u20134pm. Also provides prepared meals Monday and Friday evenings.",
+    "address": "5510 19th St, Zephyrhills, FL 33542",
+    "phone": null,
+    "url": null,
+    "categorySlug": "food",
+    "zipCode": "33542"
+  },
+  {
+    "name": "Talbot House Ministries Food Pantry",
+    "description": "Polk County's largest emergency shelter and food ministry, also operating a walk-in food pantry for non-shelter residents in the Lakeland area.",
+    "address": "814 N Kentucky Ave, Lakeland, FL 33801",
+    "phone": "(863) 687-8475",
+    "url": "https://talbothouse.org/",
+    "categorySlug": "food",
+    "zipCode": "33801"
+  },
+  {
+    "name": "Lake Wales Care Center",
+    "description": "Community care center in Lake Wales providing food pantry services and basic needs assistance to Polk County residents.",
+    "address": "Lake Wales, FL 33853",
+    "phone": null,
+    "url": "https://www.foodpantries.org/li/lake_wales_care_center_33853",
+    "categorySlug": "food",
+    "zipCode": "33853"
+  },
+  {
+    "name": "Blessings and Hope Food Pantry",
+    "description": "Food pantry serving all Polk County residents. Distributions every Tuesday 10am-12pm.",
+    "address": "2150 E Edgewood Dr, Lakeland, FL 33811",
+    "phone": "(863) 687-8811",
+    "url": "https://www.blessingsandhope.org/",
+    "categorySlug": "food",
+    "zipCode": "33811"
+  },
+  {
+    "name": "Moving Hope, Inc",
+    "description": "Nonprofit providing food and other necessities to impoverished neighborhoods and communities in Lakeland and Polk County.",
+    "address": "Lakeland, FL 33810",
+    "phone": "",
+    "url": "https://www.facebook.com/movinghopeinc/",
+    "categorySlug": "food",
+    "zipCode": "33810"
+  },
+  {
+    "name": "Talbot House Ministries",
+    "description": "One of the oldest and most comprehensive homeless care centers in Polk County, offering emergency shelter, food, healthcare, and long-term support services.",
+    "address": "814 N Kentucky Ave, Lakeland, FL 33801",
+    "phone": "(863) 687-8475",
+    "url": "https://talbothouse.org/",
+    "categorySlug": "housing",
+    "zipCode": "33815"
+  },
+  {
+    "name": "Polk for Recovery Food Assistance",
+    "description": "Food pantry and recovery resources for Polk County residents.",
+    "address": "815 S Central Ave, Lakeland, FL 33815",
+    "phone": "(863) 802-4673",
+    "url": "https://www.polkforrecovery.org/foodassistance",
+    "categorySlug": "food",
+    "zipCode": "33815"
+  },
+  {
+    "name": "Bartow Church Service Center",
+    "description": "Food pantry serving Bartow and Polk County residents. Hours: Mon 9am-2pm, Tue/Thu/Fri 9am-noon.",
+    "address": "495 East Summerlin Street, Bartow, FL 33830",
+    "phone": "(863) 533-5822",
+    "url": "https://www.foodpantries.org/ci/fl-bartow",
+    "categorySlug": "food",
+    "zipCode": "33830"
+  },
+  {
+    "name": "LFM Recovery Resource Center Food Distribution",
+    "description": "Distributes food boxes on the last Wednesday of each month in Bartow. Must sign up in advance.",
+    "address": "780 West Main Street, Bartow, FL 33830",
+    "phone": "(863) 533-6054",
+    "url": "https://www.foodpantries.org/ci/fl-bartow",
+    "categorySlug": "food",
+    "zipCode": "33830"
+  },
+  {
+    "name": "St. Alban's Episcopal Church Food Pantry",
+    "description": "Food pantry open Fridays 8:00 AM - 10:00 AM for community members in need.",
+    "address": "202 Pontotoc St, Auburndale, FL 33823",
+    "phone": "",
+    "url": "https://foodbanksinflorida.org/st-albans-episcopal-church/",
+    "categorySlug": "food",
+    "zipCode": "33823"
+  },
+  {
+    "name": "Central Assembly of God Food Bank",
+    "description": "Local food bank serving the Auburndale area.",
+    "address": "601 S Lemon Street, Auburndale, FL 33823",
+    "phone": "(863) 967-2876",
+    "url": "https://ampleharvest.org/food-pantries/central-assembly-of-god-food-bank-8863/",
+    "categorySlug": "food",
+    "zipCode": "33823"
+  },
+  {
+    "name": "New Horizon Church Food Pantry",
+    "description": "United Methodist church food pantry distributing food on the 1st, 3rd, and 5th Fridays of each month, 9am-12pm.",
+    "address": "Davenport, FL 33837",
+    "phone": "",
+    "url": "https://www.foodpantries.org/ci/fl-davenport",
+    "categorySlug": "food",
+    "zipCode": "33837"
+  },
+  {
+    "name": "Help of Fort Meade",
+    "description": "Food pantry serving Polk County residents. Open Mon-Fri 9am-noon and 1pm-5pm, except holidays.",
+    "address": "27 W Broadway St, Fort Meade, FL 33841",
+    "phone": "(863) 285-6600",
+    "url": "https://foodpantries.org/li/help_of_fort_meade_33841",
+    "categorySlug": "food",
+    "zipCode": "33841"
+  },
+  {
+    "name": "Frostproof Care Center",
+    "description": "Food pantry serving Southeast Polk County and Babson Park. Open Mon-Fri 9am-3pm.",
+    "address": "17 S Scenic Highway, Frostproof, FL 33843",
+    "phone": "(863) 635-5555",
+    "url": "https://www.foodpantries.org/li/frostproof_care_center_33843",
+    "categorySlug": "food",
+    "zipCode": "33843"
+  },
+  {
+    "name": "St. Ann Conference Society of St. Vincent de Paul Food Pantry",
+    "description": "Food pantry serving Haines City and surrounding Polk County area.",
+    "address": "114 S 2nd St, Haines City, FL 33844",
+    "phone": "(863) 422-4720",
+    "url": "https://svdpstann.org/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "33844"
+  },
+  {
+    "name": "Lake Wales Care Center",
+    "description": "Food pantry serving Lake Wales and Polk County. Open Mon-Fri 8:30am-4:30pm.",
+    "address": "140 E Park Avenue, Lake Wales, FL 33853",
+    "phone": "(863) 676-6678",
+    "url": "https://lakewalescarecenter.com/",
+    "categorySlug": "food",
+    "zipCode": "33853"
+  },
+  {
+    "name": "Mulberry Community Service Center",
+    "description": "Mobile food pantry serving all Polk County residents. Distributions 1st and 3rd Friday 2:00pm-3:30pm.",
+    "address": "306 Southwest 2nd Ave, Mulberry, FL 33860",
+    "phone": "(863) 425-1523",
+    "url": "https://www.mulberrycsc.org/",
+    "categorySlug": "food",
+    "zipCode": "33860"
+  },
+  {
+    "name": "Good Neighbor Food Pantry at Mulberry United Methodist Church",
+    "description": "Community food pantry providing groceries to those in need in the Mulberry area.",
+    "address": "306 North Church Avenue, Mulberry, FL 33860",
+    "phone": "",
+    "url": "https://www.mulberryumc.com/good-neighbor-food-pantry.html",
+    "categorySlug": "food",
+    "zipCode": "33860"
+  },
+  {
+    "name": "The Mission of Winter Haven",
+    "description": "Community center providing food pantry (Tue-Thu 9-11am), daily meals, hygiene items, and showers for those in need.",
+    "address": "180 E Central Avenue, Winter Haven, FL 33881",
+    "phone": "",
+    "url": "https://themissionwh.org/",
+    "categorySlug": "food",
+    "zipCode": "33881"
+  },
+  {
+    "name": "Agape Mission Market Food Pantry - Catholic Charities Winter Haven",
+    "description": "Food pantry offering meats, fresh fruits, vegetables and more to those in need in Winter Haven.",
+    "address": "532 Ave M NW, Winter Haven, FL 33881",
+    "phone": "",
+    "url": "https://cflcc.org/mission-markets/",
+    "categorySlug": "food",
+    "zipCode": "33881"
+  },
+  {
+    "name": "Family Emergency Service of Winter Haven",
+    "description": "Emergency assistance and food services for families in Winter Haven and surrounding Polk County.",
+    "address": "Winter Haven, FL 33880",
+    "phone": "",
+    "url": "https://foodbanksinflorida.org/food-bank/family-emergency-service-of-winter-haven/",
+    "categorySlug": "crisis",
+    "zipCode": "33880"
+  },
+  {
+    "name": "Feed The Need of Putnam County",
+    "description": "Nonprofit feeding food-insecure students and families in Putnam County with weekend food programs.",
+    "address": "158 Louis Broer Rd, East Palatka, FL 32131",
+    "phone": "(386) 937-3862",
+    "url": "https://feedtheneedofputnam.org/",
+    "categorySlug": "food",
+    "zipCode": "32131"
+  },
+  {
+    "name": "South Putnam Christian Service Center",
+    "description": "Food pantry serving South Putnam County. Open Tue and Thu 10am-2:30pm. Call before visiting.",
+    "address": "301 Cypress Avenue, Crescent City, FL 32112",
+    "phone": "",
+    "url": "https://www.foodpantries.org/ci/fl-crescent_city",
+    "categorySlug": "food",
+    "zipCode": "32112"
+  },
+  {
+    "name": "Sharing Putnam's Bounty (Heart of Putnam Food Pantry)",
+    "description": "Food pantry serving Putnam County residents. Open Tuesday and Friday 9am-1pm.",
+    "address": "820 Reid Street, Palatka, FL 32177",
+    "phone": "(386) 328-0984",
+    "url": "https://sharingputnamsbounty.org/",
+    "categorySlug": "food",
+    "zipCode": "32177"
+  },
+  {
+    "name": "Heart of Putnam (Putnam County Service Center)",
+    "description": "Crisis assistance and emergency services for Putnam County residents in need.",
+    "address": "820 Reid Street, Palatka, FL 32177",
+    "phone": "(386) 328-0984",
+    "url": "https://www.heartofputnam.com/",
+    "categorySlug": "crisis",
+    "zipCode": "32177"
+  },
+  {
+    "name": "Lee Conlee House",
+    "description": "Emergency shelter providing 28 community beds for survivors of intimate partner violence and their children in Putnam County.",
+    "address": "Palatka, FL 32177",
+    "phone": "",
+    "url": "https://www.leeconleehouse.org/",
+    "categorySlug": "housing",
+    "zipCode": "32177"
+  },
+  {
+    "name": "Palatka Christian Service Center",
+    "description": "Food pantry and emergency assistance serving Putnam County. Open Mon-Fri 9am-1:30pm.",
+    "address": "2600 Peters Street, Palatka, FL 32177",
+    "phone": "(386) 328-0984",
+    "url": "https://www.heartofputnam.com/christian-service-center",
+    "categorySlug": "food",
+    "zipCode": "32177"
+  },
+  {
+    "name": "St. Andrews Episcopal Church Food Pantry",
+    "description": "Monthly food distribution every 4th Friday of the month 10am-2pm for Interlachen area residents.",
+    "address": "111 South Francis St, Interlachen, FL 32148",
+    "phone": "",
+    "url": "https://www.foodpantries.org/ci/fl-interlachen",
+    "categorySlug": "food",
+    "zipCode": "32148"
+  },
+  {
+    "name": "Interlachen Community Soup Kitchen",
+    "description": "Soup kitchen serving lunch 5 days a week, 52 weeks a year. No requirements. Also delivers meals to shut-ins. Mon-Fri 11am-1pm.",
+    "address": "Interlachen, FL 32148",
+    "phone": "(386) 972-1045",
+    "url": "https://www.foodpantries.org/ci/fl-interlachen",
+    "categorySlug": "food",
+    "zipCode": "32148"
+  },
+  {
+    "name": "Catholic Charities Food Pantry and Clothes Closet - Palatka",
+    "description": "Food pantry and clothes closet by appointment only on Mondays and Wednesdays.",
+    "address": "1000 Husson Avenue, Palatka, FL 32177",
+    "phone": "(386) 328-2333",
+    "url": "https://www.foodpantries.org/ci/fl-palatka",
+    "categorySlug": "food",
+    "zipCode": "32177"
+  },
+  {
+    "name": "St. Monica's Food Pantry",
+    "description": "Weekly food pantry in the Parish Hall each Thursday 9am until food runs out (approx 11:30am). Clothing also available.",
+    "address": "Palatka, FL 32177",
+    "phone": "(386) 325-9777",
+    "url": "https://www.foodpantries.org/ci/fl-palatka",
+    "categorySlug": "food",
+    "zipCode": "32177"
+  },
+  {
+    "name": "We Care Ministries Food Pantry - Navarre United Methodist Church",
+    "description": "Food assistance for south Santa Rosa County residents. Emergency food bank. Mon and Fri 10am-1pm.",
+    "address": "Navarre, FL 32566",
+    "phone": "(850) 939-2849",
+    "url": "https://www.foodpantries.org/li/navarre_united_methodist_church_32566",
+    "categorySlug": "food",
+    "zipCode": "32566"
+  },
+  {
+    "name": "Interfaith Ministries Food Pantry",
+    "description": "Emergency food bank serving Santa Rosa County residents. Tues-Wed 9am-11:30am.",
+    "address": "4339 Gulf Breeze Pkwy, Gulf Breeze, FL 32563",
+    "phone": "(850) 934-1688",
+    "url": "https://interfaith-ministries.org/pages/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "32561"
+  },
+  {
+    "name": "St. Rose of Lima Catholic Church Food Pantry",
+    "description": "Food pantry serving the Milton/Pace area. Open Mon-Thu 8:30am-11:30am.",
+    "address": "6451 Park Avenue, Milton, FL 32570",
+    "phone": "(850) 623-3600",
+    "url": "https://srolparish.org/food-pantry-outreach",
+    "categorySlug": "food",
+    "zipCode": "32570"
+  },
+  {
+    "name": "Olivet Baptist Church Food Pantry",
+    "description": "Community food pantry distributing on the 4th Saturday of each month 9am-11am.",
+    "address": "5240 Dogwood Drive, Milton, FL 32570",
+    "phone": "",
+    "url": "https://www.foodpantries.org/ci/fl-milton",
+    "categorySlug": "food",
+    "zipCode": "32570"
+  },
+  {
+    "name": "Englewood Helping Hands",
+    "description": "Nonprofit collecting, storing, and distributing food to individuals and families in need. Open Mon-Thu 10am-2:30pm.",
+    "address": "700 E Dearborn Street, Englewood, FL 34223",
+    "phone": "(941) 474-5864",
+    "url": "https://englewoodhelpinghand.org/",
+    "categorySlug": "food",
+    "zipCode": "34223"
+  },
+  {
+    "name": "St. David's Jubilee Center Food Pantry",
+    "description": "Free food pantry and clothes closet at St. David's Episcopal Church serving the Englewood community. Open Mon-Wed 10am-noon.",
+    "address": "Englewood, FL 34223",
+    "phone": "",
+    "url": "https://www.stdavidsenglewood.org/jubilee-center",
+    "categorySlug": "food",
+    "zipCode": "34223"
+  },
+  {
+    "name": "Harvest House Sarasota",
+    "description": "Supportive housing and emergency shelter serving homeless families, veterans, young adults ages 16-24, and adults in recovery. 380 beds across multiple campuses.",
+    "address": "3650 17th Street, Sarasota, FL 34235",
+    "phone": "(941) 953-3154",
+    "url": "https://harvesthousecenters.org/",
+    "categorySlug": "housing",
+    "zipCode": "34235"
+  },
+  {
+    "name": "Resurrection House Day Center for the Homeless",
+    "description": "Day center providing showers, laundry, meals, clothes closet, medical clinic, legal access, and client advocacy for homeless individuals. Mon-Fri 8:30am-1:30pm.",
+    "address": "507 Kumquat Ct, Sarasota, FL 34236",
+    "phone": "(941) 365-3759",
+    "url": "https://rhsrq.org/",
+    "categorySlug": "housing",
+    "zipCode": "34236"
+  },
+  {
+    "name": "Caritas Food Ministry - First Baptist Church Sarasota",
+    "description": "Food pantry open Mon-Fri 10am-12pm serving Sarasota area residents.",
+    "address": "1661 Main Street Suite 200, Sarasota, FL 34236",
+    "phone": "",
+    "url": "https://allfaithsfoodbank.org/partner-agency-directory-sarasota/",
+    "categorySlug": "food",
+    "zipCode": "34236"
+  },
+  {
+    "name": "Salvation Army Sarasota Emergency Shelter",
+    "description": "24-hour emergency shelter for adults 18 and older in Sarasota County.",
+    "address": "1400 10th Street, Sarasota, FL 34236",
+    "phone": "(941) 954-4673",
+    "url": "https://southernusa.salvationarmy.org/sarasota/emergency-shelter/",
+    "categorySlug": "housing",
+    "zipCode": "34236"
+  },
+  {
+    "name": "St. Wilfred Episcopal Church Food Pantry",
+    "description": "Community food pantry serving Sarasota residents. Open Friday 1pm-3pm.",
+    "address": "3773 Wilkinson Road, Sarasota, FL 34233",
+    "phone": "",
+    "url": "https://allfaithsfoodbank.org/partner-agency-directory-sarasota/",
+    "categorySlug": "food",
+    "zipCode": "34233"
+  },
+  {
+    "name": "The Harvest Food Pantry",
+    "description": "Food pantry open Thursday 10am-noon serving the Sarasota community.",
+    "address": "3650 17th Street, Sarasota, FL 34235",
+    "phone": "(941) 953-3154",
+    "url": "https://allfaithsfoodbank.org/partner-agency-directory-sarasota/",
+    "categorySlug": "food",
+    "zipCode": "34235"
+  },
+  {
+    "name": "South County Food Pantry",
+    "description": "All-volunteer nonprofit providing food to those in need in Venice, Osprey, Laurel, and Nokomis.",
+    "address": "Venice, FL 34285",
+    "phone": "",
+    "url": "https://southcountyfoodpantry.com/",
+    "categorySlug": "food",
+    "zipCode": "34229"
+  },
+  {
+    "name": "All Faiths Food Bank",
+    "description": "Regional food bank serving Sarasota and DeSoto counties. Open Mon-Thu 8am-5pm, Fri 8am-2pm.",
+    "address": "8171 Blaikie Ct, Sarasota, FL 34240",
+    "phone": "(941) 379-6333",
+    "url": "https://allfaithsfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "34240"
+  },
+  {
+    "name": "South County Food Pantry - Venice",
+    "description": "All-volunteer nonprofit providing food to those in need in Venice, Osprey, Laurel, and Nokomis.",
+    "address": "121 Warfield Avenue, Venice, FL 34285",
+    "phone": "(941) 408-2911",
+    "url": "https://southcountyfoodpantry.com/",
+    "categorySlug": "food",
+    "zipCode": "34285"
+  },
+  {
+    "name": "Salvation Army Food Pantry and Emergency Services - Venice",
+    "description": "Food pantry serving Venice and North Port. Venice: Mon-Fri 8:30am-4pm; North Port: Mon and Thu 7am-5pm.",
+    "address": "1051 Albee Farm Road, Venice, FL 34285",
+    "phone": "(941) 484-6227",
+    "url": "https://southernusa.salvationarmy.org/sarasota/food-pantry--emergency-financial-assistance/",
+    "categorySlug": "food",
+    "zipCode": "34285"
+  },
+  {
+    "name": "Hope for North Port",
+    "description": "Food pantry and community assistance for North Port residents.",
+    "address": "5600 S Biscayne Dr, North Port, FL 34287",
+    "phone": "(941) 735-4410",
+    "url": "https://www.foodpantries.org/ci/fl-north_port",
+    "categorySlug": "food",
+    "zipCode": "34287"
+  },
+  {
+    "name": "Community Assistance Ministries (CAM) Venice",
+    "description": "Provides a week's worth of groceries to families and individuals. Distribution Tue and Thu 9-10:30am. Serves zip codes 34293, 34292, 34285, 34284, 34275.",
+    "address": "2395 Shamrock Drive, Venice, FL 34293",
+    "phone": "(941) 412-9044",
+    "url": "https://resourceguide.making-an-impact.org/venice-North-port-area/food-pantries/",
+    "categorySlug": "food",
+    "zipCode": "34293"
+  },
+  {
+    "name": "Christian HELP Food Pantry",
+    "description": "Food pantry distributing over 1 million pounds of food annually to Seminole and Orange County residents. Mon-Fri 9:30am-1:30pm.",
+    "address": "450 Seminola Blvd, Casselberry, FL 32707",
+    "phone": "(407) 834-4022",
+    "url": "https://www.christianhelp.org/grocery-services",
+    "categorySlug": "food",
+    "zipCode": "32707"
+  },
+  {
+    "name": "The Sharing Center Food Pantry and Oasis",
+    "description": "Largest free food pantry in Seminole County. Also provides homeless respite services with showers, laundry, housing guidance, and internet access. Pantry open Mon-Fri 9am-noon.",
+    "address": "600 N US Hwy 17-92 Ste 130, Longwood, FL 32750",
+    "phone": "(407) 260-9155",
+    "url": "https://thesharingcenter.org/",
+    "categorySlug": "food",
+    "zipCode": "32750"
+  },
+  {
+    "name": "HOPE Helps Food Pantry",
+    "description": "Nonprofit preventing hunger and homelessness in Seminole County. Distributes nonperishable food, produce, meat and fresh bread. Tue/Thu 9-11:30am & 12:30-3:30pm, Wed/Sat 9am-noon.",
+    "address": "812 Eyrie Drive, Oviedo, FL 32765",
+    "phone": "(407) 366-3422",
+    "url": "https://www.hopehelps.org/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "32765"
+  },
+  {
+    "name": "Salvation Army of Seminole County Food Pantry",
+    "description": "Food distribution serving Seminole County including Sanford. Farmers to Family boxes with fresh meat and produce on Saturdays 9-10am.",
+    "address": "Sanford, FL 32771",
+    "phone": "(321) 710-7341",
+    "url": "https://www.foodpantries.org/li/salvation_army_of_seminole_county_32771",
+    "categorySlug": "food",
+    "zipCode": "32771"
+  },
+  {
+    "name": "St. Francis Housing Crisis Center",
+    "description": "The only full-time emergency shelter between Jacksonville and Daytona Beach. Accommodates 26 men, 14 women, and 4 families. Serves St. Johns, Flagler, Clay, Putnam and Duval Counties.",
+    "address": "70 Washington Street, St. Augustine, FL 32084",
+    "phone": "(904) 829-8937",
+    "url": "https://www.stfrancisshelter.org/",
+    "categorySlug": "housing",
+    "zipCode": "32084"
+  },
+  {
+    "name": "St. Johns Food Pantry",
+    "description": "Emergency food assistance for St. Johns County residents. Open Mon-Fri 1pm-4pm (Jan-Aug) and 1pm-3pm (Sep-Dec).",
+    "address": "St. Augustine, FL 32084",
+    "phone": "(904) 824-2070",
+    "url": "https://stjohnsfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "32084"
+  },
+  {
+    "name": "Salvation Army Food Pantry - St. Johns County",
+    "description": "Food pantry serving St. Johns County by appointment only. Mon-Thu 9am-3pm, Fri 9-11am.",
+    "address": "1425 Old Dixie Highway, St. Augustine, FL 32084",
+    "phone": "",
+    "url": "https://www.foodpantries.org/ci/fl-st_augustine",
+    "categorySlug": "food",
+    "zipCode": "32084"
+  },
+  {
+    "name": "Homeless Coalition of St. Johns County Food Pantry",
+    "description": "Daily food pantry services for those in need. Open Mon-Fri 10am-2pm.",
+    "address": "60 1/2 Chapin Street, St. Augustine, FL 32084",
+    "phone": "",
+    "url": "https://homelesscoalitionstjohns.com/",
+    "categorySlug": "food",
+    "zipCode": "32084"
+  },
+  {
+    "name": "Daily Bread Food Pantry - Mandarin Presbyterian Church",
+    "description": "Food pantry for families and individuals in the Mandarin area including zip 32259. Open Tuesdays 5pm-6:30pm. No one turned away on first visit.",
+    "address": "12001 Mandarin Road, Jacksonville, FL 32223",
+    "phone": "(904) 680-9944",
+    "url": "https://www.mandarinpres.com/dailybread/",
+    "categorySlug": "food",
+    "zipCode": "32259"
+  },
+  {
+    "name": "Treasure Coast Food Bank",
+    "description": "Regional food bank obtaining and distributing food in Indian River, Martin, St. Lucie, and Okeechobee Counties.",
+    "address": "3051 Industrial 25th Street, Fort Pierce, FL 34946",
+    "phone": "(772) 489-3034",
+    "url": "https://stophunger.org/",
+    "categorySlug": "food",
+    "zipCode": "34946"
+  },
+  {
+    "name": "United Against Poverty - St. Lucie",
+    "description": "Provides crisis care, food assistance, and support for those facing poverty and instability in St. Lucie County.",
+    "address": "2520 Orange Avenue, Fort Pierce, FL 34947",
+    "phone": "(772) 468-8543",
+    "url": "https://unitedagainstpoverty.org/campus/st-lucie/",
+    "categorySlug": "food",
+    "zipCode": "34947"
+  },
+  {
+    "name": "Mustard Seed Ministries Food Pantry - Fort Pierce",
+    "description": "Food pantry serving St. Lucie County residents in crisis for 40 years. Open Mon-Wed 9am-11:45am.",
+    "address": "3130 S US 1, Fort Pierce, FL 34982",
+    "phone": "(772) 595-1599",
+    "url": "https://www.mustardseedslc.org/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "34982"
+  },
+  {
+    "name": "GraceWay Village",
+    "description": "Nonprofit serving St. Lucie County residents struggling with poverty, food scarcity, and homelessness. Provides temporary shelter for families.",
+    "address": "1780 Hartman Road, Fort Pierce, FL 34945",
+    "phone": "(772) 925-3074",
+    "url": "https://gracewayvillage.com/",
+    "categorySlug": "housing",
+    "zipCode": "34945"
+  },
+  {
+    "name": "Good Samaritan Ministries Food Pantry - Port St. Lucie",
+    "description": "Food pantry providing emergency food assistance for Port St. Lucie area residents.",
+    "address": "8280 Business Park Drive, Port St. Lucie, FL 34952",
+    "phone": "(772) 398-0065",
+    "url": "https://www.foodpantries.org/ci/fl-port_saint_lucie",
+    "categorySlug": "food",
+    "zipCode": "34952"
+  },
+  {
+    "name": "Society of St. Vincent de Paul - Port St. Lucie",
+    "description": "Emergency food and financial assistance for Port St. Lucie area residents.",
+    "address": "697 SW Biltmore Street, Port St. Lucie, FL 34983",
+    "phone": "(772) 878-8474",
+    "url": "https://www.foodpantries.org/ci/fl-port_saint_lucie",
+    "categorySlug": "food",
+    "zipCode": "34983"
+  },
+  {
+    "name": "Hope Ministries Center Food Pantry",
+    "description": "Community food pantry serving Bushnell and surrounding Sumter County communities. Distributions every Friday 10am-noon.",
+    "address": "5260 South US Hwy 301, Bushnell, FL 33513",
+    "phone": "(352) 568-7729",
+    "url": "https://www.hopeministriesfl.org/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "33513"
+  },
+  {
+    "name": "Salvation Army - Sumter County",
+    "description": "Food pantry and emergency services serving Sumter County residents. Open Mon-Thu 9am-4pm.",
+    "address": "870 North Main Street, Bushnell, FL 33513",
+    "phone": "(352) 568-2284",
+    "url": "https://www.foodpantries.org/ci/fl-bushnell",
+    "categorySlug": "food",
+    "zipCode": "33513"
+  },
+  {
+    "name": "Wildwood Food Pantry",
+    "description": "Joint ministry of Wildwood United Methodist Church and New Covenant UMC serving Sumter County. Distributions 1st and 3rd Fridays 9am-noon.",
+    "address": "300 Mason Street, Wildwood, FL 34785",
+    "phone": "(352) 661-0837",
+    "url": "https://www.wildwoodfoodpantry.com/",
+    "categorySlug": "food",
+    "zipCode": "34785"
+  },
+  {
+    "name": "Caring Hands Food and Clothing Ministry",
+    "description": "Food and clothing ministry serving Wildwood and Northern Sumter County since 2005. Food and clothing distributed on 2nd and 4th Tuesdays 9:30am-12:15pm.",
+    "address": "Wildwood, FL 34785",
+    "phone": "",
+    "url": "https://caringhandswildwood.com/",
+    "categorySlug": "food",
+    "zipCode": "34785"
+  },
+  {
+    "name": "Wildwood Soup Kitchen",
+    "description": "Church-based nonprofit feeding the hungry in Wildwood, Florida, operating with an all-volunteer staff.",
+    "address": "Wildwood, FL 34785",
+    "phone": "",
+    "url": "https://wildwoodsoupkitchen.org/",
+    "categorySlug": "food",
+    "zipCode": "34785"
+  },
+  {
+    "name": "Suwannee River Economic Council Food Pantry",
+    "description": "Food pantry serving Suwannee County residents. Open Mon-Fri 8am-5pm.",
+    "address": "1171 Nobles Ferry Road NW, Live Oak, FL 32064",
+    "phone": "(386) 364-4673",
+    "url": "https://srecinc.org/",
+    "categorySlug": "food",
+    "zipCode": "32060"
+  },
+  {
+    "name": "First United Methodist Church Food Pantry - Perry",
+    "description": "Food pantry providing quality food items to households experiencing food insecurity. Second Saturday of each month.",
+    "address": "302 North Jefferson Street, Perry, FL 32347",
+    "phone": "(850) 584-3028",
+    "url": "https://www.foodpantries.org/ci/fl-perry",
+    "categorySlug": "food",
+    "zipCode": "32347"
+  },
+  {
+    "name": "First Assembly of God of Perry Food Pantry",
+    "description": "Food pantry providing critical food assistance to Perry and Taylor County residents.",
+    "address": "Perry, FL 32347",
+    "phone": "(850) 672-1771",
+    "url": "https://foodbanksinflorida.org/first-assembly-of-god-of-perry/",
+    "categorySlug": "food",
+    "zipCode": "32347"
+  },
+  {
+    "name": "Refuge House - Taylor County",
+    "description": "Emergency shelter and services for victims of domestic violence and sexual assault in Taylor County. Provides emergency food, linens, clothing, and support services.",
+    "address": "Perry, FL 32348",
+    "phone": "(850) 584-8808",
+    "url": "https://refugehouse.com/emergency-shelter/",
+    "categorySlug": "housing",
+    "zipCode": "32347"
+  },
+  {
+    "name": "Salvation Army - Perry",
+    "description": "Emergency shelter, food vouchers, and furniture assistance for Taylor County residents including house fire victims.",
+    "address": "604 W Julia St, Perry, FL 32347",
+    "phone": "(850) 584-4269",
+    "url": "https://www.foodpantries.org/ci/fl-perry",
+    "categorySlug": "crisis",
+    "zipCode": "32347"
+  },
+  {
+    "name": "Promised Land Family Ministries Mobile Food Pantry",
+    "description": "Mobile food pantry partnering with Bread of the Mighty Food Bank and Feeding Florida. Drive-thru distribution on a first-come, first-served basis.",
+    "address": "6886 SW 74th Way, Lake Butler, FL 32054",
+    "phone": "(386) 515-5903",
+    "url": "https://promisedlandfm.org/mobile-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "32054"
+  },
+  {
+    "name": "Fellowship Baptist Church Food Pantry - Raiford",
+    "description": "Food distribution on the second Saturday of each month (except holiday weekends) serving Union County.",
+    "address": "Raiford, FL 32083",
+    "phone": "",
+    "url": "https://www.fbcraiford.org/fbc-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "32083"
+  },
+  {
+    "name": "Union County Food Pantry",
+    "description": "Local food pantry serving Union County residents in Lake Butler.",
+    "address": "250 SE 3rd Avenue, Lake Butler, FL 32054",
+    "phone": "",
+    "url": "https://www.foodpantries.org/ci/fl-lake_butler",
+    "categorySlug": "food",
+    "zipCode": "32054"
+  },
+  {
+    "name": "Halifax Urban Ministries",
+    "description": "Faith-based nonprofit serving Volusia and Flagler counties since 1981. Provides food distribution (4 locations), mobile hot meals for the unsheltered, emergency shelter, transitional housing, and emergency financial assistance.",
+    "address": "215 Bay St, Daytona Beach, FL 32114",
+    "phone": "(386) 252-0156",
+    "url": "https://www.halifaxurbanministries.org/",
+    "categorySlug": "food",
+    "zipCode": "32114"
+  },
+  {
+    "name": "First Step Shelter",
+    "description": "Comprehensive homeless program for Volusia County adults offering health, addiction, and counseling services, plus housing and employment assistance.",
+    "address": "3889 W International Speedway Blvd, Daytona Beach, FL 32124",
+    "phone": "(386) 361-3800",
+    "url": "https://firststepshelter.org/",
+    "categorySlug": "housing",
+    "zipCode": "32124"
+  },
+  {
+    "name": "Family Renew Community",
+    "description": "Faith-based nonprofit providing temporary housing to families with children in Volusia County since 1989.",
+    "address": "Daytona Beach, FL 32114",
+    "phone": "",
+    "url": "https://www.familyrenew.org/",
+    "categorySlug": "housing",
+    "zipCode": "32114"
+  },
+  {
+    "name": "First United Methodist Church Food Pantry - New Smyrna Beach",
+    "description": "Weekly food distribution for community members in need. Open Sundays 4-5pm.",
+    "address": "310 Douglas Street, New Smyrna Beach, FL 32168",
+    "phone": "(386) 428-4371",
+    "url": "https://www.foodpantries.org/ci/fl-new_smyrna_beach",
+    "categorySlug": "food",
+    "zipCode": "32168"
+  },
+  {
+    "name": "Apostolic Faith Temple Food Pantry - New Smyrna Beach",
+    "description": "Community food pantry open on the 2nd Saturday 11am-4pm.",
+    "address": "300 Milford Place, New Smyrna Beach, FL 32168",
+    "phone": "(386) 426-5677",
+    "url": "https://www.foodpantries.org/ci/fl-new_smyrna_beach",
+    "categorySlug": "food",
+    "zipCode": "32168"
+  },
+  {
+    "name": "CWC Ministries",
+    "description": "Nonprofit providing food, clothing, furniture, and personal hygiene products. Open Mon-Fri 8:30-11am.",
+    "address": "54 S Ridgewood Avenue, Ormond Beach, FL 32174",
+    "phone": "(386) 310-4910",
+    "url": "https://www.cwcministries.org/",
+    "categorySlug": "food",
+    "zipCode": "32174"
+  },
+  {
+    "name": "Jerry Doliner Food Bank - Jewish Federation",
+    "description": "Community food bank open Wednesday noon-1pm serving the Ormond Beach area.",
+    "address": "470 Andalusia Avenue, Ormond Beach, FL 32174",
+    "phone": "",
+    "url": "https://jewishfederationdaytona.org/programs/jerry-doliner-food-bank",
+    "categorySlug": "food",
+    "zipCode": "32174"
+  },
+  {
+    "name": "St. Ann's Catholic Church Food Pantry - DeBary",
+    "description": "Food pantry open Mon and Fri 10am-noon serving DeBary and surrounding communities.",
+    "address": "26 Dogwood Trl, DeBary, FL 32713",
+    "phone": "(386) 668-8270",
+    "url": "https://www.foodpantries.org/ci/fl-debary",
+    "categorySlug": "food",
+    "zipCode": "32713"
+  },
+  {
+    "name": "Neighborhood Center of West Volusia",
+    "description": "Food pantry and emergency shelter serving West Volusia County. Pantry open Mon-Thu 9am-noon and 1-4pm, Fri 9am-noon. Emergency shelter available 30-90 days.",
+    "address": "434 S Woodland Blvd, DeLand, FL 32720",
+    "phone": "(386) 734-8120",
+    "url": "https://neighborhoodcenterwv.org/",
+    "categorySlug": "food",
+    "zipCode": "32720"
+  },
+  {
+    "name": "Salvation Army West Volusia Food Pantry",
+    "description": "Food pantry serving DeLand and West Volusia County. Open Wednesday 1-2pm.",
+    "address": "1240 S High Street, DeLand, FL 32720",
+    "phone": "(386) 738-2406",
+    "url": "https://www.foodpantries.org/li/salvation_army_deland_fl",
+    "categorySlug": "food",
+    "zipCode": "32720"
+  },
+  {
+    "name": "Deltona Seventh Day Adventist Church Food Pantry",
+    "description": "Food pantry open 1st and 3rd Sunday 10am-1pm serving the Deltona community.",
+    "address": "1717 Catalina Blvd, Deltona, FL 32725",
+    "phone": "(386) 789-7800",
+    "url": "https://www.foodpantries.org/ci/fl-deltona",
+    "categorySlug": "food",
+    "zipCode": "32725"
+  },
+  {
+    "name": "Deltona Christian Church Food Pantry",
+    "description": "Drive-through food pantry distribution on the 3rd Wednesday each month serving Deltona residents.",
+    "address": "Deltona, FL 32725",
+    "phone": "(386) 574-2431",
+    "url": "https://www.foodpantries.org/ci/fl-deltona",
+    "categorySlug": "food",
+    "zipCode": "32725"
+  },
+  {
+    "name": "Authentic Life Church Food Pantry - Crawfordville",
+    "description": "Food pantry open 1st and 2nd Saturdays 9am-noon and by appointment. Serving Wakulla County.",
+    "address": "824 Shadeville Rd, Crawfordville, FL 32327",
+    "phone": "",
+    "url": "https://www.foodpantries.org/ci/fl-crawfordville",
+    "categorySlug": "food",
+    "zipCode": "32327"
+  },
+  {
+    "name": "Crawfordville United Methodist Church Food Pantry",
+    "description": "Monthly food distribution on the 2nd Wednesday serving Wakulla County residents.",
+    "address": "176 Ochlockonee St, Crawfordville, FL 32327",
+    "phone": "",
+    "url": "https://www.foodpantries.org/ci/fl-crawfordville",
+    "categorySlug": "food",
+    "zipCode": "32327"
+  },
+  {
+    "name": "Wakulla Giving Hands",
+    "description": "Community food distribution serving Wakulla County. Distributions on Sundays, line starts at 11:30am.",
+    "address": "2569 Coastal Hwy, Crawfordville, FL 32327",
+    "phone": "",
+    "url": "https://www.foodpantries.org/ci/fl-crawfordville",
+    "categorySlug": "food",
+    "zipCode": "32327"
+  },
+  {
+    "name": "Promise Land Ministries Lighthouse Food Pantry",
+    "description": "Monthly food pantry distribution on the first Wednesday of each month for Wakulla County residents.",
+    "address": "20 Church Rd, Wakulla Springs, FL 32327",
+    "phone": "(850) 926-3281",
+    "url": "https://www.foodpantries.org/ci/fl-crawfordville",
+    "categorySlug": "food",
+    "zipCode": "32327"
+  }
+]

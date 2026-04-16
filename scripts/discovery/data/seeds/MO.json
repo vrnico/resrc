@@ -1,0 +1,1130 @@
+[
+  {
+    "name": "Northeast Missouri Community Resources (NEMO Resources)",
+    "description": "Community support organization coordinating social services and resources for Adair County residents, connecting individuals with housing, food, and other assistance programs.",
+    "address": "Kirksville, MO 63501",
+    "phone": "",
+    "url": "https://www.nemoresources.org/community-support/",
+    "categorySlug": "community",
+    "zipCode": "63501"
+  },
+  {
+    "name": "Pantry for Adair County",
+    "description": "Provides supplemental food to food-insecure residents of Adair County, distributing groceries multiple times per week. Serves anyone in need with photo ID.",
+    "address": "2012 S Halliburton St, Kirksville, MO 63501",
+    "phone": "(660) 488-5261",
+    "url": "https://www.pacfood.org/",
+    "categorySlug": "food",
+    "zipCode": "63501"
+  },
+  {
+    "name": "Salvation Army Kirksville Food Pantry",
+    "description": "Provides emergency food assistance to individuals and families in the Kirksville area as part of the Salvation Army's hunger relief mission.",
+    "address": "1004 West Gardner Street, Kirksville, MO 63501",
+    "phone": "(660) 665-7885",
+    "url": "https://centralusa.salvationarmy.org/midland/kirksville/cure-hunger/",
+    "categorySlug": "food",
+    "zipCode": "63501"
+  },
+  {
+    "name": "Rock Port United Methodist Church Food Pantry",
+    "description": "Community food pantry serving residents of the Rock Port School District including Rock Port, Watson, Langdon, and Phelps City. Open twice weekly in the church fellowship hall.",
+    "address": "211 W. Opp, Rock Port, MO 64482",
+    "phone": "(660) 744-2101",
+    "url": "https://feedingmissouri.org/get-help/",
+    "categorySlug": "food",
+    "zipCode": "64482"
+  },
+  {
+    "name": "Barry County Health Department",
+    "description": "County public health agency providing disease prevention, health screenings, immunizations, WIC services, and community health programs for Barry County residents.",
+    "address": "65 Main Street, Cassville, MO 65625",
+    "phone": "(417) 847-2114",
+    "url": "https://www.barrycountyhealth.com/",
+    "categorySlug": "healthcare",
+    "zipCode": "65625"
+  },
+  {
+    "name": "Cassville Community Food Pantry",
+    "description": "Full-service food pantry serving over 1,500 people per month in Barry County for more than 20 years. Offers curbside pick-up Monday through Thursday, plus USDA Foods Distribution and Senior Box services.",
+    "address": "800 West 10th St, Cassville, MO 65625",
+    "phone": "(417) 846-7871",
+    "url": "https://www.cassvillepantry.com/",
+    "categorySlug": "food",
+    "zipCode": "65625"
+  },
+  {
+    "name": "Missouri Family Support Division – Barry County",
+    "description": "State office providing financial assistance programs including Medicaid, SNAP food stamps, energy assistance, and Temporary Assistance for Needy Families (TANF) to eligible Barry County residents.",
+    "address": "208 East 8th Street, Cassville, MO 65625",
+    "phone": "(855) 373-4636",
+    "url": "https://dss.mo.gov/cd/office/barry.htm",
+    "categorySlug": "community",
+    "zipCode": "65625"
+  },
+  {
+    "name": "Community Food Pantry of Butler",
+    "description": "Established in 2002, this pantry serves 28 communities in Bates County and allows clients to choose products from shelves like a small store, providing dignity along with nutrition. Also distributes fresh produce from a Kansas City food bank monthly.",
+    "address": "709 W Ohio Street, Butler, MO 64730",
+    "phone": "(660) 679-3951",
+    "url": "https://www.harvesters.org/location/community-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "64730"
+  },
+  {
+    "name": "Bollinger County Health Center",
+    "description": "County public health facility providing wellness screenings, counseling, nutrition services, substance abuse services, and general health programs for Bollinger County residents.",
+    "address": "107 Highway 51 North, Marble Hill, MO 63764",
+    "phone": "(573) 238-2817",
+    "url": "https://health.mo.gov/",
+    "categorySlug": "healthcare",
+    "zipCode": "63764"
+  },
+  {
+    "name": "Marble Hill Food Pantry",
+    "description": "Food pantry serving all Bollinger County residents on the 1st and 3rd Tuesday of each month. Provides groceries, senior boxes, and emergency food assistance through East Missouri Action Agency.",
+    "address": "305 West Main, Marble Hill, MO 63764",
+    "phone": "",
+    "url": "https://firstcallforhelpsemo.org/agencies/marble-hill-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "63764"
+  },
+  {
+    "name": "Southeast Missouri Food Bank – Mobile Pantry (Marble Hill)",
+    "description": "Regional food bank operating a mobile food pantry distribution in Marble Hill/Bollinger County, providing free groceries to community members in need.",
+    "address": "Marble Hill, MO 63764",
+    "phone": "(573) 471-1818",
+    "url": "https://semofoodbank.org/mobile-food-pantry/marble-hill-bollinger-county-5/",
+    "categorySlug": "food",
+    "zipCode": "63764"
+  },
+  {
+    "name": "Central Missouri Community Action (CMCA)",
+    "description": "Community action agency supporting low-income individuals and families in Cole County using a whole-family approach, with programs including Head Start, housing and rental assistance, energy assistance, weatherization, life skills, and budgeting classes.",
+    "address": "1121 Business Loop 70 E, Columbia, MO 65201",
+    "phone": "(573) 443-8706",
+    "url": "https://www.showmeaction.org/",
+    "categorySlug": "community",
+    "zipCode": "65201"
+  },
+  {
+    "name": "Community Action Partnership of Greater St. Joseph",
+    "description": "Community action agency serving Andrew, Buchanan, Clinton, and DeKalb counties with programs addressing poverty through emergency utility assistance, housing development, education, employment training, Head Start, and life skills classes.",
+    "address": "817 Monterey Street, Saint Joseph, MO 64503",
+    "phone": "",
+    "url": "https://www.capstjoe.org/services/",
+    "categorySlug": "community",
+    "zipCode": "64503"
+  },
+  {
+    "name": "InterServ (Interfaith Community Services)",
+    "description": "One of the largest social services organizations in northwest Missouri, serving families, seniors, youth, and children for over 100 years with individual and family assistance, counseling, case management, immigrant services, and elderly nutrition programs.",
+    "address": "5400 King Hill Avenue, Saint Joseph, MO 64504",
+    "phone": "(816) 238-4511",
+    "url": "https://www.faithfullyserving.org/",
+    "categorySlug": "community",
+    "zipCode": "64504"
+  },
+  {
+    "name": "Salvation Army Saint Joseph – Booth Center Shelter",
+    "description": "Emergency family homeless shelter open 24 hours a day, providing meals, safe housing, clothing, counseling, referrals, and youth programs for families experiencing homelessness in the St. Joseph area.",
+    "address": "Saint Joseph, MO 64501",
+    "phone": "",
+    "url": "https://centralusa.salvationarmy.org/stjoseph/",
+    "categorySlug": "housing",
+    "zipCode": "64501"
+  },
+  {
+    "name": "Second Harvest Community Food Bank",
+    "description": "Regional food bank serving northwest Missouri including Buchanan and DeKalb counties, distributing food through a network of pantries and operating a fresh mobile pantry. Provides nourishment and hope to those facing hunger.",
+    "address": "915 Douglas Street, Saint Joseph, MO 64505",
+    "phone": "(816) 364-3663",
+    "url": "https://www.shcfb.org/",
+    "categorySlug": "food",
+    "zipCode": "64505"
+  },
+  {
+    "name": "Neelyville Food Pantry",
+    "description": "Local food pantry serving the Neelyville area of Butler County, distributing USDA food on the second Saturday of each month from 10am to noon.",
+    "address": "154 Haynes Street, Neelyville, MO 63954",
+    "phone": "(573) 712-6874",
+    "url": "https://semofoodbank.org/pantries/",
+    "categorySlug": "food",
+    "zipCode": "63954"
+  },
+  {
+    "name": "The Bread Shed",
+    "description": "Food pantry and community meal program serving Butler, Ripley, and Carter Counties. Partners with the Southeast Missouri Food Bank for monthly food distributions and serves a free hot meal every Sunday from 11:30am–1:00pm.",
+    "address": "203 North D Street, Poplar Bluff, MO 63901",
+    "phone": "(573) 712-6597",
+    "url": "https://www.breadshed.org/",
+    "categorySlug": "food",
+    "zipCode": "63901"
+  },
+  {
+    "name": "Callaway County Special Services",
+    "description": "Local nonprofit providing food, clothing, and community support services to low-income residents throughout Callaway County.",
+    "address": "Fulton, MO 65251",
+    "phone": "",
+    "url": "https://callawaycountyspecialservices.org/food-and-clothing/",
+    "categorySlug": "community",
+    "zipCode": "65251"
+  },
+  {
+    "name": "SERVE, Inc.",
+    "description": "United Way agency fighting poverty in Callaway County with a food pantry providing fresh produce, canned goods, frozen foods, and household supplies once monthly, plus emergency financial assistance and public transportation services.",
+    "address": "4901 County Road 304, Fulton, MO 65251",
+    "phone": "(573) 642-6388",
+    "url": "https://www.moserve.org/client-services",
+    "categorySlug": "food",
+    "zipCode": "65251"
+  },
+  {
+    "name": "Wiley House – Emergency Shelter (Fulton)",
+    "description": "Emergency homeless shelter in Fulton serving Callaway County residents, with separate seasonal check-in hours and ID required for entry.",
+    "address": "831 Jefferson Street, Fulton, MO 65251",
+    "phone": "",
+    "url": "https://sites.google.com/a/showmeaction.org/central-missouri-community-action-area-resource-guide/callaway-county/social-services",
+    "categorySlug": "housing",
+    "zipCode": "65251"
+  },
+  {
+    "name": "Catholic Social Ministries Food Pantry – Cape Girardeau",
+    "description": "Provides free food to anyone in need in Cape Girardeau County with proper ID. Open Tuesday and Saturday mornings, serving as one of the county's primary emergency food resources.",
+    "address": "141 S. Frederick Street, Cape Girardeau, MO 63703",
+    "phone": "(573) 335-9347",
+    "url": "https://stmarycathedral.net/Food-Pantry",
+    "categorySlug": "food",
+    "zipCode": "63703"
+  },
+  {
+    "name": "Salvation Army Cape Girardeau",
+    "description": "Provides food pantry, soup kitchen, and emergency social services to individuals and families in Cape Girardeau County, including USDA distribution and weekday community meals.",
+    "address": "701 Good Hope Street, Cape Girardeau, MO 63702",
+    "phone": "(573) 335-7000",
+    "url": "https://centralusa.salvationarmy.org/midland/capegirardeau/",
+    "categorySlug": "food",
+    "zipCode": "63743"
+  },
+  {
+    "name": "Carter County Health Center",
+    "description": "County public health facility established in 1954, providing general health care, WIC nutrition programs for women and children, health screenings, and disease prevention services to Carter County residents.",
+    "address": "1611 Health Center Road, Van Buren, MO 63965",
+    "phone": "(573) 323-4413",
+    "url": "https://cartercountyhealth.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "63965"
+  },
+  {
+    "name": "Heart of Life Church Food Pantry – Garden City",
+    "description": "Monthly food pantry distribution serving Garden City and surrounding Cass County communities, operating on the third Monday of each month from 9:30–11:00am.",
+    "address": "96 Old Highway 7, Garden City, MO 64747",
+    "phone": "",
+    "url": "https://wcmcaa.org/cass-county-food-resources/",
+    "categorySlug": "food",
+    "zipCode": "64747"
+  },
+  {
+    "name": "Shepherd's Staff Food Pantry – Harrisonville Ministerial Alliance",
+    "description": "Community food pantry serving Cass County residents in multiple zip codes including Harrisonville, open Fridays from 2–5:30pm. Provides groceries to households experiencing food insecurity.",
+    "address": "1311 Sanders Street, Harrisonville, MO 64701",
+    "phone": "(816) 884-3043",
+    "url": "https://www.harrisonvilleministerialalliance.org/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "64701"
+  },
+  {
+    "name": "West Central Missouri Community Action Agency",
+    "description": "Community action agency serving Bates and surrounding counties, providing food pantry access, energy assistance, emergency financial help, and services to help low-income families become self-reliant.",
+    "address": "208 W. Walnut, Raymore, MO 64083",
+    "phone": "(816) 322-0502",
+    "url": "https://wcmcaa.org/bates-county-food-pantries-resources/",
+    "categorySlug": "community",
+    "zipCode": "64083"
+  },
+  {
+    "name": "CC Links – Nixa",
+    "description": "Support and resource organization in Christian County connecting individuals with disabilities, families, and community members to local social services, advocacy, and community programs.",
+    "address": "Nixa, MO 65714",
+    "phone": "(417) 494-4982",
+    "url": "https://christiancountylinks.net/colibri-wp/resources/",
+    "categorySlug": "community",
+    "zipCode": "65714"
+  },
+  {
+    "name": "Least of These, Inc. – Christian County Food Pantry",
+    "description": "The only full-service food pantry serving all of Christian County, providing food, clothing, special evening hours for working clients, and three mobile food pantries throughout the county. Requires a phone intake appointment before first visit.",
+    "address": "1720 James River Road, Ozark, MO 65721",
+    "phone": "(417) 724-2500",
+    "url": "https://leastofthesefoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "65721"
+  },
+  {
+    "name": "Good Samaritan Center of Excelsior Springs",
+    "description": "Multipurpose community nonprofit preventing homelessness and hunger in Clay County with a food pantry open Monday–Wednesday and Friday, plus emergency assistance for utilities, shelter, medical costs, and transportation. Also offers a thrift store and senior advocate program.",
+    "address": "108 S. Thompson Avenue, Excelsior Springs, MO 64024",
+    "phone": "(816) 630-2718",
+    "url": "https://goodsamaritancenter.com/",
+    "categorySlug": "food",
+    "zipCode": "64024"
+  },
+  {
+    "name": "Salvation Army Excelsior Springs",
+    "description": "Provides emergency food, clothing, rent and utility assistance, and seasonal programs to residents of Excelsior Springs and surrounding Clay County communities.",
+    "address": "108 W. Broadway, Excelsior Springs, MO 64024",
+    "phone": "(816) 630-4155",
+    "url": "https://www.salvationarmyusa.org",
+    "categorySlug": "food",
+    "zipCode": "59501",
+    "additionalZipCodes": [
+      "64024",
+      "66701",
+      "71635",
+      "74447",
+      "75702",
+      "87401",
+      "90302"
+    ]
+  },
+  {
+    "name": "Community Health Center of Central Missouri",
+    "description": "Federally Qualified Health Center (FQHC) providing comprehensive primary care, dental, and mental health services on a sliding scale fee basis. Accepts Medicaid, Medicare, and most insurance, with extended evening and weekend hours.",
+    "address": "1511 Christy Drive, Jefferson City, MO 65101",
+    "phone": "(573) 632-2777",
+    "url": "https://chccmo.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "65101"
+  },
+  {
+    "name": "Salvation Army Jefferson City – Center of Hope",
+    "description": "Provides a 40-bed emergency homeless shelter for men, women, and families with children, plus daily community meals, a food pantry, clothing vouchers, and energy and housing assistance to mid-Missouri residents.",
+    "address": "927 Jefferson Street, Jefferson City, MO 65101",
+    "phone": "(573) 635-1975",
+    "url": "https://centralusa.salvationarmy.org/midland/jeffersoncity/",
+    "categorySlug": "housing",
+    "zipCode": "65101"
+  },
+  {
+    "name": "The Pantry JC",
+    "description": "Community food pantry in Jefferson City open Monday and Wednesday evenings and Friday and Saturday mornings, providing free groceries to Cole County residents facing food insecurity.",
+    "address": "Jefferson City, MO 65101",
+    "phone": "",
+    "url": "https://www.facebook.com/thepantryjc/",
+    "categorySlug": "food",
+    "zipCode": "65101"
+  },
+  {
+    "name": "Operation Food Share – Steelville Assembly of God",
+    "description": "Monthly food pantry serving Crawford County residents, open the first Tuesday of each month from 10:00am–12:00pm. Provides free groceries to individuals and families in need.",
+    "address": "29 Church Street, Steelville, MO 65565",
+    "phone": "(573) 775-2044",
+    "url": "https://www.foodpantries.org/li/operation_food_share_65565",
+    "categorySlug": "food",
+    "zipCode": "65565"
+  },
+  {
+    "name": "Steelville Ministerial Alliance Food Pantry",
+    "description": "Faith-community food pantry providing free groceries to families and individuals in Crawford County who lack resources to purchase food.",
+    "address": "Steelville, MO 65565",
+    "phone": "",
+    "url": "https://www.findhelp.org/steelville-ministerial-alliance--steelville-mo--food-pantry/5744280190844928?postal=65565",
+    "categorySlug": "food",
+    "zipCode": "65565"
+  },
+  {
+    "name": "Daviess County Food Bank – Gallatin Adventist Community Services",
+    "description": "Food bank and thrift store operated by the Seventh-day Adventist Church, serving Daviess County with a pantry, emergency assistance, and thrift store. Receives food donations from the Jamesport Produce Auction and local farmers.",
+    "address": "1210 Willow Street, Gallatin, MO 64640",
+    "phone": "",
+    "url": "https://www.gallatinacs.org/",
+    "categorySlug": "food",
+    "zipCode": "64640"
+  },
+  {
+    "name": "Lifeway Center – Shepherd's Nook Food Pantry",
+    "description": "One of the largest food pantries in a 30-county area, serving over 2,200 residents of Dent County each month Tuesday through Friday. Provides free groceries with no eligibility restrictions.",
+    "address": "701 N. Main Street, Salem, MO 65560",
+    "phone": "(573) 247-0165",
+    "url": "https://lifewaycenter.com/",
+    "categorySlug": "food",
+    "zipCode": "65560"
+  },
+  {
+    "name": "Missouri Family Support Division – Dent County",
+    "description": "State social services office in Salem providing SNAP food stamps, Medicaid, Low Income Energy Assistance (LIHEAP), and Temporary Assistance for Needy Families (TANF) to eligible Dent County residents.",
+    "address": "800 W. Scenic Rivers Blvd, Salem, MO 65560",
+    "phone": "(573) 729-4137",
+    "url": "https://dss.mo.gov/cd/office/dent.htm",
+    "categorySlug": "community",
+    "zipCode": "65560"
+  },
+  {
+    "name": "Delta Area Economic Opportunity Corporation (DAEOC)",
+    "description": "Community action agency serving Dunklin and five other southeast Missouri counties with food and nutrition programs, Head Start/Early Head Start, family and children services, and poverty alleviation programs. Distributes free food with ID on the 3rd Saturday monthly.",
+    "address": "1100 Homecrest Street, Kennett, MO 63857",
+    "phone": "(573) 379-3851",
+    "url": "https://www.daeoc.com/",
+    "categorySlug": "community",
+    "zipCode": "63857"
+  },
+  {
+    "name": "Dunklin County Caring Council",
+    "description": "Community organization maintaining a directory of local service providers in Kennett and Dunklin County, and coordinating social services referrals for residents in need.",
+    "address": "311 Kennett Street, Kennett, MO 63857",
+    "phone": "(573) 717-1158",
+    "url": "https://www.caringcouncil.org",
+    "categorySlug": "community",
+    "zipCode": "63857"
+  },
+  {
+    "name": "Helping Hands Ministerial Alliance Food Pantry – Kennett",
+    "description": "Nonprofit food pantry collecting, storing, and distributing food to those in need in Dunklin County. Open Monday through Friday from 10am–2pm, often providing fresh produce, dairy, and protein.",
+    "address": "511 Frisco Street, Kennett, MO 63857",
+    "phone": "(573) 888-9048",
+    "url": "https://semofoodbank.org/agencies/helping-hand-ministerial-alliance-pantry/",
+    "categorySlug": "food",
+    "zipCode": "63857"
+  },
+  {
+    "name": "Agape House – St. Clair (Franklin County Shelter)",
+    "description": "Emergency shelter serving Franklin County residents experiencing homelessness or housing crisis, offering temporary housing and referrals to additional services.",
+    "address": "St. Clair, MO 63077",
+    "phone": "(636) 629-9899",
+    "url": "https://foundations4franklincounty.org/resource_category/shelter-housing/",
+    "categorySlug": "housing",
+    "zipCode": "63077"
+  },
+  {
+    "name": "Foundations for Franklin County",
+    "description": "Community foundation coordinating food assistance, shelter, housing, and other social service resources for Franklin County residents, connecting people with local programs and support.",
+    "address": "Sullivan, MO 63080",
+    "phone": "",
+    "url": "https://foundations4franklincounty.org/resource_category/food/",
+    "categorySlug": "community",
+    "zipCode": "63080"
+  },
+  {
+    "name": "Meramec Community Mission",
+    "description": "Food pantry and thrift store serving Sullivan and the Sullivan C-2 School District in Franklin County, with limited income requirements. Pantry open Tuesday, Thursday, and Saturday 10am–2pm and Wednesday 12pm–5pm.",
+    "address": "200 W. Main Street, Sullivan, MO 63080",
+    "phone": "(573) 468-5813",
+    "url": "https://sullivanmission.org/",
+    "categorySlug": "food",
+    "zipCode": "63080"
+  },
+  {
+    "name": "Albany Ministerial Alliance Food Pantry",
+    "description": "Local food pantry serving Albany and surrounding Gentry County communities, operating every other Tuesday from 9–10:30am with emergency food assistance available by phone.",
+    "address": "302 North Smith Street, Albany, MO 64402",
+    "phone": "(660) 726-5818",
+    "url": "https://www.shcfb.org/agency-partner-food-sites",
+    "categorySlug": "food",
+    "zipCode": "64402"
+  },
+  {
+    "name": "Green Hills Community Action Agency",
+    "description": "Multi-county community action agency serving Daviess, Harrison, and seven other Green Hills counties, providing food assistance, energy assistance, Head Start, housing services, and other anti-poverty programs to low-income residents.",
+    "address": "1506 Oklahoma Avenue, Trenton, MO 64683",
+    "phone": "(660) 359-3907",
+    "url": "https://www.capncm.org/",
+    "categorySlug": "community",
+    "zipCode": "64683"
+  },
+  {
+    "name": "Green Hills Community Action Agency – Gentry County",
+    "description": "Multi-county community action agency covering Gentry County, providing food assistance, energy and utility assistance, Head Start, and other supportive services for low-income families in the Green Hills region.",
+    "address": "1506 Oklahoma Avenue, Trenton, MO 64683",
+    "phone": "(660) 359-3907",
+    "url": "https://www.capncm.org/county-resource-boxes.html",
+    "categorySlug": "community",
+    "zipCode": "64683"
+  },
+  {
+    "name": "Green Hills Community Action Agency – Harrison County",
+    "description": "Community action agency serving Harrison County and eight surrounding Green Hills region counties with food assistance, energy assistance, housing support, Head Start, and anti-poverty services.",
+    "address": "1506 Oklahoma Avenue, Trenton, MO 64683",
+    "phone": "(660) 359-3907",
+    "url": "https://www.capncm.org/locations.html",
+    "categorySlug": "community",
+    "zipCode": "64683"
+  },
+  {
+    "name": "Harrison County Food Pantry",
+    "description": "Nonprofit food pantry providing free groceries to residents of Harrison County, Missouri. Open Tuesday 9am–12pm and Thursday 3–6pm.",
+    "address": "702 N. 25th Street, Bethany, MO 64424",
+    "phone": "(660) 425-3833",
+    "url": "https://www.foodpantries.org/li/harrisoncountyfoodpanty",
+    "categorySlug": "food",
+    "zipCode": "64424"
+  },
+  {
+    "name": "Hickory County CARES Food Pantry",
+    "description": "Faith-based nonprofit providing food distribution to low-income families across Hickory County. Also operates a thrift store in Hermitage.",
+    "address": "18613 Main St, Wheatland, MO 65779",
+    "phone": "(417) 459-4639",
+    "url": "https://hickorycountycares.com/",
+    "categorySlug": "food",
+    "zipCode": "65724"
+  },
+  {
+    "name": "Hickory County Health Department",
+    "description": "Public health agency offering WIC, family planning, counseling, and wellness services to residents of Hickory County.",
+    "address": "24885 Hwy 254, Hermitage, MO 65668",
+    "phone": "(417) 745-2138",
+    "url": "https://hickorycountyhealth.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "65724"
+  },
+  {
+    "name": "Arcadia Valley Food Pantry",
+    "description": "Volunteer-run food pantry distributing groceries to residents of Arcadia, Ironton, and Pilot Knob; open Tuesdays and Thursdays.",
+    "address": "432 W Maple St, Pilot Knob, MO 63650",
+    "phone": "(573) 546-3518",
+    "url": "https://www.facebook.com/p/Arcadia-Valley-Food-Pantry-100064588365948/",
+    "categorySlug": "food",
+    "zipCode": "63650"
+  },
+  {
+    "name": "East Missouri Action Agency – Iron County Outreach Office",
+    "description": "Community action agency providing emergency food, rental assistance, and utility help to low-income residents of Iron County.",
+    "address": "321 S Knob St, Ironton, MO 63650",
+    "phone": "(573) 546-3191",
+    "url": "https://eastmoaa.org/",
+    "categorySlug": "community",
+    "zipCode": "63650"
+  },
+  {
+    "name": "Bishop Sullivan Center – Northeast",
+    "description": "Catholic Charities-affiliated center providing supplemental food pantry, employment services, and emergency assistance to residents of Northeast Kansas City.",
+    "address": "6435 Truman Rd, Kansas City, MO 64126",
+    "phone": "(816) 231-0984",
+    "url": "https://www.bishopsullivan.org/",
+    "categorySlug": "community",
+    "zipCode": "64126"
+  },
+  {
+    "name": "Calvary Temple Helping Hands Food Pantry",
+    "description": "Harvesters-affiliated food pantry in Northeast Kansas City providing groceries and household items to families in need; no appointment necessary.",
+    "address": "5612 Saint John Ave, Kansas City, MO 64123",
+    "phone": "(816) 726-1526",
+    "url": "https://www.harvesters.org/location/calvary-temple-helping-hands-2",
+    "categorySlug": "food",
+    "zipCode": "64123"
+  },
+  {
+    "name": "Catholic Charities of Kansas City – Serve and Lift Center",
+    "description": "Full-service community center offering a choice food pantry, social services, and assistance programs to residents of southeast Kansas City and surrounding areas.",
+    "address": "8001 Longview Rd, Kansas City, MO 64134",
+    "phone": "(816) 221-4377",
+    "url": "https://catholiccharities-kcsj.org/",
+    "categorySlug": "food",
+    "zipCode": "64134"
+  },
+  {
+    "name": "Coldwater Food & Clothing Pantry",
+    "description": "Community pantry providing food and clothing for those in need in Lee's Summit while building relationships and fostering hope.",
+    "address": "838 SW Blue Pkwy, Lee's Summit, MO 64063",
+    "phone": "(816) 786-0758",
+    "url": "https://www.coldwater.me/",
+    "categorySlug": "food",
+    "zipCode": "64063"
+  },
+  {
+    "name": "Community Action Agency of Greater Kansas City",
+    "description": "Community action agency partnering with thirty food pantries throughout Jackson, Clay, and Platte counties to combat hunger and poverty, offering food, toiletry pantries, and other anti-poverty programs.",
+    "address": "Kansas City, MO 64130",
+    "phone": "",
+    "url": "https://caagkc.org/programs/food-toiletry-pantries/",
+    "categorySlug": "community",
+    "zipCode": "64130"
+  },
+  {
+    "name": "Community Action Agency of Greater Kansas City",
+    "description": "Community action agency coordinating a network of food pantries and social services throughout Jackson County; administers emergency assistance and anti-poverty programs.",
+    "address": "6323 Manchester Ave, Kansas City, MO 64133",
+    "phone": "(816) 358-6868",
+    "url": "https://caagkc.org/",
+    "categorySlug": "community",
+    "zipCode": "64133"
+  },
+  {
+    "name": "Grace Place Food Pantry – Woods Chapel Church",
+    "description": "Church-based food pantry offering grocery assistance and a children's clothing closet to Jackson County residents experiencing financial hardship.",
+    "address": "4725 NE Lakewood Way, Lee's Summit, MO 64064",
+    "phone": "",
+    "url": "https://www.woodschapelchurch.org/graceplace",
+    "categorySlug": "food",
+    "zipCode": "64064"
+  },
+  {
+    "name": "Harvesters – The Community Food Network",
+    "description": "Regional food bank serving northwest Missouri including Clay County, distributing food through more than 760 nonprofit partner agencies. Provides mobile food pantry distributions in the Kansas City north/64165 area and serves over 226,000 people monthly across a 27-county service area.",
+    "address": "3801 Topping Avenue, Kansas City, MO 64129",
+    "phone": "(816) 929-3000",
+    "url": "https://www.harvesters.org",
+    "categorySlug": "food",
+    "zipCode": "64129",
+    "additionalZipCodes": [
+      "66061"
+    ]
+  },
+  {
+    "name": "Lee's Summit Social Services",
+    "description": "Nonprofit providing emergency food pantry, utility and rent assistance, and clothing to low-income and elderly residents of Lee's Summit and surrounding communities including Greenwood (64034).",
+    "address": "108 SE 4th St, Lee's Summit, MO 64063",
+    "phone": "(816) 525-4357",
+    "url": "https://www.lssocialservices.org/",
+    "categorySlug": "food",
+    "zipCode": "64063"
+  },
+  {
+    "name": "Samuel U. Rodgers Health Center",
+    "description": "Federally Qualified Health Center providing affordable primary care, behavioral health, dental, and preventive services to underserved Kansas City residents regardless of ability to pay.",
+    "address": "825 Euclid Ave, Kansas City, MO 64132",
+    "phone": "(816) 474-4920",
+    "url": "https://samrodgers.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "64132"
+  },
+  {
+    "name": "Crosslines Ministries Joplin",
+    "description": "Nonprofit providing emergency food pantry services to individuals and families in Joplin, Carl Junction, and Webb City areas of Jasper County.",
+    "address": "320 S School Ave, Joplin, MO 64801",
+    "phone": "(417) 782-8384",
+    "url": "https://www.crosslinesjoplin.org/",
+    "categorySlug": "food",
+    "zipCode": "64801"
+  },
+  {
+    "name": "The Salvation Army – Joplin Corps",
+    "description": "Provides emergency food, utility assistance, disaster relief, and social services to residents of Jasper and Newton Counties.",
+    "address": "320 E 8th St, Joplin, MO 64801",
+    "phone": "(417) 624-4528",
+    "url": "https://centralusa.salvationarmy.org/midland/JasperNewton/",
+    "categorySlug": "community",
+    "zipCode": "64801"
+  },
+  {
+    "name": "Feed My People – High Ridge",
+    "description": "Christian food pantry offering client-choice grocery distribution every two weeks to families in High Ridge and surrounding Jefferson County zip codes.",
+    "address": "3295 Ottomeyer Rd, High Ridge, MO 63049",
+    "phone": "(636) 677-9885",
+    "url": "https://feed-my-people.org/",
+    "categorySlug": "food",
+    "zipCode": "63049"
+  },
+  {
+    "name": "Jefferson County Rescue Mission",
+    "description": "Emergency shelter and food pantry serving needy individuals and families from Jefferson County; provides food, clothing, housing, and referrals to recovery and employment programs.",
+    "address": "8943 Commercial Blvd, Pevely, MO 63070",
+    "phone": "(636) 475-3030",
+    "url": "https://jeffersonrescuemisson.com/",
+    "categorySlug": "housing",
+    "zipCode": "63070"
+  },
+  {
+    "name": "Knox County Food Cupboard",
+    "description": "Faith-based nonprofit distributing food and household items to Knox County residents in need; located in the county seat of Edina.",
+    "address": "109 E Morgan St, Edina, MO 63537",
+    "phone": "(660) 216-4846",
+    "url": "https://www.facebook.com/p/Knox-County-Food-Cupboard-A-Food-Pantry-100070705224115/",
+    "categorySlug": "food",
+    "zipCode": "63537"
+  },
+  {
+    "name": "Lexington Food Pantry",
+    "description": "Community food pantry serving approximately 50 families per month in Lafayette County with Harvesters food distributions and USDA commodity foods.",
+    "address": "914 Franklin Ave, Lexington, MO 64067",
+    "phone": "(660) 259-2102",
+    "url": "https://www.lexingtonfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "64067"
+  },
+  {
+    "name": "Missouri Valley Community Action Agency – Higginsville Office",
+    "description": "Community action agency serving Lafayette County residents with energy assistance, housing, and emergency support programs.",
+    "address": "200 Fairground Ave, Ste 103, Higginsville, MO 64037",
+    "phone": "(660) 584-3131",
+    "url": "https://mvcaa.net/",
+    "categorySlug": "community",
+    "zipCode": "64037"
+  },
+  {
+    "name": "Verona Baptist Church Food Pantry",
+    "description": "Food pantry serving Lawrence County residents with USDA commodity distribution and client-choice groceries; located near Pierce City.",
+    "address": "115 S 1st St, Verona, MO 65769",
+    "phone": "(417) 498-6531",
+    "url": "https://feedingmissouri.org/",
+    "categorySlug": "food",
+    "zipCode": "65723"
+  },
+  {
+    "name": "Bread For Life Food Pantry",
+    "description": "All-volunteer nonprofit providing monthly food distribution to Lincoln County families in need; clients may receive food once per month.",
+    "address": "820 Cap-Au-Gris St, Troy, MO 63379",
+    "phone": "(636) 528-3646",
+    "url": "https://www.troybreadforlife.com/",
+    "categorySlug": "food",
+    "zipCode": "63379"
+  },
+  {
+    "name": "Macon County Ministries Food Pantry",
+    "description": "Interdenominational food pantry providing groceries to Macon County residents in need; open multiple days per week including extended evening hours.",
+    "address": "305 Sunset Hills Dr, Macon, MO 63552",
+    "phone": "(660) 395-3663",
+    "url": "https://missourifoodpantry.org/food-bank/macon-county-ministries-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "63552"
+  },
+  {
+    "name": "AVENUES for Northeast Missouri",
+    "description": "Domestic violence and sexual assault shelter and outreach program serving northeast Missouri including Adair County. Offers confidential shelter, 24-hour hotline, court and medical advocacy, and crisis intervention at no cost.",
+    "address": "P.O. Box 284, Hannibal, MO 63401",
+    "phone": "(833) 243-6366",
+    "url": "https://www.avenueshelp.org/adair-county-programs",
+    "categorySlug": "housing",
+    "zipCode": "63401"
+  },
+  {
+    "name": "AVENUES Help - Pike County Programs",
+    "description": "Provides domestic and sexual violence advocacy, shelter referrals, and social service support to residents of Pike County and surrounding Northeast Missouri counties.",
+    "address": "Hannibal, MO 63401",
+    "phone": "(833) 243-6366",
+    "url": "https://www.avenueshelp.org/pike-county-programs",
+    "categorySlug": "housing",
+    "zipCode": "63401"
+  },
+  {
+    "name": "Crosslines of McDonald County",
+    "description": "Nonprofit food pantry serving low-income residents of McDonald County; accepts walk-ins and also sells donated clothing and goods to fund operations.",
+    "address": "925 N Hwy 71, Anderson, MO 64831",
+    "phone": "(417) 845-1800",
+    "url": "https://www.foodpantries.org/li/crosslines-mcdonald-county-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "64831"
+  },
+  {
+    "name": "Helping Hands of Central Missouri – Saint Elizabeth",
+    "description": "Ecumenical nonprofit operating a food pantry and thrift store in rural Miller County; distributes food on the third Monday of each month and by appointment.",
+    "address": "784 Highway 52, Saint Elizabeth, MO 65075",
+    "phone": "(573) 493-2716",
+    "url": "https://www.findhelp.org/helping-hands-of-central-missouri--saint-elizabeth-mo--food-pantry/6101365343911936",
+    "categorySlug": "food",
+    "zipCode": "65075"
+  },
+  {
+    "name": "Monroe City Food Pantry",
+    "description": "Community food pantry serving Monroe County residents on the third weekend of each month; provides groceries to anyone in need.",
+    "address": "12 Gateway Square, Monroe City, MO 63456",
+    "phone": "(573) 735-3301",
+    "url": "https://www.facebook.com/MonroeCityFoodPantry/",
+    "categorySlug": "food",
+    "zipCode": "63456"
+  },
+  {
+    "name": "Food for Morgan County",
+    "description": "Nonprofit food pantry providing curbside grocery distribution to Morgan County residents on weekly Thursday schedules throughout the year.",
+    "address": "305 W Newton St, Versailles, MO 65084",
+    "phone": "(573) 789-7473",
+    "url": "https://food4morgancounty.com/",
+    "categorySlug": "food",
+    "zipCode": "65084"
+  },
+  {
+    "name": "New Madrid County Family Resource Center",
+    "description": "Social services hub offering employment assistance, intake services, and resource referrals for families facing barriers in New Madrid County.",
+    "address": "420 Virginia Ave, New Madrid, MO 63869",
+    "phone": "(573) 748-2778",
+    "url": "https://www.nmcfamilyresourcecenter.com/",
+    "categorySlug": "community",
+    "zipCode": "63869"
+  },
+  {
+    "name": "Community Services Inc. of Northwest Missouri",
+    "description": "Community action agency serving Nodaway County with Head Start, Section 8 housing, weatherization, energy assistance, and emergency support programs.",
+    "address": "1212 B S Main St, Maryville, MO 64468",
+    "phone": "(660) 582-3113",
+    "url": "https://www.communityservicesinc.org/",
+    "categorySlug": "community",
+    "zipCode": "64468"
+  },
+  {
+    "name": "Maryville Ministry Center",
+    "description": "Nonprofit providing food pantry, clothing closet, and backpack buddy programs to Nodaway County residents; operates on federal income guidelines.",
+    "address": "971 S Main St, Maryville, MO 64468",
+    "phone": "(660) 582-6649",
+    "url": "https://www.maryvilleministrycenter.com/",
+    "categorySlug": "food",
+    "zipCode": "64468"
+  },
+  {
+    "name": "Good Shepherd Center",
+    "description": "The primary food pantry in Osage County, distributing groceries to county residents on Wednesdays and Thursdays each week.",
+    "address": "1117 Adams St, Linn, MO 65051",
+    "phone": "(573) 897-0525",
+    "url": "https://sharefoodbringhope.org/osage-county",
+    "categorySlug": "food",
+    "zipCode": "65051"
+  },
+  {
+    "name": "Open Door Service Center",
+    "description": "Provides a food pantry, hot daily meals at the Open Door Kitchen, emergency overnight lodging, clothing, and other support services to individuals and families in need in Pettis County.",
+    "address": "111 W 6th St, Sedalia, MO 65301",
+    "phone": "(660) 827-1613",
+    "url": "https://opendoorservicecenter.org",
+    "categorySlug": "food",
+    "zipCode": "65301"
+  },
+  {
+    "name": "Pettis County Community Partnership",
+    "description": "A county-wide collaborative connecting residents to health, housing, food, and social service resources across Pettis County.",
+    "address": "Sedalia, MO 65301",
+    "phone": "",
+    "url": "https://www.pettiscountycommunitypartnership.com",
+    "categorySlug": "community",
+    "zipCode": "65301"
+  },
+  {
+    "name": "The Salvation Army - Sedalia Service Center",
+    "description": "Offers food pantry, utility and rent assistance, homelessness resources, senior programs, and meal assistance to Pettis County residents.",
+    "address": "1200 East Broadway, Sedalia, MO 65301",
+    "phone": "(660) 826-1525",
+    "url": "https://centralusa.salvationarmy.org/midland/",
+    "categorySlug": "community",
+    "zipCode": "65301"
+  },
+  {
+    "name": "Louisiana Community Food Pantry",
+    "description": "Volunteer-run food pantry distributing food to residents of Louisiana and the surrounding Pike County area, open multiple days per week.",
+    "address": "414 Georgia St, Louisiana, MO 63353",
+    "phone": "(573) 754-2421",
+    "url": "https://www.foodpantries.org/li/louisiana-community-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "63353"
+  },
+  {
+    "name": "North East Community Action Corporation (NECAC) - Pike County",
+    "description": "Community action agency offering homelessness prevention, weatherization, utility payment assistance, and other social services to low-income Pike County residents.",
+    "address": "805 Bus Hwy 61 N, Bowling Green, MO 63334",
+    "phone": "(573) 324-2207",
+    "url": "https://necac.org",
+    "categorySlug": "community",
+    "zipCode": "63334"
+  },
+  {
+    "name": "Northland Shepherd's Center",
+    "description": "Nonprofit serving adults 60+ in Clay and Platte Counties with a food pantry, Meals on Wheels, transportation, minor home repair, technology access, fitness classes, and caregiver support programs.",
+    "address": "5601 NE Antioch Road, Gladstone, MO 64151",
+    "phone": "(816) 452-4536",
+    "url": "https://www.northlandsc.org/",
+    "categorySlug": "food",
+    "zipCode": "64151"
+  },
+  {
+    "name": "Community Outreach Ministries of Bolivar",
+    "description": "Provides a food pantry, emergency assistance, thrift store, case management, and life skills classes to low-income individuals and families in Polk County; a member of Ozarks Food Harvest.",
+    "address": "320 S Market St, Bolivar, MO 65613",
+    "phone": "(417) 326-2769",
+    "url": "https://www.bolivarcom.org",
+    "categorySlug": "food",
+    "zipCode": "65613"
+  },
+  {
+    "name": "Ozarks Area Community Action Corporation (OACAC) - Polk County",
+    "description": "Community action agency offering emergency financial assistance, life skills workshops, family support coaching, and referrals for food, rent, utilities, and heating needs in Polk County.",
+    "address": "2110 South Springfield Avenue Unit B, Bolivar, MO 65613",
+    "phone": "(417) 326-6276",
+    "url": "https://oac.ac",
+    "categorySlug": "community",
+    "zipCode": "65613"
+  },
+  {
+    "name": "Fort Leonard Wood Armed Services YMCA - Food Pantry",
+    "description": "Food pantry serving active-duty military and eligible military-affiliated community members stationed at Fort Leonard Wood.",
+    "address": "13900 Replacement Ave, Fort Leonard Wood, MO 65473",
+    "phone": "",
+    "url": "https://fortleonardwood.asymca.org/services/food-assistance/",
+    "categorySlug": "food",
+    "zipCode": "65473"
+  },
+  {
+    "name": "Good Samaritan of the Ozarks",
+    "description": "Christian nonprofit providing a food pantry and resource center, thrift stores, financial relief, and domestic/sexual violence shelter (Genesis program) to Pulaski County residents.",
+    "address": "1811 Historic Rt. 66 West, Waynesville, MO 65583",
+    "phone": "(573) 774-4040",
+    "url": "https://goodsam-genesis.org",
+    "categorySlug": "food",
+    "zipCode": "65583"
+  },
+  {
+    "name": "Christos Center",
+    "description": "Food pantry and social service agency providing free emergency food assistance to individuals and families in Randolph County, with distribution multiple days per week.",
+    "address": "111 N 5th St, Moberly, MO 65270",
+    "phone": "(660) 263-0278",
+    "url": "https://www.christoscenter.org",
+    "categorySlug": "food",
+    "zipCode": "65270"
+  },
+  {
+    "name": "Family Life Fellowship Dream Center",
+    "description": "Community resource center operating a food distribution pantry open to the public weekly, serving residents of Randolph County.",
+    "address": "1614 Highway 24 E, Moberly, MO 65270",
+    "phone": "",
+    "url": "https://www.foodpantries.org/ci/mo-moberly",
+    "categorySlug": "food",
+    "zipCode": "65270"
+  },
+  {
+    "name": "Reynolds County Food Pantry",
+    "description": "Community food pantry providing emergency food assistance and USDA commodity distribution to Reynolds County residents, open twice monthly.",
+    "address": "380 South Main, Ellington, MO 63638",
+    "phone": "(573) 663-7395",
+    "url": "https://mo211.myresourcedirectory.com/index.php/component/cpx/?task=resource.view&id=4471123",
+    "categorySlug": "food",
+    "zipCode": "63638"
+  },
+  {
+    "name": "Saline County Health Department",
+    "description": "Local public health agency providing vaccines, WIC nutrition support, and community health outreach programs to residents of Saline County.",
+    "address": "1825 S Atchison Ave, Marshall, MO 65340",
+    "phone": "(660) 886-3434",
+    "url": "https://www.salinecountyhealthdepartment.com",
+    "categorySlug": "healthcare",
+    "zipCode": "65340"
+  },
+  {
+    "name": "Catholic Charities of Southern Missouri - Sikeston Office",
+    "description": "Provides homelessness prevention, utility and rental assistance, housing stability case management, veteran support, and emergency preparedness services to Scott County residents.",
+    "address": "205 West Malone Suite B, Sikeston, MO 63801",
+    "phone": "(573) 481-0659",
+    "url": "https://ccsomo.org",
+    "categorySlug": "community",
+    "zipCode": "63801"
+  },
+  {
+    "name": "Southeast Missouri Food Bank",
+    "description": "Regional food bank serving 16 counties in southeast Missouri including Cape Girardeau County, supporting 140 member agency pantries, soup kitchens, and shelters with food distribution.",
+    "address": "600 State Highway H, Sikeston, MO 63801",
+    "phone": "(573) 471-1818",
+    "url": "https://semofoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "63801"
+  },
+  {
+    "name": "Shelby County Food Pantry",
+    "description": "Community food pantry providing emergency food assistance to low-income residents of Shelby County, located in nearby Shelbina.",
+    "address": "403 E Maple, Shelbina, MO 63468",
+    "phone": "(573) 470-0930",
+    "url": "http://www.shelbycountypantrypals.com/",
+    "categorySlug": "food",
+    "zipCode": "63468"
+  },
+  {
+    "name": "O.A.S.I.S. Food Pantry",
+    "description": "Client-choice food pantry serving St. Charles County residents with fresh, frozen, and canned food items as well as basic hygiene products, free of charge to qualified recipients.",
+    "address": "1814 Boones Lick Rd, Saint Charles, MO 63301",
+    "phone": "(636) 723-0037",
+    "url": "https://oasisfoodpantry.com",
+    "categorySlug": "food",
+    "zipCode": "63301"
+  },
+  {
+    "name": "The Salvation Army - O'Fallon Corps",
+    "description": "Provides a food pantry, utility and rent assistance, and other emergency social services to residents of western St. Charles County.",
+    "address": "1 William Booth Drive, O'Fallon, MO 63366",
+    "phone": "(636) 240-4969",
+    "url": "https://centralusa.salvationarmy.org/midland/stcharles/",
+    "categorySlug": "community",
+    "zipCode": "63366"
+  },
+  {
+    "name": "West Central Missouri Community Action Agency – Hermitage Office",
+    "description": "Community action agency serving Hickory County residents with utility assistance, housing support, and other anti-poverty programs.",
+    "address": "106 W 4th St, Appleton City, MO 64724",
+    "phone": "(660) 476-2185",
+    "url": "https://wcmcaa.org/",
+    "categorySlug": "community",
+    "zipCode": "64724"
+  },
+  {
+    "name": "Caritas Connections",
+    "description": "All-volunteer nonprofit collecting food and donated items and distributing them at no cost to over 170 hunger-relief and social service partners across the St. Louis metropolitan area.",
+    "address": "1969 Dougherty Ferry Rd, Kirkwood, MO 63131",
+    "phone": "(314) 225-2605",
+    "url": "https://www.caritasconnections.com",
+    "categorySlug": "food",
+    "zipCode": "63131"
+  },
+  {
+    "name": "Circle of Concern",
+    "description": "Food pantry and financial assistance organization serving approximately 700 families per month in west St. Louis County and parts of Jefferson County, providing fresh and shelf-stable food plus emergency bill assistance.",
+    "address": "112 St. Louis Ave, Valley Park, MO 63088",
+    "phone": "(636) 861-2623",
+    "url": "https://www.circleofconcern.org",
+    "categorySlug": "food",
+    "zipCode": "63088"
+  },
+  {
+    "name": "Community Action Agency of St. Louis County (CAASTLC)",
+    "description": "County-wide community action agency operating food pantry programs and LIHEAP utility assistance for income-eligible St. Louis County households.",
+    "address": "Overland, MO 63114",
+    "phone": "(314) 446-4467",
+    "url": "https://www.caastlc.org",
+    "categorySlug": "community",
+    "zipCode": "63114"
+  },
+  {
+    "name": "Community Action Agency of St. Louis County (CAASTLC) - Food Pantry",
+    "description": "Drive-through food pantry open by appointment to income-eligible St. Louis County residents, distributing shelf-stable and packaged food with households eligible every 30 days.",
+    "address": "Overland, MO 63114",
+    "phone": "(314) 446-4467",
+    "url": "https://www.caastlc.org/food-pantry-programs/",
+    "categorySlug": "food",
+    "zipCode": "63114"
+  },
+  {
+    "name": "Grace New Covenant Church - Food Pantry",
+    "description": "Church-based food pantry serving 100+ families monthly in north St. Louis zip codes including 63147, with distribution on Saturday mornings and Wednesday afternoons.",
+    "address": "1060 Chambers Rd, St. Louis, MO 63137",
+    "phone": "(314) 867-2782",
+    "url": "http://www.gracenewcovenantchurch.org/connecting/ministries/food-pantry.html",
+    "categorySlug": "food",
+    "zipCode": "63137"
+  },
+  {
+    "name": "Kirk Care",
+    "description": "Nonprofit formed by the Kirkwood Ministerial Alliance providing food assistance, emergency utility help, and other anti-poverty services to low-income individuals within the Kirkwood R-7 School District.",
+    "address": "Kirkwood, MO 63122",
+    "phone": "(314) 965-0406",
+    "url": "https://kirkcare.org",
+    "categorySlug": "food",
+    "zipCode": "63122"
+  },
+  {
+    "name": "Operation Food Search",
+    "description": "Regional food network distributing over $32 million in food and necessities annually through 600+ community partners in 24 Missouri and Illinois counties, with emergency food distribution and nutrition education programs.",
+    "address": "1644 Lotsie Blvd, St. Louis, MO 63132",
+    "phone": "(314) 726-5355",
+    "url": "https://www.operationfoodsearch.org",
+    "categorySlug": "food",
+    "zipCode": "63132"
+  },
+  {
+    "name": "St. Louis Area Foodbank",
+    "description": "Regional food bank partnering with nearly 600 hunger-relief programs — including pantries, soup kitchens, and shelters — to distribute food across 26 Missouri and Illinois counties.",
+    "address": "St. Louis, MO 63146",
+    "phone": "(314) 292-6262",
+    "url": "https://stlfoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "63146"
+  },
+  {
+    "name": "Central Baptist Church - Food Pantry",
+    "description": "Church-based food pantry and take-out hot meal program serving downtown St. Louis residents twice weekly.",
+    "address": "2845 Washington Ave, St. Louis, MO 63103",
+    "phone": "(314) 533-0747",
+    "url": "https://cbcstl.org",
+    "categorySlug": "food",
+    "zipCode": "63103"
+  },
+  {
+    "name": "Gateway 180",
+    "description": "Missouri's largest emergency shelter for women, children, and families experiencing homelessness, offering a 171-bed facility with daily meals and individualized case management.",
+    "address": "1000 N 19th St, St. Louis, MO 63106",
+    "phone": "(314) 231-1515",
+    "url": "https://gateway180.org",
+    "categorySlug": "housing",
+    "zipCode": "63106"
+  },
+  {
+    "name": "St. Patrick Center",
+    "description": "Comprehensive homeless services organization providing sustainable housing placement, employment training, healthcare, and daily community meals to individuals and families experiencing or at risk of homelessness in St. Louis.",
+    "address": "800 North Tucker Blvd, St. Louis, MO 63101",
+    "phone": "(314) 802-0700",
+    "url": "https://www.stpatrickcenter.org",
+    "categorySlug": "housing",
+    "zipCode": "63101"
+  },
+  {
+    "name": "Southern Stone County Food Pantry",
+    "description": "Community food pantry located behind Our Lady of the Cove Catholic Church in Kimberling City, distributing food to Stone County residents twice monthly.",
+    "address": "20 Kimberling Blvd, Kimberling City, MO 65686",
+    "phone": "(417) 739-4700",
+    "url": "https://ourladyofthecove.org/news/southern-stone-county-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "65686"
+  },
+  {
+    "name": "Christian Action Ministries (CAM)",
+    "description": "Faith-based nonprofit providing food pantries in Branson and Forsyth serving all of Taney County, plus referrals for rent, utility, and other emergency needs.",
+    "address": "400 West Pacific Street, Branson, MO 65616",
+    "phone": "(417) 334-1157",
+    "url": "https://www.christianactionministries.org",
+    "categorySlug": "food",
+    "zipCode": "65616"
+  },
+  {
+    "name": "The Salvation Army - Branson",
+    "description": "Provides a food pantry, emergency social services, utility and rent assistance, and the Pathway of Hope program to Stone and Taney County residents.",
+    "address": "1114 Stanley Blvd, Branson, MO 65616",
+    "phone": "(417) 334-1284",
+    "url": "https://centralusa.salvationarmy.org/midland/branson/",
+    "categorySlug": "community",
+    "zipCode": "65616"
+  },
+  {
+    "name": "Texas County Food Pantry, Inc.",
+    "description": "Comprehensive food pantry and emergency assistance organization serving over 1,700 people monthly in Texas County, offering USDA commodities, a senior box program, weekend school food, emergency food, and utility/rent assistance.",
+    "address": "102A E State Route 17, Houston, MO 65483",
+    "phone": "(417) 967-4484",
+    "url": "https://texascountyfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "65483"
+  },
+  {
+    "name": "Community Outreach - Vernon County Food Pantry",
+    "description": "Primary food distribution point for Vernon County, providing free USDA commodity food to approximately 400 residents monthly and emergency meals for homeless individuals and families.",
+    "address": "229 N Cedar, Nevada, MO 64772",
+    "phone": "(417) 667-4339",
+    "url": "http://thenevadafoodpantry.com",
+    "categorySlug": "food",
+    "zipCode": "64772"
+  },
+  {
+    "name": "St. Vincent de Paul Food Pantry - Potosi",
+    "description": "Catholic charity food pantry serving Washington County residents, distributing food on the third Saturday of each month.",
+    "address": "201 North Missouri Ave, Potosi, MO 63664",
+    "phone": "",
+    "url": "https://washingtoncounty.guide/st-vincent-depaul-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "63664"
+  },
+  {
+    "name": "The Overflow - Potosi",
+    "description": "Community food pantry open Monday through Friday providing free groceries to Washington County residents in need.",
+    "address": "109 Lawrence St, Potosi, MO 63664",
+    "phone": "(573) 438-3237",
+    "url": "https://washingtoncounty.guide/",
+    "categorySlug": "food",
+    "zipCode": "63664"
+  },
+  {
+    "name": "South Central Missouri Community Action Agency (SCMCAA)",
+    "description": "Community action agency serving Wayne County and surrounding rural Missouri counties with emergency assistance, Head Start, weatherization, and self-sufficiency programs for low-income residents.",
+    "address": "102 S Main, Piedmont, MO 63957",
+    "phone": "(573) 223-7495",
+    "url": "https://scmcaa.org",
+    "categorySlug": "community",
+    "zipCode": "63957"
+  },
+  {
+    "name": "Mountain Grove Love Center",
+    "description": "Food pantry and thrift store serving Wright County residents, distributing groceries Tuesday through Thursday and operating a low-cost thrift store for clothing and household goods.",
+    "address": "304 E 1st St, Mountain Grove, MO 65711",
+    "phone": "(417) 926-5788",
+    "url": "https://www.facebook.com/LoveCenterfoodpantry/",
+    "categorySlug": "food",
+    "zipCode": "65711"
+  }
+]

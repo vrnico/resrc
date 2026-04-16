@@ -61,6 +61,7 @@ export interface ResourceResult {
   net_score: number;
   verified_at: string | null;
   user_vote?: 1 | -1 | null;  // current user's vote on this resource
+  distance_miles: number | null;  // null for state/national scope
 }
 
 export interface ResourcesResponse {

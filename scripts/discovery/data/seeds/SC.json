@@ -1,0 +1,3728 @@
+[
+  {
+    "name": "United Christian Ministries of Abbeville County (UCMAC) - Abbeville Pantry",
+    "description": "Food pantry open every Friday 9:30am\u201311:45am at Main Street Methodist Church, providing quality food items to households experiencing food insecurity. Clients may receive food every four weeks.",
+    "address": "300 North Main St., Abbeville, SC 29620",
+    "phone": "864-366-6525",
+    "url": "http://ucmac.net/food-pantries",
+    "categorySlug": "food",
+    "zipCode": "29620"
+  },
+  {
+    "name": "United Christian Ministries of Abbeville County (UCMAC) - Calhoun Falls Pantry",
+    "description": "Community food pantry open the 1st and 3rd Thursdays 3pm\u20135pm for Calhoun Falls residents, distributing quality groceries to those experiencing food insecurity. Clients may receive food every four weeks.",
+    "address": "403 North Washington Street, Calhoun Falls, SC 29628",
+    "phone": "864-366-6525",
+    "url": "http://ucmac.net/food-pantries",
+    "categorySlug": "food",
+    "zipCode": "29628"
+  },
+  {
+    "name": "Mt Olive AME Church Food Pantry",
+    "description": "Church-based food pantry serving the Donalds area of Abbeville County, distributing food on the third Saturday of each month from 8am\u201311am.",
+    "address": "Donalds, SC 29638",
+    "phone": "864-379-8470",
+    "url": "https://www.foodpantries.org/ci/sc-honea_path",
+    "categorySlug": "food",
+    "zipCode": "29638"
+  },
+  {
+    "name": "ACTS (Area Churches Together Serving)",
+    "description": "Comprehensive community assistance organization providing a food pantry Monday\u2013Friday 11am\u20133pm, plus medical aid, utility support, clothing vouchers, and transportation assistance to Aiken County residents.",
+    "address": "340 Park Avenue SW, Aiken, SC 29801",
+    "phone": "(803) 642-5919",
+    "url": "https://actsofaiken.org",
+    "categorySlug": "food",
+    "zipCode": "29801"
+  },
+  {
+    "name": "Salvation Army of Aiken",
+    "description": "Provides emergency food boxes, a soup kitchen serving lunch Monday\u2013Friday, utility and bill assistance, emergency shelter, and Christmas meals and gifts to Aiken County residents in need.",
+    "address": "604 Park Ave, Aiken, SC 29801",
+    "phone": "(803) 641-4149",
+    "url": "https://southernusa.salvationarmy.org/aiken/",
+    "categorySlug": "food",
+    "zipCode": "29801"
+  },
+  {
+    "name": "St. Vincent de Paul Society - Aiken",
+    "description": "Soup kitchen and pantry serving working poor and families in poverty, open Monday\u2013Friday 9am\u20131pm by appointment, providing staple groceries and hot meals.",
+    "address": "138 Fairfield St SE, Aiken, SC 29801",
+    "phone": "(803) 642-3211",
+    "url": "https://www.needhelppayingbills.com/html/aiken_county_food_pantries.html",
+    "categorySlug": "food",
+    "zipCode": "29801"
+  },
+  {
+    "name": "New Life Ministries of Aiken",
+    "description": "Faith-based food pantry providing grocery assistance to individuals and families in need in the Aiken area. Call for hours and appointment information.",
+    "address": "3104 Vaucluse Road, Aiken, SC 29801",
+    "phone": "(803) 641-1511",
+    "url": "https://www.needhelppayingbills.com/html/aiken_county_food_pantries.html",
+    "categorySlug": "food",
+    "zipCode": "29801"
+  },
+  {
+    "name": "Christ Central Ministries - Aiken",
+    "description": "Community ministry providing food boxes Tuesday\u2013Thursday 10am\u20131pm with staple groceries including rice, pasta, and bread, plus long-term support referrals and holiday food baskets.",
+    "address": "3605 Richland Ave W, Aiken, SC 29801",
+    "phone": "(803) 640-1708",
+    "url": "https://christcentralaiken.com/",
+    "categorySlug": "food",
+    "zipCode": "29801"
+  },
+  {
+    "name": "Family Promise of Aiken",
+    "description": "Nonprofit providing transitional shelter, meals, and comprehensive support services to families experiencing homelessness, helping them achieve sustainable independence in the community.",
+    "address": "Aiken, SC 29801",
+    "phone": "",
+    "url": "https://www.familypromiseofaiken.org/",
+    "categorySlug": "housing",
+    "zipCode": "29801"
+  },
+  {
+    "name": "Cumbee Center to Assist Abused Persons",
+    "description": "Emergency shelter and comprehensive support for survivors of domestic violence and their children in Aiken County, providing safe housing, counseling, and advocacy services.",
+    "address": "254 Beaufort St NE, Aiken, SC 29802",
+    "phone": "(803) 649-0480",
+    "url": "https://www.cumbeecenter.org/",
+    "categorySlug": "crisis",
+    "zipCode": "29801"
+  },
+  {
+    "name": "Mt Anna Baptist Church Food Pantry",
+    "description": "Church-based food pantry open Tuesdays 10am\u201312pm distributing groceries to residents in the Aiken area.",
+    "address": "2612 Banks Mill Rd., Aiken, SC 29803",
+    "phone": "(803) 648-7017",
+    "url": "https://www.needhelppayingbills.com/html/aiken_county_food_pantries.html",
+    "categorySlug": "food",
+    "zipCode": "29803"
+  },
+  {
+    "name": "Community Hope Center - Oasis Church",
+    "description": "Faith-based community center providing food assistance and other support services to individuals and families in need in the Aiken area.",
+    "address": "2558 Wagener Rd, Aiken, SC 29803",
+    "phone": "(803) 649-4447",
+    "url": "https://www.needhelppayingbills.com/html/aiken_county_food_pantries.html",
+    "categorySlug": "food",
+    "zipCode": "29803"
+  },
+  {
+    "name": "New Beginnings CHC Church Food Pantry",
+    "description": "Church-operated food pantry distributing groceries one Friday per month from 9am\u201312pm to individuals and families in the Aiken area.",
+    "address": "2464 Columbia Hwy North, Aiken, SC 29805",
+    "phone": "(803) 502-0406",
+    "url": "https://www.needhelppayingbills.com/html/aiken_county_food_pantries.html",
+    "categorySlug": "food",
+    "zipCode": "29805"
+  },
+  {
+    "name": "Rocky Springs Baptist Church Food Pantry",
+    "description": "Church-based food pantry serving residents of the Aiken area on an on-call basis. Call ahead for distribution schedule and eligibility.",
+    "address": "1000 New Holland Rd., Aiken, SC 29805",
+    "phone": "(803) 649-5457",
+    "url": "https://www.needhelppayingbills.com/html/aiken_county_food_pantries.html",
+    "categorySlug": "food",
+    "zipCode": "29805"
+  },
+  {
+    "name": "Christ Central Mission - New Ellenton",
+    "description": "Community mission offering congregate lunch meals, Meals on Wheels delivery, Sunday breakfast, and after-school snacks and clothing for children in New Ellenton and surrounding areas.",
+    "address": "412 Main St S, New Ellenton, SC 29809",
+    "phone": "(803) 652-2006",
+    "url": "https://www.needhelppayingbills.com/html/aiken_county_food_pantries.html",
+    "categorySlug": "food",
+    "zipCode": "29809"
+  },
+  {
+    "name": "Aiken County Community Action Commission",
+    "description": "Nonprofit providing information and access to free government and local food programs, groceries, meals, and pet food for seniors, serving low-income Aiken County residents.",
+    "address": "291 Beaufort St NE, Aiken, SC 29801",
+    "phone": "(803) 648-6836",
+    "url": "https://www.needhelppayingbills.com/html/aiken_county_food_pantries.html",
+    "categorySlug": "food",
+    "zipCode": "29801"
+  },
+  {
+    "name": "Valley Outreach Interfaith Center",
+    "description": "Interfaith nonprofit distributing canned goods, fruits, baby formula, and paper goods to low-income households in the Warrenville area of Aiken County.",
+    "address": "1469 Augusta Rd, Warrenville, SC 29851",
+    "phone": "(803) 663-9955",
+    "url": "https://www.needhelppayingbills.com/html/aiken_county_food_pantries.html",
+    "categorySlug": "food",
+    "zipCode": "29851"
+  },
+  {
+    "name": "Christian Heritage Life Center",
+    "description": "Soup kitchen providing hot meals plus a food pantry stocked with groceries, pet food, rice, pasta, and canned goods for low-income residents in the Graniteville area.",
+    "address": "285 Ascauga Lake Rd, Graniteville, SC 29829",
+    "phone": "(803) 663-1515",
+    "url": "https://www.needhelppayingbills.com/html/aiken_county_food_pantries.html",
+    "categorySlug": "food",
+    "zipCode": "29829"
+  },
+  {
+    "name": "Langley Church of God Food Bank",
+    "description": "Church-operated food bank serving residents of the Graniteville and Langley area with grocery assistance for those in need.",
+    "address": "2444 Jefferson Davis Hwy, Graniteville, SC 29829",
+    "phone": "(803) 593-9373",
+    "url": "https://www.needhelppayingbills.com/html/aiken_county_food_pantries.html",
+    "categorySlug": "food",
+    "zipCode": "29829"
+  },
+  {
+    "name": "Our Lady of the Valley Catholic Center",
+    "description": "Catholic nonprofit operating the Brown Bag Food Program for adults age 60 and older in the Gloverville and surrounding Aiken County area.",
+    "address": "2443 Augusta Rd, Gloverville, SC 29828",
+    "phone": "(803) 593-2623",
+    "url": "https://www.needhelppayingbills.com/html/aiken_county_food_pantries.html",
+    "categorySlug": "food",
+    "zipCode": "29828"
+  },
+  {
+    "name": "Community Ministry of North Augusta Food Pantry",
+    "description": "Food pantry serving Aiken County residents with grocery distributions on Tuesday and Thursday 9am\u201312:30pm and emergency assistance to those in need.",
+    "address": "531 Belvedere Clearwater Rd, North Augusta, SC 29841",
+    "phone": "(803) 279-5771",
+    "url": "https://www.foodpantries.org/li/sc_29841_community-ministry-of-north-augusta",
+    "categorySlug": "food",
+    "zipCode": "29841"
+  },
+  {
+    "name": "Victory Baptist Church Food Pantry",
+    "description": "Church-based food pantry serving individuals and families in the North Augusta area with grocery assistance. Call for distribution schedule.",
+    "address": "620 West Martintown Road, North Augusta, SC 29841",
+    "phone": "(803) 278-2138",
+    "url": "https://www.foodpantries.org/ci/sc-north_augusta",
+    "categorySlug": "food",
+    "zipCode": "29841"
+  },
+  {
+    "name": "Helping Hands of Hope Ministries",
+    "description": "Faith-based ministry providing grocery assistance and other support services to individuals and families in need in the North Augusta area.",
+    "address": "519 Audubon Circle, North Augusta, SC 29841",
+    "phone": "(803) 955-7784",
+    "url": "https://www.foodpantries.org/ci/sc-north_augusta",
+    "categorySlug": "food",
+    "zipCode": "29841"
+  },
+  {
+    "name": "Montmorenci Missionary Baptist Food Pantry",
+    "description": "Church-based food pantry distributing groceries on Fridays 10am\u201312pm to residents of the Montmorenci area of Aiken County.",
+    "address": "Old Barnwell Rd., Montmorenci, SC 29839",
+    "phone": "(803) 648-9930",
+    "url": "https://www.needhelppayingbills.com/html/aiken_county_food_pantries.html",
+    "categorySlug": "food",
+    "zipCode": "29839"
+  },
+  {
+    "name": "Mt Beulah Baptist Church Food Pantry",
+    "description": "Church-operated food pantry in Windsor distributing groceries on the second and fourth Fridays 9am\u201312pm to Aiken County residents.",
+    "address": "856 Mt. Beulah Rd., Windsor, SC 29856",
+    "phone": "(803) 649-9098",
+    "url": "https://www.foodpantries.org/ci/sc-barnwell",
+    "categorySlug": "food",
+    "zipCode": "29856"
+  },
+  {
+    "name": "Inside Outside Ministries II",
+    "description": "Faith-based ministry providing food pantry services on Tuesdays 3pm\u20135pm to residents of the Allendale area, addressing food insecurity in one of SC's most rural counties.",
+    "address": "3945 Allendale Fairfax Hwy., Allendale, SC 29810",
+    "phone": "803-686-1798",
+    "url": "https://www.foodpantries.org/ci/sc-allendale",
+    "categorySlug": "food",
+    "zipCode": "29810"
+  },
+  {
+    "name": "New Life Church Food Pantry",
+    "description": "Church-based food pantry serving Allendale residents on an on-call basis, providing groceries to households experiencing food insecurity.",
+    "address": "1119 Oswald Dr., Allendale, SC 29810",
+    "phone": "803-584-5960",
+    "url": "https://www.foodpantries.org/ci/sc-allendale",
+    "categorySlug": "food",
+    "zipCode": "29810"
+  },
+  {
+    "name": "New Jerusalem Church Food Pantry",
+    "description": "Church-based food pantry in Barnwell open Monday through Friday 5:30\u20136:00pm, providing nightly food distribution to residents of Barnwell County.",
+    "address": "2505 SC Highway 37, Barnwell, SC 29812",
+    "phone": "(803) 541-6007",
+    "url": "https://www.foodpantries.org/ci/sc-barnwell",
+    "categorySlug": "food",
+    "zipCode": "29812"
+  },
+  {
+    "name": "Williston Church of Christ Food Pantry",
+    "description": "Church-operated food pantry open Saturdays 9am\u201312pm distributing groceries to residents of Williston and Barnwell County.",
+    "address": "1040 E. Main Street, Williston, SC 29853",
+    "phone": "(803) 266-5245",
+    "url": "https://www.foodpantries.org/ci/sc-williston",
+    "categorySlug": "food",
+    "zipCode": "29853"
+  },
+  {
+    "name": "Winfield Heights Baptist Church Food Pantry",
+    "description": "Church-based food pantry serving residents of Williston and Barnwell County. Call for current distribution schedule.",
+    "address": "315 Chester St., Williston, SC 29853",
+    "phone": "(803) 266-3832",
+    "url": "https://www.foodpantries.org/ci/sc-williston",
+    "categorySlug": "food",
+    "zipCode": "29853"
+  },
+  {
+    "name": "Summer Grove Missionary Baptist Food Pantry",
+    "description": "Church-based food pantry providing grocery assistance to residents of Williston and surrounding Barnwell County communities.",
+    "address": "2465 Old Barnwell Rd., Williston, SC 29853",
+    "phone": "(803) 266-3096",
+    "url": "https://www.foodpantries.org/ci/sc-williston",
+    "categorySlug": "food",
+    "zipCode": "29853"
+  },
+  {
+    "name": "Anderson Interfaith Ministries (AIM)",
+    "description": "Nonprofit connecting Anderson County residents with food support, resources, and education. Food pantry open Monday\u2013Friday 9am\u201311:30am with groceries and emergency assistance.",
+    "address": "1202 South Murray Ave., Anderson, SC 29624",
+    "phone": "(864) 226-2273",
+    "url": "https://www.aimcharity.org/hm.php",
+    "categorySlug": "food",
+    "zipCode": "29624"
+  },
+  {
+    "name": "Salvation Army of Anderson",
+    "description": "Comprehensive social services agency providing food pantry, emergency shelter, clothing assistance, and utility aid to Anderson County residents Monday\u2013Thursday 9am\u20134:30pm and Friday 9am\u201312pm.",
+    "address": "112 Tolly Street, Anderson, SC 29624",
+    "phone": "(864) 225-7381",
+    "url": "https://southernusa.salvationarmy.org/andersonsc/",
+    "categorySlug": "food",
+    "zipCode": "29624"
+  },
+  {
+    "name": "Haven of Rest Mission - Anderson",
+    "description": "Emergency shelter and food assistance for men 18 and older, providing food, shelter, and counseling Monday\u2013Friday 8am\u20134pm in Anderson.",
+    "address": "219 West Whitner Street, Anderson, SC 29621",
+    "phone": "(864) 226-6193",
+    "url": "https://www.scacog.org/anderson-services",
+    "categorySlug": "housing",
+    "zipCode": "29621"
+  },
+  {
+    "name": "Anderson Emergency Soup Kitchen",
+    "description": "Community soup kitchen serving free hot lunches to anyone in need in Anderson County, operating daily at 11am\u201311:30am.",
+    "address": "306 West Franklin Street, Anderson, SC 29621",
+    "phone": "(864) 224-4763",
+    "url": "https://www.scacog.org/anderson-services",
+    "categorySlug": "food",
+    "zipCode": "29621"
+  },
+  {
+    "name": "Good Neighbor Cupboard",
+    "description": "Emergency food pantry providing grocery boxes to individuals and families in need in Anderson County, open 10am\u20132pm on designated distribution days.",
+    "address": "313 S Towers Street, Anderson, SC 29621",
+    "phone": "(864) 224-1701",
+    "url": "https://www.scacog.org/anderson-services",
+    "categorySlug": "food",
+    "zipCode": "29621"
+  },
+  {
+    "name": "Anderson Sunshine House",
+    "description": "Nonprofit providing temporary shelter for up to one month for families experiencing homelessness or crisis in Anderson County.",
+    "address": "Anderson, SC 29622",
+    "phone": "(864) 225-8586",
+    "url": "https://www.scacog.org/anderson-services",
+    "categorySlug": "housing",
+    "zipCode": "29621"
+  },
+  {
+    "name": "Family Promise of Anderson County",
+    "description": "Community-based organization providing shelter, meals, and support tools for families experiencing homelessness in Anderson County.",
+    "address": "Anderson, SC 29621",
+    "phone": "(864) 760-0908",
+    "url": "https://www.scacog.org/anderson-services",
+    "categorySlug": "housing",
+    "zipCode": "29621"
+  },
+  {
+    "name": "West Anderson Church of God Food Pantry",
+    "description": "Church-based food pantry open Wednesdays 6\u20137pm distributing groceries to residents of the West Anderson area.",
+    "address": "101 Rogers Street, Anderson, SC 29625",
+    "phone": "(864) 261-7700",
+    "url": "https://www.foodpantries.org/ci/sc-anderson",
+    "categorySlug": "food",
+    "zipCode": "29625"
+  },
+  {
+    "name": "Gospel Tabernacle of Faith Church Food Pantry",
+    "description": "Church-operated food pantry open Sundays 2pm and Mondays 5\u20137pm, distributing groceries to individuals and families in need in Anderson.",
+    "address": "1613 South Main Street, Anderson, SC 29624",
+    "phone": "(864) 261-7107",
+    "url": "https://www.foodpantries.org/ci/sc-anderson",
+    "categorySlug": "food",
+    "zipCode": "29624"
+  },
+  {
+    "name": "St. Mary of the Angels Church Food Pantry",
+    "description": "Catholic parish food pantry open Tuesdays 9am\u201312pm providing grocery assistance to those in need in Anderson County.",
+    "address": "1821 White Street, Anderson, SC 29624",
+    "phone": "(864) 226-8621",
+    "url": "https://www.foodpantries.org/ci/sc-anderson",
+    "categorySlug": "food",
+    "zipCode": "29624"
+  },
+  {
+    "name": "Living Water Bible College Food Pantry",
+    "description": "Faith-based food pantry serving residents in the New Hope Road area of Anderson County. Call for distribution schedule and eligibility.",
+    "address": "835 New Hope Rd, Anderson, SC 29626",
+    "phone": "(864) 760-1562",
+    "url": "https://www.foodpantries.org/ci/sc-anderson",
+    "categorySlug": "food",
+    "zipCode": "29626"
+  },
+  {
+    "name": "Operation Care - Williamston",
+    "description": "Faith-based community organization providing food distribution Monday\u2013Friday 9am\u201311am to residents of Williamston and the greater Anderson County area.",
+    "address": "3 Middleton Blvd, Williamston, SC 29697",
+    "phone": "(864) 847-7090",
+    "url": "https://www.foodpantries.org/ci/sc-honea_path",
+    "categorySlug": "food",
+    "zipCode": "29697"
+  },
+  {
+    "name": "Iva First Wesleyan Church Food Pantry",
+    "description": "Church-based food pantry distributing groceries on the fourth Saturday 5\u20137pm to residents of Iva and surrounding Anderson County communities.",
+    "address": "Iva, SC 29655",
+    "phone": "(864) 843-6161",
+    "url": "https://www.foodpantries.org/ci/sc-honea_path",
+    "categorySlug": "food",
+    "zipCode": "29655"
+  },
+  {
+    "name": "Iva First Baptist Church Food Pantry",
+    "description": "Church-operated food pantry open the third Tuesday 3\u20135pm, distributing groceries to residents of Iva and the surrounding area.",
+    "address": "9536 Hwy 81 South, Iva, SC 29655",
+    "phone": "(864) 348-2602",
+    "url": "https://www.foodpantries.org/ci/sc-honea_path",
+    "categorySlug": "food",
+    "zipCode": "29655"
+  },
+  {
+    "name": "Belton Interfaith Ministries",
+    "description": "Local interfaith nonprofit offering food pantry and a range of support services to individuals and families in need in the Belton community.",
+    "address": "507 North Main Street, Belton, SC 29627",
+    "phone": "(864) 338-7797",
+    "url": "https://www.findhelp.org/food/food-pantry--belton-sc",
+    "categorySlug": "food",
+    "zipCode": "29627"
+  },
+  {
+    "name": "Food Pantry of Ware Shoals",
+    "description": "Community food pantry open the third Friday of each month 4\u20136pm, providing grocery assistance to residents of Ware Shoals and Greenwood County.",
+    "address": "2 Mill St, Ware Shoals, SC 29692",
+    "phone": "(864) 824-8434",
+    "url": "https://www.foodpantries.org/ci/sc-honea_path",
+    "categorySlug": "food",
+    "zipCode": "29692"
+  },
+  {
+    "name": "Macedonia Baptist Church Food Pantry - Bamberg",
+    "description": "Church-based food pantry in Bamberg distributing groceries on the second Tuesday of each month. Call ahead for distribution time and eligibility.",
+    "address": "2534 Dexter St., Bamberg, SC 29003",
+    "phone": "803-284-3311",
+    "url": "https://www.foodpantries.org/ci/sc-barnwell",
+    "categorySlug": "food",
+    "zipCode": "29003"
+  },
+  {
+    "name": "FoodShare Bamberg",
+    "description": "Community food access organization increasing availability of fresh produce through affordable produce boxes, SNAP-eligible $5 boxes, and online ordering for food-insecure Bamberg County residents.",
+    "address": "2477 Main Hwy., Bamberg, SC 29003",
+    "phone": "803-571-5516",
+    "url": "http://southeasternhcd.org/foodshare/",
+    "categorySlug": "food",
+    "zipCode": "29003"
+  },
+  {
+    "name": "FoodShare Bamberg",
+    "description": "Community food access organization increasing availability of fresh produce through affordable produce boxes, SNAP-eligible $5 boxes, and online ordering for food-insecure residents.",
+    "address": "2477 Main Hwy., Bamberg, SC 29003",
+    "phone": "803-571-5516",
+    "url": "http://southeasternhcd.org/foodshare/",
+    "categorySlug": "food",
+    "zipCode": "29003"
+  },
+  {
+    "name": "Macedonia Baptist Church Food Pantry",
+    "description": "Church-based food pantry distributing groceries on the second Tuesday of each month to residents of Bamberg and surrounding communities.",
+    "address": "2534 Dexter St., Bamberg, SC 29003",
+    "phone": "803-284-3311",
+    "url": "https://www.foodpantries.org/ci/sc-barnwell",
+    "categorySlug": "food",
+    "zipCode": "29003"
+  },
+  {
+    "name": "New Jerusalem Church Food Pantry",
+    "description": "Church food pantry open Monday through Friday 5:30\u20136pm providing regular evening food distribution to Barnwell County residents.",
+    "address": "2505 SC Highway 37, Barnwell, SC 29812",
+    "phone": "(803) 541-6007",
+    "url": "https://www.foodpantries.org/ci/sc-barnwell",
+    "categorySlug": "food",
+    "zipCode": "29812"
+  },
+  {
+    "name": "Winfield Heights Baptist Church Food Pantry",
+    "description": "Church-based food pantry serving residents of Williston and Barnwell County with grocery assistance. Call for current distribution schedule.",
+    "address": "315 Chester St., Williston, SC 29853",
+    "phone": "(803) 266-3832",
+    "url": "https://www.foodpantries.org/ci/sc-williston",
+    "categorySlug": "food",
+    "zipCode": "29853"
+  },
+  {
+    "name": "Williston Church of Christ Food Pantry",
+    "description": "Church-operated food pantry open Saturdays 9am\u201312pm distributing free groceries to residents of Williston and Barnwell County.",
+    "address": "1040 E. Main Street, Williston, SC 29853",
+    "phone": "(803) 266-5245",
+    "url": "https://www.foodpantries.org/ci/sc-williston",
+    "categorySlug": "food",
+    "zipCode": "29853"
+  },
+  {
+    "name": "HELP of Beaufort",
+    "description": "Nonprofit operating for over 50 years providing food, clothing, mobile meals, and short-term emergency assistance to food-insecure children, families, and seniors in Beaufort County.",
+    "address": "1600 Ribaut Road, Port Royal, SC 29935",
+    "phone": "843-524-1223",
+    "url": "https://helpofbeaufort.org/",
+    "categorySlug": "food",
+    "zipCode": "29935"
+  },
+  {
+    "name": "Community Bible Church Pantry",
+    "description": "Food pantry open Wednesday\u2013Thursday 1\u20133pm and Saturday 9:30\u201311:30am, serving Beaufort area residents with groceries. Bring valid ID and Social Security cards for all household members.",
+    "address": "638 Parris Island Gateway, Beaufort, SC 29906",
+    "phone": "(843) 379-2229",
+    "url": "https://www.foodpantries.org/co/sc-beaufort",
+    "categorySlug": "food",
+    "zipCode": "29906"
+  },
+  {
+    "name": "Lowcountry Food Pantry",
+    "description": "Mobile food bank ministry of Lowcountry Community Church providing free groceries to residents of Beaufort, Bluffton, Ridgeland, and Hardeeville, SC.",
+    "address": "801 Buckwalter Pkwy, Bluffton, SC 29910",
+    "phone": "843-836-1849",
+    "url": "https://www.lowcountryfoodpantry.com/",
+    "categorySlug": "food",
+    "zipCode": "29910"
+  },
+  {
+    "name": "Bluffton Self Help",
+    "description": "Comprehensive social services nonprofit providing a weekly market with fresh groceries, emergency financial assistance, adult education, and career development for Beaufort and Jasper County residents.",
+    "address": "39 Sheridan Park Circle, Bluffton, SC 29910",
+    "phone": "(843) 757-8000",
+    "url": "https://blufftonselfhelp.org/",
+    "categorySlug": "food",
+    "zipCode": "29910"
+  },
+  {
+    "name": "The Church of the Cross Food Bank",
+    "description": "Church-based food bank providing free groceries to those in need on Mondays 12:30\u20132pm and 4:30\u20136pm, serving Bluffton and Beaufort County residents.",
+    "address": "15 Centre Street, Bluffton, SC 29910",
+    "phone": "(843) 757-2661",
+    "url": "https://www.foodpantries.org/co/sc-beaufort",
+    "categorySlug": "food",
+    "zipCode": "29910"
+  },
+  {
+    "name": "Sandalwood Community Food Pantry",
+    "description": "Non-denominational 501(c)(3) providing grocery supplements to families on Tuesdays 9am\u201312pm on Hilton Head Island, serving residents with food insecurity.",
+    "address": "114 Beach City Road, Hilton Head Island, SC 29926",
+    "phone": "(843) 715-3583",
+    "url": "https://www.foodpantries.org/co/sc-beaufort",
+    "categorySlug": "food",
+    "zipCode": "29926"
+  },
+  {
+    "name": "Deep Well Project",
+    "description": "Social service agency providing immediate emergency assistance with rent, utilities, food, medicine, furniture, and home repair on Hilton Head Island and to broader Beaufort County residents.",
+    "address": "80 Capital Dr., Hilton Head Island, SC 29926",
+    "phone": "843-785-2849",
+    "url": "https://www.hiltonhead.com/where-to-volunteer-on-hilton-head/",
+    "categorySlug": "housing",
+    "zipCode": "29926"
+  },
+  {
+    "name": "Holy Family Food Pantry",
+    "description": "Parish food pantry open Tuesday\u2013Thursday 9\u201311:30am providing groceries to Hilton Head Island residents experiencing food insecurity.",
+    "address": "24 Pope Avenue, Hilton Head Island, SC 29928",
+    "phone": "(843) 785-2895",
+    "url": "https://www.foodpantries.org/co/sc-beaufort",
+    "categorySlug": "food",
+    "zipCode": "29928"
+  },
+  {
+    "name": "Family Promise of Beaufort County",
+    "description": "Nonprofit providing temporary housing, meals, and comprehensive support for homeless families with children in Beaufort County, helping families regain stability.",
+    "address": "Bluffton, SC 29910",
+    "phone": "(843) 815-4211",
+    "url": "https://www.sciway.net/org/beaufort-sc-homeless-resources.html",
+    "categorySlug": "housing",
+    "zipCode": "29910"
+  },
+  {
+    "name": "World of Difference Inc.",
+    "description": "Community nonprofit providing hot meals on Saturdays noon\u20132pm and distributing groceries on Tuesdays and Thursdays to residents of Beaufort.",
+    "address": "36 Faith Station, Beaufort, SC 29902",
+    "phone": "(843) 271-3472",
+    "url": "https://www.sciway.net/org/beaufort-sc-homeless-resources.html",
+    "categorySlug": "food",
+    "zipCode": "29902"
+  },
+  {
+    "name": "Lowcountry Food Bank - Early Branch Regional Center",
+    "description": "Regional food distribution center serving Beaufort, Colleton, Hampton, and Jasper counties, operating a network of 230+ partner agencies with dry, refrigerated, and frozen food storage.",
+    "address": "495 Commerce Parkway, Early Branch, SC 29916",
+    "phone": "(843) 589-4118",
+    "url": "https://lowcountryfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "29916"
+  },
+  {
+    "name": "Agape Family Life Center",
+    "description": "Community organization providing food distribution to residents of Hardeeville and Jasper County, serving as a local distribution site for the Lowcountry region.",
+    "address": "5855 S Okatie Hwy, Hardeeville, SC 29927",
+    "phone": "",
+    "url": "https://uwlowcountry.org/food-distribution-sites/",
+    "categorySlug": "food",
+    "zipCode": "29927"
+  },
+  {
+    "name": "Lowcountry Food Pantry",
+    "description": "Mobile food bank ministry of Lowcountry Community Church providing free groceries to residents of Beaufort, Bluffton, Ridgeland, and Hardeeville, serving the broader Beaufort County area.",
+    "address": "801 Buckwalter Pkwy, Bluffton, SC 29910",
+    "phone": "843-836-1849",
+    "url": "https://www.lowcountryfoodpantry.com/",
+    "categorySlug": "food",
+    "zipCode": "29941"
+  },
+  {
+    "name": "Edgewood Baptist Church Food Pantry",
+    "description": "Church food pantry operating every first and third Wednesday 9am\u20133pm, serving Colleton, Bamberg, and surrounding county residents with groceries and clothing.",
+    "address": "138 Wildwood Dr, Walterboro, SC 29488",
+    "phone": "",
+    "url": "https://www.findhelp.org/food/food-pantry--walterboro-sc",
+    "categorySlug": "food",
+    "zipCode": "29488"
+  },
+  {
+    "name": "House of Prayer & Praise Baptist Church Pantry",
+    "description": "Church food pantry open the 2nd and 4th Saturday 9am\u20132pm and Wednesdays 11am\u20132pm, providing free groceries to residents of Harleyville and Dorchester County.",
+    "address": "104 East Main Street, Harleyville, SC 29448",
+    "phone": "(843) 462-2744",
+    "url": "https://www.foodpantries.org/co/sc-dorchester",
+    "categorySlug": "food",
+    "zipCode": "29448"
+  },
+  {
+    "name": "Faith Assembly Church Food Distribution",
+    "description": "Faith-based food distribution program with two Berkeley County locations: Moncks Corner on the third Saturday and a second site on the first and third Saturdays.",
+    "address": "1286 N. Hwy. 52, Moncks Corner, SC 29461",
+    "phone": "(843) 761-6866",
+    "url": "https://www.needhelppayingbills.com/html/berkeley_county_food_pantries.html",
+    "categorySlug": "food",
+    "zipCode": "29461"
+  },
+  {
+    "name": "Helping Hands of Goose Creek",
+    "description": "Leading Berkeley County nonprofit providing emergency food pantry, TANF and SNAP application assistance, job training, and IT classes to families experiencing life crises.",
+    "address": "104-B Commerce Place, Goose Creek, SC 29445",
+    "phone": "(843) 553-7132",
+    "url": "https://helpinghandsofgoosecreek.org/",
+    "categorySlug": "food",
+    "zipCode": "29445"
+  },
+  {
+    "name": "Living Word Ministries Food Pantry",
+    "description": "Faith ministry providing emergency grocery bags to working poor families and food for children and single mothers in the Goose Creek area of Berkeley County.",
+    "address": "1000 Malachi Dr, Goose Creek, SC 29445",
+    "phone": "(843) 764-1711",
+    "url": "https://www.needhelppayingbills.com/html/berkeley_county_food_pantries.html",
+    "categorySlug": "food",
+    "zipCode": "29445"
+  },
+  {
+    "name": "Wesley United Methodist Church Emergency Food Bank",
+    "description": "Emergency food bank offering USDA commodities and meals for elderly residents, serving struggling families across Berkeley County.",
+    "address": "1008 Hwy 315, Moncks Corner, SC 29461",
+    "phone": "(843) 797-5121",
+    "url": "https://www.needhelppayingbills.com/html/berkeley_county_food_pantries.html",
+    "categorySlug": "food",
+    "zipCode": "29461"
+  },
+  {
+    "name": "Salvation Army Service Unit - Moncks Corner",
+    "description": "Local Salvation Army unit providing financial aid for bills and rent, food pantry services, shelter assistance, and Christmas toys and meals to Berkeley County residents.",
+    "address": "203 White St., Moncks Corner, SC 29461",
+    "phone": "(843) 761-8626",
+    "url": "https://www.needhelppayingbills.com/html/berkeley_county_food_pantries.html",
+    "categorySlug": "food",
+    "zipCode": "29461"
+  },
+  {
+    "name": "Palmetto Community Action Partnership - Berkeley County",
+    "description": "Community action agency at Moncks Corner providing emergency services, housing assistance, education support, and childcare resources for low-income Berkeley County residents.",
+    "address": "305 Heatley Street, Moncks Corner, SC 29461",
+    "phone": "",
+    "url": "https://www.findhelp.org/food/food-pantry--moncks-corner-sc",
+    "categorySlug": "community",
+    "zipCode": "29461"
+  },
+  {
+    "name": "Feed Berkeley SC Food Pantry",
+    "description": "Community food pantry providing groceries to Berkeley County residents experiencing food insecurity, located in Moncks Corner.",
+    "address": "500 S Live Oak Dr, Moncks Corner, SC 29461",
+    "phone": "(843) 442-8869",
+    "url": "https://www.foodpantries.org/ci/sc-summerville",
+    "categorySlug": "food",
+    "zipCode": "29461"
+  },
+  {
+    "name": "New Light UMC Food Pantry",
+    "description": "Church-based food pantry in Saint Stephen providing grocery assistance to residents of Berkeley County. Call for distribution schedule.",
+    "address": "1037 Russelville Rd, Saint Stephen, SC 29479",
+    "phone": "(843) 567-9843",
+    "url": "https://www.needhelppayingbills.com/html/berkeley_county_food_pantries.html",
+    "categorySlug": "food",
+    "zipCode": "29479"
+  },
+  {
+    "name": "Market Assembly Church Food Pantry",
+    "description": "Church ministry offering basic needs assistance including non-perishable food, clothing, and holiday meals to residents of Ladson and Berkeley County.",
+    "address": "9659 Jamison Rd., Ladson, SC 29456",
+    "phone": "(843) 821-2600",
+    "url": "https://www.needhelppayingbills.com/html/berkeley_county_food_pantries.html",
+    "categorySlug": "food",
+    "zipCode": "29456"
+  },
+  {
+    "name": "Summerville Food Bank - First Fruits Community Church",
+    "description": "Church food bank distributing free canned and fresh groceries, including dairy and personal care items, on the fourth Saturday monthly 10:30am\u201312pm to Summerville area families.",
+    "address": "195 Farmington Road, Summerville, SC 29483",
+    "phone": "(843) 900-1486",
+    "url": "https://www.foodpantries.org/ci/sc-summerville",
+    "categorySlug": "food",
+    "zipCode": "29483"
+  },
+  {
+    "name": "Impact Ministries Food Distribution - Summerville",
+    "description": "Nonprofit providing a free food pantry, soup kitchen, and food distribution program on the second Saturday monthly 9am\u201311am, serving the Summerville and North Charleston area.",
+    "address": "316 W Carolina Ave, Summerville, SC 29483",
+    "phone": "(843) 873-1991",
+    "url": "https://www.foodpantries.org/ci/sc-summerville",
+    "categorySlug": "food",
+    "zipCode": "29483"
+  },
+  {
+    "name": "Perry Baptist Church Food Pantry",
+    "description": "Church-based food pantry in Perry distributing groceries on Wednesday evenings 6:30\u20138pm to residents of Calhoun County and surrounding areas.",
+    "address": "118 Milhouse St., Perry, SC 29137",
+    "phone": "803-564-5336",
+    "url": "https://www.foodpantries.org/ci/sc-pelion",
+    "categorySlug": "food",
+    "zipCode": "29137"
+  },
+  {
+    "name": "Perry Baptist Church Food Pantry",
+    "description": "Church-based food pantry distributing groceries on Wednesday evenings 6:30\u20138pm to residents of Calhoun County and surrounding areas.",
+    "address": "118 Milhouse St., Perry, SC 29137",
+    "phone": "803-564-5336",
+    "url": "https://www.foodpantries.org/ci/sc-pelion",
+    "categorySlug": "food",
+    "zipCode": "29135"
+  },
+  {
+    "name": "One80 Place",
+    "description": "One of the Lowcountry's largest homeless service providers offering emergency shelter, wraparound case management, healthcare, housing assistance, legal services, veterans support, job training, and meals in Charleston.",
+    "address": "35 Walnut St, Charleston, SC 29403",
+    "phone": "(843) 723-9477",
+    "url": "https://www.one80place.org/",
+    "categorySlug": "housing",
+    "zipCode": "29403"
+  },
+  {
+    "name": "Lowcountry Food Bank",
+    "description": "Regional food bank serving 10 coastal South Carolina counties through 230+ partner agencies, distributing emergency food, senior and child meal programs, and produce from its Charleston headquarters.",
+    "address": "2864 Azalea Dr., Charleston, SC 29405",
+    "phone": "(843) 747-8146",
+    "url": "https://lowcountryfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "29405"
+  },
+  {
+    "name": "Neighbors Together",
+    "description": "Nonprofit providing hot meals Monday\u2013Thursday 10:30am\u201312:30pm, grocery distributions on Wednesdays, home delivery for homebound residents, and case management with emergency financial assistance in North Charleston.",
+    "address": "2105 Cosgrove Avenue, North Charleston, SC 29405",
+    "phone": "(843) 747-1788",
+    "url": "https://neighborstogethersc.org/",
+    "categorySlug": "food",
+    "zipCode": "29405"
+  },
+  {
+    "name": "Meals on Wheels of Charleston Area Seniors",
+    "description": "Nonprofit delivering hot meals and operating an emergency food pantry for seniors and homebound individuals in the Charleston area.",
+    "address": "Charleston, SC 29403",
+    "phone": "",
+    "url": "https://charlestonareaseniors.org/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "29403"
+  },
+  {
+    "name": "Tri County Family Ministries",
+    "description": "Christian nonprofit providing food, clothing, medical care, counseling, transportation, shelter, and financial assistance to individuals and families in the North Charleston area.",
+    "address": "3349 Rivers Ave, North Charleston, SC 29406",
+    "phone": "(843) 747-1788",
+    "url": "https://www.findhelp.org/food/food-pantry--charleston-sc",
+    "categorySlug": "community",
+    "zipCode": "29406"
+  },
+  {
+    "name": "Lowcountry C.A.R.E.S.",
+    "description": "Community organization providing grocery assistance and other support services to residents of the North Charleston and Midland Park area.",
+    "address": "2427 Midland Park Road, North Charleston, SC 29406",
+    "phone": "(843) 553-2012",
+    "url": "https://www.foodpantries.org/ci/sc-summerville",
+    "categorySlug": "food",
+    "zipCode": "29406"
+  },
+  {
+    "name": "Origin SC",
+    "description": "Nonprofit providing homeless prevention programs, financial education, and housing stability services to individuals and families at risk of homelessness in the Charleston area.",
+    "address": "4925 Lacross Road, Suite 215, North Charleston, SC 29406",
+    "phone": "(843) 735-7802",
+    "url": "https://www.findhelp.org/food/food-pantry--charleston-sc",
+    "categorySlug": "housing",
+    "zipCode": "29406"
+  },
+  {
+    "name": "James Island Outreach",
+    "description": "Nonprofit serving the James Island and Folly Beach communities since 1989 with a client-choice food pantry (Tues/Thurs 9:30\u201311:30am, Sat 9\u201311:30am), emergency financial assistance, and critical home repairs.",
+    "address": "1860 Camp Road, Charleston, SC 29412",
+    "phone": "(843) 762-3653",
+    "url": "https://www.jioutreach.org/",
+    "categorySlug": "food",
+    "zipCode": "29412"
+  },
+  {
+    "name": "East Cooper Community Outreach (ECCO)",
+    "description": "Community nonprofit helping neighbors help themselves with a wellness food pantry, emergency financial assistance, and wraparound support services in Mount Pleasant and East Cooper.",
+    "address": "1145 Six Mile Road, Mount Pleasant, SC 29466",
+    "phone": "",
+    "url": "https://eccocharleston.org/",
+    "categorySlug": "food",
+    "zipCode": "29466"
+  },
+  {
+    "name": "Impact Ministries Food Distribution - Summerville",
+    "description": "Nonprofit providing free food pantry and soup kitchen with monthly food distribution on the second Saturday 9\u201311am, serving North Charleston and Summerville residents.",
+    "address": "316 W Carolina Ave, Summerville, SC 29483",
+    "phone": "(843) 873-1991",
+    "url": "https://www.foodpantries.org/co/sc-dorchester",
+    "categorySlug": "food",
+    "zipCode": "29483"
+  },
+  {
+    "name": "Summerville Food Bank - First Fruits Community Church",
+    "description": "Church food bank distributing free canned and fresh groceries on the fourth Saturday monthly 10:30am\u201312pm to families in Summerville and surrounding Dorchester County.",
+    "address": "195 Farmington Road, Summerville, SC 29483",
+    "phone": "(843) 900-1486",
+    "url": "https://www.foodpantries.org/co/sc-dorchester",
+    "categorySlug": "food",
+    "zipCode": "29483"
+  },
+  {
+    "name": "House of Prayer & Praise Baptist Church Pantry",
+    "description": "Food pantry open the 2nd and 4th Saturday 9am\u20132pm and Wednesdays 11am\u20132pm, providing free groceries to residents of Harleyville and Dorchester County.",
+    "address": "104 East Main Street, Harleyville, SC 29448",
+    "phone": "(843) 462-2744",
+    "url": "https://www.foodpantries.org/co/sc-dorchester",
+    "categorySlug": "food",
+    "zipCode": "29448"
+  },
+  {
+    "name": "Seed Time Harvest Ministries",
+    "description": "Community ministry providing cereal, snacks, vegetables, and yogurt, plus summer meals for children and baby formula for single mothers in the Summerville area.",
+    "address": "130 Argosy St, Summerville, SC 29483",
+    "phone": "(843) 817-3118",
+    "url": "https://www.needhelppayingbills.com/html/berkeley_county_food_pantries.html",
+    "categorySlug": "food",
+    "zipCode": "29483"
+  },
+  {
+    "name": "Prosperity Center - Moncks Corner",
+    "description": "Community volunteer organization distributing fresh fruits, vegetables, and dairy items to residents of Moncks Corner and Berkeley County.",
+    "address": "325 E. Main St., Moncks Corner, SC 29461",
+    "phone": "(843) 761-6033",
+    "url": "https://www.needhelppayingbills.com/html/berkeley_county_food_pantries.html",
+    "categorySlug": "food",
+    "zipCode": "29461"
+  },
+  {
+    "name": "James Island Outreach",
+    "description": "Nonprofit serving the James Island and Folly Beach communities since 1989 with a client-choice food pantry, emergency financial assistance, financial education workshops, and critical home repairs.",
+    "address": "1860 Camp Road, Charleston, SC 29412",
+    "phone": "(843) 762-3653",
+    "url": "https://www.jioutreach.org/",
+    "categorySlug": "food",
+    "zipCode": "29455"
+  },
+  {
+    "name": "East Cooper Community Outreach (ECCO)",
+    "description": "Community nonprofit helping neighbors help themselves through a wellness food pantry, emergency financial assistance, and wraparound social support services on the East Cooper peninsula.",
+    "address": "1145 Six Mile Road, Mount Pleasant, SC 29466",
+    "phone": "",
+    "url": "https://eccocharleston.org/",
+    "categorySlug": "food",
+    "zipCode": "29464"
+  },
+  {
+    "name": "One80 Place",
+    "description": "One of the Lowcountry's largest homeless service providers offering emergency shelter, case management, healthcare, housing assistance, veterans support, job training, and meals in Charleston.",
+    "address": "35 Walnut St, Charleston, SC 29403",
+    "phone": "(843) 723-9477",
+    "url": "https://www.one80place.org/",
+    "categorySlug": "housing",
+    "zipCode": "29487"
+  },
+  {
+    "name": "Chester County Christ Central Mission Station",
+    "description": "Community mission providing free food pantry services Monday 9am\u201312pm and Wednesday 9am\u201312:30pm at two Chester locations, serving low-income residents.",
+    "address": "144 Gadsden Street, Chester, SC 29706",
+    "phone": "(803) 581-5890",
+    "url": "https://www.foodpantries.org/ci/sc-chester",
+    "categorySlug": "food",
+    "zipCode": "29706"
+  },
+  {
+    "name": "Chester Ministerial Association Food Pantry",
+    "description": "Ecumenical food pantry serving Chester County residents by appointment, providing self-shopping access to emergency food supplies at Purity Presbyterian Church.",
+    "address": "135 Wylie Street, Chester, SC 29706",
+    "phone": "(803) 374-7778",
+    "url": "https://www.foodpantries.org/ci/sc-chester",
+    "categorySlug": "food",
+    "zipCode": "29706"
+  },
+  {
+    "name": "Turning Point of Chester",
+    "description": "Nonprofit providing a food pantry open Monday, Wednesday, and Friday 11am\u20132pm, plus transitional housing, a 90-day addiction treatment program for men, and a thrift store in Chester County.",
+    "address": "Chester, SC 29706",
+    "phone": "",
+    "url": "https://www.findhelp.org/food/food-pantry--chester-sc",
+    "categorySlug": "food",
+    "zipCode": "29706"
+  },
+  {
+    "name": "Safe Harbor of Chester County",
+    "description": "Nonprofit providing shelter and support services to survivors of domestic violence and their children in Chester County.",
+    "address": "Chester, SC 29702",
+    "phone": "",
+    "url": "https://safeharborofcc.org/",
+    "categorySlug": "crisis",
+    "zipCode": "29702"
+  },
+  {
+    "name": "Iron City Ministries",
+    "description": "Faith-based ministry in Blacksburg providing food and clothing resources, financial assistance for rent and utilities, and help finding school and work opportunities Monday\u2013Friday 9am\u201312pm and Tuesday evenings.",
+    "address": "109 W. Cherokee St., Blacksburg, SC 29702",
+    "phone": "(864) 839-9783",
+    "url": "https://www.scacog.org/cherokee-services",
+    "categorySlug": "food",
+    "zipCode": "29702"
+  },
+  {
+    "name": "PeachCenter Ministries - Gaffney",
+    "description": "Community ministry providing food and grocery assistance, medication assistance, and utility assistance to residents of Cherokee County.",
+    "address": "518 N. Limestone Street, Gaffney, SC 29340",
+    "phone": "(864) 489-2549",
+    "url": "https://www.scacog.org/cherokee-services",
+    "categorySlug": "food",
+    "zipCode": "29340"
+  },
+  {
+    "name": "Salvation Army of Cherokee County",
+    "description": "Local Salvation Army corps providing food pantry, medication assistance, and utility bill assistance to Gaffney and Cherokee County residents Monday\u2013Thursday 9am\u201312pm.",
+    "address": "Gaffney, SC 29342",
+    "phone": "(864) 489-2530",
+    "url": "https://www.scacog.org/cherokee-services",
+    "categorySlug": "food",
+    "zipCode": "29341"
+  },
+  {
+    "name": "Harbor of Hope - Miracle Hill Ministries",
+    "description": "Emergency shelter operated by Miracle Hill Ministries providing housing for homeless individuals and victims of abuse, with three daily meals, laundry facilities, counseling, and clothing.",
+    "address": "227 Henderson Street, Gaffney, SC 29341",
+    "phone": "(864) 488-0376",
+    "url": "https://miraclehill.org/shelters/cherokee-county/",
+    "categorySlug": "housing",
+    "zipCode": "29341"
+  },
+  {
+    "name": "Upstate Homeless Coalition Transitions - Gaffney",
+    "description": "Transitional housing program with case management for homeless individuals, providing up to a stay with support services to help residents move toward stable permanent housing.",
+    "address": "401 New St., Gaffney, SC 29340",
+    "phone": "(864) 488-1009",
+    "url": "https://www.scacog.org/cherokee-services",
+    "categorySlug": "housing",
+    "zipCode": "29340"
+  },
+  {
+    "name": "Piedmont Emergency Relief Center",
+    "description": "Community organization providing emergency food assistance to residents of Piedmont and the surrounding Anderson County area.",
+    "address": "3 Main Street, Piedmont, SC 29673",
+    "phone": "(864) 845-5355",
+    "url": "https://www.sciway.net/org/anderson-sc-homeless-resources.html",
+    "categorySlug": "food",
+    "zipCode": "29673"
+  },
+  {
+    "name": "Lowcountry Food Bank",
+    "description": "Regional food bank serving 10 coastal SC counties with 230+ partner agencies distributing emergency food, senior and child meal programs from its Charleston headquarters.",
+    "address": "2864 Azalea Dr., Charleston, SC 29405",
+    "phone": "(843) 747-8146",
+    "url": "https://lowcountryfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "29482"
+  },
+  {
+    "name": "The Turning Point of Chester Food Pantry",
+    "description": "Christian ministry providing food pantry services to residents in Chester County. Open Monday, Wednesday, and Friday with walk-in hours.",
+    "address": "101 Cotton Street, Chester, SC 29706",
+    "phone": "(803) 379-0888",
+    "url": "http://chesterturningpoint.org/index.php/the-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "29706"
+  },
+  {
+    "name": "Chester Ministerial Association Food Pantry",
+    "description": "Community food pantry operated by local ministerial association available by appointment to Chester County residents. Provides food assistance to those in need.",
+    "address": "135 Wylie Street, Chester, SC 29706",
+    "phone": "(803) 374-7778",
+    "url": "https://www.foodpantries.org/ci/sc-chester",
+    "categorySlug": "food",
+    "zipCode": "29706"
+  },
+  {
+    "name": "Chester Christ Central Mission Station",
+    "description": "Faith-based food pantry serving Chester County residents on Monday and Wednesday mornings at two distribution locations in Chester.",
+    "address": "144 Gadsden Street, Chester, SC 29706",
+    "phone": "(803) 581-5890",
+    "url": "https://www.foodpantries.org/ci/sc-chester",
+    "categorySlug": "food",
+    "zipCode": "29706"
+  },
+  {
+    "name": "Fort Lawn Community Center Food Pantry",
+    "description": "Community center offering a food pantry along with adult education, senior services, and veteran support. Also provides rent and utility assistance for residents in Fort Lawn, Richburg, Edgemoor, and Lando.",
+    "address": "5554 Main Street, Fort Lawn, SC 29714",
+    "phone": "(803) 872-4491",
+    "url": "https://sc211.org/index.php?option=com_cpx&task=resource.view&id=1127277",
+    "categorySlug": "food",
+    "zipCode": "29714"
+  },
+  {
+    "name": "GRASP Food Pantry - Great Falls",
+    "description": "Food pantry in Great Falls serving Chester County residents, open Monday through Thursday afternoons for food distribution.",
+    "address": "802 Dearborn Street, Great Falls, SC 29055",
+    "phone": "(864) 482-4407",
+    "url": "https://www.findhelp.org/food/food-pantry--chester-sc",
+    "categorySlug": "food",
+    "zipCode": "29055"
+  },
+  {
+    "name": "McArn Food Bank",
+    "description": "Christian-based food bank open to all Cheraw and Chesterfield County residents. Provides food assistance on a monthly schedule from its downtown Cheraw location.",
+    "address": "131 2nd Street, Cheraw, SC 29520",
+    "phone": "(843) 537-0642",
+    "url": "https://www.facebook.com/CherawFoodBank/",
+    "categorySlug": "food",
+    "zipCode": "29520"
+  },
+  {
+    "name": "Maranatha Family Center Food Pantry",
+    "description": "Faith-based organization providing food pantry services to Chesterfield County residents by appointment Monday through Friday mornings.",
+    "address": "66 Praise Lane, Cheraw, SC 29520",
+    "phone": "(843) 537-2033",
+    "url": "https://www.connectchesterfieldsc.org/community-partners-resources-1-2-1-1-t6zgk-1",
+    "categorySlug": "food",
+    "zipCode": "29520"
+  },
+  {
+    "name": "Door of Hope Food Bank",
+    "description": "Faith-based food bank serving Pageland and Chesterfield County residents every Wednesday morning. Provides grocery assistance to families in need.",
+    "address": "45 HC Gibson Road, Pageland, SC 29728",
+    "phone": "(843) 672-5834",
+    "url": "https://www.connectchesterfieldsc.org/community-partners-resources-1-2-1-1-t6zgk-1",
+    "categorySlug": "food",
+    "zipCode": "29728"
+  },
+  {
+    "name": "Chesterfield Food Bank",
+    "description": "Community food bank serving low-income families, single parents, senior citizens, unemployed individuals, and disabled veterans in Chesterfield County.",
+    "address": "100 W Calhoun Street, Chesterfield, SC 29709",
+    "phone": "(843) 287-3608",
+    "url": "https://www.connectchesterfieldsc.org/community-partners-resources-1-2-1-1-t6zgk-1",
+    "categorySlug": "food",
+    "zipCode": "29709"
+  },
+  {
+    "name": "Harvest Hope Food Bank - Pee Dee",
+    "description": "Regional food bank distributing food to over 400 partner agencies across 20 South Carolina counties including Clarendon, Darlington, Dillon, Florence, and Chesterfield. Requires photo ID showing current county residency.",
+    "address": "2701 Alex Lee Boulevard, Florence, SC 29506",
+    "phone": "(843) 661-0826",
+    "url": "https://www.harvesthope.org/",
+    "categorySlug": "food",
+    "zipCode": "29506"
+  },
+  {
+    "name": "In His Name - Colleton Emergency Food Pantry",
+    "description": "Emergency food pantry serving Colleton County residents Monday, Wednesday, and Friday mornings. Provides groceries and basic food staples to families in need.",
+    "address": "214 Wichman Street, Walterboro, SC 29488",
+    "phone": "(843) 782-3080",
+    "url": "https://www.inhisname-colleton.org/food-pantries-blessing-boxes",
+    "categorySlug": "food",
+    "zipCode": "29488"
+  },
+  {
+    "name": "Edgewood Baptist Church Food Pantry",
+    "description": "Church-based food pantry open Wednesday mornings to Colleton County residents. Also provides clothing assistance and emergency food in crisis situations.",
+    "address": "138 Wildwood Drive, Walterboro, SC 29488",
+    "phone": "(843) 549-7928",
+    "url": "https://www.inhisname-colleton.org/food-pantries-blessing-boxes",
+    "categorySlug": "food",
+    "zipCode": "29488"
+  },
+  {
+    "name": "Bethel United Methodist Church Food Pantry",
+    "description": "Church-operated food pantry providing grocery assistance on the 2nd and 4th Thursday of each month to Walterboro area residents.",
+    "address": "355 Hampton Street, Walterboro, SC 29488",
+    "phone": "(843) 549-7691",
+    "url": "https://www.inhisname-colleton.org/food-pantries-blessing-boxes",
+    "categorySlug": "food",
+    "zipCode": "29488"
+  },
+  {
+    "name": "St. Anthony's Catholic Church Food Pantry - Walterboro",
+    "description": "Catholic church food pantry distributing groceries on the 1st and 3rd Tuesday of each month. Serves Colleton County residents in need.",
+    "address": "925 S Jefferies Highway, Walterboro, SC 29488",
+    "phone": "(843) 549-5230",
+    "url": "https://www.inhisname-colleton.org/food-pantries-blessing-boxes",
+    "categorySlug": "food",
+    "zipCode": "29488"
+  },
+  {
+    "name": "St. Jude's Church Food Pantry",
+    "description": "Church-based food pantry open on the 1st and 3rd Monday of each month from 11am to 1pm. Provides food assistance to Walterboro residents.",
+    "address": "907 Wichman Street, Walterboro, SC 29488",
+    "phone": "(843) 549-1050",
+    "url": "https://www.inhisname-colleton.org/food-pantries-blessing-boxes",
+    "categorySlug": "food",
+    "zipCode": "29488"
+  },
+  {
+    "name": "New Beginning Outreach Food Pantry",
+    "description": "Community outreach organization providing food on the 2nd and 4th Thursday of each month. Serves residents of Walterboro and Colleton County.",
+    "address": "600 Beach Road, Walterboro, SC 29488",
+    "phone": "(843) 635-4607",
+    "url": "https://www.inhisname-colleton.org/food-pantries-blessing-boxes",
+    "categorySlug": "food",
+    "zipCode": "29488"
+  },
+  {
+    "name": "Good Shepherd Lutheran Church Food Pantry",
+    "description": "Lutheran church food pantry open the 1st and 3rd Tuesday each month from 9:30 to 11:30 am. Provides groceries to Walterboro and Colleton County residents.",
+    "address": "106 May Street, Walterboro, SC 29488",
+    "phone": "(843) 549-5353",
+    "url": "https://www.inhisname-colleton.org/food-pantries-blessing-boxes",
+    "categorySlug": "food",
+    "zipCode": "29488"
+  },
+  {
+    "name": "Lowcountry Food Bank - Yemassee Regional Distribution Center",
+    "description": "Regional food distribution center serving Hampton, Colleton, Jasper, and Beaufort counties. Partners with 300 member feeding agencies including soup kitchens, shelters, and emergency food pantries.",
+    "address": "1 Guess Road, Yemassee, SC 29945",
+    "phone": "(843) 589-4118",
+    "url": "https://lowcountryfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "29945"
+  },
+  {
+    "name": "Bethel AME Church - Darlington Food Pantry",
+    "description": "Church-based food pantry open the 3rd Tuesday from 9:00 AM to 11:00 AM, also offering emergency appointments for Darlington County residents in need.",
+    "address": "1333 South Main Street, Darlington, SC 29532",
+    "phone": "(843) 393-4481",
+    "url": "https://www.darlingtonha.org/darlington-food-banks",
+    "categorySlug": "food",
+    "zipCode": "29532"
+  },
+  {
+    "name": "Divine Destiny Food Pantry",
+    "description": "Community food pantry open every Tuesday from 9:00 AM to 1:00 PM serving Darlington County residents with free groceries.",
+    "address": "3823 Oak Drive, Darlington, SC 29532",
+    "phone": "(843) 662-6842",
+    "url": "https://www.darlingtonha.org/darlington-food-banks",
+    "categorySlug": "food",
+    "zipCode": "29532"
+  },
+  {
+    "name": "Cherry Grove Missionary Baptist Church Food Pantry",
+    "description": "Church food pantry distributing food on the 3rd Saturday each month starting at 1 pm. Serves Darlington County families with free groceries.",
+    "address": "552 East Billy Farrow Highway, Darlington, SC 29532",
+    "phone": "(843) 393-5952",
+    "url": "https://www.darlingtonha.org/darlington-food-banks",
+    "categorySlug": "food",
+    "zipCode": "29532"
+  },
+  {
+    "name": "Fatherhood and Families Engagement Program",
+    "description": "Community organization providing food assistance by appointment to Darlington County residents. Focuses on serving families and fathers in need.",
+    "address": "109 Law Street, Darlington, SC 29532",
+    "phone": "(843) 413-2790",
+    "url": "https://www.darlingtonha.org/darlington-food-banks",
+    "categorySlug": "food",
+    "zipCode": "29532"
+  },
+  {
+    "name": "Wesley UMC Hartsville Soup Kitchen",
+    "description": "United Methodist Church soup kitchen open daily at 11:00 AM providing free hot meals to anyone in need in Hartsville and Darlington County.",
+    "address": "143 E College Street, Hartsville, SC 29550",
+    "phone": "(843) 332-9225",
+    "url": "https://www.darlingtonha.org/hartsville-food-banks",
+    "categorySlug": "food",
+    "zipCode": "29550"
+  },
+  {
+    "name": "All For Christ Ministries Food Pantry",
+    "description": "Faith-based ministry providing food pantry services to low-income residents of Hartsville and Darlington County.",
+    "address": "601 South Sixth Street, Hartsville, SC 29550",
+    "phone": "(843) 917-2049",
+    "url": "https://www.darlingtonha.org/hartsville-food-banks",
+    "categorySlug": "food",
+    "zipCode": "29550"
+  },
+  {
+    "name": "HRC Crusade For Christ Ministries",
+    "description": "Faith-based organization offering a food pantry, seasonal services, clothing closet, and Christmas food or toys for low-income families in Hartsville.",
+    "address": "910 Myrtle Street, Hartsville, SC 29550",
+    "phone": "(843) 332-4291",
+    "url": "https://www.darlingtonha.org/hartsville-food-banks",
+    "categorySlug": "food",
+    "zipCode": "29550"
+  },
+  {
+    "name": "Embark Lay Ministries Food Pantry",
+    "description": "Ministry operating a food pantry on the 3rd Thursday of each month from 9 AM to 12 PM. Serves Hartsville and surrounding Darlington County residents.",
+    "address": "1307 Sedgefield Road, Hartsville, SC 29550",
+    "phone": "(843) 601-1620",
+    "url": "https://www.darlingtonha.org/hartsville-food-banks",
+    "categorySlug": "food",
+    "zipCode": "29550"
+  },
+  {
+    "name": "Bethel AME Church - Darlington Food Pantry",
+    "description": "Church-based food pantry open the 3rd Tuesday from 9:00 AM to 11:00 AM, also available by emergency appointment for Darlington County residents.",
+    "address": "1333 South Main Street, Darlington, SC 29532",
+    "phone": "(843) 393-4481",
+    "url": "https://www.darlingtonha.org/darlington-food-banks",
+    "categorySlug": "food",
+    "zipCode": "29532"
+  },
+  {
+    "name": "Divine Destiny Food Pantry",
+    "description": "Community food pantry serving Darlington County residents every Tuesday from 9:00 AM to 1:00 PM with free groceries.",
+    "address": "3823 Oak Drive, Darlington, SC 29532",
+    "phone": "(843) 662-6842",
+    "url": "https://www.darlingtonha.org/darlington-food-banks",
+    "categorySlug": "food",
+    "zipCode": "29532"
+  },
+  {
+    "name": "Wesley UMC Hartsville Soup Kitchen",
+    "description": "United Methodist Church soup kitchen open daily at 11:00 AM providing free hot meals to anyone in need in Hartsville and Darlington County.",
+    "address": "143 E College Street, Hartsville, SC 29550",
+    "phone": "(843) 332-9225",
+    "url": "https://www.darlingtonha.org/hartsville-food-banks",
+    "categorySlug": "food",
+    "zipCode": "29550"
+  },
+  {
+    "name": "HRC Crusade For Christ Ministries",
+    "description": "Faith-based organization offering a food pantry, seasonal services, clothing closet, and Christmas food or toys for low-income families in Hartsville.",
+    "address": "910 Myrtle Street, Hartsville, SC 29550",
+    "phone": "(843) 332-4291",
+    "url": "https://www.darlingtonha.org/hartsville-food-banks",
+    "categorySlug": "food",
+    "zipCode": "29550"
+  },
+  {
+    "name": "Helping Hands Food Bank - Dillon",
+    "description": "Local food bank providing essential food assistance to Dillon County residents. Open Monday mornings and Thursday afternoons for distribution.",
+    "address": "100 W Calhoun Street, Dillon, SC 29536",
+    "phone": "(843) 841-2266",
+    "url": "https://southcarolinafoodbanks.org/food-bank/helping-hands/",
+    "categorySlug": "food",
+    "zipCode": "29536"
+  },
+  {
+    "name": "Keys to Change - Anchor House Men's Shelter",
+    "description": "Emergency and transitional shelter for men experiencing homelessness in Dorchester County. Provides meals, showers, job advocacy, and case management to help guests achieve self-sufficiency.",
+    "address": "9924 Jamison Road, Ladson, SC 29456",
+    "phone": "(843) 469-8858",
+    "url": "https://keystochangesc.org/",
+    "categorySlug": "housing",
+    "zipCode": "29456"
+  },
+  {
+    "name": "Keys to Change - Light House Women's Shelter",
+    "description": "Emergency and transitional shelter for women experiencing homelessness in Dorchester County. Offers counseling, support groups, financial education, and housing assistance.",
+    "address": "700 Central Avenue, Summerville, SC 29483",
+    "phone": "(843) 771-2094",
+    "url": "https://keystochangesc.org/",
+    "categorySlug": "housing",
+    "zipCode": "29483"
+  },
+  {
+    "name": "Summerville Food Bank",
+    "description": "Ministry of First Fruits Community Church providing groceries to families in need in Summerville and surrounding Berkeley, Charleston, and Dorchester counties. Open the 3rd and 4th Saturday of each month.",
+    "address": "195 Farmington Road East, Summerville, SC 29486",
+    "phone": "(843) 900-1486",
+    "url": "https://www.needhelppayingbills.com/html/dorchester_county_food_pantries.html",
+    "categorySlug": "food",
+    "zipCode": "29486"
+  },
+  {
+    "name": "Seacoast Summerville Food Bank",
+    "description": "Church-based food bank serving residents of Berkeley, Charleston, and Dorchester counties. Partners with Feeding America and the Lowcountry Food Bank for food distribution.",
+    "address": "301 East 5th North Street, Summerville, SC 29483",
+    "phone": "(843) 486-0193",
+    "url": "https://www.needhelppayingbills.com/html/dorchester_county_food_pantries.html",
+    "categorySlug": "food",
+    "zipCode": "29483"
+  },
+  {
+    "name": "St. Paul's Anglican Church Food Pantry",
+    "description": "Church food pantry providing quality food items to households experiencing food insecurity in Summerville and Dorchester County.",
+    "address": "316 W Carolina Avenue, Summerville, SC 29483",
+    "phone": "(843) 873-1991",
+    "url": "https://www.needhelppayingbills.com/html/dorchester_county_food_pantries.html",
+    "categorySlug": "food",
+    "zipCode": "29483"
+  },
+  {
+    "name": "The Salvation Army - Summerville",
+    "description": "Salvation Army corps providing food pantry, emergency assistance, and social services to residents of Summerville and Dorchester County.",
+    "address": "111 Waring Street, Summerville, SC 29483",
+    "phone": "(843) 747-5271",
+    "url": "https://www.needhelppayingbills.com/html/dorchester_county_food_pantries.html",
+    "categorySlug": "food",
+    "zipCode": "29483"
+  },
+  {
+    "name": "New Hope Greater New Hope AME Church Food Pantry",
+    "description": "African Methodist Episcopal church providing food pantry services to residents of Ridgeville and surrounding Dorchester County communities.",
+    "address": "1461 Givhans Road, Ridgeville, SC 29472",
+    "phone": "(843) 486-0996",
+    "url": "https://www.needhelppayingbills.com/html/dorchester_county_food_pantries.html",
+    "categorySlug": "food",
+    "zipCode": "29472"
+  },
+  {
+    "name": "Community Resource Center - Summerville",
+    "description": "Community nonprofit offering food assistance and social services referrals to Summerville and Dorchester County residents in need.",
+    "address": "116 W 2nd North Street, Summerville, SC 29483",
+    "phone": "(843) 879-7805",
+    "url": "https://www.needhelppayingbills.com/html/dorchester_county_food_pantries.html",
+    "categorySlug": "community",
+    "zipCode": "29483"
+  },
+  {
+    "name": "Keys to Change - Light House Women's Shelter",
+    "description": "Emergency and transitional shelter for women experiencing homelessness in Dorchester County. Offers counseling, support groups, financial education, and housing assistance.",
+    "address": "700 Central Avenue, Summerville, SC 29483",
+    "phone": "(843) 771-2094",
+    "url": "https://keystochangesc.org/",
+    "categorySlug": "housing",
+    "zipCode": "29483"
+  },
+  {
+    "name": "Keys to Change - Anchor House Men's Shelter",
+    "description": "Emergency and transitional shelter for men experiencing homelessness operated by Keys to Change (formerly Dorchester County Community Outreach). Provides meals, showers, job advocacy, and case management.",
+    "address": "9924 Jamison Road, Ladson, SC 29456",
+    "phone": "(843) 469-8858",
+    "url": "https://keystochangesc.org/",
+    "categorySlug": "housing",
+    "zipCode": "29456"
+  },
+  {
+    "name": "Pleasant Grove Baptist Church Food Pantry - Edgefield",
+    "description": "Church food pantry serving Edgefield County residents with Saturday morning distributions. Provides grocery assistance to families in need.",
+    "address": "1120 Highway 25 North, Edgefield, SC 29824",
+    "phone": "(803) 637-1287",
+    "url": "https://www.freefood.org/c/sc-edgefield",
+    "categorySlug": "food",
+    "zipCode": "29824"
+  },
+  {
+    "name": "Edgefield County Churches Helping Others",
+    "description": "Coalition of Edgefield County churches providing emergency food and other assistance to residents in need.",
+    "address": "300 Gray Street, Edgefield, SC 29824",
+    "phone": "(803) 637-5111",
+    "url": "https://www.freefood.org/c/sc-edgefield",
+    "categorySlug": "food",
+    "zipCode": "29824"
+  },
+  {
+    "name": "Women In Unity Food Pantry",
+    "description": "Community organization providing food pantry services to residents of Edgefield and surrounding counties.",
+    "address": "323 Glover Street, Edgefield, SC 29824",
+    "phone": "(803) 637-2010",
+    "url": "https://www.freefood.org/c/sc-edgefield",
+    "categorySlug": "food",
+    "zipCode": "29824"
+  },
+  {
+    "name": "Johnston Food Bank",
+    "description": "Community food bank serving Johnston and Edgefield County residents with food assistance programs.",
+    "address": "285 Lanier Road, Johnston, SC 29832",
+    "phone": "",
+    "url": "https://www.freefood.org/c/sc-edgefield",
+    "categorySlug": "food",
+    "zipCode": "29832"
+  },
+  {
+    "name": "Fairfield Community Food Bank",
+    "description": "Emergency food pantry serving Fairfield County residents with 90-day or 30-day emergency food packages. Open Tuesday and Thursday mornings; offers home delivery for homebound residents.",
+    "address": "100 US-321 Bypass South, Winnsboro, SC 29180",
+    "phone": "(803) 635-9234",
+    "url": "https://www.midlandsgives.org/organization/FairfieldCommunityFoodBank",
+    "categorySlug": "food",
+    "zipCode": "29180"
+  },
+  {
+    "name": "Macedonia Baptist Church of Ridgeway Food Pantry",
+    "description": "Church food pantry open the 3rd Saturday of each month from 9:00 AM to 11:00 AM serving Ridgeway and Fairfield County residents.",
+    "address": "72 Macedonia Church Road, Ridgeway, SC 29130",
+    "phone": "(803) 361-5292",
+    "url": "https://www.foodpantries.org/co/sc-fairfield",
+    "categorySlug": "food",
+    "zipCode": "29130"
+  },
+  {
+    "name": "Salvation Army - Florence County",
+    "description": "Salvation Army providing food pantry, holiday meals, SNAP referrals, and emergency financial assistance to Florence County residents.",
+    "address": "2210 Hoffmeyer Road, Florence, SC 29501",
+    "phone": "(843) 662-4461",
+    "url": "https://southcarolinafoodbanks.org/food-bank/the-salvation-army-of-florence-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "29501"
+  },
+  {
+    "name": "House of Hope of the Pee Dee",
+    "description": "Christian ministry providing emergency shelter and transitional housing for men, women, and children in Florence. Offers nearly 20,000 nights of shelter annually, including the Courtney McGinnis Graham Shelter for up to 30-day emergency stays.",
+    "address": "1020 W Darlington Street, Florence, SC 29501",
+    "phone": "(843) 667-9000",
+    "url": "https://hofh.org/",
+    "categorySlug": "housing",
+    "zipCode": "29501"
+  },
+  {
+    "name": "St Anthony's Catholic Church Emergency Food Pantry - Florence",
+    "description": "Catholic church emergency food pantry serving Florence County residents, available Monday through Friday. Clients may receive assistance once every six to eight weeks.",
+    "address": "2536 W Hoffmeyer Road, Florence, SC 29502",
+    "phone": "(843) 662-5674",
+    "url": "https://www.needhelppayingbills.com/html/florence_county_food_pantries.html",
+    "categorySlug": "food",
+    "zipCode": "29502"
+  },
+  {
+    "name": "Greater Mt Sinai Deliverance Holiness Church Food Pantry",
+    "description": "Church food pantry in Timmonsville serving Florence County residents by appointment. Provides groceries to families experiencing food insecurity.",
+    "address": "4638 Hollyberry Lane, Timmonsville, SC 29161",
+    "phone": "(843) 496-0670",
+    "url": "https://www.needhelppayingbills.com/html/florence_county_food_pantries.html",
+    "categorySlug": "food",
+    "zipCode": "29161"
+  },
+  {
+    "name": "Timmonsville Church of Christ Food Pantry",
+    "description": "Church food pantry in Timmonsville offering groceries to Florence County residents, including home delivery options for seniors and those with disabilities.",
+    "address": "1674 N Darlington Street, Timmonsville, SC 29161",
+    "phone": "(843) 346-9554",
+    "url": "https://www.needhelppayingbills.com/html/florence_county_food_pantries.html",
+    "categorySlug": "food",
+    "zipCode": "29161"
+  },
+  {
+    "name": "Lighthouse Ministries - Florence",
+    "description": "Local ministry in Florence providing emergency financial aid, food assistance, and Meals on Wheels referrals to residents of Florence County.",
+    "address": "201 E Elm Street, Florence, SC 29506",
+    "phone": "(843) 629-0830",
+    "url": "https://www.needhelppayingbills.com/html/florence_county_food_pantries.html",
+    "categorySlug": "food",
+    "zipCode": "29506"
+  },
+  {
+    "name": "Harvest Hope Food Bank - Pee Dee",
+    "description": "Regional food bank distributing food to over 400 partner agencies across 20 South Carolina counties. Provides emergency food and USDA commodity programs in the Pee Dee region.",
+    "address": "2513 West Lucas Street, Florence, SC 29501",
+    "phone": "(843) 661-0826",
+    "url": "https://www.harvesthope.org/",
+    "categorySlug": "food",
+    "zipCode": "29501"
+  },
+  {
+    "name": "Gospel Temple Worship Center Food Pantry",
+    "description": "Church ministry providing groceries, baby formula, and household supplies to low-income Florence County families.",
+    "address": "3987 W Palmetto Street, Florence, SC 29501",
+    "phone": "(843) 245-5395",
+    "url": "https://www.needhelppayingbills.com/html/florence_county_food_pantries.html",
+    "categorySlug": "food",
+    "zipCode": "29501"
+  },
+  {
+    "name": "Greater Lake City Community Resource Center Food Distribution",
+    "description": "Community outreach organization distributing food every Tuesday from 9 AM to 12 PM to low-income residents of Lake City, Coward, Scranton, Cades, and Olanta.",
+    "address": "Lake City, SC 29560",
+    "phone": "",
+    "url": "https://www.lccommunityoutreach.org/programs/food-distributions/",
+    "categorySlug": "food",
+    "zipCode": "29560"
+  },
+  {
+    "name": "Helping Hands of Georgetown County - Gloria's Place Food Pantry",
+    "description": "Nonprofit client-choice food pantry providing 3 days of balanced food per distribution to Georgetown County residents. Open Monday through Thursday 9 AM to 12 PM; also offers drive-thru in Andrews on the 3rd Wednesday.",
+    "address": "1813 Highmarket Street, Georgetown, SC 29440",
+    "phone": "(843) 527-3424",
+    "url": "https://www.helpinghandsofgeorgetown.org/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "29440"
+  },
+  {
+    "name": "Friendship Place - Georgetown Soup Kitchen",
+    "description": "Nonprofit providing a hot meal program Monday through Friday from 11 AM to noon, plus shelf-stable groceries and holiday meals for Georgetown County residents.",
+    "address": "1905 Front Street, Georgetown, SC 29440",
+    "phone": "(843) 545-1115",
+    "url": "https://www.needhelppayingbills.com/html/georgetown_county_food_pantries.html",
+    "categorySlug": "food",
+    "zipCode": "29440"
+  },
+  {
+    "name": "The Salvation Army - Georgetown",
+    "description": "Salvation Army corps providing food pantry Monday through Thursday mornings, emergency assistance, and other social services to Georgetown and Williamsburg county residents.",
+    "address": "2401 Anthuan Maybank Drive, Georgetown, SC 29440",
+    "phone": "(843) 527-4479",
+    "url": "https://www.salvationarmyusa.org/sc/georgetown/",
+    "categorySlug": "food",
+    "zipCode": "29440"
+  },
+  {
+    "name": "Holy Cross Faith Memorial Church Food Pantry",
+    "description": "Church emergency pantry and grocery distribution site serving Georgetown County residents in the Pawleys Island area.",
+    "address": "113 Baskervill Drive, Pawleys Island, SC 29585",
+    "phone": "(843) 237-3459",
+    "url": "https://www.needhelppayingbills.com/html/georgetown_county_food_pantries.html",
+    "categorySlug": "food",
+    "zipCode": "29585"
+  },
+  {
+    "name": "Catholic Charities Pee Dee and Georgetown Food Pantry",
+    "description": "Catholic Charities providing food assistance and emergency services to residents of the Georgetown and Pee Dee region of South Carolina.",
+    "address": "1905 W Front Street, Georgetown, SC 29440",
+    "phone": "(843) 546-1470",
+    "url": "https://www.needhelppayingbills.com/html/georgetown_county_food_pantries.html",
+    "categorySlug": "food",
+    "zipCode": "29440"
+  },
+  {
+    "name": "Ebenezer Baptist Church Food Pantry - Andrews",
+    "description": "Church food pantry serving Andrews and Georgetown County residents with grocery assistance.",
+    "address": "1207 Martin Luther King Drive, Andrews, SC 29510",
+    "phone": "(843) 264-5092",
+    "url": "https://www.needhelppayingbills.com/html/georgetown_county_food_pantries.html",
+    "categorySlug": "food",
+    "zipCode": "29510"
+  },
+  {
+    "name": "United Ministries Food Pantry - Greenville",
+    "description": "Nonprofit providing a food pantry Monday, Tuesday, and Friday mornings for Greenville city residents, along with a day shelter and emergency family shelter services.",
+    "address": "606 Pendleton Street, Greenville, SC 29601",
+    "phone": "(864) 232-6463",
+    "url": "https://united-ministries.org/",
+    "categorySlug": "food",
+    "zipCode": "29601"
+  },
+  {
+    "name": "Project Host Soup Kitchen",
+    "description": "Community soup kitchen fighting food insecurity in greater Greenville, open Sunday through Friday from 11 AM to 12 PM for a free lunchtime meal.",
+    "address": "525 S Academy Street, Greenville, SC 29601",
+    "phone": "(864) 235-3403",
+    "url": "https://www.foodpantries.org/ci/sc-greenville",
+    "categorySlug": "food",
+    "zipCode": "29601"
+  },
+  {
+    "name": "Samaritan House Food Pantry - Greenville",
+    "description": "Community food pantry providing grocery assistance to low-income residents of Greenville County.",
+    "address": "2723 Augusta Street, Greenville, SC 29605",
+    "phone": "(864) 299-5898",
+    "url": "https://www.foodpantries.org/ci/sc-greenville",
+    "categorySlug": "food",
+    "zipCode": "29605"
+  },
+  {
+    "name": "Miracle Hill Ministries Food Warehouse",
+    "description": "Christian ministry providing emergency food boxes Monday through Friday from 8 AM to 12 PM to Greenville area residents in need.",
+    "address": "725 Keith Drive, Greenville, SC 29607",
+    "phone": "(864) 268-9062",
+    "url": "https://miraclehill.org/how-we-help/food-warehouse/",
+    "categorySlug": "food",
+    "zipCode": "29607"
+  },
+  {
+    "name": "Relentless Church Food Pantry",
+    "description": "Large church food pantry open Tuesday and Wednesday from 10 AM to 2 PM serving Greenville County residents with free groceries.",
+    "address": "635 Haywood Road, Greenville, SC 29607",
+    "phone": "(864) 281-1520",
+    "url": "https://www.foodpantries.org/ci/sc-greenville",
+    "categorySlug": "food",
+    "zipCode": "29607"
+  },
+  {
+    "name": "United Ministries Place of Hope Day Shelter",
+    "description": "Day shelter providing basic services including showers, laundry, and locker use for individuals experiencing chronic homelessness in Greenville. Walk-ins welcome daily from 8 to 11 AM.",
+    "address": "600 Pendleton Street, Greenville, SC 29601",
+    "phone": "(864) 232-6463",
+    "url": "https://united-ministries.org/",
+    "categorySlug": "housing",
+    "zipCode": "29601"
+  },
+  {
+    "name": "Catholic Charities - Our Lady's Pantry - Greenville",
+    "description": "Catholic Charities food pantry open Tuesday and Friday mornings serving Greenville County residents. Provides groceries and other essentials to those in need.",
+    "address": "2300 Old Buncombe Road, Greenville, SC 29609",
+    "phone": "(864) 331-2629",
+    "url": "https://www.foodpantries.org/ci/sc-greenville",
+    "categorySlug": "food",
+    "zipCode": "29609"
+  },
+  {
+    "name": "The Salvation Army - Greenville",
+    "description": "Salvation Army providing emergency shelter for homeless men and families, daily meals, clothing, personal care items, and counseling in Greenville County.",
+    "address": "417 Rutherford Street, Greenville, SC 29609",
+    "phone": "(864) 235-4803",
+    "url": "https://www.salvationarmyusa.org/",
+    "categorySlug": "housing",
+    "zipCode": "29609"
+  },
+  {
+    "name": "Harvest Hope Food Bank - Greenville",
+    "description": "Regional food bank providing emergency food pantry services Monday through Friday. Also distributes USDA commodity food programs including CSFP for seniors.",
+    "address": "2818 White Horse Road, Greenville, SC 29611",
+    "phone": "(864) 281-3995",
+    "url": "https://www.harvesthope.org/",
+    "categorySlug": "food",
+    "zipCode": "29611"
+  },
+  {
+    "name": "North Greenville Crisis Ministry Food and Clothing Pantry",
+    "description": "Community ministry providing food and clothing on Tuesdays and Wednesdays from 9 to 11:30 AM. Serves residents in zip codes including 29609, 29617, 29635, 29661, 29683, 29687, and 29690.",
+    "address": "864 North Highway 25 Bypass, Greenville, SC 29617",
+    "phone": "(864) 834-7342",
+    "url": "https://www.northgreenvillecrisisministry.org/",
+    "categorySlug": "food",
+    "zipCode": "29617"
+  },
+  {
+    "name": "Our Saviour Community Ministries Food Pantry",
+    "description": "Church food pantry open Tuesday and Thursday afternoons serving Greenville County residents with free groceries and essential food items.",
+    "address": "2600 Wade Hampton Boulevard, Greenville, SC 29615",
+    "phone": "(864) 244-2836",
+    "url": "https://www.foodpantries.org/ci/sc-greenville",
+    "categorySlug": "food",
+    "zipCode": "29615"
+  },
+  {
+    "name": "East Side Ministry Food Pantry - Taylors",
+    "description": "Community ministry in Taylors providing emergency food, financial aid, and clothing to residents of eastern Greenville County.",
+    "address": "50 Directors Drive, Greenville, SC 29615",
+    "phone": "(864) 244-2836",
+    "url": "https://www.scacog.org/greenville-services",
+    "categorySlug": "food",
+    "zipCode": "29615"
+  },
+  {
+    "name": "Food Pantry at Greer Relief and Resources Agency",
+    "description": "Comprehensive social services agency providing food pantry Monday through Friday mornings, housing assistance, transportation, and crisis support to Greer area residents.",
+    "address": "113C Berry Avenue, Greer, SC 29651",
+    "phone": "(864) 848-5355",
+    "url": "https://www.foodpantries.org/co/sc-greenville",
+    "categorySlug": "food",
+    "zipCode": "29651"
+  },
+  {
+    "name": "Greer Community Ministries Food Pantry",
+    "description": "Community nonprofit offering food pantry services Monday through Friday mornings along with Meals on Wheels delivery to homebound seniors in Greer.",
+    "address": "738 South Line Street Extension, Greer, SC 29651",
+    "phone": "(864) 877-1937",
+    "url": "https://www.foodpantries.org/co/sc-greenville",
+    "categorySlug": "food",
+    "zipCode": "29651"
+  },
+  {
+    "name": "Daily Bread Ministries - Greer Soup Kitchen",
+    "description": "Free soup kitchen open Monday through Saturday for lunch and Sunday for breakfast and dinner. Serves hot meals to anyone in need in Greer and Greenville County.",
+    "address": "521 East Poinsett Street, Greer, SC 29651",
+    "phone": "(864) 968-0323",
+    "url": "https://www.foodpantries.org/co/sc-greenville",
+    "categorySlug": "food",
+    "zipCode": "29651"
+  },
+  {
+    "name": "Sharon's Community Cupboard - Sharon United Methodist Church",
+    "description": "Church community cupboard open the 1st and 3rd Monday of each month from 4 to 6 PM. Serves residents of Greer and northern Greenville County.",
+    "address": "1421 Reidville Sharon Road, Greer, SC 29651",
+    "phone": "(864) 879-7926",
+    "url": "https://www.foodpantries.org/co/sc-greenville",
+    "categorySlug": "food",
+    "zipCode": "29651"
+  },
+  {
+    "name": "Trinity Fellowship Church Food Pantry - Greer",
+    "description": "Church food pantry providing canned groceries, dairy, and fresh produce to residents of Greer and northern Greenville County.",
+    "address": "3610 Brushy Creek Road, Greer, SC 29650",
+    "phone": "(864) 877-0419",
+    "url": "https://www.needhelppayingbills.com/html/greenville_food_pantries_and_b.html",
+    "categorySlug": "food",
+    "zipCode": "29650"
+  },
+  {
+    "name": "PERC - Piedmont Emergency Relief Center",
+    "description": "Emergency relief center in Piedmont distributing food boxes on Monday mornings, Tuesday and Thursday evenings, and Saturday mornings. Also provides emergency financial assistance.",
+    "address": "1 Main Street, Piedmont, SC 29673",
+    "phone": "(864) 845-5535",
+    "url": "https://www.foodpantries.org/co/sc-greenville",
+    "categorySlug": "food",
+    "zipCode": "29673"
+  },
+  {
+    "name": "Messiah Lutheran Church Food Pantry - Mauldin",
+    "description": "Lutheran church food bank offering food pantry, soup kitchen, and produce and canned goods distribution to Mauldin and southern Greenville County residents.",
+    "address": "1100 Log Shoals Road, Mauldin, SC 29662",
+    "phone": "(864) 963-4549",
+    "url": "https://www.needhelppayingbills.com/html/greenville_food_pantries_and_b.html",
+    "categorySlug": "food",
+    "zipCode": "29662"
+  },
+  {
+    "name": "Bethlehem Baptist Church Food Emergency Program",
+    "description": "Church food program distributing fresh produce, bread, and perishables on Wednesday mornings in Simpsonville. Serves residents of southern Greenville County.",
+    "address": "4 Harrison Bridge Road, Simpsonville, SC 29681",
+    "phone": "(864) 963-3527",
+    "url": "https://www.foodpantries.org/co/sc-greenville",
+    "categorySlug": "food",
+    "zipCode": "29681"
+  },
+  {
+    "name": "Simpsonville Presbyterian Church Food Pantry",
+    "description": "Church food pantry open Tuesday mornings and the 1st and 3rd Thursday evenings. Serves residents of Simpsonville and surrounding Greenville County communities.",
+    "address": "510 East Curtis Street, Simpsonville, SC 29681",
+    "phone": "(864) 963-8854",
+    "url": "https://www.foodpantries.org/co/sc-greenville",
+    "categorySlug": "food",
+    "zipCode": "29681"
+  },
+  {
+    "name": "St. Vincent de Paul - St. Mary Magdalene Catholic Church Food Pantry",
+    "description": "St. Vincent de Paul food pantry providing free food, hygiene supplies, and referral vouchers on Monday mornings to Simpsonville and Greenville County residents.",
+    "address": "2252 Woodruff Road, Simpsonville, SC 29681",
+    "phone": "(864) 288-4884",
+    "url": "https://www.foodpantries.org/co/sc-greenville",
+    "categorySlug": "food",
+    "zipCode": "29681"
+  },
+  {
+    "name": "SkyPointe Church Food Pantry - Travelers Rest",
+    "description": "Church food pantry open the 1st Saturday each month from 9:30 to 11:30 AM and 3rd Sunday from 1 to 3 PM. Serves residents of Travelers Rest and northern Greenville County.",
+    "address": "28 Ebenezer Church Road, Travelers Rest, SC 29690",
+    "phone": "(864) 660-9393",
+    "url": "https://www.foodpantries.org/co/sc-greenville",
+    "categorySlug": "food",
+    "zipCode": "29690"
+  },
+  {
+    "name": "Living Faith Ministries Food Pantry - Travelers Rest",
+    "description": "Client-choice food pantry offering canned goods and other essentials to residents of Travelers Rest and northern Greenville County.",
+    "address": "37 Renfrew Avenue, Travelers Rest, SC 29690",
+    "phone": "(864) 395-5352",
+    "url": "https://www.needhelppayingbills.com/html/greenville_food_pantries_and_b.html",
+    "categorySlug": "food",
+    "zipCode": "29690"
+  },
+  {
+    "name": "Prince of Peace Catholic Church Food Pantry - Taylors",
+    "description": "Catholic church providing emergency food, financial aid, and clothing assistance to residents of Taylors and eastern Greenville County.",
+    "address": "1209 Brushy Creek Road, Taylors, SC 29687",
+    "phone": "(864) 331-3937",
+    "url": "https://www.needhelppayingbills.com/html/greenville_food_pantries_and_b.html",
+    "categorySlug": "food",
+    "zipCode": "29687"
+  },
+  {
+    "name": "St. Mark United Methodist Church Food Pantry - Taylors",
+    "description": "Church food pantry distributing food on the 2nd and 4th Saturday from 9 to 11 AM to residents of Taylors and eastern Greenville County.",
+    "address": "911 St. Mark Road, Taylors, SC 29687",
+    "phone": "(864) 848-7141",
+    "url": "https://www.needhelppayingbills.com/html/greenville_food_pantries_and_b.html",
+    "categorySlug": "food",
+    "zipCode": "29687"
+  },
+  {
+    "name": "North Greenville Crisis Ministry Food and Clothing Pantry",
+    "description": "Community ministry providing food and clothing on Tuesdays and Wednesdays to residents across northern Greenville County including Taylors, Travelers Rest, and Marietta.",
+    "address": "864 North Highway 25 Bypass, Greenville, SC 29617",
+    "phone": "(864) 834-7342",
+    "url": "https://www.northgreenvillecrisisministry.org/",
+    "categorySlug": "food",
+    "zipCode": "29617"
+  },
+  {
+    "name": "First Baptist Church of Conestee Food Pantry - Fountain Inn",
+    "description": "Church providing hot meals for homeless and low-income residents in the Fountain Inn area of southern Greenville County.",
+    "address": "145 2nd Street, Fountain Inn, SC 29644",
+    "phone": "(864) 277-1175",
+    "url": "https://www.needhelppayingbills.com/html/greenville_food_pantries_and_b.html",
+    "categorySlug": "food",
+    "zipCode": "29644"
+  },
+  {
+    "name": "Food Bank of Greenwood County",
+    "description": "County food bank providing emergency food packages to qualifying individuals and families residing in Greenwood County. Open Tuesday through Thursday mornings for distribution.",
+    "address": "929 Phoenix Street, Greenwood, SC 29646",
+    "phone": "(864) 227-1556",
+    "url": "https://www.gwdfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "29646"
+  },
+  {
+    "name": "Salvation Army of Greenwood - Food Pantry",
+    "description": "Salvation Army corps providing free food pantry services Monday through Thursday for Greenwood County residents. Also offers emergency financial assistance.",
+    "address": "222 Pressley Street, Greenwood, SC 29646",
+    "phone": "(864) 229-3407",
+    "url": "https://southcarolinafoodbanks.org/food-bank/salvation-army-of-greenwood/",
+    "categorySlug": "food",
+    "zipCode": "29646"
+  },
+  {
+    "name": "Greater Greenwood United Ministry (GGUM)",
+    "description": "Nonprofit ministry providing crisis assistance, emergency food pantry, free medical clinic, employment assistance, and financial coaching to Greenwood County residents.",
+    "address": "1404 Edgefield Street, Greenwood, SC 29646",
+    "phone": "(864) 942-0500",
+    "url": "https://www.greatergreenwoodunitedministry.org/",
+    "categorySlug": "community",
+    "zipCode": "29646"
+  },
+  {
+    "name": "Immanuel Lutheran Church Food Pantry - Greenwood",
+    "description": "Church food pantry open Tuesday and Thursday mornings for Greenwood County residents in need of grocery assistance.",
+    "address": "501 E Creswell Avenue, Greenwood, SC 29646",
+    "phone": "(864) 223-0590",
+    "url": "https://www.foodpantries.org/ci/sc-greenwood",
+    "categorySlug": "food",
+    "zipCode": "29646"
+  },
+  {
+    "name": "GLEAMNS Human Resources Commission",
+    "description": "Regional community action agency providing General Emergency Assistance, Low-Income Home Energy Assistance (LIHEAP), and other support programs across Greenwood, Edgefield, Laurens, and surrounding counties.",
+    "address": "237 N Hospital Street, Greenwood, SC 29646",
+    "phone": "(864) 223-8434",
+    "url": "https://gleamns.org/",
+    "categorySlug": "utilities",
+    "zipCode": "29646"
+  },
+  {
+    "name": "Food Pantry of Ware Shoals",
+    "description": "Local food pantry serving Ware Shoals and Greenwood County residents with regular food distributions. Operated as a community nonprofit with volunteer support.",
+    "address": "PO Box 6, Ware Shoals, SC 29692",
+    "phone": "",
+    "url": "https://www.foodpantryofwareshoals.org/",
+    "categorySlug": "food",
+    "zipCode": "29692"
+  },
+  {
+    "name": "Lowcountry Food Bank - Yemassee Regional Distribution Center",
+    "description": "Regional food distribution center serving Hampton, Colleton, Jasper, and Beaufort counties. Partners with 300 member feeding agencies including soup kitchens, shelters, and emergency food pantries.",
+    "address": "1 Guess Road, Yemassee, SC 29945",
+    "phone": "(843) 589-4118",
+    "url": "https://lowcountryfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "29945"
+  },
+  {
+    "name": "Lowcountry Community Action Association - Estill Office",
+    "description": "Community action agency serving Hampton County with food assistance, utility help, and other emergency services for low-income residents.",
+    "address": "768 First Street, Estill, SC 29918",
+    "phone": "(803) 625-9681",
+    "url": "https://lowcountrycaa.org/",
+    "categorySlug": "community",
+    "zipCode": "29918"
+  },
+  {
+    "name": "Lowcountry Community Action Association - Hampton Office",
+    "description": "Community action agency providing food pantry, emergency assistance, and social services programs to Hampton County residents.",
+    "address": "102 Ginn Altman Boulevard, Hampton, SC 29924",
+    "phone": "(803) 914-0601",
+    "url": "https://lowcountrycaa.org/",
+    "categorySlug": "community",
+    "zipCode": "29924"
+  },
+  {
+    "name": "Second Helpings - Lowcountry Food Rescue",
+    "description": "Nonprofit food rescue and distribution network eliminating hunger and food waste in Beaufort, Jasper, and Hampton counties. Partners with 57 local food pantries, soup kitchens, and family programs.",
+    "address": "PO Box 23621, Hilton Head Island, SC 29925",
+    "phone": "(843) 689-3689",
+    "url": "https://www.secondhelpingslc.org/",
+    "categorySlug": "food",
+    "zipCode": "29925"
+  },
+  {
+    "name": "Lowcountry Food Bank - Yemassee Distribution Center",
+    "description": "Regional food bank serving 10 coastal counties of South Carolina including Hampton County. Distributes food to partner agencies and provides emergency food boxes to individuals in need.",
+    "address": "1 Guess Rd, Yemassee, SC 29945",
+    "phone": "(843) 589-4118",
+    "url": "https://lowcountryfoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "29944"
+  },
+  {
+    "name": "Lowcountry Community Action Agency - Hampton Office",
+    "description": "Community action agency providing emergency assistance, utility help, rental assistance, and weatherization services to low-income residents of Colleton and Hampton counties.",
+    "address": "102 Ginn Altman St, Hampton, SC 29924",
+    "phone": "(803) 914-0601",
+    "url": "https://www.lowcountrycaa.org",
+    "categorySlug": "community",
+    "zipCode": "29932"
+  },
+  {
+    "name": "Hampton County Council on Aging",
+    "description": "Provides meals and supportive services to senior residents of Hampton County aged 60 and older, including congregate and home-delivered meal programs.",
+    "address": "108 Pine St, Hampton, SC 29924",
+    "phone": "(803) 943-7555",
+    "url": "https://www.hamptoncountysc.org",
+    "categorySlug": "community",
+    "zipCode": "29932"
+  },
+  {
+    "name": "Salvation Army - Colleton and Hampton Counties",
+    "description": "Provides emergency financial assistance, food pantry services, and a thrift store to residents of Colleton and Hampton counties facing crisis situations.",
+    "address": "Hampton County, SC",
+    "phone": "(843) 524-3727",
+    "url": "https://www.salvationarmyusa.org",
+    "categorySlug": "food",
+    "zipCode": "29932"
+  },
+  {
+    "name": "Waccamaw Economic Opportunity Council (EOC)",
+    "description": "Community action agency offering food pantry, Head Start, rent and utility bill payment assistance (LIHEAP), prescription assistance, and weatherization programs to residents of Horry, Williamsburg, and Georgetown counties.",
+    "address": "1261 Hwy 501 East Suite B, Conway, SC 29526",
+    "phone": "(843) 234-4100",
+    "url": "https://www.needhelppayingbills.com/html/waccamaw_economic_opportunity_.html",
+    "categorySlug": "community",
+    "zipCode": "29526"
+  },
+  {
+    "name": "Salvation Army of Horry County",
+    "description": "Provides food pantry services and emergency assistance to residents of Horry County, including the Conway area, operating Monday through Friday.",
+    "address": "1413 2nd Ave, Conway, SC 29526",
+    "phone": "(843) 488-2769",
+    "url": "https://www.salvationarmyusa.org/sc/conway/2nd-ave-corps/",
+    "categorySlug": "food",
+    "zipCode": "29526"
+  },
+  {
+    "name": "The Shepherd's Table",
+    "description": "Community meal and food pantry program offering free hot meals Monday through Friday from 11 a.m. to noon (lunch) and 4 to 5:30 p.m. (dinner) to Conway-area residents.",
+    "address": "1412 Gamecock Ave Suite A, Conway, SC 29526",
+    "phone": "(843) 488-3663",
+    "url": "https://www.shepherdstableconway.org",
+    "categorySlug": "food",
+    "zipCode": "29526"
+  },
+  {
+    "name": "Catholic Charities - Pee Dee and Horry County",
+    "description": "Provides food pantry services and social assistance to individuals and families in Horry County, operating out of the Conway area.",
+    "address": "2294 Technology Blvd, Conway, SC 29526",
+    "phone": "(843) 438-3108",
+    "url": "https://www.catholiccharitiessc.org",
+    "categorySlug": "food",
+    "zipCode": "29526"
+  },
+  {
+    "name": "Churches Assisting People (CAP)",
+    "description": "Nonprofit providing basic needs assistance including food, rent, and utility help to residents in Horry County.",
+    "address": "307 Wright Blvd, Conway, SC 29526",
+    "phone": "(843) 488-2277",
+    "url": "https://unitedwayhorry.org",
+    "categorySlug": "community",
+    "zipCode": "29526"
+  },
+  {
+    "name": "Juniper Bay Baptist Church Food Pantry",
+    "description": "Faith-based food pantry serving residents of the Conway and Horry County area with free groceries and emergency food assistance.",
+    "address": "5265 Juniper Bay Rd, Conway, SC 29527",
+    "phone": "(843) 397-2787",
+    "url": "https://unitedwayhorry.org/food-resources/",
+    "categorySlug": "food",
+    "zipCode": "29527"
+  },
+  {
+    "name": "Project Restoring Hope",
+    "description": "Community outreach organization providing food pantry and emergency assistance services to residents of the Conway area.",
+    "address": "290 Dunn Shortcut Rd, Conway, SC 29527",
+    "phone": "(843) 365-7742",
+    "url": "https://unitedwayhorry.org/food-resources/",
+    "categorySlug": "food",
+    "zipCode": "29527"
+  },
+  {
+    "name": "North Strand Helping Hand",
+    "description": "Emergency aid organization providing food, SNAP application assistance, Medicaid help, clothing, and hygiene items to residents of the North Strand community including Longs and Loris.",
+    "address": "2501 Long Bay Rd, Longs, SC 29568",
+    "phone": "(843) 399-0862",
+    "url": "https://northstrandhelpinghand.org",
+    "categorySlug": "food",
+    "zipCode": "29568"
+  },
+  {
+    "name": "Father's Cup Ministry Community Pantry",
+    "description": "Community food pantry offering free food and emergency assistance to residents of the Longs area in Horry County.",
+    "address": "2357 Water Tower Rd, Longs, SC 29568",
+    "phone": "(843) 399-1798",
+    "url": "https://unitedwayhorry.org/food-resources/",
+    "categorySlug": "food",
+    "zipCode": "29568"
+  },
+  {
+    "name": "St. Joseph Missionary Baptist Church Food Pantry",
+    "description": "Faith-based food pantry serving residents of the Little River community with free groceries and emergency food assistance.",
+    "address": "1005 Sandridge Rd, Little River, SC 29566",
+    "phone": "(843) 399-1100",
+    "url": "https://unitedwayhorry.org/food-resources/",
+    "categorySlug": "food",
+    "zipCode": "29566"
+  },
+  {
+    "name": "South Strand Helping Hand",
+    "description": "Emergency aid organization providing food assistance, SNAP application help, and basic needs support to residents of the South Strand area including Surfside Beach.",
+    "address": "812 Poplar Dr S, Surfside Beach, SC 29575",
+    "phone": "(843) 238-4594",
+    "url": "https://www.southstrandhelpinghand.com",
+    "categorySlug": "food",
+    "zipCode": "29575"
+  },
+  {
+    "name": "Helping Hand of Myrtle Beach",
+    "description": "Provides emergency food (five-day supply), rent and utility assistance, and benefits screening to individuals and families facing short-term hardship in the Myrtle Beach area.",
+    "address": "1411 Mr. Joe White Ave Unit B, Myrtle Beach, SC 29577",
+    "phone": "(843) 448-8451",
+    "url": "https://www.helpinghandmb.org",
+    "categorySlug": "food",
+    "zipCode": "29577"
+  },
+  {
+    "name": "New Directions of Horry County",
+    "description": "Operates separate shelter facilities for men, women, and families, providing emergency shelter, meals, and programs to help individuals recover from homelessness, poverty, and addiction.",
+    "address": "1005 Osceola St, Myrtle Beach, SC 29577",
+    "phone": "(843) 945-4902",
+    "url": "https://helpnewdirections.org",
+    "categorySlug": "housing",
+    "zipCode": "29577"
+  },
+  {
+    "name": "Community Kitchen of Myrtle Beach",
+    "description": "Operates a soup kitchen open 365 days a year providing free breakfast and lunch meals to anyone in need in the Myrtle Beach area.",
+    "address": "1411 Mr. Joe White Ave, Myrtle Beach, SC 29577",
+    "phone": "(843) 444-9383",
+    "url": "https://communitykitchenmb.org",
+    "categorySlug": "food",
+    "zipCode": "29577"
+  },
+  {
+    "name": "Lowcountry Food Bank - Horry County Branch",
+    "description": "Local branch of the regional food bank providing food distribution and emergency food assistance to residents of Horry County.",
+    "address": "4716 Northgate Blvd, Myrtle Beach, SC 29577",
+    "phone": "(843) 448-0341",
+    "url": "https://lowcountryfoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "29577"
+  },
+  {
+    "name": "Coastal Rescue Mission",
+    "description": "Provides emergency shelter, food pantry, and thrift store services to homeless and low-income residents of the Grand Strand area, including a dedicated shelter for women and children.",
+    "address": "204 George Bishop Pkwy, Myrtle Beach, SC 29579",
+    "phone": "(843) 448-1352",
+    "url": "https://myrtlebeach.graceslist.org/directory/listing/coastal-rescue-mission-inc",
+    "categorySlug": "housing",
+    "zipCode": "29579"
+  },
+  {
+    "name": "Coastal Rescue Mission",
+    "description": "Provides emergency shelter, food pantry, and thrift store services to homeless and low-income residents of the Grand Strand area, including a dedicated shelter for homeless women and children.",
+    "address": "204 George Bishop Pkwy, Myrtle Beach, SC 29579",
+    "phone": "(843) 448-1352",
+    "url": "https://myrtlebeach.graceslist.org/directory/listing/coastal-rescue-mission-inc",
+    "categorySlug": "housing",
+    "zipCode": "29579"
+  },
+  {
+    "name": "Hope's Kitchen - North Myrtle Beach",
+    "description": "Offers hot meals on Tuesday evenings, showers, and personal hygiene items to individuals experiencing homelessness or food insecurity in the North Myrtle Beach area.",
+    "address": "410 6th Ave S, North Myrtle Beach, SC 29582",
+    "phone": "(843) 945-4902",
+    "url": "https://unitedwayhorry.org/food-resources/",
+    "categorySlug": "food",
+    "zipCode": "29582"
+  },
+  {
+    "name": "Jasper County Food Bank",
+    "description": "Volunteer-run food bank distributing food to families in need every Thursday in Jasper County, addressing hunger through partnerships with food warehouse networks.",
+    "address": "1506 Grays Hwy, Ridgeland, SC 29936",
+    "phone": "(843) 602-9747",
+    "url": "https://jaspercountyfoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "29936"
+  },
+  {
+    "name": "Second Helpings",
+    "description": "Nonprofit food rescue and distribution network that partners with over 65 local agencies to distribute food throughout Beaufort, Jasper, and Hampton counties.",
+    "address": "Hilton Head Island, SC",
+    "phone": "(843) 689-3689",
+    "url": "https://www.secondhelpingslc.org",
+    "categorySlug": "food",
+    "zipCode": "29927"
+  },
+  {
+    "name": "Lowcountry Food Bank - Yemassee Distribution Center",
+    "description": "Regional food bank distribution center serving Jasper County and 9 other coastal South Carolina counties, providing food to partner agencies and emergency food boxes to individuals.",
+    "address": "1 Guess Rd, Yemassee, SC 29945",
+    "phone": "(843) 589-4118",
+    "url": "https://lowcountryfoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "29934"
+  },
+  {
+    "name": "Lowcountry Community Action Agency",
+    "description": "Community action agency providing emergency assistance, utility help, rental assistance, and weatherization services to low-income residents of Jasper and Colleton counties.",
+    "address": "1634 Campground Rd, Yemassee, SC 29945",
+    "phone": "(843) 549-5576",
+    "url": "https://www.lowcountrycaa.org",
+    "categorySlug": "community",
+    "zipCode": "29943"
+  },
+  {
+    "name": "Food For the Soul",
+    "description": "Faith-based Christian mission in Camden serving free home-cooked lunches four days a week to anyone in need, and providing cold weather and crisis sheltering to community members.",
+    "address": "110-A East DeKalb St, Camden, SC 29020",
+    "phone": "(803) 432-4771",
+    "url": "https://www.foodpantries.org/ci/sc-camden",
+    "categorySlug": "food",
+    "zipCode": "29020"
+  },
+  {
+    "name": "KARE - Kershaw Area Resource Exchange",
+    "description": "Food pantry providing each member of a household with a week's worth of food per visit, including meats, produce, dairy, and non-perishable items.",
+    "address": "110 S Hart St, Kershaw, SC 29067",
+    "phone": "(803) 475-4173",
+    "url": "https://www.foodpantries.org/ci/sc-camden",
+    "categorySlug": "food",
+    "zipCode": "29067"
+  },
+  {
+    "name": "The Way Church Food Pantry - Lugoff",
+    "description": "Faith-based food pantry in Lugoff providing free groceries and emergency food assistance to residents of the Kershaw County area.",
+    "address": "937 Hwy 1 S, Lugoff, SC 29078",
+    "phone": "(803) 438-5484",
+    "url": "https://www.foodpantries.org/ci/sc-camden",
+    "categorySlug": "food",
+    "zipCode": "29078"
+  },
+  {
+    "name": "Unity United Methodist Church Food Distribution",
+    "description": "Operates a bi-weekly food distribution in partnership with United Way, providing groceries to Lugoff-area residents every other Saturday from 10 a.m. to noon.",
+    "address": "Lugoff, SC 29078",
+    "phone": "(803) 438-1960",
+    "url": "https://www.kershawcountylibrary.org/wp-content/uploads/2024/11/KCL-Resource-Directory-UPDATE.pdf",
+    "categorySlug": "food",
+    "zipCode": "29078"
+  },
+  {
+    "name": "Christian Assistance Bridge - Blythewood",
+    "description": "Provides housing and financial assistance to residents of Kershaw County and surrounding areas, serving communities including Elgin, Blythewood, and Ridgeway.",
+    "address": "Blythewood, SC 29016",
+    "phone": "(803) 786-1903",
+    "url": "https://www.kershawcountylibrary.org/wp-content/uploads/2024/11/KCL-Resource-Directory-UPDATE.pdf",
+    "categorySlug": "housing",
+    "zipCode": "29045"
+  },
+  {
+    "name": "Harvest Hope Food Bank - Columbia",
+    "description": "South Carolina's largest food bank providing emergency food pantries with a 5 to 6 day food supply, serving Kershaw County residents through a network of partner agencies.",
+    "address": "2220 Shop Rd, Columbia, SC 29201",
+    "phone": "(803) 254-4432",
+    "url": "https://www.harvesthope.org",
+    "categorySlug": "food",
+    "zipCode": "29032"
+  },
+  {
+    "name": "Kershaw Baptist Association - Sacks of Love",
+    "description": "Provides food to school-aged children to take home on weekends and over holidays through the Kershaw County School District's backpack program.",
+    "address": "Camden, SC 29020",
+    "phone": "(803) 432-3028",
+    "url": "https://www.kershawcountylibrary.org/wp-content/uploads/2024/11/KCL-Resource-Directory-UPDATE.pdf",
+    "categorySlug": "food",
+    "zipCode": "29020"
+  },
+  {
+    "name": "KARE - Kershaw Area Resource Exchange",
+    "description": "Food pantry providing each member of a household with a week's worth of food per visit, including meats, produce, dairy, and non-perishable items.",
+    "address": "110 S Hart St, Kershaw, SC 29067",
+    "phone": "(803) 475-4173",
+    "url": "https://www.foodpantries.org/ci/sc-camden",
+    "categorySlug": "food",
+    "zipCode": "29067"
+  },
+  {
+    "name": "HOPE In Lancaster",
+    "description": "Supports food security and economic mobility for all Lancaster County communities, offering fresh and healthy food pantry access, emergency financial help with rent, utilities, and other basic needs.",
+    "address": "Lancaster, SC 29720",
+    "phone": "(803) 285-5844",
+    "url": "https://hopeinlancaster.org",
+    "categorySlug": "food",
+    "zipCode": "29720"
+  },
+  {
+    "name": "Christian Services of Lancaster County - Food Pantry",
+    "description": "Provides monthly food pantry distributions to qualifying Lancaster County households meeting income guidelines, with new clients required to show proof of county residency.",
+    "address": "Lancaster, SC 29720",
+    "phone": "(803) 285-5844",
+    "url": "https://www.christianserviceslsc.com/food",
+    "categorySlug": "food",
+    "zipCode": "29720"
+  },
+  {
+    "name": "Lancaster County Food Hub",
+    "description": "Community hub providing food, clothing, and a safe space with services to the most needy and marginalized members of Lancaster County, building on 75+ years of charitable service.",
+    "address": "Lancaster, SC 29720",
+    "phone": "(803) 283-8850",
+    "url": "https://lancasterfoodhub.org",
+    "categorySlug": "food",
+    "zipCode": "29720"
+  },
+  {
+    "name": "United Ministries of Clinton",
+    "description": "Provides free food pantry distributions on Tuesday and Thursday from 1 to 3 p.m. as well as utility financial assistance to low-income families in Clinton and Laurens County.",
+    "address": "500 Academy St, Clinton, SC 29325",
+    "phone": "(864) 938-9070",
+    "url": "https://www.unitedministriesofclinton.com",
+    "categorySlug": "food",
+    "zipCode": "29325"
+  },
+  {
+    "name": "Geraldine's Soup Kitchen - Open Door Christian Center",
+    "description": "Provides free meals five days a week in Clinton, serving Laurens County residents experiencing hunger, with meal distribution Monday through Saturday from noon to 1 p.m.",
+    "address": "209 E Main St, Clinton, SC 29325",
+    "phone": "(864) 833-7670",
+    "url": "https://www.foodpantries.org/ci/sc-clinton",
+    "categorySlug": "food",
+    "zipCode": "29325"
+  },
+  {
+    "name": "Laurens County Food Ministry",
+    "description": "Food pantry distributing food to those in need in Laurens County on Mondays from 9 a.m. to 1 p.m. Serves Gray Court and surrounding communities.",
+    "address": "168 Stoddard Mill Rd, Gray Court, SC 29645",
+    "phone": "(864) 862-2668",
+    "url": "https://www.foodpantries.org/co/sc-laurens",
+    "categorySlug": "food",
+    "zipCode": "29645"
+  },
+  {
+    "name": "Food Pantry of Ware Shoals",
+    "description": "Community food pantry open on Fridays from 11 a.m. to 2 p.m. providing free food to residents of Ware Shoals and the surrounding Laurens County area.",
+    "address": "2 Mill St, Ware Shoals, SC 29692",
+    "phone": "(864) 824-8434",
+    "url": "https://www.foodpantries.org/co/sc-laurens",
+    "categorySlug": "food",
+    "zipCode": "29360"
+  },
+  {
+    "name": "Lee County Shared Hope",
+    "description": "Provides emergency shelter, counseling, healthcare, and job placement services for men, women, and family units experiencing homelessness in Lee County.",
+    "address": "202 N Dennis Ave, Bishopville, SC 29010",
+    "phone": "(803) 486-4155",
+    "url": "https://www.leecountysharedhope.com",
+    "categorySlug": "housing",
+    "zipCode": "29010"
+  },
+  {
+    "name": "CareSouth Carolina - Lee County Food Pantry",
+    "description": "Nonprofit community health center operating a food pantry in Lee County to address food insecurity among low-income residents of Bishopville and surrounding areas.",
+    "address": "106 Hospital Square, Bishopville, SC 29010",
+    "phone": "(843) 413-4100",
+    "url": "https://www.caresouth-carolina.com",
+    "categorySlug": "food",
+    "zipCode": "29010"
+  },
+  {
+    "name": "Harvest Hope Food Bank - Pee Dee Region",
+    "description": "Provides emergency food pantries offering a 5 to 6 day food supply to residents in need across Lee and surrounding Pee Dee region counties through its partner agency network.",
+    "address": "Florence, SC",
+    "phone": "(843) 661-0826",
+    "url": "https://www.harvesthope.org",
+    "categorySlug": "food",
+    "zipCode": "29046"
+  },
+  {
+    "name": "Harvest Hope Food Bank - Columbia",
+    "description": "South Carolina's largest food bank providing emergency food assistance to residents of Lexington County through a network of 330+ partner agencies.",
+    "address": "2220 Shop Rd, Columbia, SC 29201",
+    "phone": "(803) 254-4432",
+    "url": "https://www.harvesthope.org",
+    "categorySlug": "food",
+    "zipCode": "29006"
+  },
+  {
+    "name": "We Care Center - Chapin",
+    "description": "Provides food pantry assistance, financial aid, and medication help to the working poor and low-income families in the Chapin and Lexington County area.",
+    "address": "1808 Chapin Rd, Chapin, SC 29036",
+    "phone": "(803) 345-3244",
+    "url": "https://help.sengov.com/posts/free-food-pantries-lexington-county-sc",
+    "categorySlug": "food",
+    "zipCode": "29036"
+  },
+  {
+    "name": "Christian Ministry Center - Leesville",
+    "description": "Community ministry providing food pantry and emergency assistance services to residents of Leesville and surrounding Lexington County communities.",
+    "address": "1408 Summerland Ave, Leesville, SC 29070",
+    "phone": "(803) 532-0033",
+    "url": "https://www.needhelppayingbills.com/html/lexington_county_food_pantries.html",
+    "categorySlug": "food",
+    "zipCode": "29070"
+  },
+  {
+    "name": "We Care Center - Chapin",
+    "description": "Provides food pantry assistance, financial aid, and medication help to the working poor and low-income families in the Chapin and Lexington County area.",
+    "address": "1808 Chapin Rd, Chapin, SC 29036",
+    "phone": "(803) 345-3244",
+    "url": "https://help.sengov.com/posts/free-food-pantries-lexington-county-sc",
+    "categorySlug": "food",
+    "zipCode": "29036"
+  },
+  {
+    "name": "Harvest Hope Food Bank - Columbia",
+    "description": "South Carolina's largest food bank providing emergency food assistance through a network of 330+ partner agencies serving Lexington County residents.",
+    "address": "2220 Shop Rd, Columbia, SC 29201",
+    "phone": "(803) 254-4432",
+    "url": "https://www.harvesthope.org",
+    "categorySlug": "food",
+    "zipCode": "29053"
+  },
+  {
+    "name": "Aiken-Barnwell Community Action Agency - Cayce",
+    "description": "Assists with SNAP food stamp applications and provides emergency food boxes, clothing, and public aid referrals to low-income residents in the Cayce and Lexington County area.",
+    "address": "650 Knox Abbott Dr Suite B, Cayce, SC 29033",
+    "phone": "(803) 794-6778",
+    "url": "https://www.needhelppayingbills.com/html/lexington_county_food_pantries.html",
+    "categorySlug": "food",
+    "zipCode": "29033"
+  },
+  {
+    "name": "Harvest Hope Food Bank - Cayce Pantry",
+    "description": "Food bank pantry location in Cayce collecting and distributing free food to low-to-moderate income families and individuals in Lexington County.",
+    "address": "1775 12th St, Cayce, SC 29033",
+    "phone": "(803) 794-1627",
+    "url": "https://www.harvesthope.org",
+    "categorySlug": "food",
+    "zipCode": "29033"
+  },
+  {
+    "name": "Christian Ministry Center - Leesville",
+    "description": "Community ministry providing food pantry and emergency assistance services to residents of Leesville and surrounding Lexington County communities.",
+    "address": "1408 Summerland Ave, Leesville, SC 29070",
+    "phone": "(803) 532-0033",
+    "url": "https://www.needhelppayingbills.com/html/lexington_county_food_pantries.html",
+    "categorySlug": "food",
+    "zipCode": "29070"
+  },
+  {
+    "name": "Mission Lexington",
+    "description": "Provides financial assistance and emergency support to residents of Lexington County facing crisis situations.",
+    "address": "216 Harmon St, Lexington, SC 29072",
+    "phone": "(803) 957-6656",
+    "url": "https://www.missionlexingtonsc.org",
+    "categorySlug": "community",
+    "zipCode": "29072"
+  },
+  {
+    "name": "Lexington Community Action Agency",
+    "description": "Combines short-term emergency help with long-term stability assistance, providing referrals to food pantries, seasonal clothing, and other community support services.",
+    "address": "216 Harmon St, Lexington, SC 29072",
+    "phone": "(803) 957-6656",
+    "url": "https://www.needhelppayingbills.com/html/lexington_county_food_pantries.html",
+    "categorySlug": "community",
+    "zipCode": "29072"
+  },
+  {
+    "name": "Mount Pleasant Swansea Outreach Foundation",
+    "description": "Community outreach food pantry in Swansea available on Wednesdays for emergency food assistance to residents of the Lexington County area.",
+    "address": "505 S Church St, Swansea, SC 29160",
+    "phone": "(803) 260-6786",
+    "url": "https://www.needhelppayingbills.com/html/lexington_county_food_pantries.html",
+    "categorySlug": "food",
+    "zipCode": "29160"
+  },
+  {
+    "name": "God's Storehouse of Lexington County",
+    "description": "Provides groceries, baby formula, clothing, and SNAP application assistance to low-income families and individuals in the Columbia and Lexington County area.",
+    "address": "1731 Risley Rd, Columbia, SC 29223",
+    "phone": "(803) 691-1622",
+    "url": "https://www.needhelppayingbills.com/html/lexington_county_food_pantries.html",
+    "categorySlug": "food",
+    "zipCode": "29212"
+  },
+  {
+    "name": "Sharing God's Love - Irmo",
+    "description": "Provides clothing, food, medications, and household goods to families and individuals in need in the Irmo and west Columbia area of Lexington County.",
+    "address": "147 Friarsgate Blvd, Irmo, SC 29063",
+    "phone": "(803) 732-3188",
+    "url": "https://www.needhelppayingbills.com/html/lexington_county_food_pantries.html",
+    "categorySlug": "community",
+    "zipCode": "29212"
+  },
+  {
+    "name": "Marion County Food Bank",
+    "description": "Local food bank helping Marion County families facing food insecurity by providing free food distributions on a regular schedule.",
+    "address": "Marion, SC 29571",
+    "phone": "(843) 431-0707",
+    "url": "https://marioncountyfoodbank.com",
+    "categorySlug": "food",
+    "zipCode": "29571"
+  },
+  {
+    "name": "Harvest Hope Food Bank - Pee Dee Region",
+    "description": "Provides emergency food pantry services to residents of Marion County through a network of partner agencies, offering a 5 to 6 day supply of food to those in need.",
+    "address": "Florence, SC",
+    "phone": "(843) 661-0826",
+    "url": "https://www.harvesthope.org",
+    "categorySlug": "food",
+    "zipCode": "29546"
+  },
+  {
+    "name": "Marion County Food Bank",
+    "description": "Local food bank helping Marion County families facing food insecurity by providing free food distributions to those in need.",
+    "address": "Marion, SC 29571",
+    "phone": "(843) 431-0707",
+    "url": "https://marioncountyfoodbank.com",
+    "categorySlug": "food",
+    "zipCode": "29574"
+  },
+  {
+    "name": "Harvest Hope Food Bank - Pee Dee Region",
+    "description": "Provides emergency food pantry services to residents of Marion and Marlboro counties through partner agencies, offering a 5 to 6 day supply of food to those in need.",
+    "address": "Florence, SC",
+    "phone": "(843) 661-0826",
+    "url": "https://www.harvesthope.org",
+    "categorySlug": "food",
+    "zipCode": "29589"
+  },
+  {
+    "name": "Bread of Life Food Pantry",
+    "description": "Community food pantry in Bennettsville providing free groceries to low-income families, single parents, senior citizens, veterans, and working poor on the 2nd and 4th Friday of each month.",
+    "address": "116 Broad St, Bennettsville, SC 29512",
+    "phone": "(843) 535-0950",
+    "url": "https://www.rise4me.com/resources/bread-of-life-food-pantry-4/",
+    "categorySlug": "food",
+    "zipCode": "29512"
+  },
+  {
+    "name": "Marlboro County Department of Social Services",
+    "description": "Government agency providing SNAP/EBT applications, Medicaid, emergency assistance, and referrals to local food and housing resources for Marlboro County residents.",
+    "address": "713 S Parsonage St Ext, Bennettsville, SC 29512",
+    "phone": "(843) 479-7181",
+    "url": "https://dss.sc.gov",
+    "categorySlug": "community",
+    "zipCode": "29512"
+  },
+  {
+    "name": "McArn Food Bank - Cheraw",
+    "description": "Community food bank in Cheraw distributing free food to families and individuals in need in Chesterfield County, open the 1st Thursday of each month.",
+    "address": "131 2nd St, Cheraw, SC 29520",
+    "phone": "(843) 537-0642",
+    "url": "https://www.freefood.org/l/sc_29520_mcarn-food-bank",
+    "categorySlug": "food",
+    "zipCode": "29516"
+  },
+  {
+    "name": "Helping Hands Outreach Center - Cheraw",
+    "description": "Community outreach center providing food pantry and emergency assistance to residents of Cheraw and Chesterfield County.",
+    "address": "1099 US-1, Cheraw, SC 29520",
+    "phone": "(843) 320-9099",
+    "url": "https://www.connectchesterfieldsc.org/community-partners-resources-1-2-1-1-t6zgk-1",
+    "categorySlug": "food",
+    "zipCode": "29516"
+  },
+  {
+    "name": "Chesterfield-Marlboro Economic Opportunity Council",
+    "description": "Provides housing rehabilitation assistance through the SC Housing Trust Fund program, as well as food and emergency assistance to residents of Chesterfield and Marlboro counties.",
+    "address": "Cheraw, SC 29520",
+    "phone": "(843) 537-7591",
+    "url": "https://www.connectchesterfieldsc.org/community-partners-resources-1-2-1-1-t6zgk-1",
+    "categorySlug": "housing",
+    "zipCode": "29570"
+  },
+  {
+    "name": "McCormick Food Pantry",
+    "description": "Community food pantry in McCormick providing free food assistance to residents facing food insecurity, open Tuesday mornings from 10 a.m. to 1 p.m.",
+    "address": "211 S Main St, McCormick, SC 29835",
+    "phone": "(864) 602-9747",
+    "url": "https://southcarolinafoodbanks.org/food-bank/mccormick-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "29835"
+  },
+  {
+    "name": "Helping Hands United Incorporated - McCormick",
+    "description": "Volunteer-run nonprofit operating both a thrift store and food pantry in McCormick County, serving the community with free food and affordable goods.",
+    "address": "McCormick, SC 29835",
+    "phone": "(864) 602-9747",
+    "url": "https://visit.mccormickscchamber.org/list/member/helping-hands-united-incorporated-762",
+    "categorySlug": "community",
+    "zipCode": "29835"
+  },
+  {
+    "name": "Women in Unity of Edgefield",
+    "description": "Food pantry open Monday through Thursday from 10 a.m. to noon, providing free food assistance to Edgefield County residents after completing a brief application.",
+    "address": "3 Pecan Park, Edgefield, SC 29824",
+    "phone": "(803) 637-2010",
+    "url": "https://www.foodpantries.org/ci/sc-edgefield",
+    "categorySlug": "food",
+    "zipCode": "29821"
+  },
+  {
+    "name": "Pleasant Grove Baptist Church Food Pantry",
+    "description": "Faith-based food pantry in Edgefield County open on Saturdays from 9 to 11 a.m. providing free groceries to community members in need.",
+    "address": "1120 Hwy 25 N, Edgefield, SC 29824",
+    "phone": "(803) 637-1287",
+    "url": "https://www.foodpantries.org/ci/sc-edgefield",
+    "categorySlug": "food",
+    "zipCode": "29821"
+  },
+  {
+    "name": "The Living Hope Foundation - Newberry",
+    "description": "Community foundation operating the Daily Bread Food Pantry, serving approximately 200 families per month with food distributions every Thursday from 10 a.m. to 2 p.m.",
+    "address": "1830 Nance St, Newberry, SC 29108",
+    "phone": "(803) 945-4375",
+    "url": "https://www.livinghopenewberry.org",
+    "categorySlug": "food",
+    "zipCode": "29037"
+  },
+  {
+    "name": "The Living Hope Foundation - Newberry",
+    "description": "Community foundation operating the Daily Bread Food Pantry, serving approximately 200 families per month with food distributions every Thursday from 10 a.m. to 2 p.m.",
+    "address": "1830 Nance St, Newberry, SC 29108",
+    "phone": "(803) 945-4375",
+    "url": "https://www.livinghopenewberry.org",
+    "categorySlug": "food",
+    "zipCode": "29108"
+  },
+  {
+    "name": "Newberry Housing Authority",
+    "description": "Administers Housing Choice Voucher (Section 8) and public housing programs for low-income residents of Newberry County.",
+    "address": "3589 Grant Ave, Newberry, SC 29108",
+    "phone": "(803) 276-1049",
+    "url": "https://www.needhelppayingbills.com/html/south_carolina_food_banks.html",
+    "categorySlug": "housing",
+    "zipCode": "29108"
+  },
+  {
+    "name": "Manna House - Newberry",
+    "description": "Community food assistance program open on Tuesdays and Thursdays from 1 to 2 p.m. providing free food to residents of Newberry County.",
+    "address": "2107 Wilson Rd, Newberry, SC 29108",
+    "phone": "(803) 924-5455",
+    "url": "https://www.needhelppayingbills.com/html/south_carolina_food_banks.html",
+    "categorySlug": "food",
+    "zipCode": "29108"
+  },
+  {
+    "name": "St. James AME Helping Hands Food Pantry",
+    "description": "Faith-based food pantry in Pomaria open on Thursdays from noon to 3 p.m. and Saturdays from noon to 4 p.m., serving Newberry County residents.",
+    "address": "8321 US Hwy 176, Pomaria, SC 29126",
+    "phone": "(803) 276-1988",
+    "url": "https://www.foodpantries.org/ci/sc-newberry",
+    "categorySlug": "food",
+    "zipCode": "29126"
+  },
+  {
+    "name": "Pomaria Community Food Bank",
+    "description": "Community food bank in Pomaria open Thursdays and Saturdays from noon to 4 p.m. providing free groceries to low-income residents of Newberry County.",
+    "address": "110 Victoria St, Pomaria, SC 29126",
+    "phone": "(803) 749-6789",
+    "url": "https://www.foodpantries.org/ci/sc-newberry",
+    "categorySlug": "food",
+    "zipCode": "29126"
+  },
+  {
+    "name": "Golden Corner Ministries Food Bank",
+    "description": "The largest food pantry in Oconee County, serving over 3,000 people each month with free groceries, holiday meals, and basic clothing items.",
+    "address": "635 Business Park Dr, Seneca, SC 29678",
+    "phone": "(864) 882-3610",
+    "url": "https://www.needhelppayingbills.com/html/oconee_county_assistance_progr.html",
+    "categorySlug": "food",
+    "zipCode": "29678"
+  },
+  {
+    "name": "Sunbelt Human Advancement Resources (SHARE) - Seneca",
+    "description": "Community action agency providing food pantry, meal programs, emergency assistance, utility help, housing support, and job placement services to Oconee County residents.",
+    "address": "708 E Main St, Seneca, SC 29678",
+    "phone": "(864) 882-3495",
+    "url": "https://www.needhelppayingbills.com/html/oconee_county_assistance_progr.html",
+    "categorySlug": "community",
+    "zipCode": "29678"
+  },
+  {
+    "name": "Oconee County Salvation Army",
+    "description": "Provides food pantry, thrift store, utility and housing assistance, and holiday support to low-income residents of Oconee County.",
+    "address": "100 Debra St, Seneca, SC 29678",
+    "phone": "(864) 882-1160",
+    "url": "https://www.salvationarmyusa.org",
+    "categorySlug": "food",
+    "zipCode": "29678"
+  },
+  {
+    "name": "Our Daily Bread - Seneca",
+    "description": "Provides free hot meals, hygiene kits, and support services to homeless individuals and the working poor in Seneca and Oconee County.",
+    "address": "106 Jordan St, Seneca, SC 29678",
+    "phone": "(864) 882-3308",
+    "url": "https://www.needhelppayingbills.com/html/oconee_county_assistance_progr.html",
+    "categorySlug": "food",
+    "zipCode": "29678"
+  },
+  {
+    "name": "Catholic Charities of the Upstate - Oconee",
+    "description": "Provides dental care, prescription assistance, rent assistance, and utility bill help to low-income residents of Oconee County.",
+    "address": "Oconee County, SC",
+    "phone": "(864) 242-2233",
+    "url": "https://www.catholiccharitiesupstate.org",
+    "categorySlug": "community",
+    "zipCode": "29678"
+  },
+  {
+    "name": "Harvest Hope Food Bank",
+    "description": "South Carolina's largest food bank providing emergency food pantry services through a network of 330+ partner agencies to residents of Newberry and Oconee counties.",
+    "address": "2220 Shop Rd, Columbia, SC 29201",
+    "phone": "(803) 254-4432",
+    "url": "https://www.harvesthope.org",
+    "categorySlug": "food",
+    "zipCode": "29355"
+  },
+  {
+    "name": "Golden Corner Food Pantry",
+    "description": "The largest food pantry in Oconee County, serving over 3,000 poor and disadvantaged people each month with emergency and supplemental food supplies and basic clothing.",
+    "address": "635 Business Park Dr, Seneca, SC 29678",
+    "phone": "(864) 882-3610",
+    "url": "https://www.needhelppayingbills.com/html/oconee_county_assistance_progr.html",
+    "categorySlug": "food",
+    "zipCode": "29686"
+  },
+  {
+    "name": "Christ Central Oconee - Walhalla",
+    "description": "Provides food bank services, transitional housing assistance, and job training programs to low-income residents of Walhalla and Oconee County.",
+    "address": "300 S Church St, Walhalla, SC 29691",
+    "phone": "(864) 638-3322",
+    "url": "https://oconee.myresourceguide.org",
+    "categorySlug": "food",
+    "zipCode": "29691"
+  },
+  {
+    "name": "Sunbelt Human Advancement Resources (SHARE) - Seneca",
+    "description": "Community action agency providing food pantry, meal programs, emergency assistance, utility help, housing support, and job placement services to Oconee County and surrounding area residents.",
+    "address": "708 E Main St, Seneca, SC 29678",
+    "phone": "(864) 882-3495",
+    "url": "https://www.needhelppayingbills.com/html/oconee_county_assistance_progr.html",
+    "categorySlug": "community",
+    "zipCode": "29693"
+  },
+  {
+    "name": "Oconee County Salvation Army",
+    "description": "Provides food pantry, thrift store, utility and housing assistance, and holiday support to low-income residents of Oconee County including the Westminster and Walhalla areas.",
+    "address": "100 Debra St, Seneca, SC 29678",
+    "phone": "(864) 882-1160",
+    "url": "https://www.salvationarmyusa.org",
+    "categorySlug": "food",
+    "zipCode": "29693"
+  },
+  {
+    "name": "South Carolina DSS - Oconee County",
+    "description": "Provides SNAP/EBT applications, housing assistance, utility bill help, and Medicaid enrollment for low-income residents of Oconee County.",
+    "address": "223 N Kenneth St, Walhalla, SC 29691",
+    "phone": "(864) 638-4400",
+    "url": "https://dss.sc.gov",
+    "categorySlug": "community",
+    "zipCode": "29691"
+  },
+  {
+    "name": "Cooperative Church Ministries of Orangeburg (CCMO)",
+    "description": "Affiliated with Harvest Hope Food Bank, provides food assistance and utility bill help (Project Good Neighbor) to Orangeburg residents Monday, Wednesday, and Friday from 9:30 a.m. to 12:30 p.m.",
+    "address": "2570 St. Matthews Rd, Orangeburg, SC 29118",
+    "phone": "(803) 531-4913",
+    "url": "https://myccmo.com",
+    "categorySlug": "food",
+    "zipCode": "29118"
+  },
+  {
+    "name": "Orangeburg County Salvation Army",
+    "description": "Provides food pantry services, rent and utility vouchers, gas assistance, clothing, and seasonal aid to residents of Orangeburg County.",
+    "address": "813 Nottingham St, Orangeburg, SC 29115",
+    "phone": "(803) 534-6805",
+    "url": "https://www.salvationarmyusa.org",
+    "categorySlug": "food",
+    "zipCode": "29115"
+  },
+  {
+    "name": "The Samaritan House - Orangeburg",
+    "description": "Provides rental assistance, utility bill help, and motel vouchers to Orangeburg County residents facing homelessness or eviction.",
+    "address": "1580 Middleton St, Orangeburg, SC 29115",
+    "phone": "(803) 809-1090",
+    "url": "https://volunteer.uway.org/agency/detail/?agency_id=151703",
+    "categorySlug": "housing",
+    "zipCode": "29115"
+  },
+  {
+    "name": "Shepherd Ministry Food Pantry at Saint Andrews UMC",
+    "description": "Faith-based food pantry distributing food boxes by appointment on Wednesdays and Fridays from 9 to 10:30 a.m. to Orangeburg County residents in need.",
+    "address": "1980 Columbia Rd, Orangeburg, SC 29115",
+    "phone": "(803) 539-2218",
+    "url": "https://southcarolinafoodbanks.org/food-bank/shepherd-ministry-food-pantry-at-saint-andrews-umc/",
+    "categorySlug": "food",
+    "zipCode": "29115"
+  },
+  {
+    "name": "Trinity United Methodist Church Food Bank",
+    "description": "Provides food bank services, a clothing closet, and occasional financial assistance for utility bills to residents of Orangeburg and Orangeburg County.",
+    "address": "185 Boulevard St, Orangeburg, SC 29115",
+    "phone": "(803) 534-7759",
+    "url": "https://www.needhelppayingbills.com/html/orangeburg_county_assistance_p.html",
+    "categorySlug": "food",
+    "zipCode": "29115"
+  },
+  {
+    "name": "Orangeburg Community Action Agency",
+    "description": "Provides LIHEAP heating and cooling assistance, emergency energy crisis grants, and job training to low-income residents of Orangeburg County.",
+    "address": "1822 Joe S Jeffords Hwy, Orangeburg, SC 29115",
+    "phone": "(803) 536-1027",
+    "url": "https://www.needhelppayingbills.com/html/orangeburg_county_assistance_p.html",
+    "categorySlug": "utilities",
+    "zipCode": "29115"
+  },
+  {
+    "name": "Christ Is The Answer SDA Church Food Pantry",
+    "description": "Faith-based food pantry open Tuesday and Friday from noon to 2 p.m. providing free food to residents of Orangeburg County.",
+    "address": "1202 Decatur St, Orangeburg, SC 29118",
+    "phone": "(803) 536-3600",
+    "url": "https://www.needhelppayingbills.com/html/orangeburg_county_free_food_pantrie.html",
+    "categorySlug": "food",
+    "zipCode": "29118"
+  },
+  {
+    "name": "Orangeburg County Council on Aging",
+    "description": "Provides senior meal programs and support services to elderly residents of Orangeburg County, including multiple community meal sites.",
+    "address": "2570 St. Matthews Rd, Orangeburg, SC 29118",
+    "phone": "(803) 531-4663",
+    "url": "https://www.needhelppayingbills.com/html/orangeburg_county_free_food_pantrie.html",
+    "categorySlug": "community",
+    "zipCode": "29118"
+  },
+  {
+    "name": "St. Mark United Methodist Church Food Pantry",
+    "description": "Faith-based food pantry in North, SC providing free food to residents of Orangeburg County facing food insecurity.",
+    "address": "8502 North Rd, North, SC 29112",
+    "phone": "(803) 247-2472",
+    "url": "https://www.needhelppayingbills.com/html/orangeburg_county_free_food_pantrie.html",
+    "categorySlug": "food",
+    "zipCode": "29112"
+  },
+  {
+    "name": "Orangeburg County Council on Aging - Branchville Senior Center",
+    "description": "Provides senior meal programs and supportive services to elderly residents of the Branchville area of Orangeburg County.",
+    "address": "101 Caboose Ct, Branchville, SC 29432",
+    "phone": "(803) 274-4332",
+    "url": "https://www.needhelppayingbills.com/html/orangeburg_county_free_food_pantrie.html",
+    "categorySlug": "community",
+    "zipCode": "29018"
+  },
+  {
+    "name": "Samaira Baptist Church Food Pantry",
+    "description": "Community food pantry distributing food boxes to those in need in Springfield and surrounding Orangeburg County areas. Open Saturday mornings from 8:00 to 11:00 AM.",
+    "address": "706 Samaira Rd, Springfield, SC 29146",
+    "phone": "(803) 258-3026",
+    "url": "https://www.foodpantries.org/li/samaira-baptist-church",
+    "categorySlug": "food",
+    "zipCode": "29146"
+  },
+  {
+    "name": "Orangeburg County Council on Aging - Vance Center",
+    "description": "Senior services center providing meals, nutrition assistance, and support services to elderly residents of Vance and surrounding Orangeburg County communities.",
+    "address": "10304 Old #6 Highway, Vance, SC 29163",
+    "phone": "(803) 492-7707",
+    "url": "https://www.orangeburgcountycouncilonaging.com",
+    "categorySlug": "community",
+    "zipCode": "29163"
+  },
+  {
+    "name": "Orangeburg County Council on Aging - Branchville Center",
+    "description": "Senior services center providing meals, nutrition assistance, and support services to elderly residents of Branchville and surrounding Orangeburg County communities.",
+    "address": "101 Caboose Court, Branchville, SC 29432",
+    "phone": "(803) 274-4332",
+    "url": "https://www.orangeburgcountycouncilonaging.com",
+    "categorySlug": "community",
+    "zipCode": "29432"
+  },
+  {
+    "name": "The Salvation Army of Orangeburg",
+    "description": "Provides food boxes, clothing assistance, and emergency social services to residents of Orangeburg County. No appointment needed for food distribution.",
+    "address": "813 Nottingham Street, Orangeburg, SC 29115",
+    "phone": "(803) 534-6805",
+    "url": "https://southernusa.salvationarmy.org",
+    "categorySlug": "food",
+    "zipCode": "29115"
+  },
+  {
+    "name": "The Samaritan House of Orangeburg",
+    "description": "Emergency shelter and transitional housing provider serving individuals and families in crisis in Orangeburg County, offering rest and basic needs support.",
+    "address": "1580 Middleton Street, Orangeburg, SC 29115",
+    "phone": "(803) 516-0088",
+    "url": "https://www.needhelppayingbills.com/html/orangeburg_county_free_food_pantrie.html",
+    "categorySlug": "housing",
+    "zipCode": "29115"
+  },
+  {
+    "name": "Orangeburg Community Action Agency",
+    "description": "Community action agency providing food assistance, utility help, and emergency support services to low-income residents of Orangeburg County.",
+    "address": "1822 Joe S. Jeffords Highway, Orangeburg, SC 29115",
+    "phone": "(803) 536-1027",
+    "url": "https://www.orangeburgcommunityaction.com",
+    "categorySlug": "community",
+    "zipCode": "29115"
+  },
+  {
+    "name": "Shepherd Ministry Food Pantry at Saint Andrews UMC",
+    "description": "Food pantry distributing food boxes by appointment on Wednesdays and Fridays from 9:00 to 10:30 AM to those in need in Orangeburg County.",
+    "address": "1980 Columbia Road, Orangeburg, SC 29115",
+    "phone": "(803) 539-2218",
+    "url": "https://www.foodpantries.org/li/shepherd-ministry",
+    "categorySlug": "food",
+    "zipCode": "29115"
+  },
+  {
+    "name": "Christian Assistance Bridge (CAB) Food Pantry",
+    "description": "Nonprofit food pantry serving Blythewood and northern Richland County residents every 60 days with groceries. Open Monday and Thursday, 9:00 AM to 1:00 PM.",
+    "address": "126 Blythewood Road, Blythewood, SC 29016",
+    "phone": "(803) 786-1903",
+    "url": "https://www.foodpantries.org/li/sc_29016_christian-assistance-bridge-cab",
+    "categorySlug": "food",
+    "zipCode": "29016"
+  },
+  {
+    "name": "United Christian Ministries - Easley",
+    "description": "Faith-based organization providing food pantry services and clothing assistance to individuals and families in need in Pickens County. Open Monday, Wednesday, and Friday from 9:00 AM to noon.",
+    "address": "303 Dacusville Hwy, Easley, SC 29640",
+    "phone": "(864) 671-1134",
+    "url": "https://www.foodpantries.org/co/sc-pickens",
+    "categorySlug": "food",
+    "zipCode": "29640"
+  },
+  {
+    "name": "Salvation Army of Pickens County",
+    "description": "Provides food, clothing, and emergency financial assistance to individuals and families in need throughout Pickens County. Open Monday through Friday, 9:00 AM to 5:30 PM.",
+    "address": "102 Stewart Drive, Easley, SC 29640",
+    "phone": "(864) 855-7198",
+    "url": "https://southernusa.salvationarmy.org/greenvillesc",
+    "categorySlug": "food",
+    "zipCode": "29640"
+  },
+  {
+    "name": "Pickens County Shelter of Hope",
+    "description": "The first and only emergency homeless shelter for Pickens County, providing safe shelter, food, and wraparound support services to individuals and families experiencing homelessness.",
+    "address": "201 South 5th Street, Easley, SC 29640",
+    "phone": "(864) 855-2557",
+    "url": "https://pcshelterofhope.wixsite.com/pcshelterofhope",
+    "categorySlug": "housing",
+    "zipCode": "29640"
+  },
+  {
+    "name": "Shine Soup Kitchen - Dream Center",
+    "description": "Community soup kitchen serving hot meals to those in need in Easley and Pickens County on Monday, Wednesday, and Thursday evenings.",
+    "address": "111 Hillcrest Drive, Easley, SC 29640",
+    "phone": "(864) 306-4582",
+    "url": "https://www.dreamcenterpc.org",
+    "categorySlug": "food",
+    "zipCode": "29640"
+  },
+  {
+    "name": "The Storehouse Pantry",
+    "description": "Weekly food pantry serving residents of Easley and Pickens County, distributing free groceries every Saturday from 10:00 to 11:00 AM.",
+    "address": "1021 S. Pendleton Street, Easley, SC 29642",
+    "phone": "(864) 920-3663",
+    "url": "https://www.foodpantries.org/co/sc-pickens",
+    "categorySlug": "food",
+    "zipCode": "29642"
+  },
+  {
+    "name": "Pickens County Meals on Wheels",
+    "description": "Delivers nutritious meals to homebound elderly and disabled residents throughout Pickens County who are unable to prepare their own food.",
+    "address": "349 Edgemont Ave, Liberty, SC 29657",
+    "phone": "(864) 855-3770",
+    "url": "https://www.foodpantries.org/co/sc-pickens",
+    "categorySlug": "food",
+    "zipCode": "29657"
+  },
+  {
+    "name": "New Hope Baptist Church Food Pantry",
+    "description": "Church-based food pantry providing free groceries to individuals and families in Liberty and surrounding Pickens County communities on Saturday mornings.",
+    "address": "Highway 93, Liberty, SC 29657",
+    "phone": "(864) 843-9623",
+    "url": "https://www.foodpantries.org/co/sc-pickens",
+    "categorySlug": "food",
+    "zipCode": "29657"
+  },
+  {
+    "name": "Seventh Day Adventist Church Food Pantry - Pickens",
+    "description": "Church-based food pantry distributing free groceries to residents of Pickens and surrounding Pickens County communities on Tuesday mornings.",
+    "address": "2503 Gentry Memorial Hwy, Pickens, SC 29671",
+    "phone": "(864) 878-6897",
+    "url": "https://www.foodpantries.org/co/sc-pickens",
+    "categorySlug": "food",
+    "zipCode": "29671"
+  },
+  {
+    "name": "Griffin Ebenezer Baptist Church Food Pantry",
+    "description": "Faith-based food pantry providing groceries to individuals and families experiencing food insecurity in the Pickens area, open Tuesday mornings from 8:00 to 11:00 AM.",
+    "address": "450 Garvin Street, Pickens, SC 29671",
+    "phone": "(864) 878-4936",
+    "url": "https://www.foodpantries.org/co/sc-pickens",
+    "categorySlug": "food",
+    "zipCode": "29671"
+  },
+  {
+    "name": "Family Promise of Pickens County",
+    "description": "Provides shelter, meals, and comprehensive support services to homeless families with children through a network of host churches, working toward permanent housing stability.",
+    "address": "Easley, SC 29640",
+    "phone": "(864) 644-8886",
+    "url": "https://www.familypromisepickenscounty.org",
+    "categorySlug": "housing",
+    "zipCode": "29640"
+  },
+  {
+    "name": "Harvest Hope Food Bank - Midlands",
+    "description": "South Carolina's largest food bank providing emergency food assistance and operating a direct-service pantry Monday through Friday. Serves Richland, Saluda, Orangeburg, and surrounding counties.",
+    "address": "2220 Shop Road, Columbia, SC 29201",
+    "phone": "(803) 254-4432",
+    "url": "https://www.harvesthope.org",
+    "categorySlug": "food",
+    "zipCode": "29201"
+  },
+  {
+    "name": "Oliver Gospel Mission",
+    "description": "Since 1888, provides emergency shelter, meals, clothing, and recovery programs for men and women experiencing homelessness in the Columbia area. Open 24 hours, 7 days a week.",
+    "address": "1100 Taylor Street, Columbia, SC 29201",
+    "phone": "(803) 254-6470",
+    "url": "https://www.olivergospel.org",
+    "categorySlug": "housing",
+    "zipCode": "29201"
+  },
+  {
+    "name": "Catholic Charities of the Midlands",
+    "description": "Provides food assistance, immigration services, and social services to vulnerable individuals and families throughout the Midlands region of South Carolina.",
+    "address": "809 Calhoun Street, Columbia, SC 29201",
+    "phone": "(803) 399-9654",
+    "url": "https://www.ccmidlands.org",
+    "categorySlug": "community",
+    "zipCode": "29201"
+  },
+  {
+    "name": "Washington Street United Methodist Church Soup Kitchen",
+    "description": "Community soup kitchen serving hot meals to those experiencing hunger and homelessness in the Columbia area Monday through Friday.",
+    "address": "1401 Washington Street, Columbia, SC 29201",
+    "phone": "(803) 256-2417",
+    "url": "https://www.foodpantries.org/ci/sc-columbia",
+    "categorySlug": "food",
+    "zipCode": "29201"
+  },
+  {
+    "name": "Richland County Salvation Army",
+    "description": "Provides food pantry, emergency financial assistance for rent and utilities, shelter, and holiday programs to individuals and families in need throughout Richland County.",
+    "address": "3024 Farrow Road, Columbia, SC 29203",
+    "phone": "(803) 765-0260",
+    "url": "https://southernusa.salvationarmy.org",
+    "categorySlug": "food",
+    "zipCode": "29203"
+  },
+  {
+    "name": "Capital City Church Community Assistance",
+    "description": "Faith-based organization providing food assistance and community support services to individuals and families in need in the Columbia area.",
+    "address": "628 Muller Avenue, Columbia, SC 29203",
+    "phone": "(803) 771-0092",
+    "url": "https://www.needhelppayingbills.com/html/columbia_food_pantries.html",
+    "categorySlug": "food",
+    "zipCode": "29203"
+  },
+  {
+    "name": "The Cooperative Ministry",
+    "description": "Columbia-area nonprofit providing food vouchers, emergency food items, utility assistance, and social services to Richland County residents. Requires SC ID and Richland County residency.",
+    "address": "3821 W. Beltline Blvd, Columbia, SC 29204",
+    "phone": "(803) 799-3853",
+    "url": "https://www.coopmin.org",
+    "categorySlug": "food",
+    "zipCode": "29204"
+  },
+  {
+    "name": "Palmetto AIDS Life Support Services (PALS) Food Pantry",
+    "description": "Food pantry serving individuals living with HIV/AIDS and other vulnerable populations in the Columbia area. Open Monday through Friday, 8:30 AM to 4:30 PM.",
+    "address": "2638 Two Notch Road, Columbia, SC 29204",
+    "phone": "(803) 779-7257",
+    "url": "https://www.palss.org",
+    "categorySlug": "food",
+    "zipCode": "29204"
+  },
+  {
+    "name": "Bethlehem Baptist Church Food Pantry",
+    "description": "Church-based food pantry providing free groceries and community support to individuals and families in need in the Columbia area.",
+    "address": "1218 Lyon Street, Columbia, SC 29204",
+    "phone": "(803) 254-5651",
+    "url": "https://www.needhelppayingbills.com/html/columbia_food_pantries.html",
+    "categorySlug": "food",
+    "zipCode": "29204"
+  },
+  {
+    "name": "St. Vincent de Paul - St. Joseph Conference",
+    "description": "Catholic charitable organization providing food assistance, utility help, and emergency financial aid to low-income individuals and families in Columbia.",
+    "address": "3600 Devine Street, Columbia, SC 29205",
+    "phone": "(803) 799-0761",
+    "url": "https://svdpcolumbia.org",
+    "categorySlug": "community",
+    "zipCode": "29205"
+  },
+  {
+    "name": "Sharing God's Love Food Pantry",
+    "description": "Community food pantry in Irmo serving Richland County residents Monday through Saturday, 9:00 AM to noon, providing free groceries to those in need.",
+    "address": "147 Friarsgate Blvd, Irmo, SC 29063",
+    "phone": "(803) 732-3188",
+    "url": "https://www.foodpantries.org/co/sc-richland",
+    "categorySlug": "food",
+    "zipCode": "29063"
+  },
+  {
+    "name": "Hope Community Learning Center",
+    "description": "Community center providing food assistance, educational programs, and support services to low-income individuals and families in the St. Andrews area of Columbia.",
+    "address": "1234 St. Andrews Road, Columbia, SC 29210",
+    "phone": "(803) 451-2139",
+    "url": "https://www.needhelppayingbills.com/html/columbia_food_pantries.html",
+    "categorySlug": "food",
+    "zipCode": "29210"
+  },
+  {
+    "name": "Asbury Memorial United Methodist Church Food Pantry",
+    "description": "Church-operated food pantry providing free groceries to individuals and families in need in southeast Columbia. Open Tuesday and Thursday, 10:00 AM to noon.",
+    "address": "1005 Asbury Drive, Columbia, SC 29209",
+    "phone": "(803) 776-7237",
+    "url": "https://www.foodpantries.org/co/sc-richland",
+    "categorySlug": "food",
+    "zipCode": "29209"
+  },
+  {
+    "name": "Rehoboth UMC Food Pantry",
+    "description": "Church-based food pantry serving northeast Columbia residents Monday through Thursday from 10:00 AM to noon. Provides free groceries to those experiencing food insecurity.",
+    "address": "6911 Two Notch Road, Columbia, SC 29223",
+    "phone": "(803) 788-2220",
+    "url": "https://www.foodpantries.org/co/sc-richland",
+    "categorySlug": "food",
+    "zipCode": "29223"
+  },
+  {
+    "name": "God's Storehouse Columbia",
+    "description": "Community food pantry providing free groceries and household items to individuals and families in need in the northeast Columbia area.",
+    "address": "1731 Risley Road, Columbia, SC 29223",
+    "phone": "(803) 691-1622",
+    "url": "https://www.needhelppayingbills.com/html/columbia_food_pantries.html",
+    "categorySlug": "food",
+    "zipCode": "29223"
+  },
+  {
+    "name": "NorthStar Center of Hope Food Pantry",
+    "description": "Food pantry with two Columbia-area locations serving residents of northeast Columbia, providing groceries on select Thursdays and Saturdays each month.",
+    "address": "711 Longtown Road Building 2, Columbia, SC 29229",
+    "phone": "(803) 787-2023",
+    "url": "https://www.foodpantries.org/co/sc-richland",
+    "categorySlug": "food",
+    "zipCode": "29229"
+  },
+  {
+    "name": "P.E.P. Senior Ministry - Unity Missionary Baptist Church",
+    "description": "Senior nutrition and food assistance program serving elderly residents of Hopkins and the surrounding Richland County community.",
+    "address": "110 Greenlake Drive, Hopkins, SC 29061",
+    "phone": "(803) 609-5523",
+    "url": "https://www.foodpantries.org/co/sc-richland",
+    "categorySlug": "food",
+    "zipCode": "29061"
+  },
+  {
+    "name": "Killingsworth Home",
+    "description": "Transitional housing program serving women in need in Columbia, providing a supportive residential environment and wraparound services to help women rebuild their lives.",
+    "address": "1831 Pendleton Street, Columbia, SC 29201",
+    "phone": "(803) 771-6359",
+    "url": "https://www.killingsworth.org",
+    "categorySlug": "housing",
+    "zipCode": "29201"
+  },
+  {
+    "name": "Kingdom Reapers Ministry Food Pantry",
+    "description": "Faith-based food pantry providing free groceries and community support to individuals and families experiencing food insecurity in southeast Columbia.",
+    "address": "1563 Leesburg Road, Columbia, SC 29209",
+    "phone": "(803) 602-5450",
+    "url": "https://www.needhelppayingbills.com/html/columbia_food_pantries.html",
+    "categorySlug": "food",
+    "zipCode": "29209"
+  },
+  {
+    "name": "Trinity Episcopal Cathedral Soup Kitchen",
+    "description": "Community soup kitchen serving hot meals to those in need in downtown Columbia, providing daily nourishment to people experiencing hunger and homelessness.",
+    "address": "1100 Sumter Street, Columbia, SC 29201",
+    "phone": "(803) 771-7300",
+    "url": "https://www.trinitycolumbia.org",
+    "categorySlug": "food",
+    "zipCode": "29201"
+  },
+  {
+    "name": "NorthStar Center of Hope Food Pantry - Main",
+    "description": "Food pantry serving northeast Columbia and Blythewood-area residents with groceries on select Thursdays and Saturdays. Covers zip codes including 29229 and surrounding areas.",
+    "address": "1410 Sunnyside Drive, Columbia, SC 29204",
+    "phone": "(803) 787-2023",
+    "url": "https://www.foodpantries.org/co/sc-richland",
+    "categorySlug": "food",
+    "zipCode": "29229"
+  },
+  {
+    "name": "Greater Spartanburg Ministries Food Pantry",
+    "description": "Provides free dry, refrigerated, and frozen groceries to individuals and families in need in Spartanburg County. Open Monday, Tuesday, and Thursday from 9:30 to 11:30 AM.",
+    "address": "680 Asheville Hwy, Spartanburg, SC 29303",
+    "phone": "(864) 585-9371",
+    "url": "https://www.greaterspartanburgministries.org",
+    "categorySlug": "food",
+    "zipCode": "29303"
+  },
+  {
+    "name": "Zoie Vie Ministry Food Pantry at Beaumont Baptist",
+    "description": "Community food pantry and clothing closet serving Spartanburg residents on the second and fourth Saturdays of each month from 11:00 AM to 2:00 PM.",
+    "address": "945 Beaumont Ave, Spartanburg, SC 29303",
+    "phone": "(864) 585-7448",
+    "url": "https://www.foodpantries.org/co/sc-spartanburg",
+    "categorySlug": "food",
+    "zipCode": "29303"
+  },
+  {
+    "name": "Central Church of Christ Food Pantry",
+    "description": "Faith-based food pantry distributing groceries to those in need in Spartanburg on the 2nd and 4th Friday of each month from 9:30 to 11:30 AM.",
+    "address": "2052 N. Church Street, Spartanburg, SC 29303",
+    "phone": "(864) 582-7453",
+    "url": "https://www.foodpantries.org/co/sc-spartanburg",
+    "categorySlug": "food",
+    "zipCode": "29303"
+  },
+  {
+    "name": "The Salvation Army of Spartanburg",
+    "description": "Provides food pantry, emergency financial assistance for rent and utilities, shelter referrals, and seasonal programs to individuals and families in need in Spartanburg County.",
+    "address": "1529 John B. White Sr. Blvd, Spartanburg, SC 29301",
+    "phone": "(864) 576-6670",
+    "url": "https://southernusa.salvationarmy.org/spartanburg",
+    "categorySlug": "food",
+    "zipCode": "29301"
+  },
+  {
+    "name": "The Food Pantry and Free Medical Clinic at St. Matthew's Episcopal Church",
+    "description": "Faith-based food pantry open every Wednesday to anyone in need, paired with a free medical clinic serving uninsured and low-income residents of Spartanburg County.",
+    "address": "101 St. Matthews Lane, Spartanburg, SC 29301",
+    "phone": "(864) 576-0424",
+    "url": "https://www.stmatthewsspartanburg.org",
+    "categorySlug": "food",
+    "zipCode": "29301"
+  },
+  {
+    "name": "Miracle Hill Spartanburg Rescue Mission",
+    "description": "Emergency shelter providing safe housing, meals, clothing, case management, and recovery programs for men, women, and mothers with children experiencing homelessness in Spartanburg.",
+    "address": "189 N. Forest Street, Spartanburg, SC 29301",
+    "phone": "(864) 583-1628",
+    "url": "https://miraclehill.org/shelters/spartanburg-rescue-mission",
+    "categorySlug": "housing",
+    "zipCode": "29301"
+  },
+  {
+    "name": "TOTAL Ministries",
+    "description": "Provides food assistance, emergency utility and rent assistance, transportation help, and prescription assistance to low-income residents of Spartanburg County.",
+    "address": "976 S. Pine Street, Spartanburg, SC 29302",
+    "phone": "(864) 585-9167",
+    "url": "https://totalministries.org",
+    "categorySlug": "community",
+    "zipCode": "29302"
+  },
+  {
+    "name": "Spartanburg Soup Kitchen",
+    "description": "Community soup kitchen serving hot meals 365 days a year to individuals experiencing hunger and homelessness in Spartanburg. Open daily 7:30 AM to 2:00 PM.",
+    "address": "136 S. Forest Street, Spartanburg, SC 29306",
+    "phone": "(864) 585-0022",
+    "url": "https://www.spartanburgsoupkitchen.org",
+    "categorySlug": "food",
+    "zipCode": "29306"
+  },
+  {
+    "name": "Bethlehem Center of Spartanburg",
+    "description": "Community service center providing food bank, food pantry, and social services to low-income individuals and families in Spartanburg. Open Monday, Tuesday, and Thursday mornings.",
+    "address": "397 Highland Ave, Spartanburg, SC 29304",
+    "phone": "(864) 582-7158",
+    "url": "https://www.bethlehemcenter.net",
+    "categorySlug": "food",
+    "zipCode": "29303"
+  },
+  {
+    "name": "A Place to Call Home Food Pantry",
+    "description": "Food pantry serving individuals and families experiencing homelessness or housing instability in Spartanburg. Open Tuesday and Thursday from 9:00 AM to noon.",
+    "address": "317 Green Street, Spartanburg, SC 29303",
+    "phone": "(864) 583-5419",
+    "url": "https://www.aptchspartanburg.org",
+    "categorySlug": "food",
+    "zipCode": "29303"
+  },
+  {
+    "name": "Project R.E.S.T. Domestic Violence Shelter",
+    "description": "Provides temporary emergency shelter for victims of domestic violence and their dependent children, including food, clothing, transportation, and counseling services. Serves Spartanburg, Cherokee, and Union counties.",
+    "address": "151 Dillon Drive, Spartanburg, SC 29307",
+    "phone": "(864) 592-4696",
+    "url": "https://www.projectrestsc.org",
+    "categorySlug": "crisis",
+    "zipCode": "29307"
+  },
+  {
+    "name": "Upstate Family Resource Center",
+    "description": "Community center in Boiling Springs providing food pantry, free bakery items, and family support services to residents of Spartanburg County. Open Monday, Tuesday, and Thursday mornings.",
+    "address": "340 Blalock Road, Boiling Springs, SC 29316",
+    "phone": "(864) 578-6013",
+    "url": "https://www.foodpantries.org/co/sc-spartanburg",
+    "categorySlug": "food",
+    "zipCode": "29316"
+  },
+  {
+    "name": "Faith Bible Fellowship Food Pantry - Chesnee",
+    "description": "Church-based food pantry providing groceries to individuals and families in need in the Chesnee area of Spartanburg County.",
+    "address": "625 Cooley Springs Rd, Chesnee, SC 29323",
+    "phone": "(864) 398-7652",
+    "url": "https://www.foodpantries.org/co/sc-spartanburg",
+    "categorySlug": "food",
+    "zipCode": "29323"
+  },
+  {
+    "name": "Brooklyn Baptist Church Food Pantry",
+    "description": "Church-based food pantry and hot meals program serving residents of Chesnee and surrounding Spartanburg County communities on the 2nd Saturday of each month.",
+    "address": "8449 Parris Bridge Road, Chesnee, SC 29323",
+    "phone": "(864) 461-2822",
+    "url": "https://www.foodpantries.org/co/sc-spartanburg",
+    "categorySlug": "food",
+    "zipCode": "29323"
+  },
+  {
+    "name": "Operation Hope Food Pantry - Landrum",
+    "description": "Faith-based ministry providing food, clothing, education, counseling, and referrals to individuals in need in Landrum and the southern Spartanburg County area. Open Tuesday through Saturday.",
+    "address": "206 East Rutherford Street, Landrum, SC 29356",
+    "phone": "(864) 457-2812",
+    "url": "https://www.foodpantries.org/co/sc-spartanburg",
+    "categorySlug": "food",
+    "zipCode": "29356"
+  },
+  {
+    "name": "Gramling United Methodist Church Community Meals",
+    "description": "Community meals program serving free hot meals to residents of Campobello and surrounding Spartanburg County communities Monday through Thursday mornings.",
+    "address": "1491 Asheville Highway, Campobello, SC 29322",
+    "phone": "(864) 472-2551",
+    "url": "https://www.foodpantries.org/co/sc-spartanburg",
+    "categorySlug": "food",
+    "zipCode": "29322"
+  },
+  {
+    "name": "Greer Relief and Resources Agency",
+    "description": "Comprehensive nonprofit providing a choice food pantry with groceries, hygiene items, and household supplies, plus financial assistance and medical services to neighbors facing hardship in the Greer area.",
+    "address": "202 Victoria Street, Greer, SC 29651",
+    "phone": "(864) 848-5355",
+    "url": "https://greerrelief.org",
+    "categorySlug": "food",
+    "zipCode": "29651"
+  },
+  {
+    "name": "Greer Community Ministries",
+    "description": "Nonprofit providing food pantry, Meals on Wheels, senior dining, and clothing assistance to residents of the greater Greer area in Spartanburg and Greenville counties.",
+    "address": "738 S. Line Street Ext, Greer, SC 29651",
+    "phone": "(864) 400-9854",
+    "url": "https://www.gcminc.org",
+    "categorySlug": "food",
+    "zipCode": "29651"
+  },
+  {
+    "name": "Lake Bowen Baptist Church Food Pantry",
+    "description": "Church-based food pantry providing free groceries to residents of Inman and surrounding Spartanburg County communities on the 4th Saturday of each month from 9:00 to 11:00 AM.",
+    "address": "404 Sugar Ridge Road, Inman, SC 29349",
+    "phone": "(864) 814-6280",
+    "url": "https://www.foodpantries.org/co/sc-spartanburg",
+    "categorySlug": "food",
+    "zipCode": "29349"
+  },
+  {
+    "name": "Common Ground Food Pantry",
+    "description": "Community food pantry in Inman providing free groceries once per month to individuals and families in need. Open Wednesday evenings from 6:00 to 7:00 PM.",
+    "address": "14 N. Howard Street, Inman, SC 29349",
+    "phone": "(864) 472-9069",
+    "url": "https://www.foodpantries.org/co/sc-spartanburg",
+    "categorySlug": "food",
+    "zipCode": "29349"
+  },
+  {
+    "name": "Greater Saint James HOPE Soup Kitchen",
+    "description": "Faith-based soup kitchen providing daily hot meals to those in need in Inman and northern Spartanburg County. Open daily from 10:45 to 11:45 AM.",
+    "address": "13255 Asheville Highway, Inman, SC 29349",
+    "phone": "(864) 472-9289",
+    "url": "https://www.foodpantries.org/co/sc-spartanburg",
+    "categorySlug": "food",
+    "zipCode": "29349"
+  },
+  {
+    "name": "Holly Springs Baptist Church Food Pantry",
+    "description": "Church-based food pantry serving the Inman and Campobello area communities on the 1st and 3rd Friday of each month from 2:00 to 3:00 PM.",
+    "address": "251 Hannon Road, Inman, SC 29349",
+    "phone": "(864) 877-6765",
+    "url": "https://www.foodpantries.org/co/sc-spartanburg",
+    "categorySlug": "food",
+    "zipCode": "29349"
+  },
+  {
+    "name": "Middle Tyger Community Center Food Pantry",
+    "description": "Community center in Lyman providing food pantry, emergency utility assistance, financial education, and crisis intervention to residents of eastern Spartanburg County. Open Tuesday, Wednesday, and Thursday.",
+    "address": "84 Groce Road, Lyman, SC 29365",
+    "phone": "(864) 439-7760",
+    "url": "https://www.middletyger.org",
+    "categorySlug": "food",
+    "zipCode": "29365"
+  },
+  {
+    "name": "The Carpenter's Table Community Outreach Center",
+    "description": "Community outreach center in Moore providing free groceries to individuals and families in need in western Spartanburg County on Saturdays from 9:00 AM to noon.",
+    "address": "5957 Reidville Road, Moore, SC 29369",
+    "phone": "(864) 486-8360",
+    "url": "https://www.foodpantries.org/co/sc-spartanburg",
+    "categorySlug": "food",
+    "zipCode": "29369"
+  },
+  {
+    "name": "Hunters for the Hungry - Pacolet",
+    "description": "Food assistance program providing free food to individuals and families in need in Pacolet and surrounding Spartanburg County communities on the 2nd and 4th Thursday of each month.",
+    "address": "980 Sunny Acres Road, Pacolet, SC 29372",
+    "phone": "(484) 542-9158",
+    "url": "https://www.foodpantries.org/co/sc-spartanburg",
+    "categorySlug": "food",
+    "zipCode": "29372"
+  },
+  {
+    "name": "Bethlehem Baptist Church Food Pantry - Moore",
+    "description": "Church-based food pantry serving residents of Moore and surrounding communities in western Spartanburg County.",
+    "address": "797 Old Georgia Road, Moore, SC 29369",
+    "phone": "(864) 576-6355",
+    "url": "https://www.foodpantries.org/co/sc-spartanburg",
+    "categorySlug": "food",
+    "zipCode": "29369"
+  },
+  {
+    "name": "Vineyard Church Food Pantry - Startex",
+    "description": "Church-based food pantry providing free groceries to individuals and families in need in Startex and surrounding Spartanburg County communities.",
+    "address": "20 Chestnut Street, Startex, SC 29377",
+    "phone": "(864) 670-0142",
+    "url": "https://www.foodpantries.org/co/sc-spartanburg",
+    "categorySlug": "food",
+    "zipCode": "29377"
+  },
+  {
+    "name": "Breaking Bread for Jesus Soup Kitchen - Wellford",
+    "description": "Community soup kitchen serving free hot meals 365 days a year to residents of Wellford, Startex, Jackson, and Duncan in Spartanburg County.",
+    "address": "108 Astor Street, Wellford, SC 29385",
+    "phone": "(864) 303-3565",
+    "url": "https://www.foodpantries.org/co/sc-spartanburg",
+    "categorySlug": "food",
+    "zipCode": "29385"
+  },
+  {
+    "name": "Helping Hands of Woodruff",
+    "description": "Community organization providing food assistance and social services to individuals and families experiencing hardship in Woodruff and surrounding Spartanburg County areas.",
+    "address": "206 Chamblin Street, Woodruff, SC 29388",
+    "phone": "(864) 476-2401",
+    "url": "https://www.foodpantries.org/co/sc-spartanburg",
+    "categorySlug": "food",
+    "zipCode": "29388"
+  },
+  {
+    "name": "Greer Daily Bread Soup Kitchen",
+    "description": "Community soup kitchen in Greer serving free hot meals to those experiencing hunger Monday through Saturday at lunch and Sunday evenings.",
+    "address": "521 East Poinsett Street, Greer, SC 29651",
+    "phone": "(864) 877-1937",
+    "url": "https://www.greersoupkitchen.com",
+    "categorySlug": "food",
+    "zipCode": "29651"
+  },
+  {
+    "name": "Harvest Hope Food Bank - Greenville Distribution",
+    "description": "Regional distribution hub for Harvest Hope Food Bank providing emergency food assistance to residents of Greenville, Laurens, Spartanburg, and surrounding Upstate counties.",
+    "address": "2818 White Horse Road, Greenville, SC 29611",
+    "phone": "(864) 281-3995",
+    "url": "https://www.harvesthope.org",
+    "categorySlug": "food",
+    "zipCode": "29611"
+  },
+  {
+    "name": "Sumter United Ministries Food Pantry",
+    "description": "Countywide nonprofit providing emergency food assistance, financial aid, home repair, and emergency shelter to struggling families and individuals in Sumter County. Food pantry open Monday through Thursday, 9:00 to 10:00 AM.",
+    "address": "36 S. Artillery Drive, Sumter, SC 29150",
+    "phone": "(803) 775-0757",
+    "url": "https://sumterunitedministries.org",
+    "categorySlug": "food",
+    "zipCode": "29150"
+  },
+  {
+    "name": "Sumter United Ministries Emergency Shelter",
+    "description": "Emergency temporary shelter providing rest and nourishment to individuals experiencing homelessness in Sumter County. Open 4:00 PM to 8:00 AM; call ahead for intake.",
+    "address": "36 S. Artillery Drive, Sumter, SC 29150",
+    "phone": "(803) 775-0757",
+    "url": "https://sumterunitedministries.org/causes/emergency-shelter",
+    "categorySlug": "housing",
+    "zipCode": "29150"
+  },
+  {
+    "name": "The Salvation Army of Sumter",
+    "description": "Provides food pantry, clothing assistance, and emergency financial aid for rent and utilities to low-income individuals and families in Sumter County. Food distribution Mondays and Wednesdays.",
+    "address": "16 Kendrick Street, Sumter, SC 29150",
+    "phone": "(803) 775-9336",
+    "url": "https://southernusa.salvationarmy.org/sumter",
+    "categorySlug": "food",
+    "zipCode": "29150"
+  },
+  {
+    "name": "Our Brother's Keeper Society",
+    "description": "Community organization providing food assistance and social services to individuals and families in need in the Sumter area.",
+    "address": "103 East Calhoun Street, Sumter, SC 29150",
+    "phone": "(803) 775-2855",
+    "url": "https://www.needhelppayingbills.com/html/sumter_county_sc_free_food_pantries.html",
+    "categorySlug": "food",
+    "zipCode": "29150"
+  },
+  {
+    "name": "Bethesda Church of God Food Pantry",
+    "description": "Church-based food pantry providing free groceries to those in need in Sumter on the 1st and 3rd Saturday of each month from 9:00 to 11:00 AM.",
+    "address": "2730 Broad Street, Sumter, SC 29150",
+    "phone": "(803) 254-3886",
+    "url": "https://www.foodpantries.org/ci/sc-sumter",
+    "categorySlug": "food",
+    "zipCode": "29150"
+  },
+  {
+    "name": "Jehovah Missionary - House of Hope Food Pantry",
+    "description": "Food pantry providing quality food items to households experiencing food insecurity in Sumter County. Each household receives one food box every 30 days.",
+    "address": "814-B South Harvin Street, Sumter, SC 29150",
+    "phone": "(843) 616-6358",
+    "url": "https://networks.whyhunger.org/organisation/22520",
+    "categorySlug": "food",
+    "zipCode": "29150"
+  },
+  {
+    "name": "CSFP Senior Food Program - Wedgefield",
+    "description": "Commodity Supplemental Food Program providing monthly food boxes to senior citizens and disabled residents in Wedgefield and eastern Sumter County.",
+    "address": "5400 Cane Savannah Road, Wedgefield, SC 29154",
+    "phone": "(803) 655-7844",
+    "url": "https://www.needhelppayingbills.com/html/sumter_county_sc_free_food_pantries.html",
+    "categorySlug": "food",
+    "zipCode": "29154"
+  },
+  {
+    "name": "Community Missionary Charity Organization",
+    "description": "Faith-based organization at Orangehill AME Church providing food assistance and charitable services to residents of Wedgefield and surrounding Sumter County communities.",
+    "address": "3035 South Kings Hwy, Wedgefield, SC 29168",
+    "phone": "(803) 374-7778",
+    "url": "https://www.needhelppayingbills.com/html/sumter_county_sc_free_food_pantries.html",
+    "categorySlug": "food",
+    "zipCode": "29168"
+  },
+  {
+    "name": "CSFP Calvary Missionary Baptist Church - Pinewood",
+    "description": "Commodity Supplemental Food Program distribution site providing monthly food boxes to eligible low-income seniors in the Pinewood area of Sumter County.",
+    "address": "10075 Calvary Church Road, Pinewood, SC 29125",
+    "phone": "(803) 764-1868",
+    "url": "https://www.needhelppayingbills.com/html/sumter_county_sc_free_food_pantries.html",
+    "categorySlug": "food",
+    "zipCode": "29125"
+  },
+  {
+    "name": "LABs Helping Hands",
+    "description": "Community organization providing food assistance and support services to individuals and families in need in Sumter County.",
+    "address": "5456 Sumter Hwy, Sumter, SC 29153",
+    "phone": "(843) 857-3097",
+    "url": "https://www.needhelppayingbills.com/html/sumter_county_sc_free_food_pantries.html",
+    "categorySlug": "food",
+    "zipCode": "29153"
+  },
+  {
+    "name": "Soup Kitchen at Mayesville Community",
+    "description": "Community soup kitchen serving free hot meals to individuals and families in need in Mayesville on the 3rd Saturday of each month from 8:00 AM to noon.",
+    "address": "119 E. Sumter Street, Mayesville, SC 29104",
+    "phone": "(803) 565-1030",
+    "url": "https://www.foodpantries.org/ci/sc-sumter",
+    "categorySlug": "food",
+    "zipCode": "29104"
+  },
+  {
+    "name": "Our Lady's Pantry - Union",
+    "description": "Food pantry providing healthy foods and nutrition education to individuals and families in Union County, operating on the 2nd and 4th Thursday of each month.",
+    "address": "Union, SC 29379",
+    "phone": "(864) 427-8621",
+    "url": "https://www.foodpantries.org/co/sc-union",
+    "categorySlug": "food",
+    "zipCode": "29379"
+  },
+  {
+    "name": "Salvation Army - Spartanburg and Union Counties",
+    "description": "Provides food, clothing, emergency financial assistance, and social services to families in need in Union County and Spartanburg County year-round.",
+    "address": "1529 John B. White Sr. Blvd, Spartanburg, SC 29301",
+    "phone": "(864) 576-6670",
+    "url": "https://southernusa.salvationarmy.org/spartanburg",
+    "categorySlug": "food",
+    "zipCode": "29379"
+  },
+  {
+    "name": "Berea Community Service Center",
+    "description": "Community service center providing food assistance and support services to low-income individuals and families in the Berea area of Sumter County.",
+    "address": "675 S. Lafayette Drive, Sumter, SC 29150",
+    "phone": "(803) 655-7844",
+    "url": "https://www.needhelppayingbills.com/html/sumter_county_sc_free_food_pantries.html",
+    "categorySlug": "food",
+    "zipCode": "29150"
+  },
+  {
+    "name": "Sumter County CADA",
+    "description": "Community action agency providing a range of social services including food assistance, emergency support, and community programs to low-income residents of Sumter County.",
+    "address": "221 W. Liberty Street, Sumter, SC 29150",
+    "phone": "(803) 436-2462",
+    "url": "https://www.sumtersc.gov/tourism/living-here/community-resources",
+    "categorySlug": "community",
+    "zipCode": "29150"
+  },
+  {
+    "name": "United Way of Sumter, Clarendon and Lee Counties",
+    "description": "Mobilizes community resources and partners to strengthen families facing hardship, connecting residents of Sumter, Clarendon, and Lee counties with social services and assistance programs.",
+    "address": "Sumter, SC 29150",
+    "phone": "(803) 773-0039",
+    "url": "https://www.uwaysumter.org",
+    "categorySlug": "community",
+    "zipCode": "29150"
+  },
+  {
+    "name": "CMD's Food Pantry - Kingstree",
+    "description": "Local food pantry feeding individuals and families in need in Williamsburg County through client-choice shopping and FoodShare boxes. Open Thursdays from 9:30 AM to noon.",
+    "address": "2229 Sumter Hwy, Kingstree, SC 29556",
+    "phone": "(843) 382-4904",
+    "url": "https://www.postandcourier.com/kingstree/kingstree/news/pantry-feeds-hungry-in-williamsburg-county/article_bd13710c-1755-11ee-8d69-3bff83e6ac54.html",
+    "categorySlug": "food",
+    "zipCode": "29556"
+  },
+  {
+    "name": "Black River United Way",
+    "description": "United Way chapter serving Georgetown and Williamsburg counties, focusing on education, financial stability, and health initiatives to strengthen families and connect residents with community resources.",
+    "address": "Kingstree, SC 29556",
+    "phone": "(843) 436-9015",
+    "url": "https://www.blackriverunitedway.org",
+    "categorySlug": "community",
+    "zipCode": "29556"
+  },
+  {
+    "name": "JustUs Community Partnership Program - Kingstree",
+    "description": "Nonprofit addressing affordable housing, workforce development, youth education, and sustainable agriculture for low-income residents of Williamsburg County.",
+    "address": "Kingstree, SC 29556",
+    "phone": "(843) 355-5445",
+    "url": "https://www.sciway.net/org/community/williamsburg.html",
+    "categorySlug": "housing",
+    "zipCode": "29556"
+  },
+  {
+    "name": "Lakeshore Food Pantry - Catawba",
+    "description": "Community food pantry providing free groceries to individuals and families in York and Gaston Counties during difficult economic times. Open the 3rd Saturday of each month from 10:00 AM to noon.",
+    "address": "2203 S. Anderson Road, Catawba, SC 29704",
+    "phone": "(803) 548-2755",
+    "url": "https://www.foodpantries.org/li/lakeshore-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "29704"
+  },
+  {
+    "name": "Ultimate Life Church Soup Kitchen - Fort Mill",
+    "description": "Faith-based organization providing a soup kitchen, summer snacks for children, and holiday food baskets to those in need in the Fort Mill area of York County.",
+    "address": "377 Rubin Center Drive, Fort Mill, SC 29708",
+    "phone": "(803) 802-2641",
+    "url": "https://www.needhelppayingbills.com/html/york_county_food_banks.html",
+    "categorySlug": "food",
+    "zipCode": "29708"
+  },
+  {
+    "name": "Fort Mill Care Center Food Pantry",
+    "description": "Nonprofit food pantry providing low-cost and free food, bill assistance, and household items to residents of the Fort Mill area and northern York County.",
+    "address": "2760 Old Nation Road, Fort Mill, SC 29715",
+    "phone": "(803) 547-7620",
+    "url": "https://www.foodpantries.org/li/sc_29708_fort-mill-care-center",
+    "categorySlug": "food",
+    "zipCode": "29715"
+  },
+  {
+    "name": "Clover Area Assistance Center (CAAC)",
+    "description": "Full-choice food pantry, financial assistance, and medical and dental referrals for residents of the Clover School District boundaries. Open Monday, Wednesday, and Thursday.",
+    "address": "1130 Highway 55 E, Clover, SC 29710",
+    "phone": "(803) 222-4837",
+    "url": "https://cloverareaassistance.org",
+    "categorySlug": "food",
+    "zipCode": "29710"
+  },
+  {
+    "name": "Lighthouse Shelter and Food Bank - Clover",
+    "description": "Provides a crisis and homeless shelter, food bank, clothing closet, and thrift store to individuals and families in need in the Clover area of York County.",
+    "address": "700 Old North Main Street, Clover, SC 29710",
+    "phone": "(803) 222-0636",
+    "url": "https://www.needhelppayingbills.com/html/york_county_food_banks.html",
+    "categorySlug": "housing",
+    "zipCode": "29710"
+  },
+  {
+    "name": "York County Food Bank",
+    "description": "Supplies quality food to over 80 nonprofit organizations throughout York County, including pantries, shelters, and community centers. Operates a Mobile Food Pantry distributing free food across the county.",
+    "address": "York County, SC 29715",
+    "phone": "(803) 222-4837",
+    "url": "https://yorkfoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "29715"
+  },
+  {
+    "name": "Cherokee County Salvation Army - Gaffney",
+    "description": "Provides food pantry, clothing assistance, emergency financial aid, and social services to individuals and families in need in Cherokee County.",
+    "address": "601 Colonial Ave, Gaffney, SC 29340",
+    "phone": "(864) 489-2530",
+    "url": "https://southernusa.salvationarmy.org",
+    "categorySlug": "food",
+    "zipCode": "29717"
+  },
+  {
+    "name": "HOPE of Rock Hill",
+    "description": "Crisis assistance ministry providing a full week's worth of food based on family size to those in need in Rock Hill. Open Monday through Thursday, 8:30 to 10:30 AM.",
+    "address": "504 Oakland Avenue, Rock Hill, SC 29730",
+    "phone": "(803) 328-8000",
+    "url": "https://www.hopeofrockhill.com",
+    "categorySlug": "food",
+    "zipCode": "29730"
+  },
+  {
+    "name": "Pilgrims' Inn Emergency Assistance Food Pantry",
+    "description": "Provides food, household supplies, and limited utility assistance to approximately 500 York County families per month. Also operates the Dorothy Bing Inn Shelter for women and children.",
+    "address": "236 W. Main Street, Rock Hill, SC 29730",
+    "phone": "(803) 327-4227",
+    "url": "https://pilgrimsinn.org",
+    "categorySlug": "food",
+    "zipCode": "29730"
+  },
+  {
+    "name": "Salvation Army of York, Chester and Lancaster Counties",
+    "description": "Provides food pantry, clothing vouchers, rent and utility assistance, a women's shelter, and holiday programs to individuals and families in need in the Rock Hill area.",
+    "address": "119 S. Charlotte Ave, Rock Hill, SC 29730",
+    "phone": "(803) 324-5141",
+    "url": "https://southernusa.salvationarmy.org/rock-hill",
+    "categorySlug": "food",
+    "zipCode": "29730"
+  },
+  {
+    "name": "Dorothy Day Soup Kitchen - Rock Hill",
+    "description": "Community soup kitchen serving hot meals to homeless and working poor individuals in Rock Hill. Provides daily nourishment to those experiencing hunger in York County.",
+    "address": "902 Crawford Road, Rock Hill, SC 29730",
+    "phone": "(803) 366-4142",
+    "url": "https://dorothydaysoupkitchen.org",
+    "categorySlug": "food",
+    "zipCode": "29730"
+  },
+  {
+    "name": "Heavenly Food Pantry - Rock Hill",
+    "description": "Feeding America partner food pantry providing canned groceries, produce, and SNAP/WIC information to low-income individuals and families in Rock Hill.",
+    "address": "842 Cauthen Street, Rock Hill, SC 29730",
+    "phone": "(803) 328-1156",
+    "url": "https://www.cbcrh.com/page/heavenly-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "29730"
+  },
+  {
+    "name": "Manna House Pantry - Rock Hill",
+    "description": "Community food pantry providing free groceries to individuals and families in need in Rock Hill on Saturday mornings from 8:45 to 11:00 AM.",
+    "address": "546 South Cherry Road Ste. J, Rock Hill, SC 29732",
+    "phone": "(803) 324-0385",
+    "url": "https://www.foodpantries.org/li/mt._prospect-Rock_H-29730",
+    "categorySlug": "food",
+    "zipCode": "29732"
+  },
+  {
+    "name": "Illumine Church Food Pantry - Rock Hill",
+    "description": "Church-based food pantry providing free groceries and community support to individuals and families experiencing food insecurity in Rock Hill.",
+    "address": "1262 Riverchase Blvd, Rock Hill, SC 29732",
+    "phone": "(803) 810-9398",
+    "url": "https://www.foodpantries.org/li/sc_29732_illumine-church-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "29732"
+  },
+  {
+    "name": "Oakland Baptist Ministries Food Pantry",
+    "description": "Faith-based food pantry providing free groceries and community support to individuals and families in need in the Rock Hill area.",
+    "address": "1067 Oakland Ave, Rock Hill, SC 29732",
+    "phone": "(803) 328-3864",
+    "url": "https://www.foodpantries.org/co/sc-york",
+    "categorySlug": "food",
+    "zipCode": "29732"
+  },
+  {
+    "name": "Love N Cherish Family Center",
+    "description": "Community organization providing food assistance, counseling, and wraparound support services to individuals and families facing hardship in Rock Hill and York County.",
+    "address": "2199 Mt. Holly Road, Rock Hill, SC 29730",
+    "phone": "(803) 417-0575",
+    "url": "https://www.needhelppayingbills.com/html/york_county_food_banks.html",
+    "categorySlug": "community",
+    "zipCode": "29730"
+  },
+  {
+    "name": "ARK Food Pantry - Cornerstone Family Worship Center",
+    "description": "Community food pantry and emergency financial aid program serving York and surrounding areas. Open Monday and Friday 9:00 AM to noon, and Wednesday 2:00 to 5:00 PM.",
+    "address": "1090 Black Hwy, York, SC 29745",
+    "phone": "(803) 684-2273",
+    "url": "https://www.foodpantries.org/li/sc_29745_ark-cornerstone",
+    "categorySlug": "food",
+    "zipCode": "29745"
+  },
+  {
+    "name": "P.A.T.H. (People Attempting to Help) - York",
+    "description": "Nonprofit providing a clothing closet, soup kitchen, and emergency food pantry to individuals and families in need in York and surrounding York County communities.",
+    "address": "204 Raile Street, York, SC 29745",
+    "phone": "(803) 684-3992",
+    "url": "https://www.foodpantries.org/li/p.a.t.h._peo-Rock_H-29745",
+    "categorySlug": "food",
+    "zipCode": "29745"
+  }
+]

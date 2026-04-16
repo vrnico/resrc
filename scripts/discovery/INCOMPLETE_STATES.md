@@ -1,0 +1,779 @@
+# Incomplete State Coverage
+
+States with unsearched zip code batches. Each entry lists the exact batches, counties, and cities still needing discovery.
+
+---
+
+## AK — Alaska ✓ COMPLETE
+**1/17 batches searched · 16 remaining**
+
+- **Batch 002** | Counties: Anchorage Borough, Bethel Census Area
+  - Cities: Akiachak, Anchorage, Chugiak, Eagle River, Elmendorf Afb, Fort Richardson, Girdwood, Indian
+  - Zips: 99504, 99505, 99506, 99507, 99508, 99513, 99515, 99516, 99517, 99518, 99540, 99567, 99577, 99587, 99551
+- **Batch 003** | Counties: Bethel Census Area
+  - Cities: Akiak, Atmautluak, Chefornak, Chuathbaluk, Crooked Creek, Eek, Goodnews Bay, Kalskag, Kasigluk, Kipnuk, Kwethluk, Kwigillingok, Lower Kalskag, Mekoryuk, Napakiak
+  - Zips: 99552, 99557, 99559, 99561, 99575, 99578, 99589, 99607, 99609, 99614, 99621, 99622, 99626, 99630, 99634
+- **Batch 004** | Counties: Bethel Census Area, Bristol Bay Borough, Denali Borough
+  - Cities: Cantwell, Clear, Igiugig, Naknek, Nightmute, Nunapitchuk, Platinum, Quinhagak, Red Devil, Sleetmute, South Naknek, Toksook Bay, Tuluksak, Tuntutuliak, Tununak
+  - Zips: 99637, 99641, 99651, 99655, 99656, 99668, 99679, 99680, 99681, 99690, 99613, 99633, 99670, 99704, 99729
+- **Batch 005** | Counties: Denali Borough, Dillingham Census Area, Fairbanks North Star Borough
+  - Cities: Aleknagik, Anderson, Clarks Point, Coldfoot, Denali National, Eielson Afb, Ekwok, Fairbanks, Fort Wainwright, Healy, Koliganek, Manokotak, New Stuyahok, North Pole, Togiak
+  - Zips: 99743, 99744, 99755, 99555, 99569, 99576, 99580, 99628, 99636, 99678, 99701, 99702, 99703, 99705, 99709
+- **Batch 006** | Counties: Fairbanks North Star Borough, Haines Borough, Juneau Borough, Kenai Peninsula Borough
+  - Cities: Clam Gulch, Cooper Landing, Douglas, Ester, Fairbanks, Haines, Hope, Juneau, Kasilof, Kenai, Nikolaevsk, Port Graham, Salcha
+  - Zips: 99712, 99714, 99725, 99775, 99827, 99850, 99801, 99824, 99556, 99568, 99572, 99603, 99605, 99610, 99611
+- **Batch 007** | Counties: Kenai Peninsula Borough, Ketchikan Gateway Borough, Kodiak Island Borough
+  - Cities: Akhiok, Karluk, Ketchikan, Larsen Bay, Moose Pass, Nikiski, Ninilchik, Old Harbor, Port Lions, Seldovia, Seward, Soldotna, Sterling, Tyonek
+  - Zips: 99631, 99635, 99639, 99663, 99664, 99669, 99672, 99682, 99901, 99950, 99550, 99608, 99615, 99624, 99643
+- **Batch 008** | Counties: Kodiak Island Borough, Lake and Peninsula Borough, Matanuska-Susitna Borough
+  - Cities: Butte, Chignik, Chignik Lagoon, Chignik Lake, Egegik, Kodiak, Kokhanok, Levelock, Nondalton, Ouzinkie, Pedro Bay, Perryville, Pilot Point, Port Alsworth, Port Heiden
+  - Zips: 99644, 99697, 99548, 99549, 99564, 99565, 99579, 99606, 99625, 99640, 99647, 99648, 99649, 99653, 99645
+- **Batch 009** | Counties: Matanuska-Susitna Borough, Nome Census Area
+  - Cities: Anchorage, Big Lake, Chickaloon, Elim, Gambell, Houston, Saint Michael, Skwentna, Stebbins, Talkeetna, Trapper Creek, Unalakleet, Wasilla, Willow
+  - Zips: 99652, 99654, 99667, 99674, 99676, 99683, 99687, 99688, 99694, 99695, 99659, 99671, 99684, 99739, 99742
+- **Batch 010** | Counties: Nome Census Area, North Slope Borough
+  - Cities: Anaktuvuk Pass, Barrow, Brevig Mission, Golovin, Kaktovik, Koyuk, Point Hope, Point Lay, Savoonga, Shaktoolik, Shishmaref, Teller, Wainwright, Wales, White Mountain
+  - Zips: 99753, 99762, 99769, 99771, 99772, 99778, 99783, 99784, 99785, 99721, 99723, 99747, 99759, 99766, 99782
+- **Batch 011** | Counties: North Slope Borough, Northwest Arctic Borough, Prince of Wales-Outer Ketchikan Census
+  - Cities: Ambler, Atqasuk, Buckland, Coffman Cove, Deering, Kiana, Kivalina, Kobuk, Kotzebue, Meyers Chuck, Noatak, Noorvik, Nuiqsut, Selawik, Shungnak
+  - Zips: 99789, 99791, 99727, 99736, 99749, 99750, 99751, 99752, 99761, 99763, 99770, 99773, 99786, 99903, 99918
+- **Batch 012** | Counties: Prince of Wales-Outer Ketchikan Census, Sitka Borough, Skagway-Hoonah-Angoon Census Area
+  - Cities: Angoon, Craig, Elfin Cove, Gustavus, Hoonah, Hydaburg, Hyder, Klawock, Metlakatla, Pelican, Point Baker, Sitka, Skagway, Tenakee Springs, Thorne Bay
+  - Zips: 99919, 99921, 99922, 99923, 99925, 99926, 99927, 99835, 99820, 99825, 99826, 99829, 99832, 99840, 99841
+- **Batch 013** | Counties: Southeast Fairbanks Census Area, Valdez-Cordova Census Area
+  - Cities: Border, Chenega Bay, Chicken, Chitina, Copper Center, Dot Lake, Eagle, Glennallen, Northway, Slana, Tanacross, Tatitlek, Tetlin, Valdez, Whittier
+  - Zips: 99732, 99737, 99738, 99764, 99776, 99779, 99780, 99566, 99573, 99574, 99586, 99588, 99677, 99686, 99693
+- **Batch 014** | Counties: Wade Hampton Census Area, Wrangell-Petersburg Census Area
+  - Cities: Alakanuk, Chevak, Emmonak, Hooper Bay, Kake, Kotlik, Marshall, Mountain Village, Petersburg, Pilot Station, Russian Mission, Saint Marys, Scammon Bay, Sheldon Point, Wrangell
+  - Zips: 99554, 99563, 99581, 99585, 99604, 99620, 99632, 99650, 99657, 99658, 99662, 99666, 99830, 99833, 99929
+- **Batch 015** | Counties: Yakutat Borou, Yukon-Koyukuk Census Area
+  - Cities: Allakaket, Anvik, Arctic Village, Beaver, Bettles Field, Central, Circle, Fort Yukon, Grayling, Holy Cross, Mc Grath, Nikolai, Shageluk, Takotna, Yakutat
+  - Zips: 99689, 99558, 99590, 99602, 99627, 99665, 99675, 99691, 99720, 99722, 99724, 99726, 99730, 99733, 99740
+- **Batch 016** | Counties: Yukon-Koyukuk Census Area
+  - Cities: Galena, Hughes, Huslia, Kaltag, Koyukuk, Lake Minchumina, Manley Hot Sprin, Minto, Nenana, Nulato, Rampart, Ruby, Stevens Village, Tanana, Venetie
+  - Zips: 99741, 99745, 99746, 99748, 99754, 99756, 99757, 99758, 99760, 99765, 99767, 99768, 99774, 99777, 99781
+- **Batch 017** | Counties: Yukon-Koyukuk Census Area
+  - Cities: Chalkyitsik
+  - Zips: 99788
+
+## AZ — Arizona ✓ COMPLETE
+**25/25 batches searched · 0 remaining**
+
+- **Batch 002** | Counties: Apache, Cochise
+  - Cities: , Benson, Blue Gap, Dennehotso, Lupton, Many Farms, Nazlini, Red Valley, Rock Point, Round Rock, Saint Michaels, Sanders, Sawmill, Tsaile, Window Rock
+  - Zips: 86508, 86511, 86512, 86515, 86520, 86535, 86538, 86540, 86544, 86545, 86547, 86549, 86556, 87328, 85602
+- **Batch 003** | Counties: Cochise
+  - Cities: Bisbee, Bowie, Cochise, Douglas, Dragoon, Elfrida, Fort Huachuca, Hereford, Huachuca City, Mc Neal, Pearce, Pomerene, Portal, Saint David
+  - Zips: 85603, 85605, 85606, 85607, 85608, 85609, 85610, 85613, 85615, 85616, 85617, 85625, 85627, 85630, 85632
+- **Batch 004** | Counties: Cochise, Coconino
+  - Cities: Bellemont, Cameron, Flagstaff, Forest Lakes, Fredonia, Grand Canyon, Gray Mountain, Happy Jack, Munds Park, Parks, Sierra Vista, Tombstone, Willcox, Zcta 85650
+  - Zips: 85635, 85638, 85643, 85650, 85931, 86001, 86004, 86015, 86016, 86017, 86018, 86020, 86022, 86023, 86024
+- **Batch 005** | Counties: Coconino, Gila
+  - Cities: Globe, Greenehaven, Hayden, Kaibito, Leupp, Marble Canyon, Miami, North Rim, Payson, Roosevelt, San Carlos, Strawberry, Supai, Tuba City, Williams
+  - Zips: 86035, 86036, 86040, 86045, 86046, 86052, 86053, 86435, 85235, 85501, 85539, 85541, 85544, 85545, 85550
+- **Batch 006** | Counties: Gila, Graham, Greenlee, La Paz
+  - Cities: Blue, Bouse, Bylas, Central, Clifton, Eden, Fort Thomas, Franklin, Morenci, Peridot, Pima, Safford, Thatcher, Tonto Basin, Young
+  - Zips: 85553, 85554, 85530, 85531, 85535, 85536, 85542, 85543, 85546, 85552, 85533, 85534, 85540, 85922, 85325
+- **Batch 007** | Counties: La Paz, Maricopa
+  - Cities: Cibola, Ehrenberg, Empire Landing, Phoenix, Quartzsite, Salome, Wenden
+  - Zips: 85328, 85334, 85344, 85346, 85348, 85357, 85003, 85004, 85006, 85007, 85008, 85009, 85012, 85013, 85014
+- **Batch 008** | Counties: Maricopa
+  - Cities: New River Stage, Phoenix
+  - Zips: 85015, 85016, 85017, 85018, 85019, 85020, 85021, 85022, 85023, 85024, 85027, 85028, 85029, 85031, 85032
+- **Batch 009** | Counties: Maricopa
+  - Cities: Phoenix
+  - Zips: 85033, 85034, 85035, 85037, 85040, 85041, 85043, 85044, 85045, 85048, 85050, 85051, 85053, 85054, 85085
+- **Batch 010** | Counties: Maricopa
+  - Cities: Chandler, Mesa, Phoenix, Zcta 85087
+  - Zips: 85086, 85087, 85201, 85202, 85203, 85204, 85205, 85206, 85207, 85208, 85210, 85212, 85213, 85215, 85224
+- **Batch 011** | Counties: Maricopa
+  - Cities: Arizona Boys Ran, Chandler, Gilbert, Higley, Paradise Valley, Scottsdale, Sun Lakes
+  - Zips: 85225, 85226, 85233, 85234, 85236, 85242, 85248, 85249, 85250, 85251, 85253, 85254, 85255, 85256, 85257
+- **Batch 012** | Counties: Maricopa
+  - Cities: Fort Mcdowell, Fountain Hills, Gilbert, Glendale, Rio Verde, Scottsdale, Tempe
+  - Zips: 85258, 85259, 85260, 85262, 85263, 85264, 85268, 85281, 85282, 85283, 85284, 85296, 85301, 85302, 85303
+- **Batch 013** | Counties: Maricopa
+  - Cities: Aguila, Arlington, Avondale, Buckeye, Cashion, Cave Creek, El Mirage, Gila Bend, Glendale, Luke Afb
+  - Zips: 85304, 85305, 85306, 85307, 85308, 85309, 85310, 85320, 85322, 85323, 85326, 85329, 85331, 85335, 85337
+- **Batch 015** | Counties: Maricopa, Mohave
+  - Cities: Bullhead City, Chloride, Colorado City, Desert Hills, Golden Valley, Kingman, Lake Havasu City, Littlefield, Peoria, Wickenburg, Wikieup
+  - Zips: 85381, 85382, 85390, 85360, 86021, 86401, 86403, 86404, 86406, 86413, 86426, 86429, 86430, 86431, 86432
+- **Batch 016** | Counties: Mohave, Navajo
+  - Cities: , Bullhead City, Cibeque, Clay Springs, Dolan Springs, Fort Apache, Heber, Meadview, Mohave Valley, Oatman, Peach Springs, Show Low, Topock, Valentine, Yucca
+  - Zips: 86433, 86434, 86436, 86437, 86438, 86440, 86441, 86442, 86444, 89024, 85901, 85911, 85923, 85926, 85928
+- **Batch 017** | Counties: Navajo
+  - Cities: Holbrook, Hotevilla, Indian Wells, Joseph City, Kayenta, Keams Canyon, Kykotsmovi Villa, Lakeside, Overgaard, Pinedale, Pinetop, Snowflake, Taylor, Whiteriver, Woodruff
+  - Zips: 85929, 85933, 85934, 85935, 85937, 85939, 85941, 85942, 86025, 86030, 86031, 86032, 86033, 86034, 86039
+- **Batch 018** | Counties: Navajo, Pima
+  - Cities: Amado, Arivaca, Green Valley, Mount Lemmon, Pinon, Pisinemo, Polacca, Sahuarita, Sasabe, Second Mesa, Shonto, Topawa, Vail, Why, Winslow
+  - Zips: 86042, 86043, 86047, 86054, 86510, 85321, 85601, 85614, 85619, 85629, 85633, 85634, 85639, 85641, 85645
+- **Batch 019** | Counties: Pima
+  - Cities: Casas Adobes, Marana, Rillito, Tucson
+  - Zips: 85653, 85654, 85701, 85704, 85705, 85706, 85708, 85710, 85711, 85712, 85713, 85714, 85715, 85716, 85718
+- **Batch 020** | Counties: Pima
+  - Cities: Oro Valley, Tucson, Zcta 85739
+  - Zips: 85719, 85730, 85735, 85736, 85737, 85739, 85741, 85742, 85743, 85745, 85746, 85747, 85748, 85749, 85750
+- **Batch 021** | Counties: Pinal
+  - Cities: Apache Junction, Arizona City, Bapchule, Casa Grande, Coolidge, Eleven Mile Corn, Eloy, Florence, Gold Canyon, Kearny, Mobile, Picacho, Red Rock, Sacaton, Stanfield
+  - Zips: 85219, 85220, 85221, 85222, 85223, 85228, 85230, 85231, 85232, 85237, 85239, 85241, 85245, 85247, 85272
+- **Batch 022** | Counties: Pinal, Santa Cruz, Yavapai
+  - Cities: Amado, Congress, Elgin, Mammoth, Nogales, Oracle, Patagonia, Rio Rico, Rock Springs, San Manuel, Sonoita, Superior, Tubac, Winkelman, Yarnell
+  - Zips: 85273, 85292, 85618, 85623, 85631, 85611, 85621, 85624, 85637, 85640, 85646, 85648, 85324, 85332, 85362
+- **Batch 023** | Counties: Yavapai
+  - Cities: Ash Fork, Bagdad, Camp Verde, Chino Valley, Clarkdale, Cornville, Cottonwood, Dewey, Groom Creek, Jerome, Kirkland, Mayer, Prescott, Prescott Valley, Zcta 86305
+  - Zips: 86301, 86303, 86305, 86314, 86320, 86321, 86322, 86323, 86324, 86325, 86326, 86327, 86331, 86332, 86333
+- **Batch 024** | Counties: Yavapai, Yuma
+  - Cities: Crown King, Dateland, Gadsden, Paulden, Rimrock, Roll, San Luis, Sedona, Seligman, Skull Valley, Somerton, Wellton, Yuma, Yuma Proving Gro
+  - Zips: 86334, 86335, 86336, 86337, 86338, 86343, 86351, 85333, 85336, 85347, 85349, 85350, 85356, 85364, 85365
+- **Batch 025** | Counties: Yuma
+  - Cities: Yuma
+  - Zips: 85367
+
+## CA — California ✓ COMPLETE
+**64/64 batches searched · 0 remaining**
+
+- **Batch 002** | Counties: Fresno
+  - Cities: Friant, Helm, Hume, Kerman, Kingsburg, Lakeshore, Mendota, Miramonte, Orange Cove, Parlier, Pinedale, Prather, Raisin, Reedley, Riverdale
+  - Zips: 93626, 93627, 93628, 93630, 93631, 93634, 93640, 93641, 93646, 93648, 93650, 93651, 93652, 93654, 93656
+- **Batch 003** | Counties: Fresno
+  - Cities: Easton, Fig Garden Villa, Fresno, San Joaquin, Sanger, Selma, Shaver Lake, Squaw Valley, Tollhouse, Tranquillity
+  - Zips: 93657, 93660, 93662, 93664, 93667, 93668, 93675, 93701, 93702, 93703, 93704, 93705, 93706, 93710, 93711
+- **Batch 004** | Counties: Fresno, Imperial
+  - Cities: Brawley, Calexico, Calipatria, Calwa, El Centro, Fresno, Heber, Holtville, Imperial, Niland
+  - Zips: 93720, 93721, 93722, 93725, 93726, 93727, 93728, 92227, 92231, 92233, 92243, 92249, 92250, 92251, 92257
+- **Batch 005** | Counties: Imperial, Inyo
+  - Cities: Big Pine, Darwin, Death Valley, Felicity, Independence, Keeler, Lone Pine, Ocotillo, Palo Verde, Salton City, Seeley, Shoshone, Tecopa, Toms Place, Westmorland
+  - Zips: 92259, 92266, 92273, 92275, 92281, 92283, 92328, 92384, 92389, 93513, 93514, 93522, 93526, 93530, 93545
+- **Batch 006** | Counties: Inyo, Kern
+  - Cities: Arvin, Bodfish, Buttonwillow, Cartago, Delano, Fellows, Frazier Park, Glennville, Gorman, Kernville, Lamont, Lost Hills, Mountain Mesa
+  - Zips: 93549, 93203, 93205, 93206, 93215, 93216, 93222, 93224, 93225, 93226, 93238, 93240, 93241, 93243, 93249
+- **Batch 007** | Counties: Kern
+  - Cities: Bakersfield, College Heights, Maricopa, Mc Farland, Mc Kittrick, Onyx, Pond, Shafter, Taft, Tupman, Weldon, Wofford Heights, Woody
+  - Zips: 93250, 93251, 93252, 93255, 93263, 93268, 93276, 93280, 93283, 93285, 93287, 93301, 93304, 93305, 93306
+- **Batch 008** | Counties: Kern
+  - Cities: Bakersfield, Boron, California City, Greenacres, Havilah, Johannesburg, Keene, Mojave, North Edwards, Pearsonville, Randsburg
+  - Zips: 93307, 93308, 93309, 93311, 93312, 93313, 93501, 93505, 93516, 93518, 93523, 93527, 93528, 93531, 93554
+- **Batch 010** | Counties: Los Angeles
+  - Cities: Los Angeles
+  - Zips: 90006, 90007, 90008, 90010, 90011, 90012, 90013, 90014, 90015, 90016, 90017, 90018, 90019, 90020, 90021
+- **Batch 011** | Counties: Los Angeles
+  - Cities: East Los Angeles, Los Angeles
+  - Zips: 90022, 90023, 90024, 90025, 90026, 90027, 90028, 90029, 90031, 90032, 90033, 90034, 90035, 90036, 90037
+- **Batch 012** | Counties: Los Angeles
+  - Cities: City Of Commerce, Cole, Los Angeles, Vernon
+  - Zips: 90038, 90039, 90040, 90041, 90042, 90043, 90044, 90045, 90046, 90047, 90048, 90049, 90056, 90057, 90058
+- **Batch 013** | Counties: Los Angeles
+  - Cities: Bell Gardens, Beverly Hills, Hazard, Los Angeles, West Hollywood
+  - Zips: 90059, 90061, 90062, 90063, 90064, 90065, 90066, 90067, 90068, 90069, 90071, 90077, 90201, 90210, 90211
+- **Batch 014** | Counties: Los Angeles
+  - Cities: Beverly Hills, Culver City, Downey, East Rancho Domi, El Segundo, Gardena, Hermosa Beach, Holly Park, Rancho Dominguez, Rosewood
+  - Zips: 90212, 90220, 90221, 90222, 90230, 90232, 90240, 90241, 90242, 90245, 90247, 90248, 90249, 90250, 90254
+- **Batch 015** | Counties: Los Angeles
+  - Cities: Huntington Park, Lawndale, Lynwood, Malibu, Manhattan Beach, Maywood, Pacific Palisade, Palos Verdes Est, Redondo Beach, South Gate, Topanga, Zcta 90275
+  - Zips: 90255, 90260, 90261, 90262, 90263, 90265, 90266, 90270, 90272, 90274, 90275, 90277, 90278, 90280, 90290
+- **Batch 016** | Counties: Los Angeles
+  - Cities: Inglewood, Lennox, Marina Del Rey, Playa Del Rey, Santa Monica, Torrance, Venice
+  - Zips: 90291, 90292, 90293, 90301, 90302, 90303, 90304, 90305, 90401, 90402, 90403, 90404, 90405, 90501, 90502
+- **Batch 026** | Counties: Los Angeles
+  - Cities: Diamond Bar, Monterey Park, Mt Baldy, Phillips Ranch, Pomona, Rosemead, San Dimas, San Gabriel, Temple City, West Covina
+  - Zips: 91755, 91759, 91765, 91766, 91767, 91768, 91770, 91773, 91775, 91776, 91780, 91789, 91790, 91791, 91792
+- **Batch 027** | Counties: Los Angeles
+  - Cities: Acton, Alhambra, Crystalaire, Elizabeth Lake, Hi Vista, Juniper Hills, Lake Los Angeles, Lancaster, Leona Valley, Palmdale, Quartz Hill, Valyermo
+  - Zips: 91801, 91803, 93510, 93532, 93534, 93535, 93536, 93543, 93544, 93550, 93551, 93552, 93553, 93563, 93591
+- **Batch 028** | Counties: Madera, Mariposa, Merced
+  - Cities: Ahwahnee, Bass Lake, Chowchilla, Coarsegold, Dos Palos, Fish Camp, Los Banos, Madera, North Fork, O Neals, Oakhurst, Raymond, South Dos Palos, Wishon
+  - Zips: 93601, 93604, 93610, 93614, 93637, 93638, 93643, 93644, 93645, 93653, 93669, 93623, 93620, 93635, 93665
+- **Batch 029** | Counties: Mono, Monterey
+  - Cities: Benton, Big Sur, Bradley, Bridgeport, Carmel, Crowley Lake, June Lake, Lee Vining, Prunedale, Salinas, San Ardo
+  - Zips: 93512, 93517, 93529, 93541, 93546, 93426, 93450, 93901, 93905, 93906, 93907, 93908, 93920, 93921, 93923
+- **Batch 030** | Counties: Monterey
+  - Cities: Carmel Valley, Chualar, Del Rey Oaks, Gonzales, Greenfield, Jolon, King City, Lockwood, Marina, Pacific Grove, Pebble Beach, San Lucas, Sand City, Soledad, Spreckels
+  - Zips: 93924, 93925, 93926, 93927, 93928, 93930, 93932, 93933, 93940, 93950, 93953, 93954, 93955, 93960, 93962
+- **Batch 031** | Counties: Orange
+  - Cities: Buena Park, Cerritos, Cypress, Foothill Ranch, La Habra Heights, Rossmoor, Seal Beach, Stanton, Sunset Beach, Surfside, Zcta 92602, Zcta 92604, Zcta 92606, Zcta 92612
+  - Zips: 90620, 90621, 90623, 90630, 90631, 90680, 90720, 90740, 90742, 90743, 92602, 92604, 92606, 92610, 92612
+- **Batch 032** | Counties: Orange
+  - Cities: Capistrano Beach, Corona Del Mar, Costa Mesa, Huntington Beach, Laguna Hills, Laguna Niguel, Lake Forest, Monarch Bay, Zcta 92614, Zcta 92618, Zcta 92620
+  - Zips: 92614, 92618, 92620, 92624, 92625, 92626, 92627, 92629, 92630, 92646, 92647, 92648, 92649, 92651, 92653
+- **Batch 034** | Counties: Orange
+  - Cities: Anaheim, Cowan Heights, Fountain Valley, Mission Viejo, Santa Ana, Santa Ana Height, Zcta 92694, Zcta 92780, Zcta 92782
+  - Zips: 92691, 92692, 92694, 92701, 92703, 92704, 92705, 92706, 92707, 92708, 92780, 92782, 92801, 92802, 92804
+- **Batch 035** | Counties: Orange
+  - Cities: Anaheim, Zcta 92831, Zcta 92832, Zcta 92833, Zcta 92835, Zcta 92840, Zcta 92841, Zcta 92843, Zcta 92844, Zcta 92845
+  - Zips: 92805, 92806, 92807, 92808, 92821, 92823, 92831, 92832, 92833, 92835, 92840, 92841, 92843, 92844, 92845
+- **Batch 036** | Counties: Orange, Riverside
+  - Cities: Chiriaco Summit, Corona, Indian Wells, Indio, Mira Loma, Palm Desert, Zcta 92861, Zcta 92865, Zcta 92866, Zcta 92867, Zcta 92868, Zcta 92869, Zcta 92870, Zcta 92886, Zcta 92887
+  - Zips: 92861, 92865, 92866, 92867, 92868, 92869, 92870, 92886, 92887, 91719, 91752, 92201, 92203, 92210, 92211
+- **Batch 037** | Counties: Riverside
+  - Cities: Banning, Beaumont, Cabazon, Cathedral City, Coachella, Desert Hot Sprin, Eagle Mountain, La Quinta, Lost Lake, Mecca, North Palm Sprin, Palm City, Palm Springs
+  - Zips: 92220, 92223, 92225, 92230, 92234, 92236, 92239, 92240, 92241, 92253, 92254, 92258, 92260, 92262, 92264
+- **Batch 038** | Counties: Riverside
+  - Cities: Calimesa, Lake Elsinore, March Air Force, Rancho Mirage, Riverside, Rubidoux, Salton City, Thousand Palms, White Water
+  - Zips: 92270, 92274, 92276, 92282, 92320, 92501, 92503, 92504, 92505, 92506, 92507, 92508, 92509, 92518, 92530
+- **Batch 039** | Counties: Riverside
+  - Cities: Aguanga, Anza, Hemet, Homeland, Idyllwild, Lake Elsinore, Moreno Valley, Mountain Center, Murrieta, Zcta 92551
+  - Zips: 92532, 92536, 92539, 92543, 92544, 92545, 92548, 92549, 92551, 92553, 92555, 92557, 92561, 92562, 92563
+- **Batch 040** | Counties: Riverside
+  - Cities: Canyon Lake, Gilman Hot Sprin, Lakeview, Mead Valley, Menifee, Perris, Romoland, San Jacinto, Sun City, Temecula, Wildomar, Winchester, Zcta 92860
+  - Zips: 92567, 92570, 92571, 92582, 92583, 92584, 92585, 92586, 92587, 92590, 92591, 92592, 92595, 92596, 92860
+- **Batch 042** | Counties: San Bernardino
+  - Cities: Adelanto, Amboy, Big River, Joshua Tree, Landers, Morongo Valley, Ontario, Parker Dam, Pioneertown, Twentynine Palms, Upland, Vidal, Yucca Valley
+  - Zips: 91764, 91784, 91786, 92242, 92252, 92256, 92267, 92268, 92277, 92278, 92280, 92284, 92285, 92301, 92304
+- **Batch 043** | Counties: San Bernardino
+  - Cities: Angelus Oaks, Apple Valley, Baker, Barstow, Big Bear City, Big Bear Lake, Bloomington, Blue Jay, Bryn Mawr, Cedar Glen, Cima, Fort Irwin, Grand Terrace, Zcta 92313
+  - Zips: 92305, 92307, 92308, 92309, 92310, 92311, 92313, 92314, 92315, 92316, 92317, 92318, 92321, 92323, 92324
+- **Batch 044** | Counties: San Bernardino
+  - Cities: Crestline, Daggett, East Highland, Essex, Fawnskin, Fontana, Forest Falls, Green Valley Lak, Helendale, Hesperia, Hinkley, Lake Arrowhead, Ludlow
+  - Zips: 92325, 92327, 92332, 92333, 92335, 92336, 92337, 92338, 92339, 92341, 92342, 92345, 92346, 92347, 92352
+- **Batch 045** | Counties: San Bernardino
+  - Cities: Arrowbear Lake, Loma Linda, Lucerne Valley, Lytle Creek, Mentone, Needles, Newberry Springs, Nipton, Oro Grande, Phelan, Pinon Hills, Redlands, Rialto
+  - Zips: 92354, 92356, 92358, 92359, 92363, 92364, 92365, 92368, 92371, 92372, 92373, 92374, 92376, 92377, 92382
+- **Batch 046** | Counties: San Bernardino, San Diego
+  - Cities: Alpine, Argus, George Afb, Muscoy, San Bernardino, Spring Valley La, Sugarloaf, Wrightwood, Yermo, Yucaipa
+  - Zips: 92386, 92392, 92394, 92397, 92398, 92399, 92401, 92404, 92405, 92407, 92408, 92410, 92411, 93562, 91901
+- **Batch 047** | Counties: San Diego
+  - Cities: Bonita, Boulevard, Campo, Chula Vista, Descanso, Dulzura, Guatay, Imperial Beach, Jacumba, Jamul, La Mesa
+  - Zips: 91902, 91905, 91906, 91910, 91911, 91913, 91914, 91915, 91916, 91917, 91931, 91932, 91934, 91935, 91941
+- **Batch 048** | Counties: San Diego
+  - Cities: Bonsall, Borrego Springs, Cardiff By The S, Carlsbad, Del Mar, La Mesa, Lemon Grove, Mount Laguna, National City, Pine Valley, Potrero, Spring Valley, Tecate
+  - Zips: 91942, 91945, 91948, 91950, 91962, 91963, 91977, 91978, 91980, 92003, 92004, 92007, 92008, 92009, 92014
+- **Batch 050** | Counties: San Diego
+  - Cities: Pala, Palomar Mountain, Pauma Valley, Poway, Ramona, Ranchita, Rancho Santa Fe, San Marcos, Santa Ysabel, Santee, Solana Beach, Valley Center, Vista, Zcta 92078
+  - Zips: 92059, 92060, 92061, 92064, 92065, 92066, 92067, 92069, 92070, 92071, 92075, 92078, 92082, 92083, 92084
+- **Batch 051** | Counties: San Diego
+  - Cities: San Diego, Warner Springs, Zcta 92091
+  - Zips: 92086, 92091, 92101, 92102, 92103, 92104, 92105, 92106, 92107, 92108, 92109, 92110, 92111, 92113, 92114
+- **Batch 052** | Counties: San Diego
+  - Cities: Coronado, San Diego
+  - Zips: 92115, 92116, 92117, 92118, 92119, 92120, 92121, 92122, 92123, 92124, 92126, 92127, 92128, 92129, 92130
+- **Batch 053** | Counties: San Diego, San Francisco
+  - Cities: San Diego, San Francisco, San Ysidro
+  - Zips: 92131, 92139, 92154, 92173, 94102, 94103, 94104, 94105, 94107, 94108, 94109, 94110, 94111, 94112, 94114
+- **Batch 054** | Counties: San Francisco
+  - Cities: San Francisco
+  - Zips: 94115, 94116, 94117, 94118, 94121, 94122, 94123, 94124, 94127, 94129, 94130, 94131, 94132, 94133, 94134
+- **Batch 055** | Counties: San Luis Obispo
+  - Cities: Adelaide, Atascadero, Avila Beach, Cambria, Cayucos, Creston, Grover Beach, Halcyon, Harmony, Los Osos, Morro Bay, Nipomo, Oceano, San Luis Obispo
+  - Zips: 93401, 93402, 93405, 93420, 93422, 93424, 93428, 93430, 93432, 93433, 93435, 93442, 93444, 93445, 93446
+- **Batch 056** | Counties: San Luis Obispo, San Mateo
+  - Cities: Belmont, Brisbane, California Valle, Colma, Daly City, Half Moon Bay, Hillsborough, La Honda, Loma Mar, Parkfield, Paso Robles, San Simeon, Shandon, Shell Beach, Templeton
+  - Zips: 93447, 93449, 93451, 93452, 93453, 93461, 93465, 94002, 94005, 94010, 94014, 94015, 94019, 94020, 94021
+- **Batch 058** | Counties: San Mateo, Santa Barbara
+  - Cities: Carpinteria, East Palo Alto, Montecito, Russian River, San Francisco, San Mateo, Santa Barbara, South San Franci, Summerland
+  - Zips: 94080, 94128, 94303, 94401, 94402, 94403, 93013, 93067, 93101, 93103, 93105, 93108, 93109, 93110, 93111
+- **Batch 059** | Counties: Santa Barbara, Santa Clara
+  - Cities: Ballard, Buellton, Casmalia, Goleta, Guadalupe, Lompoc, Los Alamos, Los Altos, Los Olivos, New Cuyama, Orcutt, Santa Maria, Santa Ynez, Zcta 93458
+  - Zips: 93117, 93254, 93427, 93429, 93434, 93436, 93437, 93440, 93441, 93454, 93455, 93458, 93460, 93463, 94022
+- **Batch 060** | Counties: Santa Clara, Tulare
+  - Cities: Alpaugh, California Hot S, Camp Nelson, Ducor, Los Altos, Mountain View, Palo Alto, Stanford, Sunnyvale
+  - Zips: 94024, 94040, 94041, 94043, 94086, 94087, 94089, 94301, 94304, 94305, 94306, 93201, 93207, 93208, 93218
+- **Batch 061** | Counties: Tulare
+  - Cities: Earlimart, Exeter, Farmersville, Giant Forest, Ivanhoe, Lemoncove, Lindsay, Pixley, Porterville, Posey, Richgrove, Springville, Strathmore, Terra Bella, Three Rivers
+  - Zips: 93219, 93221, 93223, 93235, 93244, 93247, 93256, 93257, 93260, 93261, 93262, 93265, 93267, 93270, 93271
+- **Batch 062** | Counties: Tulare, Ventura
+  - Cities: Badger, Cutler, Dinuba, Newbury Park, Orosi, Sultana, Thousand Oaks, Tipton, Traver, Tulare, Visalia, Waukena, Woodlake
+  - Zips: 93272, 93274, 93277, 93282, 93286, 93291, 93292, 93603, 93615, 93618, 93647, 93666, 93673, 91320, 91360
+- **Batch 063** | Counties: Ventura
+  - Cities: Bardsdale, Camarillo, Moorpark, Oak View, Ojai, Oxnard, San Buenaventura, Westlake Village, Zcta 91377
+  - Zips: 91361, 91362, 91377, 93001, 93003, 93004, 93010, 93012, 93015, 93021, 93022, 93023, 93030, 93033, 93035
+- **Batch 064** | Counties: Ventura
+  - Cities: Piru, Port Hueneme, Santa Paula, Santa Susana, Simi Valley, Somis
+  - Zips: 93040, 93041, 93060, 93063, 93065, 93066
+
+## CO — Colorado ✓ COMPLETE
+**33/33 batches searched · 0 remaining**
+
+- **Batch 002** | Counties: Adams, Alamosa, Arapahoe
+  - Cities: Alamosa, Aurora, Byers, Deer Trail, Henderson, Hooper, Lochbui, Mosca
+  - Zips: 80601, 80640, 81101, 81136, 81146, 80011, 80012, 80013, 80014, 80015, 80016, 80017, 80018, 80103, 80105
+- **Batch 003** | Counties: Arapahoe, Archuleta, Baca
+  - Cities: Arboles, Campo, Cherry Hills Vil, Chimney Rock, Chromo, Englewood, Greenwood Villag, Littleton, Lycan, Pagosa Springs, Springfield, Utleyville, Vilas
+  - Zips: 80110, 80111, 80112, 80120, 80121, 80122, 81121, 81127, 81128, 81147, 81029, 81064, 81073, 81084, 81087
+- **Batch 004** | Counties: Baca, Bent, Boulder
+  - Cities: Boulder, Broomfield, Caddoa, Deora, Eldorado Springs, Jamestown, Lafayette, Louisville, Mc Clave, Nederland, Walsh, Ward
+  - Zips: 81090, 81044, 81054, 81057, 80020, 80025, 80026, 80027, 80301, 80302, 80303, 80304, 80455, 80466, 80481
+- **Batch 005** | Counties: Boulder, Chaffee, Cheyenne, Clear Creek
+  - Cities: Allenspark, Arapahoe, Buena Vista, Cheyenne Wells, Dumont, Empire, Erie, Georgetown, Kit Carson, Longmont, Lyons, Nathrop, Salida, Wild Horse
+  - Zips: 80501, 80503, 80510, 80516, 80540, 81201, 81211, 81236, 80802, 80810, 80825, 80862, 80436, 80438, 80444
+- **Batch 006** | Counties: Clear Creek, Conejos, Costilla, Crowley
+  - Cities: Antonito, Blanca, Capulin, Chama, Crowley, Fort Garland, Idaho Springs, La Jara, Manassa, Mesita, Olney Springs, Romeo, San Pablo, Sanford, Silver Plume
+  - Zips: 80452, 80476, 81120, 81124, 81140, 81141, 81148, 81151, 81123, 81126, 81133, 81152, 81153, 81033, 81062
+- **Batch 007** | Counties: Crowley, Custer, Delta, Denver
+  - Cities: Austin, Cedaredge, Crawford, Delta, Denver, Eckert, Hotchkiss, Ordway, Paonia, Sugar City, Westcliffe, Wetmore
+  - Zips: 81063, 81076, 81252, 81253, 81410, 81413, 81415, 81416, 81418, 81419, 81428, 80202, 80203, 80204, 80205
+- **Batch 008** | Counties: Denver
+  - Cities: Denver, Glendale, Lowry Afb, Mountain View
+  - Zips: 80206, 80207, 80209, 80210, 80211, 80212, 80216, 80218, 80219, 80220, 80222, 80223, 80224, 80230, 80231
+- **Batch 009** | Counties: Denver, Dolores, Douglas
+  - Cities: Cahone, Castle Rock, Denver, Dove Creek, First Interstate, Franktown, Larkspur, Lincoln Center B, Rico, Two United Bank, Zcta 80246
+  - Zips: 80236, 80237, 80239, 80246, 80249, 80264, 80290, 80293, 80294, 81320, 81324, 81332, 80104, 80116, 80118
+- **Batch 010** | Counties: Douglas, Eagle
+  - Cities: Avon, Basalt, Bond, Burns, Deckers, Eagle, Edwards, Gilman, Gypsum, Highlands Ranch, Littleton, Mc Coy, Parker, Zcta 80138
+  - Zips: 80124, 80125, 80126, 80134, 80135, 80138, 80423, 80426, 80463, 81620, 81621, 81631, 81632, 81637, 81645
+- **Batch 011** | Counties: Eagle, El Paso
+  - Cities: Calhan, Elbert, Fountain, Green Mountain F, Manitou Springs, Monument, North Pole, Palmer Lake, Peyton, Ramah, Red Cliff, Rush, United States Ai, Vail, Wolcott
+  - Zips: 81649, 81655, 81657, 80106, 80132, 80133, 80808, 80809, 80817, 80819, 80829, 80831, 80832, 80833, 80840
+- **Batch 012** | Counties: El Paso
+  - Cities: Colorado Springs, Fort Carson, Yoder
+  - Zips: 80864, 80903, 80904, 80905, 80906, 80907, 80908, 80909, 80910, 80911, 80913, 80915, 80916, 80917, 80918
+- **Batch 013** | Counties: El Paso, Elbert, Fremont
+  - Cities: Agate, Canon City, Colorado Springs, Elizabeth, Kiowa, Matheson, Simla
+  - Zips: 80919, 80920, 80921, 80922, 80925, 80926, 80928, 80929, 80930, 80101, 80107, 80117, 80830, 80835, 81212
+- **Batch 014** | Counties: Fremont, Garfield, Gilpin
+  - Cities: Battlement Mesa, Black Hawk, Central City, Coal Creek, Coaldale, Cotopaxi, Florence, Glenwood Springs, Howard, Marble, New Castle, Penrose, Rifle, Rockvale, Silt
+  - Zips: 81221, 81222, 81223, 81226, 81233, 81240, 81244, 81601, 81623, 81635, 81647, 81650, 81652, 80422, 80427
+- **Batch 015** | Counties: Gilpin, Grand, Gunnison
+  - Cities: Almont, Cimarron, Crested Butte, Fraser, Granby, Grand Lake, Gunnison, Hot Sulphur Spri, Kremmling, Parlin, Parshall, Rollinsville, Tabernash, Winter Park
+  - Zips: 80474, 80442, 80446, 80447, 80451, 80459, 80468, 80478, 80482, 81210, 81220, 81224, 81225, 81230, 81239
+- **Batch 016** | Counties: Gunnison, Hinsdale, Huerfano, Jackson, Jefferson
+  - Cities: Arvada, Coalmont, Cowdrey, Cuchara, Farisita, Farista, Lake City, Pitkin, Powderhorn, Rand, Red Wing, Somerset, Walden
+  - Zips: 81241, 81243, 81434, 81235, 81040, 81055, 81066, 81089, 80430, 80434, 80473, 80480, 80002, 80003, 80004
+- **Batch 017** | Counties: Jefferson
+  - Cities: Arvada, Bow Mar, Denver, Edgewater, Golden, Lakewood, Littleton, Westminster, Wheat Ridge, Zcta 80007, Zcta 80128
+  - Zips: 80005, 80007, 80021, 80033, 80123, 80127, 80128, 80214, 80215, 80226, 80227, 80228, 80232, 80235, 80401
+- **Batch 019** | Counties: Kit Carson, La Plata, Lake, Larimer
+  - Cities: Bayfield, Bellvue, Berthoud, Drake, Durango, Estes Park, Fort Collins, Hesperus, Ignacio, Leadville, Seibert, Stratton, Twin Lakes, Vona
+  - Zips: 80834, 80836, 80861, 81122, 81137, 81301, 81326, 80461, 81251, 80512, 80513, 80515, 80517, 80521, 80524
+- **Batch 020** | Counties: Larimer, Las Animas
+  - Cities: Aguilar, Boncarbo, Branson, Fort Collins, Glen Haven, Laporte, Loveland, Red Feather Lake, Timnath, Villegreen, Virginia Dale, Wellington, Zcta 80528
+  - Zips: 80525, 80526, 80528, 80532, 80535, 80536, 80537, 80538, 80545, 80547, 80549, 81020, 81024, 81027, 81049
+- **Batch 021** | Counties: Las Animas, Lincoln, Logan
+  - Cities: Arriba, Atwood, Crook, Delhi, Fleming, Genoa, Hugo, Iliff, Jansen, Karval, Limon, Padroni, Trinchera, Weston, Willard
+  - Zips: 81059, 81081, 81082, 81091, 80804, 80818, 80821, 80823, 80828, 80722, 80726, 80728, 80736, 80741, 80745
+- **Batch 022** | Counties: Logan, Mesa
+  - Cities: Clifton, Fruita, Fruitvale, Gateway, Glade Park, Grand Junction, Loma, Mack, Palisade, Peetz, Sterling, Whitewater
+  - Zips: 80747, 80751, 81501, 81503, 81504, 81505, 81506, 81520, 81521, 81522, 81523, 81524, 81525, 81526, 81527
+- **Batch 023** | Counties: Mesa, Mineral, Moffat, Montezuma
+  - Cities: Collbran, Cortez, Craig, Creede, De Beque, Dinosaur, Dolores, Hamilton, Lewis, Mancos, Maybell, Mesa, Mesa Verde Natio, Molina, Pleasant View
+  - Zips: 81624, 81630, 81643, 81646, 81130, 81610, 81625, 81638, 81640, 81321, 81323, 81327, 81328, 81330, 81331
+- **Batch 024** | Counties: Montezuma, Montrose, Morgan
+  - Cities: Bedrock, Brush, Fort Morgan, Hillrose, Hoyt, Log Lane Village, Montrose, Naturita, Nucla, Olathe, Orchard, Redvale, Towaoc, Weldona, Yellow Jacket
+  - Zips: 81334, 81335, 81401, 81411, 81422, 81424, 81425, 81431, 80649, 80653, 80654, 80701, 80705, 80723, 80733
+- **Batch 025** | Counties: Morgan, Otero, Ouray, Park
+  - Cities: Alma, Bailey, Cheraw, Como, Fairplay, Fowler, Grant, Hartsel, Manzanola, Ouray, Ridgway, Rocky Ford, Snyder, Swink, Timpas
+  - Zips: 80750, 81030, 81039, 81050, 81058, 81067, 81077, 81427, 81432, 80420, 80421, 80432, 80440, 80448, 80449
+- **Batch 026** | Counties: Park, Phillips, Pitkin, Prowers
+  - Cities: Amherst, Aspen, Granada, Guffey, Hartman, Haxtun, Holly, Holyoke, Jefferson, Lake George, Lamar, Meredith, Snowmass, Snowmass Village, Woody Creek
+  - Zips: 80456, 80820, 80827, 80721, 80731, 80734, 81611, 81615, 81642, 81654, 81656, 81041, 81043, 81047, 81052
+- **Batch 027** | Counties: Prowers, Pueblo, Rio Blanco, Rio Grande
+  - Cities: Beulah, Boone, La Garita, Meeker, North Avondale, Pueblo, Pueblo West, Rangely, Rye, Wiley
+  - Zips: 81092, 81001, 81003, 81004, 81005, 81006, 81007, 81008, 81022, 81023, 81025, 81069, 81641, 81648, 81132
+- **Batch 028** | Counties: Rio Grande, Routt, Saguache
+  - Cities: Center, Clark, Crestone, Hayden, Moffat, Monte Vista, Oak Creek, Phippsburg, Saguache, Slater, South Fork, Steamboat Spring, Toponas, Villa Grove, Yampa
+  - Zips: 81144, 81154, 80428, 80467, 80469, 80479, 80483, 80487, 81639, 81653, 81125, 81131, 81143, 81149, 81155
+- **Batch 029** | Counties: Saguache, San Juan, San Miguel, Sedgwick, Summit, Teller
+  - Cities: Breckenridge, Copper Mountain, Cripple Creek, Egnar, Julesburg, Keystone, Norwood, Ophir, Ovid, Placerville, Sargents, Sedgwick, Silverthorne, Silverton, Telluride
+  - Zips: 81248, 81433, 81325, 81423, 81426, 81430, 81435, 80737, 80744, 80749, 80424, 80435, 80443, 80498, 80813
+- **Batch 030** | Counties: Teller, Washington, Weld
+  - Cities: Akron, Anton, Cope, Dacono, Divide, Firestone, Florissant, Frederick, Last Chance, Lindon, Longmont, Otis, Victor, Woodland Park
+  - Zips: 80814, 80816, 80860, 80863, 80866, 80720, 80740, 80743, 80757, 80801, 80812, 80504, 80514, 80520, 80530
+- **Batch 031** | Counties: Weld
+  - Cities: Ault, Briggsdale, Carr, Eaton, Evans, Garden City, Gilcrest, Gill, Greeley, Hudson, Johnstown, Mead, Milliken, Wattenburg, Windsor
+  - Zips: 80534, 80542, 80543, 80550, 80610, 80611, 80612, 80615, 80620, 80621, 80623, 80624, 80631, 80634, 80642
+- **Batch 032** | Counties: Weld, Yuma
+  - Cities: Eckley, Grover, Hale, Keenesburg, Kersey, La Salle, Laird, New Raymer, Nunn, Pierce, Platteville, Roggen, Stoneham, Vernon, Yuma
+  - Zips: 80643, 80644, 80645, 80648, 80650, 80651, 80652, 80729, 80742, 80754, 80727, 80735, 80755, 80758, 80759
+- **Batch 033** | Counties: Yuma
+  - Cities: Joes, Kirk
+  - Zips: 80822, 80824
+
+## GA — Georgia ✓ COMPLETE
+**42/48 batches searched · 6 remaining**
+
+- **Batch 027** | Counties: Henry, Houston, Irwin, Jackson
+  - Cities: Bonaire, Braselton, Centerville, Commerce, Elko, Hoschton, Jefferson, Kathleen, Ocilla, Perry, Robins A F B, Stockbridge, Warner Robins, Wray
+  - Zips: 30281, 31005, 31025, 31028, 31047, 31069, 31088, 31093, 31098, 31774, 31798, 30517, 30529, 30548, 30549
+- **Batch 028** | Counties: Jackson, Jasper, Jeff Davis, Jefferson
+  - Cities: Avera, Bartow, Denton, Hazlehurst, Louisville, Matthews, Maysville, Monticello, Nicholson, Pendergrass, Round Oak, Shady Dale, Talmo, Wadley, Zcta 30056
+  - Zips: 30558, 30565, 30567, 30575, 30056, 31038, 31064, 31085, 31532, 31539, 30413, 30434, 30477, 30803, 30818
+- **Batch 029** | Counties: Jefferson, Jenkins, Johnson, Jones, Lamar, Lanier, Laurens
+  - Cities: Barnesville, Cadwell, Dexter, Gray, Haddock, Kite, Lakeland, Millen, Milner, Perkins, Rockledge, Stapleton, Stockton, Wrens, Wrightsville
+  - Zips: 30823, 30833, 30442, 30822, 31049, 31096, 31032, 31033, 30204, 30257, 31635, 31649, 30454, 31009, 31019
+- **Batch 030** | Counties: Laurens, Lee, Liberty, Lincoln
+  - Cities: Allenhurst, Dudley, East Dublin, Fleming, Fort Stewart, Hinesville, Leesburg, Lincolnton, Midway, Montrose, Rentz, Riceboro, Smithville, Zcta 31027, Zcta 31315
+  - Zips: 31021, 31022, 31027, 31065, 31075, 31763, 31787, 31301, 31309, 31313, 31314, 31315, 31320, 31323, 30817
+- **Batch 031** | Counties: Long, Lowndes, Lumpkin, Macon
+  - Cities: Bemiss, Clyattville, Dahlonega, Hahira, Ideal, Lake Park, Ludowici, Marshallville, Montezuma, Moody Air Force, Naylor, Oglethorpe, Walthourville, Zcta 31605, Zcta 31606
+  - Zips: 31316, 31333, 31601, 31602, 31605, 31606, 31632, 31636, 31641, 31699, 30533, 31041, 31057, 31063, 31068
+- **Batch 032** | Counties: Madison, Marion, McDuffie, McIntosh, Meriwether
+  - Cities: Alvaton, Colbert, Comer, Danielsville, Darien, Dearing, Hull, Juniper, Mauk, Meridian, Sapelo Island, Stovall, Tazewell, Thomson, Townsend
+  - Zips: 30628, 30629, 30633, 30646, 31058, 31801, 31803, 30808, 30824, 31305, 31319, 31327, 31331, 30218, 30222
+
+## ID — Idaho ✓ COMPLETE
+**1/19 batches searched · 18 remaining**
+
+- **Batch 002** | Counties: Adams, Bannock, Bear Lake
+  - Cities: Arimo, Bern, Chubbuck, Council, Downey, Fruitvale, Indian Valley, Inkom, Lava Hot Springs, Mc Cammon, Mesa, New Meadows, Pocatello, Swanlake
+  - Zips: 83612, 83620, 83632, 83643, 83654, 83201, 83202, 83204, 83214, 83234, 83245, 83246, 83250, 83281, 83220
+- **Batch 003** | Counties: Bear Lake, Benewah, Bingham
+  - Cities: Bloomington, Desmet, Fernwood, Fish Haven, Fort Hall, Geneva, Georgetown, Montpelier, Paris, Plummer, Saint Charles, Saint Maries, Santa, Sterling, Tensed
+  - Zips: 83223, 83238, 83239, 83254, 83261, 83272, 83287, 83824, 83830, 83851, 83861, 83866, 83870, 83203, 83210
+- **Batch 004** | Counties: Bingham, Blaine, Boise
+  - Cities: Atomic City, Banks, Basalt, Bellevue, Blackfoot, Carey, Elk Horn, Firth, Hailey, Obsidian, Picabo, Pingree, Shelley, Springfield, Sun Valley
+  - Zips: 83215, 83218, 83221, 83236, 83262, 83274, 83277, 83313, 83320, 83333, 83340, 83348, 83353, 83354, 83602
+- **Batch 005** | Counties: Boise, Bonner
+  - Cities: Blanchard, Careywood, Clark Fork, Cocolalla, Coolin, Garden Valley, Hope, Horseshoe Bend, Idaho City, Laclede, Lowman, Nordman, Old Town, Placerville, Ponderay
+  - Zips: 83622, 83629, 83631, 83637, 83666, 83804, 83809, 83811, 83813, 83821, 83822, 83836, 83841, 83848, 83852
+- **Batch 006** | Counties: Bonner, Bonneville, Boundary
+  - Cities: Ammon, Bonners Ferry, Eastport, Idaho Falls, Iona, Irwin, Moyie Springs, Naples, Priest River, Ririe, Sagle, Sandpoint, Swan Valley
+  - Zips: 83856, 83860, 83864, 83401, 83402, 83404, 83406, 83427, 83428, 83443, 83449, 83805, 83826, 83845, 83847
+- **Batch 007** | Counties: Boundary, Butte, Camas, Canyon
+  - Cities: Arco, Caldwell, Corral, Fairfield, Greenleaf, Hill City, Howe, Melba, Middleton, Moore, Nampa, Notus, Parma, Porthill, Zcta 83607
+  - Zips: 83853, 83213, 83244, 83255, 83322, 83327, 83337, 83605, 83607, 83626, 83641, 83644, 83651, 83656, 83660
+- **Batch 008** | Counties: Canyon, Caribou, Cassia, Clark
+  - Cities: Albion, Almo, Bancroft, Burley, Declo, Dubois, Grace, Naf, Nampa, Oakley, Soda Springs, Spencer, Wayan, Wilder
+  - Zips: 83676, 83686, 83687, 83217, 83241, 83276, 83285, 83311, 83312, 83318, 83323, 83342, 83346, 83423, 83446
+- **Batch 009** | Counties: Clearwater, Custer, Elmore
+  - Cities: Ahsahka, Atlanta, Challis, Clayton, Elk River, Ellis, Glenns Ferry, Hammett, King Hill, Lenore, Mackay, Orofino, Pierce, Stanley, Weippe
+  - Zips: 83520, 83541, 83544, 83546, 83553, 83827, 83226, 83227, 83235, 83251, 83278, 83601, 83623, 83627, 83633
+- **Batch 010** | Counties: Elmore, Franklin, Fremont
+  - Cities: Ashton, Chester, Clifton, Dayton, Franklin, Island Park, Macks Inn, Mountain Home, Mountain Home A, Newdale, Preston, Saint Anthony, Teton, Thatcher, Weston
+  - Zips: 83647, 83648, 83228, 83232, 83237, 83263, 83283, 83286, 83420, 83421, 83429, 83433, 83436, 83445, 83451
+- **Batch 011** | Counties: Gem, Gooding, Idaho
+  - Cities: Bliss, Clearwater, Cottonwood, Dixie, Ferdinand, Gooding, Grangeville, Greencreek, Hagerman, Kamiah, Lucile, Montour, Ola, Sweet, Wendell
+  - Zips: 83617, 83657, 83670, 83314, 83330, 83332, 83355, 83522, 83525, 83526, 83530, 83533, 83536, 83539, 83542
+- **Batch 012** | Counties: Idaho, Jefferson, Jerome
+  - Cities: Eden, Hamer, Hazelton, Jerome, Lewisville, Menan, Monteview, Pollock, Rigby, Riggins, Roberts, Stites, Terreton, Warren, White Bird
+  - Zips: 83547, 83549, 83552, 83554, 83671, 83425, 83431, 83434, 83435, 83442, 83444, 83450, 83325, 83335, 83338
+- **Batch 013** | Counties: Kootenai, Latah
+  - Cities: Athol, Bayview, Bovill, Cataldo, Coeur D Alene, Harrison, Hayden Lake, Juliaetta, Kendrick, Medimont, Post Falls, Rathdrum, Spirit Lake, Worley
+  - Zips: 83801, 83803, 83810, 83814, 83815, 83833, 83835, 83842, 83854, 83858, 83869, 83876, 83535, 83537, 83806
+- **Batch 014** | Counties: Latah, Lemhi
+  - Cities: Carmen, Deary, Genesee, Gibbonsville, Harvard, Leadore, Lemhi, Moscow, North Fork, Patterson, Potlatch, Princeton, Salmon, Troy, Viola
+  - Zips: 83823, 83832, 83834, 83843, 83855, 83857, 83871, 83872, 83253, 83462, 83463, 83464, 83465, 83466, 83467
+- **Batch 015** | Counties: Lemhi, Lewis, Lincoln, Madison, Minidoka, Nez Perce
+  - Cities: Acequia, Craigmont, Dietrich, Heyburn, Nezperce, Paul, Reubens, Rexburg, Richfield, Shoshone, Shoup, South Gate Plaza, Sugar City, Tendoy, Winchester
+  - Zips: 83468, 83469, 83523, 83543, 83548, 83555, 83324, 83349, 83352, 83440, 83448, 83336, 83347, 83350, 83501
+- **Batch 016** | Counties: Nez Perce, Oneida, Owyhee, Payette, Power
+  - Cities: American Falls, Arbon, Culdesac, Fruitland, Grand View, Grasmere, Holbrook, Homedale, Lapwai, Malad City, Marsing, New Plymouth, Oreana, Payette, Peck
+  - Zips: 83524, 83540, 83545, 83243, 83252, 83604, 83624, 83628, 83639, 83650, 83619, 83655, 83661, 83211, 83212
+- **Batch 017** | Counties: Power, Shoshone, Teton
+  - Cities: Avery, Calder, Clarkia, Driggs, Felt, Kellogg, Kingston, Mullan, Murray, Osburn, Pinehurst, Rockland, Silverton, Smelterville, Wallace
+  - Zips: 83271, 83802, 83808, 83812, 83837, 83839, 83846, 83849, 83850, 83867, 83868, 83873, 83874, 83422, 83424
+- **Batch 018** | Counties: Teton, Twin Falls, Valley, Washington
+  - Cities: Buhl, Cambridge, Castleford, Donnelly, Filer, Hansen, Kimberly, Mc Call, Murtaugh, Rogerson, Tetonia, Twin Falls, Victor, West Mountain, Yellow Pine
+  - Zips: 83452, 83455, 83301, 83302, 83316, 83321, 83328, 83334, 83341, 83344, 83611, 83615, 83638, 83677, 83610
+- **Batch 019** | Counties: Washington
+  - Cities: Midvale, Weiser
+  - Zips: 83645, 83672
+
+## MT — Montana ✓ COMPLETE
+**1/24 batches searched · 23 remaining**
+
+- **Batch 002** | Counties: Big Horn, Blaine, Broadwater, Carbon
+  - Cities: Bearcreek, Belfry, Boyd, Bridger, Chinook, Edgar, Harlem, Hays, Hogeland, Lloyd, Toston, Townsend, Turner, Wyola, Zurich
+  - Zips: 59089, 59523, 59526, 59527, 59529, 59535, 59542, 59547, 59643, 59644, 59007, 59008, 59013, 59014, 59026
+- **Batch 003** | Counties: Carbon, Carter, Cascade
+  - Cities: Alzada, Belt, Black Eagle, Cascade, Ekalaka, Fort Shaw, Fromberg, Great Falls, Hammond, Red Lodge, Roberts, Roscoe, Silesia
+  - Zips: 59029, 59041, 59068, 59070, 59071, 59311, 59324, 59332, 59401, 59404, 59405, 59412, 59414, 59421, 59443
+- **Batch 004** | Counties: Cascade, Chouteau
+  - Cities: Big Sandy, Carter, Floweree, Fort Benton, Geraldine, Highwood, Loma, Monarch, Neihart, Sand Coulee, Simms, Stockett, Sun River, Ulm, Vaughn
+  - Zips: 59463, 59465, 59472, 59477, 59480, 59483, 59485, 59487, 59420, 59440, 59442, 59446, 59450, 59460, 59520
+- **Batch 005** | Counties: Custer, Daniels, Dawson, Deer Lodge, Fallon
+  - Cities: Anaconda, Baker, Bloomfield, Flaxville, Glendive, Ismay, Kinsey, Lindsay, Miles City, Peerless, Richey, Scobey, Volborg, Warmsprings, Whitetail
+  - Zips: 59301, 59336, 59338, 59351, 59222, 59253, 59263, 59276, 59259, 59315, 59330, 59339, 59711, 59756, 59313
+- **Batch 006** | Counties: Fallon, Fergus, Flathead
+  - Cities: Coffee Creek, Columbia Falls, Coram, Denton, Essex, Evergreen, Forestgrove, Grass Range, Hilger, Lewistown, Moore, Plevna, Roy, Swan Lake, Willard
+  - Zips: 59344, 59354, 59032, 59424, 59430, 59441, 59451, 59457, 59464, 59471, 59901, 59911, 59912, 59913, 59916
+- **Batch 007** | Counties: Flathead, Gallatin
+  - Cities: Belgrade, Big Sky, Bozeman, Hungry Horse, Kila, Lake Mc Donald, Lakeside, Marion, Martin City, Olney, Polebridge, Somers, West Glacier, Whitefish, Zcta 59718
+  - Zips: 59919, 59920, 59921, 59922, 59925, 59926, 59927, 59928, 59932, 59936, 59937, 59714, 59715, 59716, 59718
+- **Batch 008** | Counties: Gallatin, Garfield, Glacier, Golden Valley
+  - Cities: Babb, Brusett, Cohagen, Cut Bank, East Glacier Par, Gallatin Gateway, Jordan, Lavina, Manhattan, Mosby, Ryegate, Saint Mary, Sand Springs, Three Forks, West Yellowstone
+  - Zips: 59730, 59741, 59752, 59758, 59058, 59077, 59318, 59322, 59337, 59411, 59417, 59427, 59434, 59046, 59074
+- **Batch 009** | Counties: Granite, Hill, Jefferson
+  - Cities: Basin, Boulder, Box Elder, Cardwell, Drummond, Gildford, Hall, Havre, Hingham, Inverness, Jefferson City, Kremlin, Montana City, Philipsburg, Rudyard
+  - Zips: 59832, 59837, 59858, 59501, 59521, 59525, 59528, 59530, 59532, 59540, 59631, 59632, 59634, 59638, 59721
+- **Batch 010** | Counties: Jefferson, Judith Basin, Lake
+  - Cities: Arlee, Big Arm, Dayton, Elmo, Geyser, Moccasin, Moiese, Pablo, Polson, Raynesford, Ronan, Saint Ignatius, Stanford, Utica, Whitehall
+  - Zips: 59759, 59447, 59452, 59462, 59469, 59479, 59821, 59824, 59855, 59860, 59864, 59865, 59910, 59914, 59915
+- **Batch 011** | Counties: Lake, Lewis and Clark, Liberty
+  - Cities: Augusta, Canyon Creek, Chester, East Helena, Fort Harrison, Galata, Helena, Joplin, Lincoln, Marysville, Proctor, Rollins, Whitlash, Wolf Creek
+  - Zips: 59929, 59931, 59410, 59601, 59602, 59633, 59635, 59636, 59639, 59640, 59648, 59444, 59522, 59531, 59545
+- **Batch 012** | Counties: Lincoln, Madison
+  - Cities: Alder, Cameron, Ennis, Eureka, Fortine, Harrison, Libby, Mc Allister, Norris, Pony, Rexford, Sheridan, Stryker, Trego, Troy
+  - Zips: 59917, 59918, 59923, 59930, 59933, 59934, 59935, 59710, 59720, 59729, 59735, 59740, 59745, 59747, 59749
+- **Batch 013** | Counties: Madison, McCone, Meagher, Mineral, Missoula
+  - Cities: Brockway, Circle, Haugan, Martinsdale, Missoula, Ringling, Saint Regis, Saltese, Silver Star, Superior, Twin Bridges, Vida, Virginia City, White Sulphur Sp
+  - Zips: 59751, 59754, 59755, 59214, 59215, 59274, 59053, 59642, 59645, 59842, 59866, 59867, 59872, 59801, 59802
+- **Batch 014** | Counties: Missoula, Musselshell
+  - Cities: Alberton, Bonner, Clinton, Condon, Frenchtown, Greenough, Huson, Lolo, Melstone, Milltown, Missoula, Musselshell, Seeley Lake, Zcta 59808
+  - Zips: 59803, 59804, 59808, 59820, 59823, 59825, 59826, 59834, 59836, 59846, 59847, 59851, 59868, 59054, 59059
+- **Batch 015** | Counties: Musselshell, Park, Petroleum, Phillips
+  - Cities: Clyde Park, Cooke City, Dodson, Emigrant, Gardiner, Livingston, Loring, Malta, Pray, Roundup, Saco, Silver Gate, Whitewater, Wilsall, Winnett
+  - Zips: 59072, 59018, 59020, 59027, 59030, 59047, 59065, 59081, 59086, 59087, 59261, 59524, 59537, 59538, 59544
+- **Batch 016** | Counties: Phillips, Pondera, Powder River, Powell
+  - Cities: Avon, Belle Creek, Biddle, Brady, Conrad, Deer Lodge, Dupuyer, Elliston, Garrison, Heart Butte, Olive, Otter, Sonnette, Valier, Zortman
+  - Zips: 59546, 59416, 59425, 59432, 59448, 59486, 59062, 59314, 59317, 59343, 59348, 59713, 59722, 59728, 59731
+- **Batch 017** | Counties: Powell, Prairie, Ravalli, Richland
+  - Cities: Conner, Corvallis, Crane, Darby, Fallon, Florence, Gold Creek, Hamilton, Helmville, Ovando, Pinesdale, Stevensville, Sula, Terry, Victor
+  - Zips: 59733, 59843, 59854, 59326, 59349, 59827, 59828, 59829, 59833, 59840, 59841, 59870, 59871, 59875, 59217
+- **Batch 018** | Counties: Richland, Roosevelt, Rosebud
+  - Cities: Ashland, Bainville, Birney, Brockton, Colstrip, Culbertson, Froid, Homestead, Ingomar, Lambert, Lame Deer, Poplar, Savage, Sidney, Wolf Point
+  - Zips: 59243, 59262, 59270, 59201, 59212, 59213, 59218, 59226, 59242, 59255, 59003, 59012, 59039, 59043, 59323
+- **Batch 019** | Counties: Rosebud, Sanders, Sheridan
+  - Cities: Antelope, Dagmar, Dixon, Forsyth, Hathaway, Heron, Hot Springs, Lonepine, Medicine Lake, Noxon, Outlook, Plains, Rosebud, Thompson Falls, Trout Creek
+  - Zips: 59327, 59333, 59347, 59831, 59844, 59845, 59848, 59853, 59859, 59873, 59874, 59211, 59219, 59247, 59252
+- **Batch 020** | Counties: Sheridan, Silver Bow, Stillwater
+  - Cities: Absarokee, Butte, Columbus, Divide, Fishtail, Melrose, Nye, Park City, Plentywood, Ramsay, Rapelje, Redstone, Reserve, Walkerville, Westby
+  - Zips: 59254, 59257, 59258, 59275, 59701, 59727, 59743, 59748, 59750, 59001, 59019, 59028, 59061, 59063, 59067
+- **Batch 021** | Counties: Stillwater, Sweet Grass, Teton, Toole
+  - Cities: Big Timber, Bynum, Choteau, Dutton, Fairfield, Greycliff, Kevin, Ledger, Mc Leod, Melville, Oilmont, Pendroy, Power, Reedpoint, Shelby
+  - Zips: 59069, 59011, 59033, 59052, 59055, 59419, 59422, 59433, 59436, 59467, 59468, 59454, 59456, 59466, 59474
+- **Batch 022** | Counties: Toole, Treasure, Valley, Wheatland
+  - Cities: Bighorn, Fort Peck, Glasgow, Harlowton, Hinsdale, Hysham, Larslan, Lustre, Nashua, Opheim, Richland, Saint Marie, Sanders, Sunburst, Sweetgrass
+  - Zips: 59482, 59484, 59010, 59038, 59076, 59223, 59225, 59230, 59231, 59241, 59244, 59248, 59250, 59260, 59036
+- **Batch 023** | Counties: Wheatland, Wibaux, Yellowstone
+  - Cities: Acton, Ballantine, Billings, Broadview, Custer, Huntley, Judith Gap, Laurel, Molt, Pompeys Pillar, Shawmut, Shepherd, Twodot, Wibaux, Worden
+  - Zips: 59078, 59085, 59453, 59353, 59002, 59006, 59015, 59024, 59037, 59044, 59057, 59064, 59079, 59088, 59101
+- **Batch 024** | Counties: Yellowstone
+  - Cities: Billings, Billings Heights
+  - Zips: 59102, 59105, 59106
+
+## NM — New Mexico ✓ COMPLETE
+**1/24 batches searched · 23 remaining**
+
+- **Batch 002** | Counties: Bernalillo, Catron, Chaves
+  - Cities: Alameda, Albuquerque, Aragon, Datil, Glenwood, Luna, Pie Town, Quemado, Reserve, Roswell
+  - Zips: 87113, 87114, 87116, 87120, 87121, 87122, 87123, 87820, 87821, 87824, 87827, 87829, 87830, 88039, 88201
+- **Batch 003** | Counties: Chaves, Cibola, Colfax
+  - Cities: Angel Fire, Bluewater, Casa Blanca, Cimarron, Cubero, Dexter, Fence Lake, Grants, Hagerman, New Laguna, Paguate, Pinehill, Pueblo Of Acoma, Ramah, San Fidel
+  - Zips: 88230, 88232, 87005, 87007, 87014, 87020, 87034, 87038, 87040, 87049, 87315, 87321, 87357, 87710, 87714
+- **Batch 004** | Counties: Colfax, Curry, DeBaca, Dona Ana
+  - Cities: , Broadview, Clovis, Eagle Nest, Fort Sumner, Garfield, Grady, Maxwell, Melrose, Miami, Raton, Springer, Taiban, Texico, Yeso
+  - Zips: 87718, 87728, 87729, 87740, 87747, 88101, 88112, 88120, 88124, 88135, 88119, 88134, 88136, 79922, 87936
+- **Batch 005** | Counties: Dona Ana
+  - Cities: Berino, Chamberino, Chaparral, Fairacres, Hatch, Las Cruces, Rincon, Salem, Santa Teresa, White Sands Miss
+  - Zips: 87937, 87940, 87941, 88001, 88002, 88003, 88004, 88005, 88008, 88011, 88012, 88021, 88024, 88027, 88033
+- **Batch 006** | Counties: Dona Ana, Eddy
+  - Cities: Artesia, Carlsbad, Hope, La Mesa, Lake Arthur, Lakewood, Loco Hills, Loving, Malaga, Mesilla Park, Mesquite, Organ, Sunland Park, Vado, Whites City
+  - Zips: 88044, 88047, 88048, 88052, 88063, 88072, 88210, 88220, 88250, 88253, 88254, 88255, 88256, 88263, 88268
+- **Batch 007** | Counties: Grant, Guadalupe
+  - Cities: Anton Chico, Arenas Valley, Buckhorn, Central, Gila, Hachita, Hurley, Mimbres, Mule Creek, Pinos Altos, Redrock, San Lorenzo, Silver City, Tyrone, Vanadium
+  - Zips: 88022, 88023, 88025, 88026, 88038, 88040, 88041, 88043, 88049, 88051, 88053, 88055, 88061, 88065, 87711
+- **Batch 008** | Counties: Guadalupe, Harding, Hidalgo, Lea
+  - Cities: , Albert, Animas, Crossroads, Cuervo, Eunice, La Loma, Mills, Newkirk, Pastura, Playas, Road Forks, Rodeo, Roy, Vaughn
+  - Zips: 87724, 88353, 88417, 88431, 88435, 87730, 87733, 87743, 85534, 88009, 88020, 88045, 88056, 88114, 88231
+- **Batch 009** | Counties: Lea, Lincoln
+  - Cities: Alto, Capitan, Carrizozo, Corona, Fort Stanton, Glencoe, Hobbs, Hondo, Jal, Lovington, Maljamar, Mc Donald, Monument, Tatum, Zcta 88242
+  - Zips: 88240, 88242, 88252, 88260, 88262, 88264, 88265, 88267, 88301, 88312, 88316, 88318, 88323, 88324, 88336
+- **Batch 010** | Counties: Lincoln, Los Alamos, Luna, McKinley
+  - Cities: , Columbus, Deming, Gallup, Lincoln, Los Alamos, Nogal, Picacho, Prewitt, Ruidoso, Ruidoso Downs, San Patricio, Tinnie
+  - Zips: 88338, 88341, 88343, 88345, 88346, 88348, 88351, 87544, 88029, 88030, 86504, 86508, 86515, 87045, 87301
+- **Batch 011** | Counties: McKinley
+  - Cities: Brimhall, Church Rock, Continental Divi, Crownpoint, Fort Wingate, Gallup, Gamerco, Mentmore, Mexican Springs, Navajo, Rehoboth, Thoreau, Tohatchi, Vanderwagen, Zuni
+  - Zips: 87305, 87310, 87311, 87312, 87313, 87316, 87317, 87319, 87320, 87322, 87323, 87325, 87326, 87327, 87328
+- **Batch 012** | Counties: McKinley, Mora, Otero
+  - Cities: Alamogordo, Buena Vista, Chacon, Cleveland, Guadalupita, Holman, Jamestown, Mora, Ocate, Ojo Feliz, Rainsville, Valmora, Wagon Mound, Watrous, Yatahey
+  - Zips: 87347, 87375, 87712, 87713, 87715, 87722, 87723, 87732, 87734, 87735, 87736, 87750, 87752, 87753, 88310
+- **Batch 013** | Counties: Otero, Quay
+  - Cities: Bard, Bent, Cloudcroft, High Rolls Mount, Holloman Air For, House, La Luz, Mayhill, Mescalero, Pinon, Sacramento, Timberon, Tucumcari, Tularosa, Weed
+  - Zips: 88314, 88317, 88325, 88330, 88337, 88339, 88340, 88344, 88347, 88350, 88352, 88354, 88121, 88401, 88411
+- **Batch 014** | Counties: Quay, Rio Arriba
+  - Cities: Abiquiu, Alcalde, Canjilon, Canones, Cebolla, Chama, Coyote, Cundiyo, Gallina, Lindrith, Logan, Mc Alister, Nara Visa, San Jon, Youngsville
+  - Zips: 88426, 88427, 88430, 88434, 87012, 87017, 87029, 87064, 87510, 87511, 87515, 87516, 87518, 87520, 87522
+- **Batch 015** | Counties: Rio Arriba
+  - Cities: Dixon, Dulce, El Rito, Embudo, Espanola, Fairview, Hernandez, La Madera, Los Ojos, Medanales, Ojo Caliente, San Juan Pueblo, Tierra Amarilla, Truchas, Vallecitos
+  - Zips: 87527, 87528, 87530, 87531, 87532, 87533, 87537, 87539, 87548, 87549, 87551, 87566, 87575, 87578, 87581
+- **Batch 016** | Counties: Rio Arriba, Roosevelt, San Juan
+  - Cities: , Aztec, Causey, Dora, Elida, Farmington, Floyd, Milnesand, Nageezi, Pep, Portales, Rogers, Sheep Springs, Velarde
+  - Zips: 87582, 88113, 88115, 88116, 88118, 88125, 88126, 88130, 88132, 86514, 87037, 87364, 87401, 87402, 87410
+- **Batch 017** | Counties: San Juan, San Miguel
+  - Cities: Blanco, Bloomfield, Flora Vista, Fruitland, Kirtland, La Plata, Navajo Dam, Newcomb, Pecos, Ribera, Rowe, San Jose, Sanostee, Shiprock, Waterflow
+  - Zips: 87412, 87413, 87415, 87416, 87417, 87418, 87419, 87420, 87421, 87455, 87461, 87552, 87560, 87562, 87565
+- **Batch 018** | Counties: San Miguel, Sandoval
+  - Cities: Algodones, Bernalillo, Conchas Dam, Counselor, Cuba, Garita, Jemez Pueblo, Jemez Springs, Las Vegas, Montezuma, Rociada, Sapello, Serafina, Tererro, Villanueva
+  - Zips: 87569, 87573, 87583, 87701, 87731, 87742, 87745, 88416, 88421, 87001, 87004, 87013, 87018, 87024, 87025
+- **Batch 019** | Counties: Sandoval, Santa Fe
+  - Cities: Cerrillos, Cochiti Lake, Cochiti Pueblo, Corrales, Edgewood, La Jara, Placitas, Pojoaque Valley, Ponderosa, Rio Rancho, Santa Fe, Santo Domingo Pu, Stanley, Zia Pueblo
+  - Zips: 87027, 87041, 87043, 87044, 87048, 87052, 87053, 87072, 87083, 87124, 87010, 87015, 87056, 87501, 87505
+- **Batch 020** | Counties: Santa Fe, Sierra, Socorro
+  - Cities: Arrey, Bosque, Caballo, Claunch, Derry, Elephant Butte, Glorieta, Hillsboro, Lajoya, Lamy, Monticello, Santa Cruz, Truth Or Consequ, Williamsburg, Winston
+  - Zips: 87535, 87540, 87567, 87901, 87930, 87931, 87933, 87935, 87939, 87942, 87943, 88042, 87006, 87011, 87028
+- **Batch 021** | Counties: Socorro, Taos
+  - Cities: Alamo, Amalia, Arroyo Hondo, Arroyo Seco, Carson, Cerro, Chamisal, Costilla, Lemitar, Polvadera, San Acacia, San Antonio, Socorro, Taos Ski Valley, Veguita
+  - Zips: 87062, 87801, 87823, 87825, 87828, 87831, 87832, 87512, 87513, 87514, 87517, 87519, 87521, 87524, 87525
+- **Batch 022** | Counties: Taos, Torrance
+  - Cities: El Prado, Estancia, Llano, Mc Intosh, Moriarty, Mountainair, Penasco, Questa, Ranchos De Taos, Red River, San Cristobal, Taos, Tres Piedras, Vadito, Valdez
+  - Zips: 87529, 87543, 87553, 87556, 87557, 87558, 87564, 87571, 87577, 87579, 87580, 87016, 87032, 87035, 87036
+- **Batch 023** | Counties: Torrance, Union, Valencia
+  - Cities: Amistad, Boys Ranch, Capulin, Clayton, Clines Corners, Des Moines, Encino, Folsom, Gladstone, Grenville, Jarales, Los Lunas, Sedan, Torreon, Willard
+  - Zips: 87061, 87063, 87070, 88321, 88410, 88414, 88415, 88418, 88419, 88422, 88424, 88436, 87002, 87023, 87031
+- **Batch 024** | Counties: Valencia
+  - Cities: Bosque Farms, Peralta
+  - Zips: 87042, 87068
+
+## UT — Utah ✓ COMPLETE
+**1/19 batches searched · 18 remaining**
+
+- **Batch 002** | Counties: Box Elder, Cache
+  - Cities: Cache Junction, Clarkston, Hyde Park, Hyrum, Lewiston, Logan, Mendon, Millville, Park Valley, Plymouth, Portage, Riverside, Snowville, Tremonton, Willard
+  - Zips: 84329, 84330, 84331, 84334, 84336, 84337, 84340, 84304, 84305, 84318, 84319, 84320, 84321, 84325, 84326
+- **Batch 003** | Counties: Cache, Carbon, Daggett
+  - Cities: Dutch John, East Carbon, Helper, Kenilworth, Newton, Paradise, Price, Providence, Richmond, Smithfield, Sunnyside, Trenton, Wellington, Wellsville, Zcta 84341
+  - Zips: 84327, 84328, 84332, 84333, 84335, 84338, 84339, 84341, 84501, 84520, 84526, 84529, 84539, 84542, 84023
+- **Batch 004** | Counties: Daggett, Davis, Duchesne
+  - Cities: Altamont, Altonah, Bluebell, Bountiful, Centerville, Clearfield, Farmington, Hill Air Force B, Kaysville, Layton, Manila, North Salt Lake, Syracuse, Woods Cross
+  - Zips: 84046, 84010, 84014, 84015, 84025, 84037, 84040, 84041, 84054, 84056, 84075, 84087, 84001, 84002, 84007
+- **Batch 005** | Counties: Duchesne, Emery
+  - Cities: Castle Dale, Clawson, Cleveland, Duchesne, Elmo, Emery, Ferron, Fruitland, Hanna, Mountain Home, Myton, Neola, Roosevelt, Tabiona, Talmage
+  - Zips: 84021, 84027, 84031, 84051, 84052, 84053, 84066, 84072, 84073, 84513, 84516, 84518, 84521, 84522, 84523
+- **Batch 006** | Counties: Emery, Garfield, Grand
+  - Cities: Antimony, Boulder, Bryce, Bryce Canyon, Cannonville, Escalante, Green River, Hatch, Henrieville, Huntington, Moab, Orangeville, Panguitch, Thompson, Tropic
+  - Zips: 84525, 84528, 84537, 84712, 84716, 84717, 84718, 84726, 84735, 84736, 84759, 84764, 84776, 84532, 84540
+- **Batch 007** | Counties: Iron, Juab, Kane
+  - Cities: Alton, Beryl, Big Water, Brian Head, Eureka, Glendale, Levan, Modena, Mona, Mount Carmel, Nephi, Paragonah, Parowan, Pintura, Summit
+  - Zips: 84714, 84719, 84720, 84753, 84760, 84761, 84772, 84628, 84639, 84645, 84648, 84710, 84729, 84741, 84755
+- **Batch 008** | Counties: Kane, Millard, Morgan
+  - Cities: Croydon, Delta, Duck Creek Villa, Fillmore, Garrison, Hinckley, Holden, Kanosh, Leamington, Lynndyl, Morgan, Oak City, Oasis, Orderville, Scipio
+  - Zips: 84758, 84762, 84624, 84631, 84635, 84636, 84637, 84638, 84640, 84649, 84650, 84656, 84728, 84018, 84050
+- **Batch 009** | Counties: Piute, Rich, Salt Lake
+  - Cities: Bingham Canyon, Circleville, Draper, Garden City, Greenwich, Junction, Kingston, Laketown, Lark, Magna, Marysvale, Midvale, Randolph, Sandy, Woodruff
+  - Zips: 84723, 84732, 84740, 84743, 84750, 84028, 84038, 84064, 84086, 84006, 84020, 84044, 84047, 84065, 84070
+- **Batch 010** | Counties: Salt Lake
+  - Cities: Alta, Murray, Salt Lake City, Sandy, South Jordan, West Jordan
+  - Zips: 84084, 84088, 84092, 84093, 84094, 84095, 84101, 84102, 84103, 84104, 84105, 84106, 84107, 84108, 84109
+- **Batch 011** | Counties: Salt Lake, San Juan
+  - Cities: Aneth, Cottonwood, Holladay, Kearns, Murray, Salt Lake City, South Salt Lake, West Valley City
+  - Zips: 84111, 84112, 84113, 84115, 84116, 84117, 84118, 84119, 84120, 84121, 84123, 84124, 84128, 84180, 84510
+- **Batch 012** | Counties: San Juan, Sanpete
+  - Cities: , Axtell, Blanding, Bluff, Bullfrog, Centerfield, Chester, Ephraim, Fairview, La Sal, Mexican Hat, Montezuma Creek, Monticello, Monument Valley
+  - Zips: 84511, 84512, 84530, 84531, 84533, 84534, 84535, 84536, 86044, 86514, 84621, 84622, 84623, 84627, 84629
+- **Batch 013** | Counties: Sanpete, Sevier
+  - Cities: Annabella, Aurora, Fayette, Fountain Green, Gunnison, Manti, Mayfield, Moroni, Mount Pleasant, Redmond, Salina, Sigurd, Spring City, Venice, Wales
+  - Zips: 84630, 84632, 84634, 84642, 84643, 84646, 84647, 84662, 84667, 84620, 84652, 84654, 84657, 84701, 84711
+- **Batch 014** | Counties: Sevier, Summit, Tooele
+  - Cities: Austin, Coalville, Dugway, Echo, Elsinore, Glenwood, Henefer, Joseph, Kamas, Koosharem, Oakley, Park City, Peoa, Sevier, Zcta 84098
+  - Zips: 84724, 84730, 84739, 84744, 84754, 84766, 84017, 84024, 84033, 84036, 84055, 84060, 84061, 84098, 84022
+- **Batch 015** | Counties: Tooele, Uintah, Utah
+  - Cities: American Fork, Fort Duchesne, Grantsville, Ibapah, Jensen, Lapoint, Randlett, Rush Valley, Stockton, Tooele, Tridell, Trout Creek, Vernal, Vernon, Whiterocks
+  - Zips: 84029, 84034, 84069, 84071, 84074, 84080, 84083, 84026, 84035, 84039, 84063, 84076, 84078, 84085, 84003
+- **Batch 016** | Counties: Utah
+  - Cities: Alpine, Cedar Valley, Elberta, Goshen, Lehi, Lindon, Orem, Payson, Pleasant Grove, Provo, Vineyard, Woodland Hills, Zcta 84097
+  - Zips: 84004, 84013, 84042, 84043, 84057, 84058, 84062, 84097, 84601, 84604, 84606, 84626, 84633, 84651, 84653
+- **Batch 017** | Counties: Utah, Wasatch, Washington
+  - Cities: Central, Enterprise, Genola, Gunlock, Heber City, Hurricane, Ivins, La Verkin, Mapleton, Midway, New Harmony, Santa Clara, Spanish Fork, Springville, Wallsburg
+  - Zips: 84655, 84660, 84663, 84664, 84032, 84049, 84082, 84722, 84725, 84733, 84737, 84738, 84745, 84757, 84765
+- **Batch 018** | Counties: Washington, Wayne, Weber
+  - Cities: Bicknell, Dammeron Valley, Fremont, Hanksville, Lyman, Pine Valley, Roy, St George, Teasdale, Toquerville, Torrey, Veyo, Virgin, Washington, Zcta 84790
+  - Zips: 84770, 84774, 84779, 84780, 84781, 84782, 84783, 84790, 84715, 84734, 84747, 84749, 84773, 84775, 84067
+- **Batch 019** | Counties: Weber
+  - Cities: Eden, Hooper, Huntsville, Ogden
+  - Zips: 84310, 84315, 84317, 84401, 84403, 84404, 84405, 84414
+
+## WY — Wyoming ✓ COMPLETE
+**2/12 batches searched · 10 remaining**
+
+- **Batch 003** | Counties: Carbon, Converse, Crook
+  - Cities: Aladdin, Alva, Beulah, Devils Tower, Dixon, Douglas, Elk Mountain, Encampment, Glenrock, Hanna, Lost Springs, Medicine Bow, Ryan Park, Savery, Walcott
+  - Zips: 82323, 82324, 82325, 82327, 82329, 82331, 82332, 82335, 82224, 82633, 82637, 82710, 82711, 82712, 82714
+- **Batch 004** | Counties: Crook, Fremont
+  - Cities: Arapahoe, Crowheart, Dubois, Ethete, Fort Washakie, Gas Hills, Hudson, Hulett, Jeffrey City, Kinnear, Lysite, Pavillion, Pine Haven, Shoshoni, Sundance
+  - Zips: 82720, 82721, 82729, 82310, 82501, 82510, 82512, 82513, 82514, 82515, 82516, 82520, 82523, 82642, 82649
+- **Batch 005** | Counties: Goshen, Hot Springs, Johnson, Laramie
+  - Cities: Buffalo, Cheyenne, Fort Laramie, Grass Creek, Hawk Springs, Huntley, Jay Em, Kaycee, Kirby, Lagrange, Linch, Lingle, Torrington, Veteran, Yoder
+  - Zips: 82212, 82217, 82218, 82219, 82221, 82223, 82240, 82243, 82244, 82430, 82443, 82639, 82640, 82834, 82001
+- **Batch 006** | Counties: Laramie, Lincoln
+  - Cities: Afton, Albin, Auburn, Bedford, Burns, Carpenter, Cheyenne, Cokeville, Granite Canon, Hillsdale, Horse Creek, Kemmerer, Meriden, Pine Bluffs
+  - Zips: 82007, 82009, 82050, 82053, 82054, 82059, 82060, 82061, 82081, 82082, 83101, 83110, 83111, 83112, 83114
+- **Batch 007** | Counties: Lincoln, Natrona
+  - Cities: Alcova, Alpine, Casper, Diamondville, Etna, Fairview, Freedom, Frontier, Grover, La Barge, Opal, Smoot, Thayne
+  - Zips: 83116, 83118, 83119, 83120, 83121, 83122, 83123, 83124, 83126, 83127, 83128, 82601, 82604, 82609, 82620
+- **Batch 008** | Counties: Natrona, Niobrara, Park, Platte
+  - Cities: Cody, Edgerton, Evansville, Fishing Bridge, Frannie, Lance Creek, Lusk, Manville, Meeteetse, Midwest, Mills, Powell, Ralston, Van Tassell, Wheatland
+  - Zips: 82635, 82636, 82643, 82644, 82222, 82225, 82227, 82242, 82190, 82414, 82423, 82433, 82435, 82440, 82201
+- **Batch 009** | Counties: Platte, Sheridan
+  - Cities: Acme, Arvada, Banner, Big Horn, Chugwater, Clearmont, Dayton, Glendo, Guernsey, Hartville, Leiter, Parkman, Ranchester, Sheridan, Story
+  - Zips: 82210, 82213, 82214, 82215, 82801, 82831, 82832, 82833, 82835, 82836, 82837, 82838, 82839, 82842, 82844
+- **Batch 010** | Counties: Sheridan, Sublette, Sweetwater
+  - Cities: Bairoil, Bondurant, Boulder, Cora, Daniel, Farson, Granger, Green River, Little America, Marbleton, Mc Kinnon, Pinedale, Rock Springs, Wamsutter, Wyarno
+  - Zips: 82845, 82922, 82923, 82925, 82941, 83113, 83115, 82322, 82336, 82901, 82929, 82932, 82934, 82935, 82938
+- **Batch 011** | Counties: Sweetwater, Teton, Uinta, Washakie
+  - Cities: Colter Bay, Evanston, Fort Bridger, Kelly, Lonetree, Lyman, Moose, Moran, Mountain View, Point Of Rocks, Reliance, Robertson, Superior, Wilson, Worland
+  - Zips: 82942, 82943, 82945, 83001, 83011, 83012, 83013, 83014, 82930, 82933, 82936, 82937, 82939, 82944, 82401
+- **Batch 012** | Counties: Washakie, Weston
+  - Cities: Newcastle, Osage, Ten Sleep, Upton
+  - Zips: 82442, 82701, 82723, 82730
+
+## AL — Alabama ✓ COMPLETE
+**42/42 batches searched · 0 remaining**
+
+## AR — Arkansas ✓ COMPLETE
+**40/40 batches searched · 0 remaining**
+
+## IL — Illinois ✓ COMPLETE
+**66/66 batches searched · 0 remaining**
+
+---
+
+## MS — Mississippi ✓ COMPLETE
+**29/29 batches searched · 0 remaining**
+
+## ND — North Dakota ✓ COMPLETE
+**26/26 batches searched · 0 remaining**
+
+## SD — South Dakota ✓ COMPLETE
+**26/26 batches searched · 0 remaining**
+
+## IA — Iowa ✓ COMPLETE
+**63/63 batches searched · 0 remaining**
+
+## IN — Indiana ✓ COMPLETE
+**51/51 batches searched · 0 remaining**
+
+## KS — Kansas ✓ COMPLETE
+**47/47 batches searched · 0 remaining**
+
+## Completed: LA (86 resources · 35 batches)
+
+**35/35 batches searched · 0 remaining**
+
+## Completed: MA (92 resources · 34 batches)
+
+**34/34 batches searched · 0 remaining**
+
+## Completed: NE (68 resources · 39 batches)
+
+**39/39 batches searched · 0 remaining**
+
+## Completed: TN (97 resources · 41 batches)
+
+**41/41 batches searched · 0 remaining**
+
+## Completed: OK (103 resources · 44 batches)
+
+**44/44 batches searched · 0 remaining**
+
+## Completed: KY (109 resources · 51 batches)
+
+**51/51 batches searched · 0 remaining**
+
+## Completed: WI (129 resources · 52 batches)
+
+**52/52 batches searched · 0 remaining**
+
+## Completed: MN (144 resources · 58 batches)
+
+**58/58 batches searched · 0 remaining**
+
+## Completed: MI (158 resources · 65 batches)
+
+**65/65 batches searched · 0 remaining**
+
+## Completed: TX (137 resources · 65 batches)
+
+**65/65 batches searched · 0 remaining**
+
+## Completed: MO (124 resources · 66 batches)
+
+**66/66 batches searched · 0 remaining**
+
+## Completed: OH (171 resources · 66 batches)
+
+**66/66 batches searched · 0 remaining**
+
+---
+
+## All 50 states + DC complete!
+
+These states need batch config files created before scanning can begin.

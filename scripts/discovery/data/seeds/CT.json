@@ -1,0 +1,3215 @@
+[
+  {
+    "name": "Alpha Community Services YMCA - Families in Transition Emergency Shelter",
+    "description": "Connecticut's largest emergency family shelter with 40+ beds, providing housing for 60-90 days with on-site case managers, 24-hour supervision, and meals for families in crisis.",
+    "address": "309 Brooks Street, Bridgeport, CT 06608",
+    "phone": "203-367-5830",
+    "url": "https://cccymca.org/locations/alpha/emergency-shelter/",
+    "categorySlug": "housing",
+    "zipCode": "06608"
+  },
+  {
+    "name": "Angel Food Pantry at Christ Church Norwalk",
+    "description": "Church-run food pantry offering groceries by appointment to Norwalk residents in need. Some Sunday distributions at 11:00am; contact by phone to schedule.",
+    "address": "2 Emerson Street, Norwalk, CT 06855",
+    "phone": "(203) 866-7442",
+    "url": "https://www.christchurchnorwalk.org",
+    "categorySlug": "food",
+    "zipCode": "06855"
+  },
+  {
+    "name": "Bethel Community Food Pantry",
+    "description": "Nonprofit food pantry providing free food and hygiene items to Bethel residents by appointment, distributing twice monthly on the first and third Monday and on Wednesdays.",
+    "address": "211 Greenwood Avenue, Bethel, CT 06801",
+    "phone": "(203) 947-1754",
+    "url": "https://www.bethelcommunityfoodpantry.com",
+    "categorySlug": "food",
+    "zipCode": "06801"
+  },
+  {
+    "name": "Bethlehem House I & II – Transitional Housing",
+    "description": "Catholic Charities transitional housing program providing furnished apartments to homeless or at-risk families with low income, operated in partnership with the Stratford Coalition for the Homeless.",
+    "address": "389 Jackson Ave, Stratford, CT 06615",
+    "phone": "(203) 375-7915",
+    "url": "https://www.ccfairfield.org/project/bethlehem-house/",
+    "categorySlug": "housing",
+    "zipCode": "06615"
+  },
+  {
+    "name": "Black Rock Food Pantry",
+    "description": "Serves working families in need throughout Bridgeport with weekly Saturday grocery distributions including non-perishable cereals, canned goods, and paper products.",
+    "address": "2676 Fairfield Avenue, Bridgeport, CT 06605",
+    "phone": "203-610-1222",
+    "url": "https://blackrockfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "06605"
+  },
+  {
+    "name": "Bridgeport Rescue Mission",
+    "description": "Provides emergency shelter for men and women, a food pantry, hot meals, transitional housing, and long-term residential life-transformation programs for people facing hunger, homelessness, and addiction.",
+    "address": "725 Park Avenue, Bridgeport, CT 06604",
+    "phone": "203-333-4087",
+    "url": "https://bridgeportrescuemission.org/",
+    "categorySlug": "housing",
+    "zipCode": "06604"
+  },
+  {
+    "name": "Brookfield Social Services Food Pantry",
+    "description": "Municipal food pantry operated by the Town of Brookfield offering food, household, and personal hygiene items to residents in need. Open Tuesdays 9:30–11 am by appointment.",
+    "address": "100 Pocono Road, Brookfield, CT 06804",
+    "phone": "(203) 775-5308",
+    "url": "https://www.brookfieldct.gov/social-services/pages/brookfield-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "06804"
+  },
+  {
+    "name": "Brotherhood In Action of Bethel",
+    "description": "All-volunteer nonprofit providing food, rent, and utility assistance exclusively to Bethel residents; organizes food collections and deliveries at Thanksgiving, Christmas, and Easter and throughout the year.",
+    "address": "137 Greenwood Avenue, Bethel, CT 06801",
+    "phone": "(203) 792-2291",
+    "url": "https://www.biabethel.org",
+    "categorySlug": "community",
+    "zipCode": "06801"
+  },
+  {
+    "name": "Center for Women and Families of Eastern Fairfield County",
+    "description": "Provides safe emergency housing for women and children fleeing domestic violence, along with support services, serving residents of Bridgeport, Easton, Fairfield, Monroe, Stratford, and Trumbull.",
+    "address": "753 Fairfield Avenue, Bridgeport, CT 06604",
+    "phone": "203-334-6154",
+    "url": "https://womenfamilies.org/",
+    "categorySlug": "crisis",
+    "zipCode": "06604"
+  },
+  {
+    "name": "Community Action Agency of Western Connecticut (CAAWC)",
+    "description": "Community action agency offering a free monthly food pantry for low-income Greater Danbury households and emergency assistance connecting individuals and families to shelter, clothing, and other crisis services.",
+    "address": "75 Balmforth Avenue, Danbury, CT 06810",
+    "phone": "(203) 743-3785",
+    "url": "https://caawc.org",
+    "categorySlug": "food",
+    "zipCode": "06810"
+  },
+  {
+    "name": "Daily Bread Food Pantry",
+    "description": "Largest food pantry in the Greater Danbury area, serving over 800 families per week with free groceries by appointment. Open Monday through Saturday.",
+    "address": "125 Park Avenue, Danbury, CT 06810",
+    "phone": "(203) 826-8252",
+    "url": "https://www.dailybreadfoodpantry.com",
+    "categorySlug": "food",
+    "zipCode": "06810"
+  },
+  {
+    "name": "Dorothy Day Hospitality House",
+    "description": "Catholic Worker soup kitchen and day shelter feeding the hungry and assisting people experiencing homelessness in Danbury. Provides daily meals and referrals to other services.",
+    "address": "11 Spring Street, Danbury, CT 06810",
+    "phone": "(203) 743-7988",
+    "url": "https://www.dorothydaydanbury.org",
+    "categorySlug": "food",
+    "zipCode": "06810"
+  },
+  {
+    "name": "Easton Social Services Food Closet",
+    "description": "Town of Easton social services maintains a food closet available to Easton residents, and connects community members to resources including Operation Hope's food pantry which serves Easton residents.",
+    "address": "640 Morehouse Road, Easton, CT 06612",
+    "phone": null,
+    "url": "https://www.eastonct.gov/social-services",
+    "categorySlug": "food",
+    "zipCode": "06612"
+  },
+  {
+    "name": "F.A.I.T.H. Food Pantry of Newtown",
+    "description": "Provides free groceries, toiletries, and cleaning supplies monthly to residents of Newtown, Sandy Hook, Dodgingtown, Botsford, and Hawleyville. Requires photo ID and proof of residence.",
+    "address": "46 Church Hill Road, Newtown, CT 06470",
+    "phone": "203-837-0816",
+    "url": "https://www.newtownfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "06470"
+  },
+  {
+    "name": "Faith Food Pantry at St. John's Episcopal Church",
+    "description": "Distributes groceries to Newtown and Sandy Hook area residents twice weekly. Requires photo ID and proof of residence for first-time visitors.",
+    "address": "31 Pecks Lane, Newtown, CT 06482",
+    "phone": "203-426-8507",
+    "url": "https://www.foodpantries.org/li/faith_food_pantry_st_johns_episcopal_church_06482",
+    "categorySlug": "food",
+    "zipCode": "06482"
+  },
+  {
+    "name": "Faith Tabernacle Church Food Pantry",
+    "description": "Church-run food pantry open to anyone in need of food assistance in Stamford, Darien, Greenwich, and New Canaan. Distributes free groceries every Thursday 7:30–10:30am; proof of address required.",
+    "address": "29 Grove Street, Stamford, CT 06901",
+    "phone": "(203) 348-8755",
+    "url": "https://faithtabct.org",
+    "categorySlug": "food",
+    "zipCode": "06901"
+  },
+  {
+    "name": "Feed the People Food Pantry",
+    "description": "Provides emergency food and referrals to individuals and families in the Bridgeport area, with multiple distribution days each week.",
+    "address": "301 Bostwick Avenue, Bridgeport, CT 06605",
+    "phone": "203-260-3953",
+    "url": "https://www.facebook.com/FeedThePeopleFoodPantry/",
+    "categorySlug": "food",
+    "zipCode": "06605"
+  },
+  {
+    "name": "Food Bank of Lower Fairfield County",
+    "description": "Regional food bank supplying food to pantries and meal programs across Darien, Greenwich, New Canaan, Norwalk, Stamford, and Wilton. Distributes millions of pounds of food annually to partner agencies serving lower Fairfield County.",
+    "address": "461 Glenbrook Road, Stamford, CT 06906",
+    "phone": "(203) 358-8898",
+    "url": "https://www.foodbanklfc.org",
+    "categorySlug": "food",
+    "zipCode": "06906"
+  },
+  {
+    "name": "Friendship Baptist Church Food Pantry",
+    "description": "Community food pantry providing free groceries to Stratford residents. Open every Friday from 12 noon to 1 pm; serves Stratford residents only with proof of residency.",
+    "address": "235 Albert Ave, Stratford, CT 06614",
+    "phone": "(203) 375-9911",
+    "url": "https://friendshipstratford.org",
+    "categorySlug": "food",
+    "zipCode": "06614"
+  },
+  {
+    "name": "Haitian American Catholic Center Food Pantry",
+    "description": "Faith-based food pantry serving the Haitian and broader Stamford community with free groceries every Thursday 11am–2pm.",
+    "address": "93 Hope Street, Stamford, CT 06906",
+    "phone": "(203) 406-0343",
+    "url": "https://www.facebook.com/HaitianCatholicCenterStamford/",
+    "categorySlug": "food",
+    "zipCode": "06906"
+  },
+  {
+    "name": "Homes with Hope",
+    "description": "Provides emergency shelter for men and women, supportive housing for individuals and families, rapid re-housing, a community kitchen and food pantry, and youth development programs throughout Fairfield County.",
+    "address": "PO Box 631, Westport, CT 06881",
+    "phone": "203-226-3426",
+    "url": "https://www.hwhct.org/",
+    "categorySlug": "housing",
+    "zipCode": "06611"
+  },
+  {
+    "name": "Housing Authority of the City of Danbury",
+    "description": "Public housing authority providing affordable housing through public housing units and Section 8 Housing Choice Vouchers to low- and moderate-income families in Danbury.",
+    "address": "2 Mill Ridge Road, Danbury, CT 06811",
+    "phone": "(203) 744-2500",
+    "url": "https://www.hacdct.org",
+    "categorySlug": "housing",
+    "zipCode": "06811"
+  },
+  {
+    "name": "Hungerford Place – Sherman's Food Pantry",
+    "description": "Community food assistance program serving Sherman residents since 1993; currently provides grocery gift cards to those in need so that no one in Sherman goes hungry.",
+    "address": "6 Church Road, Sherman, CT 06784",
+    "phone": "(860) 354-6114",
+    "url": "https://www.shermanny.org/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "06784"
+  },
+  {
+    "name": "Inspirica",
+    "description": "Stamford-based nonprofit ending homelessness and housing insecurity for individuals and families through emergency shelters, permanent supportive housing, case management, employment programs, and early childhood services. Shelters over 500 people nightly.",
+    "address": "141 Franklin Street, Stamford, CT 06901",
+    "phone": "(203) 388-0100",
+    "url": "https://www.inspiricact.org",
+    "categorySlug": "housing",
+    "zipCode": "06901"
+  },
+  {
+    "name": "Kids In Crisis",
+    "description": "Nonprofit providing 24/7 emergency shelter, crisis counseling, and community education programs for children of all ages and families in crisis across Fairfield County.",
+    "address": "1 Salem Street, Cos Cob, CT 06807",
+    "phone": "(203) 622-6556",
+    "url": "https://www.kidsincrisis.org",
+    "categorySlug": "crisis",
+    "zipCode": "06807"
+  },
+  {
+    "name": "King's Pantry",
+    "description": "Nonprofit food pantry distributing nonperishable food and meats to those in need in the Bridgeport area, open Monday through Thursday.",
+    "address": "30 Florence Street, Bridgeport, CT 06607",
+    "phone": "203-335-9255",
+    "url": "https://connecticutfoodbanks.org/food-bank/kings-pantry/",
+    "categorySlug": "food",
+    "zipCode": "06607"
+  },
+  {
+    "name": "Ladles of Love Food Pantry",
+    "description": "Community food pantry at First United Methodist Church of Shelton distributing non-perishable food, hygiene items, and cleaning supplies to neighbors in need.",
+    "address": "188 Rocky Rest Road, Shelton, CT 06484",
+    "phone": "203-929-3537",
+    "url": "https://umcshelton.org/ladles-of-love-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "06484"
+  },
+  {
+    "name": "Monroe Food Pantry",
+    "description": "Provides one week's worth of food per month to financially struggling Monroe residents using a client-choice distribution model. Serves Monroe zip code 06468.",
+    "address": "980 Monroe Turnpike, Monroe, CT 06468",
+    "phone": "203-452-2817",
+    "url": "https://www.monroect.gov/p/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "06468"
+  },
+  {
+    "name": "Neighbor to Neighbor",
+    "description": "Nonprofit providing free weekly groceries to over 1,100 Greenwich residents and free clothing and household items; no appointment required to visit the food pantry up to once per week.",
+    "address": "248 East Putnam Avenue, Greenwich, CT 06830",
+    "phone": "(203) 622-9208",
+    "url": "https://www.ntngreenwich.org",
+    "categorySlug": "food",
+    "zipCode": "06830"
+  },
+  {
+    "name": "New Canaan Food Pantry",
+    "description": "Municipal food pantry operated by the Town of New Canaan Human Services Department, located at St. Mark's Episcopal Church; distributes free non-perishable food to New Canaan residents every other Tuesday.",
+    "address": "111 Oenoke Ridge, New Canaan, CT 06840",
+    "phone": "(203) 594-3076",
+    "url": "https://www.newcanaan.info/departments/human_services/new_canaan_food_pantry.php",
+    "categorySlug": "food",
+    "zipCode": "06840"
+  },
+  {
+    "name": "New Covenant Center Food Pantry & Soup Kitchen",
+    "description": "Faith-based hunger relief center providing a soup kitchen with 300 hot meals daily and a food pantry that gives 1,600 individuals 10 days' worth of groceries each month. Open to low-income residents of Stamford, Darien, New Canaan, and Greenwich.",
+    "address": "174 Richmond Hill Avenue, Stamford, CT 06902",
+    "phone": "(203) 964-8228",
+    "url": "https://www.ccfairfield.org/project/new-covenant-center/",
+    "categorySlug": "food",
+    "zipCode": "06902"
+  },
+  {
+    "name": "New Fairfield Social Services Food Pantry",
+    "description": "Municipal food pantry providing an emergency supply of food to New Fairfield residents by appointment; also offers a mobile pantry distribution on Tuesday, Thursday, and Saturday.",
+    "address": "4 Brush Hill Road, New Fairfield, CT 06812",
+    "phone": "(203) 312-5669",
+    "url": "https://www.newfairfield.org/municipal-departments/services/social-services/programs",
+    "categorySlug": "food",
+    "zipCode": "06812"
+  },
+  {
+    "name": "nOURish Bridgeport Super Food Pantry and Baby Center",
+    "description": "Serves over 3,000 individuals weekly with perishable and non-perishable groceries, fresh produce from an indoor hydroponic farm, and distributes diapers and formula to approximately 400 infants monthly.",
+    "address": "2200 North Avenue, Bridgeport, CT 06604",
+    "phone": "203-335-3107",
+    "url": "https://www.nourishbpt.org/super-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "06604"
+  },
+  {
+    "name": "Open Doors",
+    "description": "Housing and homeless services organization in Norwalk providing nightly emergency shelter with 95+ beds, the Manna House community kitchen serving daily hot meals, a grocery pantry, and housing placement support.",
+    "address": "4 Merritt Street, Norwalk, CT 06854",
+    "phone": "(203) 866-1057",
+    "url": "https://www.opendoorsct.org",
+    "categorySlug": "housing",
+    "zipCode": "06854"
+  },
+  {
+    "name": "Operation Hope Community Kitchen",
+    "description": "Provides hot meals (lunch and dinner) to neighbors in need Monday through Friday at the Nichols Street outreach and community kitchen location.",
+    "address": "50 Nichols Street, Fairfield, CT 06824",
+    "phone": "203-254-2935",
+    "url": "https://operationhopect.org/",
+    "categorySlug": "food",
+    "zipCode": "06430"
+  },
+  {
+    "name": "Operation Hope Food Pantry",
+    "description": "Provides a food pantry and community kitchen serving over 800 local households monthly with free groceries and hot meals. Serves residents of Fairfield, Southport, and Easton.",
+    "address": "636 Old Post Road, Fairfield, CT 06430",
+    "phone": "203-292-5588",
+    "url": "https://operationhopect.org/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "06430"
+  },
+  {
+    "name": "Pacific House",
+    "description": "Regional emergency shelter for men in lower Fairfield County providing nightly housing for up to 90 men, three meals per day, case management, and pathways to permanent affordable housing.",
+    "address": "597 Pacific Street, Stamford, CT 06902",
+    "phone": "(203) 406-0017",
+    "url": "https://www.pacifichouse.org",
+    "categorySlug": "housing",
+    "zipCode": "06902"
+  },
+  {
+    "name": "Park City Initiative",
+    "description": "Nonprofit working to decrease food insecurity and help families in crisis in Bridgeport and neighboring communities, operating a food pantry and providing emergency assistance.",
+    "address": "857 Howard Avenue, Bridgeport, CT 06604",
+    "phone": "203-873-0260",
+    "url": "https://www.parkcityinitiative.org/",
+    "categorySlug": "food",
+    "zipCode": "06604"
+  },
+  {
+    "name": "Person to Person – Darien",
+    "description": "Nonprofit offering a food pantry, emergency financial assistance for rent and utilities, clothing, and support services to lower Fairfield County residents including Darien, New Canaan, and Stamford.",
+    "address": "1864 Post Road, Darien, CT 06820",
+    "phone": "(203) 655-0048",
+    "url": "https://p2phelps.org",
+    "categorySlug": "food",
+    "zipCode": "06820"
+  },
+  {
+    "name": "Prospect House Emergency Shelter",
+    "description": "Recovery Network of Programs emergency shelter providing daily access for homeless adults with comprehensive case management, transportation, and life skills training. Access via 211.",
+    "address": "392 Prospect Street, Bridgeport, CT 06604",
+    "phone": "203-576-9041",
+    "url": "https://recovery-programs.org/program/prospect-house/",
+    "categorySlug": "housing",
+    "zipCode": "06604"
+  },
+  {
+    "name": "Redding Social Services Food Pantry",
+    "description": "Town of Redding social services program providing grocery gift cards and emergency food assistance to West Redding and Redding residents in crisis, plus referrals for housing, utilities, and fuel assistance.",
+    "address": "37 Lonetown Road, Redding, CT 06896",
+    "phone": "(203) 938-3580",
+    "url": "https://reddingct.gov/government/services/social-services/",
+    "categorySlug": "food",
+    "zipCode": "06896"
+  },
+  {
+    "name": "Revival House Food Pantry",
+    "description": "Community-centered organization providing free food distribution, family services, and local outreach to Stamford residents. Food pantry open Mondays, Wednesdays, and Fridays 9am–1pm.",
+    "address": "980 Hope Street, Stamford, CT 06902",
+    "phone": "(203) 609-1104",
+    "url": "https://www.revivalhousect.org",
+    "categorySlug": "food",
+    "zipCode": "06902"
+  },
+  {
+    "name": "Ridgefield Social Services Food Pantry",
+    "description": "Municipal food pantry at Ridgefield Town Hall providing grocery gift cards and emergency food assistance to Ridgefield residents in crisis. Appointment required; contact Karen Gaudian.",
+    "address": "400 Main Street, Ridgefield, CT 06877",
+    "phone": "(203) 431-2754",
+    "url": "https://www.ridgefieldct.gov/departments/social_services/food_pantry.php",
+    "categorySlug": "food",
+    "zipCode": "06877"
+  },
+  {
+    "name": "Saint James Roman Catholic Church Food Pantry",
+    "description": "Parish-run food pantry distributing free groceries to community members in need. Open on the 2nd, 3rd, and 4th Saturday of each month from 10 am to 12 pm.",
+    "address": "2110 Main Street, Stratford, CT 06615",
+    "phone": "(203) 375-5887",
+    "url": "https://stjamesstratford.com/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "06615"
+  },
+  {
+    "name": "Salvation Army Bridgeport Corps Community Center",
+    "description": "Provides food pantry assistance, housing support, youth programs, and year-round services for low-income families in Bridgeport and surrounding communities including Monroe, Stratford, and Trumbull.",
+    "address": "30 Elm Street, Bridgeport, CT 06604",
+    "phone": "203-334-0995",
+    "url": "https://easternusa.salvationarmy.org/southern-new-england/bridgeport/",
+    "categorySlug": "food",
+    "zipCode": "06604"
+  },
+  {
+    "name": "Salvation Army Danbury Corps Community Center",
+    "description": "Provides emergency food assistance through a monthly food pantry for Danbury residents and a weekly Breadline program open to all Greater Danbury residents on Wednesdays and Fridays.",
+    "address": "15 Foster Street, Danbury, CT 06810",
+    "phone": "(203) 748-4077",
+    "url": "https://easternusa.salvationarmy.org/southern-new-england/danbury/",
+    "categorySlug": "food",
+    "zipCode": "06810"
+  },
+  {
+    "name": "Salvation Army Stamford Corps",
+    "description": "Community center offering a food pantry with free groceries and a diaper bank for low-income Stamford residents, plus holiday assistance programs. Pantry open Mondays and Wednesdays 9am–noon.",
+    "address": "198 Selleck Street, Stamford, CT 06902",
+    "phone": "(203) 359-2320",
+    "url": "https://easternusa.salvationarmy.org/southern-new-england/stamford/",
+    "categorySlug": "food",
+    "zipCode": "06902"
+  },
+  {
+    "name": "Schilo Seventh-Day Adventist Church Food Pantry",
+    "description": "Church-run food pantry serving Stamford residents in need. Distributes free groceries; contact the church for current schedule and appointment information.",
+    "address": "977 Hope Street, Stamford, CT 06907",
+    "phone": "(203) 316-1818",
+    "url": "https://www.facebook.com/schilofoodpantry/",
+    "categorySlug": "food",
+    "zipCode": "06907"
+  },
+  {
+    "name": "Schoke Jewish Family Service — Kosher Food Pantry",
+    "description": "Free Kosher food pantry open to community members experiencing financial difficulty, with personal care items and pharmacy and transportation assistance also available. Open Monday and Tuesday 10am–1pm.",
+    "address": "196 Greyrock Place, Stamford, CT 06901",
+    "phone": "203-921-4161",
+    "url": "https://www.ctjfs.org/",
+    "categorySlug": "food",
+    "zipCode": "06901"
+  },
+  {
+    "name": "Spooner House",
+    "description": "Operated by Area Congregations Together, provides food pantry services, emergency food assistance, and a seasonal No Freeze emergency drop-in shelter (November through March) for Lower Naugatuck Valley residents.",
+    "address": "30 Todd Road, Shelton, CT 06484",
+    "phone": "203-225-0453",
+    "url": "http://www.actspooner.org/",
+    "categorySlug": "food",
+    "zipCode": "06484"
+  },
+  {
+    "name": "St. Andrew's Lutheran Church Mobile Food Pantry",
+    "description": "Free mobile food distribution serving Ridgefield and surrounding residents every other Friday from 9:45–10:45am in partnership with Connecticut Foodshare.",
+    "address": "6 Ivy Hill Road, Ridgefield, CT 06877",
+    "phone": "(203) 431-2777",
+    "url": "https://standrewsridgefield.org/mobile-food-bank/",
+    "categorySlug": "food",
+    "zipCode": "06877"
+  },
+  {
+    "name": "St. Thomas Apostle Church – St. Vincent de Paul Food Pantry",
+    "description": "Parish food pantry providing free groceries to Norwalk residents in need. Open Tuesdays and Saturdays 10:00–11:30am; requires a picture ID and new visitors complete an intake application.",
+    "address": "203 East Avenue, Norwalk, CT 06855",
+    "phone": "(203) 866-1644",
+    "url": "https://www.stphilipnorwalk.org",
+    "categorySlug": "food",
+    "zipCode": "06855"
+  },
+  {
+    "name": "Sterling House Community Center – Resource Connection",
+    "description": "Community center food pantry (Resource Connection Program) providing free groceries to Stratford-area residents. Open Monday–Thursday 1–3 pm; appointment available Friday and Saturday.",
+    "address": "2283 Main Street, Stratford, CT 06615",
+    "phone": "(203) 378-2606",
+    "url": "https://www.sterlinghousecc.org",
+    "categorySlug": "food",
+    "zipCode": "06615"
+  },
+  {
+    "name": "Thomas Merton Center",
+    "description": "Catholic Charities-operated day center serving over 300 guests daily with breakfast and lunch, food pantry, day shelter, case management, showers, and access to medical and dental services.",
+    "address": "43 Madison Avenue, Bridgeport, CT 06604",
+    "phone": "203-367-9036",
+    "url": "https://www.ccfairfield.org/project/thomas-merton-center/",
+    "categorySlug": "community",
+    "zipCode": "06604"
+  },
+  {
+    "name": "Town of Monroe Community & Social Services",
+    "description": "Provides information, referrals, and direct assistance to Monroe residents including food support, energy assistance, SNAP applications, and housing referrals.",
+    "address": "7 Fan Hill Road, Monroe, CT 06468",
+    "phone": "203-452-3770",
+    "url": "https://www.monroect.gov/p/community-social-services",
+    "categorySlug": "community",
+    "zipCode": "06468"
+  },
+  {
+    "name": "Town of Weston – Town Hall Annex Food Pantry",
+    "description": "Municipal food pantry operated by Weston Human Services, providing free groceries to Weston residents in need. Contact Social Services to arrange access.",
+    "address": "24 School Road, Weston, CT 06883",
+    "phone": "(203) 222-2663",
+    "url": "https://www.westonct.gov",
+    "categorySlug": "food",
+    "zipCode": "06883"
+  },
+  {
+    "name": "Town of Westport Department of Human Services Food Pantry",
+    "description": "Municipal food pantry providing food assistance to Westport residents in need. Contact the Department of Human Services to arrange an appointment.",
+    "address": "110 Myrtle Avenue, Westport, CT 06880",
+    "phone": "(203) 341-1050",
+    "url": "https://www.westportct.gov",
+    "categorySlug": "food",
+    "zipCode": "06880"
+  },
+  {
+    "name": "Triangle Community Center – Community Pantry",
+    "description": "LGBTQ+ community center operating a free confidential pantry stocked with non-perishable food, hygiene supplies, and fresh produce, plus housing navigation and social service advocacy for Fairfield County residents.",
+    "address": "650 West Avenue, Norwalk, CT 06850",
+    "phone": "(203) 853-0600",
+    "url": "https://www.ctpridecenter.org",
+    "categorySlug": "food",
+    "zipCode": "06850"
+  },
+  {
+    "name": "Trumbull Food Pantry",
+    "description": "Municipal food pantry serving all Trumbull residents who meet income guidelines, open by appointment Monday, Tuesday, and Thursday with both shelf-stable monthly shopping and weekly fresh produce distribution.",
+    "address": "23 Priscilla Place, Trumbull, CT 06611",
+    "phone": "203-452-5136",
+    "url": "https://www.trumbull-ct.gov/310/Food-Pantry",
+    "categorySlug": "food",
+    "zipCode": "06611"
+  },
+  {
+    "name": "Wilson Memorial Church of God Food Pantry",
+    "description": "Faith-based food pantry in Stamford providing free groceries to individuals and families in need. Contact the church for current hours and eligibility.",
+    "address": "164 Richmond Hill Avenue, Stamford, CT 06902",
+    "phone": "(203) 348-0834",
+    "url": "https://www.wilsonmemorialchurchct.org",
+    "categorySlug": "food",
+    "zipCode": "06902"
+  },
+  {
+    "name": "Wilton Food Pantry",
+    "description": "Community food pantry operated at the Comstock Community Center providing perishable and non-perishable food to eligible Wilton residents on a weekly basis. Open Mondays 12–4pm and Thursdays 10am–1pm.",
+    "address": "180 School Road, Wilton, CT 06897",
+    "phone": "(203) 834-6238",
+    "url": "https://www.wiltonct.gov/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "06897"
+  },
+  {
+    "name": "YWCA Greenwich – Emergency Shelter",
+    "description": "Provides confidential 24/7 emergency shelter and comprehensive support services for survivors of domestic violence and their children; no one is turned away and all services are free.",
+    "address": null,
+    "phone": "(203) 622-0003",
+    "url": "https://ywcagreenwich.org/what-we-do/emergency-shelter/",
+    "categorySlug": "crisis",
+    "zipCode": "06830"
+  },
+  {
+    "name": "Zion Lutheran Church Food Pantry",
+    "description": "Church food pantry providing free groceries to low-income residents in the Stamford area. Contact the church directly for hours and appointment scheduling.",
+    "address": "132 Glenbrook Road, Stamford, CT 06902",
+    "phone": "(203) 327-7751",
+    "url": "https://www.zionlutherannorwalk.org",
+    "categorySlug": "food",
+    "zipCode": "06902"
+  },
+  {
+    "name": "Berlin Family Food Pantry",
+    "description": "Provides non-perishable food items to Berlin residents facing financial difficulty once a month. A brief intake interview is conducted on the first visit to connect clients with additional programs and services.",
+    "address": "240 Kensington Rd, Berlin, CT 06037",
+    "phone": "860-828-7007",
+    "url": "https://www.berlinfamilyfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "06037"
+  },
+  {
+    "name": "Bloomfield Food Bank",
+    "description": "Town-operated food bank for Bloomfield residents only, open two days per week with extended evening hours on the second Monday of each month by appointment. Requires proof of residency.",
+    "address": "800 Bloomfield Ave, Bloomfield, CT 06002",
+    "phone": "860-242-1895",
+    "url": "https://www.bloomfieldct.gov/1077/Bloomfield-Food-Bank",
+    "categorySlug": "food",
+    "zipCode": "06002"
+  },
+  {
+    "name": "Bread for Life Soup Kitchen",
+    "description": "A Southington nonprofit committed to ending hunger, providing daily hot lunches Monday–Friday, a Wednesday evening meal, home-delivered meals for homebound seniors and homeless families, and a children's summer lunch program.",
+    "address": "31 Vermont Avenue, Southington, CT 06489",
+    "phone": "(860) 276-8389",
+    "url": "https://breadforlife.us/",
+    "categorySlug": "food",
+    "zipCode": "06489"
+  },
+  {
+    "name": "Brian's Angels Homeless Outreach",
+    "description": "Volunteer-run homeless outreach organization distributing personal care packages, clothing, food, and supplies to homeless adults in the Greater Bristol area. Drop-in center open Tuesday–Sunday noon–3pm.",
+    "address": "99 Summer St, Bristol, CT 06010",
+    "phone": "860-212-5971",
+    "url": "https://briansangels.org/",
+    "categorySlug": "crisis",
+    "zipCode": "06010"
+  },
+  {
+    "name": "Burlington Food & Fuel Bank",
+    "description": "Town-operated food and fuel bank for Burlington residents, open every other Tuesday 9:30–11am. Emergency appointments available by phone. Also coordinates Mobile Food Share distribution.",
+    "address": "200 Spielman Hwy, Burlington, CT 06013",
+    "phone": "860-673-6789",
+    "url": "https://www.burlingtonct.gov/270/Food-Fuel-Bank",
+    "categorySlug": "food",
+    "zipCode": "06013"
+  },
+  {
+    "name": "Canton Food Bank at Trinity Episcopal Church",
+    "description": "Nonprofit food bank operating since 1983, distributing food to Canton-area residents on Mondays 6–7pm and Tuesdays 7:30–11:30am. Requires photo ID or proof of address.",
+    "address": "55 River Rd, Collinsville, CT 06022",
+    "phone": "860-693-2024",
+    "url": "https://trinitycollinsville.org/canton-food-bank/",
+    "categorySlug": "food",
+    "zipCode": "06022"
+  },
+  {
+    "name": "Chrysalis Center Freshplace Food Pantry",
+    "description": "A fresh food pantry serving the Upper Albany and Asylum Hill neighborhoods of Hartford, offering fruits, vegetables, dairy, and meat by appointment twice per month, along with case management to address food insecurity.",
+    "address": "255 Homestead Avenue, Hartford, CT 06112",
+    "phone": "(860) 263-4400",
+    "url": "https://chrysaliscenterct.org/food/",
+    "categorySlug": "food",
+    "zipCode": "06112"
+  },
+  {
+    "name": "Congregation Beth Israel Mobile Foodshare Pantry",
+    "description": "A Connecticut Foodshare mobile distribution site hosted at Congregation Beth Israel, providing free groceries to West Hartford residents on a monthly basis.",
+    "address": "701 Farmington Avenue, West Hartford, CT 06119",
+    "phone": "(860) 233-8215",
+    "url": "https://www.foodpantries.org/li/mobile_foodshare_sites_west_hartford_(congregation_beth_is_06119",
+    "categorySlug": "food",
+    "zipCode": "06119"
+  },
+  {
+    "name": "Crossroads Community Cathedral Food Pantry",
+    "description": "Faith-based food pantry serving the East Windsor and East Hartford area with no registration or fee required. Operates on a monthly schedule with free groceries available to anyone in need.",
+    "address": "53 Prospect Hill Rd, East Windsor, CT 06088",
+    "phone": "860-895-1231",
+    "url": "https://www.myccc.church/ministries/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "06088"
+  },
+  {
+    "name": "CRT East Hartford Community Shelter",
+    "description": "Community Renewal Team 40-bed family shelter in East Hartford welcoming adults with children. Case managers connect families to community services and work toward permanent housing placement.",
+    "address": "383-385 Main Street, East Hartford, CT 06108",
+    "phone": "860-757-0660",
+    "url": "https://www.crtct.org/",
+    "categorySlug": "housing",
+    "zipCode": "06108"
+  },
+  {
+    "name": "CRT McKinney Men's Shelter",
+    "description": "Community Renewal Team men's shelter offering overnight beds, dinner, breakfast, showers, and medical screening for men 18 and older experiencing homelessness in Hartford. Case managers assist with employment and housing.",
+    "address": "207 Brainard Road, Hartford, CT 06106",
+    "phone": "860-757-0660",
+    "url": "https://www.crtct.org/programs/housing-shelters/mckinney-mens-shelter/",
+    "categorySlug": "housing",
+    "zipCode": "06106"
+  },
+  {
+    "name": "East Hartford Combined Churches Emergency Food Bank",
+    "description": "Interfaith coalition food bank serving greater Hartford area residents every other Saturday morning from 9am to noon. Provides emergency food to individuals and families in need.",
+    "address": "East Hartford, CT 06108",
+    "phone": "860-289-5249",
+    "url": "https://connecticutfoodbanks.org/food-bank/east-hartford-combined-churches-emergency-food-bank/",
+    "categorySlug": "food",
+    "zipCode": "06108"
+  },
+  {
+    "name": "East Windsor Social Services",
+    "description": "Municipal social services department providing referrals and assistance for housing eviction prevention, including one-time rental assistance for households served with a court summons. Connects residents to local and state support programs.",
+    "address": "25 School Street, East Windsor, CT 06088",
+    "phone": "860-623-2430",
+    "url": "https://www.eastwindsor-ct.gov/human-services/pages/food-fuel-clothes-assistance",
+    "categorySlug": "housing",
+    "zipCode": "06088"
+  },
+  {
+    "name": "Enfield Food Shelf",
+    "description": "A 501(c)(3) food assistance nonprofit offering weekly grocery shopping, mobile pantry distributions, monthly senior commodity assistance, school snacks, and comfort kits for unhoused individuals to Enfield residents.",
+    "address": "96 Alden Avenue, Enfield, CT 06082",
+    "phone": "860-741-7321",
+    "url": "https://www.enfieldfoodshelf.org/",
+    "categorySlug": "food",
+    "zipCode": "06082"
+  },
+  {
+    "name": "Enfield Safe Harbor",
+    "description": "A nightly warming shelter and engagement center for people experiencing homelessness in Enfield, operating 9 PM to 7 AM and connecting guests with housing resources and local agencies.",
+    "address": "64 Pearl Street, Enfield, CT 06082",
+    "phone": "860-970-9065",
+    "url": "https://enfieldsafeharbor.org/",
+    "categorySlug": "housing",
+    "zipCode": "06082"
+  },
+  {
+    "name": "Farmington Food Pantry",
+    "description": "Independent nonprofit food pantry serving Farmington residents since 2006, providing food and personal care items by appointment on Tuesdays, first Thursdays, third Saturdays, and last Thursdays each month.",
+    "address": "75 Main St (Amistad Hall), Farmington, CT 06032",
+    "phone": "860-674-8694",
+    "url": "https://www.ffpct.org/",
+    "categorySlug": "food",
+    "zipCode": "06032"
+  },
+  {
+    "name": "Farmington Valley VNA Granby Food Bank",
+    "description": "Food pantry operated by the Farmington Valley Visiting Nurse Association serving Granby residents in financial need. Open Tuesdays 10:30am–noon and Thursdays 2–3:30pm; eligibility through Granby Social Services.",
+    "address": "248 Salmon Brook St, Granby, CT 06035",
+    "phone": "860-653-5514",
+    "url": "https://www.farmingtonvalleyvna.org/",
+    "categorySlug": "food",
+    "zipCode": "06035"
+  },
+  {
+    "name": "Five Corner Cupboard Food Pantry",
+    "description": "Community food pantry started in 1973 as a mission of the First Congregational Church of East Windsor. Provides supplemental food and hygiene products to East Windsor residents; open Monday and Tuesday mornings.",
+    "address": "140 Phelps Rd, East Windsor, CT 06088",
+    "phone": "860-758-7763",
+    "url": "https://www.eastwindsor-ct.gov/nutrition-program/news/five-corner-cupboard-food-pantry-schedule",
+    "categorySlug": "food",
+    "zipCode": "06088"
+  },
+  {
+    "name": "Food Bank of Marlborough",
+    "description": "A local nonprofit food bank serving Marlborough residents since 2005, distributing groceries and clothing on Tuesday evenings and the first Saturday of each month, with eligibility based on family size and income.",
+    "address": "3 Wilhenger Drive, Marlborough, CT 06447",
+    "phone": "(860) 295-6008",
+    "url": "https://foodbankofmarlborough.wordpress.com/",
+    "categorySlug": "food",
+    "zipCode": "06447"
+  },
+  {
+    "name": "Foodshare",
+    "description": "Regional food bank serving Greater Hartford and Tolland County, distributing food daily to a network of local nonprofits through pantries, mobile sites, soup kitchens, and school programs. Headquarters located in Bloomfield.",
+    "address": "450 Woodland Ave, Bloomfield, CT 06002",
+    "phone": "860-286-9999",
+    "url": "https://www.ctfoodshare.org/",
+    "categorySlug": "food",
+    "zipCode": "06002"
+  },
+  {
+    "name": "Friend to Friend Food Pantry & Thrift Shop",
+    "description": "Community food pantry operated through East Granby Congregational Church providing weekly grocery supplements to income-eligible East Granby residents. Open Fridays 8:30–11am; registration through Social Services required.",
+    "address": "9 Rainbow Rd, East Granby, CT 06026",
+    "phone": "860-413-9015",
+    "url": "https://www.friendtofriendeg.com/",
+    "categorySlug": "food",
+    "zipCode": "06026"
+  },
+  {
+    "name": "Friendship Service Center of New Britain",
+    "description": "Provides emergency shelter for single adults, women with children, and couples, with 37 beds, as well as the Tomasso Family Community Kitchen, PATH homeless outreach, and employment programs.",
+    "address": "241 Arch Street, New Britain, CT 06051",
+    "phone": "860-225-0211",
+    "url": "https://fsc-ct.org/",
+    "categorySlug": "housing",
+    "zipCode": "06051"
+  },
+  {
+    "name": "Full Gospel Foundation Building Ministry Food Pantry",
+    "description": "Faith-based food pantry serving residents of Bloomfield, Hartford, and Windsor. Open Tuesday through Friday 10am–2:30pm on a walk-in basis.",
+    "address": "42 East Dudley Town Rd, Bloomfield, CT 06002",
+    "phone": "860-769-0505",
+    "url": "https://fgfbmi.org/",
+    "categorySlug": "food",
+    "zipCode": "06002"
+  },
+  {
+    "name": "Gifts of Love, Inc.",
+    "description": "Reduces financial crises for working individuals and families in the Greater Hartford area through a monthly food pantry, clothes closet, and household goods program. Serves Avon and surrounding communities.",
+    "address": "34 East Main St, Avon, CT 06001",
+    "phone": "860-676-2323",
+    "url": "https://giftsoflovect.org/",
+    "categorySlug": "community",
+    "zipCode": "06001"
+  },
+  {
+    "name": "Glastonbury Gives",
+    "description": "Town program providing emergency financial assistance to Glastonbury residents in crisis for food, utility bills, shelter costs, and medical expenses. Funds the Food Pantry and Fuel Bank; 100% of donations go directly to residents in need.",
+    "address": "300 Welles St, Glastonbury, CT 06033",
+    "phone": "860-652-7638",
+    "url": "https://www.glastonburyct.gov/departments/department-directory-a-h/human-services/social-services/glastonbury-gives",
+    "categorySlug": "community",
+    "zipCode": "06033"
+  },
+  {
+    "name": "Glastonbury Social Services Food Pantry",
+    "description": "Self-select food pantry at the Riverfront Community Center offering non-perishable and perishable food to income-eligible Glastonbury residents once a month by appointment.",
+    "address": "300 Welles St, Glastonbury, CT 06033",
+    "phone": "860-652-7638",
+    "url": "https://www.glastonburyct.gov/departments/department-directory-a-h/human-services/social-services/food-bank",
+    "categorySlug": "food",
+    "zipCode": "06033"
+  },
+  {
+    "name": "H.O.P.E. Partners of Farmington",
+    "description": "A nonprofit serving Farmington and Unionville seniors since 1965 with Meals on Wheels delivery, a medical equipment loan closet, and supportive community services.",
+    "address": "321 New Britain Avenue, Unionville, CT 06085",
+    "phone": "860-673-1441",
+    "url": "https://www.hpof.org/",
+    "categorySlug": "community",
+    "zipCode": "06085"
+  },
+  {
+    "name": "Hands On Hartford - MANNA Community Pantry",
+    "description": "A community food pantry and neighborhood services program providing free groceries three days per week, along with homeless outreach, case management, and connection to permanent supportive housing for Hartford residents.",
+    "address": "55 Bartholomew Avenue, Hartford, CT 06106",
+    "phone": "(860) 728-3201",
+    "url": "https://handsonhartford.org/caring-in-action/manna-food-and-neighborhood-services/",
+    "categorySlug": "food",
+    "zipCode": "06106"
+  },
+  {
+    "name": "Hands On Hartford Community Pantry",
+    "description": "Full-service shopping-model food pantry at 55 Bartholomew Ave allowing clients to choose their own groceries including non-perishables, produce, bread, milk, eggs, and halal-friendly options. Open Monday through Friday.",
+    "address": "55 Bartholomew Ave, Hartford, CT 06106",
+    "phone": "860-728-3201",
+    "url": "https://handsonhartford.org/programs/community-pantry/",
+    "categorySlug": "food",
+    "zipCode": "06106"
+  },
+  {
+    "name": "Hands On Hartford Housing Assistance Program",
+    "description": "Nonprofit serving Hartford's most vulnerable residents with homeless outreach, prevention services, and permanent supportive housing. Provides security deposit, utility, and rental assistance referrals alongside food and health services.",
+    "address": "55 Bartholomew Ave, Hartford, CT 06106",
+    "phone": "860-728-3201",
+    "url": "https://handsonhartford.org/",
+    "categorySlug": "housing",
+    "zipCode": "06106"
+  },
+  {
+    "name": "Hopewell Baptist Church Food Pantry",
+    "description": "A community food pantry open to anyone in need, distributing food every Wednesday morning at Hopewell Baptist Church in Hartford's north end.",
+    "address": "67 Rockville Street, Hartford, CT 06112",
+    "phone": "(860) 522-4321",
+    "url": "https://connecticutfoodbanks.org/food-bank/hopewell-baptist-church-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "06112"
+  },
+  {
+    "name": "ImmaCare Emergency Shelter",
+    "description": "Nonprofit formerly known as Immaculate Conception Shelter providing emergency shelter and permanent supportive housing for adult men experiencing homelessness in Hartford. Referrals through 211; 24-hour shelter operation.",
+    "address": "560 Park Street, Hartford, CT 06106",
+    "phone": "860-724-4823",
+    "url": "https://immacare.org/",
+    "categorySlug": "housing",
+    "zipCode": "06106"
+  },
+  {
+    "name": "Joan C. Dauber Food Pantry at Saint Francis",
+    "description": "The first hospital-based food pantry in the nation, founded in 1976, providing food, nutritional counseling, case management, diapers, and toiletries to over 2,900 clients per month across Hartford and Tolland Counties. No fee; appointments preferred but walk-ins accepted.",
+    "address": "675 Tower Avenue, Hartford, CT 06112",
+    "phone": "(860) 714-2845",
+    "url": "https://www.trinityhealthofne.org/location/the-joan-c-dauber-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "06112"
+  },
+  {
+    "name": "MACC Charities",
+    "description": "A Manchester-based nonprofit building partnerships to break cycles of poverty, offering an emergency food pantry, community kitchen, emergency shelter, showers and laundry for unsheltered residents, and housing and utility assistance.",
+    "address": "466 Main St, Manchester, CT 06040",
+    "phone": "860-647-8003",
+    "url": "https://macc-ct.org/",
+    "categorySlug": "food",
+    "zipCode": "06040"
+  },
+  {
+    "name": "Manchester Area Conference of Churches (MACC) Food Pantry",
+    "description": "The largest private nonprofit social services agency east of the Connecticut River, offering an emergency food pantry for Manchester and Bolton residents. Requires proof of residency and income.",
+    "address": "706 Main Street, Manchester, CT 06040",
+    "phone": "(860) 647-8003",
+    "url": "https://www.maccministries.org/",
+    "categorySlug": "food",
+    "zipCode": "06040"
+  },
+  {
+    "name": "Meals for Neighbors — Zion Lutheran Church",
+    "description": "Community food pantry offering drive-through pickup Monday and Wednesday 10–10:30am, in-person shopping Tuesday and Thursday, and hot meals Monday–Wednesday at 4:30pm. No appointment required.",
+    "address": "27 Judd St, Bristol, CT 06010",
+    "phone": "860-589-7744",
+    "url": "https://bristolzion.org/outreach/",
+    "categorySlug": "food",
+    "zipCode": "06010"
+  },
+  {
+    "name": "Mercy Housing and Shelter - Supportive Housing Services",
+    "description": "Supportive housing services site providing case management and housing stabilization for individuals at risk of or experiencing homelessness in the Wethersfield Avenue corridor of Hartford.",
+    "address": "211 Wethersfield Avenue, Hartford, CT 06114",
+    "phone": "(860) 808-2055",
+    "url": "https://mercyhousingct.org/how-we-help/shelter-diversion-rapid-rehousing/",
+    "categorySlug": "housing",
+    "zipCode": "06114"
+  },
+  {
+    "name": "Mercy Housing and Shelter Corporation",
+    "description": "Nonprofit providing emergency shelter and transitional housing services to individuals and families experiencing homelessness in Hartford. Offers case management and support toward permanent housing placement.",
+    "address": "118 Main Street, Hartford, CT 06106",
+    "phone": "860-808-2048",
+    "url": "https://mercyhousingct.org/",
+    "categorySlug": "housing",
+    "zipCode": "06106"
+  },
+  {
+    "name": "Neighborhood Housing Services of New Britain",
+    "description": "Creates homeownership opportunities for first-time buyers, manages affordable rental housing, provides financial coaching, and offers housing counseling to strengthen neighborhoods in greater New Britain.",
+    "address": "223 Broad St, New Britain, CT 06053",
+    "phone": "860-224-2433",
+    "url": "https://www.nhsnb.org/",
+    "categorySlug": "housing",
+    "zipCode": "06053"
+  },
+  {
+    "name": "New Britain Food & Resource Center",
+    "description": "Operated by the Human Resources Agency of New Britain, this center provides free food and wraparound services to New Britain residents, including non-perishable items and referrals to other assistance programs.",
+    "address": "460 Osgood Avenue, New Britain, CT 06053",
+    "phone": "860-826-4741",
+    "url": "https://www.hranbct.org/programs/emergency-assistance/new-britain-food-and-resource-center/",
+    "categorySlug": "food",
+    "zipCode": "06053"
+  },
+  {
+    "name": "Newington Food Bank",
+    "description": "A Connecticut Foodshare member pantry providing nonperishable groceries, frozen and refrigerated items, and limited hygiene products to Newington residents facing financial hardship. Appointments are required and eligibility is based on household income.",
+    "address": "131 Cedar Street, Newington, CT 06111",
+    "phone": "(860) 665-8590",
+    "url": "https://www.newingtonct.gov/2281/Food-Bank",
+    "categorySlug": "food",
+    "zipCode": "06111"
+  },
+  {
+    "name": "Northend Church of Christ Food Pantry",
+    "description": "A food pantry serving women and families in Hartford's north end neighborhood, distributing groceries on a monthly basis out of the Northend Church of Christ.",
+    "address": "687 Albany Avenue, Hartford, CT 06112",
+    "phone": "(860) 525-5463",
+    "url": "https://connecticutfoodbanks.org/food-bank/northend-church-of-christ-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "06112"
+  },
+  {
+    "name": "Open Cupboard Pantry at Granby Congregational Church",
+    "description": "A food pantry serving North Granby residents, distributing food every Friday afternoon at the North Campus of Granby Congregational Church.",
+    "address": "219 North Granby Road, North Granby, CT 06060",
+    "phone": "860-653-4537",
+    "url": "https://www.granby-ct.gov/229/Food-Assistance",
+    "categorySlug": "food",
+    "zipCode": "06060"
+  },
+  {
+    "name": "Open Hearth Association Men's Shelter",
+    "description": "Emergency shelter serving over 700 men per year in Hartford, offering overnight beds, showers, hot meals, and case management to help residents achieve permanent housing. Shelter open 3:30pm–7am daily.",
+    "address": "437 Sheldon Street, Hartford, CT 06106",
+    "phone": "860-525-3447",
+    "url": "https://theopenhearth.org/",
+    "categorySlug": "housing",
+    "zipCode": "06106"
+  },
+  {
+    "name": "Plainville Community Food Pantry",
+    "description": "A nonprofit serving Plainville residents since 1972, providing food, energy assistance, clothing, crisis intervention, and referral services with no fixed income threshold to qualify.",
+    "address": "54 South Canal Street, Plainville, CT 06062",
+    "phone": "860-747-1919",
+    "url": "https://www.plainvillefoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "06062"
+  },
+  {
+    "name": "Rocky Hill Human Services Food Pantry",
+    "description": "Town-run food pantry providing food assistance to Rocky Hill residents on a monthly basis, with staff able to connect residents to additional programs and services.",
+    "address": "673 Old Main Street, Rocky Hill, CT 06067",
+    "phone": "860-258-2799",
+    "url": "https://www.rockyhillct.gov/309/Assistance-Programs",
+    "categorySlug": "food",
+    "zipCode": "06067"
+  },
+  {
+    "name": "Saint Mark's Episcopal Church Food Pantry",
+    "description": "A local church food pantry in New Britain offering food assistance to residents in need, open Monday and Thursday mornings.",
+    "address": "147 West Main Street, New Britain, CT 06052",
+    "phone": "860-225-7634",
+    "url": "https://www.foodpantries.org/ci/ct-new_britain",
+    "categorySlug": "food",
+    "zipCode": "06052"
+  },
+  {
+    "name": "Salvation Army Bristol Corps",
+    "description": "Food pantry and community center serving Bristol residents by appointment. Addresses hunger and housing instability through food distribution and emergency financial assistance programs.",
+    "address": "19 Stearns St, Bristol, CT 06010",
+    "phone": "860-583-4651",
+    "url": "https://easternusa.salvationarmy.org/southern-new-england/bristol/",
+    "categorySlug": "food",
+    "zipCode": "06010"
+  },
+  {
+    "name": "Salvation Army Greater Hartford South End Food Pantry",
+    "description": "Food pantry and emergency assistance services at the Salvation Army South End complex, open Monday, Wednesday, and Friday mornings. Provides food, clothing, and utility help to low-income Hartford residents.",
+    "address": "217 Washington Street, Hartford, CT 06106",
+    "phone": "860-543-8413",
+    "url": "https://easternusa.salvationarmy.org/southern-new-england/hartford/",
+    "categorySlug": "food",
+    "zipCode": "06106"
+  },
+  {
+    "name": "Salvation Army Marshall House Family Shelter",
+    "description": "Emergency family shelter in Hartford's Asylum Hill neighborhood providing 27 beds for families and single women, with case management, laundry, and three meals per day. Residents may stay until permanent housing is secured.",
+    "address": "225 South Marshall Street, Hartford, CT 06105",
+    "phone": "860-543-8430",
+    "url": "https://easternusa.salvationarmy.org/southern-new-england/marshall-house/",
+    "categorySlug": "housing",
+    "zipCode": "06105"
+  },
+  {
+    "name": "Salvation Army New Britain Corps",
+    "description": "Provides a monthly food pantry, emergency shelter for single adult men (30-bed capacity), holiday assistance, clothing, and social service referrals to New Britain residents.",
+    "address": "78 Franklin Square, New Britain, CT 06051",
+    "phone": "860-225-8491",
+    "url": "https://easternusa.salvationarmy.org/southern-new-england/new-britain/",
+    "categorySlug": "food",
+    "zipCode": "06051"
+  },
+  {
+    "name": "Salvation Army New Britain Men's Shelter",
+    "description": "A 30-bed emergency shelter for single adult men providing up to 90 days of temporary housing, meals, clothing, and referrals for social services. Access is through 2-1-1 coordinated intake.",
+    "address": "78 Franklin Square, New Britain, CT 06051",
+    "phone": "860-702-0002",
+    "url": "https://www.salvationarmyusa.org/ct/new-britain/franklin-square-1/",
+    "categorySlug": "housing",
+    "zipCode": "06051"
+  },
+  {
+    "name": "Simsbury Community & Social Services Food Pantry",
+    "description": "Provides non-perishable food, toiletries, and household products to residents of Simsbury, West Simsbury, Tariffville, and Weatogue by appointment. The pantry is housed at First Church of Christ in Palmer Hall.",
+    "address": "754 Hopmeadow Street, Simsbury, CT 06070",
+    "phone": "860-658-3283",
+    "url": "https://www.simsbury-ct.gov/social-services/pages/food-programs-0",
+    "categorySlug": "food",
+    "zipCode": "06070"
+  },
+  {
+    "name": "South Congregational Church Food Pantry",
+    "description": "An emergency food pantry in East Hartford providing no-appointment, no-referral food packs sized for family needs, containing nutrition sufficient for three days of meals.",
+    "address": "1301 Forbes Street, East Hartford, CT 06118",
+    "phone": "(860) 568-5150",
+    "url": "https://www.foodpantries.org/li/south_congregational_church_food_pantry_06118",
+    "categorySlug": "food",
+    "zipCode": "06118"
+  },
+  {
+    "name": "South Park Inn",
+    "description": "A Hartford emergency shelter providing up to 150 beds per night for men, women, and children experiencing homelessness, offering meals, mental health screening, dental screening, and connection to permanent housing resources 365 days a year.",
+    "address": "75 Main Street, Hartford, CT 06106",
+    "phone": "(860) 724-0071",
+    "url": "https://www.southparkinn.org/",
+    "categorySlug": "housing",
+    "zipCode": "06106"
+  },
+  {
+    "name": "South Park Inn Emergency Shelter",
+    "description": "Nonprofit emergency shelter providing 50 beds for single adults and families with children in Hartford. Offers case management, health services, meals, and transportation linkage; intake daily for women with children and single adults.",
+    "address": "75 Main Street, Hartford, CT 06106",
+    "phone": "860-724-0071",
+    "url": "https://www.southparkinn.org/emergency-shelter",
+    "categorySlug": "housing",
+    "zipCode": "06106"
+  },
+  {
+    "name": "South Windsor Food and Fuel Bank",
+    "description": "A community food bank operated in connection with Avery Street Christian Reformed Church, providing food and fuel assistance to South Windsor residents.",
+    "address": "661 Avery Street, South Windsor, CT 06074",
+    "phone": "860-644-2731",
+    "url": "https://www.ascrc.org/south-windsor-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "06074"
+  },
+  {
+    "name": "Southington Community Services Food Pantry",
+    "description": "A high-volume nonprofit food pantry serving approximately 350 families per week with standard groceries, frozen meats, bread, and produce; open Monday–Friday with no appointment required for Southington residents.",
+    "address": "91 Norton Street, Plantsville, CT 06479",
+    "phone": "(860) 628-3761",
+    "url": "https://connecticutfoodbanks.org/food-bank/southington-community-services-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "06479"
+  },
+  {
+    "name": "St. Lawrence O'Toole Food Pantry",
+    "description": "Parish-run food pantry providing quality food items to households experiencing food insecurity in Hartford's South End. Open the 2nd and 3rd Saturday of each month.",
+    "address": "494 New Britain Avenue, Hartford, CT 06106",
+    "phone": "860-522-1129",
+    "url": "https://www.foodpantries.org/ci/ct-hartford",
+    "categorySlug": "food",
+    "zipCode": "06106"
+  },
+  {
+    "name": "St. Vincent DePaul Mission of Bristol",
+    "description": "Emergency 25-bed homeless shelter for men, women, and families providing food, shelter, case management, and referral services for up to 60 days. Intake daily 5–6:30pm; operates 24 hours.",
+    "address": "19 Jacobs St, Bristol, CT 06010",
+    "phone": "860-589-9098",
+    "url": "https://svdpofbristol.com/",
+    "categorySlug": "housing",
+    "zipCode": "06010"
+  },
+  {
+    "name": "Suffield Community Aid",
+    "description": "A nonprofit providing Suffield residents with food pantry services, housing repair assistance, energy assistance applications, and emergency crisis relief including temporary housing support.",
+    "address": "450 South Street, Suffield, CT 06078",
+    "phone": "860-668-1986",
+    "url": "https://suffieldcommunityaid.org/",
+    "categorySlug": "food",
+    "zipCode": "06078"
+  },
+  {
+    "name": "Suffield Community Aid Food Pantry",
+    "description": "Emergency Aid Association operating a community food pantry for Suffield and West Suffield residents, with non-perishable food, personal care products, and fresh vegetables from the SCA garden in summer. Serves the surrounding area including West Suffield.",
+    "address": "450 South Street, Suffield, CT 06078",
+    "phone": "860-668-1986",
+    "url": "https://suffieldcommunityaid.org/food-nutrition-programs/",
+    "categorySlug": "food",
+    "zipCode": "06078"
+  },
+  {
+    "name": "The Agape House",
+    "description": "Christian nonprofit providing food pantry, day center, clothing, basic needs, and case management services for homeless and underserved residents of Bristol. Open Monday–Saturday 8am–noon.",
+    "address": "43 School St, Bristol, CT 06010",
+    "phone": "860-584-7962",
+    "url": "https://www.theagapehousebristol.org/",
+    "categorySlug": "food",
+    "zipCode": "06010"
+  },
+  {
+    "name": "The Bridge at Our Savior Lutheran Church",
+    "description": "Outreach ministry offering food, clothing, and case management services to families in need in the South Windsor community.",
+    "address": "239 Graham Road, South Windsor, CT 06074",
+    "phone": "860-644-3350",
+    "url": "https://www.oursaviorct.org/the-bridge/Food-Pantry",
+    "categorySlug": "food",
+    "zipCode": "06074"
+  },
+  {
+    "name": "The Hub Pantry",
+    "description": "A community food pantry serving Hartford County residents in need, offering walk-in service with no fee required and no documentation needed.",
+    "address": "520 Center Street, Manchester, CT 06040",
+    "phone": "860-646-5995",
+    "url": "https://mentalhealth.networkofcare.org/connecticut/services/agency?pid=COMMUNITYHEALTHRESOURCESTHEHUBPANTRYTheHubPantryManchester_556_2_0",
+    "categorySlug": "food",
+    "zipCode": "06040"
+  },
+  {
+    "name": "Town of Avon Food Bank",
+    "description": "Municipal food bank for Avon residents located at the back of Saint Ann's Church. Open Tuesdays 9:30–11:30am; first-time visitors must call Social Services to complete eligibility requirements.",
+    "address": "289 Arch Rd, Avon, CT 06001",
+    "phone": "860-409-4346",
+    "url": "https://www.avonct.gov/departments/social_services/food_assistance.php",
+    "categorySlug": "food",
+    "zipCode": "06001"
+  },
+  {
+    "name": "Town of Berlin Community Services Food Pantry",
+    "description": "Municipal food pantry for Berlin residents experiencing financial difficulty, providing non-perishable food items monthly by appointment. Located at the Community Services office on Kensington Road.",
+    "address": "240 Kensington Rd, Berlin, CT 06037",
+    "phone": "860-828-7059",
+    "url": "https://www.berlinct.gov/topic/index.php?topicid=127&structureid=24",
+    "categorySlug": "food",
+    "zipCode": "06037"
+  },
+  {
+    "name": "Town of East Hartford Food Pantry",
+    "description": "Municipal food pantry open three times a month for East Hartford residents, located in the lower level of the Community Center. No income verification required; self-declaration of need accepted.",
+    "address": "50 Chapman Place, East Hartford, CT 06108",
+    "phone": "860-291-7248",
+    "url": "https://www.easthartfordct.gov/FoodPantry",
+    "categorySlug": "food",
+    "zipCode": "06108"
+  },
+  {
+    "name": "Town of Wethersfield Social and Youth Services Food Pantry",
+    "description": "Municipal food pantry for Wethersfield residents providing non-perishable food items by appointment only, Monday through Friday. Proof of Wethersfield residency required.",
+    "address": "505 Silas Deane Highway, Wethersfield, CT 06109",
+    "phone": "860-721-2977",
+    "url": "https://wethersfieldct.gov/331/Social-Youth-Senior-Services",
+    "categorySlug": "food",
+    "zipCode": "06109"
+  },
+  {
+    "name": "Town of Windsor Locks Social Services Food Pantry",
+    "description": "Municipal food pantry providing non-perishable foods to all Connecticut residents weekly on Thursdays from 2–6pm. Appointment required; proof of income and residence needed.",
+    "address": "50 Church Street, Windsor Locks, CT 06096",
+    "phone": "860-627-1446",
+    "url": "https://www.foodpantries.org/li/town_of_windsor_locks_social_services_06096",
+    "categorySlug": "food",
+    "zipCode": "06096"
+  },
+  {
+    "name": "Universalist Church of West Hartford - Fern Street Food Ministry",
+    "description": "A faith-based food ministry serving hundreds of income-eligible West Hartford families monthly with a free community breakfast, food pantry distribution, backpack program, and mobile pantry on alternating Mondays.",
+    "address": "433 Fern Street, West Hartford, CT 06107",
+    "phone": "(860) 233-3669",
+    "url": "https://westhartforduu.org/fern-street-food-ministry/",
+    "categorySlug": "food",
+    "zipCode": "06107"
+  },
+  {
+    "name": "Wesley United Methodist Church Food Pantry",
+    "description": "Community food pantry open every Thursday 9–11am serving East Windsor residents. Also provides weekly community lunches on Wednesdays and take-out meals on Fridays. Photo ID required; one visit per 30 days.",
+    "address": "55 N Main St, East Windsor, CT 06088",
+    "phone": "860-623-0198",
+    "url": "https://www.freefood.org/l/wesley-united-methodist-church-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "06088"
+  },
+  {
+    "name": "West Hartford Housing Authority",
+    "description": "Local housing authority administering over 2,100 Housing Choice Vouchers for low-income households in West Hartford and surrounding towns, providing rental subsidies and affordable housing access.",
+    "address": "80 Shield Street, West Hartford, CT 06110",
+    "phone": "860-953-0002",
+    "url": "https://whhousing.org/",
+    "categorySlug": "housing",
+    "zipCode": "06110"
+  },
+  {
+    "name": "West Hartford Social Services Food Pantry",
+    "description": "Municipal food pantry providing non-perishable items and monthly fresh produce to West Hartford residents, available once per month. Located at Town Hall; requires photo ID and proof of West Hartford residency.",
+    "address": "50 South Main Street, Room 130, West Hartford, CT 06107",
+    "phone": "860-561-7569",
+    "url": "https://www.westhartfordct.gov/town-departments/social-services/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "06107"
+  },
+  {
+    "name": "Wethersfield Evangelical Free Church Hands Open Wide Food Pantry",
+    "description": "Free community food pantry open the third Saturday of each month from 9:30–10:30am at Wethersfield Evangelical Free Church. Offers non-perishable food items with no eligibility requirements.",
+    "address": "511 Maple Street, Wethersfield, CT 06109",
+    "phone": "860-563-8286",
+    "url": "https://www.foodpantries.org/li/ct_06109_hands-open-wide-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "06109"
+  },
+  {
+    "name": "Windsor Food and Fuel Bank",
+    "description": "Independent nonprofit providing supplemental food assistance and fuel/utility help to Windsor residents in partnership with Windsor Social Services. Offers a food pantry, Foodshare partnership, and fuel assistance programs.",
+    "address": "599 Matianuck Ave, Windsor, CT 06095",
+    "phone": "860-986-3221",
+    "url": "https://www.windsorfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "06095"
+  },
+  {
+    "name": "Windsor Housing Authority",
+    "description": "Public housing authority administering affordable housing and Section 8 voucher programs for Windsor residents with low income. Provides referrals to rental assistance and housing stability services.",
+    "address": "599 Matianuck Ave, Windsor, CT 06095",
+    "phone": "860-285-8009",
+    "url": "https://windsorcthousingauthority.org/",
+    "categorySlug": "housing",
+    "zipCode": "06095"
+  },
+  {
+    "name": "Windsor Locks Housing Authority",
+    "description": "Local housing authority administering public housing and rental assistance programs for Windsor Locks residents with limited incomes. Provides referrals and application support for affordable housing.",
+    "address": "120 Southwest Ave, Windsor Locks, CT 06096",
+    "phone": "860-627-1455",
+    "url": "https://windsorlocksct.org/housing-authority/",
+    "categorySlug": "housing",
+    "zipCode": "06096"
+  },
+  {
+    "name": "YWCA Hartford Region Shelter",
+    "description": "Emergency shelter and supportive housing for women through Soromundi Commons in Hartford. Provides care coordination, job readiness, daily living assistance, and transitional housing support.",
+    "address": "135 Broad Street, Hartford, CT 06105",
+    "phone": "860-525-1163",
+    "url": "https://www.ywcahartford.org/programs/shelter-housing/",
+    "categorySlug": "housing",
+    "zipCode": "06105"
+  },
+  {
+    "name": "Amazing Grace Food Pantry",
+    "description": "Local food pantry serving residents of Winsted and surrounding northwest Connecticut communities with supplemental groceries. Contact for current hours and eligibility requirements.",
+    "address": "151 Torrington Road, Winsted, CT 06098",
+    "phone": "(860) 263-5700",
+    "url": "https://new.graceslist.org/services/tags/northwest-ct/directory/listing/amazing-grace-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "06098"
+  },
+  {
+    "name": "Bridgewater Food Pantry",
+    "description": "Community food pantry at Bridgewater Congregational Church Friendship Hall serving all Bridgewater residents. Open weekdays 9am–noon and by appointment. No proof of need required.",
+    "address": "10 Clapboard Road, Bridgewater, CT 06752",
+    "phone": "(860) 354-2731",
+    "url": "https://www.bridgewater-ct.gov/1276/Food-Pantry",
+    "categorySlug": "food",
+    "zipCode": "06752"
+  },
+  {
+    "name": "Camella's Cupboard",
+    "description": "Camella's Cupboard is a 501(c)(3) nonprofit fighting hunger in Greater New Milford, providing weekly food bags with 50–70 pounds of groceries per family unit, in-school pantries, 24/7 Blessing Boxes, and home delivery for seniors.",
+    "address": "2 Pickett District Road, New Milford, CT 06776",
+    "phone": "860-717-2509",
+    "url": "https://www.camellascupboard.com/",
+    "categorySlug": "food",
+    "zipCode": "06776"
+  },
+  {
+    "name": "Caring for Bethlehem Food Bank",
+    "description": "Community food bank operating out of the First Church of Bethlehem, serving Bethlehem residents who meet USDA income guidelines. Open Mondays and Saturdays 10am–noon and Fridays 3–5pm.",
+    "address": "21 Main Street South, Bethlehem, CT 06751",
+    "phone": "(860) 631-3169",
+    "url": "https://sites.google.com/cfbethlehem.org/home",
+    "categorySlug": "food",
+    "zipCode": "06751"
+  },
+  {
+    "name": "Colebrook Area Food Pantry",
+    "description": "A community food pantry located in the vestibule of the Colebrook Community and Senior Center, open Monday–Thursday and Friday mornings to provide grocery assistance to Colebrook-area residents.",
+    "address": "Colebrook Community & Senior Center, Colebrook, CT 06021",
+    "phone": "",
+    "url": "https://www.colebrookfoodpantry.com/",
+    "categorySlug": "food",
+    "zipCode": "06021"
+  },
+  {
+    "name": "Community Food Bank - Barkhamsted and New Hartford",
+    "description": "Food bank at Pleasant Valley United Methodist Church providing groceries to residents of Barkhamsted and New Hartford. Open alternate weeks on Mondays 6–8pm and Thursdays 2–4pm. No documents required.",
+    "address": "93 River Road, Pleasant Valley, CT 06063",
+    "phone": "(860) 379-2157",
+    "url": "https://pleasantvalleyumc.com/category/food-bank/",
+    "categorySlug": "food",
+    "zipCode": "06063"
+  },
+  {
+    "name": "Community Services Council of Woodbury – Woodbury Food Bank",
+    "description": "Nonprofit providing free groceries to approximately 80 Woodbury-area families weekly, offering both standard pantry items and donated goods. Also provides energy assistance and emergency financial aid for crises such as job loss or illness.",
+    "address": "P.O. Box 585, Woodbury, CT 06798",
+    "phone": "(203) 263-3869",
+    "url": "https://woodburyct.org/?SEC=DBC96B1A-E500-4354-9E8F-734FCABD4FF4",
+    "categorySlug": "food",
+    "zipCode": "06798"
+  },
+  {
+    "name": "Cornwall Food Pantry",
+    "description": "Town-run food pantry providing non-perishable food, household, and personal care supplies to Cornwall-area residents. No application required; service by appointment.",
+    "address": "8 Bolton Hill Road (UCC Church), Cornwall, CT 06796",
+    "phone": "(860) 672-2603",
+    "url": "https://cornwallct.org/government/help-services/",
+    "categorySlug": "food",
+    "zipCode": "06796"
+  },
+  {
+    "name": "FISH NWCT – Food Pantry",
+    "description": "FISH (Friends in Service to Humanity of Northwestern Connecticut) operates the region's largest food pantry, serving over 2,600 people annually with food assistance including groceries distributed multiple days per week.",
+    "address": "332 South Main Street, Torrington, CT 06790",
+    "phone": "860-482-7300",
+    "url": "https://www.fishnwct.org/",
+    "categorySlug": "food",
+    "zipCode": "06790"
+  },
+  {
+    "name": "Fishes & Loaves Food Pantry",
+    "description": "A community food pantry operated as a mission of North Canaan Congregational Church, serving residents of Canaan, Falls Village, and Norfolk with free groceries twice weekly from The Pilgrim House.",
+    "address": "30 Granite Avenue, North Canaan, CT 06018",
+    "phone": "(860) 824-7232",
+    "url": "https://www.fishesandloavespantrynorthcanaanct.org/",
+    "categorySlug": "food",
+    "zipCode": "06018"
+  },
+  {
+    "name": "Friendly Hands Food Bank",
+    "description": "NWCT's largest food bank, Friendly Hands serves over 10,000 people per month across the Torrington region, providing groceries and vital resources to families in need with a mission to alleviate food insecurity and prevent food waste.",
+    "address": "50 King Street, Torrington, CT 06790",
+    "phone": "860-482-3338",
+    "url": "https://friendlyhandsfoodbanknwct.org/",
+    "categorySlug": "food",
+    "zipCode": "06790"
+  },
+  {
+    "name": "Goshen Free Food Pantry and Little Lending Library",
+    "description": "Free community food pantry located at the Village Marketplace in Goshen, open to all residents on a take-what-is-needed basis. Operated in partnership with Northwest Cares.",
+    "address": "Village Marketplace, Goshen, CT 06756",
+    "phone": "(860) 866-5615",
+    "url": "https://nwcares.org/goshen-free-food-pantry-and-little-lending-library/",
+    "categorySlug": "food",
+    "zipCode": "06756"
+  },
+  {
+    "name": "Goshen Good Neighbor Fund",
+    "description": "Nonprofit providing short-term emergency financial assistance to Goshen residents facing hardship due to illness, job loss, or catastrophic events. Funds are paid directly to service providers such as landlords and utility companies.",
+    "address": "PO Box 492, Goshen, CT 06756",
+    "phone": "(860) 491-2419",
+    "url": "https://nwcares.org/goshen-good-neighbor-fund-inc/",
+    "categorySlug": "crisis",
+    "zipCode": "06756"
+  },
+  {
+    "name": "Habitat for Humanity of Northwest Connecticut",
+    "description": "Builds and renovates affordable homes for low-income families across northwest CT including the Salisbury, Norfolk, Cornwall, and Sharon areas. Offers homeownership programs and housing repair assistance.",
+    "address": "PO Box 1, Salisbury, CT 06068",
+    "phone": "(860) 435-4747",
+    "url": "https://www.habitatnwct.org/",
+    "categorySlug": "housing",
+    "zipCode": "06068"
+  },
+  {
+    "name": "Hands of Grace Food Pantry",
+    "description": "Food pantry mission of St. Paul's Lutheran Church serving residents of New Hartford and Barkhamsted. Open Tuesdays and Wednesdays 9am–2pm by monthly appointment with a social service agency referral.",
+    "address": "8 Wickett Street, Pine Meadow, CT 06061",
+    "phone": "(860) 738-0299",
+    "url": "https://handsofgracect.wixsite.com/hogct",
+    "categorySlug": "food",
+    "zipCode": "06057"
+  },
+  {
+    "name": "Harwinton Food Pantry",
+    "description": "The Harwinton Food Pantry is located in the basement of Town Hall and distributes food to Harwinton residents Monday through Thursday; donations can be dropped off during operating hours.",
+    "address": "100 Bentley Drive, Harwinton, CT 06791",
+    "phone": "860-485-9051",
+    "url": "https://www.harwinton.gov/274/Food-Pantry-Latest-Updates",
+    "categorySlug": "food",
+    "zipCode": "06791"
+  },
+  {
+    "name": "Immaculate Heart of Mary Church Food Pantry",
+    "description": "The food pantry at Immaculate Heart of Mary Church in Harwinton is open the 1st and 3rd Tuesday of each month, serving an average of 60 families each month.",
+    "address": "78 Litchfield Road, Harwinton, CT 06791",
+    "phone": "860-379-5215",
+    "url": "https://www.ihmcatholicchurch.com/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "06791"
+  },
+  {
+    "name": "Kent Community Fund",
+    "description": "Nonprofit providing confidential emergency grants to Kent residents facing economic pressures from illness, job loss, or disaster. Grants are paid directly to pharmacies, landlords, fuel companies, and other vendors.",
+    "address": "PO Box 202, Kent, CT 06757",
+    "phone": "(860) 927-4057",
+    "url": "https://www.kentctcommunityfund.org/",
+    "categorySlug": "crisis",
+    "zipCode": "06757"
+  },
+  {
+    "name": "Kent Food Bank",
+    "description": "The Kent Food Bank is operated by the Town of Kent and located in the lower level of the Kent Community House, distributing food to area residents on Fridays and receiving Connecticut Foodshare deliveries monthly.",
+    "address": "93 North Main Street, Kent, CT 06757",
+    "phone": "860-927-1586",
+    "url": "https://www.townofkentct.gov/social-services/pages/kent-food-bank-and-diaper-bank",
+    "categorySlug": "food",
+    "zipCode": "06757"
+  },
+  {
+    "name": "Kent Food Bank and Emergency Services",
+    "description": "Nonprofit providing food, clothing, and emergency financial assistance to low-income families and individuals within the Kent School District area. Emergency grants administered through the Town of Kent Social Services.",
+    "address": "41 Kent Green Blvd, PO Box 678, Kent, CT 06757",
+    "phone": "(860) 927-1586",
+    "url": "https://www.kentfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "06757"
+  },
+  {
+    "name": "Litchfield Housing Authority",
+    "description": "Public housing authority administering affordable rental housing for older adults (62+) and adults with disabilities in Litchfield. Manages units at 130 Doyle Road and other properties in the area.",
+    "address": "130 Doyle Road, Bantam, CT 06750",
+    "phone": "(860) 567-8747",
+    "url": "https://www.townoflitchfield.org/entities/housing-authority",
+    "categorySlug": "housing",
+    "zipCode": "06750"
+  },
+  {
+    "name": "Litchfield Social Services Food Pantry",
+    "description": "Town of Litchfield social services department operating a walk-in food pantry for Litchfield residents. Open Monday, Tuesday, Thursday, and Friday 9am–2pm. No documents required.",
+    "address": "80 Doyle Road, Bantam, CT 06750",
+    "phone": "(860) 567-6121",
+    "url": "https://www.townoflitchfieldct.gov/entities/social-services",
+    "categorySlug": "food",
+    "zipCode": "06750"
+  },
+  {
+    "name": "Loaves & Fishes Hospitality House of New Milford",
+    "description": "Loaves & Fishes is a nonprofit community soup kitchen in New Milford that serves free daily meals seven days a week to anyone in need in a welcoming atmosphere.",
+    "address": "25B Bridge Street, New Milford, CT 06776",
+    "phone": "860-350-6612",
+    "url": "https://www.loavesfishesnewmilford.org/",
+    "categorySlug": "food",
+    "zipCode": "06776"
+  },
+  {
+    "name": "Morris Cares Inc.",
+    "description": "Morris Cares is a Morris-based nonprofit food bank committed to providing a range of healthy food options in a manner that respects privacy and dignity, offering distribution, emergency food assistance, and delivery services for those unable to visit in person.",
+    "address": "12 North Street, Morris, CT 06763",
+    "phone": null,
+    "url": "https://morriscaresinc.org/",
+    "categorySlug": "food",
+    "zipCode": "06763"
+  },
+  {
+    "name": "New Milford Affordable Housing Inc.",
+    "description": "New Milford Affordable Housing is the only local nonprofit building affordable and supportive housing for all ages and income levels in the Greater New Milford area, including properties for households earning under 30% of area median income.",
+    "address": "7 Thomas Lane, New Milford, CT 06776",
+    "phone": "860-210-6037",
+    "url": "https://nmaffordablehousing.com",
+    "categorySlug": "housing",
+    "zipCode": "06776"
+  },
+  {
+    "name": "New Milford Food Bank",
+    "description": "Food bank distributing pre-packed grocery bags to New Milford area residents including Gaylordsville every Thursday 9am–noon. Seniors and those with disabilities may contact social services for alternate arrangements.",
+    "address": "New Milford, CT 06755",
+    "phone": "(860) 355-6079",
+    "url": "https://www.unitedwaycwc.org/blog/uwwc-greater-new-milford-covid19-resources",
+    "categorySlug": "food",
+    "zipCode": "06755"
+  },
+  {
+    "name": "New Milford Food Bank",
+    "description": "The New Milford Food Bank offers income-eligible residents bags of non-perishable food weekly, along with donated bakery items, seasonal fresh produce from local farms, and community-prepared meals.",
+    "address": "2 Pickett District Road, New Milford, CT 06776",
+    "phone": "860-355-6079",
+    "url": "https://www.211ct.org/search/17311194",
+    "categorySlug": "food",
+    "zipCode": "06776"
+  },
+  {
+    "name": "New Milford United Methodist Church – Our Daily Bread Food Pantry",
+    "description": "The Our Daily Bread Food Pantry at New Milford United Methodist Church provides free groceries to community members in need on Thursday afternoons.",
+    "address": "68 Danbury Road, New Milford, CT 06776",
+    "phone": "860-354-4596",
+    "url": "https://newmilfordumc.org/",
+    "categorySlug": "food",
+    "zipCode": "06776"
+  },
+  {
+    "name": "Norfolk NET Food Pantry & Clothes Closet",
+    "description": "Community food pantry housed at Battell Chapel serving Norfolk and surrounding towns including Winsted, Winchester, Canaan, Falls Village, and Colebrook. Open Tuesday through Friday, 10am–1pm.",
+    "address": "12 Litchfield Road, Norfolk, CT 06058",
+    "phone": "(860) 542-5721",
+    "url": "https://norfolkct.org/directory/the-norfolk-net-food-pantry-clothes-closet/",
+    "categorySlug": "food",
+    "zipCode": "06058"
+  },
+  {
+    "name": "Plymouth Community Food Pantry",
+    "description": "Plymouth Community Food Pantry is an open-access pantry serving any Connecticut household in need of food, located in Terryville and operated by community volunteers.",
+    "address": "20 Dewey Ave, Terryville, CT 06786",
+    "phone": "860-584-1750",
+    "url": "https://plymouthfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "06786"
+  },
+  {
+    "name": "Project SAGE",
+    "description": "A nonprofit domestic violence agency serving Northwest Connecticut with confidential emergency shelter, 24/7 hotline support, individual and family advocacy, legal assistance, and community outreach for survivors of domestic violence.",
+    "address": "13A Porter Street, Lakeville, CT 06039",
+    "phone": "(860) 364-1080",
+    "url": "https://project-sage.org/",
+    "categorySlug": "crisis",
+    "zipCode": "06039"
+  },
+  {
+    "name": "Roxbury Social Services – Food Pantry at Christ Episcopal Church",
+    "description": "The Roxbury food pantry, hosted in the Christ Episcopal Church Parish Hall, is a walk-in pantry open Wednesdays and Fridays providing food, toiletries, and paper goods to over 500 low-income and homeless individuals monthly.",
+    "address": "4 Weller's Bridge Road, Roxbury, CT 06783",
+    "phone": "860-354-4113",
+    "url": "https://ct-roxbury2.civicplus.com/289/Social-Services",
+    "categorySlug": "food",
+    "zipCode": "06783"
+  },
+  {
+    "name": "Salisbury Family Services",
+    "description": "Town social services office operating a food pantry for Salisbury residents by appointment. Also provides referrals to housing, financial, and other community assistance programs.",
+    "address": "30A Salmon Kill Road, Salisbury, CT 06068",
+    "phone": "(860) 435-5187",
+    "url": "https://salisburyfamilyservices.org/",
+    "categorySlug": "food",
+    "zipCode": "06068"
+  },
+  {
+    "name": "Salisbury Housing Trust",
+    "description": "Nonprofit that builds and renovates single-family affordable homes for people who work, reside, or volunteer in Salisbury. Offers below-market homeownership opportunities to qualifying applicants.",
+    "address": "24 Main Street, PO Box 52, Salisbury, CT 06068",
+    "phone": "(860) 435-2173",
+    "url": "https://www.salisburycthousing.org/",
+    "categorySlug": "housing",
+    "zipCode": "06068"
+  },
+  {
+    "name": "Salvation Army – Northwest Hills Corps Community Center",
+    "description": "The Salvation Army's Torrington corps operates a food pantry serving Torrington and surrounding communities, and also provides clothing, rental, and utility assistance by appointment.",
+    "address": "234 Oak Avenue, Torrington, CT 06790",
+    "phone": "860-482-3569",
+    "url": "https://easternusa.salvationarmy.org/southern-new-england/torrington/",
+    "categorySlug": "food",
+    "zipCode": "06790"
+  },
+  {
+    "name": "Salvation Army Winsted Regional Service Center",
+    "description": "Provides food pantry, clothing, and emergency financial assistance including rent, utilities, and prescriptions to residents of Winchester/Winsted, Norfolk, and Colebrook. Food pantry open Tues–Wed 2–6pm and Fri 10am–2pm.",
+    "address": "716 Main Street, Winsted, CT 06098",
+    "phone": "(860) 379-8444",
+    "url": "https://easternusa.salvationarmy.org/southern-new-england/winsted/",
+    "categorySlug": "food",
+    "zipCode": "06098"
+  },
+  {
+    "name": "Sharon Social Services Food Pantry",
+    "description": "Municipal social services department operating a food pantry out of Sharon Town Hall for Sharon residents. Open Tuesday through Thursday, 8am–6pm.",
+    "address": "63 Main Street, Sharon, CT 06069",
+    "phone": "(860) 364-5224",
+    "url": "https://www.sharonct.gov/201/Social-Services",
+    "categorySlug": "food",
+    "zipCode": "06069"
+  },
+  {
+    "name": "St. Michael's Church Food Pantry",
+    "description": "St. Michael's operates a food pantry that delivers groceries monthly to seniors in subsidized housing throughout Litchfield, and maintains Always Open Shelves at the Community House stocked daily with non-perishable staples for anonymous access.",
+    "address": "25 South Street, Litchfield, CT 06759",
+    "phone": "860-567-4965",
+    "url": "https://stmichaels-litchfield.org/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "06759"
+  },
+  {
+    "name": "The Corner Food Pantry",
+    "description": "A drive-through community food pantry in Lakeville serving Salisbury, Canaan, Cornwall, North Canaan, Sharon, and Kent residents with free groceries every Friday and Saturday, no ID or paperwork required.",
+    "address": "80 Sharon Road, Lakeville, CT 06039",
+    "phone": "(860) 435-9886",
+    "url": "https://thecornerfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "06039"
+  },
+  {
+    "name": "The Gathering Place - New Beginnings of NW Hills",
+    "description": "Litchfield County's primary daytime drop-in center for homeless individuals, families, youth, and veterans, providing 211 CAN intake, case management, showers, laundry, clothing, mental health services, and supported employment to all 26 towns in the county.",
+    "address": "21 Prospect Street, Suite A, Torrington, CT 06790",
+    "phone": "(860) 618-3455",
+    "url": "http://www.thegatheringplaceofnewbeginnings.org/",
+    "categorySlug": "housing",
+    "zipCode": "06790"
+  },
+  {
+    "name": "Thomaston Community Pantry",
+    "description": "The Thomaston Community Pantry operates from the lower level of Town Hall, providing curbside food distribution twice monthly to Thomaston, Northfield, and Plymouth residents.",
+    "address": "158 Main Street, Thomaston, CT 06787",
+    "phone": "860-880-2426",
+    "url": "https://www.thomastonct.org/subpages/thomaston-community-pantry",
+    "categorySlug": "food",
+    "zipCode": "06787"
+  },
+  {
+    "name": "Torrington Housing Authority",
+    "description": "The Torrington Housing Authority provides affordable public housing and Section 8 Housing Choice Vouchers for low- and moderate-income families, elderly, and disabled persons across five housing sites in Torrington.",
+    "address": "110 Prospect Street, Torrington, CT 06790",
+    "phone": "860-482-3581",
+    "url": "https://torringtonhousingauthority.org/",
+    "categorySlug": "housing",
+    "zipCode": "06790"
+  },
+  {
+    "name": "Warren & Washington Food Bank",
+    "description": "The Warren & Washington Food Bank is open to all residents of Warren and Washington every Thursday, distributing groceries at the Sackett Hill Road location; proof of residency required.",
+    "address": "7 Sackett Hill Road, Warren, CT 06754",
+    "phone": "860-868-7881",
+    "url": "https://www.washingtonct.org/home/news/warren-washington-food-bank",
+    "categorySlug": "food",
+    "zipCode": "06754"
+  },
+  {
+    "name": "Warren & Washington Food Bank",
+    "description": "Food bank serving residents of Warren and Washington open every Thursday from 10am–1pm at the Warren Community Center. Accepts food and monetary donations; bring proof of residency.",
+    "address": "7 Sackett Hill Road, Warren, CT 06754",
+    "phone": "(860) 868-7881",
+    "url": "https://www.warrenct.gov/home/news/warren-washington-food-bank-0",
+    "categorySlug": "food",
+    "zipCode": "06754"
+  },
+  {
+    "name": "Watertown Social Services – Food Pantry",
+    "description": "Town social services department providing temporary food assistance, fuel help, and emergency financial aid to Watertown residents. Hosts a CT Food Bank Mobile Pantry on the first Wednesday of each month at First Congregational Church.",
+    "address": "61 Echo Lake Road, Watertown, CT 06795",
+    "phone": "(860) 945-5252",
+    "url": "https://www.watertownct.org/departments/social_services/index.php",
+    "categorySlug": "food",
+    "zipCode": "06795"
+  },
+  {
+    "name": "Winchester Emergency Shelter (Northwestern CT YMCA)",
+    "description": "Emergency shelter providing housing and case management to individuals and families experiencing homelessness in Litchfield County. Accepts singles and families; 17 beds; intake via 211 helpline.",
+    "address": "480 Main Street, Winsted, CT 06098",
+    "phone": "(860) 379-0708",
+    "url": "https://www.nwcty.org/y-housing/",
+    "categorySlug": "housing",
+    "zipCode": "06098"
+  },
+  {
+    "name": "Zion Lutheran Church Food Pantry",
+    "description": "Local church food pantry serving residents of North Canton and surrounding areas. Open the first and third Tuesdays of each month from 1:00–2:00pm.",
+    "address": "Zion Lutheran Church, North Canton, CT 06059",
+    "phone": "(860) 693-0629",
+    "url": "https://www.zion-nc.com/community-service/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "06059"
+  },
+  {
+    "name": "Chester Social Services – Food Pantry",
+    "description": "Town social services office distributing non-perishable food items, toiletries, and basic supplies to Chester residents. Walk-in or appointment available during weekday office hours.",
+    "address": "203 Middlesex Avenue, Chester, CT 06412",
+    "phone": "(860) 526-0013",
+    "url": "https://www.chesterct.org/social-services",
+    "categorySlug": "food",
+    "zipCode": "06412"
+  },
+  {
+    "name": "Clinton Social Services – Emergency Food Pantry",
+    "description": "Town social services office maintaining a small emergency food pantry for Clinton residents and serving as a site for the CT Food Bank Trunk distribution on the first Friday of each month.",
+    "address": "48 East Main Street, Clinton, CT 06413",
+    "phone": "(860) 669-7347",
+    "url": "https://clintonhumanservices.org/programs/emergency-food-assistance/",
+    "categorySlug": "food",
+    "zipCode": "06413"
+  },
+  {
+    "name": "Columbus House Middlesex Family Shelter",
+    "description": "Emergency family shelter in Middletown for families with no other housing options, providing beds and case management for approximately 20 families per year. Intake through 2-1-1; no walk-ins.",
+    "address": "117 Daddario Road, Middletown, CT 06457",
+    "phone": "(860) 347-8686",
+    "url": "https://www.columbushouse.org/programs/shelter-services/",
+    "categorySlug": "housing",
+    "zipCode": "06457"
+  },
+  {
+    "name": "Deep River Social Services – Food Pantry",
+    "description": "Municipal social services office operating a food pantry for Deep River residents and serving as an intake site for state energy assistance, Salvation Army services, and emergency basic needs relief.",
+    "address": "56 High Street, Deep River, CT 06417",
+    "phone": "(860) 526-6033",
+    "url": "https://www.deepriverct.us/social-services",
+    "categorySlug": "food",
+    "zipCode": "06417"
+  },
+  {
+    "name": "Durham Human Services – Food Pantry",
+    "description": "Municipal food pantry serving Durham residents Monday through Friday by appointment. Distributes non-perishable food and provides referrals to additional state and community assistance programs.",
+    "address": "144 Pickett Lane (Durham Community Center), Durham, CT 06422",
+    "phone": "(860) 349-3153",
+    "url": "https://www.townofdurhamct.org/entities/social-services",
+    "categorySlug": "food",
+    "zipCode": "06422"
+  },
+  {
+    "name": "East Haddam Food Bank",
+    "description": "Community food bank established in 1999 serving 250–300 East Haddam and Moodus residents each week. Distributes canned goods, produce, proteins, and household staples every Tuesday morning and afternoon from the Grange Hall basement.",
+    "address": "488 Town Street (Grange Hall), East Haddam, CT 06423",
+    "phone": "(860) 891-8100",
+    "url": "https://www.easthaddam.org/food-bank-fuel-bank-clothing-bank",
+    "categorySlug": "food",
+    "zipCode": "06423"
+  },
+  {
+    "name": "East Haddam Youth and Family Services",
+    "description": "Town human services agency providing case management, the East Haddam Emergency Fuel Bank, and referrals to housing and crisis assistance for East Haddam families. Coordinates access to state and community support programs.",
+    "address": "38 William F. Palmer Road, Moodus, CT 06469",
+    "phone": "(860) 873-3296",
+    "url": "https://www.easthaddam.org/",
+    "categorySlug": "community",
+    "zipCode": "06469"
+  },
+  {
+    "name": "East Hampton Volunteer Food and Fuel Bank",
+    "description": "Nonprofit providing free food and emergency fuel assistance to income-eligible East Hampton residents. Open Mondays and Thursdays 9 am–12 pm; accepts monetary and non-perishable donations.",
+    "address": "43 West High Street, East Hampton, CT 06424",
+    "phone": "(860) 365-5978",
+    "url": "https://easthamptonfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "06424"
+  },
+  {
+    "name": "Eddy Shelter – The Connection Inc.",
+    "description": "Emergency homeless shelter for single adult men and women in Middlesex County with capacity for 30 adults (40 in winter). Provides overnight shelter and rapid re-housing support; referrals required through 211.",
+    "address": "1 LaBella Circle, Middletown, CT 06457",
+    "phone": "(860) 343-5520",
+    "url": "https://www.theconnectioninc.org/housing/",
+    "categorySlug": "housing",
+    "zipCode": "06457"
+  },
+  {
+    "name": "Haddam Social Services – Emergency Food Bank",
+    "description": "Municipal social services office serving Haddam, Higganum, and Haddam Neck residents with non-perishable food, seasonal produce, hygiene products, paper goods, and pet food. Open Monday–Friday 9 am–1 pm; call ahead recommended.",
+    "address": "11 Jail Hill Road, Haddam, CT 06438",
+    "phone": "(860) 345-4621",
+    "url": "https://www.haddam.org/haddam-social-services/pages/emergency-food-bank",
+    "categorySlug": "food",
+    "zipCode": "06438"
+  },
+  {
+    "name": "Haddam Social Services – Emergency Food Bank (Higganum)",
+    "description": "The Haddam Emergency Food Bank also serves Higganum (06441) residents with non-perishable food, produce, hygiene products, and household supplies available during regular office hours. Residents of Higganum and Haddam Neck are explicitly welcomed.",
+    "address": "11 Jail Hill Road, Haddam, CT 06438",
+    "phone": "(860) 345-4621",
+    "url": "https://www.haddam.org/549/Emergency-Food-Bank",
+    "categorySlug": "food",
+    "zipCode": "06438"
+  },
+  {
+    "name": "Killingworth Helping Hands Food Pantry",
+    "description": "Community food pantry operated by the Killingworth Women's Organization providing free supplemental food including shelf-stable items, fresh meat, dairy, produce, and bread to food-insecure residents regardless of income or residency. Open Thursdays 3:00–5:30 pm.",
+    "address": "242 Route 81, Killingworth, CT 06419",
+    "phone": "(860) 663-1765",
+    "url": "https://www.kwoct.org/helping-hands-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "06419"
+  },
+  {
+    "name": "Middlefield Food Bank - Middlefield Community Center",
+    "description": "Food pantry distributing non-perishable food once a month to low-income residents of Middlefield and Rockfall. Appointments are required; call Monday or Friday during distribution hours.",
+    "address": "405 Main Street, Middlefield, CT 06455",
+    "phone": "(860) 349-7121",
+    "url": "https://www.middlefieldct.org/233/Social-Services-Department",
+    "categorySlug": "food",
+    "zipCode": "06455"
+  },
+  {
+    "name": "Middlesex Habitat for Humanity of CT",
+    "description": "Nonprofit based in Cromwell constructing, rehabilitating, and preserving affordable homes throughout Middlesex County. Also advocates for fair housing policy and provides training and resources to help families improve their housing situations.",
+    "address": "34 Shunpike Road, Unit 12, Cromwell, CT 06416",
+    "phone": "(860) 343-9179",
+    "url": "https://habitatmiddlesex.org/",
+    "categorySlug": "housing",
+    "zipCode": "06416"
+  },
+  {
+    "name": "Portland Food Bank",
+    "description": "Community food bank providing non-perishable foods, toiletries, holiday food baskets, and seasonal items to Portland residents. Open Monday and Thursday mornings.",
+    "address": "7 Waverly Avenue (Senior Center parking lot), Portland, CT 06480",
+    "phone": "(860) 342-6795",
+    "url": "https://www.portlandct.org/social-services-info",
+    "categorySlug": "food",
+    "zipCode": "06480"
+  },
+  {
+    "name": "Shoreline Soup Kitchens & Pantries - Old Saybrook Food Pantry",
+    "description": "Interfaith food pantry network serving shoreline communities including Old Saybrook, Chester, Ivoryton, and surrounding towns. Guests may visit one pantry site per week and receive enough groceries for multiple meals.",
+    "address": "366 Main Street (First Church of Christ), Old Saybrook, CT 06475",
+    "phone": "(860) 388-1988",
+    "url": "https://shorelinesoupkitchens.org/get-help-2/first-church-of-christ",
+    "categorySlug": "food",
+    "zipCode": "06475"
+  },
+  {
+    "name": "Shoreline Soup Kitchens & Pantries - Westbrook Food Pantry",
+    "description": "Interfaith food pantry operating at St. Mark Roman Catholic Church in Westbrook, providing groceries to shoreline area residents in need each week. Part of the regional Shoreline Soup Kitchens & Pantries network.",
+    "address": "222 McVeagh Road (St. Mark Roman Catholic Church), Westbrook, CT 06498",
+    "phone": "(860) 388-1988",
+    "url": "https://www.shorelinesoupkitchens.org/get-help-2/st-marks-church",
+    "categorySlug": "food",
+    "zipCode": "06498"
+  },
+  {
+    "name": "Shoreline Soup Kitchens & Pantries – Chester Meal Site",
+    "description": "Interfaith nonprofit serving free hot meals family-style to anyone in need on Sunday evenings at United Church of Chester. Part of a regional network serving 11 shoreline towns including Chester, Deep River, Essex, Clinton, and Killingworth.",
+    "address": "29 West Main Street (United Church of Chester), Chester, CT 06412",
+    "phone": "(860) 388-1988",
+    "url": "https://www.shorelinesoupkitchens.org/",
+    "categorySlug": "food",
+    "zipCode": "06412"
+  },
+  {
+    "name": "Shoreline Soup Kitchens & Pantries – Clinton Pantry",
+    "description": "Weekly food pantry distributing canned goods, packaged food, fresh produce, meat, eggs, dairy, and bread to residents of Clinton and surrounding shoreline towns. Open Wednesdays 3:30–6:00 pm at First Church of Christ.",
+    "address": "55 Church Road (First Church of Christ, Congregational), Clinton, CT 06413",
+    "phone": "(860) 388-1988",
+    "url": "https://www.shorelinesoupkitchens.org/get-help-2/first-church-of-christ-clinton",
+    "categorySlug": "food",
+    "zipCode": "06413"
+  },
+  {
+    "name": "Shoreline Soup Kitchens & Pantries – Deep River Meal Site",
+    "description": "Interfaith nonprofit serving free hot meals family-style to anyone in need on Thursday evenings at Deep River Congregational Church. Also operates food pantries in Old Saybrook, Westbrook, Clinton, Old Lyme, and East Lyme serving 11 shoreline towns.",
+    "address": "1 Church Street (Deep River Congregational Church), Deep River, CT 06417",
+    "phone": "(860) 388-1988",
+    "url": "https://www.shorelinesoupkitchens.org/get-help-2/deep-river-congregational/63-deep-river-congregational-church",
+    "categorySlug": "food",
+    "zipCode": "06417"
+  },
+  {
+    "name": "St. Vincent de Paul Middletown - Amazing Grace Free Community Market",
+    "description": "Nonprofit serving the Middletown community for over 45 years, operating a free community market food pantry, a soup kitchen with daily breakfast and lunch, supportive housing, and a community clothing program.",
+    "address": "617 Main Street, Middletown, CT 06457",
+    "phone": "(860) 344-0097",
+    "url": "https://svdmiddletown.org/",
+    "categorySlug": "food",
+    "zipCode": "06457"
+  },
+  {
+    "name": "Town of Cromwell Food Pantry",
+    "description": "Municipal food pantry providing non-perishable food and toiletries to income-eligible Cromwell residents by appointment on Tuesdays and Thursdays. Requires proof of residence and income verification.",
+    "address": "41 West Street, Cromwell, CT 06416",
+    "phone": "(860) 632-3449",
+    "url": "https://www.cromwellct.com/human-services/pages/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "06416"
+  },
+  {
+    "name": "Beth-El Center",
+    "description": "Provides emergency shelter, soup kitchen, and housing case management to men, women, and families experiencing homelessness along the CT shoreline and lower Naugatuck Valley. Shelter access via 2-1-1 referral.",
+    "address": "90 New Haven Avenue, Milford, CT 06460",
+    "phone": "(203) 876-0747",
+    "url": "https://bethelcenterct.org/",
+    "categorySlug": "housing",
+    "zipCode": "06460"
+  },
+  {
+    "name": "BHcare Housing Services",
+    "description": "Nonprofit providing housing assistance, mental health, and addiction services along the shoreline. The housing department helps chronically homeless individuals and families find and maintain stable housing with ongoing case management support.",
+    "address": "13 Sycamore Way, Branford, CT 06405",
+    "phone": "(203) 800-7177",
+    "url": "https://bhcare.org/services/housing-services/",
+    "categorySlug": "housing",
+    "zipCode": "06405"
+  },
+  {
+    "name": "Branford Food Pantry",
+    "description": "Community food pantry serving approximately 520 Branford households monthly, providing supplemental groceries to individuals and families facing job loss, seniors on fixed incomes, single parents, and the working poor.",
+    "address": "30 Harrison Ave., Branford, CT 06405",
+    "phone": "(203) 481-3663",
+    "url": "https://branfordfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "06405"
+  },
+  {
+    "name": "Calvary Food Pantry – Calvary Southbury",
+    "description": "Curbside food pantry open the 1st and 3rd Tuesday of each month 5:30–7pm, distributing pre-packaged bags of non-perishables, bread, and produce. No registration required.",
+    "address": "354 Kettletown Road, Southbury, CT 06488",
+    "phone": "(203) 267-5441",
+    "url": "https://ccsouthbury.nucleus.church/calvary-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "06488"
+  },
+  {
+    "name": "Cheshire Community Food Pantry",
+    "description": "Community food pantry providing food assistance to eligible Cheshire residents regardless of race, religion, or disability. Open Monday through Friday with evening hours on alternating Wednesdays; appointment required through Cheshire Social Services.",
+    "address": "175 Sandbank Road, Cheshire, CT 06410",
+    "phone": "(203) 699-9226",
+    "url": "https://www.cheshirefoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "06410"
+  },
+  {
+    "name": "Christ Episcopal Church - Kathleen Samela Memorial Food Bank",
+    "description": "Church-operated food bank in Ansonia open Tuesday through Friday, serving all in need regardless of residency. Provides emergency food assistance to individuals and families in the lower Naugatuck Valley.",
+    "address": "56 South Cliff Street, Ansonia, CT 06401",
+    "phone": "(203) 734-2715",
+    "url": "https://www.homelessshelterdirectory.org/shelter/ct_christ-episcopal-church-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "06401"
+  },
+  {
+    "name": "Christian Community Action",
+    "description": "Ecumenical social service organization serving the Hill neighborhood of New Haven since 1967, offering a food pantry, emergency housing shelter, transitional housing, diaper bank, and energy assistance.",
+    "address": "168 Davenport Avenue, New Haven, CT 06519",
+    "phone": "(203) 777-7848",
+    "url": "https://www.ccahelping.org/",
+    "categorySlug": "housing",
+    "zipCode": "06519"
+  },
+  {
+    "name": "Christian Union Full Gospel Outreach Ministries - Community Food Pantry",
+    "description": "Church-based food pantry supplying groceries for those in need on the second Tuesday of each month and available for emergency cases.",
+    "address": "426 Washington Avenue, West Haven, CT 06516",
+    "phone": "(203) 641-1216",
+    "url": "https://food-banks.org/detail/christian_union_full_gospel_outreach_ministries_community_food_pantry_west_haven_ct.html",
+    "categorySlug": "food",
+    "zipCode": "06516"
+  },
+  {
+    "name": "Columbus House Emergency Shelter",
+    "description": "Provides emergency shelter for 81 adult men and women nightly, plus rapid rehousing and supportive housing programs for people experiencing homelessness across Greater New Haven.",
+    "address": "586 Ella T. Grasso Boulevard, New Haven, CT 06519",
+    "phone": "(203) 401-4400",
+    "url": "https://www.columbushouse.org/",
+    "categorySlug": "housing",
+    "zipCode": "06519"
+  },
+  {
+    "name": "Community Action Agency of New Haven",
+    "description": "Nonprofit providing food pantry, energy assistance, eviction prevention, rapid rehousing, and financial counseling to low-income households across Greater New Haven including the 06511 zip code.",
+    "address": "419 Whalley Avenue, New Haven, CT 06511",
+    "phone": "(203) 387-7700",
+    "url": "https://www.caanh.net/",
+    "categorySlug": "housing",
+    "zipCode": "06511"
+  },
+  {
+    "name": "Community Dining Room",
+    "description": "Nonprofit providing free daily meals, Saturday breakfast, and weekly family dinners to shoreline community members. Also delivers over 100 home dinners weekly to frail, elderly, and homebound individuals in Branford and North Branford.",
+    "address": "30 Harrison Ave., Branford, CT 06405",
+    "phone": "(203) 488-9750",
+    "url": "https://www.communitydiningroom.org/",
+    "categorySlug": "food",
+    "zipCode": "06405"
+  },
+  {
+    "name": "Community Services - Keefe Community Center (Hamden Food Bank)",
+    "description": "Town of Hamden food bank and choice pantry where individuals and families can shop for groceries. Distributes emergency food by appointment to Hamden residents in need.",
+    "address": "11 Pine Street, Hamden, CT 06514",
+    "phone": "(203) 562-5129",
+    "url": "https://www.hamden.com/177/Food-Resources",
+    "categorySlug": "food",
+    "zipCode": "06514"
+  },
+  {
+    "name": "Community Soup Kitchen of New Haven",
+    "description": "Serves free healthy lunches Monday, Tuesday, Thursday, and Friday 11am–1pm, and Saturday breakfast 8–9am at 84 Broadway to anyone in need.",
+    "address": "84 Broadway, New Haven, CT 06511",
+    "phone": "(203) 624-4594",
+    "url": "https://www.csknewhaven.org/",
+    "categorySlug": "food",
+    "zipCode": "06511"
+  },
+  {
+    "name": "Downtown Evening Soup Kitchen (DESK)",
+    "description": "Serves free dinners Monday–Thursday and Sunday evenings and operates a drop-in resource center connecting people experiencing homelessness to shelter, housing, medical care, and other supports.",
+    "address": "311 Temple Street, New Haven, CT 06510",
+    "phone": "(475) 238-6170",
+    "url": "https://deskct.org/",
+    "categorySlug": "food",
+    "zipCode": "06510"
+  },
+  {
+    "name": "Dream Center of West Haven",
+    "description": "Community outreach center operated by Vertical Church offering a food market, clothing closet, employment counseling, financial education, and emergency support services for West Haven residents.",
+    "address": "263 Center Street, West Haven, CT 06516",
+    "phone": "(203) 932-8325",
+    "url": "https://dreamcenterct.com/",
+    "categorySlug": "community",
+    "zipCode": "06516"
+  },
+  {
+    "name": "East Haven Food Pantry",
+    "description": "Free community food pantry serving East Haven residents with a drive-up option. Open Tuesday and Saturday 9–11am. Closed when East Haven schools are canceled or delayed.",
+    "address": "39 Park Place, East Haven, CT 06512",
+    "phone": "(203) 467-4668",
+    "url": "https://www.easthavenfoodpantry.com/",
+    "categorySlug": "food",
+    "zipCode": "06512"
+  },
+  {
+    "name": "Ecumenical Food Bank of Naugatuck and Beacon Falls",
+    "description": "Interfaith food bank providing a three-day emergency food supply to Naugatuck and Beacon Falls residents twice per month. Also offers TEFAP food to all Connecticut residents with no documentation required.",
+    "address": "75 Spring Street, Naugatuck, CT 06770",
+    "phone": "(203) 723-1922",
+    "url": "https://thecommunitylink.org/listing/ecumenical-food-bank-of-naugatuck-and-beacon-falls/",
+    "categorySlug": "food",
+    "zipCode": "06770"
+  },
+  {
+    "name": "Evangelical Christian Church Food Pantry",
+    "description": "Church-based food pantry serving Waterbury residents, providing grocery assistance to those in need.",
+    "address": "1325 Watertown Avenue, Waterbury, CT 06708",
+    "phone": "(203) 756-1293",
+    "url": "https://www.foodpantries.org/li/evangelical_christian_church_food_pantry_06708",
+    "categorySlug": "food",
+    "zipCode": "06708"
+  },
+  {
+    "name": "Faith Healing and Deliverance Ministries - Abba's Storehouse",
+    "description": "Community food pantry operating on the third Saturday of each month from 9am to 11am for area residents in need.",
+    "address": "60 Connelly Parkway, Hamden, CT 06514",
+    "phone": "(203) 288-0203",
+    "url": "https://foodpantries.org/li/faith_healing_and_deliverance_ministries_abbas_storehouse_06514",
+    "categorySlug": "food",
+    "zipCode": "06514"
+  },
+  {
+    "name": "First Assembly of God Food Pantry",
+    "description": "Church food pantry serving the Greater Waterbury area with Wednesday distributions from April through October and on alternating Wednesdays November through March.",
+    "address": "1245 Thomaston Avenue, Waterbury, CT 06704",
+    "phone": "(203) 753-8023",
+    "url": "https://www.foodpantries.org/li/first_assembly_of_god_food_pantry_06704",
+    "categorySlug": "food",
+    "zipCode": "06704"
+  },
+  {
+    "name": "First Baptist Church of Bethany - Food Pantry",
+    "description": "Church food pantry open Monday and Wednesday mornings from 9:30 to 11:30am providing one bag of groceries per household per month. Photo ID required.",
+    "address": "511 Amity Road, Bethany, CT 06524",
+    "phone": "(203) 393-3116",
+    "url": "https://www.fbcbethany.com/foodpantry",
+    "categorySlug": "food",
+    "zipCode": "06524"
+  },
+  {
+    "name": "Greater Waterbury Interfaith Ministries",
+    "description": "Interfaith organization providing hunger relief in Waterbury for over 90 years, offering a daily soup kitchen, monthly emergency food pantry, and connections to healthcare, housing, legal aid, and veterans services.",
+    "address": "770 East Main Street, Waterbury, CT 06702",
+    "phone": "(203) 756-2830",
+    "url": "https://gwimwaterbury.com/",
+    "categorySlug": "food",
+    "zipCode": "06702"
+  },
+  {
+    "name": "Guilford Food Bank (Guilford Interfaith Volunteers)",
+    "description": "Emergency food pantry jointly managed by Guilford Interfaith Volunteers and the Town of Guilford since 1995, distributing food by appointment on Fridays. First-time clients need proof of Guilford residency; returning clients need a voucher from Guilford Social Services.",
+    "address": "45 Stone House Lane, Guilford, CT 06437",
+    "phone": "(203) 453-8009",
+    "url": "https://givct.org/food-bank/",
+    "categorySlug": "food",
+    "zipCode": "06437"
+  },
+  {
+    "name": "House of Prayer - Bread of Life Food Pantry",
+    "description": "Church food pantry offering nonperishable food to Greater Waterbury residents on the second and fourth Saturday of each month.",
+    "address": "1333 Thomaston Avenue, Waterbury, CT 06704",
+    "phone": "(203) 753-8023",
+    "url": "https://www.standingwithyou.org/resource/bread-of-life-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "06704"
+  },
+  {
+    "name": "Jewish Family Service of Greater New Haven - Barry J. Vine Food Pantry",
+    "description": "Food pantry providing non-perishable foods, fresh produce, and frozen items to individuals and families near or below the poverty line in the New Haven area. Open by appointment on Wednesday and Thursday mornings.",
+    "address": "1440 Whalley Avenue, New Haven, CT 06515",
+    "phone": "(203) 397-0796",
+    "url": "https://jfsnh.org/programs-services/food-pantry-and-nutritional-health-center/",
+    "categorySlug": "food",
+    "zipCode": "06515"
+  },
+  {
+    "name": "Junta for Progressive Action",
+    "description": "Provides free social services, housing and food assistance navigation, legal services, adult education, and youth programs to over 5,000 Latino and low-income New Haven residents annually.",
+    "address": "169 Grand Avenue, New Haven, CT 06513",
+    "phone": "(203) 787-0191",
+    "url": "https://www.juntainc.org/",
+    "categorySlug": "community",
+    "zipCode": "06513"
+  },
+  {
+    "name": "Love Center Deliverance Ministry Food Pantry",
+    "description": "Faith-based food pantry open to the community on the second and fourth Saturday of each month from 10am to noon.",
+    "address": "19 George Street, Hamden, CT 06514",
+    "phone": "(203) 772-4314",
+    "url": "https://www.foodpantries.org/ci/ct-hamden",
+    "categorySlug": "food",
+    "zipCode": "06514"
+  },
+  {
+    "name": "Madison Community Services - Pauline Baldwin Food Pantry",
+    "description": "All-volunteer nonprofit founded in 1930 providing curbside grocery pickup with perishable and non-perishable items to Madison families in need. Licensed with CT Food Share; serves approximately three meals for three days per visit.",
+    "address": "50 Mungertown Road, Madison, CT 06443",
+    "phone": "(203) 245-3031",
+    "url": "https://madisoncommunityservices.org/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "06443"
+  },
+  {
+    "name": "Make a Home Foundation",
+    "description": "A nonprofit dedicated to assisting homeless individuals in Connecticut—including veterans, domestic abuse survivors, and the needy—by creating pathways off the streets and into fully furnished homes. Operates a thrift store that funds its mission.",
+    "address": "199 Park Rd Extension, Middlebury, CT 06762",
+    "phone": "(203) 527-5100",
+    "url": "https://makeahome.org/",
+    "categorySlug": "housing",
+    "zipCode": "06762"
+  },
+  {
+    "name": "Marrakech, Inc.",
+    "description": "Nonprofit organization founded in 1971 providing person-centered human services including safe affordable housing, family support, and community resource access for individuals with and without disabilities throughout Connecticut.",
+    "address": "6 Lunar Drive, Woodbridge, CT 06525",
+    "phone": "(203) 389-2970",
+    "url": "https://www.marrakechinc.org/",
+    "categorySlug": "housing",
+    "zipCode": "06525"
+  },
+  {
+    "name": "Master's Manna Food Pantry and Resource Center",
+    "description": "Full-service pantry providing food, clothing, diapers, and household goods to low-income and near-homeless families in the Wallingford/Meriden area. Open four days a week.",
+    "address": "428 South Cherry Street, Wallingford, CT 06492",
+    "phone": "(203) 678-3042",
+    "url": "https://www.mastersmanna.org/",
+    "categorySlug": "food",
+    "zipCode": "06492"
+  },
+  {
+    "name": "Middlebury Community Food Bank",
+    "description": "Town-run food bank housed at the Shepardson Community Center providing non-perishable food, personal supplies, and Thanksgiving and Christmas food baskets to Middlebury residents. Also offers emergency fund and housing rehab referrals.",
+    "address": "1172 Whittemore Road, Middlebury, CT 06762",
+    "phone": "(203) 577-4166",
+    "url": "https://www.middlebury-ct.org/elderly-social-services/pages/assistance-social-services",
+    "categorySlug": "food",
+    "zipCode": "06762"
+  },
+  {
+    "name": "Milford Food Bank",
+    "description": "Provides curbside food pickup and emergency food bags to Milford residents in need. Open Monday–Friday 9am–4pm at the Milford Senior Center.",
+    "address": "9 Jepson Drive, Milford, CT 06460",
+    "phone": "(203) 877-5131",
+    "url": "https://www.milfordfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "06460"
+  },
+  {
+    "name": "Ministry of Helps Foundation",
+    "description": "Faith-based food pantry open every Monday evening providing groceries to anyone in the community on a walk-in basis.",
+    "address": "308 Morse Street, Hamden, CT 06517",
+    "phone": "(203) 785-8057",
+    "url": "https://www.foodpantries.org/li/ministry_of_helps_foundation_06517",
+    "categorySlug": "food",
+    "zipCode": "06517"
+  },
+  {
+    "name": "Naugatuck Monthly Mobile Food Pantry",
+    "description": "A free monthly mobile food distribution held on the second Thursday of each month at the Naugatuck Event Center. No registration required; open to all.",
+    "address": "6 Rubber Avenue, Naugatuck, CT 06770",
+    "phone": "(203) 729-1564",
+    "url": "https://ctpfc.org/programs/mobile-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "06770"
+  },
+  {
+    "name": "Naugatuck Valley Soup Kitchen",
+    "description": "A free meal delivery service providing nutritious meals to Borough of Naugatuck residents who are unable to leave their homes or otherwise in need of food support.",
+    "address": "758 Rubber Avenue, Naugatuck, CT 06770",
+    "phone": "(203) 528-7494",
+    "url": "https://nvsoup.org/",
+    "categorySlug": "food",
+    "zipCode": "06770"
+  },
+  {
+    "name": "Nea Zoe Church Food Pantry",
+    "description": "Church food pantry open twice monthly on the first and third Wednesday and the third Saturday, serving the Waterbury community.",
+    "address": "242 Southmayd Road, Waterbury, CT 06705",
+    "phone": "(203) 437-7123",
+    "url": "https://www.foodpantries.org/ci/ct-waterbury",
+    "categorySlug": "food",
+    "zipCode": "06705"
+  },
+  {
+    "name": "New Opportunities of Greater Meriden Rental Assistance",
+    "description": "Provides tenant/landlord mediation, case management, eviction prevention, and first-month rental assistance to low-income Meriden households meeting established income guidelines.",
+    "address": "74 Cambridge Street, Meriden, CT 06450",
+    "phone": "(203) 235-0278",
+    "url": "https://newoppinc.org/",
+    "categorySlug": "housing",
+    "zipCode": "06450"
+  },
+  {
+    "name": "New Opportunities Operation Pantry",
+    "description": "Provides a three-day supply of non-perishable food to Meriden residents once per month. Walk-in service available Monday–Friday 10am–5pm at the New Opportunities community action office.",
+    "address": "74 Cambridge Street, Meriden, CT 06450",
+    "phone": "(203) 235-0278",
+    "url": "https://newoppinc.org/Service/Operation-Pantry",
+    "categorySlug": "food",
+    "zipCode": "06450"
+  },
+  {
+    "name": "New Opportunities Shelter Now Emergency Shelter",
+    "description": "Emergency shelter for single men, single women, and families with children experiencing homelessness. Provides on-site housing, employment assistance, counseling, and substance abuse referrals.",
+    "address": "43 St. Casimir Drive, Meriden, CT 06450",
+    "phone": "(203) 634-1734",
+    "url": "https://newoppinc.org/Service/New-Beginning-Emergency-Shelter-and-Hospitality-Services",
+    "categorySlug": "housing",
+    "zipCode": "06450"
+  },
+  {
+    "name": "New Reach",
+    "description": "Operates emergency shelters and 239+ supportive housing units for homeless women and families in New Haven. Provides prevention, crisis shelter, and long-term housing solutions.",
+    "address": "153 East Street, New Haven, CT 06511",
+    "phone": "(203) 492-4866",
+    "url": "https://www.newreach.org/",
+    "categorySlug": "housing",
+    "zipCode": "06511"
+  },
+  {
+    "name": "New Reach - Martha's Place Emergency Shelter",
+    "description": "Emergency shelter for single women and families with a female head of household, providing transitional support as residents work toward permanent housing.",
+    "address": "559 Howard Avenue, New Haven, CT 06519",
+    "phone": "(203) 492-4866",
+    "url": "https://www.newreach.org/whatwedo",
+    "categorySlug": "housing",
+    "zipCode": "06519"
+  },
+  {
+    "name": "North Haven Congregational Church Food Pantry",
+    "description": "Free food pantry serving North Haven residents, distributing food Monday, Wednesday, and Friday 10–11am by appointment. Photo ID required.",
+    "address": "28 Church Street, North Haven, CT 06473",
+    "phone": "(203) 239-5691",
+    "url": "https://northhavenucc.org/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "06473"
+  },
+  {
+    "name": "Oxford Neighbor to Neighbor Food Pantry",
+    "description": "Community-run home-based food pantry in Oxford providing non-perishable food items to neighbors in need. Available on a flexible schedule.",
+    "address": "130 Bee Mountain Road, Oxford, CT 06478",
+    "phone": "(203) 444-8464",
+    "url": "https://www.facebook.com/p/Oxford-Neighbor-to-Neighbor-Pantry-100095702796420/",
+    "categorySlug": "food",
+    "zipCode": "06478"
+  },
+  {
+    "name": "Safe Haven of Greater Waterbury",
+    "description": "Nonprofit providing crisis shelter, advocacy, and support services for survivors of domestic violence and sexual assault. All services are confidential, free, and available 24/7.",
+    "address": "29 Central Avenue, Waterbury, CT 06702",
+    "phone": "(203) 575-0036",
+    "url": "https://www.safehavengw.org/",
+    "categorySlug": "crisis",
+    "zipCode": "06702"
+  },
+  {
+    "name": "Saint Ann Soup Kitchen and Food Pantry",
+    "description": "Church-based soup kitchen serving free lunch Monday through Friday and operating a food pantry on the first and third Friday of each month. Serves area residents including those from Dixwell, Newhallville, and Highwood neighborhoods.",
+    "address": "930 Dixwell Avenue, Hamden, CT 06514",
+    "phone": "(203) 562-5700",
+    "url": "https://www.foodpantries.org/li/saint_ann_soup_kitchen_and_food_pantry_saint_anns_church_06514",
+    "categorySlug": "food",
+    "zipCode": "06514"
+  },
+  {
+    "name": "Salvation Army Greater Valley Corps Community Center",
+    "description": "Full-service Salvation Army corps providing food pantry services, emergency financial assistance, rent and utility vouchers, and holiday programs for working families, elderly persons, and those in crisis across the Valley region.",
+    "address": "26 Lester Street, Ansonia, CT 06401",
+    "phone": "(203) 736-0707",
+    "url": "https://easternusa.salvationarmy.org/southern-new-england/ansonia/",
+    "categorySlug": "food",
+    "zipCode": "06401"
+  },
+  {
+    "name": "Salvation Army Meriden Corps Community Center Food Pantry",
+    "description": "Provides food assistance to working families, elderly persons, those on state assistance, and others facing hardship. Pantry open Tuesday and Thursday 9am–noon.",
+    "address": "23 St. Casimir Drive, Meriden, CT 06450",
+    "phone": "(203) 235-6532",
+    "url": "https://www.salvationarmyusa.org/",
+    "categorySlug": "food",
+    "zipCode": "06450"
+  },
+  {
+    "name": "Salvation Army Waterbury Corps - Family Emergency Shelter",
+    "description": "Emergency shelter for single women and families providing housing, nutritious meals, and case management. Also offers homeless prevention assistance with financial aid and case management to keep families housed.",
+    "address": "74 Central Avenue, Waterbury, CT 06702",
+    "phone": "(203) 754-7056",
+    "url": "https://easternusa.salvationarmy.org/southern-new-england/waterbury/",
+    "categorySlug": "housing",
+    "zipCode": "06702"
+  },
+  {
+    "name": "Seymour Oxford Food Bank",
+    "description": "Nonprofit food bank serving residents of Seymour and Oxford with food and basic-needs assistance. Open Monday–Thursday 9–11am. Residency in Seymour or Oxford required.",
+    "address": "20 Pine Street, Seymour, CT 06483",
+    "phone": "(203) 888-7826",
+    "url": "https://www.seymouroxfordfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "06483"
+  },
+  {
+    "name": "Southbury Food Bank",
+    "description": "Community food bank dedicated to eliminating hunger in Southbury by providing food assistance with respect and dignity to residents in need.",
+    "address": "88 Main Street South, Southbury, CT 06488",
+    "phone": "(203) 721-0377",
+    "url": "https://southburyfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "06488"
+  },
+  {
+    "name": "Spanish Community of Wallingford (SCOW)",
+    "description": "Provides food insecurity support, immigration services, youth leadership, mental health referrals, and housing navigation to the Latino community in Wallingford.",
+    "address": "284 Washington Street, Wallingford, CT 06492",
+    "phone": "(203) 265-5866",
+    "url": "https://www.thegreatgive.org/organizations/spanish-community-of-wallingford",
+    "categorySlug": "community",
+    "zipCode": "06492"
+  },
+  {
+    "name": "St. Vincent de Paul Mission of Waterbury",
+    "description": "Connecticut's largest emergency shelter, operating since 1984 with capacity for up to 108 people nightly. Provides meals, hygiene supplies, case management, veterans services, and referrals to mental health, employment, and housing assistance.",
+    "address": "114 Benedict Street, Waterbury, CT 06706",
+    "phone": "(203) 573-9018",
+    "url": "https://www.svdpmission.org/",
+    "categorySlug": "housing",
+    "zipCode": "06706"
+  },
+  {
+    "name": "St. Vincent de Paul of the Valley Thrift Shop and Food Bank",
+    "description": "Food bank and thrift shop serving Ansonia, Derby, Oxford, Seymour, and Shelton residents by appointment. Provides a three-day supply of food; income documentation required once per year.",
+    "address": "237 Roosevelt Drive, Derby, CT 06418",
+    "phone": "(203) 734-7577",
+    "url": "https://svdpvalley.com/",
+    "categorySlug": "food",
+    "zipCode": "06418"
+  },
+  {
+    "name": "TEAM Inc. (Thames Valley Council for Community Action)",
+    "description": "Community action agency providing housing assistance (eviction prevention, housing search support), home heating energy assistance, SNAP enrollment help, senior meals, and economic services for lower-income residents across the Valley region.",
+    "address": "30 Elizabeth Street, Derby, CT 06418",
+    "phone": "(203) 736-5420",
+    "url": "https://teaminc.org/",
+    "categorySlug": "housing",
+    "zipCode": "06418"
+  },
+  {
+    "name": "The Blessing Pantry – Trinity Church Seymour",
+    "description": "Outdoor little pantry in the Trinity Church parking lot stocked 24/7 with non-perishable food, personal hygiene supplies, and cleaning items. No registration required.",
+    "address": "91 West Church Street, Seymour, CT 06483",
+    "phone": "(203) 888-6596",
+    "url": "https://www.affordablehousing411.com/food-assistances/food-pantry-details-the-blessing-pantry-91-church-street-seymour-ct-6483/",
+    "categorySlug": "food",
+    "zipCode": "06483"
+  },
+  {
+    "name": "The Food Pantry of North Branford, Inc.",
+    "description": "Volunteer-run food pantry offering free supplemental groceries to anyone in need with no financial qualifications. Open Wednesday 4–7pm and Friday 10am–1pm. Annual registration required.",
+    "address": "260 Forest Road, Northford, CT 06471",
+    "phone": "(203) 208-2581",
+    "url": "https://www.foodpantrynb.org/",
+    "categorySlug": "food",
+    "zipCode": "06471"
+  },
+  {
+    "name": "The Grace Place Food Pantry – New Life Church",
+    "description": "Community food pantry where visitors can shop for food items they need. Open Tuesday, Thursday, and Saturday 10am–2pm. No church membership required.",
+    "address": "149 West Main Street, Meriden, CT 06451",
+    "phone": "(203) 238-9399",
+    "url": "https://newlifechurchct.com/the-grace-place/",
+    "categorySlug": "food",
+    "zipCode": "06451"
+  },
+  {
+    "name": "The NICE Center Pantry",
+    "description": "Community food pantry serving Hill Regional residents on the last Saturday of each month from 11am to 1pm. Requires ID and proof of residency.",
+    "address": "410 Howard Avenue, New Haven, CT 06519",
+    "phone": "(203) 479-0056",
+    "url": "https://www.foodpantries.org/ci/ct-new_haven",
+    "categorySlug": "food",
+    "zipCode": "06519"
+  },
+  {
+    "name": "The Rock of Waterbury Food Pantry",
+    "description": "Community food pantry open Tuesday mornings (weather permitting) serving residents in need in the Waterbury area.",
+    "address": "513 Meriden Road, Waterbury, CT 06705",
+    "phone": "(203) 574-0515",
+    "url": "https://www.foodpantries.org/li/the-rock-of-waterbury-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "06705"
+  },
+  {
+    "name": "The Storehouse Project",
+    "description": "Faith-based nonprofit providing mobile food distribution, emergency aid, and other basic human needs assistance to Milford-area residents since 2000.",
+    "address": "Milford, CT 06460",
+    "phone": "",
+    "url": "https://www.storehouseprojectct.org/",
+    "categorySlug": "food",
+    "zipCode": "06460"
+  },
+  {
+    "name": "Town of North Haven Community Services Food Bank",
+    "description": "Municipal food bank providing one preassembled bag of non-perishable food per North Haven household per month. Available by appointment weekdays 9am–3:30pm.",
+    "address": "18 Church Street, North Haven, CT 06473",
+    "phone": "(203) 239-5321",
+    "url": "https://www.northhaven-ct.gov/government/town_departments/departments_(a_-_d)/community_services/support_services/food_bank.php",
+    "categorySlug": "food",
+    "zipCode": "06473"
+  },
+  {
+    "name": "Town of Orange Community Services Food Pantry",
+    "description": "Municipal food pantry serving Orange residents with income restrictions. Proof of residence required. Open Monday–Friday 8:30am–noon by appointment.",
+    "address": "617 Orange Center Road, Orange, CT 06477",
+    "phone": "(203) 891-4786",
+    "url": "https://www.foodpantries.org/li/town_of_orange_community_services_06477",
+    "categorySlug": "food",
+    "zipCode": "06477"
+  },
+  {
+    "name": "Town of Prospect Food Pantry",
+    "description": "A municipal food pantry serving Prospect residents in need of emergency food assistance. Operates by appointment only through the Town Hall.",
+    "address": "6 Center Street, Prospect, CT 06712",
+    "phone": "(203) 758-4461",
+    "url": "https://townofprospect.gov/",
+    "categorySlug": "food",
+    "zipCode": "06712"
+  },
+  {
+    "name": "Varick A.M.E. Zion Church Food Pantry and Soup Kitchen",
+    "description": "Provides a food pantry and soup kitchen serving New Haven residents including families, elderly, and people with disabilities. Emergency food available Monday–Thursday 10am–3:45pm; soup kitchen Mondays 5:30–6:30pm.",
+    "address": "242 Dixwell Avenue, New Haven, CT 06511",
+    "phone": "(203) 624-6245",
+    "url": "https://www.varickmemorial.org/",
+    "categorySlug": "food",
+    "zipCode": "06511"
+  },
+  {
+    "name": "W.H.E.A.T. Inc. (West Haven Emergency Assistance Taskforce)",
+    "description": "Private nonprofit founded in 1975 providing food, emergency services, and referrals to West Haven residents in crisis. Services include a food pantry, medical referrals, legal services referrals, housing assistance, clothing, and furniture.",
+    "address": "674 Washington Avenue, West Haven, CT 06516",
+    "phone": "(203) 931-9877",
+    "url": "https://www.wheatpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "06516"
+  },
+  {
+    "name": "Waterbury Baptist Ministries Food Pantry",
+    "description": "Church food pantry serving downtown Waterbury residents in need with emergency grocery bags distributed on Fridays. Intake form and photo ID required.",
+    "address": "222 West Main Street, Waterbury, CT 06702",
+    "phone": "(203) 754-5140",
+    "url": "https://www.waterburybaptist.com/",
+    "categorySlug": "food",
+    "zipCode": "06702"
+  },
+  {
+    "name": "Wolcott Resource Center Food Pantry",
+    "description": "A community nonprofit established in 2011 that collects and distributes food, paper goods, and personal hygiene items to residents in need. Partners with the Connecticut Food Bank for weekly food pickups.",
+    "address": "358 Woodtick Road, Wolcott, CT 06716",
+    "phone": "(203) 704-7402",
+    "url": "https://www.wolcottresourcecenter.com/",
+    "categorySlug": "food",
+    "zipCode": "06716"
+  },
+  {
+    "name": "Woodbridge Human Services Department - Food Pantry",
+    "description": "Town of Woodbridge human services department providing food assistance and referrals to local residents in need.",
+    "address": "11 Meetinghouse Lane, Woodbridge, CT 06525",
+    "phone": "(203) 389-3429",
+    "url": "https://www.woodbridgect.org/223/Human-Services-Department",
+    "categorySlug": "food",
+    "zipCode": "06525"
+  },
+  {
+    "name": "Always Home",
+    "description": "Operates the only family emergency shelter in Connecticut east of the Thames River, providing apartment-style shelter units and case management to help families achieve rapid re-housing.",
+    "address": "119 High Street, Mystic, CT 06355",
+    "phone": "(860) 245-0222",
+    "url": "https://www.alwayshome.org",
+    "categorySlug": "housing",
+    "zipCode": "06355"
+  },
+  {
+    "name": "Bozrah Food Pantry",
+    "description": "A town-operated food pantry providing free groceries to Bozrah residents. Residents complete a request form at Town Hall by Wednesday for weekly Thursday pick-up between 3–6 PM.",
+    "address": "1 River Road, Bozrah, CT 06334",
+    "phone": "(860) 889-2689",
+    "url": "https://www.townofbozrah.org/279/Bozrah-Food-Pantry",
+    "categorySlug": "food",
+    "zipCode": "06334"
+  },
+  {
+    "name": "Care & Share of East Lyme",
+    "description": "A community nonprofit providing year-round food pantry services, emergency financial assistance, and housing and energy support to individuals and families in East Lyme, Niantic, and Salem.",
+    "address": "12 Roxbury Road, Niantic, CT 06357",
+    "phone": "(860) 739-8502",
+    "url": "https://www.careandshareofel.org/",
+    "categorySlug": "food",
+    "zipCode": "06357"
+  },
+  {
+    "name": "Catholic Charities Diocese of Norwich",
+    "description": "Provides emergency food, housing counseling, rental and utility assistance, clothing, transportation assistance, and case management to residents of Norwich and New London County.",
+    "address": "331 Main Street, Norwich, CT 06360",
+    "phone": "(860) 889-8346",
+    "url": "https://www.ccfsn.org",
+    "categorySlug": "housing",
+    "zipCode": "06360"
+  },
+  {
+    "name": "Colchester Youth & Social Services Food Bank",
+    "description": "Municipal food bank providing Colchester residents with food, personal hygiene items, and household supplies. Distribution is by appointment on Thursday mornings; curbside pickup available.",
+    "address": "127 Norwich Avenue, Suite 205, Colchester, CT 06415",
+    "phone": "(860) 537-7255",
+    "url": "https://www.colchesterct.gov/youth-social-services/pages/food-bank",
+    "categorySlug": "food",
+    "zipCode": "06415"
+  },
+  {
+    "name": "Covenant Shelter of New London",
+    "description": "A 34-bed emergency shelter serving homeless men, women, and families with children in the New London area, providing safe overnight accommodation and case management support.",
+    "address": "42 Jay Street, New London, CT 06320",
+    "phone": "(860) 443-0537",
+    "url": "https://www.covenantshelternl.org/",
+    "categorySlug": "housing",
+    "zipCode": "06320"
+  },
+  {
+    "name": "Eastern Connecticut Housing Opportunities (ECHO)",
+    "description": "Private nonprofit providing equitable housing opportunities to individuals and families in eastern Connecticut, including homeownership counseling, mortgage assistance, and housing rehabilitation programs serving Windham County and surrounding areas.",
+    "address": "165 State Street Suite 405, New London, CT 06320",
+    "phone": "860-447-8055",
+    "url": "https://echohomes.org/",
+    "categorySlug": "housing",
+    "zipCode": "06320"
+  },
+  {
+    "name": "Gemma E. Moran United Way/Labor Food Center",
+    "description": "A regional food distribution center operated by United Way of Southeastern Connecticut that distributes food to partner agencies and individuals throughout New London County.",
+    "address": "374 Broad Street, New London, CT 06320",
+    "phone": "(860) 444-8050",
+    "url": "https://www.uwsect.org/foodcenter",
+    "categorySlug": "food",
+    "zipCode": "06320"
+  },
+  {
+    "name": "Groton Food Locker",
+    "description": "An emergency food pantry operated by the Town of Groton Human Services Department providing free groceries to anyone in need, with no residency or income restrictions. Contact Human Services to schedule a pickup.",
+    "address": "2 Fort Hill Road, Groton, CT 06340",
+    "phone": "(860) 441-6760",
+    "url": "https://www.groton-ct.gov/departments/humanservices/foodlocker.php",
+    "categorySlug": "food",
+    "zipCode": "06340"
+  },
+  {
+    "name": "Groton Social Services",
+    "description": "A town department offering direct assistance, case management, crisis intervention, emergency rent/mortgage assistance, and housing search support to Groton individuals and families facing housing and basic needs crises.",
+    "address": "2 Fort Hill Road, Groton, CT 06340",
+    "phone": "(860) 441-6760",
+    "url": "https://www.groton-ct.gov/departments/humanservices/socialservices.php",
+    "categorySlug": "housing",
+    "zipCode": "06340"
+  },
+  {
+    "name": "Habitat for Humanity of Eastern Connecticut",
+    "description": "Builds affordable housing and offers homeownership programs to low-income families across eastern Connecticut, including New London County communities.",
+    "address": "377 Broad Street, New London, CT 06320",
+    "phone": "(860) 442-7890",
+    "url": "https://www.habitatect.org",
+    "categorySlug": "housing",
+    "zipCode": "06320"
+  },
+  {
+    "name": "Linda C. Davis Ledyard Food Pantry",
+    "description": "A municipal food pantry operated by Ledyard Social Services providing groceries to Ledyard and Gales Ferry residents who demonstrate financial need. Also offers rental assistance, heating assistance, and holiday food baskets.",
+    "address": "741 Colonel Ledyard Highway, Ledyard, CT 06339",
+    "phone": "(860) 464-3254",
+    "url": "https://www.ledyardct.org/297/Ledyard-Food-Pantry",
+    "categorySlug": "food",
+    "zipCode": "06339"
+  },
+  {
+    "name": "Montville Social Services Food Pantry",
+    "description": "Municipal social services office providing daily access to a food pantry, hygiene bank, and clothing bank, along with heating assistance, utility services, and emergency crisis intervention for Montville and Uncasville residents.",
+    "address": "310 Norwich-New London Turnpike, Uncasville, CT 06382",
+    "phone": "(860) 848-8820",
+    "url": "https://www.townofmontville.org/department-services/social-services-office",
+    "categorySlug": "food",
+    "zipCode": "06382"
+  },
+  {
+    "name": "Montville Union Baptist Church Food Bank",
+    "description": "Nonprofit food bank dedicated to collecting, storing, and distributing food including meat, canned goods, bread, and personal care items to those in need in the Oakdale and Montville area.",
+    "address": "279 Oakdale Road, Montville, CT 06370",
+    "phone": "(860) 848-3570",
+    "url": "https://food-banks.org/detail/montville_union_baptist_church_montville_food_bank_montville_ct.html",
+    "categorySlug": "food",
+    "zipCode": "06370"
+  },
+  {
+    "name": "New London Area Food Pantry",
+    "description": "An all-volunteer food pantry providing a selection of groceries to individuals and families in the greater New London area who cannot afford to meet their nutritional needs. Open Monday and Thursday.",
+    "address": "110 Garfield Avenue, New London, CT 06320",
+    "phone": "(860) 443-6680",
+    "url": "https://www.newlondonareafoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "06320"
+  },
+  {
+    "name": "New London Homeless Hospitality Center",
+    "description": "A 40-bed low-barrier emergency shelter providing overnight shelter, daytime hospitality, basic needs, respite care, and pathways to permanent housing for adults experiencing homelessness in southeastern Connecticut.",
+    "address": "325 Huntington Street, New London, CT 06320",
+    "phone": "(860) 439-1573",
+    "url": "https://www.nlhhc.org/",
+    "categorySlug": "housing",
+    "zipCode": "06320"
+  },
+  {
+    "name": "Niantic Community Church Food Pantry",
+    "description": "Church-run food pantry serving East Lyme and Niantic residents by appointment, providing food assistance to those in need.",
+    "address": "170 Pennsylvania Avenue, East Lyme, CT 06357",
+    "phone": "(860) 739-6208",
+    "url": "https://www.nianticcommunitychurch.org/service",
+    "categorySlug": "food",
+    "zipCode": "06357"
+  },
+  {
+    "name": "Pawcatuck Neighborhood Center",
+    "description": "Community resource center providing food pantry, housing and utility assistance, Weekender Backpack program for school-age children, and senior services for residents of Stonington, Pawcatuck, Mystic, and North Stonington.",
+    "address": "27 Chase Street, Pawcatuck, CT 06379",
+    "phone": "(860) 599-3285",
+    "url": "https://pawcatuckneighborhoodcenter.org",
+    "categorySlug": "food",
+    "zipCode": "06379"
+  },
+  {
+    "name": "Potter's House Church of God Food Pantry",
+    "description": "A church-based food pantry committed to helping individuals fulfill basic food needs. Those in need can make an appointment to pick up items.",
+    "address": "500 Sandy Hollow Road, Mystic, CT 06355",
+    "phone": "(860) 303-5065",
+    "url": "https://www.pottershousect.org/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "06355"
+  },
+  {
+    "name": "Preston City Congregational Church Food Pantry",
+    "description": "Local church food pantry open monthly to provide food assistance to Preston-area residents.",
+    "address": "321 Route 164, Preston, CT 06365",
+    "phone": "(860) 887-6452",
+    "url": "https://www.prestoncitycongregational.org/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "06365"
+  },
+  {
+    "name": "Reliance Health Homeless Outreach",
+    "description": "A PATH (Projects for Assistance in Transition from Homelessness) provider that sends outreach teams into the community to help individuals experiencing or at imminent risk of homelessness find stable housing, with a focus on those with serious mental illness.",
+    "address": "81 Union Street, Norwich, CT 06360",
+    "phone": "(860) 887-6536",
+    "url": "https://reliancehealthinc.org/index.php/ourservices",
+    "categorySlug": "housing",
+    "zipCode": "06360"
+  },
+  {
+    "name": "Salvation Army Norwich Corps Community Center",
+    "description": "Provides food pantry services, emergency financial assistance for rent and utilities, and basic needs support to Norwich and surrounding area residents.",
+    "address": "425 West Main Street, Suite 110, Norwich, CT 06360",
+    "phone": "(860) 889-2329",
+    "url": "https://easternusa.salvationarmy.org/southern-new-england/norwich",
+    "categorySlug": "food",
+    "zipCode": "06360"
+  },
+  {
+    "name": "Shoreline Soup Kitchens & Pantries - Old Lyme Pantry",
+    "description": "Weekly food pantry at First Congregational Church providing canned goods, fresh produce, meat, dairy, and bread to Old Lyme and surrounding shoreline community members.",
+    "address": "2 Ferry Road, Old Lyme, CT 06371",
+    "phone": "(860) 388-1988",
+    "url": "https://www.shorelinesoupkitchens.org/get-help-2/first-congregational-church",
+    "categorySlug": "food",
+    "zipCode": "06371"
+  },
+  {
+    "name": "Shoreline Soup Kitchens & Pantries – East Lyme",
+    "description": "A regional network operating a weekly food pantry at St. John's Episcopal Church in Niantic distributing canned goods, fresh produce, meat, dairy, and bread to residents of East Lyme and surrounding shoreline towns.",
+    "address": "400 Main Street, Niantic, CT 06357",
+    "phone": "(860) 388-1988",
+    "url": "https://shorelinesoupkitchens.org/get-help-2/st-johns-episcopal-church-sp-1020041302",
+    "categorySlug": "food",
+    "zipCode": "06357"
+  },
+  {
+    "name": "St. Mary Food Pantry (Our Lady of the Rosary Parish)",
+    "description": "A parish food pantry helping Jewett City and Griswold area residents in need due to illness, unemployment, or family hardship. Distributes food and household items on the first four Tuesdays of each month.",
+    "address": "34 Main Street, Jewett City, CT 06351",
+    "phone": "(860) 376-2044",
+    "url": "https://stmaryjc.weconnect.com/St--Mary-Food-Pantry",
+    "categorySlug": "food",
+    "zipCode": "06351"
+  },
+  {
+    "name": "St. Vincent de Paul Place Norwich",
+    "description": "A nonprofit Catholic ministry providing free meals (breakfast and lunch) six days a week and a food pantry open Monday, Wednesday, and Saturday to anyone facing physical, mental, or socioeconomic challenges in Norwich and surrounding areas.",
+    "address": "120 Cliff Street, Norwich, CT 06360",
+    "phone": "(860) 889-7374",
+    "url": "https://www.svdpp.org/",
+    "categorySlug": "food",
+    "zipCode": "06360"
+  },
+  {
+    "name": "Stonington Mobile Food Pantry (United Way of Southeastern CT)",
+    "description": "Monthly drive-through mobile food distribution event serving Stonington and South Lyme area residents, no paperwork required.",
+    "address": "176 South Broad Street, Pawcatuck, CT 06379",
+    "phone": "(860) 442-8255",
+    "url": "https://www.uwsect.org/mobile-food-pantry-stonington",
+    "categorySlug": "food",
+    "zipCode": "06379"
+  },
+  {
+    "name": "Sweet Potato Society - Helping Hands Food Pantry",
+    "description": "Community food pantry providing nutritious food, essential supplies, and support services to seniors and families in southeastern Connecticut, with emergency appointments available.",
+    "address": "19 Halls Road, Old Lyme, CT 06371",
+    "phone": "(860) 451-8237",
+    "url": "https://www.sweetpotatosociety.org",
+    "categorySlug": "food",
+    "zipCode": "06371"
+  },
+  {
+    "name": "Thames Valley Council for Community Action (TVCCA)",
+    "description": "A nonprofit community action agency providing housing assistance, energy assistance, nutrition programs, WIC, Meals on Wheels, and social services referrals to low-income individuals and families throughout eastern Connecticut.",
+    "address": "1 Sylvandale Road, Jewett City, CT 06351",
+    "phone": "(860) 889-1365",
+    "url": "https://www.tvcca.org/",
+    "categorySlug": "community",
+    "zipCode": "06351"
+  },
+  {
+    "name": "Thames Valley Council for Community Action (TVCCA) Shelter",
+    "description": "Emergency family shelter providing housing and three meals a day for up to 45 residents, serving families with children and pregnant women, with case management and rapid re-housing services for New London County.",
+    "address": "401 West Thames Street, Suite 201, Norwich, CT 06360",
+    "phone": "(860) 889-1365",
+    "url": "https://www.tvcca.org/housing",
+    "categorySlug": "housing",
+    "zipCode": "06360"
+  },
+  {
+    "name": "Town of Lebanon Social Services Food Pantry",
+    "description": "A municipal food pantry serving Lebanon residents facing food insecurity, including working families, elderly persons, and those recently in shelters. Open Tuesday and Thursday by appointment.",
+    "address": "579 Exeter Road, Lebanon, CT 06249",
+    "phone": "(860) 642-4580",
+    "url": "https://www.lebanonct.gov/social-services/pages/food-assistance",
+    "categorySlug": "food",
+    "zipCode": "06249"
+  },
+  {
+    "name": "UCP of Eastern Connecticut Food Pantry",
+    "description": "Food pantry operated by United Cerebral Palsy of Eastern Connecticut, dedicated to addressing food insecurity among people with disabilities and the broader community by appointment.",
+    "address": "42 Norwich Road, Quaker Hill, CT 06375",
+    "phone": "(860) 288-9528",
+    "url": "https://ucpect.org/programs/ucps-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "06375"
+  },
+  {
+    "name": "Voluntown Baptist Church Food Pantry",
+    "description": "Church-operated outdoor and indoor food pantry serving Voluntown residents, with an accessible outdoor pantry at the lower entrance and indoor pickup available by appointment.",
+    "address": "52 Main Street, Voluntown, CT 06384",
+    "phone": "(860) 376-9485",
+    "url": "https://www.voluntownbaptistchurch.org",
+    "categorySlug": "food",
+    "zipCode": "06384"
+  },
+  {
+    "name": "Waterford Community Food Bank",
+    "description": "Town-supported food bank operating on an appointment basis, allowing residents to shop shelves with dignity and confidentiality for monthly food assistance.",
+    "address": "200 Boston Post Road, Waterford, CT 06385",
+    "phone": "(860) 442-7258",
+    "url": "https://www.waterfordct.org/322/Waterford-Community-Food-Bank",
+    "categorySlug": "food",
+    "zipCode": "06385"
+  },
+  {
+    "name": "Andover Food Pantry (Andover Congregational Church)",
+    "description": "Weekly food pantry hosted in the Historic Meeting House on the grounds of the First Congregational Church, serving Andover households in need on Monday evenings and alternating Wednesday mornings.",
+    "address": "359 Route 6, Andover, CT 06232",
+    "phone": "(860) 208-3226",
+    "url": "https://www.andoverconnecticut.org/home/pages/andover-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "06232"
+  },
+  {
+    "name": "Bolton Senior Center Food Pantry",
+    "description": "Food pantry operated through the Town of Bolton Senior and Social Services, providing groceries to Bolton residents facing food insecurity.",
+    "address": "104 Notch Road, Bolton, CT 06043",
+    "phone": "(860) 647-9196",
+    "url": "https://www.boltonct.gov/services/senior-and-social-services",
+    "categorySlug": "food",
+    "zipCode": "06043"
+  },
+  {
+    "name": "Cornerstone Food Cupboard",
+    "description": "Food cupboard operated by the faith-based Cornerstone Foundation, distributing pre-packed bags of food to income-eligible residents of Vernon and surrounding communities on Tuesdays and Saturdays.",
+    "address": "3 Prospect Street, Vernon Rockville, CT 06066",
+    "phone": "(860) 871-1823",
+    "url": "https://www.cornerstone-cares.org",
+    "categorySlug": "food",
+    "zipCode": "06066"
+  },
+  {
+    "name": "Coventry Human Services Food Pantry",
+    "description": "Municipal food pantry operated by the Town of Coventry Human Services Department, offering staple groceries including cereal, pasta, soup, and canned goods to Coventry residents in need.",
+    "address": "1712 Main Street, Coventry, CT 06238",
+    "phone": "(860) 742-5324",
+    "url": "https://www.coventry-ct.gov/651/Resources-and-Referrals",
+    "categorySlug": "food",
+    "zipCode": "06238"
+  },
+  {
+    "name": "Crystal Lake Community Food Pantry",
+    "description": "Community food pantry operated through Community United Methodist Church, serving Ellington and Stafford residents with groceries by appointment. Proof of income and residency required.",
+    "address": "278 Sandy Beach Road, Ellington, CT 06029",
+    "phone": "(860) 872-0798",
+    "url": "https://clfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "06029"
+  },
+  {
+    "name": "HIHS Community Food Pantry (Columbia Site)",
+    "description": "Food pantry outpost of Hebron Interfaith Human Services serving Columbia residents with groceries on weekday mornings at Columbia Town Hall.",
+    "address": "323 Route 87, Columbia, CT 06237",
+    "phone": "(860) 228-0759",
+    "url": "https://www.hihsct.org/",
+    "categorySlug": "food",
+    "zipCode": "06237"
+  },
+  {
+    "name": "Husky Harvest Food Pantry (UConn Storrs)",
+    "description": "Campus food pantry operated by UConn Dining in partnership with Connecticut Foodshare, providing non-perishable food, fresh produce, and toiletries to UConn students and staff free of charge. Open Tuesday, Thursday, and Friday during the academic semester.",
+    "address": "916 Tower Court Road (Charter Oak Apartments Community Center), Storrs, CT 06268",
+    "phone": "860-486-2639",
+    "url": "https://huskyharvest.uconn.edu/",
+    "categorySlug": "food",
+    "zipCode": "06268"
+  },
+  {
+    "name": "HVCC Food Pantry (Hockanum Valley Community Council)",
+    "description": "Nonprofit food pantry serving residents of Vernon, Tolland, Ellington, Coventry, and South Windsor who meet income requirements. Offers free food packages with fresh produce and connects clients to case managers for additional support.",
+    "address": "29 Naek Road, Suite 5A, Vernon, CT 06066",
+    "phone": "(860) 872-7727",
+    "url": "https://www.hvcchelps.org/pantry",
+    "categorySlug": "food",
+    "zipCode": "06066"
+  },
+  {
+    "name": "Mansfield Human Services – Housing & Homelessness Assistance",
+    "description": "Municipal department offering emergency financial assistance for rent, utilities, and temporary housing for Mansfield residents, plus the Housing Rehabilitation Revolving Loan Program for income-eligible homeowners.",
+    "address": "4 South Eagleville Road, Mansfield, CT 06268",
+    "phone": "(860) 429-3315",
+    "url": "https://www.mansfieldct.gov/2713/Housing-Homelessness-Resources",
+    "categorySlug": "housing",
+    "zipCode": "06268"
+  },
+  {
+    "name": "Mansfield Human Services Food Pantry",
+    "description": "Town-run food pantry offering nonperishable food, monthly meal kits, holiday meal kits, and emergency financial assistance to Mansfield residents. Also coordinates a mobile food truck and Farms to Families program.",
+    "address": "4 South Eagleville Road, Mansfield, CT 06268",
+    "phone": "(860) 429-3315",
+    "url": "https://www.mansfieldct.gov/1896/Food-Programs",
+    "categorySlug": "food",
+    "zipCode": "06268"
+  },
+  {
+    "name": "My Brother's Keeper Food Pantry",
+    "description": "Food pantry ministry of Hope Lutheran Church serving the Storrs-Mansfield area with appointments and walk-in hours every Tuesday morning and evening. Provides groceries to individuals and families in need.",
+    "address": "62 Dog Lane, Storrs, CT 06268",
+    "phone": "860-429-5409",
+    "url": "https://connecticutfoodbanks.org/food-bank/my-brothers-keeper-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "06268"
+  },
+  {
+    "name": "Natchaug Food Pantry",
+    "description": "A Connecticut Foodshare partner pantry offering perishable and nonperishable items to the community twice a month or by appointment. Serves residents of the Mansfield/Storrs area.",
+    "address": "196 Conantville Road, Mansfield, CT 06250",
+    "phone": "860-465-5909",
+    "url": "https://natchaug.org/giving/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "06250"
+  },
+  {
+    "name": "Safe Net Ministries Food Cupboard",
+    "description": "Community ministry providing food assistance to Stafford and Union residents on the first Wednesday of the month and second and fourth Saturdays. Also assists with clothing, utilities, and emergency shelter referrals.",
+    "address": "58 West Stafford Road, Stafford Springs, CT 06076",
+    "phone": "(860) 851-9987",
+    "url": "https://www.safenetministries.com/",
+    "categorySlug": "food",
+    "zipCode": "06076"
+  },
+  {
+    "name": "Somers Congregational Church Food Pantry",
+    "description": "Church-based food pantry providing free groceries to Connecticut residents in need with no documentation required. Open Monday mornings and evenings on a walk-in basis.",
+    "address": "599 Main Street, Somers, CT 06071",
+    "phone": "(860) 763-4021",
+    "url": "https://www.foodpantries.org/li/somers_congregational_church_food_pantry_06071",
+    "categorySlug": "food",
+    "zipCode": "06071"
+  },
+  {
+    "name": "Somers Housing Authority",
+    "description": "Local housing authority providing decent, safe, and affordable housing for low-to-moderate income persons and families in Somers.",
+    "address": "71 Battle Street, Somers, CT 06071",
+    "phone": "(860) 749-2471",
+    "url": "https://www.somersct.gov/boards_commissions/housing_authority.php",
+    "categorySlug": "housing",
+    "zipCode": "06071"
+  },
+  {
+    "name": "Storrs Congregational Church Food Pantry",
+    "description": "Church-based emergency food pantry open three times a week, serving Storrs-Mansfield and Willimantic area families and UConn students with no appointment needed.",
+    "address": "2 North Eagleville Road, Storrs, CT 06268",
+    "phone": "(860) 429-9382",
+    "url": "https://www.storrscongchurch.org/reaching-out/hunger-food-justice-ministries/",
+    "categorySlug": "food",
+    "zipCode": "06268"
+  },
+  {
+    "name": "Town of Stafford Human Services",
+    "description": "Municipal department offering social services referrals, emergency fuel and utility assistance, and limited emergency financial assistance to Stafford residents. Gateway to coordinated emergency shelter access.",
+    "address": "1 Main Street, Stafford Springs, CT 06076",
+    "phone": "(860) 684-4239",
+    "url": "https://www.staffordct.org/departments/human_services/social_services.php",
+    "categorySlug": "community",
+    "zipCode": "06076"
+  },
+  {
+    "name": "Town of Tolland Food Pantry",
+    "description": "Municipal food pantry for Tolland residents who meet income requirements, offering nonperishable food and some household items. Located at the Hicks Memorial Municipal Center.",
+    "address": "21 Tolland Green, Tolland, CT 06084",
+    "phone": "(860) 871-3648",
+    "url": "https://www.tollandct.gov/human-services/pages/food-assistance",
+    "categorySlug": "food",
+    "zipCode": "06084"
+  },
+  {
+    "name": "Town of Vernon Department of Social Services",
+    "description": "Municipal social services department offering crisis intervention, case management, benefits counseling, emergency fuel and utility assistance, and limited emergency financial assistance to Vernon residents.",
+    "address": "14 Park Place, Vernon, CT 06066",
+    "phone": "(860) 870-3661",
+    "url": "https://www.vernon-ct.gov/departments-services/departments/social-services",
+    "categorySlug": "community",
+    "zipCode": "06066"
+  },
+  {
+    "name": "Willington Food Pantry",
+    "description": "Town-run food pantry overseen by the Human Services department and staffed by volunteers, serving exclusively Willington residents. Open Monday evenings 4–6pm and Thursdays 10am–noon.",
+    "address": "40 Old Farms Road, Willington, CT 06279",
+    "phone": "860-429-8321",
+    "url": "https://www.willingtonct.gov/1262/The-Willington-Food-Pantry",
+    "categorySlug": "food",
+    "zipCode": "06279"
+  },
+  {
+    "name": "ACCESS Community Action Agency – Housing & Eviction Prevention",
+    "description": "Provides eviction prevention services, rental assistance through the State Rent Bank, and supportive housing programs for families across Windham and Tolland Counties. Also offers rapid rehousing and homelessness prevention programs.",
+    "address": "1315 Main Street, Willimantic, CT 06226",
+    "phone": "860-450-7400",
+    "url": "https://accessagency.org/",
+    "categorySlug": "housing",
+    "zipCode": "06226"
+  },
+  {
+    "name": "ACCESS Community Action Agency – Willimantic Food Pantry",
+    "description": "Anti-poverty agency serving Windham and Tolland Counties, providing emergency food assistance on a one-time-per-month basis and a three-day food supply in crisis situations. Open multiple days each week with varying morning and afternoon hours.",
+    "address": "1315 Main Street, Willimantic, CT 06226",
+    "phone": "860-450-7400",
+    "url": "https://accessagency.org/food-pantries-site-based-and-mobile/",
+    "categorySlug": "food",
+    "zipCode": "06226"
+  },
+  {
+    "name": "Access Community Action Agency Emergency Shelter",
+    "description": "A 50-bed emergency shelter serving homeless families and single adults 24 hours a day, seven days a week with three meals daily. Serves eastern Connecticut including Windham and Tolland Counties; call 211 or Hub Services to enroll.",
+    "address": "51 Reynolds Street, Danielson, CT 06239",
+    "phone": "(860) 774-4977",
+    "url": "https://accessagency.org/emergency-shelter/",
+    "categorySlug": "housing",
+    "zipCode": "06239"
+  },
+  {
+    "name": "Alternative Services of Connecticut - South Windham Food Bank",
+    "description": "A nonprofit food bank operating at Brook's Bend Plaza on Route 32, distributing food every Friday in cooperation with CT Food Bank. Serves Connecticut residents in need at no cost.",
+    "address": "661 Windham Road, South Windham, CT 06266",
+    "phone": "860-942-8270",
+    "url": "https://asi-ct.org/food-bank/",
+    "categorySlug": "food",
+    "zipCode": "06266"
+  },
+  {
+    "name": "Community Kitchens of Northeastern Connecticut - Canterbury",
+    "description": "Serves free hot meals every Tuesday at noon at Canterbury Town Hall. Part of a regional nonprofit operating since 1982 to alleviate hunger in the quiet corner of Connecticut.",
+    "address": "1 Municipal Drive, Canterbury, CT 06331",
+    "phone": "860-928-0009",
+    "url": "https://www.communitykitchensnect.org/our-sites.html",
+    "categorySlug": "food",
+    "zipCode": "06331"
+  },
+  {
+    "name": "Community Kitchens of Northeastern Connecticut - Woodstock",
+    "description": "A nonprofit founded in 1982 that serves free hot meals every Monday at noon at the First Congregational Church of Woodstock. All are welcome with no questions asked.",
+    "address": "543 Route 169, Woodstock, CT 06281",
+    "phone": "860-928-0009",
+    "url": "https://www.communitykitchensnect.org/",
+    "categorySlug": "food",
+    "zipCode": "06281"
+  },
+  {
+    "name": "Covenant Soup Kitchen & Community Food Pantry",
+    "description": "Provides free daily meals (breakfast, lunch, and dinner on select days) and operates a cooperative food pantry open Monday through Saturday for the greater Willimantic community. No income or residency requirements for meals.",
+    "address": "220 Valley Street, Willimantic, CT 06226",
+    "phone": "860-423-1643",
+    "url": "https://www.covenantsoupkitchen.org/",
+    "categorySlug": "food",
+    "zipCode": "06226"
+  },
+  {
+    "name": "Daily Bread Food Pantry (IHSP)",
+    "description": "Client-choice food pantry operated by Interfaith Human Services of Putnam, where guests select needed items with a volunteer. Open Monday and Friday 12–1:30pm and Wednesday 6–7pm.",
+    "address": "51-53 Grove Street, Putnam, CT 06260",
+    "phone": "860-928-0169",
+    "url": "https://www.ihspputnam.org/ihsp-daily-bread-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "06260"
+  },
+  {
+    "name": "Eastford Food Pantry",
+    "description": "Town food pantry serving residents of Eastford, located at Eastford Baptist Church. Delivery available to homebound residents. Call to sign up for service.",
+    "address": "133 Union Road, Eastford, CT 06242",
+    "phone": "860-933-7685",
+    "url": "https://www.eastfordct.gov/community/page/eastford-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "06242"
+  },
+  {
+    "name": "Friends of Assisi Food Pantry",
+    "description": "Community food pantry serving the greater Killingly area including Ballouville, Brooklyn, Danielson, Dayville, and Rogers. Open Tuesday and Friday 9–11am; requires proof of residency.",
+    "address": "77 Water Street, Killingly, CT 06239",
+    "phone": "860-774-2310",
+    "url": "https://www.foodpantries.org/li/friends_of_assisi_food_pantry_06239",
+    "categorySlug": "food",
+    "zipCode": "06239"
+  },
+  {
+    "name": "H.O.P.E. Food Pantry – Chaplin Congregational Church",
+    "description": "The Helping Other People Eat (H.O.P.E.) pantry at Chaplin Congregational Church partners with CT Foodshare to provide shelf-stable, refrigerated, and frozen foods to Chaplin and surrounding area residents in financial need. Open by appointment.",
+    "address": "43 Chaplin Street, Chaplin, CT 06235",
+    "phone": "860-455-9708",
+    "url": "https://connecticutfoodbanks.org/food-bank/chaplin-congregational-church/",
+    "categorySlug": "food",
+    "zipCode": "06235"
+  },
+  {
+    "name": "Hampton Regional Housing Rehabilitation Program",
+    "description": "Provides financial and technical assistance for residential property rehabilitation to low- and moderate-income homeowners in Hampton, Brooklyn, Chaplin, Eastford, Pomfret, and Scotland. Assistance may cover up to 100% of rehabilitation costs based on income.",
+    "address": "164 Main Street, Hampton, CT 06247",
+    "phone": "860-455-9132",
+    "url": "https://www.hamptonct.org/",
+    "categorySlug": "housing",
+    "zipCode": "06247"
+  },
+  {
+    "name": "Holy Family Home and Shelter",
+    "description": "Nonprofit emergency shelter providing up to 60 days of housing for families, single mothers, and pregnant women, with three meals daily, life skills workshops, housing search assistance, and case management. Accepts referrals through 2-1-1 unified intake.",
+    "address": "88 Jackson Street, Willimantic, CT 06226",
+    "phone": "860-423-7719",
+    "url": "https://hfhscommunity.com/",
+    "categorySlug": "housing",
+    "zipCode": "06226"
+  },
+  {
+    "name": "Interfaith Human Services of Putnam (IHSP) – Housing & Basic Needs",
+    "description": "Nonprofit providing homelessness prevention, rental assistance, and emergency supplies (clothing, food, sleeping bags) to individuals in need in the Putnam area. Also assists with food, fuel, and housing paperwork.",
+    "address": "51-53 Grove Street, Putnam, CT 06260",
+    "phone": "860-928-0169",
+    "url": "https://www.ihspputnam.org/ihsp-homelessness-rental-assistance",
+    "categorySlug": "housing",
+    "zipCode": "06260"
+  },
+  {
+    "name": "Killingly Housing Authority",
+    "description": "Local housing authority providing state-subsidized affordable housing for low-income elderly and disabled residents, as well as Section 8 housing vouchers for eligible Killingly area households.",
+    "address": "41 Birchwood Terrace, Killingly, CT 06239",
+    "phone": "860-774-3905",
+    "url": "https://www.killinglyct.gov/boards_commissions/housing_authority/index.php",
+    "categorySlug": "housing",
+    "zipCode": "06239"
+  },
+  {
+    "name": "Pomfret Food Pantry",
+    "description": "Community food pantry for residents of the town of Pomfret, open Mondays 5:30–6:30pm and Tuesdays 11:30am–12:30pm (except first Tuesday of the month). First-time visitors must provide ID and proof of residence.",
+    "address": "207 Mashamoquet Road (Route 44), Pomfret Center, CT 06259",
+    "phone": "860-928-7459",
+    "url": "https://www.pomfretct.gov/home/pages/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "06259"
+  },
+  {
+    "name": "Project HOPE of Eastern Connecticut",
+    "description": "Formerly the Windham No Freeze Project, this nonprofit shelter provides overnight emergency shelter for homeless adults in the Windham region, operating 365 days a year with a focus on health and stability.",
+    "address": "433 Valley Street, Willimantic, CT 06226",
+    "phone": "860-450-1346",
+    "url": "https://projecthopeect.org/",
+    "categorySlug": "housing",
+    "zipCode": "06226"
+  },
+  {
+    "name": "Project PIN Food Pantry",
+    "description": "A walk-in food pantry providing 5 days of food including perishables to individuals and families in crisis. Open Monday, Wednesday, and Friday with no appointment needed; households eligible once per month.",
+    "address": "23 Village Center Circle, Moosup, CT 06354",
+    "phone": "860-564-5591",
+    "url": "https://www.projectpinfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "06354"
+  },
+  {
+    "name": "Putnam Housing Authority",
+    "description": "Local housing authority providing low-income public housing, Section 8 Housing Choice Vouchers, and emergency rental assistance to eligible low-income residents of Putnam.",
+    "address": "123 Laconia Avenue, Putnam, CT 06260",
+    "phone": "860-963-6829",
+    "url": "https://hudhousingnetwork.com/housing-authorities/ct/windham/348/putnam-housing-authority",
+    "categorySlug": "housing",
+    "zipCode": "06260"
+  },
+  {
+    "name": "TEEG Community Market (Thompson Ecumenical Empowerment Group)",
+    "description": "Client-choice community food pantry operated by TEEG, providing frozen meats, fresh produce, canned goods, toiletries, eggs, rice, and pasta to residents of Thompson and surrounding Quiet Corner communities. Open Monday, Wednesday, and Friday with varying hours; appointments recommended.",
+    "address": "15 Thatcher Road, North Grosvenordale, CT 06255",
+    "phone": "860-923-3458",
+    "url": "https://www.teegonline.org/communitymarket",
+    "categorySlug": "food",
+    "zipCode": "06255"
+  },
+  {
+    "name": "Thompson Ecumenical Empowerment Group (TEEG) Community Market",
+    "description": "A nonprofit social services agency providing Community Markets (food pantry) with fresh produce, protein, dairy, and specialty dietary options. Also offers heating assistance, SNAP enrollment, and homelessness support.",
+    "address": "15 Thatcher Road, North Grosvenordale, CT 06255",
+    "phone": "860-923-3458",
+    "url": "https://teegonline.org/case-management-services/food-programs/",
+    "categorySlug": "food",
+    "zipCode": "06255"
+  },
+  {
+    "name": "Windham Area Interfaith Ministry (WAIM)",
+    "description": "Regional interfaith nonprofit serving Coventry, Mansfield, Hebron, Columbia, Andover, Bolton, and surrounding towns with emergency financial assistance for rent, utilities, and basic needs, plus furniture and household goods distribution.",
+    "address": "866 Main Street, Willimantic, CT 06226",
+    "phone": "(860) 456-7270",
+    "url": "https://waimct.org/",
+    "categorySlug": "housing",
+    "zipCode": "06226"
+  },
+  {
+    "name": "Windham Regional Community Council (WRCC)",
+    "description": "A nonprofit providing comprehensive housing services including rapid rehousing, eviction/foreclosure prevention, permanent supportive housing, and guaranteed security deposit programs to residents of Windham and Tolland Counties.",
+    "address": "872 Main Street, Willimantic, CT 06226",
+    "phone": "860-423-4534",
+    "url": "https://wrcc.online/",
+    "categorySlug": "housing",
+    "zipCode": "06226"
+  }
+]

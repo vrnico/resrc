@@ -1,0 +1,2318 @@
+[
+  {
+    "name": "Addison Community Action (CVOEO) - Food Hub",
+    "description": "The Addison Food Hub, operated by Feeding Champlain Valley and CVOEO, provides fresh produce, shelf-stable items, and culturally relevant foods to Addison County residents Monday through Friday.",
+    "address": "616 Exchange St, Middlebury, VT 05753",
+    "phone": "(802) 377-3741",
+    "url": "https://www.cvoeo.org/get-help/addison-food-hub",
+    "categorySlug": "food",
+    "zipCode": "05753"
+  },
+  {
+    "name": "Addison Community Action (CVOEO) - Housing & Energy Assistance",
+    "description": "Provides housing advocacy, rental stabilization assistance, seasonal and crisis fuel programs, utility bill assistance, and 3SquaresVT enrollment support for Addison County residents.",
+    "address": "50 Industrial Ave, Middlebury, VT 05753",
+    "phone": "(802) 388-2285",
+    "url": "https://www.cvoeo.org/addison-community-action",
+    "categorySlug": "utilities",
+    "zipCode": "05753"
+  },
+  {
+    "name": "Addison Housing Works",
+    "description": "Nonprofit affordable housing organization developing, owning, and managing affordable rental apartments, mobile home parks, single-family homes, and senior housing throughout Addison County.",
+    "address": "272 Main St, Vergennes, VT 05491",
+    "phone": "(802) 877-2626",
+    "url": "https://www.addisonhousingworks.org",
+    "categorySlug": "housing",
+    "zipCode": "05491"
+  },
+  {
+    "name": "Charter House Coalition Emergency Shelter",
+    "description": "Emergency shelter for adult men and women who have no other safe place to sleep, available 24/7 year-round with capacity for up to 24 guests. Also operates a community meals program.",
+    "address": "27 North Pleasant St, Middlebury, VT 05753",
+    "phone": "(802) 989-8621",
+    "url": "https://chcvt.org",
+    "categorySlug": "housing",
+    "zipCode": "05753"
+  },
+  {
+    "name": "Congregational Church of Middlebury - Friday Night Community Supper",
+    "description": "Free hot community supper served every Friday evening from 5:00–6:00 PM in Fellowship Hall, serving over 400 meals to local families and community members each week.",
+    "address": "2 Main St, Middlebury, VT 05753",
+    "phone": "(802) 388-7634",
+    "url": "https://www.midducc.org/outreach",
+    "categorySlug": "food",
+    "zipCode": "05753"
+  },
+  {
+    "name": "Counseling Service of Addison County (CSAC)",
+    "description": "Community mental health center providing mental health counseling, substance use treatment, psychiatric services, residential supports, and 24/7 crisis response to Addison County residents.",
+    "address": "89 Main St, Middlebury, VT 05753",
+    "phone": "(802) 388-6751",
+    "url": "https://www.csac-vt.org",
+    "categorySlug": "healthcare",
+    "zipCode": "05753"
+  },
+  {
+    "name": "Have-A-Heart Community Food Shelf",
+    "description": "Monthly food distribution serving Bristol, Lincoln, Monkton, New Haven, and Starksboro residents. Provides packed bags of groceries on the third or fourth Friday of each month.",
+    "address": "11 School St, Bristol, VT 05443",
+    "phone": "(802) 453-2453",
+    "url": "https://sites.google.com/bristolfederated.com/5-town-partnership/resources",
+    "categorySlug": "food",
+    "zipCode": "05443"
+  },
+  {
+    "name": "HOPE - Helping Overcome Poverty's Effects (Food Shelf)",
+    "description": "Food shelf serving Addison County residents with non-perishable foods, dairy, produce, baked goods, and fresh items. Home delivery available for those unable to visit in person.",
+    "address": "282 Boardman St, Middlebury, VT 05753",
+    "phone": "(802) 388-3608",
+    "url": "https://www.hope-vt.org/food-shelf/",
+    "categorySlug": "food",
+    "zipCode": "05753"
+  },
+  {
+    "name": "HOPE - Helping Overcome Poverty's Effects (Housing & Utilities)",
+    "description": "Provides emergency rent and fuel assistance, budget counseling, help finding healthcare, and job-related assistance to low-income Addison County residents. Also offers low-cost or free household items and clothing.",
+    "address": "282 Boardman St, Middlebury, VT 05753",
+    "phone": "(802) 388-3608",
+    "url": "https://www.hope-vt.org",
+    "categorySlug": "housing",
+    "zipCode": "05753"
+  },
+  {
+    "name": "John Graham Housing & Services - Emergency Shelter",
+    "description": "The only emergency shelter for homeless families with children in Addison County, providing 24/7 shelter, food, housing placement, gas vouchers, transportation assistance, and comprehensive service coordination.",
+    "address": "69 Main St, Vergennes, VT 05491",
+    "phone": "(802) 877-2677",
+    "url": "https://www.johngrahamshelter.org",
+    "categorySlug": "housing",
+    "zipCode": "05491"
+  },
+  {
+    "name": "Mountain Community Health",
+    "description": "Federally Qualified Health Center (FQHC) serving the Five-Town area including Bristol, Lincoln, Monkton, New Haven, and Starksboro. Provides primary care, dental, mental health, and preventative health services.",
+    "address": "61 Pine St, Bristol, VT 05443",
+    "phone": "(802) 453-3911",
+    "url": "https://www.mchvt.org",
+    "categorySlug": "healthcare",
+    "zipCode": "05443"
+  },
+  {
+    "name": "New Community Project Food Share Program",
+    "description": "Weekly food distribution every Sunday at First Baptist Church, combining grocery store donations with garden produce. Also maintains two Little Free Pantries for 24/7 emergency access.",
+    "address": "First Baptist Church, Route 116, Starksboro, VT 05487",
+    "phone": "(802) 453-2639",
+    "url": "https://www.newcommunityproject.info/starksboro",
+    "categorySlug": "food",
+    "zipCode": "05487"
+  },
+  {
+    "name": "Tri-Valley Transit (ACTR) - Addison County",
+    "description": "Public transportation provider offering fixed-route bus service and Dial-a-Ride for elders (60+), persons with disabilities, and Medicaid recipients for medical appointments, grocery shopping, and essential trips. Free for qualifying seniors and disabled residents.",
+    "address": "297 Creek Rd, Middlebury, VT 05753",
+    "phone": "(802) 388-2287",
+    "url": "https://www.trivalleytransit.org",
+    "categorySlug": "transportation",
+    "zipCode": "05753"
+  },
+  {
+    "name": "Vergennes Community Food Shelf (Congregational Church)",
+    "description": "Food shelf serving Vergennes, Panton, Ferrisburg, New Haven, Waltham, Addison, and North Ferrisburg residents. Open Tuesday, Thursday, and Saturday with no income requirement stated.",
+    "address": "30 South Water St, Vergennes, VT 05491",
+    "phone": "(802) 877-2435",
+    "url": "https://www.foodpantries.org/ci/vt-vergennes",
+    "categorySlug": "food",
+    "zipCode": "05491"
+  },
+  {
+    "name": "Vermont Department of Labor - Middlebury Job Center",
+    "description": "State workforce development center offering job search assistance, unemployment services, resume help, and employment training for Addison County job seekers.",
+    "address": "156 South Village Green, Middlebury, VT 05753",
+    "phone": "(802) 388-4921",
+    "url": "https://labor.vermont.gov/workforce-development/job-centers",
+    "categorySlug": "employment",
+    "zipCode": "05753"
+  },
+  {
+    "name": "Vermont Legal Aid - Middlebury Office",
+    "description": "Free civil legal aid for low-income Vermonters covering eviction, foreclosure, disability services, public benefits, discrimination, and landlord-tenant issues in Addison County.",
+    "address": "7 Mahady Court, Middlebury, VT 05753",
+    "phone": "(802) 388-4237",
+    "url": "https://www.vtlegalaid.org",
+    "categorySlug": "legal",
+    "zipCode": "05753"
+  },
+  {
+    "name": "Victory Baptist Church Food Pantry",
+    "description": "Food pantry serving Vergennes and surrounding towns of Panton, Ferrisburg, New Haven, Waltham, Addison, and North Ferrisburg. Operates daily during business hours.",
+    "address": "862 US Route 7, Vergennes, VT 05491",
+    "phone": "(802) 877-3393",
+    "url": "https://www.foodpantries.org/li/victory_baptist_church_05491",
+    "categorySlug": "food",
+    "zipCode": "05491"
+  },
+  {
+    "name": "Whiting Community Church Food Pantry",
+    "description": "Food pantry open Mondays serving Whiting and surrounding towns including Orwell, Shoreham, Brandon, Cornwall, Leicester, Middlebury, and Sudbury. No income restrictions listed.",
+    "address": "7 North Main St, Whiting, VT 05778",
+    "phone": "(802) 623-8171",
+    "url": "https://www.foodpantries.org/li/whiting_community_church_05778",
+    "categorySlug": "food",
+    "zipCode": "05778"
+  },
+  {
+    "name": "WomenSafe",
+    "description": "Provides emergency shelter, crisis counseling, legal advocacy, and support services for survivors of domestic violence, sexual violence, dating violence, and stalking across Addison County. 24-hour hotline available.",
+    "address": "7 Mahady Court, Middlebury, VT 05753",
+    "phone": "(800) 388-4205",
+    "url": "https://www.womensafe.net",
+    "categorySlug": "crisis",
+    "zipCode": "05753"
+  },
+  {
+    "name": "966 Main Street Shelter – Bennington County Coalition for the Homeless",
+    "description": "16-bed coed emergency shelter for adults 18 and older operating on a first-come, first-serve rolling admissions basis. Functions as a drop-in center offering case management, clothing, food, bedding, hygiene items, and shower access.",
+    "address": "966 Main Street, Bennington, VT 05201",
+    "phone": "(802) 442-2424",
+    "url": "https://www.bcchvt.org/programs",
+    "categorySlug": "housing",
+    "zipCode": "05201"
+  },
+  {
+    "name": "Arlington Area Food Shelf",
+    "description": "Community food shelf providing free groceries to residents of Arlington, East Arlington, Sandgate, and Sunderland. Open the first and third Tuesdays of each month; proof of local residency required.",
+    "address": "165 Old Mill Road, Arlington, VT 05250",
+    "phone": "(802) 375-6328",
+    "url": "https://arlingtonfoodshelf.com/",
+    "categorySlug": "food",
+    "zipCode": "05250"
+  },
+  {
+    "name": "Bennington County Coalition for the Homeless – 966 Main Shelter",
+    "description": "A 16-bed coed emergency shelter for homeless adults 18 and older in Bennington County. Also functions as a drop-in center offering case management, clothing, food, bedding, hygiene items, and shower access.",
+    "address": "966 Main Street, Bennington, VT 05201",
+    "phone": "(802) 442-2424",
+    "url": "https://www.bcchvt.org/",
+    "categorySlug": "crisis",
+    "zipCode": "05201"
+  },
+  {
+    "name": "Bennington Housing Authority",
+    "description": "Public housing authority administering 260 Section 8 Housing Choice Vouchers and managing 195 affordable apartments across Bennington. Assists low-income households in affording safe housing by subsidizing rent to approximately 30% of income.",
+    "address": "10 Willow Road, Bennington, VT 05201",
+    "phone": "(802) 442-8000",
+    "url": "https://benningtonhousingauthority.com/",
+    "categorySlug": "housing",
+    "zipCode": "05201"
+  },
+  {
+    "name": "BROC Community Action – Bennington",
+    "description": "Community action agency providing a food shelf, housing counseling, homelessness prevention, and financial assistance to residents of Bennington and Rutland Counties. Offers tenant education, eviction intervention, and housing navigation services.",
+    "address": "332 Orchard Road, Bennington, VT 05201",
+    "phone": "(802) 447-7515",
+    "url": "https://www.broc.org/",
+    "categorySlug": "food",
+    "zipCode": "05201"
+  },
+  {
+    "name": "BROC Community Action – Housing and Homelessness Prevention",
+    "description": "Provides budget counseling, tenant education, landlord advocacy, eviction prevention, and permanent housing referrals for residents of Bennington and Rutland counties. Also serves as a Coordinated Entry access point for housing navigation.",
+    "address": "332 Orchard Road, Bennington, VT 05201",
+    "phone": "(802) 447-7515",
+    "url": "https://www.broc.org/housing-homelessness/",
+    "categorySlug": "housing",
+    "zipCode": "05201"
+  },
+  {
+    "name": "BROC Community Food Shelf – Bennington",
+    "description": "Food shelf operated by BROC Community Action serving residents of Bennington County experiencing food insecurity. Distributes necessary staples to keep families fed; visitors must sign up in advance.",
+    "address": "332 Orchard Road, Bennington, VT 05201",
+    "phone": "(802) 447-7515",
+    "url": "https://www.broc.org/food-shelf-bennington-county/",
+    "categorySlug": "food",
+    "zipCode": "05201"
+  },
+  {
+    "name": "Carpenter's Shop Food Shelf – Shaftsbury United Methodist Church",
+    "description": "Faith-based food shelf located in the green building directly behind Shaftsbury United Methodist Church, open the second and fourth Fridays of each month. Provides free groceries to individuals and families experiencing food insecurity.",
+    "address": "127 Church Street, Shaftsbury, VT 05262",
+    "phone": "(802) 442-4599",
+    "url": "https://www.homelessshelterdirectory.org/foodbanks/city/vt-shaftsbury.html",
+    "categorySlug": "food",
+    "zipCode": "05262"
+  },
+  {
+    "name": "Community Food Cupboard – Manchester Center",
+    "description": "Volunteer-run food pantry distributing approximately 40,000 pounds of food monthly to families in need across the Manchester and surrounding mountain communities. Accepts clients without government funding requirements.",
+    "address": "40 Jeff Williams Way, Manchester Center, VT 05255",
+    "phone": "(802) 362-0057",
+    "url": "https://www.communityfoodcupboard.org/",
+    "categorySlug": "food",
+    "zipCode": "05255"
+  },
+  {
+    "name": "Dr. G. Richard Dundas Free Clinic – GBCS",
+    "description": "Free primary medical care clinic for uninsured adults ages 18–64, offering acute and chronic disease management, physicals, women's clinics, and pharmaceutical assistance. Appointment-only; operated Thursday evenings.",
+    "address": "121 Depot Street, Bennington, VT 05201",
+    "phone": "(802) 447-3700",
+    "url": "https://gbicsbennington.org/programs/free-clinic/",
+    "categorySlug": "healthcare",
+    "zipCode": "05201"
+  },
+  {
+    "name": "GBCS Emergency Needs Fund",
+    "description": "Financial assistance program helping low-income families in a crisis pay for rent, mortgage, utilities, and other household necessities. Serves residents of Bennington, North Bennington, Glastenbury, Pownal, Readsboro, Searsburg, Shaftsbury, Stamford, and Woodford.",
+    "address": "121 Depot Street, Bennington, VT 05201",
+    "phone": "(802) 379-6001",
+    "url": "https://gbicsbennington.org/programs/food-and-fuel-fund/",
+    "categorySlug": "utilities",
+    "zipCode": "05201"
+  },
+  {
+    "name": "GBCS Kitchen Cupboard",
+    "description": "Free food pantry operated by Greater Bennington Community Services providing groceries and household staples to individuals and families in need. No proof of income required; also coordinates access to 3SquaresVT and Vermont Foodbank programs.",
+    "address": "121 Depot Street, Bennington, VT 05201",
+    "phone": "(802) 447-3700",
+    "url": "https://gbicsbennington.org/programs/kitchen-cupboard/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "05201"
+  },
+  {
+    "name": "GBICS – Greater Bennington Interfaith Community Services",
+    "description": "Nonprofit serving Bennington County with a food pantry (Kitchen Cupboard), a free medical clinic, emergency financial assistance, and connections to community resources including 3SquaresVT and Veggie VanGo produce.",
+    "address": "121 Depot Street, Bennington, VT 05201",
+    "phone": "(802) 447-3700",
+    "url": "https://gbicsbennington.org/",
+    "categorySlug": "food",
+    "zipCode": "05201"
+  },
+  {
+    "name": "HIS Pantry – Sacred Heart-St. Francis de Sales Parish",
+    "description": "Supplemental food pantry operated by Sacred Heart-St. Francis de Sales Parish providing free groceries to those in need in the Bennington area. Open twice weekly with no income verification required.",
+    "address": "238 Main Street, Bennington, VT 05201",
+    "phone": "(802) 442-1720",
+    "url": "https://sacredheartsaintfrancis.org/his-pantry",
+    "categorySlug": "food",
+    "zipCode": "05201"
+  },
+  {
+    "name": "Meals on Wheels of Bennington County",
+    "description": "Delivers hot, nutritious meals to homebound seniors and adults with disabilities throughout Bennington County. Also operates congregate dining sites where eligible participants can share meals in a social setting.",
+    "address": "124 Pleasant Street, Bennington, VT 05201",
+    "phone": "(802) 442-8012",
+    "url": "https://www.mowbennington.org/",
+    "categorySlug": "food",
+    "zipCode": "05201"
+  },
+  {
+    "name": "North Bennington Baptist Church Food Pantry",
+    "description": "Church-operated food pantry providing free meals and groceries to those in need in the North Bennington area, open Thursdays from 1–2 p.m.",
+    "address": "15 Church Street, North Bennington, VT 05257",
+    "phone": "(802) 442-2711",
+    "url": "https://www.foodpantries.org/li/north_bennington_baptist_church_05257",
+    "categorySlug": "food",
+    "zipCode": "05257"
+  },
+  {
+    "name": "PAVE – Project Against Violent Encounters",
+    "description": "Provides emergency shelter, transitional housing, legal advocacy, and support services for survivors of domestic violence and their children in Bennington County. Operates a 24-hour crisis hotline and serves all genders.",
+    "address": "160 Benmont Ave, Suite 22, Bennington, VT 05201",
+    "phone": "(802) 442-2370",
+    "url": "https://pavebennington.org/",
+    "categorySlug": "crisis",
+    "zipCode": "05201"
+  },
+  {
+    "name": "Saint John the Baptist Catholic Church Food Shelf",
+    "description": "Parish-run food shelf distributing groceries to community members in need on the second Friday and third Tuesday of each month. Serves North Bennington and surrounding towns.",
+    "address": "3 Houghton Street, North Bennington, VT 05257",
+    "phone": "(802) 447-7504",
+    "url": "https://stjohnnb.com/community-outreach/food-shelf/",
+    "categorySlug": "food",
+    "zipCode": "05257"
+  },
+  {
+    "name": "United Counseling Service of Bennington County",
+    "description": "Nonprofit community mental health center providing 24/7 emergency psychiatric crisis services, outpatient counseling, and substance use treatment for Bennington County residents. Crisis clinicians arrange intensive care including hospital placement when needed.",
+    "address": "100 Ledge Hill Drive, Bennington, VT 05201",
+    "phone": "(802) 442-5491",
+    "url": "https://www.ucsvt.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "05201"
+  },
+  {
+    "name": "Winhall Stratton Community Food Shelf",
+    "description": "Community food shelf serving Bondville, Winhall, Stratton, and surrounding mountain towns with free groceries. Distribution takes place at the Winhall Town Office shed and a secondary location at Stratton Mountain Resort.",
+    "address": "115 VT Route 30, Bondville, VT 05340",
+    "phone": "(802) 688-3895",
+    "url": "https://www.facebook.com/winhallstrattoncommunityfoodshelf/",
+    "categorySlug": "food",
+    "zipCode": "05340"
+  },
+  {
+    "name": "Danville Ecumenical Community Center Food Pantry",
+    "description": "Also known as The Open Door, this ecumenical nonprofit food pantry serves residents of Danville, West Danville, Barnet, Peacham, and Cabot with food staples and used clothing.",
+    "address": "29 Hill Street, Danville, VT 05828",
+    "phone": "(802) 684-2515",
+    "url": "https://vermontfoodbanks.org/food-bank/danville-ecumenical-community-center-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "05828"
+  },
+  {
+    "name": "East Corinth-Topsham Food Pantry",
+    "description": "Community food pantry open to everyone, with grab-and-go items available at a ramp on the side of the building. Serves East Corinth, Topsham, and surrounding areas.",
+    "address": "1476 Scott Highway, Groton, VT 05046",
+    "phone": "(802) 584-3276",
+    "url": "https://www.littlerivers.org/east-corinth-topsham-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "05046"
+  },
+  {
+    "name": "Groton Emergency Food Shelf",
+    "description": "Municipal food pantry operated at the Groton Town Office, providing grocery assistance to residents of Groton and Ryegate on a walk-in basis.",
+    "address": "1476 Scott Highway, Groton, VT 05046",
+    "phone": "(802) 584-3276",
+    "url": "https://www.homelessshelterdirectory.org/foodbank/vt_groton-emergency-food-shelf-groton-town-office",
+    "categorySlug": "food",
+    "zipCode": "05046"
+  },
+  {
+    "name": "H.O.P.E. – Helping Other People Every Day",
+    "description": "Local nonprofit providing food pantry services, emergency food bags, a homeless crisis program, household startup packages, and support services to residents across the Kingdom East School District towns including Lyndonville, Burke, Sheffield, Sutton, and Wheelock.",
+    "address": "136 Church Street, Lyndonville, VT 05851",
+    "phone": "(802) 626-3228",
+    "url": "https://www.hopevermont.com/",
+    "categorySlug": "food",
+    "zipCode": "05851"
+  },
+  {
+    "name": "Hardwick Area Food Pantry",
+    "description": "Independent nonprofit food pantry serving over 600 people monthly in Hardwick, Craftsbury, Albany, Greensboro, Wolcott, and surrounding towns. Prioritizes local produce and offers three distribution sites.",
+    "address": "39 West Church Street, Hardwick, VT 05843",
+    "phone": "(802) 472-5940",
+    "url": "https://www.nourishhardwick.org/",
+    "categorySlug": "food",
+    "zipCode": "05843"
+  },
+  {
+    "name": "Kingdom Community Services Food Shelf",
+    "description": "An interfaith nonprofit operating a free food shelf and community meal sites in Saint Johnsbury. The food shelf distributes nutritious food and household items; community dine-in and take-out meals are offered at local churches throughout the week.",
+    "address": "36 Steeple Place, Saint Johnsbury, VT 05819",
+    "phone": "(802) 751-8581",
+    "url": "https://kingdomcommunityservices-stj.org/",
+    "categorySlug": "food",
+    "zipCode": "05819"
+  },
+  {
+    "name": "Lyndon Area Food Shelf (Saint Peter's Mission)",
+    "description": "Community food shelf serving Lyndonville, Burke, East Burke, West Burke, Newark, Sheffield, and Kirby with groceries and essential food items for individuals and families experiencing food insecurity.",
+    "address": "51 Elm Street, Lyndonville, VT 05851",
+    "phone": "(802) 626-5705",
+    "url": "https://lyndonfoodshelf.com/",
+    "categorySlug": "food",
+    "zipCode": "05851"
+  },
+  {
+    "name": "Neighbors in Action – Food Share (Lyndonville)",
+    "description": "Nonprofit providing biweekly supplemental food distribution and community meals to residents of Caledonia, Essex, and Washington counties. The Lyndonville site offers drive-up and walk-up food share on alternating weeks.",
+    "address": "101 Main Street, Lyndonville, VT 05851",
+    "phone": "(802) 626-1212",
+    "url": "https://www.neighborsinactionvt.org/food-share",
+    "categorySlug": "food",
+    "zipCode": "05851"
+  },
+  {
+    "name": "NEKCA – Housing & Emergency Services",
+    "description": "NEKCA provides housing counseling, financial assistance, transitional housing navigation, and emergency shelter referrals for households experiencing homelessness or housing instability in Caledonia, Essex, and Orleans counties.",
+    "address": "1197 Main Street, Saint Johnsbury, VT 05819",
+    "phone": "(855) 663-5224",
+    "url": "https://nekcavt.org/msm_mega_menu/temporary-emergency-housing/",
+    "categorySlug": "housing",
+    "zipCode": "05819"
+  },
+  {
+    "name": "NEKCA – St. Johnsbury Food Pantry & Marketplace",
+    "description": "Northeast Kingdom Community Action's food access site providing healthy food, fresh produce, hygiene products, diapers, and other essentials to all community members at no cost. Part of NEKCA's countywide anti-poverty services.",
+    "address": "1197 Main Street, Saint Johnsbury, VT 05819",
+    "phone": "(802) 748-6040",
+    "url": "https://nekcavt.org/msm_mega_menu/food-access/",
+    "categorySlug": "food",
+    "zipCode": "05819"
+  },
+  {
+    "name": "Northeast Kingdom Community Action (NEKCA) – Housing & Outreach",
+    "description": "Regional community action agency providing housing navigation, counseling, financial assistance, temporary shelter coordination, food access, fuel assistance, and connections to community resources across Caledonia, Essex, and Orleans counties.",
+    "address": "1197 Main Street, Saint Johnsbury, VT 05819",
+    "phone": "(802) 748-6040",
+    "url": "https://nekcavt.org/",
+    "categorySlug": "housing",
+    "zipCode": "05819"
+  },
+  {
+    "name": "RuralEdge – Affordable Housing & Homeownership Programs",
+    "description": "The Northeast Kingdom's largest nonprofit housing organization, managing nearly 1,000 affordable rental units and offering homeownership assistance, shared equity programs, and the Vermont Housing Improvement Program for Caledonia, Essex, and Orleans counties.",
+    "address": "1222 Main Street, Saint Johnsbury, VT 05819",
+    "phone": "(802) 535-3555",
+    "url": "https://ruraledge.org/",
+    "categorySlug": "housing",
+    "zipCode": "05819"
+  },
+  {
+    "name": "Sheffield Food Pantry",
+    "description": "Community food pantry serving income-qualified residents of Sheffield, Wheelock, Sutton, Burke, Glover, Greensboro, Barton, Newark, Westmore, and surrounding towns within a 20-mile radius.",
+    "address": "Route 122, Sheffield, VT 05866",
+    "phone": "(802) 397-4929",
+    "url": "https://www.sheffieldvt.org/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "05866"
+  },
+  {
+    "name": "The Shelter at Moose River (NEKCA)",
+    "description": "A low-barrier, 20-bed, 24-hour emergency shelter for adults 18+ experiencing homelessness in the Northeast Kingdom. Guests receive case management and housing stability plans while working toward permanent housing.",
+    "address": "72 Moose River Drive, Saint Johnsbury, VT 05819",
+    "phone": "(802) 624-0949",
+    "url": "https://nekcavt.org/the-shelter-at-moose-river/",
+    "categorySlug": "crisis",
+    "zipCode": "05819"
+  },
+  {
+    "name": "Aunt Dot's Place",
+    "description": "Community food shelf providing free food, personal care items, and household supplies to individuals and families from Essex, Essex Junction, Jericho, Underhill, and Westford by appointment.",
+    "address": "51 Center Rd, Essex, VT 05452",
+    "phone": "(802) 878-6982",
+    "url": "https://www.auntdotsplace.com/",
+    "categorySlug": "food",
+    "zipCode": "05452"
+  },
+  {
+    "name": "Burlington Housing Authority",
+    "description": "Public housing authority administering affordable and subsidized housing programs for low-income households in Burlington and the surrounding Chittenden County region.",
+    "address": "65 Main St, Burlington, VT 05401",
+    "phone": "(802) 864-0538",
+    "url": "https://burlingtonhousing.org/",
+    "categorySlug": "housing",
+    "zipCode": "05401"
+  },
+  {
+    "name": "Champlain Housing Trust",
+    "description": "Community land trust providing permanently affordable homeownership, rental housing, financial counseling, foreclosure prevention, and housing advocacy across northwest Vermont.",
+    "address": "88 King St, Burlington, VT 05401",
+    "phone": "(802) 862-6244",
+    "url": "https://www.getahome.org/",
+    "categorySlug": "housing",
+    "zipCode": "05401"
+  },
+  {
+    "name": "Charlotte Food Shelf",
+    "description": "Nonprofit food shelf serving Charlotte and North Ferrisburgh, providing nutritious food to qualifying residents on designated distribution days.",
+    "address": "421 Church Hill Rd, Charlotte, VT 05445",
+    "phone": "(802) 425-3252",
+    "url": "https://www.charlottevtfoodshelf.org/",
+    "categorySlug": "food",
+    "zipCode": "05445"
+  },
+  {
+    "name": "Colchester Community Food Shelf",
+    "description": "Free food pantry for Colchester residents offering fresh produce, bread, protein, and non-perishables. Open Wednesdays noon–6 PM and the first Saturday of the month.",
+    "address": "245 Main St, Colchester, VT 05446",
+    "phone": "(802) 879-2444",
+    "url": "https://colchesterfoodshelf.org/",
+    "categorySlug": "food",
+    "zipCode": "05446"
+  },
+  {
+    "name": "Committee on Temporary Shelter (COTS)",
+    "description": "Provides emergency overnight shelter (Waystation), daytime drop-in center, family shelter, and transitional and permanent affordable housing for people experiencing homelessness in Chittenden County.",
+    "address": "95 North Ave, Burlington, VT 05401",
+    "phone": "(802) 864-7402",
+    "url": "https://cotsonline.org/",
+    "categorySlug": "housing",
+    "zipCode": "05401"
+  },
+  {
+    "name": "Community Health Centers of Burlington",
+    "description": "Federally qualified health center providing primary care, dental, behavioral health, and preventive services for all ages on a sliding-fee scale regardless of insurance or income.",
+    "address": "617 Riverside Ave, Burlington, VT 05401",
+    "phone": "(802) 864-6309",
+    "url": "https://www.chcb.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "05401"
+  },
+  {
+    "name": "CVOEO – Champlain Valley Office of Economic Opportunity",
+    "description": "Community action agency offering home heating and utility assistance, housing case management, food programs, and financial counseling for households across the Champlain Valley.",
+    "address": "255 South Champlain St, Burlington, VT 05401",
+    "phone": "(802) 862-2771",
+    "url": "https://www.cvoeo.org/",
+    "categorySlug": "utilities",
+    "zipCode": "05401"
+  },
+  {
+    "name": "EJU Ecumenical Food Shelf (Essex-Jericho-Underhill)",
+    "description": "Ecumenical food shelf serving Essex, Jericho, and Underhill with monthly distribution of shelf-stable items, dairy, fresh produce, meat, bread, and personal care items.",
+    "address": "273 VT Route 15, Jericho, VT 05465",
+    "phone": "(802) 899-3932",
+    "url": "https://www.ejufoodshelf.com/",
+    "categorySlug": "food",
+    "zipCode": "05465"
+  },
+  {
+    "name": "Essex CHIPS Youth Food Shelf",
+    "description": "Food shelf available by appointment to all youth in the Essex Westford School District and their families, also offering clothing, toiletries, and school supplies.",
+    "address": "2 Lincoln St, Essex Junction, VT 05452",
+    "phone": "(802) 878-6982",
+    "url": "https://www.essexchips.org/food-shelf",
+    "categorySlug": "food",
+    "zipCode": "05452"
+  },
+  {
+    "name": "Feeding Chittenden (Burlington Food Shelf)",
+    "description": "The largest food shelf in Burlington, providing free groceries to residents experiencing food insecurity. Open Monday through Friday with no appointment needed.",
+    "address": "228 N Winooski Ave, Burlington, VT 05401",
+    "phone": "(802) 658-7939",
+    "url": "https://www.feedingchamplainvalley.org/",
+    "categorySlug": "food",
+    "zipCode": "05401"
+  },
+  {
+    "name": "Georgia Food Shelf",
+    "description": "Volunteer-run food shelf located behind the Georgia Public Library, providing food assistance to residents of Georgia and neighboring communities. Open Mondays with donation drop-off available on Saturdays.",
+    "address": "1697 Ethan Allen Highway, Georgia, VT 05468",
+    "phone": "(802) 524-1799",
+    "url": "https://vermontfoodbanks.org/food-bank/georgia-food-shelf/",
+    "categorySlug": "food",
+    "zipCode": "05468"
+  },
+  {
+    "name": "Heavenly Food Pantry – First Congregational Church of Essex Junction",
+    "description": "Monthly food pantry serving residents of Essex Junction, Essex Town, and Westford, open twice per month with no income verification required.",
+    "address": "1 Church St, Essex Junction, VT 05452",
+    "phone": "(802) 878-5745",
+    "url": "https://www.fccej.org/v5/serving-others/heavenly-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "05452"
+  },
+  {
+    "name": "Hinesburg Community Resource Center",
+    "description": "Multi-service community organization operating the Hinesburg Food Shelf, an emergency assistance fund, volunteer transportation program, and medical equipment lending.",
+    "address": "51 Ballards Corner Rd, Hinesburg, VT 05461",
+    "phone": "(802) 482-4946",
+    "url": "https://www.hinesburgresource.org/",
+    "categorySlug": "community",
+    "zipCode": "05461"
+  },
+  {
+    "name": "HomeShare Vermont",
+    "description": "Matches homeseekers with homeowners for shared housing arrangements, providing background checks and ongoing support. A housing option for older adults and those on limited incomes.",
+    "address": "412 Farrell St, Suite 300, South Burlington, VT 05403",
+    "phone": "(802) 863-5625",
+    "url": "https://www.homesharevermont.org/",
+    "categorySlug": "housing",
+    "zipCode": "05403"
+  },
+  {
+    "name": "Howard Center Mental Health Urgent Care",
+    "description": "Walk-in mental health urgent care providing a therapeutic alternative to the emergency room for adults experiencing a self-defined mental health crisis.",
+    "address": "1 South Prospect St, Arnold 4, Burlington, VT 05401",
+    "phone": "(802) 488-6482",
+    "url": "https://howardcenter.org/mhuc/",
+    "categorySlug": "crisis",
+    "zipCode": "05401"
+  },
+  {
+    "name": "Legal Services Vermont – Burlington Office",
+    "description": "Nonprofit legal aid organization providing free civil legal help to qualifying low-income residents, with a focus on housing, family, and benefits issues.",
+    "address": "274 N Winooski Ave, Burlington, VT 05401",
+    "phone": "(802) 863-7153",
+    "url": "https://www.legalservicesvt.org/",
+    "categorySlug": "legal",
+    "zipCode": "05401"
+  },
+  {
+    "name": "Milton Community Food Pantry",
+    "description": "Community-run food pantry established in 2014, serving approximately 85 families each week with food assistance for adults and children in the Milton area.",
+    "address": "41 Main Street, Milton, VT 05468",
+    "phone": "(802) 893-2487",
+    "url": "https://www.miltonpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "05468"
+  },
+  {
+    "name": "Milton Family Community Center – Community Food Shelf",
+    "description": "Community food access hub providing free groceries, hygiene products, and pet food to Milton-area families, with appointment-based and walk-in hours throughout the week.",
+    "address": "23 Villemaire Ln, Milton, VT 05468",
+    "phone": "(802) 893-1457",
+    "url": "https://miltonfamilycenter.org/food-access/food-shelf/",
+    "categorySlug": "food",
+    "zipCode": "05468"
+  },
+  {
+    "name": "North End Food Pantry",
+    "description": "Free food pantry providing healthy groceries, clothing, and diapers to Burlington's north end neighbors. No forms or qualifications required — open to all.",
+    "address": "1416 North Ave, Burlington, VT 05408",
+    "phone": "(802) 862-6342",
+    "url": "https://www.northendfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "05401"
+  },
+  {
+    "name": "Pathways Vermont",
+    "description": "Works to end homelessness by offering Housing First support, transitional housing, peer support, and innovative mental health alternatives for individuals across Vermont.",
+    "address": "50 Main St, Unit 127, Winooski, VT 05404",
+    "phone": "(888) 492-8218",
+    "url": "https://www.pathwaysvermont.org/",
+    "categorySlug": "housing",
+    "zipCode": "05404"
+  },
+  {
+    "name": "Richmond Food Shelf & Thrift Store",
+    "description": "Food pantry and thrift store serving Richmond, Bolton, Huntington, and Jonesville residents. No income verification or membership fee required; distributes food multiple days per week.",
+    "address": "58 Bridge St, Richmond, VT 05477",
+    "phone": "(802) 578-4283",
+    "url": "https://www.richmondfoodshelfvt.org/",
+    "categorySlug": "food",
+    "zipCode": "05477"
+  },
+  {
+    "name": "Salvation Army of Greater Burlington",
+    "description": "Provides a food pantry with monthly visits, emergency food boxes, and the Friendly Kitchen dinner program open to anyone in need. Serves Burlington, South Burlington, Colchester, and Winooski.",
+    "address": "64 Main St, Burlington, VT 05401",
+    "phone": "(802) 864-6991",
+    "url": "https://easternusa.salvationarmy.org/northern-new-england/greater-burlington/",
+    "categorySlug": "food",
+    "zipCode": "05401"
+  },
+  {
+    "name": "Shelburne Food Shelf",
+    "description": "Volunteer-run food shelf serving Shelburne residents, located in the town office complex and offering monthly distributions of groceries and pantry staples.",
+    "address": "5420 Shelburne Rd, Shelburne, VT 05482",
+    "phone": "(802) 622-3313",
+    "url": "https://www.shelburnefoodshelf.org/",
+    "categorySlug": "food",
+    "zipCode": "05482"
+  },
+  {
+    "name": "South Burlington Food Shelf",
+    "description": "Volunteer-run food shelf serving South Burlington residents with free groceries including fresh produce, dairy, proteins, and non-perishable staples.",
+    "address": "356 Dorset St, South Burlington, VT 05403",
+    "phone": "(802) 858-5267",
+    "url": "https://www.southburlingtonfoodshelf.org/",
+    "categorySlug": "food",
+    "zipCode": "05403"
+  },
+  {
+    "name": "Spectrum Youth & Family Services",
+    "description": "Offers emergency overnight shelter, short-term transitional housing, and drop-in support for homeless and at-risk youth ages 16–24 in the Burlington area.",
+    "address": "31 Elmwood Ave, Burlington, VT 05401",
+    "phone": "(802) 864-7423",
+    "url": "https://www.spectrumvt.org/",
+    "categorySlug": "housing",
+    "zipCode": "05401"
+  },
+  {
+    "name": "Steps to End Domestic Violence",
+    "description": "Provides emergency shelter, legal advocacy, support groups, and a 24-hour crisis hotline for survivors of domestic violence and their children. All services are free and confidential.",
+    "address": "294 N Winooski Ave, Suite 214A, Burlington, VT 05401",
+    "phone": "(802) 658-1996",
+    "url": "https://www.stepsvt.org/",
+    "categorySlug": "crisis",
+    "zipCode": "05401"
+  },
+  {
+    "name": "United Church of Underhill Food Shelf",
+    "description": "Community food shelf program distributing food monthly through the Jericho-Underhill Ecumenical Ministries partnership, open to Underhill and surrounding area residents.",
+    "address": "7 Park St, Underhill, VT 05489",
+    "phone": "(802) 899-1722",
+    "url": "https://unitedchurchofunderhill.com/serve/food-shelf/",
+    "categorySlug": "food",
+    "zipCode": "05489"
+  },
+  {
+    "name": "Westford Food Pantry",
+    "description": "Community food pantry operating out of the Cameron Senior Center, providing free food to Westford and surrounding area residents on the third Saturday of each month.",
+    "address": "20 Pleasant St, Westford, VT 05494",
+    "phone": "",
+    "url": "https://westfordpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "05494"
+  },
+  {
+    "name": "Williston Community Food Shelf",
+    "description": "Nonprofit food shelf serving Williston residents with free groceries available three days per week, providing fresh and shelf-stable food to those experiencing food insecurity.",
+    "address": "400 Cornerstone Dr, Williston, VT 05495",
+    "phone": "(802) 735-6303",
+    "url": "https://www.willistonfoodshelf.com/",
+    "categorySlug": "food",
+    "zipCode": "05495"
+  },
+  {
+    "name": "Winooski Food Shelf",
+    "description": "Community food shelf at the United Methodist Church of Winooski offering free groceries twice monthly, including fresh produce, dairy, and pantry staples.",
+    "address": "24 West Allen St, Winooski, VT 05404",
+    "phone": "(802) 655-7371",
+    "url": "https://www.winooskifoodshelf.org/",
+    "categorySlug": "food",
+    "zipCode": "05404"
+  },
+  {
+    "name": "Winooski Housing Authority",
+    "description": "Public housing authority administering affordable and subsidized rental housing programs for low-income residents of the City of Winooski.",
+    "address": "83 Barlow St, Winooski, VT 05404",
+    "phone": "(802) 655-2360",
+    "url": "https://www.winooskihousing.org/",
+    "categorySlug": "housing",
+    "zipCode": "05404"
+  },
+  {
+    "name": "First Congregational Church of Brighton – Food Pantry",
+    "description": "Community food shelf run by the First Congregational Church serving Greater Island Pond including Brighton, Avery's Gore, and Morgan. Operates by appointment Monday through Wednesday evenings.",
+    "address": "21 Middle Street, Island Pond, VT 05846",
+    "phone": "(802) 723-5037",
+    "url": "https://www.foodpantries.org/li/first_congregational_church_of_island_pond_05846",
+    "categorySlug": "food",
+    "zipCode": "05846"
+  },
+  {
+    "name": "Abenaki Nation of Missisquoi Food Pantry",
+    "description": "Tribal food pantry providing nutritious food to elders, children, and families in the Swanton area, serving over 500 clients monthly. Open to community members three days a week.",
+    "address": "100 Grand Avenue, Swanton, VT 05488",
+    "phone": "(802) 868-6255",
+    "url": "https://abenakination.com/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "05488"
+  },
+  {
+    "name": "CVOEO – Franklin/Grand Isle Community Action",
+    "description": "Champlain Valley Office of Economic Opportunity provides housing case management, financial assistance to prevent eviction, emergency fuel assistance, and connection to food and shelter resources for Franklin and Grand Isle county residents.",
+    "address": "5 Lemnah Drive, Suite 5, Saint Albans, VT 05478",
+    "phone": "(802) 527-7392",
+    "url": "https://www.cvoeo.org/community-action/",
+    "categorySlug": "housing",
+    "zipCode": "05478"
+  },
+  {
+    "name": "CVOEO Franklin/Grand Isle Community Action – Housing Assistance",
+    "description": "Provides housing advocacy, financial assistance for security deposits and rental arrears, subsidized housing application help, and housing case management for individuals and families in Franklin and Grand Isle Counties who are homeless or at risk.",
+    "address": "5 Lemnah Drive, Suite 5, Saint Albans, VT 05478",
+    "phone": "(802) 527-7392",
+    "url": "https://www.cvoeo.org/get-help/financial-assistance-and-housing-navigation",
+    "categorySlug": "housing",
+    "zipCode": "05478"
+  },
+  {
+    "name": "Enosburg Food Shelf",
+    "description": "Community food shelf serving residents of Enosburg, Bakersfield, Berkshire, Richford, Montgomery, and Sheldon. Provides a range of food items to households in need across northern Franklin County.",
+    "address": "342 Main Street, Enosburg Falls, VT 05450",
+    "phone": "(802) 933-4193",
+    "url": "https://www.freefood.org/l/vt_enosburg-falls_enosburg-food-shelf",
+    "categorySlug": "food",
+    "zipCode": "05450"
+  },
+  {
+    "name": "Enosburg Food Shelf",
+    "description": "Community food pantry serving Enosburg, Bakersfield, Berkshire, Richford, Montgomery, and Sheldon with groceries including fresh produce, dairy, and protein. Documentation required for household size and residence verification.",
+    "address": "342 Main Street, Enosburg Falls, VT 05450",
+    "phone": "(802) 393-5383",
+    "url": "https://vermontfoodbanks.org/food-bank/enosburg-food-shelf/",
+    "categorySlug": "food",
+    "zipCode": "05450"
+  },
+  {
+    "name": "Feeding Champlain Valley – Richford Food Shelf",
+    "description": "Community food shelf operated by Feeding Champlain Valley providing free groceries to Franklin County residents on Monday evenings and Friday mornings.",
+    "address": "53 Main Street, Richford, VT 05476",
+    "phone": "(802) 862-2771",
+    "url": "https://www.feedingchamplainvalley.org/groceries-meal-production/",
+    "categorySlug": "food",
+    "zipCode": "05476"
+  },
+  {
+    "name": "Lucas James Williams Memorial Youth Fund Community Shelf",
+    "description": "Community food shelf in Bakersfield serving local residents by appointment on weekdays and on the third Tuesday of each month during posted hours.",
+    "address": "38 Waterville Mountain Road, Bakersfield, VT 05441",
+    "phone": "(802) 933-4201",
+    "url": "https://www.foodpantries.org/co/vt-franklin",
+    "categorySlug": "food",
+    "zipCode": "05441"
+  },
+  {
+    "name": "NorthWest Family Foods (CVOEO)",
+    "description": "A program of Feeding Champlain Valley/CVOEO providing grocery distribution to Franklin and Grand Isle County residents, with a main site in Saint Albans and satellite locations in the region. Offers free food to income-eligible households.",
+    "address": "5 Lemnah Drive, Saint Albans, VT 05478",
+    "phone": "(802) 527-7392",
+    "url": "https://www.cvoeo.org/get-help/northwest-family-foods",
+    "categorySlug": "food",
+    "zipCode": "05478"
+  },
+  {
+    "name": "NOTCH – Enosburg Health Center",
+    "description": "Northern Tier Center for Health is a federally qualified nonprofit health center providing primary care, behavioral health, pharmacy, dental, and substance use services to Franklin and Grand Isle County residents on a sliding-fee scale.",
+    "address": "382 Main Street, Enosburg Falls, VT 05450",
+    "phone": "(802) 933-5831",
+    "url": "https://notchvt.org/health-center-locations/enosburg/",
+    "categorySlug": "healthcare",
+    "zipCode": "05450"
+  },
+  {
+    "name": "Richford Health Center (NOTCH)",
+    "description": "Federally qualified community health center offering primary care, behavioral health, substance use treatment, pharmacy, and preventive services to Franklin and Grand Isle county residents on a sliding-fee scale.",
+    "address": "44 Main Street, Suite 200, Richford, VT 05476",
+    "phone": "(802) 255-5500",
+    "url": "https://notchvt.org/health-center-locations/richford/",
+    "categorySlug": "healthcare",
+    "zipCode": "05476"
+  },
+  {
+    "name": "Samaritan House – Housing Services (Franklin/Grand Isle)",
+    "description": "Samaritan House provides emergency shelter and transitional housing services to people experiencing homelessness in Franklin and Grand Isle Counties, including South Hero and Alburg residents, with case management and housing navigation.",
+    "address": "20 Kingman Street, Saint Albans, VT 05478",
+    "phone": "(802) 527-0847",
+    "url": "https://samaritanhouseinc.com/",
+    "categorySlug": "housing",
+    "zipCode": "05478"
+  },
+  {
+    "name": "Samaritan House – Tim's House Emergency Shelter",
+    "description": "CVOEO-affiliated nonprofit providing 16-bed emergency shelter, housing advocacy, and case management for adults experiencing homelessness in Franklin and Grand Isle counties, with hygiene supplies, showers, and laundry available.",
+    "address": "20 Kingman Street, Saint Albans, VT 05478",
+    "phone": "(802) 527-0847",
+    "url": "https://www.cvoeo.org/samaritan-house",
+    "categorySlug": "housing",
+    "zipCode": "05478"
+  },
+  {
+    "name": "Samaritan House / Tim's House Emergency Shelter",
+    "description": "Emergency shelter serving adults experiencing homelessness in Franklin and Grand Isle Counties, providing 16 private beds, case management, and housing navigation support. Operated by Samaritan House Inc., open 24/7.",
+    "address": "20 Kingman Street, Saint Albans, VT 05478",
+    "phone": "(802) 527-0847",
+    "url": "https://samaritanhouseinc.com/tims-house/",
+    "categorySlug": "housing",
+    "zipCode": "05478"
+  },
+  {
+    "name": "Sheldon Interfaith Food Shelf",
+    "description": "Volunteer-operated interfaith food shelf at the Sheldon Methodist Church, serving households in both Franklin and Grand Isle Counties with multiple open hours throughout the week including evenings and Saturdays.",
+    "address": "52 Church Street, Sheldon, VT 05483",
+    "phone": "(802) 933-7356",
+    "url": "https://sheldonvt.com/foodshelf",
+    "categorySlug": "food",
+    "zipCode": "05483"
+  },
+  {
+    "name": "St. Albans Community Pantry",
+    "description": "Community-focused pantry in Saint Albans offering food assistance and grab-and-go meals to residents in the Franklin County area. Open year-round with daily meal service.",
+    "address": "Saint Albans, VT 05478",
+    "phone": "(802) 524-9749",
+    "url": "https://stalbanscommunitypantry.org/",
+    "categorySlug": "food",
+    "zipCode": "05478"
+  },
+  {
+    "name": "Swanton Community Food Shelf at Nativity Parish Center",
+    "description": "Emergency food distribution site operated out of the Church of the Nativity, serving residents of Swanton and Highgate every Tuesday morning. No income verification required.",
+    "address": "65 Canada Street, Swanton, VT 05488",
+    "phone": "(802) 868-7185",
+    "url": "https://www.foodpantries.org/li/swanton_community_food_shelf_nativity_parish_center_05488",
+    "categorySlug": "food",
+    "zipCode": "05488"
+  },
+  {
+    "name": "Turning Point of Franklin County – Enosburg Satellite",
+    "description": "Free recovery community center offering peer support and recovery coaching for people dealing with substance use disorder; the Enosburg location is a satellite of the main St. Albans office serving the northern Franklin County area.",
+    "address": "Enosburg Falls, VT 05450",
+    "phone": "(802) 782-8454",
+    "url": "https://turningpointfranklincounty.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "05450"
+  },
+  {
+    "name": "Turning Point of Franklin County – Richford Recovery Center",
+    "description": "Free peer-support recovery center offering recovery coaching for substance use disorder, open every Wednesday with a Peer Support Specialist; part of the Turning Point of Franklin County network.",
+    "address": "53 Main Street, Richford, VT 05476",
+    "phone": "(802) 782-8454",
+    "url": "https://turningpointfranklincounty.org/richford/",
+    "categorySlug": "healthcare",
+    "zipCode": "05476"
+  },
+  {
+    "name": "Champlain Islands Food Shelf",
+    "description": "Established in 2002 to serve all Grand Isle County residents, this food shelf is located in the basement of St. Joseph's Church and is open Wednesdays and the first Saturday of each month.",
+    "address": "185 US-2, Grand Isle, VT 05458",
+    "phone": "(802) 318-4704",
+    "url": "https://www.champlainislandsfoodshelf.org/",
+    "categorySlug": "food",
+    "zipCode": "05458"
+  },
+  {
+    "name": "Congregational Church of South Hero UCC – Food for Thought",
+    "description": "The Congregational Church of South Hero runs a Food for Thought program providing food assistance and community support to Champlain Islands residents. Part of a network of island social services.",
+    "address": "24 South Street, South Hero, VT 05486",
+    "phone": "(802) 372-5885",
+    "url": "https://sherochurch.org/food-for-thought/",
+    "categorySlug": "food",
+    "zipCode": "05486"
+  },
+  {
+    "name": "Bradley's Community Food Shelf",
+    "description": "Community food shelf located in Morrisville serving Lamoille County residents, offering food assistance Monday through Friday during regular business hours.",
+    "address": "197 Harrel Street, Morrisville, VT 05661",
+    "phone": "(802) 888-7993",
+    "url": "https://www.foodpantries.org/li/vt-bradleys_community_food_shelf",
+    "categorySlug": "food",
+    "zipCode": "05661"
+  },
+  {
+    "name": "Cambridge Community Food Shelf",
+    "description": "Volunteer-based food shelf housed in the basement of the Second Congregational United Church of Christ in Jeffersonville. Provides food, clothing, and other necessities to people in temporary need throughout the Cambridge area.",
+    "address": "16 Church Street, Jeffersonville, VT 05464",
+    "phone": "(802) 644-8911",
+    "url": "https://www.foodpantries.org/li/lamoille_community_connections_05661",
+    "categorySlug": "food",
+    "zipCode": "05464"
+  },
+  {
+    "name": "Capstone Community Action – Lamoille County",
+    "description": "Provides housing counseling, emergency financial assistance, food access support, and utility assistance to income-eligible residents of Lamoille County including Belvidere. Coordinates entry into local shelter and housing systems.",
+    "address": "250 Industrial Park Drive, Morrisville, VT 05661",
+    "phone": "(802) 888-7993",
+    "url": "https://capstonevt.org/",
+    "categorySlug": "community",
+    "zipCode": "05661"
+  },
+  {
+    "name": "Community Health Services of Lamoille Valley (Lamoille Health Partners)",
+    "description": "Federally Qualified Health Center providing primary care and a community health team that connects patients with food, transportation, utility assistance, shelter, and other social support resources.",
+    "address": "66 Morrisville Plaza, Morrisville, VT 05661",
+    "phone": "(802) 888-6017",
+    "url": "https://www.lamoillehealthpartners.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "05661"
+  },
+  {
+    "name": "Johnson Food Shelf",
+    "description": "Community food shelf offering TEFAP program foods, fresh produce, frozen meats, dairy, bakery products, and household staples. Serves Johnson, Eden, Belvidere, and Waterville.",
+    "address": "661 Railroad Street, Johnson, VT 05656",
+    "phone": "(802) 635-9003",
+    "url": "https://www.foodpantries.org/co/vt-lamoille",
+    "categorySlug": "food",
+    "zipCode": "05656"
+  },
+  {
+    "name": "Lamoille Community Food Share",
+    "description": "The primary food pantry serving all of Lamoille County including Belvidere, offering drive-through food distribution open five days a week. Households may visit once every 14 days.",
+    "address": "197 Harrell Street, Morrisville, VT 05661",
+    "phone": "(802) 888-6550",
+    "url": "https://www.lcfoodshare.org/",
+    "categorySlug": "food",
+    "zipCode": "05661"
+  },
+  {
+    "name": "Lamoille Community House",
+    "description": "Emergency shelter providing beds, hot meals, showers, laundry, and internet access to adults experiencing homelessness in the Lamoille River Valley. A 21-bed facility serving the greater Lamoille County area.",
+    "address": "213 Clark Drive, Hyde Park, VT 05655",
+    "phone": "(802) 521-7943",
+    "url": "https://lamoilleshelter.org/",
+    "categorySlug": "housing",
+    "zipCode": "05655"
+  },
+  {
+    "name": "Lamoille County Mental Health Services",
+    "description": "Community mental health center offering emergency and crisis services 24/7 including a mobile crisis team, crisis stabilization, and referrals to psychiatric care for Lamoille County residents.",
+    "address": "72 Harrel Street, Morrisville, VT 05661",
+    "phone": "(802) 888-5026",
+    "url": "https://lamoille.org/",
+    "categorySlug": "crisis",
+    "zipCode": "05661"
+  },
+  {
+    "name": "Lamoille Family Center",
+    "description": "Nonprofit supporting families in the Lamoille Valley with emergency food assistance, gas, diapers, utility help, and a range of family education and support programs.",
+    "address": "480 Cady's Falls Road, Morrisville, VT 05661",
+    "phone": "(802) 888-5229",
+    "url": "https://www.lamoillefamilycenter.org/",
+    "categorySlug": "community",
+    "zipCode": "05661"
+  },
+  {
+    "name": "Lamoille Housing Partnership",
+    "description": "Nonprofit affordable housing developer providing rental housing for low and moderate income households in Lamoille County, including units reserved for households experiencing homelessness.",
+    "address": "26 Hutchins Street Suite 102, Morrisville, VT 05661",
+    "phone": "(802) 476-4493",
+    "url": "https://www.lamoillehousing.org/",
+    "categorySlug": "housing",
+    "zipCode": "05661"
+  },
+  {
+    "name": "Bradford Area Interchurch Council Food Shelf",
+    "description": "Community food pantry operated by local churches providing food assistance to residents of Bradford and surrounding towns including Corinth, East Corinth, Newbury, and West Newbury.",
+    "address": "172 North Main Street, Bradford, VT 05033",
+    "phone": "(802) 291-1274",
+    "url": "https://bradford-vt.us/community/food_shelf.php",
+    "categorySlug": "food",
+    "zipCode": "03774",
+    "additionalZipCodes": [
+      "05033"
+    ]
+  },
+  {
+    "name": "Bradford Area Interchurch Council Food Shelf",
+    "description": "Interfaith coalition food shelf serving Bradford and surrounding towns including Corinth, East Corinth, Newbury, and West Newbury. Open weekdays with multiple distribution windows.",
+    "address": "178 North Main Street, Bradford, VT 05033",
+    "phone": "(802) 222-4727",
+    "url": "https://www.foodpantries.org/li/bradford_area_interchurch_council_05033",
+    "categorySlug": "food",
+    "zipCode": "05033"
+  },
+  {
+    "name": "Capstone Community Action – Bradford Office",
+    "description": "Community action agency office providing housing assistance, food support, heat and utility assistance, and family services. Income guidelines apply; serves Orange County East residents.",
+    "address": "22 Whistlestop Way, Bradford, VT 05033",
+    "phone": "(802) 222-5419",
+    "url": "https://capstonevt.org/housing-support",
+    "categorySlug": "community",
+    "zipCode": "05033"
+  },
+  {
+    "name": "Capstone Community Action – Heat & Utility Assistance",
+    "description": "Assists Orange County households with heating fuel, disconnected utilities, and furnace replacement through LIHEAP and crisis fuel programs. Serves residents of Washington, Orange, and Lamoille counties.",
+    "address": "12 Prince Street, Suite A, Randolph, VT 05060",
+    "phone": "(800) 846-9506",
+    "url": "https://capstonevt.org/heat-and-utility-assistance",
+    "categorySlug": "utilities",
+    "zipCode": "05060"
+  },
+  {
+    "name": "Clara Martin Center",
+    "description": "Community mental health center providing emergency mental health and substance use services to Orange County residents, with a 24-hour crisis line and walk-in crisis support during business hours.",
+    "address": "24 South Main Street, Randolph, VT 05060",
+    "phone": "(800) 639-6360",
+    "url": "https://www.claramartin.org/",
+    "categorySlug": "crisis",
+    "zipCode": "05060"
+  },
+  {
+    "name": "East Corinth Congregational Church Emergency Food Pantry",
+    "description": "Small emergency food pantry maintained by the East Corinth Congregational Church, also providing assistance with heat, firewood, gasoline, and utility shutoff notices for verified needs.",
+    "address": "Village Road, East Corinth, VT 05040",
+    "phone": "(802) 439-9987",
+    "url": "https://eastcorinth-ucc.org/how-we-serve/",
+    "categorySlug": "food",
+    "zipCode": "05040"
+  },
+  {
+    "name": "Good Samaritan Haven – Randolph Emergency Shelter",
+    "description": "Nonprofit emergency overnight shelter for single adults experiencing homelessness, also offering case management, peer mentoring, housing counseling, and life skills services to Orange County residents.",
+    "address": "Randolph, VT 05060",
+    "phone": "(802) 728-5233",
+    "url": "https://www.goodsamaritanhaven.org/",
+    "categorySlug": "housing",
+    "zipCode": "05060"
+  },
+  {
+    "name": "Little Rivers Health Care – Bradford",
+    "description": "Federally Qualified Health Center providing affordable, accessible primary care to Orange County residents regardless of ability to pay, including sliding fee scale services.",
+    "address": "437 South Main Street, Bradford, VT 05033",
+    "phone": "(802) 439-5321",
+    "url": "https://www.littlerivers.org/bradford",
+    "categorySlug": "healthcare",
+    "zipCode": "05033"
+  },
+  {
+    "name": "New Hope Food Shelf (West Topsham / Corinth)",
+    "description": "Community food shelf at the Riverside Grange serving residents of Corinth, Topsham, and Orange towns, with emergency food assistance available by appointment.",
+    "address": "4 Batten Road, West Topsham, VT 05086",
+    "phone": "(802) 439-9987",
+    "url": "https://corinthvt.org/services/corinth-food-shelf/",
+    "categorySlug": "food",
+    "zipCode": "05086"
+  },
+  {
+    "name": "New Hope United Methodist Church Food Pantry",
+    "description": "Church-operated food pantry serving low-income residents of Topsham, Corinth, and Orange based on USDA poverty-level income guidelines. Requires photo ID and proof of residency.",
+    "address": "Route 12R, West Topsham, VT 05086",
+    "phone": "(802) 439-6551",
+    "url": "https://www.foodpantries.org/li/new_hope_united_methodist_church_05076",
+    "categorySlug": "food",
+    "zipCode": "05086"
+  },
+  {
+    "name": "Newbury Bible Church Food Shelf",
+    "description": "Community food shelf open to all residents twice per month, providing groceries and personal care items. Located in Newbury and serving surrounding communities.",
+    "address": "17 Cross Street, Newbury, VT 05051",
+    "phone": "(802) 866-5527",
+    "url": "https://search.vermont211.org/search/a967cc4a-6ea9-5c07-87fb-5ece1cf6dc58",
+    "categorySlug": "food",
+    "zipCode": "05051"
+  },
+  {
+    "name": "Orange County Restorative Justice Center",
+    "description": "Nonprofit providing restorative justice, substance use screening, pretrial support, and reentry services for youth and adults across Orange County since 1981. Also coordinates referrals to area social services.",
+    "address": "PO Box 58, Chelsea, VT 05038",
+    "phone": "(802) 685-3172",
+    "url": "https://ocrjvt.org/",
+    "categorySlug": "legal",
+    "zipCode": "05038"
+  },
+  {
+    "name": "Randolph Area Community Development Corporation (RACDC)",
+    "description": "Affordable housing and community development nonprofit that develops and manages permanently affordable rental and homeownership housing for low- and moderate-income residents in the Randolph area.",
+    "address": "21 North Main Street, Randolph, VT 05060",
+    "phone": "(802) 728-9506",
+    "url": "https://www.racdc.com/",
+    "categorySlug": "housing",
+    "zipCode": "05060"
+  },
+  {
+    "name": "Randolph Area Food Shelf",
+    "description": "Nonprofit community food shelf serving Randolph, Brookfield, Braintree, and East Granville with multiple distribution sessions throughout the week, including evening hours.",
+    "address": "12 Prince Street Unit 3, Randolph, VT 05060",
+    "phone": "(802) 431-0144",
+    "url": "https://www.randolphareafoodshelf.org/",
+    "categorySlug": "food",
+    "zipCode": "05060"
+  },
+  {
+    "name": "Strafford Food Shelf",
+    "description": "Local food pantry serving Strafford and South Strafford residents with broad operating hours seven days a week.",
+    "address": "216 VT Route 132, South Strafford, VT 05070",
+    "phone": "(802) 765-4421",
+    "url": "https://www.foodpantries.org/li/strafford_food_shelf_05070",
+    "categorySlug": "food",
+    "zipCode": "05070"
+  },
+  {
+    "name": "Thetford Food Shelf",
+    "description": "Nonprofit 501(c)(3) food pantry providing food and personal care items to community residents with no income restrictions. Serves Thetford, Vershire, Fairlee, West Fairlee, and Strafford.",
+    "address": "3910 Route 113, Thetford Center, VT 05075",
+    "phone": "(802) 785-2922",
+    "url": "https://www.thetfordvt.gov/community/thetford-food-shelf",
+    "categorySlug": "food",
+    "zipCode": "05075"
+  },
+  {
+    "name": "Tunbridge Community Food Shelf",
+    "description": "Community food pantry serving Tunbridge, Strafford, Chelsea, East Randolph, and South Royalton. Operated by volunteers and open weekly on Fridays.",
+    "address": "273 Vermont Route 110, Tunbridge, VT 05077",
+    "phone": "(802) 889-3736",
+    "url": "https://tunbridgevt.org/tunbridge-community-food-shelf/",
+    "categorySlug": "food",
+    "zipCode": "05077"
+  },
+  {
+    "name": "United Church of Chelsea Food Shelf",
+    "description": "Church-operated community food shelf serving Chelsea, Washington, Williamstown, Vershire, and Tunbridge with no-cost groceries for households in need.",
+    "address": "13 North Common, Chelsea, VT 05038",
+    "phone": "(802) 685-2290",
+    "url": "https://www.foodpantries.org/li/united_church_of_chelsea_05038",
+    "categorySlug": "food",
+    "zipCode": "05038"
+  },
+  {
+    "name": "VerShare Food Shelf",
+    "description": "Community food shelf operated by VerShare, a volunteer-run nonprofit enhancing community since 1998. Open to all residents of Vershire and neighboring towns; offers frozen meat, eggs, and seasonal produce.",
+    "address": "27 Vershire Center Road (Vershire Town Center Building), Vershire, VT 05079",
+    "phone": "(802) 685-9982",
+    "url": "https://vershare.org/vershire-helping-hands/",
+    "categorySlug": "food",
+    "zipCode": "05079"
+  },
+  {
+    "name": "Veterans Inc. – Bradford House",
+    "description": "Emergency and transitional shelter providing short-term housing and supportive services for homeless veterans, with case management to help residents transition to independent permanent housing.",
+    "address": "378 North Main Street, Bradford, VT 05033",
+    "phone": "(802) 222-9087",
+    "url": "https://www.veteransinc.org/",
+    "categorySlug": "housing",
+    "zipCode": "05033"
+  },
+  {
+    "name": "Wells River Congregational Church Food Pantry",
+    "description": "Church-run food pantry serving residents of Wells River, Newbury, and Ryegate (including South Ryegate) with groceries distributed weekly on Tuesdays.",
+    "address": "Route 5, Wells River, VT 05081",
+    "phone": "(802) 757-2261",
+    "url": "https://www.foodpantries.org/li/wells_river_congregational_church_05081",
+    "categorySlug": "food",
+    "zipCode": "05081"
+  },
+  {
+    "name": "West Fairlee Community Food Shelf",
+    "description": "Community food shelf serving West Fairlee, Fairlee, East Corinth, Vershire, and Strafford with weekly no-cost grocery distribution.",
+    "address": "870 VT Route 113, West Fairlee, VT 05083",
+    "phone": "(802) 333-4857",
+    "url": "https://www.foodpantries.org/li/west_fairlee_community_food_shelf_05083",
+    "categorySlug": "food",
+    "zipCode": "05083"
+  },
+  {
+    "name": "West Fairlee Community Food Shelf",
+    "description": "Community food pantry distributing groceries, fresh produce, dairy, and protein to those in need. Serves West Fairlee, Fairlee, East Corinth, Vershire, and Strafford; partners with Willing Hands for fresh produce.",
+    "address": "870 VT Route 113, West Fairlee, VT 05083",
+    "phone": "(802) 333-4857",
+    "url": "https://westfairleevt.gov/index.asp?SEC=6F66FC94-23EC-48D0-8750-7EB64FC807C7",
+    "categorySlug": "food",
+    "zipCode": "05083"
+  },
+  {
+    "name": "Williamstown Community Food Shelf",
+    "description": "Partnership of three Williamstown churches providing food shelf services to residents of Williamstown, Brookfield, and Graniteville. Open Saturdays 9 am–1 pm.",
+    "address": "47 Methodist Lane, Williamstown, VT 05679",
+    "phone": "(802) 433-5453",
+    "url": "https://vermontfoodbanks.org/food-bank/williamstown-community-food-shelf/",
+    "categorySlug": "food",
+    "zipCode": "05679"
+  },
+  {
+    "name": "Hardwick Area Food Pantry – Craftsbury Site",
+    "description": "Satellite distribution site of the Hardwick Area Food Pantry, serving Craftsbury and neighboring Caledonia County towns with fresh produce and groceries on Thursdays.",
+    "address": "7 Church Lane, Craftsbury, VT 05827",
+    "phone": "(802) 472-5940",
+    "url": "https://www.nourishhardwick.org/locations-hours",
+    "categorySlug": "food",
+    "zipCode": "05827"
+  },
+  {
+    "name": "Jay Area Food Shelf",
+    "description": "Community food shelf serving Jay, Westfield, Troy, Lowell, and North Troy with groceries and essential food items for households in northern Orleans County.",
+    "address": "1036 VT Route 242, Jay, VT 05859",
+    "phone": "(802) 988-2996",
+    "url": "https://www.jayfocusgp.com/foodshelf",
+    "categorySlug": "food",
+    "zipCode": "05859"
+  },
+  {
+    "name": "Lake Region Parish Food Shelf",
+    "description": "Community food shelf hosted at Barton United Church offering free groceries to residents of Barton and the surrounding Orleans County region. Open Wednesday and Friday mornings.",
+    "address": "15 Glover Road, Barton, VT 05822",
+    "phone": "(802) 525-3607",
+    "url": "https://www.neumc.org/churchdetail/556091",
+    "categorySlug": "food",
+    "zipCode": "05822"
+  },
+  {
+    "name": "NEKCA Housing Assistance Program",
+    "description": "Northeast Kingdom Community Action provides housing counseling, limited rental and deposit assistance, utility help, and housing navigation services to low-income residents of Essex, Caledonia, and Orleans counties.",
+    "address": "70 Main Street, Newport, VT 05855",
+    "phone": "(855) 663-5224",
+    "url": "https://www.nekcavt.org/programs-and-services/housing/",
+    "categorySlug": "housing",
+    "zipCode": "05855"
+  },
+  {
+    "name": "Northeast Kingdom Human Services (NKHS) – Newport Office",
+    "description": "NKHS provides behavioral health, developmental disability, and crisis intervention services to all communities in Essex, Caledonia, and Orleans counties, with 24/7 crisis response available by phone.",
+    "address": "181 Crawford Farm Road, Newport, VT 05855",
+    "phone": "(802) 334-6744",
+    "url": "https://nkhs.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "05855"
+  },
+  {
+    "name": "Orleans Community Food Shelf",
+    "description": "Food shelf hosted at Orleans Federated Church, open Mondays 8:30–10:30 am; also features an outdoor Blessing Box for 24/7 emergency food access. No paperwork or verification required.",
+    "address": "24 School Street, Orleans, VT 05860",
+    "phone": "(802) 754-6486",
+    "url": "https://www.foodpantries.org/li/orleans_federated_church_05860",
+    "categorySlug": "food",
+    "zipCode": "05860"
+  },
+  {
+    "name": "Orleans Community Food Shelf at Orleans Federated Church",
+    "description": "Community food pantry distributing prepacked bags of groceries Monday mornings in the church parking lot with no paperwork required. A 24/7 Blessing Box outside the church's main doors offers emergency food at any time.",
+    "address": "24 School Street, Orleans, VT 05860",
+    "phone": "(802) 754-6486",
+    "url": "https://sites.google.com/view/orleansfederatedchurchvt/home",
+    "categorySlug": "food",
+    "zipCode": "05860"
+  },
+  {
+    "name": "Saint Mark's Episcopal Church Food Pantry",
+    "description": "Food pantry serving Orleans County and northern Essex County from Saint Mark's Episcopal Church in Newport. Distribution on Mondays 11:30 am–12:30 pm.",
+    "address": "44 Second Street, Newport, VT 05855",
+    "phone": "(802) 334-7365",
+    "url": "http://www.stmarksnewport.org/",
+    "categorySlug": "food",
+    "zipCode": "05855"
+  },
+  {
+    "name": "Saint Mark's Episcopal Church Food Shelf",
+    "description": "Weekly food shelf providing quality groceries to households experiencing food insecurity across Orleans County and Northern Essex County. Also hosts a free monthly community soup lunch; no income documentation required.",
+    "address": "44 Second Street, Newport, VT 05855",
+    "phone": "(802) 334-7365",
+    "url": "http://www.saintmarksnewport.com/",
+    "categorySlug": "food",
+    "zipCode": "05855"
+  },
+  {
+    "name": "Umbrella – Advocacy Program (NEK)",
+    "description": "Provides crisis intervention, emergency shelter, transitional housing, safety planning, and legal advocacy for survivors of domestic and sexual violence across Orleans and Northern Essex counties. 24-hour hotline available.",
+    "address": "Newport, VT 05855",
+    "phone": "(802) 334-0148",
+    "url": "https://www.umbrellanek.org/advocacy",
+    "categorySlug": "crisis",
+    "zipCode": "05855"
+  },
+  {
+    "name": "VeggieVanGo at Derby Elks Lodge",
+    "description": "Vermont Foodbank mobile produce distribution providing free fresh fruits and vegetables to the Derby community on the 4th Tuesday of each month, 9:30–11 am. No registration or income requirements.",
+    "address": "3736 US Route 5, Derby, VT 05829",
+    "phone": "(802) 476-3388",
+    "url": "https://www.vtfoodbank.org/access-food/veggievango/",
+    "categorySlug": "food",
+    "zipCode": "05829"
+  },
+  {
+    "name": "Brandon Area Emergency Food Shelf",
+    "description": "A community food pantry serving Brandon, Sudbury, Forest Dale, and parts of Goshen. Open Monday, Wednesday, and Friday mornings for food distribution.",
+    "address": "Route 7 and Union Street, Brandon, VT 05733",
+    "phone": "(802) 247-6720",
+    "url": "https://www.foodpantries.org/li/brandon_area_emergency_food_shelf_05733",
+    "categorySlug": "food",
+    "zipCode": "05733"
+  },
+  {
+    "name": "BROC Community Action – Food Shelf (Rutland County)",
+    "description": "Free food shelf providing fresh, locally sourced groceries to any Rutland County resident with no income test. Offers a special senior shopping hour on Fridays; also provides housing and utility assistance.",
+    "address": "45 Union Street, Rutland, VT 05701",
+    "phone": "(802) 775-0878",
+    "url": "https://www.broc.org/food-shelf-rutland-county/",
+    "categorySlug": "food",
+    "zipCode": "05701"
+  },
+  {
+    "name": "Castleton Cares Inc.",
+    "description": "A community assistance organization operating a food shelf and providing bi-monthly food boxes to residents of Castleton and surrounding areas. Located in the basement of the Federated Church of Castleton.",
+    "address": "504 Main Street, Castleton, VT 05735",
+    "phone": "(802) 468-5101",
+    "url": "https://castletoncares.org/",
+    "categorySlug": "food",
+    "zipCode": "05735"
+  },
+  {
+    "name": "Companions in Wholeness (Rutland Neighbors)",
+    "description": "Serves food-insecure and homeless individuals in the Rutland region with a free hot breakfast and cold lunch Monday through Thursday, plus a food pantry and clothes closet. Operated out of the Rutland United Methodist Church.",
+    "address": "60 Strongs Avenue, Rutland, VT 05701",
+    "phone": "(802) 773-2460",
+    "url": "https://companionsinwholeness.org/",
+    "categorySlug": "food",
+    "zipCode": "05701"
+  },
+  {
+    "name": "Cornerstone Housing Partners",
+    "description": "Develops, manages, and maintains affordable rental housing and homeownership services across Bennington and Rutland counties. Offers homebuyer education, foreclosure counseling, energy efficiency improvements, and home repair lending programs.",
+    "address": "27 Wales Street, Suite 201, Rutland, VT 05701",
+    "phone": "(802) 438-2303",
+    "url": "https://cornerstonehousingpartners.org/",
+    "categorySlug": "housing",
+    "zipCode": "05701"
+  },
+  {
+    "name": "Danby Food Shelf",
+    "description": "A local food shelf serving the towns of Danby and Mount Tabor, open Monday through Thursday. Visitors are asked to limit use to once per month and must provide proof of residency.",
+    "address": "130 Brook Road, Danby, VT 05739",
+    "phone": "(802) 293-5136",
+    "url": "https://www.foodpantries.org/li/danby_food_shelf_05739",
+    "categorySlug": "food",
+    "zipCode": "05739"
+  },
+  {
+    "name": "Dismas House Rutland",
+    "description": "Transitional housing community in Rutland providing a structured, supportive, substance-free residential environment for men and women returning from incarceration. Run by Dismas of Vermont, which has operated since 1986.",
+    "address": "103 Park Avenue, Rutland, VT 05701",
+    "phone": "(802) 775-5539",
+    "url": "https://www.dismasofvt.org/houses/rutland-dismas-house/",
+    "categorySlug": "housing",
+    "zipCode": "05701"
+  },
+  {
+    "name": "Green Mountain Food Pantry at Rutland SDA Church",
+    "description": "Nonprofit food pantry operated by the Rutland Seventh-day Adventist Church distributing fresh produce, dairy, and protein to individuals and families in need. Visitors may come once per week; bring your own bags.",
+    "address": "158 Stratton Road, Rutland, VT 05701",
+    "phone": "(802) 683-1298",
+    "url": "https://vermontfoodbanks.org/food-bank/green-mountain-food-pantry-at-rutland-sda-church/",
+    "categorySlug": "food",
+    "zipCode": "05701"
+  },
+  {
+    "name": "Green Mountain Food Pantry at Rutland SDA Church",
+    "description": "A community food pantry operating out of the Rutland Seventh-day Adventist Church, distributing food on Tuesdays and Fridays. Visitors are limited to one pickup per week and should bring their own bags.",
+    "address": "158 Stratton Road, Rutland, VT 05701",
+    "phone": "(802) 683-1298",
+    "url": "https://www.foodpantries.org/li/vt_05701_green-mountain-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "05701"
+  },
+  {
+    "name": "Homeless Prevention Center",
+    "description": "Provides housing navigation, rapid rehousing, and homelessness prevention services to individuals and families in Rutland County who are homeless or at risk of losing their housing. Offers financial aid, landlord mediation, case management, and resource referrals.",
+    "address": "56 Howe Street, Rutland, VT 05701",
+    "phone": "(802) 775-9286",
+    "url": "https://www.hpcvt.org/",
+    "categorySlug": "housing",
+    "zipCode": "05701"
+  },
+  {
+    "name": "Middlesex Community Fund",
+    "description": "A community foundation that took over food assistance coordination from the former Middlesex Food Shelf in 2022, connecting Middlesex residents to food, housing, and emergency assistance resources.",
+    "address": "PO Box 1, Middlesex, VT 05757",
+    "phone": "",
+    "url": "https://www.middlesexcommunityfund.org/resources/",
+    "categorySlug": "community",
+    "zipCode": "05757"
+  },
+  {
+    "name": "NewStory Center",
+    "description": "Provides emergency shelter, advocacy, and comprehensive support services for survivors of domestic violence, sexual violence, human trafficking, and stalking throughout Rutland County. Operates a 24-hour crisis hotline and residential safe house.",
+    "address": "92 Grove Street, Rutland, VT 05701",
+    "phone": "(802) 775-6788",
+    "url": "https://www.nscvt.org/",
+    "categorySlug": "crisis",
+    "zipCode": "05701"
+  },
+  {
+    "name": "Open Door Mission – Rutland",
+    "description": "51-bed emergency and transitional shelter offering overnight housing for homeless adults along with a soup kitchen serving meals multiple times daily. Also provides veterans housing services.",
+    "address": "31 Park Street, Rutland, VT 05701",
+    "phone": "(802) 775-5661",
+    "url": "https://www.opendoormissionvt.org/",
+    "categorySlug": "housing",
+    "zipCode": "05701"
+  },
+  {
+    "name": "Pawlet Community Church Food Pantry",
+    "description": "A monthly food pantry operated by the Pawlet Community Church, serving residents of Pawlet, West Pawlet, and Wells. Held on the third or fourth Friday of each month from 9 AM to 11 AM.",
+    "address": "38 Route 133, Pawlet, VT 05761",
+    "phone": "(802) 325-3022",
+    "url": "https://www.foodpantries.org/li/pawlet_community_church_05761",
+    "categorySlug": "food",
+    "zipCode": "05761"
+  },
+  {
+    "name": "Pawlet Community Church Food Pantry",
+    "description": "A church-run food pantry serving residents of Rupert, East Rupert, West Rupert, Pawlet, Danby, Sandgate, Wells, and surrounding towns with groceries and essential provisions.",
+    "address": "38 Route 133, Pawlet, VT 05761",
+    "phone": "(802) 325-3022",
+    "url": "https://vermontfoodbanks.org/food-bank/pawlet-community-church-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "05761"
+  },
+  {
+    "name": "Pittsfield VT Community Connections",
+    "description": "A 501(c)(3) nonprofit created to improve access to resources, social cohesion, and quality of life for Pittsfield, Vermont residents through community organization, volunteerism, and community events.",
+    "address": "PO Box 776, Pittsfield, VT 05762",
+    "phone": "(802) 729-2772",
+    "url": "https://www.pccvt.org/",
+    "categorySlug": "community",
+    "zipCode": "05762"
+  },
+  {
+    "name": "Pittsford Food Shelf",
+    "description": "A food shelf addressing food insecurity in Pittsford, Proctor, Chittenden, and Florence. Open by appointment on Mondays and Thursdays; residents should call ahead or email to arrange a visit.",
+    "address": "4085 U.S. Route 7, Pittsford, VT 05763",
+    "phone": "(802) 774-8403",
+    "url": "https://www.pittsfordfoodshelf.org/",
+    "categorySlug": "food",
+    "zipCode": "05763"
+  },
+  {
+    "name": "Poultney Emergency Food Shelf – The Stonebridge",
+    "description": "Community food pantry serving Poultney, Middletown Springs, and Hampton, NY. Distributes more than eight tons of food annually and provides vouchers for fresh and frozen items at local stores. Open Tuesdays or by appointment.",
+    "address": "66 Beaman Street, Poultney, VT 05764",
+    "phone": "(802) 287-9558",
+    "url": "https://www.foodpantries.org/li/poultney_emergency_food_shelf_the_stonebridge_05764",
+    "categorySlug": "food",
+    "zipCode": "05764"
+  },
+  {
+    "name": "Rutland Community Cupboard",
+    "description": "Nonprofit food pantry alleviating hunger in central Rutland County by providing free groceries and diapers to individuals and families experiencing food insecurity. Open five days a week; proof of local residency required.",
+    "address": "65 River Street, Rutland, VT 05701",
+    "phone": "(802) 747-6119",
+    "url": "https://www.rutlandcommunitycupboard.org/",
+    "categorySlug": "food",
+    "zipCode": "05701"
+  },
+  {
+    "name": "Rutland County Parent-Child Center (RCPCC) – Pleasant Street Pantry",
+    "description": "Community food pantry with a 'Take What You Need' policy offering nutritious food including local vegetables and bread to all community members. Part of RCPCC's whole-family services that also include transportation, childcare, and employment support.",
+    "address": "61 Pleasant Street, Rutland, VT 05701",
+    "phone": "(802) 775-9711",
+    "url": "https://rcpcc.org/",
+    "categorySlug": "food",
+    "zipCode": "05701"
+  },
+  {
+    "name": "Rutland County Parent-Child Center Food Pantry",
+    "description": "A food pantry serving Rutland County families by appointment, providing food, diapers and wipes, feminine hygiene products, clothing, and toys to those in need.",
+    "address": "61 Pleasant Street, Rutland, VT 05701",
+    "phone": "(802) 775-9711",
+    "url": "https://rcpcc.org/our-programs/rutland-food-assistance/",
+    "categorySlug": "food",
+    "zipCode": "05701"
+  },
+  {
+    "name": "Rutland Housing Authority",
+    "description": "Administers federally funded public housing units and Section 8 vouchers for low-income residents of Rutland County. Has served the community since 1963 with affordable, service-enriched housing.",
+    "address": "5 Tremont Street, Rutland, VT 05701",
+    "phone": "(802) 775-2926",
+    "url": "https://www.rhavt.org/",
+    "categorySlug": "housing",
+    "zipCode": "05701"
+  },
+  {
+    "name": "Slate Valley Cares (Right to Food Center)",
+    "description": "Formerly known as Fair Haven Concerned, this nonprofit operates the Right to Food Center providing free groceries to members regardless of residency, plus a low-cost thrift shop. Committed to building resilient communities through food access and community connections.",
+    "address": "49 Main Street, Fair Haven, VT 05743",
+    "phone": "(802) 265-3666",
+    "url": "https://www.slatevalleycares.org/",
+    "categorySlug": "food",
+    "zipCode": "05743"
+  },
+  {
+    "name": "The Salvation Army – Rutland Corps Community Center",
+    "description": "Provides emergency food pantry groceries, clothing, and financial assistance to Rutland County residents. Food distribution three days per week; documentation required on first visit.",
+    "address": "22 Wales Street, Rutland, VT 05701",
+    "phone": "(802) 775-5150",
+    "url": "https://www.salvationarmyusa.org/vt/rutland/wales-street-corps/",
+    "categorySlug": "food",
+    "zipCode": "05701"
+  },
+  {
+    "name": "The Salvation Army Rutland",
+    "description": "Provides food distribution, clothing, and financial assistance to individuals and families in need across Rutland County. Open Tuesday through Friday with food pantry services and community support programs.",
+    "address": "22 Wales Street, Rutland, VT 05701",
+    "phone": "(802) 775-5150",
+    "url": "https://nne.salvationarmy.org/rutland",
+    "categorySlug": "food",
+    "zipCode": "05701"
+  },
+  {
+    "name": "Wallingford Food Cupboard",
+    "description": "A food assistance program located at Wallingford Town Hall, offering groceries to residents in need. Open Tuesdays and Thursdays from 9 AM to noon; visitors are asked to limit use to once monthly.",
+    "address": "75 School Street, Wallingford, VT 05773",
+    "phone": "(802) 446-2336",
+    "url": "https://www.wallingfordvt.com/food-cupboard/",
+    "categorySlug": "food",
+    "zipCode": "05773"
+  },
+  {
+    "name": "West Rutland Food Shelf",
+    "description": "A community food shelf run by the Town of West Rutland, serving West Rutland and Ira residents. Open the second and fourth Saturdays of each month; emergencies considered at other times.",
+    "address": "35 Marble Street, West Rutland, VT 05777",
+    "phone": "(802) 438-2204",
+    "url": "https://www.findhelp.org/town-of-west-rutland--west-rutland-vt--west-rutland-food-shelf-/4789286505414656",
+    "categorySlug": "food",
+    "zipCode": "05777"
+  },
+  {
+    "name": "West Rutland Food Shelf",
+    "description": "A community food shelf serving West Rutland and Ira residents, located in the basement of the Christian Science building next to Town Hall. Open the second and fourth Saturdays each month.",
+    "address": "71 Marble Street, West Rutland, VT 05777",
+    "phone": "(802) 282-5374",
+    "url": "https://www.westrutlandvt.org/food-shelf-information/",
+    "categorySlug": "food",
+    "zipCode": "05777"
+  },
+  {
+    "name": "Capstone Community Action Food Shelf – Barre",
+    "description": "Full-service food shelf providing staples, canned goods, dairy, eggs, meat, and fresh produce to Washington and Orange County residents including East Montpelier. Open Monday, Wednesday, Friday 9 am–noon and 1–3 pm.",
+    "address": "20 Gable Place, Barre, VT 05641",
+    "phone": "(802) 479-1053",
+    "url": "https://capstonevt.org/food-shelf",
+    "categorySlug": "food",
+    "zipCode": "05641"
+  },
+  {
+    "name": "Community Emergency Relief Volunteers (CERV) Food Pantry",
+    "description": "A volunteer-run food pantry in Northfield Falls serving Northfield, Roxbury, Riverton, Williamstown, and surrounding towns. Open Monday evenings and Saturday mornings.",
+    "address": "31 Dog River Drive, Northfield Falls, VT 05663",
+    "phone": "(802) 485-4293",
+    "url": "https://www.northfieldcerv.com/",
+    "categorySlug": "food",
+    "zipCode": "05663"
+  },
+  {
+    "name": "Downstreet Housing & Community Development",
+    "description": "Nonprofit affordable housing developer and community development organization serving Lamoille, Washington, and Orange counties with rental housing, homebuyer assistance, home repair loans, and foreclosure counseling.",
+    "address": "22 Keith Avenue Suite 100, Barre, VT 05641",
+    "phone": "(802) 476-4493",
+    "url": "https://downstreet.org/",
+    "categorySlug": "housing",
+    "zipCode": "05641"
+  },
+  {
+    "name": "Duxbury Elf's Shelf",
+    "description": "A neighborhood food pantry in the basement of Green Mountain Community Alliance Church, providing free groceries to Duxbury-area residents on a weekly basis.",
+    "address": "4987 VT Route 100, Duxbury, VT 05676",
+    "phone": "(802) 371-9906",
+    "url": "https://www.foodpantries.org/li/duxbury_elfs_shelf_05676",
+    "categorySlug": "food",
+    "zipCode": "05676"
+  },
+  {
+    "name": "Elevate Youth Services",
+    "description": "A nonprofit serving Washington County youth for over 50 years, providing emergency shelter for homeless youth, substance use treatment, counseling, family therapy, housing navigation, rapid rehousing, and education and employment support.",
+    "address": "652 Granger Rd, Suite 2, Barre, VT 05641",
+    "phone": "(802) 229-9151",
+    "url": "https://www.elevateyouthvt.org/",
+    "categorySlug": "housing",
+    "zipCode": "05641"
+  },
+  {
+    "name": "ENOUGH Ministries – Food Shelf & Meals",
+    "description": "A faith-based ministry in Barre offering a 24/7 food shelf with take-out meals and cooking ingredients, serving anyone who needs food assistance regardless of circumstance.",
+    "address": "24 Washington Street, Barre, VT 05641",
+    "phone": "(802) 479-2872",
+    "url": "https://enough-ministries.org/",
+    "categorySlug": "food",
+    "zipCode": "05641"
+  },
+  {
+    "name": "ENOUGH Ministries Food Shelf",
+    "description": "A church-run food shelf in Barre offering free take-out meals and cooking ingredients to anyone in need, accessible from a shed at the rear of the church building with extended morning hours.",
+    "address": "24 Washington Street, Barre, VT 05641",
+    "phone": "(802) 479-2872",
+    "url": "https://www.freefood.org/l/vt_barre_enough-ministries",
+    "categorySlug": "food",
+    "zipCode": "05641"
+  },
+  {
+    "name": "Good Samaritan Haven – Seminary Street Shelter",
+    "description": "An emergency shelter providing dormitory-style accommodations for up to 17 individuals, offering food, clothing, case management, employment support, and pathways to stable housing.",
+    "address": "105 N. Seminary Street, Barre, VT 05641",
+    "phone": "(802) 479-2294",
+    "url": "https://www.goodsamaritanhaven.org/programs/emergency-shelter-program/",
+    "categorySlug": "housing",
+    "zipCode": "05641"
+  },
+  {
+    "name": "Hedding United Methodist Church – Bread of Life Food Shelf",
+    "description": "A church-based food pantry serving residents of Barre, Berlin, Graniteville, Websterville, and Williamstown, open Wednesday through Friday afternoons with client visits permitted once per month.",
+    "address": "40 Washington Street, Barre, VT 05641",
+    "phone": "(802) 476-8156",
+    "url": "https://heddingchurch.org/",
+    "categorySlug": "food",
+    "zipCode": "05641"
+  },
+  {
+    "name": "Just Basics – Montpelier Food Pantry",
+    "description": "A community food pantry operating on a neighbors-helping-neighbors model, providing free groceries to people experiencing food insecurity in Montpelier and surrounding Washington County towns.",
+    "address": "79 Barre Street, Montpelier, VT 05602",
+    "phone": "(802) 917-8164",
+    "url": "https://www.justbasicsvt.org/",
+    "categorySlug": "food",
+    "zipCode": "05602"
+  },
+  {
+    "name": "Mad River Valley Community Pantry",
+    "description": "A community food pantry operated by the Mad River Valley Interfaith Council, serving Warren, Waitsfield, Fayston, and Moretown residents. Open Tuesday, Wednesday, and Saturday.",
+    "address": "5308 Main Street, Waitsfield, VT 05673",
+    "phone": "(802) 496-8853",
+    "url": "https://www.mrv-ic.org/",
+    "categorySlug": "food",
+    "zipCode": "05673"
+  },
+  {
+    "name": "Mad River Valley Housing Coalition",
+    "description": "A nonprofit dedicated to creating and preserving affordable housing options in the Mad River Valley, offering housing resources, land acquisition programs, and connections to housing assistance for area residents.",
+    "address": "PO Box 822, Waitsfield, VT 05673",
+    "phone": "(802) 496-7173",
+    "url": "https://mrvhousing.weebly.com/",
+    "categorySlug": "housing",
+    "zipCode": "05673"
+  },
+  {
+    "name": "Old Brick Church Food Shelf",
+    "description": "A community food shelf serving residents of East Montpelier and Calais, open the 2nd and 4th Tuesdays of the month from 2:00–5:00 pm at 60 Church Street.",
+    "address": "60 Church St, East Montpelier, VT 05651",
+    "phone": "(802) 223-1232",
+    "url": "https://oldbrickchurch.com/index.php/food-shelf/",
+    "categorySlug": "food",
+    "zipCode": "05651"
+  },
+  {
+    "name": "Old Brick Church Food Shelf",
+    "description": "Food pantry serving residents of East Montpelier and Calais, distributing on the 2nd and 4th Tuesdays of each month from 2–5 pm.",
+    "address": "60 Church Street, East Montpelier, VT 05651",
+    "phone": "(802) 223-1232",
+    "url": "http://www.oldbrickchurch.com/minister.html",
+    "categorySlug": "food",
+    "zipCode": "05651"
+  },
+  {
+    "name": "Roxbury Union Congregational Church Food Shelf",
+    "description": "A food shelf serving Roxbury residents, open the 1st and 3rd Wednesdays of the month from 12 noon–1:00 pm, with emergency appointments available.",
+    "address": "1483 Roxbury Road, Roxbury, VT 05669",
+    "phone": "(802) 485-7779",
+    "url": "https://vermontfoodbanks.org/food-bank/roxbury-union-congregational-church/",
+    "categorySlug": "food",
+    "zipCode": "05669"
+  },
+  {
+    "name": "Salvation Army Barre Corps – Food Pantry",
+    "description": "A choice-model food pantry operated by the Salvation Army providing free groceries to those in need in the Barre area. Open Tuesday, Thursday, and Friday.",
+    "address": "25 Keith Avenue, Barre, VT 05641",
+    "phone": "(802) 476-5301",
+    "url": "https://easternusa.salvationarmy.org/northern-new-england/barre/alleviate-hunger/",
+    "categorySlug": "food",
+    "zipCode": "05641"
+  },
+  {
+    "name": "Salvation Army Barre Corps – Food Shelf",
+    "description": "The Salvation Army's Barre location offers a food shelf along with emergency financial assistance, utility help, and other social services to residents of the greater Barre and Washington County area.",
+    "address": "25 Keith Avenue, Barre, VT 05641",
+    "phone": "(802) 476-5301",
+    "url": "https://www.salvationarmyusa.org/vt/barre/",
+    "categorySlug": "food",
+    "zipCode": "05641"
+  },
+  {
+    "name": "Waterbury Common Market (Waterbury Area Food Shelf)",
+    "description": "A free community food shelf providing groceries at no cost to residents of Waterbury, Waterbury Center, Duxbury, Bolton, Middlesex, Moretown, and Stowe. Open Monday, Wednesday, and Friday.",
+    "address": "57 South Main Street, Waterbury, VT 05676",
+    "phone": "(802) 244-1561",
+    "url": "https://waterburycast.org/waterbury-area-food-shelf/",
+    "categorySlug": "food",
+    "zipCode": "05676"
+  },
+  {
+    "name": "Websterville Baptist Church Food Pantry",
+    "description": "A church-run food pantry partnering with the Vermont Foodbank to assist low-income, unemployed, and working-poor residents of Websterville and surrounding Barre-area communities.",
+    "address": "143 Church Hill Road, Websterville, VT 05678",
+    "phone": "(802) 479-0141",
+    "url": "https://websterville.org/",
+    "categorySlug": "food",
+    "zipCode": "05678"
+  },
+  {
+    "name": "Woodbury/Calais Food Shelf",
+    "description": "A community food shelf serving Woodbury, Calais, Marshfield, and Cabot residents. Distributed on the third Saturday and the Wednesday following the third Saturday each month.",
+    "address": "49 Valley Lake Road, Woodbury, VT 05681",
+    "phone": "(802) 472-6292",
+    "url": "https://woodburyvt.org/food-shelf/",
+    "categorySlug": "food",
+    "zipCode": "05681"
+  },
+  {
+    "name": "Worcester Community Kitchen and Food Shelf",
+    "description": "Provides emergency food services for Worcester, Calais, Elmore, Middlesex, and Woodbury, with a weekly community lunch, food shelf, and produce porch offering fresh vegetables and baked goods.",
+    "address": "Route 12 and Calais Road, Worcester Town Hall, Worcester, VT 05682",
+    "phone": "(802) 223-8116",
+    "url": "https://worcestervt.org/wp/event/community-lunch-food-shelf",
+    "categorySlug": "food",
+    "zipCode": "05682"
+  },
+  {
+    "name": "Agape Christian Fellowship Food Pantry",
+    "description": "Weekly Thursday evening food pantry distributing boxes of groceries to families in the Brattleboro area, operating as an outreach ministry of Agape Christian Fellowship.",
+    "address": "30 Canal Street, Brattleboro, VT 05301",
+    "phone": "(802) 257-4069",
+    "url": "https://www.acfellowship.net/",
+    "categorySlug": "food",
+    "zipCode": "05301"
+  },
+  {
+    "name": "Brattleboro Area Affordable Housing (BAAH)",
+    "description": "Non-profit serving Windham County since 1995, offering home improvement loans, mobile home repair assistance, and rental housing improvement programs to low-income homeowners and renters.",
+    "address": "P.O. Box 1284, Brattleboro, VT 05301",
+    "phone": "(802) 246-2224",
+    "url": "https://baahvermont.org/",
+    "categorySlug": "housing",
+    "zipCode": "05301"
+  },
+  {
+    "name": "Brattleboro Housing Authority",
+    "description": "Local housing authority managing public housing and Housing Choice Voucher (Section 8) rental assistance programs for low-income residents in Brattleboro and Windham County.",
+    "address": "224 Melrose Street, Brattleboro, VT 05301",
+    "phone": "(802) 254-6071",
+    "url": "https://www.brattleborohousing.org/",
+    "categorySlug": "housing",
+    "zipCode": "05301"
+  },
+  {
+    "name": "Deerfield Valley Food Pantry",
+    "description": "Community food pantry serving Dover, Halifax, Marlboro, Readsboro, Searsburg, Whitingham, and Wilmington with free groceries distributed monthly. Open the Thursday before and the third Saturday of each month; no one is turned away.",
+    "address": "7 Church Street, Wilmington, VT 05363",
+    "phone": "(802) 464-0148",
+    "url": "https://www.deerfieldvalleyfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "05363"
+  },
+  {
+    "name": "Grafton Community Church Food Shelf",
+    "description": "Local food pantry operated by the Grafton Community Church, providing shelf-stable foods, eggs, cheese, meats, and Vermont Foodbank produce. Available most mornings; call ahead for access.",
+    "address": "55 Main Street, Grafton, VT 05146",
+    "phone": "(802) 843-2346",
+    "url": "https://www.foodpantries.org/li/vt_05146-0158_grafton-community-church-food-shelf",
+    "categorySlug": "food",
+    "zipCode": "05146"
+  },
+  {
+    "name": "Grafton Community Church Food Shelf",
+    "description": "Church-hosted food shelf in Grafton serving the local community most weekday mornings, providing free groceries to those in need in southern Windsor County and northern Windham County.",
+    "address": "55 Main Street, Grafton, VT 05146",
+    "phone": "(802) 843-2346",
+    "url": "https://www.graftoncommunitychurch.org/",
+    "categorySlug": "food",
+    "zipCode": "05146"
+  },
+  {
+    "name": "Groundworks Collaborative - Foodworks",
+    "description": "The region's most heavily utilized food shelf program, providing free groceries including meat, produce, dairy, and shelf-stable foods to anyone experiencing food insecurity in the greater Brattleboro area. Offers delivery service for those unable to visit in person.",
+    "address": "141 Canal Street, Brattleboro, VT 05301",
+    "phone": "(802) 490-2412",
+    "url": "https://groundworksvt.org/programs/foodworks/",
+    "categorySlug": "food",
+    "zipCode": "05301"
+  },
+  {
+    "name": "Groundworks Collaborative - Foodworks Food Pantry",
+    "description": "Food pantry operated by Groundworks Collaborative providing supplemental food including meat, produce, dairy, shelf-stable foods, household supplies, diapers, and pet food to Brattleboro area residents. Monthly home delivery available.",
+    "address": "141 Canal Street, Brattleboro, VT 05301",
+    "phone": "(802) 490-2412",
+    "url": "https://groundworksvt.org/get-help/",
+    "categorySlug": "food",
+    "zipCode": "05301"
+  },
+  {
+    "name": "Loaves and Fishes Community Kitchen",
+    "description": "Free community meal program sponsored by Centre Congregational Church and St. Michaels Episcopal Church, serving hot lunches to anyone who is hungry on Tuesdays and Fridays. Has operated in Brattleboro since 1984.",
+    "address": "193 Main Street, Brattleboro, VT 05301",
+    "phone": "(802) 254-4730",
+    "url": "https://projectfeedthethousands.org/portfolio_page/loaves-fishes-community-kitchen/",
+    "categorySlug": "food",
+    "zipCode": "05301"
+  },
+  {
+    "name": "Our Place Community Food Center",
+    "description": "Offers free community meals, a food pantry, monthly senior food delivery, and social service referrals in Bellows Falls, serving Rockingham, Saxtons River, Westminster, and surrounding communities.",
+    "address": "4 Island Street, Bellows Falls, VT 05101",
+    "phone": "(802) 463-2217",
+    "url": "https://www.ourplacevermont.org/",
+    "categorySlug": "food",
+    "zipCode": "05101"
+  },
+  {
+    "name": "Putney Foodshelf",
+    "description": "Community food shelf at the Putney Community Center serving Putney, Westminster, and Dummerston, open Friday afternoons and Saturday mornings. No proof of income required.",
+    "address": "10 Christian Square, Putney, VT 05346",
+    "phone": "(802) 387-8551",
+    "url": "https://www.putneyfoodshelf.org/",
+    "categorySlug": "food",
+    "zipCode": "05346"
+  },
+  {
+    "name": "SEVCA - Bellows Falls Office",
+    "description": "Southeastern Vermont Community Action provides family services, housing assistance, heat and utility help, and food assistance to residents of Windham and Windsor counties.",
+    "address": "44 School Street Ext., Bellows Falls, VT 05101",
+    "phone": "(802) 722-4575",
+    "url": "https://sevca.org/",
+    "categorySlug": "community",
+    "zipCode": "05101"
+  },
+  {
+    "name": "SEVCA - Brattleboro Office",
+    "description": "Southeastern Vermont Community Action office in Brattleboro providing family services, housing assistance, heat and utility help, and food assistance to Windham County residents.",
+    "address": "15 Grove Street, Brattleboro, VT 05301",
+    "phone": "(802) 722-4575",
+    "url": "https://sevca.org/locations",
+    "categorySlug": "community",
+    "zipCode": "05301"
+  },
+  {
+    "name": "SEVCA Heat & Utilities Assistance",
+    "description": "Provides emergency fuel assistance, home heating help, and utility bill assistance to low-income households in Windsor and Windham counties. Also offers the Weatherization Assistance Program providing free home energy efficiency improvements to eligible homeowners and renters.",
+    "address": "91 Buck Drive, Westminster, VT 05158",
+    "phone": "800-464-9951",
+    "url": "https://sevca.org/heat-and-utilities/",
+    "categorySlug": "utilities",
+    "zipCode": "05158"
+  },
+  {
+    "name": "St. Brigid's Kitchen and Pantry",
+    "description": "Volunteer ministry providing free hot meals and grocery pantry items to individuals and families experiencing food insecurity in the Brattleboro area, open multiple days per week.",
+    "address": "38 Walnut Street, Brattleboro, VT 05301",
+    "phone": "(802) 254-6800",
+    "url": "https://stmichaelvt.com/st-brigids-kitchen",
+    "categorySlug": "food",
+    "zipCode": "05301"
+  },
+  {
+    "name": "Townshend Community Food Shelf",
+    "description": "Community food shelf serving Townshend and surrounding Windham County towns, located in the White Church on the town common. Open Monday evenings and provides food to households in need.",
+    "address": "46 Common Road, Townshend, VT 05353",
+    "phone": "(802) 365-4348",
+    "url": "https://www.foodpantries.org/ci/vt-townshend",
+    "categorySlug": "food",
+    "zipCode": "05353"
+  },
+  {
+    "name": "Townshend Community Food Shelf",
+    "description": "Volunteer-run community food shelf offering supplemental food assistance to all people in need in the Townshend area, open Monday evenings in the White Church on the Common.",
+    "address": "46 Common Road, Townshend, VT 05353",
+    "phone": "(802) 365-4348",
+    "url": "https://www.foodpantries.org/li/townshend-community-food-shelf",
+    "categorySlug": "food",
+    "zipCode": "05353"
+  },
+  {
+    "name": "Turning Point of Windham County",
+    "description": "Peer-support recovery center serving about 500 people monthly, providing recovery coaching, substance use recovery services, and connections to housing, healthcare, and social services for Windham County residents.",
+    "address": "39 Elm Street, Brattleboro, VT 05301",
+    "phone": "(802) 257-5600",
+    "url": "https://turningpointwc.org/",
+    "categorySlug": "crisis",
+    "zipCode": "05301"
+  },
+  {
+    "name": "Wardsboro Jamaica Food Shelf",
+    "description": "Monthly community food shelf serving Wardsboro, Jamaica, and surrounding rural Windham County areas, operating the last Wednesday of each month at the Methodist Church Vestry. Accepts donations at the Wardsboro Town Office and other community locations.",
+    "address": "Main Street, Wardsboro, VT 05355",
+    "phone": "(802) 874-4175",
+    "url": "https://www.foodpantries.org/ci/vt-wardsboro",
+    "categorySlug": "food",
+    "zipCode": "05355"
+  },
+  {
+    "name": "Wardsboro Jamaica Food Shelf",
+    "description": "Community food pantry serving the towns of Jamaica and Wardsboro, operating the last Wednesday of every month at the Methodist Church Vestry on Main Street.",
+    "address": "134 Main Street, Wardsboro, VT 05355",
+    "phone": "(802) 874-7234",
+    "url": "https://www.wardsborovermont.com/wardsboro-jamaica-food-shelf",
+    "categorySlug": "food",
+    "zipCode": "05355"
+  },
+  {
+    "name": "Westminster Cares",
+    "description": "Community organization in Westminster providing meals on wheels, volunteer driver transportation, healthy aging programs, and community nurse access to help residents remain independent.",
+    "address": "3534 US Route 5, Westminster, VT 05158",
+    "phone": "(802) 722-3607",
+    "url": "https://www.westminstercares.org/",
+    "categorySlug": "community",
+    "zipCode": "05158"
+  },
+  {
+    "name": "Windham & Windsor Housing Trust",
+    "description": "A nonprofit affordable housing developer strengthening communities of Southeast Vermont through the development and stewardship of permanently affordable rental housing and a shared equity homeownership program for Windsor and Windham county residents.",
+    "address": "68 Birge Street, Brattleboro, VT 05301",
+    "phone": "(802) 254-4604",
+    "url": "https://www.homemattershere.org/",
+    "categorySlug": "housing",
+    "zipCode": "05301"
+  },
+  {
+    "name": "Winston Prouty Center for Child and Family Development",
+    "description": "Provides Family Supportive Housing case management for homeless families with children across Windham County, helping families transition to and sustain stable affordable housing.",
+    "address": "209 Austine Drive, Brattleboro, VT 05301",
+    "phone": "(802) 257-7852",
+    "url": "https://winstonprouty.org/fsh/",
+    "categorySlug": "housing",
+    "zipCode": "05301"
+  },
+  {
+    "name": "Ascutney Union Church Food Cupboard",
+    "description": "A church-based food pantry serving Ascutney, Weathersfield, Amsden, Perkinsville, Greenbush, and Windsor residents. Open Saturdays 9–10 AM; also offers Meals on Wheels coordination and community meal programs.",
+    "address": "5243 Route 5, Ascutney, VT 05030",
+    "phone": "(802) 674-2484",
+    "url": "https://ascutneyunionchurch.org/",
+    "categorySlug": "food",
+    "zipCode": "05089"
+  },
+  {
+    "name": "Bethel Area Food Shelf",
+    "description": "Community food shelf located in the White Church serving Bethel, Barnard, Stockbridge, and Pittsfield residents. Offers onsite shopping and home delivery for those with mobility or transportation issues, plus personal care items when available.",
+    "address": "129 Church Street, Bethel, VT 05032",
+    "phone": "(802) 234-5513",
+    "url": "https://www.bethelvtfoodshelf.org/",
+    "categorySlug": "food",
+    "zipCode": "05032"
+  },
+  {
+    "name": "Black River Good Neighbor Services",
+    "description": "A nonprofit providing a food shelf, thrift and furniture stores, and supportive services to residents of Ludlow, Mount Holly, Plymouth, Proctorsville, and Cavendish. Food shelf open weekdays by appointment.",
+    "address": "37B Main Street, Ludlow, VT 05149",
+    "phone": "(802) 228-3663",
+    "url": "https://www.brgn.org/",
+    "categorySlug": "food",
+    "zipCode": "05149"
+  },
+  {
+    "name": "Black River Good Neighbor Services - Emergency Assistance",
+    "description": "Provides limited emergency financial aid for rent, fuel oil, propane, kerosene, or wood heating costs to qualifying low-income residents of Ludlow, Mount Holly, Plymouth, Proctorsville, and Cavendish.",
+    "address": "37B Main Street, Ludlow, VT 05149",
+    "phone": "802-228-3663",
+    "url": "https://www.brgn.org/services",
+    "categorySlug": "utilities",
+    "zipCode": "05149"
+  },
+  {
+    "name": "Bugbee Senior Center",
+    "description": "Nonprofit senior center serving older adults in Hartford, Norwich, Thetford, and North Hartland, offering weekday lunches, Meals on Wheels, transportation, fitness activities, social services, income tax preparation, and paralegal assistance.",
+    "address": "262 North Main Street, White River Junction, VT 05001",
+    "phone": "802-295-9068",
+    "url": "https://www.bugbeecenter.org/",
+    "categorySlug": "community",
+    "zipCode": "05001"
+  },
+  {
+    "name": "Chester-Andover Family Center Food Shelf",
+    "description": "Nonprofit community food shelf serving Chester and Andover residents, providing approximately one week's worth of food per visit including meat, dairy, produce, and staples. Open Thursdays 1-4pm and Fridays 10am-2pm.",
+    "address": "908 VT Route 103 South, Chester, VT 05143",
+    "phone": "802-875-3236",
+    "url": "https://www.chester-andoverfamilycenter.org/",
+    "categorySlug": "food",
+    "zipCode": "05143"
+  },
+  {
+    "name": "Chester-Andover Family Center Food Shelf",
+    "description": "Provides Chester and Andover residents with one week's worth of supplemental groceries monthly, including non-perishables, fresh produce, meat, and dairy. Offers nutrition information and referrals to additional food resources.",
+    "address": "908 VT-103, Chester, VT 05143",
+    "phone": "(802) 875-3236",
+    "url": "https://www.chester-andoverfamilycenter.org/food-shelf",
+    "categorySlug": "food",
+    "zipCode": "05143"
+  },
+  {
+    "name": "Federated Church of Rochester Food Shelf",
+    "description": "A church-operated food shelf serving Granville, Hancock, and Rochester on the last Saturday of each month. Managers respond to callers in urgent need outside of regular hours.",
+    "address": "15 North Main Street, Rochester, VT 05767",
+    "phone": "(802) 767-3012",
+    "url": "https://www.foodpantries.org/li/federated_church_of_rochester_05767",
+    "categorySlug": "food",
+    "zipCode": "05767"
+  },
+  {
+    "name": "Hartland Food Shelf at First Congregational Church",
+    "description": "Weekly food distribution providing hot breakfast, bags of groceries, health advice, and books to Hartland-area residents every Friday morning. Operated at the First Congregational Church of Hartland.",
+    "address": "10 Station Road, Hartland, VT 05048",
+    "phone": "(802) 436-2224",
+    "url": "https://hartlandfoodshelf.com/",
+    "categorySlug": "food",
+    "zipCode": "05048"
+  },
+  {
+    "name": "Perkinsville Community Church Food Pantry",
+    "description": "A church-based food pantry serving Weathersfield and nearby communities, offering supplemental food assistance to local residents. Located in Perkinsville, Vermont.",
+    "address": "35 Church Street, Perkinsville, VT 05151",
+    "phone": "(802) 263-9539",
+    "url": "https://www.facebook.com/PerkinsvilleChurch",
+    "categorySlug": "food",
+    "zipCode": "05151"
+  },
+  {
+    "name": "Reading Good Neighbor Food Shelf",
+    "description": "A community food shelf in South Reading serving Brownsville, Cavendish, Plymouth, Reading, South Reading, and Weathersfield with free food assistance. Open Mondays and Thursdays.",
+    "address": "3456 Tyson Road, South Reading, VT 05153",
+    "phone": "(802) 484-1470",
+    "url": "https://readingvt.govoffice.com/?SEC=790E700A-2924-40EE-B26E-AF79FD9542BC",
+    "categorySlug": "food",
+    "zipCode": "05153"
+  },
+  {
+    "name": "Reading-West Windsor Food Shelf",
+    "description": "Community food shelf operating since 2000 in the Old Stone Schoolhouse in South Reading, providing free food to local families. Open Mondays 2-4pm and Thursdays 4-6pm, with the first hour on Thursdays reserved for seniors.",
+    "address": "3456 Tyson Road, West Windsor, VT 05062",
+    "phone": "802-952-1068",
+    "url": "http://www.rwwfoodshelf.org/",
+    "categorySlug": "food",
+    "zipCode": "05062"
+  },
+  {
+    "name": "Reading-West Windsor Food Shelf",
+    "description": "An all-volunteer nonprofit providing nutritious food at no cost to anyone needing food assistance in Reading, West Windsor, and adjacent communities. There is no means test and no restriction on frequency of visits.",
+    "address": "3456 Tyson Road, South Reading, VT 05062",
+    "phone": "(802) 952-1068",
+    "url": "https://vermontfoodbanks.org/food-bank/the-reading-west-windsor-food-shelf/",
+    "categorySlug": "food",
+    "zipCode": "05062"
+  },
+  {
+    "name": "SEVCA – White River Junction Housing Assistance",
+    "description": "Southeastern Vermont Community Action provides housing stability services including eviction prevention, relocation assistance, and limited financial help with rent and deposits for Windsor County residents.",
+    "address": "222 Holiday Drive, Suite 21, White River Junction, VT 05001",
+    "phone": "(800) 464-9951",
+    "url": "https://sevca.org/housing-stability-services",
+    "categorySlug": "housing",
+    "zipCode": "05001"
+  },
+  {
+    "name": "Sharing & Caring Food Pantry (White River Junction UMC)",
+    "description": "24/7 outdoor community food pantry operated by White River Junction United Methodist Church, stocked with nonperishable and perishable food items, pet food, and personal care items, accessible in all weather.",
+    "address": "106 Gates Street, White River Junction, VT 05001",
+    "phone": "802-295-7091",
+    "url": "https://wrjmethodists.org/sharing-caring-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "05001"
+  },
+  {
+    "name": "Sharon Congregational Church Food Shelf",
+    "description": "Church-operated food shelf serving Sharon and a wide surrounding area including Barnard, Bethel, Chelsea, South Royalton, Strafford, and West Hartford with no-cost groceries.",
+    "address": "55 Route 132, Sharon, VT 05065",
+    "phone": "(802) 763-2007",
+    "url": "https://www.foodpantries.org/li/sharon_congregational_church_05065",
+    "categorySlug": "food",
+    "zipCode": "05065"
+  },
+  {
+    "name": "Sharon Congregational Church Food Shelf (Lighthouse Food Shelf)",
+    "description": "Community food shelf at 55 Route 132 serving Sharon and surrounding towns including Barnard, Bethel, Norwich, Pomfret, South Royalton, and West Hartford. Open Tuesdays and Thursdays 4:30-6:30pm and Saturdays 10am-noon, no appointment needed.",
+    "address": "55 Route 132, Sharon, VT 05065",
+    "phone": "802-763-2007",
+    "url": "https://www.sharonvtcongchurch.org/things-we-do/foodshelf/",
+    "categorySlug": "food",
+    "zipCode": "05065"
+  },
+  {
+    "name": "South Royalton Area Food Shelf (Red Door Church)",
+    "description": "Volunteer-run community food shelf operated by Red Door Church of South Royalton, open to residents of South Royalton and surrounding communities with weekly Thursday distributions.",
+    "address": "2995 Vermont Route 14, South Royalton, VT 05068",
+    "phone": "(802) 763-7633",
+    "url": "https://reddoorchurchofsoro.org/food-shelf/",
+    "categorySlug": "food",
+    "zipCode": "05068"
+  },
+  {
+    "name": "Springfield Family Center",
+    "description": "Charitable food service center providing food shelf access, community take-out meals Monday through Friday, and school pantry support to ensure no one in Springfield, North Springfield, and Baltimore goes hungry. Fresh produce and breads offered daily as available.",
+    "address": "130 Springfield Plaza Road, Springfield, VT 05156",
+    "phone": "(802) 885-3646",
+    "url": "https://springfieldfamilycenter.com/",
+    "categorySlug": "food",
+    "zipCode": "05156"
+  },
+  {
+    "name": "Springfield Family Center – Emergency Day Shelter",
+    "description": "Designated Vermont Emergency Day Shelter providing free showers, laundry, computer and phone access, and referrals to community resources for people at risk of or experiencing homelessness in the Springfield area.",
+    "address": "130 Springfield Plaza Road, Springfield, VT 05156",
+    "phone": "(802) 885-3646",
+    "url": "https://springfieldfamilycenter.com/services",
+    "categorySlug": "housing",
+    "zipCode": "05156"
+  },
+  {
+    "name": "Springfield Supported Housing Program",
+    "description": "A person-centered program founded in 2006 that helps individuals and families in Windsor and Northern Windham counties experiencing homelessness find permanent, affordable housing through case management, landlord liaison services, and financial assistance.",
+    "address": "56 Main Street, Suite 209B, Springfield, VT 05156",
+    "phone": "(802) 885-3034",
+    "url": "https://www.sshpvt.org/",
+    "categorySlug": "housing",
+    "zipCode": "05156"
+  },
+  {
+    "name": "Trinity Evangelical Free Church Food Shelf",
+    "description": "Community food shelf providing groceries to Windsor-area residents on Tuesdays and Thursdays from 5:30-6:30pm and Wednesdays from 10:30am-noon, closed the first week of each month.",
+    "address": "44 Main Street, Windsor, VT 05089",
+    "phone": "802-674-6781",
+    "url": "http://www.trinitywindsor.com/food-shelf",
+    "categorySlug": "food",
+    "zipCode": "05089"
+  },
+  {
+    "name": "Twin Pines Housing Trust",
+    "description": "Nonprofit community land trust developing and preserving permanently affordable rental and homeownership housing for low- and moderate-income families in northern Windsor and southeastern Orange counties.",
+    "address": "226 Holiday Drive, Suite 20, White River Junction, VT 05001",
+    "phone": "(802) 291-7000",
+    "url": "https://www.tphtrust.org/",
+    "categorySlug": "housing",
+    "zipCode": "05001"
+  },
+  {
+    "name": "Upper Valley Haven – Emergency Shelter",
+    "description": "Since 1980, provides temporary emergency shelter for homeless families and adults in the Upper Valley, including the Wilder/Hartford area. Service coordinators connect guests to housing and community resources.",
+    "address": "713 Hartford Ave, White River Junction, VT 05001",
+    "phone": "(802) 295-6500",
+    "url": "https://uppervalleyhaven.org/get-help/help-with-shelter/",
+    "categorySlug": "housing",
+    "zipCode": "05001"
+  },
+  {
+    "name": "Upper Valley Haven – Food Shelf & Shelter",
+    "description": "Provides a free community food market open to anyone in need, plus emergency shelter for adults and families experiencing homelessness in the Upper Valley region. Food shelf open Monday–Wednesday 9 am–4:30 pm, Thursday–Friday 9 am–3 pm, Sunday noon–3 pm.",
+    "address": "713 Hartford Ave, White River Junction, VT 05001",
+    "phone": "(802) 295-6500",
+    "url": "https://uppervalleyhaven.org/",
+    "categorySlug": "food",
+    "zipCode": "05001"
+  },
+  {
+    "name": "Upper Valley Haven Food Market",
+    "description": "Community food market open to anyone in need, providing a week's supply of healthy groceries including meat, dairy, and produce once a month, with unlimited access to bread and produce. Open Monday-Thursday 10am-5pm, Friday 10am-3pm.",
+    "address": "713 Hartford Avenue, White River Junction, VT 05001",
+    "phone": "802-295-6500",
+    "url": "https://uppervalleyhaven.org/get-help/help-with-food/",
+    "categorySlug": "food",
+    "zipCode": "05001"
+  },
+  {
+    "name": "Valley Bible Church Food Pantry",
+    "description": "Church-operated food pantry serving Hartford's five villages and neighboring towns of Hartland and Windsor. Distributes food twice monthly on first and third Thursdays in the afternoon and evening.",
+    "address": "851 Fairview Terrace, White River Junction, VT 05001",
+    "phone": "(802) 295-6500",
+    "url": "https://www.valleybiblechurch.org/",
+    "categorySlug": "food",
+    "zipCode": "05001"
+  },
+  {
+    "name": "Vermont Agency of Human Services - Hartford District Office",
+    "description": "State agency district office providing access to economic services, family services, and public benefits including SNAP, Medicaid, and emergency housing assistance for Windsor County residents.",
+    "address": "118 Prospect Street, Suite 400, White River Junction, VT 05001",
+    "phone": "802-295-8820",
+    "url": "https://humanservices.vermont.gov/about-us/field-services/hartford",
+    "categorySlug": "community",
+    "zipCode": "05001"
+  },
+  {
+    "name": "Weathersfield Food Shelf",
+    "description": "Community food shelf based in the historic 1879 Perkinsville School House, distributing healthy food including fresh produce and dairy to community members on the second and fourth Thursday of each month from 2-4pm.",
+    "address": "1862 Route 106, Perkinsville, VT 05151",
+    "phone": "802-674-2626",
+    "url": "https://weathersfieldfoodshelf.weebly.com/",
+    "categorySlug": "food",
+    "zipCode": "05151"
+  },
+  {
+    "name": "Weston Food Pantry",
+    "description": "A community food pantry with a mission to stock non-perishable items so that no one in Weston goes hungry, providing free supplemental food weekly to those with food insecurities.",
+    "address": "Weston, VT 05161",
+    "phone": "",
+    "url": "https://www.westonfoodpantry.com/",
+    "categorySlug": "food",
+    "zipCode": "05161"
+  },
+  {
+    "name": "Windsor Community Food Shelf at Trinity Church",
+    "description": "Community food shelf serving Windsor, Ascutney, Brownsville, Hartland, North Hartland, Reading, West Windsor, and Cornish NH residents. Open three times per week on Tuesdays, Wednesdays, and Thursdays.",
+    "address": "44 Main Street, Windsor, VT 05089",
+    "phone": "(802) 674-6781",
+    "url": "https://www.foodpantries.org/ci/vt-windsor",
+    "categorySlug": "food",
+    "zipCode": "05089"
+  },
+  {
+    "name": "Windsor Resource Center (Mt. Ascutney Hospital)",
+    "description": "One-stop community resource hub connecting Windsor residents to food and clothing assistance, safe housing support, personal care items, laundry and shower facilities, computer access, and co-located health and family support agencies. Open weekdays 8:30am-4:30pm.",
+    "address": "1 Railroad Avenue, Windsor, VT 05089",
+    "phone": "802-674-2900",
+    "url": "https://www.mtascutneyhospital.org/centers-programs/windsor-resource-center",
+    "categorySlug": "community",
+    "zipCode": "05089"
+  },
+  {
+    "name": "Woodstock Community Food Shelf",
+    "description": "Open-access food shelf providing a week's supply of groceries including meat, dairy, and produce once per month, with unlimited visits for bread, produce, and prepared foods. Serves Barnard, Bridgewater, Hartford, Hartland, Killington, Pomfret, Reading, and Woodstock.",
+    "address": "217 Maxham Meadow Way, Woodstock, VT 05091",
+    "phone": "802-457-1185",
+    "url": "http://woodstockfoodshelf.org/",
+    "categorySlug": "food",
+    "zipCode": "05091"
+  },
+  {
+    "name": "Woodstock Community Food Shelf",
+    "description": "Community food shelf providing free groceries to households in Barnard, Bridgewater, Hartford, Hartland, Killington, Pomfret, Reading, Woodstock, and other Upper Valley towns. Open three days per week including evenings and weekend morning.",
+    "address": "217 Maxham Meadow Way, Woodstock, VT 05091",
+    "phone": "(802) 457-1185",
+    "url": "https://www.foodpantries.org/li/woodstock_community_food_shelf_05091",
+    "categorySlug": "food",
+    "zipCode": "05091"
+  }
+]

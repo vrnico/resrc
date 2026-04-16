@@ -1,0 +1,875 @@
+[
+  {
+    "name": "Calvary Assembly of God Food Closet",
+    "description": "Food closet serving Dover-area residents, distributing non-perishable food items to families and individuals in need. Open Tuesday and Thursday mornings; Fridays reserved for Williams State Service Center referrals.",
+    "address": "1141 East Lebanon Road, Dover, DE 19901",
+    "phone": "(302) 697-7776",
+    "url": "https://www.fbd.org/get-help/community-food-pantries/",
+    "categorySlug": "food",
+    "zipCode": "19901"
+  },
+  {
+    "name": "Catholic Charities Basic Needs Program – Kent County",
+    "description": "Provides emergency food pantry (3–4 days of food), rent/mortgage/utility assistance, and financial literacy services to low-income families and individuals in crisis in Kent County.",
+    "address": "2099 S DuPont Highway, Dover, DE 19901",
+    "phone": "(302) 674-1600",
+    "url": "https://www.ccwilm.org/basic-needs/food-assistance/",
+    "categorySlug": "food",
+    "zipCode": "19901"
+  },
+  {
+    "name": "Central Delaware Habitat for Humanity",
+    "description": "Builds and rehabilitates homes in partnership with low-income Kent County residents whose income is 60% or below the area median income, offering affordable homeownership through sweat equity and below-market mortgages.",
+    "address": "2311 S DuPont Highway, Dover, DE 19901",
+    "phone": "(302) 526-2366",
+    "url": "https://centraldelawarehabitat.org/",
+    "categorySlug": "housing",
+    "zipCode": "19901"
+  },
+  {
+    "name": "Delaware State Housing Authority – Kent & Sussex County",
+    "description": "State housing authority administering Housing Choice Vouchers and public housing units for low-income individuals and families in Kent and Sussex County, including the Selbyville area.",
+    "address": "18 The Green, Dover, DE 19901",
+    "phone": "(888) 363-8088",
+    "url": "https://www.destatehousing.com/",
+    "categorySlug": "housing",
+    "zipCode": "19901"
+  },
+  {
+    "name": "Dover Community Fridge – Westside Family Healthcare",
+    "description": "24/7 community fridge stocked with fresh fruits, vegetables, dairy, meat, frozen meals, canned goods, non-perishables, hygiene products, and baby supplies. No income requirements; take what you need.",
+    "address": "1020 Forrest Avenue, Dover, DE 19904",
+    "phone": "(302) 224-6800",
+    "url": "https://www.westsidehealth.org/communityfridge/",
+    "categorySlug": "food",
+    "zipCode": "19904"
+  },
+  {
+    "name": "Dover Interfaith Mission for Housing",
+    "description": "Provides safe emergency shelter and transitional support for individuals and families experiencing homelessness in Central Delaware. Operates men's shelter and a women-and-children shelter; call 1-833-FIND-BED for intake.",
+    "address": "1156 Walker Road, Dover, DE 19904",
+    "phone": "(302) 736-3600",
+    "url": "https://www.doverinterfaith.org",
+    "categorySlug": "housing",
+    "zipCode": "19904"
+  },
+  {
+    "name": "FBC Food Pantry – First Baptist Church of Dover",
+    "description": "Community food pantry run by volunteers at First Baptist Church, distributing non-perishable food items to hundreds of families each year. Open two days per week.",
+    "address": "301 Walker Road, Dover, DE 19904",
+    "phone": "(302) 674-1980",
+    "url": "https://www.fbcdover.org/fbc-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "19904"
+  },
+  {
+    "name": "Food Bank of Delaware Mobile Pantry – Frederica Park",
+    "description": "Mobile food pantry stop serving the Frederica area, bringing fresh and non-perishable groceries directly to the community on a scheduled basis.",
+    "address": "1313 Frederica Road, Frederica, DE 19946",
+    "phone": "(302) 292-1305",
+    "url": "https://www.fbd.org/program/mobile-pantry/",
+    "categorySlug": "food",
+    "zipCode": "19946"
+  },
+  {
+    "name": "Lake Forest Church Association Food Pantry",
+    "description": "Ecumenical food pantry serving Kent County residents in the Harrington, Felton, Frederica, and Farmington areas, providing one week's worth of food per month by appointment. Open Tuesday and Thursday 9:00 AM–12:30 PM.",
+    "address": "102 Dorman Street, Harrington, DE 19952",
+    "phone": "(302) 222-8404",
+    "url": "https://sites.google.com/site/lakeforestchurchassociation/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "19952"
+  },
+  {
+    "name": "Mamie A. Warren Senior Center Food Distribution",
+    "description": "Senior center in Smyrna operating as a Food Bank of Delaware partner site, providing a Brown Bag supplemental food program and daily lunches to seniors and community members.",
+    "address": "1775 Wheatleys Pond Road, Smyrna, DE 19977",
+    "phone": "(302) 653-4078",
+    "url": "http://www.mamiewarren.org/",
+    "categorySlug": "food",
+    "zipCode": "19977"
+  },
+  {
+    "name": "NeighborGood Partners",
+    "description": "HUD-approved nonprofit offering affordable housing counseling, pre-purchase and foreclosure prevention services, financial education, and DEHAP rental housing assistance to Kent County residents.",
+    "address": "363 Saulsbury Road, Dover, DE 19904",
+    "phone": "(302) 678-9400",
+    "url": "https://www.neighborgoodpartners.org/",
+    "categorySlug": "housing",
+    "zipCode": "19904"
+  },
+  {
+    "name": "People's Place Counseling Center – Smyrna",
+    "description": "Nonprofit offering counseling, education, intervention, advocacy, and supportive services including domestic violence crisis support and emergency referrals to shelter for individuals and families in crisis.",
+    "address": "32 S Main Street, Smyrna, DE 19977",
+    "phone": "(302) 653-2341",
+    "url": "https://peoplesplace2.com/",
+    "categorySlug": "crisis",
+    "zipCode": "19977"
+  },
+  {
+    "name": "Salvation Army Dover Corps",
+    "description": "Local Salvation Army corps providing emergency food distribution, disaster relief, utility assistance, and other social services to Dover-area residents in need.",
+    "address": "611 Forest Street, Dover, DE 19904",
+    "phone": "(302) 678-9551",
+    "url": "https://easternusa.salvationarmy.org/eastern-pennsylvania/delaware-de/dover-corps/",
+    "categorySlug": "food",
+    "zipCode": "19904"
+  },
+  {
+    "name": "Samaritans of Holy Cross Food Pantry",
+    "description": "Volunteer-run food pantry serving Dover-area families in need, providing food to meet basic nutritional needs on Monday and Wednesday afternoons. Call before 10:00 a.m. to be placed on the distribution list.",
+    "address": "631 S. State Street, Dover, DE 19901",
+    "phone": "(302) 270-1259",
+    "url": "https://holycrossdover.org/social-concerns-items/7011-samaritans",
+    "categorySlug": "food",
+    "zipCode": "19901"
+  },
+  {
+    "name": "Shepherd Place Emergency Shelter",
+    "description": "Short-term emergency family shelter in Dover founded to reduce homelessness in Kent County. Provides housing, case management, and linkage to other services at no cost to residents.",
+    "address": "1362 South Governors Avenue, Dover, DE 19904",
+    "phone": "(302) 678-1909",
+    "url": "https://www.shepherdplace.org/",
+    "categorySlug": "housing",
+    "zipCode": "19904"
+  },
+  {
+    "name": "Southside Baptist Church Food Pantry",
+    "description": "Community food pantry serving Kent County residents from Southside Baptist Church in Dover.",
+    "address": "4904 South Dupont Highway, Dover, DE 19901",
+    "phone": "(302) 697-2411",
+    "url": "https://www.foodpantries.org/ci/de-dover",
+    "categorySlug": "food",
+    "zipCode": "19901"
+  },
+  {
+    "name": "St. Peter's Episcopal Church Food Pantry",
+    "description": "Parish-run food pantry in Smyrna serving community members Monday through Friday from 9:30–10:30 AM (except holidays), providing food assistance to those in need.",
+    "address": "200 S Main Street, Smyrna, DE 19977",
+    "phone": "(302) 653-8598",
+    "url": "https://stpeters-smyrna.org/with-community/",
+    "categorySlug": "food",
+    "zipCode": "19977"
+  },
+  {
+    "name": "The Pentecostals of Dover Daily Bread Pantry",
+    "description": "Free food pantry open to all Delaware residents, offering perishable and non-perishable groceries on the 1st and 3rd Wednesday of each month and every 4th Saturday. Appointment required.",
+    "address": "4462 W Denneys Road, Dover, DE 19904",
+    "phone": "(302) 566-5441",
+    "url": "https://www.poddchurch.org/pantry",
+    "categorySlug": "food",
+    "zipCode": "19904"
+  },
+  {
+    "name": "Whatcoat Social Services – People's Place",
+    "description": "Provides a 25-bed Ruth Dorsey Emergency Homeless Shelter (up to 45-day stay) for men, women, and families, plus transitional housing townhomes, food boxes, and a clothing closet.",
+    "address": "3 Vera Way, Dover, DE 19904",
+    "phone": "(302) 734-0319",
+    "url": "https://peoplesplace2.com/services/whatcoat-social-services",
+    "categorySlug": "housing",
+    "zipCode": "19904"
+  },
+  {
+    "name": "Williams State Service Center Food Closet",
+    "description": "State-operated food closet distributing emergency food to Delaware households in the Dover area, including Camden, Wyoming, Hartly, and Magnolia. Open Monday–Friday.",
+    "address": "805 River Road, Dover, DE 19901",
+    "phone": "(302) 857-5007",
+    "url": "https://gss.omb.delaware.gov/food/locations.shtml",
+    "categorySlug": "food",
+    "zipCode": "19901"
+  },
+  {
+    "name": "Amazing Grace Outreach Ministries – U.S. Food Rescue",
+    "description": "Nonprofit food rescue ministry distributing rescued food to residents in need in Bear and surrounding communities on Wednesday afternoons.",
+    "address": "580 Woods Road, Bear, DE 19701",
+    "phone": "(302) 838-2256",
+    "url": "https://delawarefoodbanks.org/food-bank/amazing-grace-us-food-rescue/",
+    "categorySlug": "food",
+    "zipCode": "19701"
+  },
+  {
+    "name": "Appoquinimink State Service Center",
+    "description": "State service center providing a walk-in food closet, emergency financial assistance, utility help, and social service referrals for New Castle County residents.",
+    "address": "122 Silver Lake Road, New Castle, DE 19720",
+    "phone": "(302) 696-3125",
+    "url": "https://delawarefoodbanks.org/food-bank/appoquinimink-state-service-center/",
+    "categorySlug": "community",
+    "zipCode": "19720"
+  },
+  {
+    "name": "atTAcK Addiction Resource Center",
+    "description": "Community resource center offering a food pantry, recovery support, housing referrals, and Narcan training for people in or seeking recovery from addiction.",
+    "address": "210 Peoples Plaza, Newark, DE 19702",
+    "phone": "(302) 365-5221",
+    "url": "https://www.attackaddiction.org/resource-center",
+    "categorySlug": "community",
+    "zipCode": "19702"
+  },
+  {
+    "name": "Blue Hen Bounty",
+    "description": "Student-run food pantry at the University of Delaware providing free food and toiletries to UD students experiencing food insecurity.",
+    "address": "276 South College Avenue, Newark, DE 19711",
+    "phone": "(302) 368-4644",
+    "url": "https://sites.google.com/view/bluehenbounty/home",
+    "categorySlug": "food",
+    "zipCode": "19711"
+  },
+  {
+    "name": "Canaan Baptist Church – Bullock Food Pantry",
+    "description": "Community food pantry in New Castle offering monthly food distribution in partnership with the Food Bank of Delaware on the third Sunday of each month.",
+    "address": "3011 New Castle Avenue, New Castle, DE 19720",
+    "phone": "(302) 354-9570",
+    "url": "https://www.canaanbcde.org/",
+    "categorySlug": "food",
+    "zipCode": "19720"
+  },
+  {
+    "name": "Claymont Community Center – Food Closet",
+    "description": "Community center food closet serving Claymont, Edgemoor, Brandywine Hundred, and surrounding areas with free groceries; photo ID and address verification required.",
+    "address": "3301 Green Street, Claymont, DE 19703",
+    "phone": "(302) 792-2757",
+    "url": "https://claymontcenter.org/food-closet/",
+    "categorySlug": "food",
+    "zipCode": "19703"
+  },
+  {
+    "name": "Delaware Health and Social Services – Claymont State Service Center",
+    "description": "State service center in Claymont providing emergency assistance, food closet, utility help, Medicaid enrollment, and other social services to New Castle County residents.",
+    "address": "3301 Green Street, Claymont, DE 19703",
+    "phone": "(302) 792-6505",
+    "url": "https://dhss.delaware.gov/dhss/main/maps/dsscmap/claymont.htm",
+    "categorySlug": "community",
+    "zipCode": "19703"
+  },
+  {
+    "name": "Delaware Regional Dream Center",
+    "description": "Nonprofit community center offering a monthly food pantry (Boxes of Hope) and other social services to Newark residents in need.",
+    "address": "310 Ruthar Drive, Newark, DE 19711",
+    "phone": "(302) 286-7406",
+    "url": "https://dreamcenterde.org/",
+    "categorySlug": "food",
+    "zipCode": "19711"
+  },
+  {
+    "name": "Delaware Volunteer Legal Services",
+    "description": "Provides free pro bono civil legal assistance to low-income Delawareans with housing issues including eviction defense, foreclosure, utility disconnection, landlord-tenant disputes, and housing subsidies.",
+    "address": "P.O. Box 7306, Wilmington, DE 19803",
+    "phone": "(302) 478-8680",
+    "url": "https://www.dvls.org/",
+    "categorySlug": "legal",
+    "zipCode": "19803"
+  },
+  {
+    "name": "Family Promise of Northern New Castle County",
+    "description": "Nonprofit ensuring families experiencing homelessness in northern New Castle County have access to shelter, case management, and resources to secure permanent housing; referrals through Housing Alliance centralized intake.",
+    "address": "Wilmington, DE 19808",
+    "phone": "(302) 998-2222",
+    "url": "https://www.familypromisede.org/",
+    "categorySlug": "housing",
+    "zipCode": "19808"
+  },
+  {
+    "name": "Floyd I. Hudson State Service Center",
+    "description": "State service center serving Greater Newark and NW New Castle County with food closet, emergency financial assistance, holiday food baskets, and utility programs.",
+    "address": "501 Ogletown Road, Newark, DE 19711",
+    "phone": "(302) 283-7500",
+    "url": "https://dhss.delaware.gov/main/maps/dsscmap/hudson/",
+    "categorySlug": "community",
+    "zipCode": "19711"
+  },
+  {
+    "name": "Food Bank of Delaware – Newark",
+    "description": "Delaware's primary food bank, distributing nutritious food to partner agencies across the state and operating a direct-service facility in Newark.",
+    "address": "14 Garfield Way, Newark, DE 19713",
+    "phone": "(302) 292-1305",
+    "url": "https://www.fbd.org/",
+    "categorySlug": "food",
+    "zipCode": "19713"
+  },
+  {
+    "name": "Friendship House – Newark Empowerment Center",
+    "description": "Daytime drop-in center for people experiencing homelessness offering emergency food, financial assistance, transportation to medical appointments, and social service referrals.",
+    "address": "69 East Main Street, Newark, DE 19711",
+    "phone": "(302) 544-0165",
+    "url": "https://www.friendshiphousede.org/",
+    "categorySlug": "crisis",
+    "zipCode": "19711"
+  },
+  {
+    "name": "Healthy Pantry Center – Food Bank of Delaware (Hockessin area)",
+    "description": "Food Bank of Delaware mobile pantry serving Hockessin-area residents with free groceries distributed on a monthly schedule.",
+    "address": "276 S College Ave, Newark, DE 19711",
+    "phone": "(610) 585-1238",
+    "url": "https://www.findhelp.org/food-bank-of-delaware--newark-de--healthy-pantry-center/5296575275073536?postal=19707",
+    "categorySlug": "food",
+    "zipCode": "19711"
+  },
+  {
+    "name": "Helping Hands Food Pantry (Lighthouse Baptist Church)",
+    "description": "Free food pantry serving residents of New Castle County, including Townsend and surrounding rural communities, with regular distribution days each week.",
+    "address": "Townsend, DE 19734",
+    "phone": "",
+    "url": "https://www.findhelp.org/lighthouse-baptist-church--newark-de--helping-hands-food-pantry/5239714393096192?postal=19734",
+    "categorySlug": "food",
+    "zipCode": "19734"
+  },
+  {
+    "name": "Hillcrest-Bellefonte United Methodist Church Food Pantry",
+    "description": "Free food pantry open Thursday mornings for individuals and families in need in the Bellefonte and north Wilmington area; call ahead to reserve a food box.",
+    "address": "400 Hillcrest Avenue, Wilmington, DE 19809",
+    "phone": "(302) 764-3145",
+    "url": "https://hb-umc.org",
+    "categorySlug": "food",
+    "zipCode": "19809"
+  },
+  {
+    "name": "Holy Rosary Church – Food Closet",
+    "description": "Parish food closet in Claymont open Monday and Thursday mornings to distribute free groceries to community members in need.",
+    "address": "3200 Philadelphia Pike, Claymont, DE 19703",
+    "phone": "(302) 798-1513",
+    "url": "https://food-banks.org/detail/holy_rosary_church_food_closet_claymont_de.html",
+    "categorySlug": "food",
+    "zipCode": "19703"
+  },
+  {
+    "name": "Homeward Bound – Emmaus House",
+    "description": "Emergency and transitional shelter for homeless families with children, offering 30-day emergency housing and 8–12 month transitional housing with case management.",
+    "address": "P.O. Box 9740, Newark, DE 19714",
+    "phone": "(302) 737-2241",
+    "url": "https://www.homewardbound-de.org",
+    "categorySlug": "housing",
+    "zipCode": "19711"
+  },
+  {
+    "name": "Hope Lutheran Church – Mobile Food Pantry",
+    "description": "Monthly mobile food pantry in New Castle distributing free food and clothing on the third Thursday of each month in partnership with Lutheran Community Services.",
+    "address": "230 Christiana Road, New Castle, DE 19720",
+    "phone": "(302) 328-7909",
+    "url": "https://www.hlcde.org/",
+    "categorySlug": "food",
+    "zipCode": "19720"
+  },
+  {
+    "name": "Housing Alliance Delaware – Centralized Intake",
+    "description": "Statewide nonprofit coordinating access to emergency shelter and housing assistance across Delaware; call or text 1-833-FIND-BED for referrals weekdays 8 AM–5 PM.",
+    "address": "100 West 10th Street, Suite 706, Wilmington, DE 19801",
+    "phone": "(833) 346-3233",
+    "url": "https://www.housingalliancede.org/centralized-intake",
+    "categorySlug": "housing",
+    "zipCode": "19801"
+  },
+  {
+    "name": "Interfaith Community Housing of Delaware",
+    "description": "One of Delaware's largest nonprofit affordable housing developers, providing homeownership counseling, foreclosure prevention, mortgage delinquency assistance, and rental housing for low-income residents.",
+    "address": "613 N. Washington Street, Wilmington, DE 19801",
+    "phone": "(302) 652-3991",
+    "url": "https://ichde.org/",
+    "categorySlug": "housing",
+    "zipCode": "19801"
+  },
+  {
+    "name": "Kingswood Community Center",
+    "description": "Community center serving Wilmington since 1946 with food assistance, financial literacy programs, early childhood education, senior services, and crisis support for low-income families.",
+    "address": "2300 Bowers Street, Wilmington, DE 19802",
+    "phone": "(302) 764-9022",
+    "url": "https://kgwcc.org/",
+    "categorySlug": "community",
+    "zipCode": "19802"
+  },
+  {
+    "name": "Latin American Community Center (LACC) Food Pantry",
+    "description": "Food Bank of Delaware partner pantry offering fresh produce, dairy, protein, and shelf-stable goods to hundreds of families monthly, with bilingual services for Spanish-speaking residents.",
+    "address": "403 North Van Buren Street, Wilmington, DE 19805",
+    "phone": "(302) 655-7338",
+    "url": "https://www.thelatincenter.org/",
+    "categorySlug": "food",
+    "zipCode": "19805"
+  },
+  {
+    "name": "Lutheran Community Services – St. Paul's Lutheran Church Food Pantry",
+    "description": "Monthly food pantry at St. Paul's Lutheran Church distributing free groceries on the third Friday of each month to income-eligible Delaware residents.",
+    "address": "701 South College Avenue, Newark, DE 19713",
+    "phone": "(302) 654-8886",
+    "url": "https://lcsde.org/service/food-pantry-services",
+    "categorySlug": "food",
+    "zipCode": "19713"
+  },
+  {
+    "name": "Lutheran Community Services (LCS) – Main Office / Food Pantry",
+    "description": "Nonprofit serving low-income New Castle County families since 1959 with emergency food, utility and housing assistance, and homelessness prevention through multiple pantry locations.",
+    "address": "2809 Baynard Boulevard, Wilmington, DE 19802",
+    "phone": "(302) 654-8886",
+    "url": "https://lcsde.org/",
+    "categorySlug": "food",
+    "zipCode": "19802"
+  },
+  {
+    "name": "Ministry of Caring – Emmanuel Dining Room West",
+    "description": "Free daily restaurant-style meals served to anyone in need — breakfast 7:30–8:30 AM and lunch 12:00–1:00 PM, seven days a week.",
+    "address": "121 N. Jackson Street, Wilmington, DE 19805",
+    "phone": "(302) 652-3228",
+    "url": "https://www.ministryofcaring.org/services/emmanuel-dining-rooms/",
+    "categorySlug": "food",
+    "zipCode": "19805"
+  },
+  {
+    "name": "Ministry of Caring – Samaritan Housing",
+    "description": "Short-term emergency shelter providing temporary housing for individuals in need, operated as part of the Ministry of Caring's network of homeless services in Wilmington.",
+    "address": "917 N. Madison Street, Wilmington, DE 19801",
+    "phone": "(302) 428-3653",
+    "url": "https://www.ministryofcaring.org/",
+    "categorySlug": "housing",
+    "zipCode": "19801"
+  },
+  {
+    "name": "Neighborhood House – Middletown",
+    "description": "Nonprofit providing a food pantry and supportive social services to low- and moderate-income residents of Southern New Castle County including Middletown, Odessa, and Townsend.",
+    "address": "219 West Green Street, Middletown, DE 19709",
+    "phone": "(302) 378-7217",
+    "url": "https://www.neighborhoodhse.org/",
+    "categorySlug": "food",
+    "zipCode": "19709"
+  },
+  {
+    "name": "New Castle County Hope Center",
+    "description": "Emergency shelter and transitional housing facility operating 24 hours a day for individuals and families experiencing homelessness in New Castle County.",
+    "address": "365 Airport Road, New Castle, DE 19720",
+    "phone": "(302) 358-4146",
+    "url": "https://ncchopecenterinc.com/",
+    "categorySlug": "housing",
+    "zipCode": "19720"
+  },
+  {
+    "name": "New Castle County Housing Authority",
+    "description": "Local housing authority administering Housing Choice Vouchers and other affordable housing programs for low-income families throughout New Castle County.",
+    "address": "2 South Linden Drive, New Castle, DE 19720",
+    "phone": "(302) 395-5675",
+    "url": "https://www.newcastlede.gov/467/Housing-Choice-Voucher-HCV-Program",
+    "categorySlug": "housing",
+    "zipCode": "19720"
+  },
+  {
+    "name": "New Knollwood Civic Association – Food Closet",
+    "description": "Neighborhood civic association food closet in Claymont open weekdays, requiring photo ID and proof of income for assistance.",
+    "address": "4 Colby Avenue, Claymont, DE 19703",
+    "phone": "(302) 793-1627",
+    "url": "https://www.foodpantries.org/ci/de-claymont",
+    "categorySlug": "food",
+    "zipCode": "19703"
+  },
+  {
+    "name": "Newark Area Welfare Committee",
+    "description": "Nonprofit providing emergency financial assistance for rent, utilities, prescriptions, and other immediate needs to Newark-area residents referred through the Hudson State Service Center.",
+    "address": "P.O. Box 951, Newark, DE 19715",
+    "phone": "",
+    "url": "https://www.newarkareawelfare.org/",
+    "categorySlug": "community",
+    "zipCode": "19711"
+  },
+  {
+    "name": "Our Daily Bread Dining Room of MOT",
+    "description": "Community food pantry and dining room serving the Middletown, Odessa, and Townsend communities with free meals and groceries weekdays.",
+    "address": "214 North Broad Street, Middletown, DE 19709",
+    "phone": "(302) 285-9540",
+    "url": "https://www.ourdailybreadmot.com/",
+    "categorySlug": "food",
+    "zipCode": "19709"
+  },
+  {
+    "name": "Rick VanStory Resource Center",
+    "description": "Peer-directed resource center for people with mental illness and/or addictions, offering food pantry, clothing closet, computer lab, mail service, and homeless outreach through PATH funding.",
+    "address": "617 Shipley Street, Wilmington, DE 19801",
+    "phone": "(302) 691-7946",
+    "url": "https://dcjustice.org/resources/rick-vanstory-resource-center-rvrc/",
+    "categorySlug": "crisis",
+    "zipCode": "19801"
+  },
+  {
+    "name": "Saint Patrick's Center",
+    "description": "Provides emergency groceries, hot breakfast, senior meal delivery, clothing, transportation, and respite for homeless individuals on Wilmington's east side.",
+    "address": "107 East 14th Street, Wilmington, DE 19801",
+    "phone": "(302) 652-6219",
+    "url": "https://stpatrickscenter.org/",
+    "categorySlug": "food",
+    "zipCode": "19801"
+  },
+  {
+    "name": "Salvation Army Wilmington – Family Services",
+    "description": "Provides a food pantry, emergency utility and rent assistance, shelter referrals, and social services for individuals and families in need across New Castle County.",
+    "address": "104 West 5th Street, Wilmington, DE 19801",
+    "phone": "(302) 472-0750",
+    "url": "https://easternusa.salvationarmy.org/eastern-pennsylvania/delaware-de/wilmington-corps/",
+    "categorySlug": "food",
+    "zipCode": "19801"
+  },
+  {
+    "name": "Society of Saint Vincent De Paul – St. Margaret of Scotland Parish",
+    "description": "Catholic charitable organization operating a food pantry for residents of Greater Newark and Northwestern New Castle County, open weekdays.",
+    "address": "2431 Frazer Road, Newark, DE 19702",
+    "phone": "(302) 834-0225",
+    "url": "https://www.foodpantries.org/li/society_of_saint_vincent_de_paul_19702",
+    "categorySlug": "food",
+    "zipCode": "19702"
+  },
+  {
+    "name": "St. Helena Parish Social Ministry",
+    "description": "Catholic parish outreach providing an emergency food closet, utility and rent assistance, Meals on Wheels delivery, and landlord/tenant support by appointment for residents of north Wilmington.",
+    "address": "602 Philadelphia Pike, Wilmington, DE 19809",
+    "phone": "(302) 764-7545",
+    "url": "https://sainthelenas.org/social-ministries-2/",
+    "categorySlug": "food",
+    "zipCode": "19809"
+  },
+  {
+    "name": "St. Philip's Lutheran Church Food Pantry",
+    "description": "Free food pantry open on the 2nd and 4th Saturdays of each month from 2:00 to 3:30 PM for residents of the Pike Creek and Milltown Road corridor.",
+    "address": "5320 Limestone Road, Wilmington, DE 19808",
+    "phone": "(302) 239-2100",
+    "url": "https://www.stphilips.us/",
+    "categorySlug": "food",
+    "zipCode": "19808"
+  },
+  {
+    "name": "Sunday Breakfast Mission",
+    "description": "More than 130-year-old Wilmington mission providing emergency shelter, community meals, food boxes, clothing, counseling, and long-term rehabilitation programs for men, women, and families.",
+    "address": "110 N. Poplar Street, Wilmington, DE 19801",
+    "phone": "(302) 652-8314",
+    "url": "https://sundaybreakfastmission.org",
+    "categorySlug": "crisis",
+    "zipCode": "19801"
+  },
+  {
+    "name": "Table of Plenty Outreach Ministry",
+    "description": "Since 2000, this volunteer-run ministry has provided free emergency food and clothing to families and individuals in the Millcreek area and along the Kirkwood Highway corridor, open Monday, Wednesday, and Friday mornings.",
+    "address": "1205 Milltown Road, Wilmington, DE 19808",
+    "phone": "(302) 994-7867",
+    "url": "https://tableofplentyde.org/",
+    "categorySlug": "food",
+    "zipCode": "19808"
+  },
+  {
+    "name": "Union United Methodist Church – Food Closet",
+    "description": "Faith-based food closet in Bear serving community members by appointment with emergency food supplies.",
+    "address": "345 School Bell Road, Bear, DE 19701",
+    "phone": "(302) 322-3118",
+    "url": "https://www.foodpantries.org/ci/de-bear/",
+    "categorySlug": "food",
+    "zipCode": "19701"
+  },
+  {
+    "name": "West End Neighborhood House",
+    "description": "Nonprofit serving Wilmington since 1883 with emergency food and financial assistance, housing counseling, security deposit loans, transitional housing for aging-out foster youth, and employment training.",
+    "address": "710 North Lincoln Street, Wilmington, DE 19805",
+    "phone": "(302) 658-4171",
+    "url": "https://westendnh.org/",
+    "categorySlug": "housing",
+    "zipCode": "19805"
+  },
+  {
+    "name": "Westside Family Healthcare – Wilmington",
+    "description": "Nonprofit federally qualified health center providing family medical care, dental, prenatal, chronic disease management, and behavioral health to underserved communities regardless of ability to pay.",
+    "address": "1802 W 4th Street, Wilmington, DE 19805",
+    "phone": "(302) 655-5822",
+    "url": "https://www.westsidehealth.org/location/wilmington/",
+    "categorySlug": "healthcare",
+    "zipCode": "19805"
+  },
+  {
+    "name": "YWCA Delaware – Home Life Management Center",
+    "description": "Provides emergency shelter, transitional housing, case management, food, clothing, safety planning, financial empowerment, and job skills training primarily for women and families experiencing domestic violence or homelessness.",
+    "address": "100 West 10th Street, Wilmington, DE 19801",
+    "phone": "(302) 658-7110",
+    "url": "https://www.ywcade.org/housing",
+    "categorySlug": "housing",
+    "zipCode": "19801"
+  },
+  {
+    "name": "Anna C. Shipley State Service Center",
+    "description": "State service center offering emergency assistance for rent, utilities, and shelter to low-income residents; also administers TANF, SNAP, and WIC programs for Seaford and surrounding Sussex County communities.",
+    "address": "350 Virginia Ave, Seaford, DE 19973",
+    "phone": "(302) 628-2000",
+    "url": "https://dhss.delaware.gov/main/maps/dsscmap/shipley/",
+    "categorySlug": "community",
+    "zipCode": "19973"
+  },
+  {
+    "name": "Bethel Tabernacle Church of God – Helping Hands Food Bank",
+    "description": "Appointment-based food bank open the first three Tuesdays of each month, serving zip codes 19945, 19930, 19967, and 19970 in southern Sussex County.",
+    "address": "34180 Omar Road, Frankford, DE 19945",
+    "phone": "(302) 539-6768",
+    "url": "https://www.foodpantries.org/li/bethel_tabernacle_church_of_god_helping_hands_food_bank_19945",
+    "categorySlug": "food",
+    "zipCode": "19930"
+  },
+  {
+    "name": "Bridgeville State Service Center",
+    "description": "State service center providing food assistance to residents of West Sussex County. Open weekdays during business hours.",
+    "address": "400 Mill Street, Bridgeville, DE 19933",
+    "phone": "(302) 721-7005",
+    "url": "https://delawarefoodbanks.org/food-bank/bridgeville-state-service-center/",
+    "categorySlug": "food",
+    "zipCode": "19933"
+  },
+  {
+    "name": "Cape Henlopen Food Basket",
+    "description": "Emergency food service providing food assistance to any individual or family within the Cape Henlopen School District boundaries in Sussex County, including Rehoboth Beach and Lewes.",
+    "address": "1140 Savannah Rd, Lewes, DE 19958",
+    "phone": "(302) 644-7727",
+    "url": "https://capehenlopenfoodbasket.org/",
+    "categorySlug": "food",
+    "zipCode": "19958"
+  },
+  {
+    "name": "Christian Storehouse",
+    "description": "Christ-centered nonprofit in Millsboro operating an emergency food pantry open Monday, Wednesday, and Friday, plus limited financial assistance for rent, utilities, fuel, and prescriptions.",
+    "address": "149 Mitchell Street, Millsboro, DE 19966",
+    "phone": "(302) 934-8151",
+    "url": "https://www.christianstorehouse.org/",
+    "categorySlug": "food",
+    "zipCode": "19966"
+  },
+  {
+    "name": "Delmarva Clergy United in Social Action Foundation",
+    "description": "Multi-service nonprofit providing a free soup kitchen Monday, Wednesday, and Friday, plus transitional housing for women and children in emergency need. Also operates a childcare center.",
+    "address": "13726 South Old State Road, Ellendale, DE 19941",
+    "phone": "(302) 422-2350",
+    "url": "http://dcusafoundation.org/",
+    "categorySlug": "crisis",
+    "zipCode": "19941"
+  },
+  {
+    "name": "Epworth UMC Food Ministry",
+    "description": "United Methodist church food pantry distributing groceries and box lunches to community members three times per week (Tuesdays, Thursdays, and Sundays) in Rehoboth Beach.",
+    "address": "19285 Holland Glade Rd, Rehoboth Beach, DE 19971",
+    "phone": "(302) 227-7743",
+    "url": "https://epworth.faith/food-ministry/",
+    "categorySlug": "food",
+    "zipCode": "19971"
+  },
+  {
+    "name": "First State Community Action Agency",
+    "description": "Community action agency offering food pantry services, housing counseling, foreclosure prevention, rental assistance, credit counseling, and comprehensive case management for low-income Sussex County residents.",
+    "address": "308 North Railroad Avenue, Georgetown, DE 19947",
+    "phone": "(302) 856-7761",
+    "url": "https://www.firststatecaa.org/",
+    "categorySlug": "housing",
+    "zipCode": "19947"
+  },
+  {
+    "name": "Food Bank of Delaware – Milford Healthy Pantry Center",
+    "description": "A mini grocery store-style food distribution center that lets families select foods suited to their household. Also operates a Community Café offering affordable meals.",
+    "address": "102 Delaware Veterans Blvd, Milford, DE 19963",
+    "phone": "(302) 422-9138",
+    "url": "https://www.fbd.org/milford-healthy-pantry-center/",
+    "categorySlug": "food",
+    "zipCode": "19963"
+  },
+  {
+    "name": "God's Glory Food Pantry",
+    "description": "Community outreach ministry of Laurel Wesleyan Church providing daily food assistance to local families in Laurel. Open seven days a week.",
+    "address": "30186 Seaford Road, Laurel, DE 19956",
+    "phone": "(302) 212-8059",
+    "url": "https://delawarefoodbanks.org/food-bank/gods-glory-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "19956"
+  },
+  {
+    "name": "House of David",
+    "description": "Emergency homeless shelter in Milford providing food, clothing, and overnight shelter to individuals without stable housing.",
+    "address": "106 South Walnut Street, Milford, DE 19963",
+    "phone": "",
+    "url": "https://www.houseofdavid.info/",
+    "categorySlug": "housing",
+    "zipCode": "19963"
+  },
+  {
+    "name": "Joseph's Storehouse Food Pantry",
+    "description": "Appointment-based emergency food pantry at Dagsboro Church of God serving residents of Dagsboro, Frankford, and Selbyville. Food distributed Tuesdays and Thursdays 1–2 PM and 5–6 PM.",
+    "address": "32224 Dupont Blvd, Dagsboro, DE 19939",
+    "phone": "(302) 732-6550",
+    "url": "https://delaware211.org/iresource/josephs-storehouse/",
+    "categorySlug": "food",
+    "zipCode": "19975"
+  },
+  {
+    "name": "Love INC of Mid-Delmarva",
+    "description": "Faith-based nonprofit meeting basic needs (food, clothing, personal care items) and providing individualized plans for self-sufficiency; runs Code Purple emergency winter shelter December 1–March 15 in Sussex County.",
+    "address": "703 E King St, Seaford, DE 19973",
+    "phone": "(302) 629-7050",
+    "url": "https://www.loveincofmiddelmarva.org/",
+    "categorySlug": "crisis",
+    "zipCode": "19973"
+  },
+  {
+    "name": "Mariners Bethel Food Pantry",
+    "description": "Church-based food pantry at Mariners Bethel Global Methodist Church providing canned goods, meat, bread, dairy, and fresh produce to Delaware residents in need. Open Thursdays 10:30–11:30 AM.",
+    "address": "81 Central Ave, Ocean View, DE 19970",
+    "phone": "(302) 539-9510",
+    "url": "https://marinersbethel.org/service/community/",
+    "categorySlug": "food",
+    "zipCode": "19970"
+  },
+  {
+    "name": "Milford Advocacy for the Homeless",
+    "description": "Community-driven nonprofit supporting individuals and families experiencing homelessness in the Milford area, offering food distributions on weekends, clothing, household items, transportation help, and advocacy for housing resources.",
+    "address": "141 Aspen Court Building 26, Milford, DE 19963",
+    "phone": "(302) 217-3106",
+    "url": "https://milfordadvocacyforthehomeless.org/",
+    "categorySlug": "housing",
+    "zipCode": "19963"
+  },
+  {
+    "name": "Milford Community Pantry",
+    "description": "Community food pantry in Milford serving Kent and Sussex County residents, open Tuesdays and Thursdays 11:00 AM–2:00 PM, providing free groceries and food assistance.",
+    "address": "20 North Church Street, Milford, DE 19963",
+    "phone": "(302) 422-8111",
+    "url": "https://www.foodpantries.org/ci/de-milford",
+    "categorySlug": "food",
+    "zipCode": "19963"
+  },
+  {
+    "name": "Milford Community Pantry",
+    "description": "Community food pantry housed in the Avenue United Methodist Church offering non-perishable food, diapers, and household supplies to those in need.",
+    "address": "20 North Church Street, Milford, DE 19963",
+    "phone": "(302) 422-8111",
+    "url": "https://avenueumc.com/volunteer-give/",
+    "categorySlug": "food",
+    "zipCode": "19963"
+  },
+  {
+    "name": "Milford State Service Center",
+    "description": "State service center offering food closet, emergency financial assistance, utility assistance, and referrals to social services for Kent County residents.",
+    "address": "13 Southwest Front Street, Milford, DE 19963",
+    "phone": "(302) 424-7233",
+    "url": "https://dhss.delaware.gov/dss/ofclocations/",
+    "categorySlug": "community",
+    "zipCode": "19963"
+  },
+  {
+    "name": "Milton Community Food Pantry",
+    "description": "Volunteer-run pantry serving Milton and surrounding zip codes including 19968. Distributions held on the 1st and 3rd Monday of each month; serves approximately 85 families per week.",
+    "address": "114 Federal St (Goshen Hall), Milton, DE 19968",
+    "phone": "(302) 278-9557",
+    "url": "https://www.miltonpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "19968"
+  },
+  {
+    "name": "Rehoboth Community Center – Emergency Assistance",
+    "description": "Provides emergency financial assistance including help with rent, utilities, and other crisis needs for low-income individuals and families in the Rehoboth Beach area.",
+    "address": "37510 Oyster House Rd, Rehoboth Beach, DE 19971",
+    "phone": "(302) 227-1340",
+    "url": "https://www.rehobothcommunitycenter.org/services/emergency-assistance",
+    "categorySlug": "crisis",
+    "zipCode": "19971"
+  },
+  {
+    "name": "Rehoboth Community Center – Food Rescue Program",
+    "description": "Nonprofit resource center rescuing surplus food from local stores and restaurants to distribute to low-income individuals and families in the Rehoboth Beach area. Open Monday–Friday 10 AM–4 PM.",
+    "address": "37510 Oyster House Rd, Rehoboth Beach, DE 19971",
+    "phone": "(302) 227-1340",
+    "url": "https://www.rehobothcommunitycenter.org/services/food-rescue",
+    "categorySlug": "food",
+    "zipCode": "19971"
+  },
+  {
+    "name": "Saint John the Apostle Food Pantry",
+    "description": "Parish-run food pantry in Milford offering free groceries to community members in need on a regular weekly schedule.",
+    "address": "506 Seabury Avenue, Milford, DE 19963",
+    "phone": "",
+    "url": "https://www.findhelp.org/food/food-pantry--milford-de",
+    "categorySlug": "food",
+    "zipCode": "19963"
+  },
+  {
+    "name": "Seaford Community Food Closet",
+    "description": "Food pantry located at St. John's United Methodist Church providing non-perishable and fresh food to community members in Seaford. Open Monday–Thursday 9 AM–3 PM and Sundays 8:30 AM–12:15 PM.",
+    "address": "300 N Pine St, Seaford, DE 19973",
+    "phone": "(302) 629-9466",
+    "url": "https://www.freefood.org/l/de_seaford_st-johns-united-methodist-church",
+    "categorySlug": "food",
+    "zipCode": "19973"
+  },
+  {
+    "name": "Shepherd's Office",
+    "description": "Grassroots nonprofit serving Georgetown's homeless population with free daily hot meals, a food pantry open 24/7, clothing, camping gear, and help with housing and job searching.",
+    "address": "408 North Bedford Street, Georgetown, DE 19947",
+    "phone": "(302) 858-8556",
+    "url": "https://www.shepherdsoffice.org/",
+    "categorySlug": "crisis",
+    "zipCode": "19947"
+  },
+  {
+    "name": "Sussex County Crisis Housing Services",
+    "description": "Nonprofit providing a 30-day emergency shelter program with daily meals, counseling, referral assistance, and housing and job search support to homeless individuals and families in Sussex County.",
+    "address": "204 East North St, Georgetown, DE 19947",
+    "phone": "(302) 856-2246",
+    "url": "https://scchsinc.org/",
+    "categorySlug": "housing",
+    "zipCode": "19947"
+  },
+  {
+    "name": "Sussex County Crisis Housing Services – Crisis House",
+    "description": "Emergency shelter for homeless men, women, and children throughout Sussex County, offering 30-day stays with meals, counseling, job assistance, and housing support in a substance-free environment.",
+    "address": "110 N. Railroad Avenue, Georgetown, DE 19947",
+    "phone": "(302) 856-2246",
+    "url": "https://scchsinc.org/crisis-house-emergency-shelter/",
+    "categorySlug": "housing",
+    "zipCode": "19947"
+  },
+  {
+    "name": "Sussex County Habitat for Humanity",
+    "description": "Nonprofit building and repairing affordable homes in Sussex County for low-income families; also offers homeownership counseling and application programs.",
+    "address": "206 Academy Street, Georgetown, DE 19947",
+    "phone": "(302) 855-1153",
+    "url": "https://www.sussexcountyhabitat.org/",
+    "categorySlug": "housing",
+    "zipCode": "19947"
+  },
+  {
+    "name": "Sussex County Habitat for Humanity ReStore",
+    "description": "Habitat for Humanity resale store in Lewes supporting affordable housing construction in Sussex County; also serves as a point of contact for housing assistance programs.",
+    "address": "18501 Stamper Drive, Lewes, DE 19958",
+    "phone": "(302) 855-1156",
+    "url": "https://www.sussexcountyhabitat.org/restore/",
+    "categorySlug": "housing",
+    "zipCode": "19958"
+  },
+  {
+    "name": "Town of Millville – Food Bank of Delaware Mobile Pantry",
+    "description": "Monthly mobile food pantry stop in Millville, a partnership between the Town of Millville and the Food Bank of Delaware. Proof of Delaware residency required to register.",
+    "address": "36404 Club House Road, Millville, DE 19967",
+    "phone": "(302) 539-0449",
+    "url": "https://millville.delaware.gov/event/mobile-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "19967"
+  },
+  {
+    "name": "UFCW Local 27 – Good Works Food Pantry",
+    "description": "Community food pantry operated by UFCW Local 27 in Selbyville, providing food assistance to local residents. Open Fridays from 10:00 AM to 6:00 PM.",
+    "address": "3 Mason Dr, Selbyville, DE 19975",
+    "phone": "(302) 934-5389",
+    "url": "https://www.ufcw27.org/",
+    "categorySlug": "food",
+    "zipCode": "19975"
+  },
+  {
+    "name": "Unique Minds Changing Lives",
+    "description": "Food pantry in Lewes open Monday through Friday, providing groceries and support services to individuals and families in the Cape area.",
+    "address": "17584 Stingey Lane, Lewes, DE 19958",
+    "phone": "(302) 943-1945",
+    "url": "https://www.homelessshelterdirectory.org/foodbanks/city/de-lewes",
+    "categorySlug": "food",
+    "zipCode": "19958"
+  },
+  {
+    "name": "What Is Your Voice Inc.",
+    "description": "Lewes-based nonprofit offering food pantry services by appointment, serving individuals and families facing food insecurity in the coastal Sussex area.",
+    "address": "17583 Shady Road, Lewes, DE 19958",
+    "phone": "(302) 467-3310",
+    "url": "https://whatisyourvoice.org/",
+    "categorySlug": "food",
+    "zipCode": "19958"
+  }
+]
