@@ -1,0 +1,1919 @@
+[
+  {
+    "name": "Othello Food Bank",
+    "description": "Provides TEFAP commodities, CSFP senior food assistance, and fresh local produce to Adams County residents. Open Monday through Wednesday and includes a senior pickup program.",
+    "address": "949 E Main St, Othello, WA 99344",
+    "phone": "(509) 488-6044",
+    "url": "https://othellofood.org/",
+    "categorySlug": "food",
+    "zipCode": "99344"
+  },
+  {
+    "name": "Ritzville Food Pantry",
+    "description": "Provides free food assistance to low-income individuals and families in Ritzville, Lind, and surrounding areas. Open Wednesdays 9am-12:30pm with no proof of income required.",
+    "address": "104 W Main Ave, Ritzville, WA 99169",
+    "phone": "(509) 659-4449",
+    "url": "https://www.ritzvillama.org/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "99169"
+  },
+  {
+    "name": "Asotin County Food Bank",
+    "description": "Emergency food bank serving Asotin County residents, open Monday through Friday 10am-3pm. Provides free groceries with no fees required.",
+    "address": "1546 Maple St, Clarkston, WA 99403",
+    "phone": "(509) 758-7085",
+    "url": "https://asotincountyfoodbank.com",
+    "categorySlug": "food",
+    "zipCode": "99403"
+  },
+  {
+    "name": "Housing Authority of Asotin County",
+    "description": "Provides public housing and Section 8 Housing Choice Vouchers to low-income households in Asotin County. Manages 220 housing vouchers and 121 public housing units.",
+    "address": "1212 Fair St, Clarkston, WA 99403",
+    "phone": "(509) 758-5751",
+    "url": "https://asotinhousing.org",
+    "categorySlug": "housing",
+    "zipCode": "99403"
+  },
+  {
+    "name": "Benton Franklin Housing Resource Center",
+    "description": "Coordinates homeless services and routes households who are homeless or at risk to the most appropriate housing provider. Open Tuesday-Thursday 8am-4pm.",
+    "address": "7102 W Okanogan Place Suite 201, Kennewick, WA 99336",
+    "phone": "(509) 737-3946",
+    "url": "https://bfcac.org/home-base/coordinated-entry-system-ces",
+    "categorySlug": "housing",
+    "zipCode": "99336"
+  },
+  {
+    "name": "Grace Clinic",
+    "description": "The Tri-Cities' only free clinic, providing free medical, dental, and mental health services to uninsured adults. Open Tuesday-Friday 8am-5pm and Saturday 8am-noon.",
+    "address": "800 W Canal Dr, Kennewick, WA 99336",
+    "phone": "(509) 735-2300",
+    "url": "https://gracecliniconline.org",
+    "categorySlug": "healthcare",
+    "zipCode": "99336"
+  },
+  {
+    "name": "Jubilee Ministries of Prosser Food Bank",
+    "description": "Nonprofit food bank providing free food, frozen items, and canned goods to Prosser School District residents. Open Tuesdays and Thursdays 10-11am.",
+    "address": "1429 Stacy Ave, Prosser, WA 99350",
+    "phone": "(509) 786-3033",
+    "url": "https://prosserjubilee.org",
+    "categorySlug": "food",
+    "zipCode": "99350"
+  },
+  {
+    "name": "Tri-Cities Food Bank - Kennewick",
+    "description": "Provides emergency food aid to families in Kennewick and surrounding Benton County communities. Open Monday-Thursday 9:30am-11:30am; clients may visit every two weeks.",
+    "address": "424 West Deschutes Ave, Kennewick, WA 99336",
+    "phone": "(509) 586-0688",
+    "url": "https://tcfoodbank.com",
+    "categorySlug": "food",
+    "zipCode": "99336"
+  },
+  {
+    "name": "Chelan-Douglas Community Action Council (CDCAC)",
+    "description": "Community action agency serving Chelan and Douglas Counties since 1965, offering energy assistance, weatherization, food distribution to 20+ sites, AmeriCorps, and 50 units of affordable housing.",
+    "address": "620 Lewis St, Wenatchee, WA 98801",
+    "phone": "(509) 662-6156",
+    "url": "https://cdcac.org",
+    "categorySlug": "community",
+    "zipCode": "98801"
+  },
+  {
+    "name": "Columbia Valley Community Health (CVCH)",
+    "description": "Nonprofit federally qualified community health center providing medical, dental, behavioral health, pharmacy, midwifery, and WIC services to all regardless of ability to pay.",
+    "address": "600 Orondo Ave Ste 1, Wenatchee, WA 98801",
+    "phone": "(509) 662-6000",
+    "url": "https://cvch.org",
+    "categorySlug": "healthcare",
+    "zipCode": "98801"
+  },
+  {
+    "name": "Lake Chelan Food Bank",
+    "description": "Provides free food including fresh produce, meat, dairy, and canned goods to individuals and families in the Lake Chelan area. Open Tuesdays and Saturdays 9-10am.",
+    "address": "417 S Bradley St, Chelan, WA 98816",
+    "phone": "(509) 368-4151",
+    "url": "https://www.lakechelanfoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "98816"
+  },
+  {
+    "name": "Salvation Army Wenatchee Food Bank",
+    "description": "Provides food bank services, meals, blankets, and emergency assistance. Food bank open Monday, Wednesday, and Friday 1-3pm; dinner served Monday-Friday.",
+    "address": "1205 S Columbia St, Wenatchee, WA 98801",
+    "phone": "(509) 662-8864",
+    "url": "https://wenatchee.salvationarmy.org",
+    "categorySlug": "food",
+    "zipCode": "98801"
+  },
+  {
+    "name": "Upper Valley MEND - Community Cupboard",
+    "description": "Shopping model-style food pantry open six days a week serving over 1,200 individuals monthly. Also provides free medical clinic, diapers, hygiene items, and emergency family assistance.",
+    "address": "219 14th St, Leavenworth, WA 98826",
+    "phone": "(509) 548-6727",
+    "url": "https://www.uvmend.org",
+    "categorySlug": "food",
+    "zipCode": "98826"
+  },
+  {
+    "name": "Wenatchee Rescue Mission",
+    "description": "Low-barrier 24/7 emergency and transitional shelter for homeless adults, providing meals, showers, laundry, and case management. Overnight shelter primarily serves men 18 and older.",
+    "address": "1450 S Wenatchee Ave, Wenatchee, WA 98801",
+    "phone": "(509) 663-4289",
+    "url": "https://wrmchange.org",
+    "categorySlug": "housing",
+    "zipCode": "98801"
+  },
+  {
+    "name": "YWCA North Central Washington",
+    "description": "Provides emergency shelter up to 90 days for women and children experiencing homelessness, with case management focused on securing permanent housing.",
+    "address": "212 First St, Wenatchee, WA 98801",
+    "phone": "(509) 662-3631",
+    "url": "https://ywcancw.org",
+    "categorySlug": "housing",
+    "zipCode": "98801"
+  },
+  {
+    "name": "Forks Community Food Bank",
+    "description": "Nonprofit food bank serving the west end of Clallam County, providing free food to individuals and families unable to purchase groceries. Open Tuesdays and Thursdays 3-5pm.",
+    "address": "181 Bogachiel Way, Forks, WA 98331",
+    "phone": "(360) 640-3281",
+    "url": "https://www.forkscfb.org",
+    "categorySlug": "food",
+    "zipCode": "98331"
+  },
+  {
+    "name": "Olympic Community Action Programs (OlyCAP)",
+    "description": "Comprehensive community action agency serving Clallam and Jefferson Counties with housing assistance, food distribution, senior meals, energy assistance, and emergency services since 1966.",
+    "address": "228 W 1st St Suite J, Port Angeles, WA 98362",
+    "phone": "",
+    "url": "https://olycap.org",
+    "categorySlug": "community",
+    "zipCode": "98362"
+  },
+  {
+    "name": "Olympic Peninsula Community Clinic",
+    "description": "Free volunteer-operated clinic providing primary medical, behavioral health, and dental care to uninsured and underinsured adults in Clallam and Jefferson Counties. Open Monday, Wednesday, and Friday 9am-2pm.",
+    "address": "819 E Georgiana St, Port Angeles, WA 98362",
+    "phone": "(360) 457-7755",
+    "url": "https://www.opcclinic.org",
+    "categorySlug": "healthcare",
+    "zipCode": "98362"
+  },
+  {
+    "name": "Port Angeles Food Bank",
+    "description": "Regional food bank and distribution center providing free food to individuals in Clallam County and supplying 13+ food pantries and shelters. Open Monday 11am-6pm, Wednesday and Friday 11am-2:30pm.",
+    "address": "402 S Valley St, Port Angeles, WA 98362",
+    "phone": "(360) 452-8568",
+    "url": "https://www.portangelesfoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "98362"
+  },
+  {
+    "name": "Sequim Food Bank",
+    "description": "Provides free supplemental food including fresh fruits, vegetables, meat, dairy, and dry goods to individuals and families on the Olympic Peninsula. Open Monday 1-4pm, Friday and Saturday 9am-noon.",
+    "address": "144 W Alder St, Sequim, WA 98382",
+    "phone": "(360) 683-1205",
+    "url": "https://www.sequimfoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "98382"
+  },
+  {
+    "name": "Serenity House of Clallam County",
+    "description": "24/7 low-barrier adult homeless shelter with 40 beds providing emergency and transitional housing services for individuals experiencing homelessness in Clallam County.",
+    "address": "2321 W 18th St, Port Angeles, WA 98363",
+    "phone": "(360) 452-7221",
+    "url": "https://serenityhouseclallam.org",
+    "categorySlug": "housing",
+    "zipCode": "98363"
+  },
+  {
+    "name": "Battle Ground Adventist Community Services",
+    "description": "Shopping-style food pantry providing approximately one week's supply of emergency food plus clothing and diapers to North and Northeast Clark County residents. Open Tuesday 1-5:30pm and Thursday 10am-4pm.",
+    "address": "11117 NE 189th St, Battle Ground, WA 98604",
+    "phone": "(360) 687-3459",
+    "url": "https://www.battlegroundfoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "98604"
+  },
+  {
+    "name": "Clark County Department of Community Services",
+    "description": "County community action program that distributes funds to nonprofit organizations providing emergency needs, essential services, and self-sufficiency programs to low-income residents of Clark County.",
+    "address": "1300 Franklin St, Vancouver, WA 98660",
+    "phone": "(564) 397-7821",
+    "url": "https://clark.wa.gov/community-services/community-action",
+    "categorySlug": "community",
+    "zipCode": "98660"
+  },
+  {
+    "name": "Clark County Food Bank",
+    "description": "Manages over 11.7 million pounds of food annually and works with 50+ nonprofit partner agencies at 200+ distribution sites to serve food-insecure neighbors throughout Clark County.",
+    "address": "6502 NE 47th Ave, Vancouver, WA 98661",
+    "phone": "(360) 693-0939",
+    "url": "https://www.clarkcountyfoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "98661"
+  },
+  {
+    "name": "Free Clinic of Southwest Washington",
+    "description": "Provides free medical, dental, vision, and pharmacy assistance to uninsured and underserved residents of Southwest Washington. Founded in 1990, open Monday-Friday by appointment.",
+    "address": "4100 Plomondon St, Vancouver, WA 98661",
+    "phone": "(360) 450-3044",
+    "url": "https://freeclinics.org",
+    "categorySlug": "healthcare",
+    "zipCode": "98661"
+  },
+  {
+    "name": "North County Community Food Bank",
+    "description": "Provides monthly food boxes and nutrition classes to low-income households in North Clark County. Open Monday-Thursday 9-11:15am and 1:30-3:15pm, Friday 9-11:15am.",
+    "address": "17 NE 3rd Ave, Battle Ground, WA 98604",
+    "phone": "(360) 687-5007",
+    "url": "https://nccfoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "98604"
+  },
+  {
+    "name": "Share Vancouver",
+    "description": "Operates four homeless shelters and provides daily free hot meals to homeless and low-income community members. Offers a full spectrum of services from emergency shelter to supportive housing.",
+    "address": "1115 W 13th St, Vancouver, WA 98660",
+    "phone": "(360) 448-2121",
+    "url": "https://sharevancouver.org",
+    "categorySlug": "housing",
+    "zipCode": "98660"
+  },
+  {
+    "name": "Blue Mountain Action Council (BMAC) - Dayton Office",
+    "description": "Community action agency serving Columbia, Garfield, and Walla Walla Counties, providing food, housing assistance, energy assistance, employment services, and emergency support.",
+    "address": "115 S 2nd St, Dayton, WA 99328",
+    "phone": "(509) 382-7690",
+    "url": "https://www.bmacww.org",
+    "categorySlug": "community",
+    "zipCode": "99328"
+  },
+  {
+    "name": "Community House on Broadway",
+    "description": "Clean and sober nonprofit homeless shelter in Longview serving the Cowlitz County homeless population, providing a safe substance-free place to stay, meals, and clothing.",
+    "address": "1105 Broadway St, Longview, WA 98632",
+    "phone": "(360) 846-0462",
+    "url": "https://www.choblv.org",
+    "categorySlug": "housing",
+    "zipCode": "98632"
+  },
+  {
+    "name": "Cowlitz Family Health Center",
+    "description": "Federally qualified health center providing primary care, dental, behavioral health, WIC, and substance use treatment in Longview and multiple Cowlitz County locations. Free clinic every Wednesday 5:30-9pm.",
+    "address": "1057 12th Ave, Longview, WA 98632",
+    "phone": "(360) 636-3892",
+    "url": "https://cowlitzfamilyhealth.org",
+    "categorySlug": "healthcare",
+    "zipCode": "98632"
+  },
+  {
+    "name": "Family Promise of Cowlitz County",
+    "description": "Provides 30-day shelter program and case management for homeless families with minor children, plus prevention assistance to help families stay out of homelessness.",
+    "address": "215 Academy St, Kelso, WA 98626",
+    "phone": "(360) 703-3131",
+    "url": "https://www.fpcowlitz.org",
+    "categorySlug": "housing",
+    "zipCode": "98626"
+  },
+  {
+    "name": "Lower Columbia Community Action Program (CAP)",
+    "description": "Community action agency serving Cowlitz County with energy assistance, housing assistance, Meals on Wheels, employment and training, senior services, and transportation programs.",
+    "address": "1526 Commerce Ave, Longview, WA 98632",
+    "phone": "(360) 425-3430",
+    "url": "https://lowercolumbiacap.org",
+    "categorySlug": "community",
+    "zipCode": "98632"
+  },
+  {
+    "name": "St. Vincent de Paul Longview",
+    "description": "Provides food, clothing, and other necessities to those in need in Longview, Kelso, and all of Cowlitz County, serving the most vulnerable community members.",
+    "address": "1222 Baltimore St, Longview, WA 98632",
+    "phone": "(360) 577-0662",
+    "url": "https://svdplongview.org",
+    "categorySlug": "food",
+    "zipCode": "98632"
+  },
+  {
+    "name": "The People's Pantry of Ferry County",
+    "description": "Provides free nutritious groceries to individuals and families in Ferry County whose income is within state guidelines. Open Sundays 1:30-3:30pm at the First Presbyterian Church.",
+    "address": "925 S Keller St, Republic, WA 99166",
+    "phone": "(509) 775-3923",
+    "url": "https://newhungercoalition.org/food-bank/the-peoples-pantry-of-ferry-county",
+    "categorySlug": "food",
+    "zipCode": "99166"
+  },
+  {
+    "name": "Benton Franklin Community Action Connections",
+    "description": "Nonprofit community action agency providing free assistance to low-income families in Benton and Franklin Counties for energy, housing, food, and emergency services. Offers 42 program contracts and connects clients with 40+ community partners.",
+    "address": "720 W Court St, Pasco, WA 99301",
+    "phone": "(509) 545-4042",
+    "url": "https://bfcac.org/",
+    "categorySlug": "community",
+    "zipCode": "99301"
+  },
+  {
+    "name": "Connell Food Bank",
+    "description": "Provides free food assistance to low-income individuals and families in Connell and Kahlotus. Open 2nd and 4th Wednesday 9am-1pm and 5-6:30pm.",
+    "address": "420 N Columbia Ave, Connell, WA 99326",
+    "phone": "(509) 234-0243",
+    "url": "https://bfcac.org/home-base/connell-food-bank",
+    "categorySlug": "food",
+    "zipCode": "99326"
+  },
+  {
+    "name": "Salvation Army Pasco",
+    "description": "Provides food bank services, social service programs, and emergency shelter assistance to individuals and families in Benton and Franklin Counties. No fees or eligibility restrictions.",
+    "address": "310 N 4th Ave, Pasco, WA 99301",
+    "phone": "(509) 547-2138",
+    "url": "https://pasco.salvationarmy.org/pasco_temple/",
+    "categorySlug": "food",
+    "zipCode": "99301"
+  },
+  {
+    "name": "Second Harvest Tri-Cities",
+    "description": "Regional food bank that collects and distributes food to food banks, mobile markets, and feeding programs across Eastern Washington. Serves as a food distribution hub for the Tri-Cities area.",
+    "address": "5825 Burlington Lp, Pasco, WA 99301",
+    "phone": "(509) 545-0787",
+    "url": "https://2-harvest.org/",
+    "categorySlug": "food",
+    "zipCode": "99301"
+  },
+  {
+    "name": "St. Vincent de Paul Pasco Food Bank",
+    "description": "Provides free food boxes and clothing/household items to residents of Franklin and Benton Counties every Wednesday 11am-4pm.",
+    "address": "215 S 6th Ave, Pasco, WA 99301",
+    "phone": "(509) 544-9315",
+    "url": "https://www.svdppasco.org",
+    "categorySlug": "food",
+    "zipCode": "99301"
+  },
+  {
+    "name": "Tri-Cities Community Health",
+    "description": "Federally qualified community health center providing medical, dental, behavioral health, pharmacy, urgent care, and WIC services to all regardless of ability to pay. Multiple locations in Pasco, Richland, and Kennewick.",
+    "address": "515 W Court St, Pasco, WA 99301",
+    "phone": "(509) 547-2204",
+    "url": "https://mytcch.org",
+    "categorySlug": "healthcare",
+    "zipCode": "99301"
+  },
+  {
+    "name": "Tri-City Union Gospel Mission",
+    "description": "The only homeless shelter in the Tri-Cities, providing emergency shelter, meals, clothing, and hygiene items. Operates separate facilities for men (162 beds) and women and children (32 beds), open 365 days a year.",
+    "address": "221 S 4th Ave, Pasco, WA 99301",
+    "phone": "(509) 547-2112",
+    "url": "https://tcugm.org",
+    "categorySlug": "housing",
+    "zipCode": "99301"
+  },
+  {
+    "name": "Community Services of Moses Lake (Moses Lake Food Bank)",
+    "description": "Drive-up food bank distributing free food Monday through Thursday to anyone in Washington State, serving as a hub for 47 food pantries across six central Washington counties.",
+    "address": "9299 Beacon Rd NE, Moses Lake, WA 98837",
+    "phone": "(509) 765-8101",
+    "url": "https://www.mlfood.org/",
+    "categorySlug": "food",
+    "zipCode": "98837"
+  },
+  {
+    "name": "HopeSource Moses Lake",
+    "description": "Community action agency providing housing programs including affordable housing, eviction prevention, emergency shelter, Housing and Essential Needs assistance, and homelessness diversion for families and individuals.",
+    "address": "1000 W Ivy Ave, Moses Lake, WA 98837",
+    "phone": "(509) 707-0179",
+    "url": "https://www.hopesource.us/moseslake",
+    "categorySlug": "housing",
+    "zipCode": "98837"
+  },
+  {
+    "name": "Housing Authority of Grant County",
+    "description": "Provides transitional housing, emergency housing, Housing and Essential Needs rent assistance, and rapid rehousing for individuals experiencing homelessness. Serves as a coordinated entry access point for Grant County.",
+    "address": "1139 Larson Blvd, Moses Lake, WA 98837",
+    "phone": "(509) 762-5541",
+    "url": "https://www.hagc.net/",
+    "categorySlug": "housing",
+    "zipCode": "98837"
+  },
+  {
+    "name": "Moses Lake Community Health Center",
+    "description": "Private nonprofit health center providing family medicine, dental, pharmacy, behavioral health, and other services for over 40 years. Offers a sliding fee scale for uninsured patients with a focus on underserved and migrant farmworkers.",
+    "address": "605 S Coolidge St, Moses Lake, WA 98837",
+    "phone": "(509) 765-0674",
+    "url": "https://www.mlchc.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "98837"
+  },
+  {
+    "name": "Soap Lake Food Bank",
+    "description": "Serves the greater Soap Lake area including Coulee City, Wilson Creek, and surrounding rural communities by distributing food to those in need within a 20-30 mile radius.",
+    "address": "325 Main Ave E, Soap Lake, WA 98851",
+    "phone": "",
+    "url": "https://www.soaplakefoodbank.com/",
+    "categorySlug": "food",
+    "zipCode": "98851"
+  },
+  {
+    "name": "Coastal Community Action Program (CCAP)",
+    "description": "Nonprofit community action agency serving low-income individuals and families in Grays Harbor and Pacific Counties with housing assistance, energy programs, job training, food programs, and transportation services.",
+    "address": "101 E Market St, Aberdeen, WA 98520",
+    "phone": "(360) 533-5100",
+    "url": "https://www.coastalcap.org/",
+    "categorySlug": "community",
+    "zipCode": "98520"
+  },
+  {
+    "name": "Coastal Harvest",
+    "description": "Regional food bank distribution center serving food banks and feeding programs across seven SW Washington counties, providing nourishment to neighbors in need since 1996.",
+    "address": "520 Tyler St, Hoquiam, WA 98550",
+    "phone": "(360) 532-6315",
+    "url": "https://coastalharvest.us/",
+    "categorySlug": "food",
+    "zipCode": "98550"
+  },
+  {
+    "name": "Hoquiam Food and Clothing Bank",
+    "description": "Provides free food and clothing to those in need in the Hoquiam area, open to anyone from anywhere. Clients may access services once per month.",
+    "address": "720 K St, Hoquiam, WA 98550",
+    "phone": "(360) 533-4909",
+    "url": "https://hoquiamfoodbank.weebly.com/",
+    "categorySlug": "food",
+    "zipCode": "98550"
+  },
+  {
+    "name": "Salvation Army Aberdeen",
+    "description": "Client-choice food bank allowing clients to select preferred food items once per week. Also provides social services, utility assistance, and emergency financial help.",
+    "address": "215 N G St, Aberdeen, WA 98520",
+    "phone": "(360) 532-8346",
+    "url": "https://aberdeen.salvationarmy.org/",
+    "categorySlug": "food",
+    "zipCode": "98520"
+  },
+  {
+    "name": "Sea Mar Community Health Centers - Aberdeen",
+    "description": "Community-based health center providing quality medical, dental, behavioral health, and chemical dependency services to diverse communities regardless of immigration status or ability to pay.",
+    "address": "1813 Sumner Ave, Aberdeen, WA 98520",
+    "phone": "(360) 538-1293",
+    "url": "https://www.seamar.org/gh-medical-aberdeen.html",
+    "categorySlug": "healthcare",
+    "zipCode": "98520"
+  },
+  {
+    "name": "Union Gospel Mission of Grays Harbor",
+    "description": "Operates a men's overnight shelter and a women and children's shelter (Friendship House) providing emergency housing, meals, clothing, showers, and case management to those experiencing homelessness.",
+    "address": "405 E Heron St, Aberdeen, WA 98520",
+    "phone": "(360) 533-1064",
+    "url": "https://ugmgraysharbor.org/",
+    "categorySlug": "housing",
+    "zipCode": "98520"
+  },
+  {
+    "name": "Good Cheer Food Bank - Coupeville",
+    "description": "Grocery store-style food bank serving Central Whidbey Island, operating like a market where visitors select food using a points system based on household size.",
+    "address": "203 N Main St, Coupeville, WA 98239",
+    "phone": "(360) 221-0130",
+    "url": "https://www.goodcheer.org/",
+    "categorySlug": "food",
+    "zipCode": "98239"
+  },
+  {
+    "name": "North Whidbey Help House",
+    "description": "Community-based nonprofit food bank chartered in 1977, serving northern Whidbey Island from Deception Pass to Greenbank with emergency and supplemental food assistance.",
+    "address": "1091 SE Hathaway St, Oak Harbor, WA 98277",
+    "phone": "(360) 675-0681",
+    "url": "http://www.northwhidbeyhelphouse.org/",
+    "categorySlug": "food",
+    "zipCode": "98277"
+  },
+  {
+    "name": "Opportunity Council - Island County",
+    "description": "Private nonprofit community action agency serving families and individuals in Island, San Juan, and Whatcom Counties with housing assistance, energy programs, emergency services, and information and referral.",
+    "address": "231 SE Barrington Ave Ste 100, Oak Harbor, WA 98277",
+    "phone": "(360) 679-6577",
+    "url": "https://www.oppco.org/",
+    "categorySlug": "community",
+    "zipCode": "98277"
+  },
+  {
+    "name": "The Haven - Whidbey Homeless Coalition",
+    "description": "Emergency housing shelter open 365 days a year serving up to 30 individuals per night for people experiencing homelessness on Whidbey Island.",
+    "address": "1241 SW Barlow St, Oak Harbor, WA 98277",
+    "phone": "(360) 900-3077",
+    "url": "https://www.whidbeyhomeless.org/",
+    "categorySlug": "housing",
+    "zipCode": "98277"
+  },
+  {
+    "name": "Jefferson County Food Bank Association - Port Townsend",
+    "description": "Provides food distribution to families, seniors, and individuals facing food insecurity through multiple county locations. The Port Townsend site offers Wednesday and Saturday hours.",
+    "address": "1925 Blaine St, Port Townsend, WA 98368",
+    "phone": "(360) 531-0275",
+    "url": "https://www.jcfba.org/",
+    "categorySlug": "food",
+    "zipCode": "98368"
+  },
+  {
+    "name": "Auburn Food Bank",
+    "description": "Volunteer-directed organization providing food, financial assistance for basic needs, emergency referrals, and homeless support services to Auburn School District residents.",
+    "address": "2804 Auburn Way N, Auburn, WA 98002",
+    "phone": "(253) 833-8925",
+    "url": "https://www.theauburnfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "98002"
+  },
+  {
+    "name": "Auburn Food Bank - Ray of Hope Day Resource Center",
+    "description": "Daily drop-in homeless resource center providing laundry, showers, food, ID assistance, work connections, and referrals to shelter and housing services for those experiencing homelessness.",
+    "address": "2806 Auburn Way N, Auburn, WA 98002",
+    "phone": "(253) 833-8925",
+    "url": "https://www.theauburnfoodbank.org/homeless",
+    "categorySlug": "housing",
+    "zipCode": "98002"
+  },
+  {
+    "name": "Byrd Barr Place Food Bank",
+    "description": "Food bank providing fresh produce, cultural staples, meat, dairy, bread, canned goods, and household/personal care items to Capitol Hill and Central District residents.",
+    "address": "722 18th Ave, Seattle, WA 98122",
+    "phone": "(206) 812-4940",
+    "url": "https://byrdbarrplace.org/programs-services/food-bank",
+    "categorySlug": "food",
+    "zipCode": "98122"
+  },
+  {
+    "name": "DESC Downtown Emergency Service Center",
+    "description": "Provides emergency shelter, permanent supportive housing, and behavioral health services to adults experiencing homelessness in Seattle; operates 5 shelters and 15 supportive housing projects.",
+    "address": "515 Third Ave, Seattle, WA 98104",
+    "phone": "(206) 464-1570",
+    "url": "https://www.desc.org/",
+    "categorySlug": "housing",
+    "zipCode": "98104"
+  },
+  {
+    "name": "FamilyWorks Wallingford Food Bank",
+    "description": "Food bank in the Wallingford/Fremont area of Seattle offering home delivery for north Seattle zip codes; part of FamilyWorks family resource center.",
+    "address": "1501 N 45th St, Seattle, WA 98103",
+    "phone": "(206) 647-1780",
+    "url": "https://www.familyworksseattle.org/",
+    "categorySlug": "food",
+    "zipCode": "98103"
+  },
+  {
+    "name": "Highline Area Food Bank",
+    "description": "Food bank dedicated to gathering and distributing food to those in need in Burien and surrounding communities.",
+    "address": "18300 4th Ave S, Burien, WA 98148",
+    "phone": "(206) 433-9900",
+    "url": "https://highlineareafoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "98148"
+  },
+  {
+    "name": "Hopelink - Bellevue Market and Service Center",
+    "description": "Grocery store-style food market serving Bellevue and surrounding Eastside communities, offering twice-monthly food shopping along with financial assistance, energy programs, and family development services.",
+    "address": "14812 Main St, Bellevue, WA 98007",
+    "phone": "(425) 943-7555",
+    "url": "https://www.hopelink.org/",
+    "categorySlug": "food",
+    "zipCode": "98007"
+  },
+  {
+    "name": "Hopelink - Kirkland/Northshore Market",
+    "description": "Grocery store-style food market where households can shop twice monthly at no cost, offering canned goods, non-perishables, produce, meat, and dairy items as available. Also provides financial and social services.",
+    "address": "11011 120th Ave NE, Kirkland, WA 98033",
+    "phone": "(425) 889-7880",
+    "url": "https://www.hopelink.org/locations/kirkland-northshore/",
+    "categorySlug": "food",
+    "zipCode": "98033"
+  },
+  {
+    "name": "Hopelink - Redmond Market and Service Center",
+    "description": "Grocery store-style food market and comprehensive service center offering food assistance, financial aid, energy assistance, English for Work classes, family development, and mobility management services.",
+    "address": "8990 154th Ave NE, Redmond, WA 98052",
+    "phone": "(425) 869-6000",
+    "url": "https://www.hopelink.org/locations/redmond-market-and-service-center/",
+    "categorySlug": "food",
+    "zipCode": "98052"
+  },
+  {
+    "name": "Hopelink Shoreline Market and Service Center",
+    "description": "Food bank and service center providing food assistance, financial assistance, energy assistance, English for work classes, family development, and mobility management; live video interpretation in 100+ languages.",
+    "address": "17837 Aurora Ave N, Shoreline, WA 98133",
+    "phone": "(206) 440-7300",
+    "url": "https://www.hopelink.org/locations/shoreline-market-and-service-center/",
+    "categorySlug": "community",
+    "zipCode": "98133"
+  },
+  {
+    "name": "Issaquah Food and Clothing Bank",
+    "description": "Provides emergency and supplemental food, clothing, and services to approximately 9,200 people in East King County annually, including home delivery for homebound residents.",
+    "address": "179 1st Ave SE, Issaquah, WA 98027",
+    "phone": "(425) 392-4123",
+    "url": "https://issaquahfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "98027"
+  },
+  {
+    "name": "Kent Food Bank and Emergency Services",
+    "description": "Nonprofit providing food, clothing, and emergency financial assistance to low-income families within the Kent School District boundaries, operating two distribution locations weekly.",
+    "address": "515 W Harrison St Ste 107, Kent, WA 98032",
+    "phone": "(253) 520-3550",
+    "url": "https://www.kentfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "98032"
+  },
+  {
+    "name": "Maple Valley Food Bank and Emergency Services",
+    "description": "Grocery store-style food bank distributing nearly one million pounds of food annually including fresh milk, eggs, and produce. Also provides bus passes, rent help, and utility assistance to Tahoma School District residents.",
+    "address": "21415 Renton Maple Valley Rd SE, Maple Valley, WA 98038",
+    "phone": "(425) 432-8633",
+    "url": "https://www.maplevalleyfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "98038"
+  },
+  {
+    "name": "Multi-Service Center (Federal Way)",
+    "description": "Comprehensive nonprofit providing food bank, housing assistance, emergency shelter, employment programs, energy assistance, clothing bank, and coordinated entry services for South King County residents.",
+    "address": "1200 S 336th St, Federal Way, WA 98003",
+    "phone": "(253) 838-6810",
+    "url": "https://mschelps.org/",
+    "categorySlug": "community",
+    "zipCode": "98003"
+  },
+  {
+    "name": "Neighborcare Health at 45th Street",
+    "description": "Community health center providing medical and dental care for all ages regardless of ability to pay; serves the Wallingford/Fremont neighborhood.",
+    "address": "1629 N 45th St, Seattle, WA 98103",
+    "phone": "(206) 548-5710",
+    "url": "https://neighborcare.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "98103"
+  },
+  {
+    "name": "Neighborcare Health at Columbia City",
+    "description": "Community health center providing primary medical care for all ages in the Columbia City neighborhood of Seattle.",
+    "address": "4400 37th Ave S, Seattle, WA 98118",
+    "phone": "(206) 461-6957",
+    "url": "https://neighborcare.org/clinics/columbia-city",
+    "categorySlug": "healthcare",
+    "zipCode": "98118"
+  },
+  {
+    "name": "Neighborcare Health at Rainier Beach",
+    "description": "Community health center providing primary medical care and dental care for all ages in southeast Seattle.",
+    "address": "9245 Rainier Ave S, Seattle, WA 98118",
+    "phone": "(206) 722-8444",
+    "url": "https://neighborcare.org/clinics/rainier-beach/",
+    "categorySlug": "healthcare",
+    "zipCode": "98118"
+  },
+  {
+    "name": "North Helpline Bitter Lake Food Bank",
+    "description": "Food bank in the Bitter Lake neighborhood offering dried and canned goods, fresh produce, dairy, protein including Halal options, no-cook bags, and homelessness prevention financial assistance.",
+    "address": "13000 Linden Ave N, Seattle, WA 98133",
+    "phone": "(206) 367-3477",
+    "url": "https://northhelpline.org/bitter-lake-food-bank",
+    "categorySlug": "food",
+    "zipCode": "98133"
+  },
+  {
+    "name": "North Helpline Lake City Food Bank",
+    "description": "Food bank serving northeast Seattle zip codes; offers self-serve food pantry, baby cupboard, diapers, pet food, no-cook bags, and financial assistance for rent and utilities.",
+    "address": "12736 33rd Ave NE, Seattle, WA 98125",
+    "phone": "(206) 367-3477",
+    "url": "https://northhelpline.org/lake-city-food-bank",
+    "categorySlug": "food",
+    "zipCode": "98125"
+  },
+  {
+    "name": "Pike Market Food Bank - Seattle",
+    "description": "Downtown Seattle food bank serving residents of zip codes 98101, 98104, and 98121, and people experiencing homelessness in the area, with free groceries and ready-to-eat meals available three days per week.",
+    "address": "1531 Western Ave, Seattle, WA 98101",
+    "phone": "(206) 626-6462",
+    "url": "https://www.pmsc-fb.org/",
+    "categorySlug": "food",
+    "zipCode": "98101"
+  },
+  {
+    "name": "Plateau Outreach Ministries / Enumclaw Food Bank",
+    "description": "Provides free food, emergency financial assistance, clothing, and case management services to low-income and unhoused residents on the Plateau including Enumclaw, Buckley, and surrounding communities.",
+    "address": "1806 Cole St, Enumclaw, WA 98022",
+    "phone": "(360) 825-8961",
+    "url": "https://www.plateauoutreach.org/",
+    "categorySlug": "food",
+    "zipCode": "98022"
+  },
+  {
+    "name": "PorchLight - Eastside Men's Shelter",
+    "description": "100-bed low-barrier men's shelter providing safe sleeping, three meals daily, showers, laundry, storage, computers, and housing case management services to men experiencing homelessness on the Eastside.",
+    "address": "13668 SE Eastgate Way, Bellevue, WA 98005",
+    "phone": "(425) 698-1295",
+    "url": "https://porchlightcares.org/",
+    "categorySlug": "housing",
+    "zipCode": "98005"
+  },
+  {
+    "name": "Queen Anne Food Bank at Sacred Heart",
+    "description": "Provides healthy food assistance including sack lunches, hot soup, and grocery programs to low-income and homeless people in Seattle; serves 130-200 people per day.",
+    "address": "232 Warren Ave N, Seattle, WA 98109",
+    "phone": "(206) 216-4102",
+    "url": "https://sacredheartseattle.org/qafb",
+    "categorySlug": "food",
+    "zipCode": "98109"
+  },
+  {
+    "name": "Queen Anne Helpline",
+    "description": "Provides financial assistance for rent and utility bills, food bags, clothing bank, linens, bus tickets, hygiene items, and referrals for residents of Queen Anne, Magnolia, and South Lake Union.",
+    "address": "311 W McGraw St, Seattle, WA 98119",
+    "phone": "(206) 282-1540",
+    "url": "https://www.queenannehelpline.org",
+    "categorySlug": "community",
+    "zipCode": "98119"
+  },
+  {
+    "name": "Rainier Valley Food Bank",
+    "description": "Primary emergency food resource in southeast Seattle serving families, seniors, disabled, and homebound individuals; low-barrier provider with no restrictions on housing status, income, zip code, or immigration status.",
+    "address": "9021 Rainier Ave S, Seattle, WA 98118",
+    "phone": "(206) 723-4105",
+    "url": "https://www.rvfb.org/",
+    "categorySlug": "food",
+    "zipCode": "98118"
+  },
+  {
+    "name": "Salvation Army William Booth Center",
+    "description": "24/7 enhanced shelter for individuals experiencing homelessness in the SoDo/CID area of Seattle; comprehensive social services.",
+    "address": "811 Maynard Ave S, Seattle, WA 98134",
+    "phone": "(206) 621-0145",
+    "url": "https://seattle.salvationarmy.org/seattle_services/william-booth-center",
+    "categorySlug": "housing",
+    "zipCode": "98134"
+  },
+  {
+    "name": "Snoqualmie Valley Food Bank",
+    "description": "Provides pre-packed food orders including meat, eggs, milk, and produce to Snoqualmie Valley residents on a pick-up basis, with options for those with dietary preferences.",
+    "address": "122 E 3rd St, North Bend, WA 98045",
+    "phone": "(425) 888-7832",
+    "url": "https://www.snoqualmievalleyfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "98045"
+  },
+  {
+    "name": "Solid Ground",
+    "description": "Provides shelter, food, advocacy, and care for people throughout Seattle and King County; serves 55,000+ King County residents annually addressing urgent food, housing, and transportation needs.",
+    "address": "1501 N 45th St, Seattle, WA 98103",
+    "phone": "(206) 694-6700",
+    "url": "https://www.solid-ground.org/",
+    "categorySlug": "housing",
+    "zipCode": "98103"
+  },
+  {
+    "name": "The Food Bank at St. Mary's",
+    "description": "Seattle's largest neighborhood food bank serving over 171,000 clients per year in the Central District; open Monday, Wednesday, and Friday.",
+    "address": "611 20th Ave S, Seattle, WA 98144",
+    "phone": "(206) 338-7215",
+    "url": "https://www.thefbsm.org/",
+    "categorySlug": "food",
+    "zipCode": "98144"
+  },
+  {
+    "name": "Tukwila Pantry",
+    "description": "Emergency food bank established in 2001 serving nearly 15,000 households in Tukwila, SeaTac, Burien, and surrounding areas in a humane and dignified way.",
+    "address": "3118 S 140th St, Tukwila, WA 98168",
+    "phone": "(206) 431-8293",
+    "url": "https://www.foodpantries.org/li/wa_98168_tukwila-pantry-food-bank",
+    "categorySlug": "food",
+    "zipCode": "98168"
+  },
+  {
+    "name": "University District Food Bank",
+    "description": "Provides weekly groceries to 2,600+ households in northeast Seattle; offers self-select pantry, baby cupboard, home delivery, social services, SNAP enrollment, and mail services for those without permanent address.",
+    "address": "5017 Roosevelt Way NE, Seattle, WA 98105",
+    "phone": "(206) 523-7060",
+    "url": "https://www.udistrictfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "98105"
+  },
+  {
+    "name": "UW Medicine Pioneer Square Clinic",
+    "description": "Primary healthcare clinic serving residents and homeless individuals ages 18+ in downtown Seattle; offers primary care, mental health services, podiatry, social services, and health education.",
+    "address": "206 3rd Ave S, Seattle, WA 98104",
+    "phone": "(206) 744-1599",
+    "url": "https://www.uwmedicine.org/locations/pioneer-square",
+    "categorySlug": "healthcare",
+    "zipCode": "98104"
+  },
+  {
+    "name": "VOA Greenwood Food Bank",
+    "description": "Volunteers of America food bank serving north Seattle zip codes 98177, 98117, 98103, and 98133; requires photo ID and proof of address.",
+    "address": "9747 Greenwood Ave N, Seattle, WA 98103",
+    "phone": "(206) 782-6731",
+    "url": "https://www.foodpantries.org/li/volunteers-of-america-greenwood-food-bank",
+    "categorySlug": "food",
+    "zipCode": "98103"
+  },
+  {
+    "name": "West Seattle Food Bank",
+    "description": "Provides food, clothing, emergency rent and utility assistance, bus tickets, and community resource connections; no zip code restriction or proof of income required.",
+    "address": "3419 SW Morgan St, Seattle, WA 98126",
+    "phone": "(206) 932-9023",
+    "url": "https://westseattlefoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "98126"
+  },
+  {
+    "name": "Woodinville Storehouse Food Bank",
+    "description": "Faith-based nonprofit food pantry operated by a coalition of churches providing high-quality fresh food including dairy, baked goods, produce, and vegetables to the Woodinville, Bothell, Kirkland, Kenmore, and Redmond communities.",
+    "address": "13209 NE 175th St, Woodinville, WA 98072",
+    "phone": "",
+    "url": "https://www.woodinvillestorehouse.org",
+    "categorySlug": "food",
+    "zipCode": "98072"
+  },
+  {
+    "name": "Central Kitsap Food Bank",
+    "description": "Food bank serving Bremerton, Silverdale/Central Kitsap, and Poulsbo/North Kitsap areas; provides nutritious food and essential supplies with dignity since 1989.",
+    "address": "3537 NW Anderson Hill Rd, Silverdale, WA 98383",
+    "phone": "(360) 692-9818",
+    "url": "https://ckfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "98383"
+  },
+  {
+    "name": "Helpline House",
+    "description": "Food bank and social services organization on Bainbridge Island providing food bank access, housing and utility support, counseling, and resource navigation for Bainbridge Island and Kitsap County neighbors.",
+    "address": "282 Knechtel Way NE, Bainbridge Island, WA 98110",
+    "phone": "(206) 842-7621",
+    "url": "https://helplinehouse.org/",
+    "categorySlug": "food",
+    "zipCode": "98110"
+  },
+  {
+    "name": "Kitsap Community Resources (KCR)",
+    "description": "Nonprofit community action agency providing housing solutions, emergency shelter, employment and training, early learning, family services, utility assistance, and veteran services throughout Kitsap County.",
+    "address": "1201 Park Ave, Bremerton, WA 98337",
+    "phone": "(360) 377-0053",
+    "url": "https://www.kcr.org/",
+    "categorySlug": "community",
+    "zipCode": "98337"
+  },
+  {
+    "name": "Kitsap Mental Health Services",
+    "description": "Private nonprofit community mental health center providing mental and behavioral health care to children, families, adults, and seniors in Kitsap County; includes crisis, inpatient, and residential treatment.",
+    "address": "5455 Almira Dr NE, Bremerton, WA 98311",
+    "phone": "(360) 373-5031",
+    "url": "https://www.kitsapmentalhealth.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "98311"
+  },
+  {
+    "name": "Kitsap Rescue Mission",
+    "description": "Emergency shelter providing year-round continuous stay accommodations and case management services for individuals experiencing homelessness in Kitsap County.",
+    "address": "4303 Kitsap Way, Bremerton, WA 98312",
+    "phone": "(360) 373-3428",
+    "url": "https://kitsaprescue.org/",
+    "categorySlug": "housing",
+    "zipCode": "98312"
+  },
+  {
+    "name": "North Kitsap Fishline",
+    "description": "Comprehensive services organization serving Kingston, Poulsbo, Suquamish, and Keyport; provides food, housing and utility assistance, showers, laundry, hygiene products, mental health therapy, transportation, and clothing.",
+    "address": "19705 Viking Ave NW, Poulsbo, WA 98370",
+    "phone": "(360) 779-5190",
+    "url": "https://fishlinehelps.org/",
+    "categorySlug": "community",
+    "zipCode": "98370"
+  },
+  {
+    "name": "South Kitsap Helpline",
+    "description": "Food bank distributing 1,000,000+ pounds of nutritious food annually including perishable/non-perishable food, toiletries, and pet food to households and those without shelter in south Kitsap.",
+    "address": "1012 Mitchell Ave, Port Orchard, WA 98366",
+    "phone": "(360) 876-4089",
+    "url": "https://skhelpline.org/",
+    "categorySlug": "food",
+    "zipCode": "98366"
+  },
+  {
+    "name": "APOYO Food Bank",
+    "description": "Food bank serving Kittitas County with culturally relevant food and building a Community Outreach Center as a safe space; open Wednesdays and Saturdays.",
+    "address": "1320 E 18th Ave, Ellensburg, WA 98926",
+    "phone": "(509) 201-1820",
+    "url": "https://apoyo-community.org/",
+    "categorySlug": "food",
+    "zipCode": "98926"
+  },
+  {
+    "name": "Community Health of Central Washington - Ellensburg",
+    "description": "Federally qualified health center providing family medicine, dental care, OB care, mental and behavioral health, WIC, senior care, opioid treatment, and pharmacy services; accepts Medicaid and most insurance.",
+    "address": "521 E Mountain View Ave, Ellensburg, WA 98926",
+    "phone": "(509) 962-1414",
+    "url": "https://www.chcw.org/chcw-ellensburg/",
+    "categorySlug": "healthcare",
+    "zipCode": "98926"
+  },
+  {
+    "name": "FISH Community Food Bank",
+    "description": "Christian nonprofit food bank serving hungry neighbors in Kittitas County for 45+ years; offers free food in a grocery-style setting with fresh, frozen, and shelf-stable options; clients may visit twice a month.",
+    "address": "1513 N B St, Ellensburg, WA 98926",
+    "phone": "(509) 925-5990",
+    "url": "https://www.foodpantries.org/li/fish-community-food-bank",
+    "categorySlug": "food",
+    "zipCode": "98926"
+  },
+  {
+    "name": "HopeSource Cle Elum Food Bank",
+    "description": "Food bank serving Cle Elum and surrounding Kittitas County communities; open Mondays and Wednesdays.",
+    "address": "110 N Pennsylvania Ave, Cle Elum, WA 98922",
+    "phone": "(509) 925-1448",
+    "url": "https://www.hopesource.us/ucfb",
+    "categorySlug": "food",
+    "zipCode": "98922"
+  },
+  {
+    "name": "WAGAP Guided Path Shelter",
+    "description": "Emergency housing shelter offering temporary stay in six-bedroom facility with private rooms and shared kitchen; case management services to help residents find permanent housing.",
+    "address": "113 Wind Ranch Rd, Bingen, WA 98605",
+    "phone": "(509) 493-4234",
+    "url": "https://www.wagap.org/emergency-housing",
+    "categorySlug": "housing",
+    "zipCode": "98605"
+  },
+  {
+    "name": "Washington Gorge Action Programs (WAGAP) - Bingen",
+    "description": "Community action agency providing food bank, emergency housing, utility assistance, domestic violence prevention, and sexual assault services for Klickitat and Skamania Counties.",
+    "address": "115 W Steuben St, Bingen, WA 98605",
+    "phone": "(509) 493-2662",
+    "url": "https://www.wagap.org/",
+    "categorySlug": "community",
+    "zipCode": "98605"
+  },
+  {
+    "name": "Washington Gorge Action Programs (WAGAP) - Goldendale",
+    "description": "Food bank and community services office for Klickitat County; provides monthly food boxes with canned goods, fresh produce, bread, and frozen meat; special senior boxes available.",
+    "address": "150 W Main St, Goldendale, WA 98620",
+    "phone": "(509) 773-6834",
+    "url": "https://www.wagap.org/food-banks-nutrition",
+    "categorySlug": "food",
+    "zipCode": "98620"
+  },
+  {
+    "name": "Cascade Community Healthcare - Centralia",
+    "description": "Nonprofit community healthcare center serving Lewis County for 50+ years; provides mental health and behavioral health services, chemical dependency treatment, and community/family services.",
+    "address": "2428 W Reynolds Ave, Centralia, WA 98531",
+    "phone": "(360) 330-9044",
+    "url": "https://cascadecommunityhealthcare.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "98531"
+  },
+  {
+    "name": "Gather Church Food Bank",
+    "description": "Food bank and clothing bank in Centralia providing food boxes twice monthly with delivery available to Lewis and Thurston County residents; also operates Eat Free Cafe.",
+    "address": "408 W Main St, Centralia, WA 98531",
+    "phone": "(360) 827-0264",
+    "url": "https://www.gatherchurch.com/resources",
+    "categorySlug": "food",
+    "zipCode": "98531"
+  },
+  {
+    "name": "Hope Alliance",
+    "description": "24-hour emergency shelter and advocacy for victims of domestic violence and their children in Lewis County; provides safe emergency shelter and 24-hour crisis telephone intervention.",
+    "address": "815 W Main St, Centralia, WA 98531",
+    "phone": "(360) 748-6601",
+    "url": "https://hopealliancelc.org/",
+    "categorySlug": "housing",
+    "zipCode": "98531"
+  },
+  {
+    "name": "Lewis County Food Bank Coalition - Centralia",
+    "description": "Food distribution location open Tuesday through Friday serving Centralia area residents.",
+    "address": "303 S Gold St, Centralia, WA 98531",
+    "phone": "(360) 492-3491",
+    "url": "https://lcfbc.net/locations",
+    "categorySlug": "food",
+    "zipCode": "98531"
+  },
+  {
+    "name": "Lewis County Food Bank Coalition - Chehalis",
+    "description": "Volunteer organization operating distribution warehouse and supporting 8 Lewis County food banks; main warehouse and distribution hub for the region.",
+    "address": "750 SW 21st St, Chehalis, WA 98532",
+    "phone": "(360) 330-1519",
+    "url": "https://lcfbc.net/",
+    "categorySlug": "food",
+    "zipCode": "98532"
+  },
+  {
+    "name": "SOMMA Food Bank",
+    "description": "Salkum-Onalaska-Mossyrock Ministerial Association food bank serving Cinebar, Ethel, Mossyrock, Onalaska, Salkum, and Silver Creek areas.",
+    "address": "144 Wilcox Rd, Salkum, WA 98582",
+    "phone": "(360) 985-7211",
+    "url": "https://www.toledowafoodbank.com/copy-of-toledo-food-bank",
+    "categorySlug": "food",
+    "zipCode": "98582"
+  },
+  {
+    "name": "The Salvation Army - Centralia Corps",
+    "description": "Provides emergency shelter, rapid re-housing, coordinated entry, community outreach, food bank, and hygiene center services for Lewis County residents.",
+    "address": "303 N Gold St, Centralia, WA 98531",
+    "phone": "(360) 736-4339",
+    "url": "https://centralia.salvationarmy.org/",
+    "categorySlug": "housing",
+    "zipCode": "98531"
+  },
+  {
+    "name": "Toledo Food Bank",
+    "description": "Emergency food bank serving residents within the Toledo school district, providing food assistance to families in Lewis County.",
+    "address": "5184 Jackson Hwy, Toledo, WA 98591",
+    "phone": "(360) 269-7001",
+    "url": "https://www.toledowafoodbank.com/",
+    "categorySlug": "food",
+    "zipCode": "98591"
+  },
+  {
+    "name": "Valley View Health Center - Centralia",
+    "description": "Community health center providing walk-in medical and dental care for all ages; accepts Medicaid and sliding scale fees; open 7 days a week.",
+    "address": "1800 Cooks Hill Rd, Centralia, WA 98531",
+    "phone": "(360) 736-3042",
+    "url": "https://vvhc.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "98531"
+  },
+  {
+    "name": "Winlock-Vader Food Bank",
+    "description": "Food pantry open to residents in the Winlock, Vader, and Ryderwood areas, distributing food multiple times per month.",
+    "address": "503 NE 1st Street, Winlock, WA 98596",
+    "phone": "",
+    "url": "https://www.winlockvaderfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "98596"
+  },
+  {
+    "name": "Community Lifeline",
+    "description": "Nonprofit providing 24/7 low-barrier emergency shelter, meals, showers, clothing, case management, job training, and resource referrals for adults experiencing homelessness.",
+    "address": "218 N 3rd Street, Shelton, WA 98584",
+    "phone": "(360) 462-4439",
+    "url": "https://www.cllshelton.org/",
+    "categorySlug": "housing",
+    "zipCode": "98584"
+  },
+  {
+    "name": "Hood Canal Food Bank",
+    "description": "Nonprofit providing nutritious food with dignity to neighbors in need in Hoodsport and the Lower Hood Canal area of Mason County.",
+    "address": "331 N Finch Creek Rd, Hoodsport, WA 98548",
+    "phone": "(360) 877-6507",
+    "url": "https://hoodcanalfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "98548"
+  },
+  {
+    "name": "North Mason Food Bank",
+    "description": "Provides temporary food assistance and basic hygiene items to low-income families in Belfair, Allyn, Grapeview, and Tahuya with a choice shopping model.",
+    "address": "24131 State Route 3, Belfair, WA 98528",
+    "phone": "(360) 275-4615",
+    "url": "https://northmasonfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "98528"
+  },
+  {
+    "name": "Saint's Pantry Food Bank",
+    "description": "Emergency food bank founded in 1981 providing food on an emergency basis to neighbors in need in Shelton and Mason County.",
+    "address": "205 W Cota Street, Shelton, WA 98584",
+    "phone": "(360) 427-8847",
+    "url": "http://www.thesaintspantry.org/",
+    "categorySlug": "food",
+    "zipCode": "98584"
+  },
+  {
+    "name": "Colville Confederated Tribes Food Distribution",
+    "description": "Tribal food bank providing Northwest Harvest foods, state surplus, and donated foods to tribal households. Bi-monthly outreach to Keller, Omak, and Inchelium.",
+    "address": "37 Lakes Ave, Nespelem, WA 99155",
+    "phone": "(509) 634-2767",
+    "url": "https://www.cct-hhs.com/food-distribution",
+    "categorySlug": "food",
+    "zipCode": "99155"
+  },
+  {
+    "name": "OCCAC Food Pantry - Omak",
+    "description": "Food pantry operated by Okanogan County Community Action Council providing free emergency food to individuals and families in the Omak area.",
+    "address": "101 West 4th Avenue, Omak, WA 98841",
+    "phone": "(509) 826-1717",
+    "url": "https://occac.com/get-help/food-programs/",
+    "categorySlug": "food",
+    "zipCode": "98841"
+  },
+  {
+    "name": "Okanogan Community Homeless Shelter",
+    "description": "Emergency winter shelter for men and women operating November through February, providing overnight crisis shelter at no charge. Guests must be sober.",
+    "address": "505 4th Avenue S, Okanogan, WA 98840",
+    "phone": "(509) 557-6374",
+    "url": "https://www.okshelter.org/",
+    "categorySlug": "housing",
+    "zipCode": "98840"
+  },
+  {
+    "name": "Okanogan County Community Action Council (OCCAC)",
+    "description": "Nonprofit combating poverty in Okanogan County since 1965, operating food pantries, emergency shelter, rental assistance, energy assistance, and other social services.",
+    "address": "P.O. Box 1067, Okanogan, WA 98840",
+    "phone": "(509) 422-4041",
+    "url": "https://occac.com/",
+    "categorySlug": "community",
+    "zipCode": "98840"
+  },
+  {
+    "name": "Room One",
+    "description": "Community-driven social services organization serving Methow Valley providing mental health services, counseling, housing referrals, and financial assistance.",
+    "address": "315 Lincoln St S, Twisp, WA 98856",
+    "phone": "(509) 997-2050",
+    "url": "https://roomone.org/",
+    "categorySlug": "community",
+    "zipCode": "98856"
+  },
+  {
+    "name": "The Cove - Methow Valley Food Bank",
+    "description": "Community food bank and aid organization serving the Methow Valley, providing weekly food bank and hot lunch program on Thursdays.",
+    "address": "206 Glover St, Twisp, WA 98856",
+    "phone": "(509) 997-0227",
+    "url": "http://www.thecovecares.com/",
+    "categorySlug": "food",
+    "zipCode": "98856"
+  },
+  {
+    "name": "Long Beach Community Table",
+    "description": "Mutual aid cooperative providing nutritious food, hygiene products, clothing and basic essentials to food and housing-insecure residents of the greater Long Beach area.",
+    "address": "Long Beach, WA 98631",
+    "phone": "",
+    "url": "https://www.longbeachcommunitytable.com/",
+    "categorySlug": "food",
+    "zipCode": "98631"
+  },
+  {
+    "name": "Ocean Park Food Bank",
+    "description": "Food bank serving over 1,500 individuals in need on the Long Beach Peninsula with supplemental food items and donated hygiene products.",
+    "address": "1601 Bay Avenue, Ocean Park, WA 98640",
+    "phone": "(360) 665-6567",
+    "url": "https://www.oceanparkfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "98640"
+  },
+  {
+    "name": "Newport Food Bank",
+    "description": "Community food bank providing 4-7 days of food to residents of Newport and Pend Oreille County with client choice shopping and no income checks or ID requirements.",
+    "address": "310 1/2 W Pine St, Newport, WA 99156",
+    "phone": "(509) 447-1168",
+    "url": "https://www.newportfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "99156"
+  },
+  {
+    "name": "Armed Services YMCA JBLM Food Pantry",
+    "description": "Food pantry for active-duty military, reservists, and military families at Joint Base Lewis-McChord.",
+    "address": "5325 Boxer Rd, Joint Base Lewis-McChord, WA 98433",
+    "phone": "",
+    "url": "https://pacificnw.asymca.org",
+    "categorySlug": "food",
+    "zipCode": "98433"
+  },
+  {
+    "name": "Eloise's Cooking Pot Food Bank",
+    "description": "Largest independent food bank and food delivery service in Pierce County, providing food bank services, warm meals, and diabetic meal delivery.",
+    "address": "3543 E McKinley Ave, Tacoma, WA 98404",
+    "phone": "(253) 426-1994",
+    "url": "https://themadf.org/eloises-cooking-pot/",
+    "categorySlug": "food",
+    "zipCode": "98404"
+  },
+  {
+    "name": "Emergency Food Network",
+    "description": "Central food distribution organization supplying 14.4 million pounds of food annually to 71 food pantries, meal sites, and shelters throughout Pierce County.",
+    "address": "3318 92nd St S, Lakewood, WA 98499",
+    "phone": "(253) 584-1040",
+    "url": "https://www.efoodnet.org",
+    "categorySlug": "food",
+    "zipCode": "98499"
+  },
+  {
+    "name": "Gig Harbor Peninsula FISH Food Bank",
+    "description": "Emergency food bank serving Pierce County and southern Kitsap County, providing self-shopping for basic groceries and personal hygiene products.",
+    "address": "4303 Burnham Drive, Gig Harbor, WA 98332",
+    "phone": "(253) 858-6179",
+    "url": "https://www.ghpfish.org/",
+    "categorySlug": "food",
+    "zipCode": "98332"
+  },
+  {
+    "name": "Nourish Pierce County",
+    "description": "Operates 6 fixed food banks and 17 mobile food bank sites providing nutritious food to food-insecure individuals and families throughout Pierce County.",
+    "address": "1702 South 72nd St Ste E, Tacoma, WA 98408",
+    "phone": "(253) 383-3164",
+    "url": "https://nourishpc.org",
+    "categorySlug": "food",
+    "zipCode": "98408"
+  },
+  {
+    "name": "Orting Food Bank",
+    "description": "Community food bank serving people in need in the Orting community, providing food and connecting people to outside resources.",
+    "address": "224 Washington Ave S, Orting, WA 98360",
+    "phone": "(360) 893-0095",
+    "url": "https://ortingfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "98360"
+  },
+  {
+    "name": "Puyallup Food Bank",
+    "description": "One of the oldest and largest food banks in Pierce County, founded in 1972, distributing fresh produce, meat, dairy, and canned goods to hundreds of families weekly.",
+    "address": "217 W Stewart Ave, Puyallup, WA 98371",
+    "phone": "(253) 848-5240",
+    "url": "https://www.pfb.org/",
+    "categorySlug": "food",
+    "zipCode": "98371"
+  },
+  {
+    "name": "Salvation Army Puyallup Valley Corps Food Pantry",
+    "description": "Food bank providing food assistance, diapers, and baby supplies to community members with no requirements or documents needed.",
+    "address": "4009 9th Street SW, Puyallup, WA 98373",
+    "phone": "(253) 841-1491",
+    "url": "https://puyallup.salvationarmy.org/",
+    "categorySlug": "food",
+    "zipCode": "98373"
+  },
+  {
+    "name": "Salvation Army Tacoma Corps",
+    "description": "Emergency family shelter, single adult shelter, food assistance, transitional housing, and social services for individuals and families in need.",
+    "address": "1501 6th Ave, Tacoma, WA 98405",
+    "phone": "(253) 572-8452",
+    "url": "https://tacoma.salvationarmy.org",
+    "categorySlug": "housing",
+    "zipCode": "98405"
+  },
+  {
+    "name": "St. Francis House",
+    "description": "Serves low-income individuals and families in East Pierce County providing clothing, food pantry, and financial assistance free of charge.",
+    "address": "322 7th St SE, Puyallup, WA 98372",
+    "phone": "(253) 770-6082",
+    "url": "https://puyallupfrancishouse.org/",
+    "categorySlug": "community",
+    "zipCode": "98372"
+  },
+  {
+    "name": "St. Vincent de Paul Tacoma-Pierce",
+    "description": "Food, clothing, hygiene supplies, emergency financial assistance for rent, utilities, and other basic needs for low-income residents.",
+    "address": "4009 S 56th St, Tacoma, WA 98409",
+    "phone": "(253) 474-0519",
+    "url": "https://www.svdptacoma.org",
+    "categorySlug": "community",
+    "zipCode": "98409"
+  },
+  {
+    "name": "Sumner Community Food Bank",
+    "description": "Volunteer nonprofit providing nutritious food with dignity to neighbors in need in the Sumner community, open six days a week.",
+    "address": "15625 Main Street E, Sumner, WA 98390",
+    "phone": "(253) 863-3793",
+    "url": "https://www.sumnerfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "98390"
+  },
+  {
+    "name": "Tacoma Pierce County Coalition to End Homelessness",
+    "description": "Network coordinating emergency shelter access, safe parking, and homeless services throughout Pierce County; operates Shelter Hub intake.",
+    "address": "Tacoma, WA 98402",
+    "phone": "(253) 444-4563",
+    "url": "https://pchomeless.org",
+    "categorySlug": "housing",
+    "zipCode": "98402"
+  },
+  {
+    "name": "Tacoma Rescue Mission",
+    "description": "Emergency shelter, meals, residential recovery program, adult education, counseling, and permanent housing for individuals and families experiencing homelessness.",
+    "address": "425 S Tacoma Way, Tacoma, WA 98402",
+    "phone": "(253) 383-4493",
+    "url": "https://www.trm.org",
+    "categorySlug": "housing",
+    "zipCode": "98402"
+  },
+  {
+    "name": "We Love Steilacoom Association Food Pantry",
+    "description": "Food bank for low-income individuals and families in Steilacoom with weekly Saturday distributions. Also provides backpack weekend food programs for school children.",
+    "address": "1603 Rainier Street, Steilacoom, WA 98388",
+    "phone": "",
+    "url": "https://townofsteilacoom.org/289/Food-Pantry",
+    "categorySlug": "food",
+    "zipCode": "98388"
+  },
+  {
+    "name": "Friday Harbor Food Bank",
+    "description": "Community food bank providing canned food, eggs, milk, bread, and fresh produce to San Juan Island residents in need.",
+    "address": "500 Market St, Friday Harbor, WA 98250",
+    "phone": "(360) 378-4640",
+    "url": "https://www.fridayharborfoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "98250"
+  },
+  {
+    "name": "Lopez Island Family Resource Center - Lopez Food Share",
+    "description": "Food bank serving Lopez Island residents with weekly pantry hours, online ordering, and home delivery options.",
+    "address": "1008 Dill Road, Lopez Island, WA 98261",
+    "phone": "(360) 809-0468",
+    "url": "https://lifrc.org/foodshare/",
+    "categorySlug": "food",
+    "zipCode": "98261"
+  },
+  {
+    "name": "Orcas Island Food Bank",
+    "description": "Community food bank serving Orcas Island residents with food pantry services, home deliveries, and connection to social services.",
+    "address": "116 Madrona St, Eastsound, WA 98245",
+    "phone": "(360) 376-4445",
+    "url": "https://orcasislandfoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "98245"
+  },
+  {
+    "name": "Community Action of Skagit County",
+    "description": "Comprehensive community services including food banks, energy assistance, housing, employment, education, healthcare, and veteran services across Skagit County.",
+    "address": "330 Pacific Place, Mount Vernon, WA 98273",
+    "phone": "(360) 416-7585",
+    "url": "https://www.communityactionskagit.org",
+    "categorySlug": "community",
+    "zipCode": "98273"
+  },
+  {
+    "name": "Helping Hands Food Bank - Sedro-Woolley",
+    "description": "Food bank and solutions center providing food distribution, DSHS assistance, resource navigation, and job skills training across Skagit County.",
+    "address": "9386 Fruitdale Rd, Sedro Woolley, WA 98284",
+    "phone": "(360) 856-2211",
+    "url": "https://helpinghandsskagit.org",
+    "categorySlug": "food",
+    "zipCode": "98284"
+  },
+  {
+    "name": "Salvation Army Anacortes",
+    "description": "Food bank and emergency financial assistance for rent and utilities serving Anacortes, La Conner, Bow, and surrounding Skagit County areas.",
+    "address": "3001 R Dr, Anacortes, WA 98221",
+    "phone": "(360) 293-6682",
+    "url": "https://anacortes.salvationarmy.org",
+    "categorySlug": "community",
+    "zipCode": "98221"
+  },
+  {
+    "name": "Skagit Food Distribution Center",
+    "description": "Centralized county food bank distribution center operated by Community Action of Skagit County, including Senior Food Box Program for low-income seniors 60+.",
+    "address": "220 Michael St, Sedro-Woolley, WA 98284",
+    "phone": "(360) 416-7585",
+    "url": "https://www.communityactionskagit.org/skagit-food-distribution-center/",
+    "categorySlug": "food",
+    "zipCode": "98284"
+  },
+  {
+    "name": "Skagit Friendship House",
+    "description": "Emergency shelters, transitional housing, daily meal service, and employment training for unhoused individuals; manages the Skagit First Step Center low-barrier shelter in Burlington.",
+    "address": "1002 S Third St, Mount Vernon, WA 98273",
+    "phone": "(360) 336-6138",
+    "url": "https://www.skagitfriendshiphouse.org",
+    "categorySlug": "housing",
+    "zipCode": "98273"
+  },
+  {
+    "name": "Skagit Valley Neighbors in Need Food Bank",
+    "description": "Food pantry and government surplus food distribution serving Mount Vernon, Conway, La Conner, and Burlington residents.",
+    "address": "1615 S 2nd St, Mount Vernon, WA 98273",
+    "phone": "(360) 982-2089",
+    "url": "https://svneighborsinneed.com",
+    "categorySlug": "food",
+    "zipCode": "98273"
+  },
+  {
+    "name": "Arlington Community Food Bank",
+    "description": "Community food bank serving Arlington and surrounding north Snohomish County communities.",
+    "address": "19118 63rd Ave NE, Arlington, WA 98223",
+    "phone": "(360) 435-1631",
+    "url": "https://www.arlingtonfoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "98223"
+  },
+  {
+    "name": "Concern for Neighbors Food Bank",
+    "description": "Community food bank serving Mountlake Terrace and surrounding south Snohomish County communities.",
+    "address": "4700 228th St SW, Mountlake Terrace, WA 98043",
+    "phone": "(425) 778-7227",
+    "url": "https://www.concern4neighborsfb.org",
+    "categorySlug": "food",
+    "zipCode": "98043"
+  },
+  {
+    "name": "Edmonds Food Bank",
+    "description": "Community food bank serving Edmonds and surrounding Snohomish County areas with fresh and non-perishable food.",
+    "address": "828 Caspers St L100, Edmonds, WA 98020",
+    "phone": "(425) 778-5833",
+    "url": "https://edmondsfoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "98020"
+  },
+  {
+    "name": "Everett Gospel Mission",
+    "description": "Emergency shelter, meals, and recovery programs for men, women, and families experiencing homelessness in Everett and Snohomish County.",
+    "address": "3711 Smith Ave, Everett, WA 98201",
+    "phone": "(425) 740-2500",
+    "url": "https://egmission.org",
+    "categorySlug": "housing",
+    "zipCode": "98201"
+  },
+  {
+    "name": "Granite Falls Community Coalition Food Bank",
+    "description": "Community food bank providing groceries, hygiene items, diaper bank, and home delivery for homebound residents in the Granite Falls School District area.",
+    "address": "307 N Alder Ave, Granite Falls, WA 98252",
+    "phone": "(360) 691-4253",
+    "url": "https://www.granitefallscommunitycoalition.org",
+    "categorySlug": "food",
+    "zipCode": "98252"
+  },
+  {
+    "name": "Interfaith Family Shelter",
+    "description": "Emergency shelter programs for families with children experiencing homelessness in Snohomish County, with case management and rapid rehousing support.",
+    "address": "PO Box 12824, Everett, WA 98206",
+    "phone": "(425) 200-5121",
+    "url": "https://interfaithwa.org",
+    "categorySlug": "housing",
+    "zipCode": "98201"
+  },
+  {
+    "name": "Lake Stevens Community Food Bank",
+    "description": "Zero-barrier food bank serving Lake Stevens community with fresh produce, proteins, dairy, household supplies, and diapers at multiple locations.",
+    "address": "8021 20th St SE Ste 101, Lake Stevens, WA 98258",
+    "phone": "(425) 334-3430",
+    "url": "https://www.lakestevensfoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "98258"
+  },
+  {
+    "name": "Lynnwood Food Bank",
+    "description": "Community food bank providing grocery distribution to Lynnwood and south Snohomish County residents.",
+    "address": "5320 176th St SW, Lynnwood, WA 98037",
+    "phone": "(425) 745-1635",
+    "url": "https://www.lynnwoodfoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "98037"
+  },
+  {
+    "name": "Marysville Community Food Bank",
+    "description": "Community food bank providing fresh produce, dairy, and pantry items to Marysville area residents, with backpack program for school children.",
+    "address": "4150 88th St NE, Marysville, WA 98270",
+    "phone": "(360) 658-1054",
+    "url": "https://www.marysvillefoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "98270"
+  },
+  {
+    "name": "Mill Creek Community Food Bank (Hope Creek)",
+    "description": "Community food bank serving Mill Creek and surrounding Snohomish County areas with fresh and pantry food items.",
+    "address": "4326 148th St SE, Mill Creek, WA 98012",
+    "phone": "(425) 754-6353",
+    "url": "https://www.hopecreekcf.org/mccfb/",
+    "categorySlug": "food",
+    "zipCode": "98012"
+  },
+  {
+    "name": "Salvation Army Everett Corps",
+    "description": "Food bank, emergency shelter, transitional housing, hot meals, emergency cold weather shelter, and utility assistance for Everett and Snohomish County residents.",
+    "address": "2525 Rucker Ave, Everett, WA 98201",
+    "phone": "(425) 259-8129",
+    "url": "https://everett.salvationarmy.org",
+    "categorySlug": "community",
+    "zipCode": "98201"
+  },
+  {
+    "name": "Sky Valley Food Bank",
+    "description": "Community food bank serving Monroe and the Sky Valley area of Snohomish County with food assistance.",
+    "address": "233 Sky River Pkwy, Monroe, WA 98272",
+    "phone": "(360) 794-7959",
+    "url": "https://svfoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "98272"
+  },
+  {
+    "name": "Snohomish Community Food Bank",
+    "description": "Community food bank serving Snohomish city and surrounding areas with food pantry services; first hour reserved for seniors 62+.",
+    "address": "1330 Ferguson Park Rd, Snohomish, WA 98290",
+    "phone": "(360) 568-7993",
+    "url": "https://snohomishfoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "98290"
+  },
+  {
+    "name": "Snohomish County Community Action Partnership",
+    "description": "County community action agency providing emergency shelter, housing navigation, energy assistance, rental/mortgage assistance, homelessness prevention, and weatherization.",
+    "address": "3000 Rockefeller Ave, Everett, WA 98201",
+    "phone": "(425) 388-7200",
+    "url": "https://snohomishcountywa.gov/426/Community-Action-Partnership",
+    "categorySlug": "community",
+    "zipCode": "98201"
+  },
+  {
+    "name": "Stanwood Camano Food Bank",
+    "description": "Community food bank serving Stanwood and Camano Island residents with food pantry services and thrift store.",
+    "address": "27030 102nd Ave NW, Stanwood, WA 98292",
+    "phone": "(360) 629-2789",
+    "url": "https://stanwoodcamanofoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "98292"
+  },
+  {
+    "name": "Catholic Charities Eastern Washington",
+    "description": "Provides emergency assistance, transitional shelter, housing, senior services, immigration legal services, counseling, and stabilizing programs across Eastern Washington.",
+    "address": "12 E 5th Ave, Spokane, WA 99202",
+    "phone": "(509) 358-4250",
+    "url": "https://www.cceasternwa.org",
+    "categorySlug": "community",
+    "zipCode": "99202"
+  },
+  {
+    "name": "CHAS Health - Downtown Clinic",
+    "description": "Federally qualified health center providing medical, dental, pharmacy, and behavioral health services regardless of ability to pay.",
+    "address": "1001 W 2nd Ave, Spokane, WA 99201",
+    "phone": "(509) 444-8888",
+    "url": "https://chas.org",
+    "categorySlug": "healthcare",
+    "zipCode": "99201"
+  },
+  {
+    "name": "Cheney Cupboard",
+    "description": "Community food pantry serving Cheney and surrounding Spokane County residents with food assistance.",
+    "address": "624 3rd St, Cheney, WA 99004",
+    "phone": "(509) 235-2325",
+    "url": "https://cheneycupboard.org",
+    "categorySlug": "food",
+    "zipCode": "99004"
+  },
+  {
+    "name": "Family Promise of Spokane",
+    "description": "Emergency shelter and housing support for homeless families in Spokane.",
+    "address": "2002 E Mission Ave, Spokane, WA 99202",
+    "phone": "",
+    "url": "https://www.familypromiseofspokane.org",
+    "categorySlug": "housing",
+    "zipCode": "99202"
+  },
+  {
+    "name": "GreenHouse Community Center Food and Clothing Bank",
+    "description": "Food and clothing bank providing fresh groceries, emergency food boxes, clothing, hygiene items, diapers, and DSHS assistance to Deer Park area residents.",
+    "address": "211 N Fir Ave, Deer Park, WA 99006",
+    "phone": "(509) 276-6897",
+    "url": "https://greenhousedp.com",
+    "categorySlug": "food",
+    "zipCode": "99006"
+  },
+  {
+    "name": "Jewels Helping Hands",
+    "description": "Day center and community services for people experiencing homelessness in Spokane, providing supplies and support.",
+    "address": "527 S Cannon St, Spokane, WA 99204",
+    "phone": "(509) 507-4624",
+    "url": "https://www.jewelshelpinghands.org",
+    "categorySlug": "housing",
+    "zipCode": "99204"
+  },
+  {
+    "name": "Mead Food Bank",
+    "description": "Food bank serving the Mead School District area providing food, clothing, hygiene supplies, and financial aid referrals.",
+    "address": "12611 N Wilson St, Mead, WA 99021",
+    "phone": "(509) 466-7068",
+    "url": "https://sites.google.com/view/meadfoodbank-org/home",
+    "categorySlug": "food",
+    "zipCode": "99021"
+  },
+  {
+    "name": "New Hope Resource Center - North County Food Pantry",
+    "description": "Faith-based community food pantry and resource center serving North Spokane County communities including Elk, Chattaroy, Colbert, and Mead.",
+    "address": "40015A N Collins Rd, Elk, WA 99009",
+    "phone": "(509) 292-2530",
+    "url": "https://newhoperesource.org",
+    "categorySlug": "food",
+    "zipCode": "99009"
+  },
+  {
+    "name": "Providence Community Clinic (House of Charity)",
+    "description": "Free community health clinic serving Spokane community members experiencing chronic homelessness.",
+    "address": "32 W Pacific Ave, Spokane, WA 99204",
+    "phone": "",
+    "url": "https://www.providence.org/locations/wa/providence-community-clinic",
+    "categorySlug": "healthcare",
+    "zipCode": "99204"
+  },
+  {
+    "name": "Salvation Army - Spokane Citadel Corps",
+    "description": "Provides food pantry, clothing, utility/rent assistance, shelter for battered women, disaster relief, and social services to Spokane County residents.",
+    "address": "204 E Indiana Ave, Spokane, WA 99207",
+    "phone": "(509) 325-6821",
+    "url": "https://spokane.salvationarmy.org/spokane_citadel/",
+    "categorySlug": "community",
+    "zipCode": "99207"
+  },
+  {
+    "name": "Spokane Resource Center",
+    "description": "Combines services of 15 community agencies providing wrap-around support for economic security including services for low-income, justice-involved, and homeless individuals.",
+    "address": "130 S Arthur St, Spokane, WA 99202",
+    "phone": "(509) 867-8188",
+    "url": "https://spokaneresourcecenter.org",
+    "categorySlug": "community",
+    "zipCode": "99202"
+  },
+  {
+    "name": "Spokane Valley Partners Food Bank",
+    "description": "Food bank serving the Spokane Valley area, open Monday-Friday with no appointment necessary; serves area between Havana Street and state line.",
+    "address": "10814 E Broadway, Spokane Valley, WA 99206",
+    "phone": "(509) 927-1153",
+    "url": "https://www.partnersinw.org/food-bank",
+    "categorySlug": "food",
+    "zipCode": "99206"
+  },
+  {
+    "name": "Union Gospel Mission of the Inland Northwest - Men's Shelter",
+    "description": "Emergency homeless shelter for men providing beds, meals, and recovery programs in Spokane.",
+    "address": "1224 E Trent Ave, Spokane, WA 99202",
+    "phone": "(509) 535-8510",
+    "url": "https://www.uniongospelmission.org",
+    "categorySlug": "housing",
+    "zipCode": "99202"
+  },
+  {
+    "name": "Volunteers of America Eastern Washington",
+    "description": "Housing assistance, young adult shelter, and supportive housing programs for people experiencing homelessness in Spokane.",
+    "address": "525 W 2nd Ave, Spokane, WA 99201",
+    "phone": "",
+    "url": "https://voaspokane.org",
+    "categorySlug": "housing",
+    "zipCode": "99201"
+  },
+  {
+    "name": "Chewelah Food Bank",
+    "description": "Food bank serving Chewelah and Stevens areas for over 30 years, providing a 3-day food supply to community members in need.",
+    "address": "302 E Main St, Chewelah, WA 99109",
+    "phone": "(509) 936-9155",
+    "url": "https://chewelahfoodbank.weebly.com",
+    "categorySlug": "food",
+    "zipCode": "99109"
+  },
+  {
+    "name": "Kettle Falls Community Chest Food Bank",
+    "description": "Food bank and community chest serving the Kettle Falls area in Stevens County with food pantry services.",
+    "address": "472 Meyers St, Kettle Falls, WA 99141",
+    "phone": "(509) 738-2326",
+    "url": "https://www.kffoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "99141"
+  },
+  {
+    "name": "NEW Hunger Coalition",
+    "description": "Delivers healthy fruits and vegetables to 17 food pantries in Ferry, Stevens, and Pend Oreille Counties through Farm to Food Pantry Program.",
+    "address": "Colville, WA 99114",
+    "phone": "",
+    "url": "https://newhungercoalition.org",
+    "categorySlug": "food",
+    "zipCode": "99114"
+  },
+  {
+    "name": "Rural Resources Community Action",
+    "description": "Northeastern Washington community action agency serving Ferry, Lincoln, Pend Oreille, Whitman, and Stevens Counties with housing assistance, energy assistance, senior services, employment programs, and domestic violence victim services.",
+    "address": "956 S Main St, Colville, WA 99114",
+    "phone": "(509) 684-8421",
+    "url": "https://ruralresources.org",
+    "categorySlug": "community",
+    "zipCode": "99114"
+  },
+  {
+    "name": "Volunteer Food and Resource Center (Colville Food Bank)",
+    "description": "Food bank serving low-income residents and homeless population in Colville area since 1983; provides food, emergency utility assistance, and rent/utility payment assistance.",
+    "address": "210 S Wynne St, Colville, WA 99114",
+    "phone": "",
+    "url": "https://colvillefoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "99114"
+  },
+  {
+    "name": "Community Action Council of Lewis, Mason & Thurston Counties",
+    "description": "Hub for Coordinated Entry for homeless adults without children in Thurston County; connects individuals to shelter, housing, and supportive services.",
+    "address": "Lacey, WA 98501",
+    "phone": "(360) 438-1100",
+    "url": "https://caclmt.org",
+    "categorySlug": "community",
+    "zipCode": "98501"
+  },
+  {
+    "name": "Family Support Center of South Sound",
+    "description": "Coordinated Entry point for homeless families in Thurston County; provides emergency shelter, housing assistance, case management, counseling, and mental health support.",
+    "address": "Olympia, WA 98501",
+    "phone": "(360) 754-9297",
+    "url": "https://fscss.org/homeless-family-services/",
+    "categorySlug": "housing",
+    "zipCode": "98501"
+  },
+  {
+    "name": "Salvation Army - Hans K. Lemcke Emergency Lodge",
+    "description": "Emergency homeless shelter for single men and women providing beds and basic necessities in Olympia.",
+    "address": "824 5th Ave SE, Olympia, WA 98501",
+    "phone": "(360) 352-8596",
+    "url": "https://olympia.salvationarmy.org/olympia_corps/",
+    "categorySlug": "housing",
+    "zipCode": "98501"
+  },
+  {
+    "name": "Tenino Community Service Center - Food Bank Plus",
+    "description": "40+ year independent food bank providing emergency food and multi-services to the Tenino/Bucoda area; includes children's year-round food program.",
+    "address": "224 Sussex Ave E, Tenino, WA 98589",
+    "phone": "(360) 264-5505",
+    "url": "https://teninocsc.org",
+    "categorySlug": "food",
+    "zipCode": "98589"
+  },
+  {
+    "name": "Thurston County Food Bank - Olympia Pantry",
+    "description": "Food pantry serving residents of Olympia, Lacey, Tumwater, and surrounding areas; offers indoor grocery shopping experience.",
+    "address": "220 Thurston Ave NE, Olympia, WA 98501",
+    "phone": "(360) 352-8597",
+    "url": "https://tcfb.org",
+    "categorySlug": "food",
+    "zipCode": "98501"
+  },
+  {
+    "name": "Wahkiakum County Community Assistance - Food Bank",
+    "description": "Food bank providing emergency food including fresh produce, meat, and pet food to Cathlamet and Wahkiakum County residents.",
+    "address": "42 Elochoman Valley Rd, Cathlamet, WA 98612",
+    "phone": "(360) 795-8630",
+    "url": "https://www.co.wahkiakum.wa.us/244/Community-Assistance",
+    "categorySlug": "food",
+    "zipCode": "98612"
+  },
+  {
+    "name": "Christian Aid Center - Walla Walla Rescue Mission",
+    "description": "Provides meals, emergency shelter for homeless men, women, and children, recovery programs, life coaching, food giveaways, and wellness clinic in Walla Walla.",
+    "address": "211 W Birch St, Walla Walla, WA 99362",
+    "phone": "(509) 525-7153",
+    "url": "https://christianaidcenter.org",
+    "categorySlug": "housing",
+    "zipCode": "99362"
+  },
+  {
+    "name": "Walla Walla Alliance for the Homeless - Sleep Center",
+    "description": "Non-profit shelter providing overnight housing and basic amenities to people experiencing homelessness in Walla Walla.",
+    "address": "1181 Reece Ave, Walla Walla, WA 99362",
+    "phone": "(509) 520-0316",
+    "url": "https://www.wwallianceforthehomeless.com",
+    "categorySlug": "housing",
+    "zipCode": "99362"
+  },
+  {
+    "name": "Agape Food Bank - Lynden",
+    "description": "Culturally-relevant food bank serving the farmworker and Spanish-speaking community of Whatcom County; provides food, diapers, baby food, and feminine products.",
+    "address": "516 Main St, Lynden, WA 98264",
+    "phone": "",
+    "url": "https://archseattle.org/ministries/outreach-ministries/agape/agape-food-bank/",
+    "categorySlug": "food",
+    "zipCode": "98264"
+  },
+  {
+    "name": "Bellingham Food Bank",
+    "description": "Serves approximately 5,000 household visits per week; offers free grocery program, drive-through, home delivery, and serves as warehouse for Whatcom County Food Bank Network.",
+    "address": "1824 Ellis St, Bellingham, WA 98225",
+    "phone": "(360) 676-0392",
+    "url": "https://www.bellinghamfoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "98225"
+  },
+  {
+    "name": "Blaine Food Bank",
+    "description": "Market-style food bank serving residents of Blaine, Custer, Birch Bay, and Semiahmoo; open multiple times per week with no ID required.",
+    "address": "500 C St, Blaine, WA 98230",
+    "phone": "(360) 332-6350",
+    "url": "https://blainefoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "98230"
+  },
+  {
+    "name": "Ferndale Food Bank",
+    "description": "Food bank serving the Ferndale and Custer area; provides up to 70 pounds of food per visit weekly for individuals and families in need.",
+    "address": "1671 Main St, Ferndale, WA 98248",
+    "phone": "(360) 223-0788",
+    "url": "https://www.ferndalefoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "98248"
+  },
+  {
+    "name": "Whatcom Homeless Service Center - Opportunity Council",
+    "description": "Manages Whatcom County Coordinated Entry system; provides housing-first strategies, rental assistance, temporary shelter referrals, and supportive services.",
+    "address": "1111 Cornwall Ave, Bellingham, WA 98225",
+    "phone": "(360) 734-5121",
+    "url": "https://www.oppco.org/whsc/",
+    "categorySlug": "housing",
+    "zipCode": "98225"
+  },
+  {
+    "name": "Community Action Center (CAC) - Whitman County",
+    "description": "Primary resource for low-income individuals and families in Whitman County; provides food bank, energy assistance, housing/homeless services, home weatherization, and legal referrals.",
+    "address": "350 SE Fairmont Rd, Pullman, WA 99163",
+    "phone": "(509) 334-9147",
+    "url": "https://www.cacwhitman.org",
+    "categorySlug": "community",
+    "zipCode": "99163"
+  },
+  {
+    "name": "Council on Aging & Human Services - Colfax Food Bank",
+    "description": "Food bank serving rural Whitman County communities at 11 locations including Colfax, Palouse, Garfield, St. John, Tekoa, and others.",
+    "address": "210 S Main St, Colfax, WA 99111",
+    "phone": "(509) 397-4305",
+    "url": "https://www.coacolfax.org/food-distribution",
+    "categorySlug": "food",
+    "zipCode": "99111"
+  },
+  {
+    "name": "Northwest Harvest - Wapato Distribution",
+    "description": "Food bank distribution site serving Wapato and surrounding communities in the Yakima Valley.",
+    "address": "310 S Ahtanum Ave, Wapato, WA 98951",
+    "phone": "(509) 877-6171",
+    "url": "https://www.northwestharvest.org",
+    "categorySlug": "food",
+    "zipCode": "98951"
+  },
+  {
+    "name": "OIC Food Bank - Opportunities Industrialization Center",
+    "description": "Provides free nutritional and food services to highest-need communities in Yakima Valley; serves as central food commodity distribution agency for Yakima Valley food banks.",
+    "address": "1419 Hathaway St, Yakima, WA 98902",
+    "phone": "(509) 955-2360",
+    "url": "https://oicofwa.org/pathways/support/nutrition/",
+    "categorySlug": "food",
+    "zipCode": "98902"
+  },
+  {
+    "name": "Rod's House - Youth Homeless Shelter",
+    "description": "Provides homeless services for youth and young adults including shelter, food, clothing, and goal-setting in education, employment, and housing.",
+    "address": "1011 E Chestnut Ave, Yakima, WA 98901",
+    "phone": "(509) 895-2665",
+    "url": "https://rodshouse.org",
+    "categorySlug": "housing",
+    "zipCode": "98901"
+  },
+  {
+    "name": "Salvation Army - Yakima",
+    "description": "Provides food pantry services Monday-Thursday at the Hope Market Food Pantry and social ministry services in Yakima.",
+    "address": "9 S 6th Ave, Yakima, WA 98902",
+    "phone": "",
+    "url": "https://yakima.salvationarmy.org/yakima_corps/",
+    "categorySlug": "food",
+    "zipCode": "98902"
+  },
+  {
+    "name": "Selah Naches Food Bank",
+    "description": "Food bank serving residents in the Selah and Naches School Districts including Selah, East Selah, Naches, and Gleed; distributes food three times weekly.",
+    "address": "810 N Park Dr, Selah, WA 98942",
+    "phone": "(509) 698-2336",
+    "url": "https://selahnachesfoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "98942"
+  },
+  {
+    "name": "St. Vincent Center - Catholic Charities Central Washington",
+    "description": "Charity resource center serving Yakima since 1946; provides food bank, clothing, hygiene kits, kitchen starter kits, and support for homeless and unemployed individuals.",
+    "address": "2629 Main St, Union Gap, WA 98903",
+    "phone": "",
+    "url": "https://catholiccharitiescw.org/yakima/st-vincent",
+    "categorySlug": "community",
+    "zipCode": "98903"
+  },
+  {
+    "name": "Sunnyside Food Pantry - Sunrise Outreach Center",
+    "description": "Weekly food pantry serving Sunnyside residents operated by Sunrise Outreach Center of Yakima.",
+    "address": "529 S 9th St, Sunnyside, WA 98944",
+    "phone": "(509) 225-9310",
+    "url": "https://www.socyakima.com/programs/food-pantries/",
+    "categorySlug": "food",
+    "zipCode": "98944"
+  },
+  {
+    "name": "Sunrise Outreach Center of Yakima",
+    "description": "Operates six food pantries across Yakima County including in Yakima, Sunnyside, Wapato, Mabton, and White Swan; provides food and basic needs to low-income community members.",
+    "address": "10 N 6th Ave, Yakima, WA 98902",
+    "phone": "(509) 225-9310",
+    "url": "https://www.socyakima.com",
+    "categorySlug": "food",
+    "zipCode": "98902"
+  },
+  {
+    "name": "Yakima Rotary Food Bank",
+    "description": "Weekly food distribution serving East Yakima residents every Friday morning at the Henry Beauchamp Community Center.",
+    "address": "703 Central Ave, Yakima, WA 98901",
+    "phone": "(509) 853-8918",
+    "url": "https://yakimarotaryfoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "98901"
+  },
+  {
+    "name": "Yakima Valley Farm Workers Clinic",
+    "description": "Federally qualified health center providing medical, dental, pharmacy, behavioral health, WIC, and prenatal care services on a sliding fee scale.",
+    "address": "602 E Nob Hill Blvd, Yakima, WA 98901",
+    "phone": "(509) 248-3334",
+    "url": "https://www.yvfwc.com",
+    "categorySlug": "healthcare",
+    "zipCode": "98901"
+  },
+  {
+    "name": "Zillah Food Bank",
+    "description": "Food bank serving Zillah and Grandview area residents with weekly food distribution requiring valid picture ID.",
+    "address": "302 2nd Ave, Zillah, WA 98953",
+    "phone": "",
+    "url": "https://www.cityofzillah.us/community_/food_bank.php",
+    "categorySlug": "food",
+    "zipCode": "98953"
+  }
+]

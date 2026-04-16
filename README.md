@@ -1,36 +1,67 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# resrc
 
-## Getting Started
+A community resource directory that helps people find local social services by zip code — food banks, shelters, healthcare clinics, and more.
 
-First, run the development server:
+## What it does
+
+- Search resources by zip code with proximity ranking
+- Browse by category: food, housing, healthcare, community
+- Vote on and comment on resources
+- Submit new resources for moderator review
+- Community feed for local posts and events
+- Role-based moderation (user, social_worker, moderator, admin)
+
+## Tech stack
+
+- **Next.js 16** — App Router, server components, API routes
+- **Supabase** — Postgres, Auth, Row Level Security
+- **Prisma** — schema and seed tooling
+- **Zod** — request validation
+- **SWR** — client-side data fetching
+- **Lucide React** — icons
+
+## Quick start
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Database setup: run `supabase/migration.sql` in the Supabase SQL Editor, then seed zip codes and resources:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+npx ts-node supabase/seed-zip-codes.ts
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Environment variables required (copy `.env.example` to `.env.local`):
 
-## Learn More
+```
+NEXT_PUBLIC_SUPABASE_URL=
+NEXT_PUBLIC_SUPABASE_ANON_KEY=
+SUPABASE_SERVICE_ROLE_KEY=
+```
 
-To learn more about Next.js, take a look at the following resources:
+## API routes
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+| Method | Path | Description |
+|--------|------|-------------|
+| POST | `/api/auth/signup` | Register |
+| POST | `/api/auth/signin` | Login |
+| POST | `/api/auth/signout` | Logout |
+| GET | `/api/auth/me` | Current user profile |
+| GET | `/api/resources?zip=` | Resources near a zip code |
+| POST | `/api/resources/[id]/vote` | Upvote or downvote |
+| GET/POST | `/api/resources/[id]/comments` | Nested comment threads |
+| GET/POST | `/api/feed?zip=` | Community posts |
+| POST | `/api/feed/[id]/vote` | Vote on a post |
+| POST | `/api/feed/[id]/flag` | Flag a post |
+| GET/POST | `/api/events?zip=` | Regional events |
+| POST | `/api/reports` | Submit a report |
+| GET/PATCH | `/api/admin/users` | Manage users (admin) |
+| GET/PATCH | `/api/admin/moderation` | Moderate content (admin) |
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Resource data
 
-## Deploy on Vercel
+Seed data lives in `scripts/discovery/data/seeds/` — one JSON file per state. Currently covers 30+ states with 7,000+ resources, sourced via a discovery pipeline that searches by zip code batch.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+See [`scripts/discovery/README.md`](scripts/discovery/README.md) for full pipeline documentation, including how to run discovery for new states and upsert resources into the database.

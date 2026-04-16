@@ -1,0 +1,3791 @@
+[
+  {
+    "name": "St. John's Lutheran Church \u2013 Abbottstown Pantry (SCCAP Food Pantries)",
+    "description": "This pantry is located at 100 Water Street, Abbottstown, PA 17301. It operates on the first Thursday of each month from 3:00 pm to 4:00 pm.",
+    "address": "100 Water Street, Abbottstown, PA 17301",
+    "phone": "(717) 624-4700",
+    "url": "https://www.sccap.org/",
+    "categorySlug": "food",
+    "zipCode": "17301"
+  },
+  {
+    "name": "Abbottstown Mobile Pantry - New Hope Ministries",
+    "description": "Also located at St. John's Lutheran Church, 100 Water St., Abbottstown, PA 17301, this mobile pantry is available on the first Thursday of the month from 3:00 pm to 5:00 pm.",
+    "address": "100 Water St., Abbottstown, PA 17301",
+    "phone": "717-624-4700 ext. 1704",
+    "url": "https://newhopeministries.org/",
+    "categorySlug": "food",
+    "zipCode": "17301"
+  },
+  {
+    "name": "Community Progress Council",
+    "description": "Assists individuals and families in York County with securing affordable rentals, preparing for first-time home purchases, avoiding foreclosure, and building savings.",
+    "address": "York County, PA",
+    "phone": "",
+    "url": "https://yorkcpc.org/",
+    "categorySlug": "housing",
+    "zipCode": "17304"
+  },
+  {
+    "name": "Bell Socialization Services - Next Door program",
+    "description": "Provides case management and rental assistance to adults and families in York County who are experiencing homelessness or are at risk of eviction.",
+    "address": "York County, PA",
+    "phone": "",
+    "url": "https://bellsocialization.com/",
+    "categorySlug": "housing",
+    "zipCode": "17304"
+  },
+  {
+    "name": "MA's Pantry",
+    "description": "Community food pantry serving East McKeesport and surrounding areas, distributing food on the 1st and 3rd Saturday of each month.",
+    "address": "1000 Broadway Avenue, East McKeesport, PA 15035",
+    "phone": "412-824-0277",
+    "url": "https://www.maspantry.org/",
+    "categorySlug": "food",
+    "zipCode": "15035"
+  },
+  {
+    "name": "Elizabeth Boro Clergy Food Pantry",
+    "description": "Local clergy-run food pantry serving residents of Elizabeth Borough and surrounding areas.",
+    "address": "735 Bunola River Road, Elizabeth, PA 15037",
+    "phone": "412-384-6464",
+    "url": "https://www.ebctheplacetobe.net/elizabeth-boro-clergy-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "15037"
+  },
+  {
+    "name": "Central Food Pantry of Elizabeth Township",
+    "description": "Nonprofit food pantry serving Elizabeth Township residents, distributing food on the 2nd Tuesday of each month.",
+    "address": "425 Scenery Drive, Elizabeth, PA 15037",
+    "phone": "412-384-8507",
+    "url": "https://networks.whyhunger.org/organisation/40191",
+    "categorySlug": "food",
+    "zipCode": "15037"
+  },
+  {
+    "name": "Salvation Army - Allegheny Valley",
+    "description": "Emergency assistance including food, clothing, shelter, rent, and utility help for Northern Allegheny County residents. Emergency Food Bank available Thursdays.",
+    "address": "917 Brackenridge Ave, Brackenridge, PA 15014",
+    "phone": "724-224-6310",
+    "url": "https://www.salvationarmyusa.org/",
+    "categorySlug": "food",
+    "zipCode": "15014"
+  },
+  {
+    "name": "Allegheny Valley Association of Churches Food Bank",
+    "description": "Food bank serving Natrona Heights, Tarentum, and surrounding Allegheny Valley communities. Drive-through distribution every Wednesday afternoon.",
+    "address": "1913 Freeport Rd, Natrona Heights, PA 15065",
+    "phone": "724-226-0606",
+    "url": "https://www.avaoc.org/programs/food-bank/",
+    "categorySlug": "food",
+    "zipCode": "15065"
+  },
+  {
+    "name": "North Hills Community Outreach Food Pantry",
+    "description": "Nonprofit serving Northern Allegheny County residents in crisis, hardship, and poverty. Food pantry and comprehensive social services available.",
+    "address": "1975 Ferguson Road, Allison Park, PA 15101",
+    "phone": "412-487-6316",
+    "url": "https://www.nhco.org/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "15056"
+  },
+  {
+    "name": "Bridgeville Community Food Bank",
+    "description": "Nonprofit food bank serving families in the Chartiers Valley and South Fayette School District communities. Distribution on the 3rd Saturday each month.",
+    "address": "740 Washington Ave, Bridgeville, PA 15017",
+    "phone": "412-221-5132",
+    "url": "https://www.foodpantries.org/li/pa_15017_bridgeville-community-food-bank/",
+    "categorySlug": "food",
+    "zipCode": "15017"
+  },
+  {
+    "name": "Auberle Family Emergency Shelter",
+    "description": "24/7 emergency shelter for families in crisis, accommodating up to 20 individuals. Also operates a food pantry with Wednesday and Friday pickup times.",
+    "address": "1101 Hartman Street, McKeesport, PA 15132",
+    "phone": "412-673-5800",
+    "url": "https://www.auberle.org/housing",
+    "categorySlug": "housing",
+    "zipCode": "15082"
+  },
+  {
+    "name": "Light of Life Rescue Mission",
+    "description": "Light of Life Rescue Mission provides a food pantry that has served over 400,000 meals to the community. It will be housed in their new outreach hub, creating a 'one-stop shop' for families in need.",
+    "address": "234 Voeghtly St., Pittsburgh, PA 15212",
+    "phone": "412.803.4120",
+    "url": "https://www.lightoflife.org/",
+    "categorySlug": "food",
+    "zipCode": "15086"
+  },
+  {
+    "name": "North Hills Community Outreach - Main Office",
+    "description": "North Hills Community Outreach operates food pantries in Northern Allegheny County, serving residents in need.",
+    "address": "1975 Ferguson Road, Allison Park, PA 15101",
+    "phone": "412-487-6316",
+    "url": "https://nhco.org/",
+    "categorySlug": "food",
+    "zipCode": "15086"
+  },
+  {
+    "name": "North Hills Community Outreach - Millvale Office",
+    "description": "North Hills Community Outreach operates food pantries in Northern Allegheny County, serving residents in need.",
+    "address": "416 Lincoln Avenue, 2nd floor, Millvale, PA 15209",
+    "phone": "412-487-6316",
+    "url": "https://nhco.org/",
+    "categorySlug": "food",
+    "zipCode": "15086"
+  },
+  {
+    "name": "North Hills Community Outreach - North Boroughs Office",
+    "description": "North Hills Community Outreach operates food pantries in Northern Allegheny County, serving residents in need.",
+    "address": "939 California Avenue, Pittsburgh, PA 15202",
+    "phone": "412-487-6316",
+    "url": "https://nhco.org/",
+    "categorySlug": "food",
+    "zipCode": "15086"
+  },
+  {
+    "name": "CHS Oakland Food Pantry",
+    "description": "CHS Oakland Food Pantry provides fresh fruits, vegetables, non-perishable items, dairy, and meat or fish to address food insecurity throughout Allegheny County.",
+    "address": "370 Lawn Street, Pittsburgh, PA 15213",
+    "phone": "(412) 246-1688",
+    "url": "https://www.chscorp.org/",
+    "categorySlug": "food",
+    "zipCode": "15086"
+  },
+  {
+    "name": "Greater Pittsburgh Community Food Bank",
+    "description": "The Greater Pittsburgh Community Food Bank aims to increase food security and stabilize lives by providing access to nutritious food and fostering long-term stability for individuals and families in need.",
+    "address": "1 N. Linden St., Duquesne, PA 15110",
+    "phone": "(412) 460-3663",
+    "url": "https://www.pittsburghfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "15086"
+  },
+  {
+    "name": "Bread of Life Food Pantry",
+    "description": "The Bread of Life Food Pantry aims to provide love and peace by sharing food and other resources with those in need, ensuring their basic needs are met.",
+    "address": "94 Locust Street, Etna, PA 15223",
+    "phone": "(412) 781-3056",
+    "url": "https://www.breadoflifeetna.org/",
+    "categorySlug": "food",
+    "zipCode": "15086"
+  },
+  {
+    "name": "Gleaners Food Bank",
+    "description": "Gleaners Food Bank provides food to Cranberry Township residents who meet Butler County income guidelines. They operate monthly out of the annex at Saint Ferdinand Church.",
+    "address": "Cranberry Township, PA",
+    "phone": "Not available",
+    "url": "https://www.gleanersfoodbankcranberry.com/",
+    "categorySlug": "food",
+    "zipCode": "15086"
+  },
+  {
+    "name": "The Lighthouse Foundation",
+    "description": "The Lighthouse Foundation is a Christian outreach organization that meets the needs of impoverished individuals and families in northern Allegheny and Butler County, operating the largest weekly food pantry in Butler County and offering other food programs.",
+    "address": "116 Browns Hill Road, Suite 400 Valencia, PA 16059",
+    "phone": "(724) 586-5554",
+    "url": "https://www.thelighthousepa.org/",
+    "categorySlug": "food",
+    "zipCode": "15086"
+  },
+  {
+    "name": "West Hills Food Pantry",
+    "description": "The West Hills Food Pantry provides supplemental groceries bi-weekly to those in need, fostering a sense of community through food outreach.",
+    "address": "522 Carnot Road, Moon Township, Pennsylvania 15108",
+    "phone": "412.262.1253",
+    "url": "https://westhillsfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "15086"
+  },
+  {
+    "name": "Second Avenue Commons",
+    "description": "A 24/7 access shelter with 92 beds, additional space for 40 during winter, an engagement center, and an on-site UPMC Clinic. Accepts adults, couples, and pets.",
+    "address": "700 Second Avenue, Pittsburgh, PA 15219",
+    "phone": "412-775-9001",
+    "url": "https://www.secondavenuecommons.org/",
+    "categorySlug": "housing",
+    "zipCode": "15086"
+  },
+  {
+    "name": "Light of Life Rescue Mission",
+    "description": "Provides emergency shelter for men, women, and children, offering overnight stays, meals, showers, clothing, and case management.",
+    "address": "234 Voeghtly St., Pittsburgh, PA 15212",
+    "phone": "412-803-4120",
+    "url": "https://www.lightoflife.org/",
+    "categorySlug": "housing",
+    "zipCode": "15086"
+  },
+  {
+    "name": "McKeesport Downtown Housing Severe Weather Emergency Shelter",
+    "description": "Provides severe weather emergency shelter.",
+    "address": "523 Sinclair Street, McKeesport, PA 15132",
+    "phone": "(412) 664-9168",
+    "url": "http://www.actionhousing.org/",
+    "categorySlug": "housing",
+    "zipCode": "15086"
+  },
+  {
+    "name": "Salvation Army - Family Caring Center",
+    "description": "Provides emergency shelter for families, including couples and parents with children, experiencing homelessness due to eviction, domestic violence, or other crises.",
+    "address": "6017 Broad Street, Pittsburgh, PA 15206",
+    "phone": "412-362-0891",
+    "url": "https://www.salvationarmy.org/",
+    "categorySlug": "housing",
+    "zipCode": "15086"
+  },
+  {
+    "name": "Bethlehem Haven",
+    "description": "Provides shelter and supportive services for homeless women, including emergency shelter, permanent supportive housing, rapid re-housing, and medical respite services.",
+    "address": "905 Watson Street, Pittsburgh, PA 15219-4709",
+    "phone": "412-391-1348",
+    "url": "https://www.pittsburghmercy.org/bethlehem-haven/",
+    "categorySlug": "housing",
+    "zipCode": "15086"
+  },
+  {
+    "name": "Bethlehem Haven",
+    "description": "Provides shelter and supportive services for homeless women, including emergency shelter, permanent supportive housing, rapid re-housing, and medical respite services.",
+    "address": "1410 Fifth Avenue, Pittsburgh, PA 15219-6216",
+    "phone": "412-391-1348",
+    "url": "https://www.pittsburghmercy.org/bethlehem-haven/",
+    "categorySlug": "housing",
+    "zipCode": "15086"
+  },
+  {
+    "name": "East End Cooperative Ministry Shelter",
+    "description": "Provides emergency shelter for men (dormitory-style, first-come, first-served, ages 18+), including dinner, breakfast, showers, and case management.",
+    "address": "6140 Station Street, Pittsburgh, PA 15206",
+    "phone": "412-345-7135",
+    "url": "https://www.eecm.org/",
+    "categorySlug": "housing",
+    "zipCode": "15086"
+  },
+  {
+    "name": "Northside Common Ministries Pleasant Valley Men's Shelter",
+    "description": "Provides emergency shelter for single, adult men, including meals, showers, laundry, clothing, counseling, and supportive services.",
+    "address": "1601 Brighton Road, Pittsburgh, PA 15212",
+    "phone": "412-321-4272",
+    "url": "http://www.ncmin.org/",
+    "categorySlug": "housing",
+    "zipCode": "15086"
+  },
+  {
+    "name": "New Beginnings",
+    "description": "A 30-day emergency shelter for women and children (male children up to 12 years of age), with 24-hour on-site staff for intake.",
+    "address": "7115 Bennett Street, Pittsburgh, PA 15208",
+    "phone": "(412) 271-5787",
+    "url": "Not available",
+    "categorySlug": "housing",
+    "zipCode": "15086"
+  },
+  {
+    "name": "Women's Center & Shelter of Greater Pittsburgh",
+    "description": "Provides emergency shelter for women and families fleeing domestic violence, offering security, basic needs, emotional support, crisis intervention, and connections to resources.",
+    "address": "Not provided",
+    "phone": "412-687-8005",
+    "url": "https://www.wcspittsburgh.org/",
+    "categorySlug": "crisis",
+    "zipCode": "15086"
+  },
+  {
+    "name": "Alle-Kiski Hope Center",
+    "description": "Provides housing and emergency shelter assistance for women and children who are victims of domestic violence.",
+    "address": "P.O. Box 67, Tarentum, PA 15084 (Physical: 500 E 8th Ave, Tarentum, PA - 15084)",
+    "phone": "1-888-299-4673",
+    "url": "https://www.akhopecenter.org/",
+    "categorySlug": "crisis",
+    "zipCode": "15086"
+  },
+  {
+    "name": "FamilyLinks Youth Emergency Shelters (YES)",
+    "description": "Shelters for teens aged 13 to 18 who are at risk of abuse, neglect, or homelessness, providing a safe temporary place, reunification services, counseling, and medical care.",
+    "address": "1601 Fifth Avenue, Pittsburgh, PA 15219",
+    "phone": "(412) 343-7166",
+    "url": "http://www.familylinks.org",
+    "categorySlug": "housing",
+    "zipCode": "15086"
+  },
+  {
+    "name": "Three Rivers Youth",
+    "description": "Offers various programs for runaway and homeless youth, including residential programs, day treatment, and shelters.",
+    "address": "6117 Broad Street, Pittsburgh, PA 15206",
+    "phone": "(412) 441-5020",
+    "url": "https://www.threeriversyouth.org/",
+    "categorySlug": "housing",
+    "zipCode": "15086"
+  },
+  {
+    "name": "Mission: Agape",
+    "description": "Food pantry strengthening families by overcoming food insecurity and providing solutions for moving from crisis to self-sustainment. Open Fridays.",
+    "address": "1201 Prescott St, White Oak, PA 15131",
+    "phone": "412-874-2158",
+    "url": "https://www.mission-agape.org/",
+    "categorySlug": "food",
+    "zipCode": "15131"
+  },
+  {
+    "name": "Salvation Army McKeesport Corps",
+    "description": "Nonprofit providing food, shelter, and social services in the McKeesport area. Operates a soup kitchen and food distribution program.",
+    "address": "821 Walnut St, McKeesport, PA 15132",
+    "phone": "412-673-6627",
+    "url": "https://pennsylvaniafoodbanks.org/food-bank/salvation-army-mckeesport-corps-soup-kitchen/",
+    "categorySlug": "food",
+    "zipCode": "15132"
+  },
+  {
+    "name": "Port Vue United Methodist Church Good Samaritan Food Pantry",
+    "description": "Bi-monthly food pantry serving approximately 70 families in Port Vue, Liberty, and Lincoln communities on the 1st and 3rd Fridays each month.",
+    "address": "1565 Washington Boulevard, Port Vue, PA 15133",
+    "phone": "412-672-7289",
+    "url": "https://www.portvueumc.org/foodpantry",
+    "categorySlug": "food",
+    "zipCode": "15133"
+  },
+  {
+    "name": "InterChurch Food Bank",
+    "description": "Community food bank serving McKees Rocks and surrounding areas through an interdenominational church partnership.",
+    "address": "618 Russellwood Ave, McKees Rocks, PA 15136",
+    "phone": "412-771-4088",
+    "url": "https://www.foodpantries.org/li/interchurch_food_bank_15136",
+    "categorySlug": "food",
+    "zipCode": "15136"
+  },
+  {
+    "name": "Pitcairn Food Pantry",
+    "description": "Local nonprofit food pantry serving Pitcairn and surrounding communities, operated by PitCare Inc.",
+    "address": "428 Highland Ave, Pitcairn, PA 15140",
+    "phone": "412-380-1090",
+    "url": "https://www.pitcare.org/pitcairn-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "15140"
+  },
+  {
+    "name": "Rankin Christian Center Food Pantry",
+    "description": "Community food pantry in Rankin serving the Braddock and surrounding areas in partnership with the Greater Pittsburgh Community Food Bank.",
+    "address": "230 3rd Avenue, Rankin, PA 15104",
+    "phone": "412-271-8313",
+    "url": "https://www.rankinchristiancenter.org/programs/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "15142"
+  },
+  {
+    "name": "Garden City UMC Food Pantry",
+    "description": "Food pantry serving Monroeville, Pitcairn, Wall, Wilmerding, and Turtle Creek communities.",
+    "address": "500 Laurel Drive, Monroeville, PA 15146",
+    "phone": "412-373-0391",
+    "url": "https://www.gardencityfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "15146"
+  },
+  {
+    "name": "Crossroads Presbyterian Church Food Pantry",
+    "description": "Nonprofit food pantry open every Friday 9am to noon, serving Monroeville and surrounding communities.",
+    "address": "2310 Haymaker Road, Monroeville, PA 15146",
+    "phone": "412-372-2311",
+    "url": "https://www.crossroadspresbyterian.com/food-pantry.html",
+    "categorySlug": "food",
+    "zipCode": "15146"
+  },
+  {
+    "name": "Brashear Association Food Pantry",
+    "description": "Community food pantry serving residents of zip codes 15203, 15210, 15211, and 15227. Open Tuesdays and Thursdays noon to 4pm. Must be 18+ and at or below 200% federal poverty guidelines.",
+    "address": "320 Brownsville Road, Pittsburgh, PA 15203",
+    "phone": "412-431-2236",
+    "url": "https://www.brashearassociation.org/food-assistance",
+    "categorySlug": "food",
+    "zipCode": "15203"
+  },
+  {
+    "name": "East End Cooperative Ministry Food Pantry",
+    "description": "One of Pittsburgh's largest food pantries, serving zip codes 15206, 15224, 15232, and 15217. Open Monday\u2013Friday mornings and afternoons.",
+    "address": "6140 Station Street, Entrance C, Pittsburgh, PA 15206",
+    "phone": "412-361-5549",
+    "url": "https://www.eecm.org/communityfoodservices",
+    "categorySlug": "food",
+    "zipCode": "15206"
+  },
+  {
+    "name": "The People's Food Pantry \u2013 Community Empowerment Association",
+    "description": "Nonprofit food pantry in the Homewood neighborhood serving Pittsburgh's East End communities.",
+    "address": "724 N. Homewood Ave, Pittsburgh, PA 15208",
+    "phone": "412-371-7226",
+    "url": "https://www.ceapittsburgh.org/programs/community",
+    "categorySlug": "food",
+    "zipCode": "15208"
+  },
+  {
+    "name": "Northside Common Ministries Food Pantry",
+    "description": "Food pantry serving residents of zip codes 15212, 15214, and 15233. Open Tuesday, Wednesday, and Friday 9:30am\u2013noon.",
+    "address": "1601 Brighton Road, Pittsburgh, PA 15212",
+    "phone": "412-323-1163",
+    "url": "http://www.northsidefoodpantryadvisors.org/",
+    "categorySlug": "food",
+    "zipCode": "15212"
+  },
+  {
+    "name": "Light of Life Rescue Mission Emergency Shelter",
+    "description": "Emergency shelter and food pantry for homeless individuals and families in Allegheny County. Provides meals, showers, clothing, and case management.",
+    "address": "10 East North Avenue, Pittsburgh, PA 15212",
+    "phone": "412-258-6136",
+    "url": "https://www.lightoflife.org/food-pantry/",
+    "categorySlug": "housing",
+    "zipCode": "15212"
+  },
+  {
+    "name": "Pleasant Valley Men's Shelter",
+    "description": "Emergency overnight shelter for homeless men in the Northside. Accommodates 25 men nightly with hot meals, showers, and safe sleeping quarters. Opens daily at 4:30pm.",
+    "address": "1601 Brighton Road, Pittsburgh, PA 15212",
+    "phone": "412-321-4272",
+    "url": "https://www.cap4kids.org/pittsburgh/parent-handouts/shelters/",
+    "categorySlug": "housing",
+    "zipCode": "15212"
+  },
+  {
+    "name": "JFCS Squirrel Hill Food Pantry",
+    "description": "Large community food pantry serving Pittsburgh's Squirrel Hill neighborhood and surrounding areas, open most weekdays. Kosher items available. Part of Jewish Family and Community Services.",
+    "address": "828 Hazelwood Avenue, Pittsburgh, PA 15217",
+    "phone": "412-421-2708",
+    "url": "https://www.jfcspgh.org/services/squirrel-hill-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "15217"
+  },
+  {
+    "name": "Wilkinsburg Community Ministry Food Pantry",
+    "description": "Community food pantry serving Wilkinsburg residents. Open Monday, Wednesday\u2013Friday 9am\u20131pm and Tuesday 3\u20137pm. Proof of 15221 residency required.",
+    "address": "702-704 Wood Street, Wilkinsburg, PA 15221",
+    "phone": "412-241-8072",
+    "url": "https://wcm15221.org/",
+    "categorySlug": "food",
+    "zipCode": "15221"
+  },
+  {
+    "name": "Community Human Services Soup Kitchen",
+    "description": "Daily soup kitchen and social services provider in downtown Pittsburgh. Open daily 6am\u20138pm.",
+    "address": "301 Third Street, Pittsburgh, PA 15222",
+    "phone": "412-765-3302",
+    "url": "https://www.chscorp.org/community-programs",
+    "categorySlug": "food",
+    "zipCode": "15222"
+  },
+  {
+    "name": "St. Mary of Mercy Red Door Ministry",
+    "description": "Food and hospitality program serving those in need in downtown Pittsburgh, open Monday\u2013Saturday 10:30\u201311:30am.",
+    "address": "202 Stanwix Street, Pittsburgh, PA 15222",
+    "phone": "412-261-0110",
+    "url": "https://www.foodpantries.org/ci/pa-pittsburgh",
+    "categorySlug": "food",
+    "zipCode": "15222"
+  },
+  {
+    "name": "Catholic Community of Bloomfield Food Pantry",
+    "description": "Monthly food pantry distribution for Bloomfield neighborhood residents, open the 3rd Saturday each month 9\u201311am.",
+    "address": "4712 Liberty Avenue, Pittsburgh, PA 15224",
+    "phone": "412-682-5353",
+    "url": "https://www.foodpantries.org/ci/pa-pittsburgh",
+    "categorySlug": "food",
+    "zipCode": "15224"
+  },
+  {
+    "name": "South Hills Interfaith Movement (SHIM) Food Pantry",
+    "description": "Fully stocked shop-through and drive-through food pantries serving South Hills communities including Bethel Park, Baldwin-Whitehall, Brentwood, and Mt. Lebanon. Open twice monthly on Thursdays and Fridays.",
+    "address": "2601 South Park Road, Bethel Park, PA 15102",
+    "phone": "412-854-9120",
+    "url": "https://shimcares.org/basic-needs-assistance/",
+    "categorySlug": "food",
+    "zipCode": "15226"
+  },
+  {
+    "name": "SHIM South Hills Family Center Food Pantry",
+    "description": "Shop-through and drive-through food pantries serving South Hills communities including Mt. Lebanon, Baldwin-Whitehall, and South Park. Open twice monthly on Thursdays and Fridays.",
+    "address": "1400 Lebanon Church Road, Pittsburgh, PA 15236",
+    "phone": "412-854-9120",
+    "url": "https://shimcares.org/basic-needs-assistance/",
+    "categorySlug": "food",
+    "zipCode": "15236"
+  },
+  {
+    "name": "North Hills Community Outreach Food Pantry - North Boroughs",
+    "description": "NHCO food pantry serving North Pittsburgh and North Hills communities in Allegheny County. Part of a three-pantry network.",
+    "address": "939 California Avenue, Pittsburgh, PA 15202",
+    "phone": "412-487-6316",
+    "url": "https://www.nhco.org/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "15237"
+  },
+  {
+    "name": "Jeremiah's Place",
+    "description": "Pittsburgh's only crisis nursery providing free, 24/7 emergency childcare for families in need. Serves children ages 0\u20136.",
+    "address": "562 Camp Horne Road, Pittsburgh, PA 15237",
+    "phone": "412-822-6800",
+    "url": "https://jeremiahsplace.org/",
+    "categorySlug": "crisis",
+    "zipCode": "15237"
+  },
+  {
+    "name": "Penn Hills Service Association Food Pantry",
+    "description": "Nonprofit food pantry providing canned goods, staples, meats, dairy, and produce to Penn Hills residents. Distribution by appointment.",
+    "address": "2519 Universal Road, Penn Hills, PA 15235",
+    "phone": "412-798-2711",
+    "url": "https://pennsylvaniafoodbanks.org/food-bank/pennhills-service-assoc/",
+    "categorySlug": "food",
+    "zipCode": "15235"
+  },
+  {
+    "name": "Zion Lutheran Church Food Pantry",
+    "description": "Local church food pantry serving Penn Hills and surrounding communities.",
+    "address": "11609 Frankstown Road, Pittsburgh, PA 15235",
+    "phone": "412-242-2626",
+    "url": "https://www.foodpantries.org/ci/pa-pittsburgh",
+    "categorySlug": "food",
+    "zipCode": "15235"
+  },
+  {
+    "name": "Armstrong County Community Action Food Bank",
+    "description": "Network of 17 food pantries throughout Armstrong County serving low-income, working, and homeless persons. Call to connect with the nearest pantry location.",
+    "address": "326 S. Water Street, Suite 1, Kittanning, PA 16201",
+    "phone": "724-548-3408",
+    "url": "https://www.armstrongcap.com/food-bank-1",
+    "categorySlug": "food",
+    "zipCode": "16201"
+  },
+  {
+    "name": "Community Action Inc. - Clarion Food Pantry",
+    "description": "Emergency supplemental food pantry for eligible Clarion County residents. Open Monday\u2013Friday 8:30am\u20134:30pm. Must be at or below 200% federal poverty guidelines.",
+    "address": "22868 Route 68, Clarion, PA 16214",
+    "phone": "814-226-4785",
+    "url": "https://www.jccap.org/ProjectPage?ProjectID=82",
+    "categorySlug": "food",
+    "zipCode": "16222"
+  },
+  {
+    "name": "Charitable Deeds Food Pantry",
+    "description": "Local food pantry in Knox serving Clarion County residents. Open the 4th Thursday of each month.",
+    "address": "260 High Point Road, Knox, PA 16232",
+    "phone": "814-797-0286",
+    "url": "https://www.foodpantries.org/ci/pa-pittsburgh",
+    "categorySlug": "food",
+    "zipCode": "16232"
+  },
+  {
+    "name": "Leechburg Community Food Bank",
+    "description": "Local nonprofit food bank serving Leechburg and surrounding Allegheny Valley communities. Monthly distribution on the last Wednesday of each month.",
+    "address": "251 Main Street, Leechburg, PA 15656",
+    "phone": "724-568-7667",
+    "url": "http://www.leechburgfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "16228"
+  },
+  {
+    "name": "Armstrong County Community Action Pantry Network",
+    "description": "Network of 17 food pantries throughout Armstrong County including Ford City, Kittanning, and surrounding areas. Call to find nearest location and schedule.",
+    "address": "326 S. Water Street, Suite 1, Kittanning, PA 16201",
+    "phone": "724-548-3408",
+    "url": "https://www.armstrongcap.com/pantries",
+    "categorySlug": "food",
+    "zipCode": "16226"
+  },
+  {
+    "name": "Brookville Area Food Pantry",
+    "description": "Ministerial association-operated food pantry serving Jefferson County residents since the early 1980s. Open Thursdays 10am\u2013noon and 6:30\u20138pm.",
+    "address": "142 Allegheny Blvd, Brookville, PA 15825",
+    "phone": "814-849-0818",
+    "url": "https://brookvilleareafoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "16240"
+  },
+  {
+    "name": "Redbank Valley Church Association Food Pantry",
+    "description": "Nonprofit food pantry serving Clarion and Armstrong County residents in the Redbank Valley School District area. Distribution twice monthly on the 2nd and 3rd Tuesday.",
+    "address": "441 Broad Street, New Bethlehem, PA 16242",
+    "phone": "814-275-2000",
+    "url": "https://www.rvchurchassociation.org/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "16253"
+  },
+  {
+    "name": "Families Matter Food Pantry",
+    "description": "Nonprofit food pantry serving all of Beaver County. Open Monday (veterans), Tuesday, and Thursday afternoons. Photo ID and utility bill required.",
+    "address": "186 Wagner Road, Monaca, PA 15061",
+    "phone": "724-770-1920",
+    "url": "https://www.familiesmatterfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "15001"
+  },
+  {
+    "name": "Salvation Army - Aliquippa",
+    "description": "Emergency food pantry and social services for Aliquippa and surrounding Beaver County communities. Open Tuesdays 11am\u20131pm.",
+    "address": "514 Franklin Avenue, Aliquippa, PA 15001",
+    "phone": "724-378-0875",
+    "url": "https://www.salvationarmyusa.org/",
+    "categorySlug": "food",
+    "zipCode": "15001"
+  },
+  {
+    "name": "Center for Hope Food Pantry",
+    "description": "Community food pantry in Ambridge distributing food on the 3rd Wednesday and 3rd Thursday each month.",
+    "address": "740 Park Road, Ambridge, PA 15003",
+    "phone": "724-266-3620",
+    "url": "https://www.foodpantries.org/co/pa-beaver",
+    "categorySlug": "food",
+    "zipCode": "15003"
+  },
+  {
+    "name": "Salvation Army - Rochester",
+    "description": "Beaver County food pantry and social services serving zip codes 15009, 15027, 15042, and 15074.",
+    "address": "378 Jefferson Street, Rochester, PA 15074",
+    "phone": "724-774-8335",
+    "url": "https://www.salvationarmyusa.org/",
+    "categorySlug": "food",
+    "zipCode": "15042"
+  },
+  {
+    "name": "First Baptist Church Blessing Basket Food Pantry",
+    "description": "Church-operated food pantry serving Freedom Borough and Beaver County communities.",
+    "address": "101 1st Street, Freedom, PA 15042",
+    "phone": "724-728-3810",
+    "url": "https://www.foodpantries.org/co/pa-beaver",
+    "categorySlug": "food",
+    "zipCode": "15042"
+  },
+  {
+    "name": "Christian Assembly Church Food Pantry",
+    "description": "Local church food pantry serving Industry, PA and surrounding communities in western Beaver County.",
+    "address": "6241 Tuscarawas Road, Industry, PA 15052",
+    "phone": "724-643-0141",
+    "url": "https://www.foodpantries.org/co/pa-beaver",
+    "categorySlug": "food",
+    "zipCode": "15052"
+  },
+  {
+    "name": "Bountiful Blessings at First Presbyterian",
+    "description": "Food pantry serving New Brighton and surrounding communities, open the 2nd and 4th Thursday each month 5\u20137pm.",
+    "address": "1199 3rd Ave, New Brighton, PA 15066",
+    "phone": "724-843-9636",
+    "url": "https://www.foodpantries.org/co/pa-beaver",
+    "categorySlug": "food",
+    "zipCode": "15066"
+  },
+  {
+    "name": "Darlington Food Pantry",
+    "description": "Nonprofit food pantry open to anyone in need regardless of zip code or county. Open the 3rd Friday and Saturday of each month 10am\u20132pm.",
+    "address": "3385 Old Darlington Road, Darlington, PA 16115",
+    "phone": "724-709-0066",
+    "url": "https://www.facebook.com/thedarlingtonfoodpantry/",
+    "categorySlug": "food",
+    "zipCode": "16115"
+  },
+  {
+    "name": "Salvation Army - Ellwood City",
+    "description": "Food pantry and emergency services serving Lawrence County communities including Ellwood City, Wampum, and surrounding areas.",
+    "address": "400 Lawrence Ave, Ellwood City, PA 16117",
+    "phone": "724-891-3605",
+    "url": "https://www.salvationarmyusa.org/",
+    "categorySlug": "food",
+    "zipCode": "16123"
+  },
+  {
+    "name": "Bedford Food Outreach Inc.",
+    "description": "501(c)(3) food bank providing food assistance to Bedford County households on a first-come-first-served basis.",
+    "address": "3759 Business 220, Bedford, PA 15522",
+    "phone": "814-623-9129",
+    "url": "https://pennsylvaniafoodbanks.org/food-bank/bedford-food-outreach-inc/",
+    "categorySlug": "food",
+    "zipCode": "15522"
+  },
+  {
+    "name": "Center for Community Action - Everett Food Pantry",
+    "description": "Monthly food distribution for Bedford County residents. Distribution on the 2nd Thursday of each month 11am\u20131pm.",
+    "address": "195 Drive In Lane, Everett, PA 15537",
+    "phone": "814-623-9129",
+    "url": "https://www.centerforcommunityaction.org/our-departments/food-pantries-and-schedules/",
+    "categorySlug": "food",
+    "zipCode": "15537"
+  },
+  {
+    "name": "Center for Community Action - Bedford Food Pantry",
+    "description": "Monthly food distribution for Bedford County residents. Distribution the 3rd Friday of each month 9am\u2013noon.",
+    "address": "140 School Street, Bedford, PA 15522",
+    "phone": "814-623-9129",
+    "url": "https://www.centerforcommunityaction.org/our-departments/food-pantries-and-schedules/",
+    "categorySlug": "food",
+    "zipCode": "15522"
+  },
+  {
+    "name": "Manns Choice Food Pantry",
+    "description": "Local food pantry serving southern Bedford County communities including Manns Choice, Schellsburg, and surrounding areas.",
+    "address": "138 Chestnut Street, Manns Choice, PA 15550",
+    "phone": "814-623-9129",
+    "url": "https://www.centerforcommunityaction.org/our-departments/food-pantries-and-schedules/",
+    "categorySlug": "food",
+    "zipCode": "15535"
+  },
+  {
+    "name": "Center for Community Action - Hyndman Food Pantry",
+    "description": "Monthly food distribution serving southern Bedford County residents. Distribution on the Friday following the 3rd Thursday each month, 8:30 AM \u2013 11:00 AM.",
+    "address": "4303 Hyndman Road, Hyndman, PA 15545",
+    "phone": "(814) 623-9129",
+    "url": "https://www.centerforcommunityaction.org/our-departments/food-pantries-and-schedules/",
+    "categorySlug": "food",
+    "zipCode": "15545"
+  },
+  {
+    "name": "Center for Community Action - Manns Choice Food Pantry",
+    "description": "Food pantry serving Bedford County residents in the Manns Choice area including zip codes 15550, 15545, 15554, 16664 and nearby. Distribution on the Friday following the 3rd Thursday each month, 9:00 AM \u2013 11:00 AM. Located in the alleyway of the former Methodist Church.",
+    "address": "138 Chestnut Street, Manns Choice, PA 15550",
+    "phone": "(814) 623-9129",
+    "url": "https://www.centerforcommunityaction.org/social-determinants-of-health-hub/view/537/manns-choice-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "15550"
+  },
+  {
+    "name": "Center for Community Action - New Paris Food Pantry",
+    "description": "Monthly food distribution for Bedford County residents in the New Paris area. Distribution on the 3rd Friday of each month, 9:00 AM \u2013 12:00 PM.",
+    "address": "4029 Cortland Drive, New Paris, PA 15554",
+    "phone": "(814) 623-9129",
+    "url": "https://www.centerforcommunityaction.org/our-departments/food-pantries-and-schedules/",
+    "categorySlug": "food",
+    "zipCode": "15554"
+  },
+  {
+    "name": "Center for Community Action - Saxton Food Pantry",
+    "description": "Monthly food distribution for Bedford County residents near Saxton. Distribution on the Friday following the 3rd Thursday each month, 9:00 AM \u2013 11:00 AM.",
+    "address": "702 Main Street, Saxton, PA 16678",
+    "phone": "(814) 623-9129",
+    "url": "https://www.centerforcommunityaction.org/our-departments/food-pantries-and-schedules/",
+    "categorySlug": "food",
+    "zipCode": "16678"
+  },
+  {
+    "name": "Center for Community Action \u2013 Homeless Assistance Program",
+    "description": "Provides emergency shelter, rental assistance, rapid rehousing, security deposit assistance, utility assistance, and homelessness prevention for Bedford County residents at or below 200% of the Federal Poverty Income Guidelines. Office open Monday\u2013Friday 8:00 AM \u2013 4:30 PM.",
+    "address": "195 Drive In Lane, Everett, PA 15537",
+    "phone": "(814) 623-2002",
+    "url": "https://www.centerforcommunityaction.org/our-departments/human-services/rent-and-homeless-assistance",
+    "categorySlug": "housing",
+    "zipCode": "15539"
+  },
+  {
+    "name": "Your Safe Haven, Inc.",
+    "description": "Bedford County's crime victim center providing emergency shelter and comprehensive services for victims of domestic violence, sexual assault, stalking, and other crimes. 24-hour crisis hotline available.",
+    "address": "220 South Thomas Street, Bedford, PA 15522",
+    "phone": "(814) 623-7664",
+    "url": "https://www.yoursafehaven.org/",
+    "categorySlug": "crisis",
+    "zipCode": "15545"
+  },
+  {
+    "name": "United Way of Bedford County \u2013 Emergency Food and Shelter Program",
+    "description": "Coordinates emergency food and shelter assistance for Bedford County residents, including help with groceries, lodging, one month's rent or mortgage payment, and one month's utility bill.",
+    "address": "119 East Penn Street, Bedford, PA 15522",
+    "phone": "(814) 624-0041",
+    "url": "https://www.uwaybedfordpa.org/emergency-food-and-shelter/",
+    "categorySlug": "housing",
+    "zipCode": "15559"
+  },
+  {
+    "name": "Habitat for Humanity of Bedford County",
+    "description": "Nonprofit building and improving safe, affordable homes in partnership with low-income families throughout Bedford County. Accepts applications from households in need of decent, affordable housing.",
+    "address": "120 West Pitt Street, Bedford, PA 15522",
+    "phone": "(814) 624-3443",
+    "url": "https://bedfordcountyhabitat.org/",
+    "categorySlug": "housing",
+    "zipCode": "16678"
+  },
+  {
+    "name": "Bedford County Assistance Office",
+    "description": "Pennsylvania Department of Human Services county office providing LIHEAP heating assistance, SNAP food benefits, Medicaid, cash assistance (TANF), and other state benefit programs. Open Monday\u2013Friday 7:00 AM \u2013 5:00 PM.",
+    "address": "150 North Street, Bedford, PA 15522",
+    "phone": "(814) 623-6127",
+    "url": "https://www.pa.gov/agencies/dhs/contact/cao-information",
+    "categorySlug": "utilities",
+    "zipCode": "16650"
+  },
+  {
+    "name": "Center for Community Action \u2013 LIHEAP & Weatherization",
+    "description": "Helps Bedford County households apply for LIHEAP heating assistance and provides weatherization services to reduce energy costs for low-income residents.",
+    "address": "195 Drive In Lane, Everett, PA 15537",
+    "phone": "(800) 323-9997",
+    "url": "https://www.centerforcommunityaction.org/",
+    "categorySlug": "utilities",
+    "zipCode": "15539"
+  },
+  {
+    "name": "Altoona/Blair County Food Bank",
+    "description": "Food bank providing emergency food assistance to Blair County residents, open Monday, Wednesday, and Friday. Clients may receive food services up to 12 times in a 12-month period.",
+    "address": "2318 N Branch Ave, Altoona, PA 16601",
+    "phone": "",
+    "url": "https://reentry.networkofcare.org/blair-pa/services/agency?pid=altoonafoodbank_19_1701_1",
+    "categorySlug": "food",
+    "zipCode": "16601"
+  },
+  {
+    "name": "Father's House Food Pantry (Nehemiah Project)",
+    "description": "Local food pantry open to residents of the City of Altoona, providing food assistance Monday evenings, Thursday afternoons, and Saturday mornings.",
+    "address": "1017 16th Avenue, Altoona, PA 16601",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "16601"
+  },
+  {
+    "name": "Second Avenue United Methodist Church Food Pantry",
+    "description": "Faith-based food pantry serving residents of Altoona and surrounding areas in Blair County.",
+    "address": "Altoona, PA 16601",
+    "phone": "",
+    "url": "https://www.findhelp.org/second-avenue-united-methodist-church--altoona-pa--food-pantry/5854900701495296",
+    "categorySlug": "food",
+    "zipCode": "16601"
+  },
+  {
+    "name": "SVDP Assumption Chapel Food Pantry",
+    "description": "Society of St. Vincent de Paul emergency food pantry serving Altoona, Bellwood, and Antis Townships. Appointment required by calling ahead. Serves zip codes 16601, 16602, 16617.",
+    "address": "Altoona, PA 16602",
+    "phone": "",
+    "url": "https://svdpcares.org/food-pantries/",
+    "categorySlug": "food",
+    "zipCode": "16602"
+  },
+  {
+    "name": "Blair County Community Action Program",
+    "description": "Provides emergency food, emergency shelter, food pantries, housing counseling, job training, and utility assistance to Blair County residents. Open Mon-Fri 8am-3:30pm.",
+    "address": "2301 Beale Avenue, Altoona, PA 16601",
+    "phone": "",
+    "url": "https://reentry.networkofcare.org/blair-pa/services/agency?pid=blaircountycommunityactionprogram_19_1701_1",
+    "categorySlug": "community",
+    "zipCode": "16601"
+  },
+  {
+    "name": "Family Services Inc - Family Shelter",
+    "description": "Provides a safe, supportive environment for individuals and families experiencing homelessness in Blair County. Also serves domestic violence victims and runaway youth. 24-hour helpline available.",
+    "address": "Altoona, PA 16601",
+    "phone": "814-944-3585",
+    "url": "https://familyservicesinc.net/family-shelter/",
+    "categorySlug": "housing",
+    "zipCode": "16601"
+  },
+  {
+    "name": "Emergency Shelter Project Inc",
+    "description": "Assists families and individuals who are homeless or near-homeless to achieve a more independent lifestyle by providing emergency and transitional housing and supportive services.",
+    "address": "Altoona, PA 16602",
+    "phone": "",
+    "url": "https://www.centerforcommunityaction.org/social-determinants-of-health-hub/view/144/blair-county-family-shelteremergency-shelter-project",
+    "categorySlug": "housing",
+    "zipCode": "16602"
+  },
+  {
+    "name": "American Rescue Workers Food Pantry",
+    "description": "Christian nonprofit food pantry serving approximately 175 families per month. Serves Hollidaysburg, Duncansville, Martinsburg, East Freedom, Roaring Spring, Newry, and Williamsburg. Open Mon-Fri 9am-4pm.",
+    "address": "811 Scotch Valley Road, Hollidaysburg, PA 16648",
+    "phone": "814-695-0762",
+    "url": "https://www.arwholly.org/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "16648"
+  },
+  {
+    "name": "Martinsburg Ministerium Food Pantry",
+    "description": "Community food pantry open the 1st and 3rd Thursday of each month from 10am to noon, serving Martinsburg and surrounding areas.",
+    "address": "133 E Allegheny St, Martinsburg, PA 16662",
+    "phone": "814-793-3958",
+    "url": "https://www.centerforcommunityaction.org/social-determinants-of-health-hub/view/565/martinsburg-ministerium-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "16662"
+  },
+  {
+    "name": "Roaring Spring Food Bank",
+    "description": "Local food pantry helping meet the nutritional needs of the Roaring Spring community. Open every Thursday afternoon. Located behind the church accessible from Girard Street.",
+    "address": "401 E Main St, Roaring Spring, PA 16673",
+    "phone": "814-946-0098",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "16673"
+  },
+  {
+    "name": "Tyrone Area Food Bank",
+    "description": "Local food bank operating at Wesley United Methodist Church, open Thursdays 9:00-10:30am and the second Thursday of each month from 5:30-7pm. Photo ID required.",
+    "address": "1200 Logan Avenue, Tyrone, PA 16686",
+    "phone": "814-934-7672",
+    "url": "https://tyronefb.com/",
+    "categorySlug": "food",
+    "zipCode": "16686"
+  },
+  {
+    "name": "Woodbury Food Pantry",
+    "description": "Community food pantry serving Woodbury and surrounding Blair County communities. Distribution on the Friday following the third Thursday of each month from 9am to 11:30am.",
+    "address": "4100 Woodbury Pike, Woodbury, PA 16695",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "16695"
+  },
+  {
+    "name": "St. Vincent de Paul Food Bank - Butler",
+    "description": "Food bank serving Butler County residents, open Monday, Wednesday, and Friday from 8:30-10am.",
+    "address": "146 N. Monroe St, Butler, PA 16001",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "16001"
+  },
+  {
+    "name": "Butler County Community Action Food Pantry",
+    "description": "Community action food pantry serving low-income residents of Butler County with emergency food assistance.",
+    "address": "Butler, PA 16001",
+    "phone": "",
+    "url": "https://www.behealthypa.org/food-banks/butler-county-community-action/",
+    "categorySlug": "food",
+    "zipCode": "16001"
+  },
+  {
+    "name": "Catholic Charities - Butler County Housing Assistance",
+    "description": "Manages Butler County waiting list for housing programs; offers Emergency Solutions Grant, Family Connections short-term emergency family housing, and Home Again permanent supportive housing. Winter Warming Center vouchers available by calling.",
+    "address": "120 W. Cunningham Street, Suite 200, Butler, PA 16001",
+    "phone": "724-287-4011",
+    "url": "https://ccpgh.org/services/housing-and-shelter-assistance/",
+    "categorySlug": "housing",
+    "zipCode": "16001"
+  },
+  {
+    "name": "The Lighthouse Foundation",
+    "description": "Operates one of the largest weekly food pantries in Butler County and provides transitional housing for those facing homelessness. Food pantry open Monday, Tuesday, Wednesday, and Thursday.",
+    "address": "116 Browns Hill Rd, Valencia, PA 16059",
+    "phone": "",
+    "url": "https://www.thelighthousepa.org/",
+    "categorySlug": "food",
+    "zipCode": "16059"
+  },
+  {
+    "name": "Center for Community Resources (CCR)",
+    "description": "Provides homeless case management and emergency services to Butler County residents. Emergency services available 24/7.",
+    "address": "Butler, PA 16001",
+    "phone": "1-800-292-3866",
+    "url": "https://www.findhelp.org/provider/center-for-community-resources-(ccr)--butler-pa/6219289965625344",
+    "categorySlug": "housing",
+    "zipCode": "16001"
+  },
+  {
+    "name": "Petroleum Valley Food Cupboard",
+    "description": "Local food cupboard serving Allegheny Twp, Donegal Twp, Fairview Twp, Parker Twp, Bruin, Chicora, Karns City, and Petrolia. Operating on the 3rd Friday by appointment.",
+    "address": "120 Chestnut Street, Petrolia, PA 16050",
+    "phone": "724-697-6062",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "16025"
+  },
+  {
+    "name": "Southwest Butler Food Cupboard",
+    "description": "Provides free food to people in Butler County who are having difficulty providing for themselves and their families.",
+    "address": "Butler County, PA",
+    "phone": "724-453-4184",
+    "url": "https://www.swbfoodcupboard.org/",
+    "categorySlug": "food",
+    "zipCode": "16001"
+  },
+  {
+    "name": "Troy Food Pantry",
+    "description": "Local food pantry serving residents of Troy and surrounding Bradford County communities.",
+    "address": "523 Elmira St, Troy, PA 16947",
+    "phone": "570-297-1095",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "16947"
+  },
+  {
+    "name": "Evans City Food Cupboard",
+    "description": "Local food cupboard operating on the 1st and 3rd Friday of each month from 8:30-10:30am. Must call prior to distribution to register.",
+    "address": "2 Van Buren Street (St. Peters Lutheran Church), Evans City, PA 16033",
+    "phone": "724-538-0542",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "16033"
+  },
+  {
+    "name": "Southwest Butler Food Cupboard",
+    "description": "Since 1983, provides food on an as-needed basis to residents of Zelienople, Harmony, and Jackson and Lancaster Townships. Monthly distribution of 7-10 days worth of food.",
+    "address": "557 Perry Highway, Harmony, PA 16037",
+    "phone": "724-453-4184",
+    "url": "https://www.swbfoodcupboard.org/",
+    "categorySlug": "food",
+    "zipCode": "16037"
+  },
+  {
+    "name": "Feed My Sheep Food Pantry",
+    "description": "Community food pantry serving Mercer Township, Slippery Rock Township, Worth Township, N. Brady Township, Harrisville, Slippery Rock, and West Liberty. Distribution on the 1st, 2nd, and 4th Thursday of every month.",
+    "address": "Harrisville, PA 16038",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "16038"
+  },
+  {
+    "name": "Portersville Food Pantry",
+    "description": "501(c)(3) nonprofit food pantry operating since 1991 out of the Portersville-Muddycreek Fire Hall. Distribution from 1-3pm the first Tuesday of the month.",
+    "address": "160 E. Portersville Road, Portersville, PA 16051",
+    "phone": "724-368-9532",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "16051"
+  },
+  {
+    "name": "Petroleum Valley Food Cupboard",
+    "description": "Local food cupboard serving Allegheny Twp, Donegal Twp, Fairview Twp, Parker Twp, Bruin, Chicora, Karns City, and Petrolia. Operating on the 3rd Friday by appointment.",
+    "address": "120 Chestnut Street, Petrolia, PA 16050",
+    "phone": "724-697-6062",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "16041"
+  },
+  {
+    "name": "Family Life Food Pantry",
+    "description": "Serves Center Township and surrounding Butler County areas. Distributes on the 3rd Saturday of each month from 8:30-10:30am.",
+    "address": "Butler County, PA",
+    "phone": "",
+    "url": "https://www.flmbutler.com/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "16046"
+  },
+  {
+    "name": "The Lighthouse Foundation Food Pantry",
+    "description": "Largest weekly food pantry in Butler County. Distributes fresh produce, shelf stable items, meats, and dairy to families in Northern Allegheny County and all of Butler County.",
+    "address": "116 Browns Hill Rd, Valencia, PA 16059",
+    "phone": "",
+    "url": "https://www.thelighthousepa.org/food",
+    "categorySlug": "food",
+    "zipCode": "16059"
+  },
+  {
+    "name": "Feed My Sheep Food Cupboard - Slippery Rock",
+    "description": "Local food pantry serving N. Brady Township, Harrisville Borough, Slippery Rock, and West Liberty Borough. Open Tuesday and Thursday from 2:00-3:00pm. Proof of residency within the Slippery Rock area school district required.",
+    "address": "Slippery Rock, PA 16057",
+    "phone": "",
+    "url": "https://www.facebook.com/SRFeedMySheepFoodCupboard/",
+    "categorySlug": "food",
+    "zipCode": "16057"
+  },
+  {
+    "name": "Southwest Butler Food Cupboard (Zelienople Area)",
+    "description": "Serves Lancaster Township, Jackson Township, Harmony Borough, and Zelienople Borough with monthly food distributions.",
+    "address": "Zelienople, PA 16063",
+    "phone": "724-453-4184",
+    "url": "https://www.swbfoodcupboard.org/",
+    "categorySlug": "food",
+    "zipCode": "16063"
+  },
+  {
+    "name": "Bridges Cooperative Ministry Food Pantry",
+    "description": "Food pantry serving Johnstown and Cambria County residents in need of emergency food assistance.",
+    "address": "Johnstown, PA 15901",
+    "phone": "",
+    "url": "https://bridgescm.org/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "15901"
+  },
+  {
+    "name": "Franklin Street Food Pantry",
+    "description": "One of the largest food pantries in Cambria County, providing a 3-5 day food supply for hundreds of food-insecure families each month. Open every Tuesday from 9:30-11:30am.",
+    "address": "510 Locust St, Johnstown, PA 15901",
+    "phone": "814-539-2633",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "15901"
+  },
+  {
+    "name": "St. Clement Church Food Pantry",
+    "description": "Parish food pantry providing food assistance to Johnstown community members in need.",
+    "address": "Johnstown, PA 15901",
+    "phone": "",
+    "url": "https://stclementjohnstown.org/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "15901"
+  },
+  {
+    "name": "Greater Johnstown Christian Fellowship Food Pantry",
+    "description": "Food pantry open Mondays from 9am to noon serving Johnstown-area residents.",
+    "address": "3429 Elton Rd, Johnstown, PA 15904",
+    "phone": "814-266-2322",
+    "url": "https://www.centerforcommunityaction.org/social-determinants-of-health-hub/view/624/greater-johnstown-christian-fellowship-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "15904"
+  },
+  {
+    "name": "West End Food Pantry",
+    "description": "Community food pantry open Thursdays from 9am to noon serving Johnstown's west end and surrounding areas.",
+    "address": "1348 Virginia Ave, Johnstown, PA 15905",
+    "phone": "814-539-9269",
+    "url": "https://www.centerforcommunityaction.org/social-determinants-of-health-hub/view/633/west-end-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "15905"
+  },
+  {
+    "name": "Community Help Center - Emergency Shelter",
+    "description": "Low-barrier emergency shelter for women and their children experiencing homelessness in Cambria County, open 24/7. Referrals through 211. Also operates Cambria House for adult males.",
+    "address": "809 Napoleon Street, Johnstown, PA 15901",
+    "phone": "814-536-5361",
+    "url": "https://www.communityhelpctr.org/services",
+    "categorySlug": "housing",
+    "zipCode": "15901"
+  },
+  {
+    "name": "Food Bank for Northern Cambria County",
+    "description": "Twice-monthly food distribution operated by the Peter Lemke Council of the Saint Vincent de Paul Society, serving Hastings, Carrolltown, Nicktown, Northern Cambria, St. Benedict, and surrounding northern Cambria County.",
+    "address": "Barnesboro, PA 15714",
+    "phone": "",
+    "url": "https://saintvincentarchabbey.org/food-bank-for-northern-cambria-county/",
+    "categorySlug": "food",
+    "zipCode": "15714"
+  },
+  {
+    "name": "SVDP Food Pantry - Ebensburg",
+    "description": "Society of St. Vincent de Paul food pantry serving Ebensburg and surrounding Cambria County communities. Open Tuesday, Wednesday, Friday, and Saturday 10am-noon; Thursday 9am-noon.",
+    "address": "3138 New Germany Rd., Ste. 88, Ebensburg, PA 15931",
+    "phone": "",
+    "url": "https://svdpcares.org/food-pantries/",
+    "categorySlug": "food",
+    "zipCode": "15931"
+  },
+  {
+    "name": "Walnut Grove Food Pantry",
+    "description": "Community food pantry open the 1st and 3rd Thursday of each month from 9-11:30am, serving Johnstown residents.",
+    "address": "1068 Bedford St, Johnstown, PA 15906",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "15906"
+  },
+  {
+    "name": "Community Action Partnership of Cambria County (CAPCC)",
+    "description": "Provides food, housing assistance, education, and emergency services to families in need throughout Cambria County.",
+    "address": "Johnstown, PA 15901",
+    "phone": "",
+    "url": "https://www.capcc.us/",
+    "categorySlug": "community",
+    "zipCode": "15909"
+  },
+  {
+    "name": "Interfaith Community Food Pantry - Nanty Glo",
+    "description": "Nonprofit food pantry serving Belsano, Conemaugh, Franklin, Mundys Corner, Nanty Glo, Twin Rocks, Vinco, Blacklick, East Taylor, and Jackson Township. Open 11am-1pm on the 4th Saturday of the month.",
+    "address": "1128 Shoemaker St, Nanty Glo, PA 15943",
+    "phone": "",
+    "url": "https://search.findcra.com/nonprofit/interfaith-community-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "15943"
+  },
+  {
+    "name": "Saint Francis University Dorothy Day Outreach Center Food Pantry",
+    "description": "Food pantry providing basic nutritional food to eligible families once a month. Located at Saint Francis University campus, serving Loretto and surrounding Cambria County communities.",
+    "address": "Loretto, PA 15940",
+    "phone": "",
+    "url": "https://www.findhelp.org/provider/saint-francis-university---dorothy-day-outreach-center--loretto-pa/6285260224593920",
+    "categorySlug": "food",
+    "zipCode": "15940"
+  },
+  {
+    "name": "Good Samaritan Food Pantry - Cambria County",
+    "description": "Food pantry providing quality food items with distribution on the 2nd and 4th Thursday of each month in Cambria County.",
+    "address": "Cambria County, PA",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "15952"
+  },
+  {
+    "name": "Cameron County Community Food Pantry",
+    "description": "Local food pantry serving Cameron County residents, open for distribution on the 3rd Wednesday of each month from 1-3pm. Must call to register.",
+    "address": "75.5 South Maple Street, Emporium, PA 15834",
+    "phone": "814-486-1161",
+    "url": "https://www.facebook.com/CameronCountyFoodBank/",
+    "categorySlug": "food",
+    "zipCode": "15834"
+  },
+  {
+    "name": "Northern Tier Community Action Corporation - Elk & Cameron Food Banks",
+    "description": "Community-based nonprofit providing food boxes to low-income families in Cameron, Elk, McKean, and Potter counties. Operating since 1966.",
+    "address": "Emporium, PA 15834",
+    "phone": "",
+    "url": "https://www.ntcac.org/services/food-nutrition/elk-cameron-food-banks/",
+    "categorySlug": "food",
+    "zipCode": "15834"
+  },
+  {
+    "name": "Cresson Pantry (Center for Population Health)",
+    "description": "Food pantry serving Ashville, Cresson, Dysart, Gallitzin, Lilly, Sankertown, and Penn Cambria School District. Open Thursdays 9am-noon.",
+    "address": "115 Ashcroft Ave, Cresson, PA 16630",
+    "phone": "",
+    "url": "https://www.centerforpophealth.org/food-resource/cresson-pantry/",
+    "categorySlug": "food",
+    "zipCode": "16630"
+  },
+  {
+    "name": "Saint Bernard Food Pantry - Hastings",
+    "description": "Food pantry that has distributed over nine million pounds of food. Serves Hastings, Carrolltown, Nicktown, Northern Cambria, and St. Benedict. Twice-monthly distribution for seniors and low-income families plus a once-a-month large food giveaway.",
+    "address": "139 Huber Street, Hastings, PA 16646",
+    "phone": "",
+    "url": "https://saintvincentarchabbey.org/hastings-food-pantry-reaches-9-million-pound-mark/",
+    "categorySlug": "food",
+    "zipCode": "16646"
+  },
+  {
+    "name": "St. Vincent de Paul Patton Food Pantry",
+    "description": "Food pantry open the 1st and 2nd Wednesday and 3rd Thursday of each month from 9-11am, serving Patton and surrounding Cambria County communities.",
+    "address": "323 Mellon Ave, Patton, PA 16668",
+    "phone": "814-674-3346",
+    "url": "https://svdpcares.org/food-pantries/",
+    "categorySlug": "food",
+    "zipCode": "16668"
+  },
+  {
+    "name": "Good Samaritan Food Pantry - Northern Cambria",
+    "description": "Community food pantry providing quality food items to residents of Northern Cambria and surrounding areas in Cambria County.",
+    "address": "Northern Cambria, PA 16646",
+    "phone": "",
+    "url": "https://www.facebook.com/p/Good-Samaritan-Food-Pantry-Northern-Cambria-PA-100090601385816/",
+    "categorySlug": "food",
+    "zipCode": "16646"
+  },
+  {
+    "name": "State College Food Bank",
+    "description": "Provides food security directly and indirectly to people throughout Centre County. Open Monday 1-4:30pm, Wednesday and Friday 1-3:30pm.",
+    "address": "169 Gerald St, State College, PA 16801",
+    "phone": "814-234-2310",
+    "url": "https://scfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "16801"
+  },
+  {
+    "name": "Common Food Centre County",
+    "description": "Local food resource serving Centre County residents. Distribution at Port Matilda Baptist Church on the 3rd Saturday of each month.",
+    "address": "State College, PA 16801",
+    "phone": "814-409-8584",
+    "url": "https://www.commonfoodcentrecounty.com/",
+    "categorySlug": "food",
+    "zipCode": "16801"
+  },
+  {
+    "name": "Centre Helps - Emergency Food Assistance",
+    "description": "24-hour emergency food assistance available to Centre County residents in crisis.",
+    "address": "410 South Fraser Street, State College, PA 16801",
+    "phone": "814-237-5855",
+    "url": "",
+    "categorySlug": "crisis",
+    "zipCode": "16801"
+  },
+  {
+    "name": "Housing Transitions Inc - Centre House Shelter",
+    "description": "Nonprofit providing housing programs and supportive services throughout Centre County. Centre House is the only 24/7 homeless shelter in Centre County welcoming men, women, children, and families.",
+    "address": "217 East Nittany Avenue, State College, PA 16801",
+    "phone": "814-237-5508",
+    "url": "https://www.housingtransitions.org",
+    "categorySlug": "housing",
+    "zipCode": "16801"
+  },
+  {
+    "name": "Centre County Youth Service Bureau - Youth Haven Shelter",
+    "description": "Free emergency shelter for youth ages 12-17 who are homeless, runaway, or at risk of homelessness. Drop-in or call available.",
+    "address": "334 S. Burrowes Street, State College, PA 16801",
+    "phone": "814-234-2100",
+    "url": "https://ccysb.com/services/shelter-independent-living/",
+    "categorySlug": "housing",
+    "zipCode": "16801"
+  },
+  {
+    "name": "Centre Hall-Potter Food Pantry",
+    "description": "Faith-based food pantry at Grace United Methodist Church serving Centre Hall, Boalsburg, and surrounding Potter Township areas.",
+    "address": "127 South Pennsylvania Avenue, Centre Hall, PA 16828",
+    "phone": "",
+    "url": "https://www.findhelp.org/grace-united-methodist-church--centre-hall-pa--centre-hall-potter-food-pantry/5114596292100096",
+    "categorySlug": "food",
+    "zipCode": "16828"
+  },
+  {
+    "name": "Food Bank of State College Area - Boalsburg Distribution",
+    "description": "Distribution site for the State College Area Food Bank, serving Boalsburg and surrounding Centre County communities.",
+    "address": "110 Elks Club Road (Mountain View Country Club), Boalsburg, PA 16827",
+    "phone": "814-234-2310",
+    "url": "https://scfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "16827"
+  },
+  {
+    "name": "Out of the Cold Centre County",
+    "description": "Seasonal emergency overnight shelter program providing warmth and basic needs to homeless individuals in Centre County during cold months.",
+    "address": "State College, PA 16801",
+    "phone": "",
+    "url": "https://www.outofthecoldcc.org/",
+    "categorySlug": "housing",
+    "zipCode": "16801"
+  },
+  {
+    "name": "Milesburg Food Pantry",
+    "description": "Faith-based food pantry at Milesburg Presbyterian Church open the 1st Tuesday of each month, serving Milesburg and surrounding Centre County communities.",
+    "address": "103 Turnpike Street, Milesburg, PA 16853",
+    "phone": "814-355-0890",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "16853"
+  },
+  {
+    "name": "Philipsburg Community Action Food Pantry",
+    "description": "Food pantry operated by Central Pennsylvania Community Action serving Philipsburg Borough and Rush Township. Open Monday-Friday 8am-4pm by appointment. Serves those at or below 185% of federal poverty guidelines.",
+    "address": "14 South Front Street, Philipsburg, PA 16866",
+    "phone": "814-342-0404",
+    "url": "https://www.cpcaa.net/food-nutrition",
+    "categorySlug": "food",
+    "zipCode": "16866"
+  },
+  {
+    "name": "Snow Shoe United Methodist Church Food Pantry",
+    "description": "Local faith-based food pantry serving Snow Shoe and surrounding communities in Centre County.",
+    "address": "Snow Shoe, PA 16874",
+    "phone": "814-387-6230",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "16874"
+  },
+  {
+    "name": "Perry Township Community Food Bank",
+    "description": "Local community food bank serving Parker and surrounding Perry Township residents in Clarion County.",
+    "address": "3314 Limeplant Road, Parker, PA 16049",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "16049"
+  },
+  {
+    "name": "Community Action Inc (JCCAP) - Clarion County Food Pantry",
+    "description": "Nonprofit community action agency providing emergency supplemental food to eligible Clarion County residents. Open Mondays and Wednesdays 8:30am-4:30pm; food distributed once per month.",
+    "address": "Clarion County, PA",
+    "phone": "",
+    "url": "https://www.jccap.org/ProjectPage?ProjectID=82",
+    "categorySlug": "food",
+    "zipCode": "16054"
+  },
+  {
+    "name": "Faith Fellowship Church Share & Care Food Bank - Rimersburg",
+    "description": "Faith-based food bank serving residents of the Union School District in Clarion County. Open the 3rd Wednesday of each month from 5-6pm.",
+    "address": "Rimersburg, PA",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "16054"
+  },
+  {
+    "name": "American Legion Philipsburg Food Bank",
+    "description": "Food bank operated by the American Legion post in Philipsburg serving Centre County residents in need.",
+    "address": "Philipsburg, PA 16866",
+    "phone": "",
+    "url": "https://pennsylvaniafoodbanks.org/food-bank/american-legion-philipsburg/",
+    "categorySlug": "food",
+    "zipCode": "16866"
+  },
+  {
+    "name": "Community Action Inc - Clarion County Food Pantry",
+    "description": "Emergency supplemental food pantry serving eligible Clarion County residents. Open Mondays and Wednesdays 8:30am-4:30pm; food distributed once per month.",
+    "address": "22868 Route 68, Clarion, PA 16214",
+    "phone": "814-226-4785",
+    "url": "https://www.jccap.org/ProjectPage?ProjectID=82",
+    "categorySlug": "food",
+    "zipCode": "16214"
+  },
+  {
+    "name": "Redbank Valley Church Association Food Pantry",
+    "description": "Food pantry providing assistance to qualifying families since 2001. Open the 3rd Tuesday of each month from 9am to 2pm. Walk in to fill out a form and receive food.",
+    "address": "441 Broad Street, New Bethlehem, PA 16242",
+    "phone": "",
+    "url": "https://www.rvchurchassociation.org/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "16242"
+  },
+  {
+    "name": "Clarion County Emergency Shelter Task Force",
+    "description": "Nonprofit organization assisting clients with emergency housing needs in Clarion County.",
+    "address": "8 W. Main Street, Clarion, PA 16214",
+    "phone": "814-226-8910",
+    "url": "https://www.facebook.com/EmergencyShelterTaskForce/",
+    "categorySlug": "housing",
+    "zipCode": "16214"
+  },
+  {
+    "name": "Clarion Housing (Center for Community Resources)",
+    "description": "Provides emergency shelter, permanent supported housing, case management, life skills training, outreach, advocacy, and vocational/educational support to Clarion County residents experiencing homelessness.",
+    "address": "Clarion, PA 16214",
+    "phone": "",
+    "url": "https://www.ccrinfo.org/clarion-housing",
+    "categorySlug": "housing",
+    "zipCode": "16214"
+  },
+  {
+    "name": "Clarion County SAFE - Transitional Housing",
+    "description": "Domestic violence awareness and prevention nonprofit serving Clarion County, offering a transitional housing program for survivors.",
+    "address": "Clarion, PA 16214",
+    "phone": "",
+    "url": "https://clarioncountysafe.com/",
+    "categorySlug": "housing",
+    "zipCode": "16214"
+  },
+  {
+    "name": "Community Action Inc - Emergency Shelter and Rent Assistance",
+    "description": "Emergency Shelter and Rental Assistance (ESRA) program helping families and individuals in danger of becoming homeless in Clarion County.",
+    "address": "22868 Route 68, Clarion, PA 16214",
+    "phone": "814-226-4785",
+    "url": "https://www.jccap.org/ProjectPage?ProjectID=86",
+    "categorySlug": "housing",
+    "zipCode": "16214"
+  },
+  {
+    "name": "Community Action, Inc. - Clarion County Food Pantry",
+    "description": "Nonprofit community action agency providing emergency supplemental food services to eligible Clarion County residents. Open Mondays and Wednesdays. Consumers may receive food once per month.",
+    "address": "22868 Route 68, Clarion, PA 16214",
+    "phone": "(814) 226-4785",
+    "url": "https://www.jccap.org/ProjectPage?ProjectID=82",
+    "categorySlug": "food",
+    "zipCode": "16331"
+  },
+  {
+    "name": "DuBois Area Food Pantry",
+    "description": "Local nonprofit food pantry serving the DuBois area. Provides food distribution on 1st and 2nd Thursday 9:30\u201311:30 AM and 4th Thursday 4\u20137 PM.",
+    "address": "228 First Street, Du Bois, PA 15801",
+    "phone": "(814) 371-2470",
+    "url": "https://ampleharvest.org/food-pantries/dubois-area-food-pantry-10009/",
+    "categorySlug": "food",
+    "zipCode": "15801"
+  },
+  {
+    "name": "DuBois Ministerial Food Pantry",
+    "description": "Church-based food pantry serving the Du Bois community with emergency food assistance.",
+    "address": "404 Liberty Blvd, Du Bois, PA 15801",
+    "phone": "(814) 371-4750",
+    "url": "https://dubois-ministerial-food-pantry.hub.biz/",
+    "categorySlug": "food",
+    "zipCode": "15801"
+  },
+  {
+    "name": "Central Pennsylvania Community Action (CPCA) - Du Bois Office",
+    "description": "Nonprofit providing food pantry, emergency food and shelter program, rental and utility assistance to low-income individuals and families in Centre and Clearfield counties.",
+    "address": "207 E Cherry St, Clearfield, PA 16830",
+    "phone": "(814) 765-1551",
+    "url": "https://www.cpcaa.net/food-nutrition",
+    "categorySlug": "food",
+    "zipCode": "15801"
+  },
+  {
+    "name": "Clearfield Area Food Pantry",
+    "description": "Local food pantry serving Clearfield County residents. Open Monday through Wednesday 10 AM\u20133 PM (closed 3rd Wednesday each month).",
+    "address": "212 Hammermill Road, Clearfield, PA 16830",
+    "phone": "(814) 577-8905",
+    "url": "https://reentry.networkofcare.org/clearfield-pa/services/agency?pid=ClearfieldAreaFoodPantry_19_1711_0",
+    "categorySlug": "food",
+    "zipCode": "16616"
+  },
+  {
+    "name": "Salvation Army - Clearfield Worship and Service Center",
+    "description": "Provides emergency food, clothing, utility assistance, rent assistance, and other basic needs to individuals and families in Clearfield County.",
+    "address": "119 Byers St, Clearfield, PA 16830",
+    "phone": "(814) 765-4981",
+    "url": "https://easternusa.salvationarmy.org/western-pennsylvania/clearfield/",
+    "categorySlug": "food",
+    "zipCode": "16830"
+  },
+  {
+    "name": "CPCA Food Pantry - Houtzdale Site",
+    "description": "Central Pennsylvania Community Action food pantry serving Houtzdale and surrounding Clearfield County zip codes. Open Tuesday\u2013Thursday 9 AM\u20131 PM, by appointment.",
+    "address": "40 Terrace Drive, Houtzdale, PA 16651",
+    "phone": "(814) 378-5120",
+    "url": "https://www.cpcaa.net/food-nutrition",
+    "categorySlug": "food",
+    "zipCode": "16651"
+  },
+  {
+    "name": "CPCA Food Pantry - Osceola Mills Site",
+    "description": "Central Pennsylvania Community Action food pantry serving Osceola Mills and surrounding Clearfield County zip codes. Open Tuesday 10 AM\u201312 PM.",
+    "address": "601 Lingle Street, Osceola Mills, PA 16666",
+    "phone": "(814) 339-6289",
+    "url": "https://www.cpcaa.net/food-nutrition",
+    "categorySlug": "food",
+    "zipCode": "16666"
+  },
+  {
+    "name": "Curwensville Food Pantry",
+    "description": "Local food pantry serving Curwensville area residents. Open 3rd Wednesday of each month 10 AM\u20131 PM.",
+    "address": "430 Locust Street, Curwensville, PA 16833",
+    "phone": "(814) 577-8905",
+    "url": "https://reentry.networkofcare.org/clearfield-pa/services/agency?pid=ClearfieldAreaFoodPantry_19_1711_0",
+    "categorySlug": "food",
+    "zipCode": "16833"
+  },
+  {
+    "name": "Central Pennsylvania Community Action (CPCA) - Clearfield Office",
+    "description": "Main Clearfield County office of CPCA, providing emergency food and shelter program, rental assistance, utility assistance, and food pantry services to low-income residents.",
+    "address": "207 E Cherry St, Clearfield, PA 16830",
+    "phone": "(814) 765-1551",
+    "url": "https://www.cpcaa.net/",
+    "categorySlug": "housing",
+    "zipCode": "16830"
+  },
+  {
+    "name": "Clearfield Area Food Pantry",
+    "description": "Local nonprofit food pantry serving Clearfield County residents. Open Monday through Wednesday 10 AM\u20133 PM (closed 3rd Wednesday each month).",
+    "address": "212 Hammermill Road, Clearfield, PA 16830",
+    "phone": "(814) 577-8905",
+    "url": "https://reentry.networkofcare.org/clearfield-pa/services/agency?pid=ClearfieldAreaFoodPantry_19_1711_0",
+    "categorySlug": "food",
+    "zipCode": "16830"
+  },
+  {
+    "name": "Living Bread Ministries Food Pantry",
+    "description": "Nonprofit food pantry serving Clearfield County residents including Morrisdale and surrounding communities. Open Monday evenings, Wednesday afternoons, and most Saturdays. Must reside in Clearfield School District.",
+    "address": "628 Daisy St, Clearfield, PA 16830",
+    "phone": "(814) 496-4525",
+    "url": "https://livingbread.org/",
+    "categorySlug": "food",
+    "zipCode": "16858"
+  },
+  {
+    "name": "Clearfield Area Food Pantry",
+    "description": "Local food pantry serving Clearfield County residents including Grampian, Kylertown, and surrounding areas. Open Monday through Wednesday 10 AM\u20133 PM (closed 3rd Wednesday each month).",
+    "address": "212 Hammermill Road, Clearfield, PA 16830",
+    "phone": "(814) 577-8905",
+    "url": "https://reentry.networkofcare.org/clearfield-pa/services/agency?pid=ClearfieldAreaFoodPantry_19_1711_0",
+    "categorySlug": "food",
+    "zipCode": "16837"
+  },
+  {
+    "name": "Central Pennsylvania Community Action (CPCA)",
+    "description": "Provides food pantry services, emergency food and shelter program, utility and rental assistance to low-income residents of Clearfield County, including rural zip codes throughout the county.",
+    "address": "207 E Cherry St, Clearfield, PA 16830",
+    "phone": "(814) 765-1551",
+    "url": "https://www.cpcaa.net/",
+    "categorySlug": "food",
+    "zipCode": "16845"
+  },
+  {
+    "name": "Faith Centre Food Pantry - Beech Creek",
+    "description": "Local food pantry distributing food the 1st Monday of each month 1\u20133 PM to Clinton County residents in Beech Creek area.",
+    "address": "44 Vesper St, Beech Creek, PA 16822",
+    "phone": "(570) 962-2407",
+    "url": "https://clintoncap.org/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "16822"
+  },
+  {
+    "name": "Clinton County Community Action Food Pantry",
+    "description": "Nonprofit community action food pantry providing a 3-day supply of food to Clinton County residents once per month. Serves Beech Creek, Lamar, and surrounding areas.",
+    "address": "124 East Walnut Street, Lock Haven, PA 17745",
+    "phone": "(570) 858-5800",
+    "url": "https://clintoncap.org/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "16848"
+  },
+  {
+    "name": "Center for Family Services - Meadville Area Food Pantry",
+    "description": "Nonprofit operating seven food pantries across Crawford County. The Meadville pantry provides one supplemental food box per month per household and emergency food boxes on a case-by-case basis. Open Monday and Thursday 11 AM\u20133 PM.",
+    "address": "205 Walnut Street, Meadville, PA 16335",
+    "phone": "(814) 337-8454",
+    "url": "https://www.ctrforfamilyservices.org/food-pantries/",
+    "categorySlug": "food",
+    "zipCode": "16335"
+  },
+  {
+    "name": "Associated Charities of Titusville",
+    "description": "501(c)(3) nonprofit serving the Titusville area since 1911. Provides food, clothing, utility assistance, and emergency help to residents of Titusville and surrounding areas including Townville. Food pantry open Mon/Wed/Fri 1:30\u20133:30 PM.",
+    "address": "409 E. Central Ave, Titusville, PA 16354",
+    "phone": "(814) 827-6613",
+    "url": "https://associatedcharitiestitusville.org/",
+    "categorySlug": "food",
+    "zipCode": "16354"
+  },
+  {
+    "name": "Crawford County Coalition on Housing Needs",
+    "description": "Nonprofit providing emergency shelter, transitional housing, and affordable housing to homeless and near-homeless individuals and families in Crawford County.",
+    "address": "1180 Liberty St, Meadville, PA 16335",
+    "phone": "(814) 337-4380",
+    "url": "https://reentry.networkofcare.org/crawford-pa/services/agency?pid=CrawfordCountyCoalitiononHousingNeedsEmergencyShelter_19_1714_0",
+    "categorySlug": "housing",
+    "zipCode": "16335"
+  },
+  {
+    "name": "Center for Family Services - Cambridge Springs Area Food Pantry",
+    "description": "Nonprofit food pantry serving Cambridge Springs and surrounding Crawford County zip codes (16403, 16440, 16438, 16412, 16441). Open 2nd Friday of each month 10\u201311 AM.",
+    "address": "201 Carringer Street, Cambridge Springs, PA 16403",
+    "phone": "(814) 337-8454",
+    "url": "https://www.ctrforfamilyservices.org/food-pantries/",
+    "categorySlug": "food",
+    "zipCode": "16403"
+  },
+  {
+    "name": "Center for Family Services - Conneaut Lake Area Food Pantry",
+    "description": "Nonprofit food pantry operated by Samaritans of Conneaut Lake serving Conneautville and surrounding Crawford County zip codes (16406, 16316, 16422, 16424). Open 1st Thursday 9\u201310 AM.",
+    "address": "181 S. Ninth Street, Conneaut Lake, PA 16316",
+    "phone": "(814) 337-8454",
+    "url": "https://www.ctrforfamilyservices.org/food-pantries/",
+    "categorySlug": "food",
+    "zipCode": "16406"
+  },
+  {
+    "name": "Project SHARE",
+    "description": "Nonprofit food pantry reducing food insecurity in the greater Carlisle area. Provides approximately one week's worth of groceries per month. Offers walk-in Your Choice Pantry and Drive Thru options.",
+    "address": "5 N. Orange St, Carlisle, PA 17013",
+    "phone": "(717) 249-7773",
+    "url": "https://www.projectsharepa.org",
+    "categorySlug": "food",
+    "zipCode": "17013"
+  },
+  {
+    "name": "Salvation Army - Carlisle Corps",
+    "description": "Provides food pantry, transitional housing, clothing assistance, and emergency services to the greater Carlisle area in Cumberland County.",
+    "address": "20 E. Pomfret Street, Carlisle, PA 17013",
+    "phone": "(717) 249-1411",
+    "url": "https://easternusa.salvationarmy.org/eastern-pennsylvania/carlisle/",
+    "categorySlug": "food",
+    "zipCode": "17013"
+  },
+  {
+    "name": "M28 Ministry Emergency Food Pantry",
+    "description": "Emergency food pantry serving Cumberland County residents in Wormleysburg and Newville areas.",
+    "address": "32 South Front Street, Wormleysburg, PA 17043",
+    "phone": "(717) 610-4645",
+    "url": "https://www.findhelp.org/m28ministry--wormleysburg-pa--emergency-food-pantry/5629807836266496",
+    "categorySlug": "food",
+    "zipCode": "17043"
+  },
+  {
+    "name": "Safe Harbour",
+    "description": "Nonprofit providing a continuum of housing for the homeless and housing-insecure in Cumberland County since 1986, including short-term emergency shelter, life skills training, permanent supportive housing, and affordable housing.",
+    "address": "102 W. High St., Carlisle, PA 17013",
+    "phone": "(717) 249-2200",
+    "url": "https://safeharbour.org/",
+    "categorySlug": "housing",
+    "zipCode": "17013"
+  },
+  {
+    "name": "New Hope Ministries - New Cumberland Food Pantry",
+    "description": "Nonprofit food pantry serving Cumberland County residents in New Cumberland, Hampden, and surrounding areas. Open Monday\u2013Friday 9 AM\u20134 PM, plus 3rd Wednesday evening 5\u20138 PM.",
+    "address": "539 Old York Road, New Cumberland, PA 17070",
+    "phone": "(717) 915-6763",
+    "url": "https://nhm-pa.org/food-basic-needs/",
+    "categorySlug": "food",
+    "zipCode": "17070"
+  },
+  {
+    "name": "Project SHARE",
+    "description": "Nonprofit food pantry providing approximately one week's worth of groceries per month to Cumberland County residents. Walk-in and drive-thru options available.",
+    "address": "5 N. Orange St, Carlisle, PA 17013",
+    "phone": "(717) 249-7773",
+    "url": "https://www.projectsharepa.org",
+    "categorySlug": "food",
+    "zipCode": "17055"
+  },
+  {
+    "name": "Shippensburg Produce and Outreach (SPO)",
+    "description": "Nonprofit providing fresh vegetables, fruits, eggs, milk, and other healthy items to Shippensburg-area residents in need. Open every Tuesday 3:15\u20136 PM.",
+    "address": "130 South Penn Street, Shippensburg, PA 17257",
+    "phone": "(717) 477-9100",
+    "url": "https://shipout.org/",
+    "categorySlug": "food",
+    "zipCode": "17257"
+  },
+  {
+    "name": "Northern Dauphin Food Pantry",
+    "description": "Client-choice food pantry program of the Central Pennsylvania Food Bank serving upper Dauphin County (Elizabethville, Berrysburg, Halifax, and surrounding areas). Over 400 families served per month. By appointment.",
+    "address": "295 State Drive, Elizabethville, PA 17023",
+    "phone": "(717) 905-2512",
+    "url": "https://www.centralpafoodbank.org/ndfp/",
+    "categorySlug": "food",
+    "zipCode": "17023"
+  },
+  {
+    "name": "Safe Harbour",
+    "description": "Nonprofit providing emergency shelter, transitional housing, and affordable housing to homeless individuals and families in Cumberland County since 1986.",
+    "address": "102 W. High St., Carlisle, PA 17013",
+    "phone": "(717) 249-2200",
+    "url": "https://safeharbour.org/emergency-shelter/",
+    "categorySlug": "housing",
+    "zipCode": "17065"
+  },
+  {
+    "name": "Hershey Food Bank & Community Outreach",
+    "description": "All-volunteer nonprofit food bank serving Derry Township and surrounding Dauphin County communities for over 58 years. Open 1st and 3rd Thursday 9:30\u201311:30 AM and 5\u20137 PM.",
+    "address": "120 E Derry Rd, Hershey, PA 17033",
+    "phone": "(717) 520-3143",
+    "url": "https://www.hersheyfoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "17033"
+  },
+  {
+    "name": "Middletown Interfaith Council Food Pantry",
+    "description": "Local nonprofit food pantry serving Middletown area (17057) residents. Open Tuesday and Friday 10 AM\u201312:30 PM and 2nd Wednesday 6\u20137 PM.",
+    "address": "201 Wyoming Street, Royalton, PA 17057",
+    "phone": "(717) 944-5668",
+    "url": "https://middletowninterfaith.org/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "17057"
+  },
+  {
+    "name": "Bread of Life Food Ministry - Millersburg",
+    "description": "Local food ministry distributing food the second Saturday of the month at 9:30 AM to residents of the Millersburg and northern Dauphin County area.",
+    "address": "2261 Shippen Dam Road, Millersburg, PA 17061",
+    "phone": "(717) 692-3904",
+    "url": "https://www.foodpantries.org/ci/pa-millersburg",
+    "categorySlug": "food",
+    "zipCode": "17061"
+  },
+  {
+    "name": "Harrisburg Area Food Pantry",
+    "description": "Ecumenical food pantry serving the greater Harrisburg area. Open Monday through Friday 9:30 AM\u201312:30 PM and 3rd Saturday of the month 9:30 AM\u201312:30 PM.",
+    "address": "2135 North Sixth Street, Harrisburg, PA 17110",
+    "phone": "(717) 233-6889",
+    "url": "https://www.hfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "17101"
+  },
+  {
+    "name": "Downtown Daily Bread",
+    "description": "Nonprofit soup kitchen and day/night shelter for homeless in Harrisburg. Provides daily meals, a day shelter with cots and counselors, and a winter men's night shelter.",
+    "address": "234 South St, Harrisburg, PA 17101",
+    "phone": "(717) 238-4717",
+    "url": "https://downtowndailybread.org/",
+    "categorySlug": "housing",
+    "zipCode": "17101"
+  },
+  {
+    "name": "YWCA Greater Harrisburg Emergency Shelter",
+    "description": "Provides up to 30 days of emergency housing for women and children experiencing homelessness or escaping abuse in Dauphin County. Referrals through HELP Ministries at 717-238-2851.",
+    "address": "1101 Market Street, Harrisburg, PA 17103",
+    "phone": "(717) 234-7931",
+    "url": "https://www.ywcahbg.org/",
+    "categorySlug": "housing",
+    "zipCode": "17103"
+  },
+  {
+    "name": "Salvation Army Harrisburg Capital City Region",
+    "description": "Provides client-choice food pantry, emergency food assistance, and other social services to Harrisburg and Dauphin County residents. Appointments required.",
+    "address": "506 South 29th Street, Harrisburg, PA 17104",
+    "phone": "(717) 233-6755",
+    "url": "https://pa.salvationarmy.org/harrisburg-pa/Food-Pantry",
+    "categorySlug": "food",
+    "zipCode": "17104"
+  },
+  {
+    "name": "Mary's Helpers Food Pantry and Clothing Store",
+    "description": "Nonprofit outreach of Prince of Peace Parish providing food, clothing, and preventative healthcare to Steelton-area residents. Open three Tuesdays per month (morning and evening sessions).",
+    "address": "815 S 2nd St, Steelton, PA 17113",
+    "phone": "(717) 985-1330",
+    "url": "https://popsteelton.org/marys-helpers-pantry/",
+    "categorySlug": "food",
+    "zipCode": "17113"
+  },
+  {
+    "name": "Downtown Daily Bread",
+    "description": "Nonprofit soup kitchen and shelter in Harrisburg providing daily meals, a day shelter, and a winter men's night shelter for individuals experiencing homelessness in Dauphin County.",
+    "address": "234 South St, Harrisburg, PA 17101",
+    "phone": "(717) 238-4717",
+    "url": "https://downtowndailybread.org/",
+    "categorySlug": "housing",
+    "zipCode": "17112"
+  },
+  {
+    "name": "Helping Hands Food Pantry of Elk County",
+    "description": "501(c)(3) nonprofit food pantry in Johnsonburg providing food boxes to low-income families in Elk County. Open 3rd Friday of the month 3\u20135 PM.",
+    "address": "409 Center Street, Johnsonburg, PA 15845",
+    "phone": "(814) 965-3043",
+    "url": "https://www.charitynavigator.org/ein/251526573",
+    "categorySlug": "food",
+    "zipCode": "15845"
+  },
+  {
+    "name": "Christian Food Bank",
+    "description": "501(c)(3) nonprofit food bank founded in 1983 by Christian women serving all of Elk County. Operated entirely by volunteers. Open Thursday 1\u20133 PM.",
+    "address": "817 South Michael Road, Saint Marys, PA 15857",
+    "phone": "(814) 834-1951",
+    "url": "https://pennsylvaniafoodbanks.org/food-bank/christian-food-bank-inc/",
+    "categorySlug": "food",
+    "zipCode": "15857"
+  },
+  {
+    "name": "NTCAC Elk & Cameron Food Banks",
+    "description": "Northern Tier Community Action Corporation food bank providing food boxes to low-income families in Elk County including Weedville, Saint Marys, and Wilcox areas.",
+    "address": "PO Box 220, Emporium, PA 15834",
+    "phone": "(814) 486-1161",
+    "url": "https://www.ntcac.org/services/food-nutrition/elk-cameron-food-banks/",
+    "categorySlug": "food",
+    "zipCode": "15868"
+  },
+  {
+    "name": "CAPSEA - Citizens Against Physical Sexual and Emotional Abuse",
+    "description": "Nonprofit providing 24/7 crisis shelter, housing, and support services for victims of abuse and homelessness in Elk and Cameron counties since 1988.",
+    "address": "PO Box 464, Ridgway, PA 15853",
+    "phone": "(814) 772-3838",
+    "url": "https://capsea.org/crisis-shelter-housing/",
+    "categorySlug": "crisis",
+    "zipCode": "15857"
+  },
+  {
+    "name": "Second Harvest Food Bank of Northwest Pennsylvania",
+    "description": "Largest nonprofit food distribution organization in northwest PA, serving 11 counties including Erie, Elk, Clarion, Crawford, and Clearfield. Distributes to hundreds of local partner agencies.",
+    "address": "1507 Grimm Drive, Erie, PA 16501",
+    "phone": "(814) 459-3663",
+    "url": "https://nwpafoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "16401"
+  },
+  {
+    "name": "Corry Area Food Pantry",
+    "description": "Local nonprofit food pantry serving Corry and Erie County residents. Open 3rd Friday of each month 9\u201311 AM.",
+    "address": "1318 West Main Street, Corry, PA 16407",
+    "phone": "(814) 664-7359",
+    "url": "https://corryareafoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "16407"
+  },
+  {
+    "name": "Edinboro Food Pantry",
+    "description": "Nonprofit food pantry affiliated with Second Harvest Food Bank serving Edinboro and surrounding Erie County communities. Open Thursday 11 AM\u20134:30 PM.",
+    "address": "150 S Perry Ln, Edinboro, PA 16412",
+    "phone": "(814) 732-3663",
+    "url": "https://pennsylvaniafoodbanks.org/food-bank/edinboro-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "16412"
+  },
+  {
+    "name": "Fairview Presbyterian Church Food Pantry",
+    "description": "Community food pantry serving Fairview Township and west Erie County. Open 1st Saturday of each month 10 AM\u201312 PM. Serves approximately 60 families per month.",
+    "address": "4264 Avonia Rd, Fairview, PA 16415",
+    "phone": "(814) 474-3914",
+    "url": "https://www.fairviewpresby.net/food-pantry.html",
+    "categorySlug": "food",
+    "zipCode": "16415"
+  },
+  {
+    "name": "Girard-Lake City Christian Cupboard Food Pantry",
+    "description": "Nonprofit community food pantry serving Girard and Lake City areas in western Erie County. Open 1st and 3rd Thursday of each month 1\u20135 PM.",
+    "address": "34 Church St, Girard, PA 16417",
+    "phone": "(814) 774-3985",
+    "url": "https://girardlakecitychristiancupboard.wordpress.com/",
+    "categorySlug": "food",
+    "zipCode": "16417"
+  },
+  {
+    "name": "North East Community Food Pantry",
+    "description": "Ministry of the Lay Council of Churches providing food to low-income residents of North East and surrounding Erie County areas. Open first four Saturdays of each month 9:30 AM\u201312 PM.",
+    "address": "30 Bothel St, North East, PA 16428",
+    "phone": "(814) 725-9777",
+    "url": "https://reentry.networkofcare.org/erie-pa/services/agency?pid=NorthEastCommunityFoodPantry_19_1718_0",
+    "categorySlug": "food",
+    "zipCode": "16428"
+  },
+  {
+    "name": "Union City Food Pantry",
+    "description": "Local nonprofit food pantry serving Union City and surrounding Erie County communities. Open Mondays 9 AM\u201312 PM.",
+    "address": "1 Hogan's Alley, Union City, PA 16438",
+    "phone": "(814) 734-1907",
+    "url": "https://pennsylvaniafoodbanks.org/food-bank/union-city-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "16438"
+  },
+  {
+    "name": "Waterford Community Food Pantry",
+    "description": "Local nonprofit food pantry serving Waterford and surrounding Erie County communities. Open 2nd and 3rd Thursday 10 AM\u201312 PM and 3rd Wednesday 6\u20138 PM.",
+    "address": "12723 US Hwy 19, Waterford, PA 16441",
+    "phone": "",
+    "url": "https://www.facebook.com/Waterfordfoodpantry/",
+    "categorySlug": "food",
+    "zipCode": "16441"
+  },
+  {
+    "name": "Center for Family Services - Cambridge Springs Area Food Pantry",
+    "description": "Nonprofit food pantry serving Cambridge Springs, Venango, and surrounding Crawford County zip codes (16403, 16440, 16438, 16412, 16441). Open 2nd Friday of each month 10\u201311 AM.",
+    "address": "201 Carringer Street, Cambridge Springs, PA 16403",
+    "phone": "(814) 337-8454",
+    "url": "https://www.ctrforfamilyservices.org/food-pantries/",
+    "categorySlug": "food",
+    "zipCode": "16443"
+  },
+  {
+    "name": "Second Harvest Food Bank of Northwest Pennsylvania",
+    "description": "Regional food bank distributing food to member agencies across 11 counties in northwest Pennsylvania. Serves Erie area zip codes.",
+    "address": "1507 Grimm Drive, Erie, PA 16501",
+    "phone": "(814) 459-3663",
+    "url": "https://nwpafoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "16501"
+  },
+  {
+    "name": "Saint Joseph Church - Bread of Life Food Pantry",
+    "description": "Parish food pantry providing food and personal care items on the 1st and 3rd Wednesday of each month.",
+    "address": "147 West 24th Street, Erie, PA 16502",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "16502"
+  },
+  {
+    "name": "Community of Caring",
+    "description": "Emergency homeless shelter open 365 days a year providing food, shelter, and other basic needs for Erie residents.",
+    "address": "249 E 21st St, Erie, PA 16503",
+    "phone": "(814) 453-5556",
+    "url": "https://www.cocerie.org/",
+    "categorySlug": "housing",
+    "zipCode": "16503"
+  },
+  {
+    "name": "Joel II Restoration",
+    "description": "Local nonprofit providing food pantry services to residents in Erie.",
+    "address": "2201 Reed St, Erie, PA 16503",
+    "phone": "(814) 455-4464",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "16503"
+  },
+  {
+    "name": "Community Shelter Services",
+    "description": "Erie County's largest homeless shelter housing men, women and children. Operates emergency shelter with 24-hour hotline.",
+    "address": "652 West 17th Street, Erie, PA 16502",
+    "phone": "(814) 453-5937",
+    "url": "https://communityshelter.org/",
+    "categorySlug": "housing",
+    "zipCode": "16502"
+  },
+  {
+    "name": "Upper Room of Erie",
+    "description": "Local nonprofit providing emergency services and support to people in need in Erie, Pennsylvania.",
+    "address": "1024 Peach St, Erie, PA 16501",
+    "phone": "(814) 459-6315",
+    "url": "https://www.upperroomerie.org/",
+    "categorySlug": "community",
+    "zipCode": "16501"
+  },
+  {
+    "name": "Our Lady of Mount Carmel Parish Food Pantry",
+    "description": "Parish food pantry helping alleviate hunger in the Erie community, open on the 2nd and 4th Thursday of the month.",
+    "address": "1531 E Grandview Blvd, Erie, PA 16510",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "16510"
+  },
+  {
+    "name": "Home House of Erie Food Pantry",
+    "description": "Local food pantry serving residents in the Erie, PA 16510 area.",
+    "address": "1861 Buffalo Rd, Erie, PA 16510",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "16510"
+  },
+  {
+    "name": "Martin Luther King Center Food Pantry",
+    "description": "Community center providing food pantry services to residents in the Erie area.",
+    "address": "312 Chestnut St, Erie, PA 16507",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "16507"
+  },
+  {
+    "name": "Fayette County Community Action Food Bank",
+    "description": "County's designated food bank collecting and distributing over 2 million pounds of food annually to approximately 30,000 individuals through a network of volunteer food pantries.",
+    "address": "108 North Beeson Avenue, Uniontown, PA 15401",
+    "phone": "(724) 437-6050",
+    "url": "https://fccaa.org/programs/food-bank-programs/",
+    "categorySlug": "food",
+    "zipCode": "15401"
+  },
+  {
+    "name": "City Mission - Living Stones Men's Emergency Shelter",
+    "description": "Nonprofit providing emergency shelter, meals, clothing, and case management for males 18+ in Fayette County. Open 24 hours daily.",
+    "address": "287 Cleveland Avenue, Uniontown, PA 15401",
+    "phone": "(724) 430-0418",
+    "url": "https://citymissionfayette.org/",
+    "categorySlug": "housing",
+    "zipCode": "15401"
+  },
+  {
+    "name": "Food Helpers / Greater Washington County Food Bank",
+    "description": "Food bank warehouse storing and distributing non-perishable foods to local pantries serving southwestern Pennsylvania including Brownsville area.",
+    "address": "909 National Pike West, Brownsville, PA 15417",
+    "phone": "(724) 229-8175",
+    "url": "https://foodhelpers.org/",
+    "categorySlug": "food",
+    "zipCode": "15417"
+  },
+  {
+    "name": "Connellsville Area Community Ministries Food Pantry",
+    "description": "Volunteer-driven local ministry serving the community for over 40 years. Second largest food pantry in Fayette County offering food pantry, crisis assistance, and other services. Open 2nd and 3rd Tuesdays 9am-2:30pm.",
+    "address": "201 E Fairview Ave, Connellsville, PA 15425",
+    "phone": "(724) 626-1120",
+    "url": "https://www.connmin.org/ministries/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "15425"
+  },
+  {
+    "name": "First Presbyterian Church of Masontown Food Pantry",
+    "description": "Church food pantry serving Adah, Masontown, and Ronco communities. Open the 2nd Wednesday of the month 1pm-2pm.",
+    "address": "102 W Church Ave, Masontown, PA 15461",
+    "phone": "(724) 583-7840",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "15461"
+  },
+  {
+    "name": "Valley Food Pantry - Masontown United Methodist Church",
+    "description": "Church food pantry operating on the 1st Saturday of each month serving Masontown area residents.",
+    "address": "Masontown United Methodist Church, Masontown, PA 15461",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "15461"
+  },
+  {
+    "name": "FCCAA Food Bank - McClellandtown Pantry",
+    "description": "Volunteer food pantry serving German Township residents in McClellandtown. Open the 1st Wednesday of the month 10:30am-1pm. Part of the Fayette County Community Action Agency food pantry network.",
+    "address": "McClellandtown, PA 15458",
+    "phone": "(724) 737-5585",
+    "url": "https://fccaa.org/programs/food-bank-programs/",
+    "categorySlug": "food",
+    "zipCode": "15458"
+  },
+  {
+    "name": "FCCAA Food Bank - Farmington Area Pantry",
+    "description": "Volunteer food pantry serving Markleysburg Borough and surrounding townships. Open the 1st Thursday of the month at 10am. Part of the FCCAA food pantry network.",
+    "address": "Farmington, PA 15437",
+    "phone": "(724) 329-5720",
+    "url": "https://fccaa.org/programs/food-bank-programs/",
+    "categorySlug": "food",
+    "zipCode": "15437"
+  },
+  {
+    "name": "Perryopolis Ministerium Food Pantry",
+    "description": "Interdenominational food pantry serving Menallen Township west of US 40. Open the 3rd Saturday of the month 9am-10am.",
+    "address": "Perryopolis, PA 15473",
+    "phone": "(724) 245-2200",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "15473"
+  },
+  {
+    "name": "FCCAA Vanderbilt-Dawson Area Food Pantry",
+    "description": "Volunteer food pantry serving Vanderbilt, Dawson, and Dickerson Run residents. Open the 2nd Thursday of the month 9am-12pm. Part of the Fayette County Community Action Agency food pantry network.",
+    "address": "Vanderbilt, PA 15486",
+    "phone": "(724) 580-7001",
+    "url": "https://fccaa.org/programs/food-bank-programs/",
+    "categorySlug": "food",
+    "zipCode": "15486"
+  },
+  {
+    "name": "FCCAA Smock Area Food Pantry",
+    "description": "Volunteer food pantry serving Menallen/Redstone Townships East of US 40. Open the 3rd Saturday of the month 10am-12pm. Part of the FCCAA food pantry network.",
+    "address": "Smock, PA 15480",
+    "phone": "(724) 580-7001",
+    "url": "https://fccaa.org/programs/food-bank-programs/",
+    "categorySlug": "food",
+    "zipCode": "15480"
+  },
+  {
+    "name": "FCCAA Smithfield Area Food Pantry",
+    "description": "Volunteer food pantry serving Smithfield area residents in Fayette County. Part of the FCCAA food pantry network.",
+    "address": "Smithfield, PA 15478",
+    "phone": "(724) 569-0722",
+    "url": "https://fccaa.org/programs/food-bank-programs/",
+    "categorySlug": "food",
+    "zipCode": "15478"
+  },
+  {
+    "name": "Fayette Samaritans",
+    "description": "Christian ministry serving families in Fayette County in critical need of food, clothing, and emergency financial assistance. Open Monday-Friday 9am-12pm.",
+    "address": "Fayette County, PA",
+    "phone": "",
+    "url": "https://fayettesamaritans.org/",
+    "categorySlug": "food",
+    "zipCode": "15401"
+  },
+  {
+    "name": "SCCAP Franklin County Food Pantry - Chambersburg",
+    "description": "South Central Community Action Programs food pantry serving Chambersburg and surrounding Franklin County areas. Open Monday, Wednesday, and Thursday 9am-12pm and 1pm-3pm.",
+    "address": "533 South Main Street, Chambersburg, PA 17201",
+    "phone": "",
+    "url": "https://www.sccap.org/food-pantries",
+    "categorySlug": "food",
+    "zipCode": "17201"
+  },
+  {
+    "name": "Maranatha Ministries Food Pantry",
+    "description": "Nonprofit food pantry in Chambersburg founded in 1992 by a group of local churches, serving Franklin County residents.",
+    "address": "195 W Loudon Street, Chambersburg, PA 17201",
+    "phone": "",
+    "url": "https://maranathaministryinc.org/",
+    "categorySlug": "food",
+    "zipCode": "17201"
+  },
+  {
+    "name": "Homeless Matters of Franklin County",
+    "description": "Nonprofit providing emergency shelter information, referral services, a Day House, and food assistance for homeless and underserved residents of Franklin County.",
+    "address": "223 South Main Street, Chambersburg, PA 17201",
+    "phone": "(717) 267-3669",
+    "url": "https://homelessmatters.org/",
+    "categorySlug": "housing",
+    "zipCode": "17201"
+  },
+  {
+    "name": "SCCAP Fayetteville Food Pantry",
+    "description": "Food pantry at Paul's Evangelical Lutheran Church serving the Fayetteville area of Franklin County. Open 2nd and 3rd Thursdays 12pm-2pm.",
+    "address": "44 E Main Street, Fayetteville, PA 17222",
+    "phone": "",
+    "url": "https://www.sccap.org/food-pantries",
+    "categorySlug": "food",
+    "zipCode": "17222"
+  },
+  {
+    "name": "Oil City Food Pantry",
+    "description": "Local food pantry serving Oil City and Venango County residents. Open Monday-Friday 9:30am-12pm and 1pm-4pm.",
+    "address": "203 Center Street, Oil City, PA 16301",
+    "phone": "(814) 676-5011",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "16301"
+  },
+  {
+    "name": "Rocky Grove Food Pantry",
+    "description": "Local food pantry serving the Rocky Grove/Franklin area of Venango County. Open Monday and Thursday 10am-12pm and 12:30pm-3pm.",
+    "address": "39 Parker Ave, Franklin, PA 16323",
+    "phone": "(814) 432-5749",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "16323"
+  },
+  {
+    "name": "Brookville Area Food Pantry",
+    "description": "Nonprofit serving food-scarce residents in the Brookville Area School District since the early 1980s. Open every Thursday 10am-12pm and 6:30pm-7:30pm.",
+    "address": "142 Allegheny Blvd, Brookville, PA 15825",
+    "phone": "(814) 849-0818",
+    "url": "https://brookvilleareafoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "15825"
+  },
+  {
+    "name": "Greencastle-Antrim Food Pantry",
+    "description": "Local food pantry serving Greencastle, Shady Grove, and State Line areas of Franklin County. Open 2nd and 3rd Wednesdays 9am-12pm and 1st Thursday 6:30pm-8pm.",
+    "address": "57 W Baltimore St, Greencastle, PA 17225",
+    "phone": "(717) 597-8333",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "17225"
+  },
+  {
+    "name": "St. Thomas Assembly of God Food Pantry",
+    "description": "Local church food pantry serving the St. Thomas area of Franklin County.",
+    "address": "173 Rhondel Drive, Saint Thomas, PA 17252",
+    "phone": "(717) 369-2567",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "17252"
+  },
+  {
+    "name": "Waynesboro Area Food Pantry",
+    "description": "Food pantry offering food by appointment along with clothing bank, diaper bank, rent and utility assistance, and case management services.",
+    "address": "123 Walnut Street, Waynesboro, PA 17268",
+    "phone": "(717) 762-6941",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "17268"
+  },
+  {
+    "name": "New Hope Shelter Waynesboro",
+    "description": "Emergency shelter for men, women, and families in Waynesboro, Franklin County.",
+    "address": "25 S Potomac St, Waynesboro, PA 17268",
+    "phone": "(717) 762-5840",
+    "url": "",
+    "categorySlug": "housing",
+    "zipCode": "17268"
+  },
+  {
+    "name": "Fulton County Food Basket",
+    "description": "Nonprofit food pantry providing emergency food to those in need in Fulton County. Serves families and individuals referred by human service agencies and local clergy. Open Monday-Thursday 9am-3pm.",
+    "address": "100 Woodside Dr, McConnellsburg, PA 17233",
+    "phone": "(717) 485-5688",
+    "url": "http://www.fultoncountyfoodbasket.com/",
+    "categorySlug": "food",
+    "zipCode": "17233"
+  },
+  {
+    "name": "Corner Cupboard Food Bank",
+    "description": "The only food bank in Greene County, providing regular monthly food boxes through a network of 11 pantries throughout the county. Open Monday-Friday 8am-4pm.",
+    "address": "881 Rolling Meadows Road, Waynesburg, PA 15370",
+    "phone": "(724) 627-9784",
+    "url": "https://cornercupboard.org/",
+    "categorySlug": "food",
+    "zipCode": "15370"
+  },
+  {
+    "name": "Corner Cupboard Pantry - Graysville Fire Hall",
+    "description": "Corner Cupboard network food pantry serving the Graysville area of Greene County. Open the 3rd Wednesday of the month 1pm-3pm.",
+    "address": "Graysville, PA 15337",
+    "phone": "(724) 499-5095",
+    "url": "https://cornercupboard.org/food-pantries/",
+    "categorySlug": "food",
+    "zipCode": "15337"
+  },
+  {
+    "name": "Corner Cupboard Pantry - Holbrook Jackson Township",
+    "description": "Corner Cupboard network food pantry at Jackson Township Building serving the Holbrook area of Greene County. Open the 2nd Tuesday of the month 6pm-8pm.",
+    "address": "Holbrook, PA 15341",
+    "phone": "(724) 499-5095",
+    "url": "https://cornercupboard.org/food-pantries/",
+    "categorySlug": "food",
+    "zipCode": "15341"
+  },
+  {
+    "name": "Corner Cupboard Pantry - Center Township (Rogersville)",
+    "description": "Corner Cupboard network food pantry at Rogersville Fire Hall serving Center Township. Open the 3rd Monday of the month 9am-10am.",
+    "address": "Rogersville Fire Hall, Rogersville, PA 15359",
+    "phone": "(724) 627-9784",
+    "url": "https://cornercupboard.org/food-pantries/",
+    "categorySlug": "food",
+    "zipCode": "15359"
+  },
+  {
+    "name": "Corner Cupboard Pantry - Cumberland Township (Carmichaels)",
+    "description": "Corner Cupboard network food pantry at Carmichaels UM Fellowship Hall serving Cumberland Township. Open the 2nd Thursday of the month 9am-11am.",
+    "address": "Carmichaels UM Fellowship Hall, Carmichaels, PA 15320",
+    "phone": "(724) 627-9784",
+    "url": "https://cornercupboard.org/food-pantries/",
+    "categorySlug": "food",
+    "zipCode": "15320"
+  },
+  {
+    "name": "Corner Cupboard Pantry - Dunkard Township (Bobtown)",
+    "description": "Corner Cupboard network food pantry at Shannopin Civic Building serving Dunkard Township. Open the 2nd Tuesday of the month 10am-12pm.",
+    "address": "Shannopin Civic Building, Bobtown, PA 15315",
+    "phone": "(724) 627-9784",
+    "url": "https://cornercupboard.org/food-pantries/",
+    "categorySlug": "food",
+    "zipCode": "15315"
+  },
+  {
+    "name": "Corner Cupboard Pantry - Franklin Township (Greene County Fairgrounds)",
+    "description": "Corner Cupboard network food pantry at Greene County Fairgrounds serving Franklin Township. Open the 4th Thursday of the month 10:30am-12pm.",
+    "address": "Greene County Fairgrounds, Waynesburg, PA 15370",
+    "phone": "(724) 627-9784",
+    "url": "https://cornercupboard.org/food-pantries/",
+    "categorySlug": "food",
+    "zipCode": "15370"
+  },
+  {
+    "name": "Corner Cupboard Pantry - Jefferson Township (Jefferson)",
+    "description": "Corner Cupboard network food pantry at Baptist Church serving Jefferson/Morgan Township. Open the 3rd Wednesday of the month 12pm-2pm.",
+    "address": "Baptist Church, Jefferson, PA 15344",
+    "phone": "(724) 627-9784",
+    "url": "https://cornercupboard.org/food-pantries/",
+    "categorySlug": "food",
+    "zipCode": "15344"
+  },
+  {
+    "name": "Corner Cupboard Pantry - Mon-Greene Township (Greensboro)",
+    "description": "Corner Cupboard network food pantry at Greensboro Firehall serving Mon-Greene Township. Open the 2nd Tuesday of the month 11am-1pm.",
+    "address": "Greensboro Fire Hall, Greensboro, PA 15338",
+    "phone": "(724) 627-9784",
+    "url": "https://cornercupboard.org/food-pantries/",
+    "categorySlug": "food",
+    "zipCode": "15338"
+  },
+  {
+    "name": "Salvation Army - Greene County Service Center",
+    "description": "Local Salvation Army providing food pantry and emergency services to Greene County residents in Waynesburg.",
+    "address": "131 W 1st St, Waynesburg, PA 15370",
+    "phone": "(724) 852-1479",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "15370"
+  },
+  {
+    "name": "Center for Community Action - Huntingdon Area Food Pantry",
+    "description": "Food pantry serving Huntingdon County residents with monthly distributions and 24-hour emergency food assistance. Open Monday-Thursday 9am-2pm.",
+    "address": "2514 Shady Side Ave, Huntingdon, PA 16652",
+    "phone": "(814) 643-1430",
+    "url": "https://www.centerforcommunityaction.org/our-departments/food-pantries-and-schedules/",
+    "categorySlug": "food",
+    "zipCode": "16652"
+  },
+  {
+    "name": "Center for Community Action - Huntingdon Additional Pantry",
+    "description": "Additional food pantry distribution site in Huntingdon serving residents on Tuesday and Thursday 9am-11:15am.",
+    "address": "700 Penn St, Huntingdon, PA 16652",
+    "phone": "(814) 506-6376",
+    "url": "https://www.centerforcommunityaction.org/our-departments/food-pantries-and-schedules/",
+    "categorySlug": "food",
+    "zipCode": "16652"
+  },
+  {
+    "name": "Center for Community Action - Bedford Food Pantry",
+    "description": "Food pantry serving Bedford County residents. Distribution on the 3rd Friday of every month 9am-12pm.",
+    "address": "140 School St, Bedford, PA 15522",
+    "phone": "",
+    "url": "https://www.centerforcommunityaction.org/our-departments/food-pantries-and-schedules/",
+    "categorySlug": "food",
+    "zipCode": "15522"
+  },
+  {
+    "name": "Center for Community Action - Everett Food Pantry",
+    "description": "Food pantry serving Bedford County residents in Everett. Distribution the Friday following the 3rd Thursday of each month, Friday 9:30am-12pm; approved seniors Thursday 12pm-2pm.",
+    "address": "119 Second St, Everett, PA 15537",
+    "phone": "",
+    "url": "https://www.centerforcommunityaction.org/our-departments/food-pantries-and-schedules/",
+    "categorySlug": "food",
+    "zipCode": "15537"
+  },
+  {
+    "name": "Feeding the Flock Ministries",
+    "description": "Local food pantry open Monday-Friday providing groceries and community lunches to residents in Cheswick and surrounding areas including Penn Hills, Verona, Oakmont, Plum, and Blawnox.",
+    "address": "490 Nixon Road, Cheswick, PA 15024",
+    "phone": "(724) 410-7941",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "15024"
+  },
+  {
+    "name": "Allegheny Valley Association of Churches (AVAC) Food Pantry",
+    "description": "Monthly food distribution providing produce and grocery items to at-need families in Natrona Heights, Brackenridge, Cheswick, Russellton, Creighton, Springdale, and Tarentum. No documentation required for registration.",
+    "address": "1913 Freeport Road, Natrona Heights, PA 15065",
+    "phone": "(724) 226-0606",
+    "url": "https://www.avaoc.org/",
+    "categorySlug": "food",
+    "zipCode": "15030"
+  },
+  {
+    "name": "Elizabeth Boro Food Pantry",
+    "description": "Local food pantry serving residents of Elizabeth and surrounding areas in southern Allegheny County.",
+    "address": "735 Bunola River Road, Elizabeth, PA 15037",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "15037"
+  },
+  {
+    "name": "Glassport Community Outreach Food Pantry",
+    "description": "Community food pantry serving residents of Glassport and nearby neighborhoods in Allegheny County.",
+    "address": "516 Monongahela Ave, Glassport, PA 15045",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "15045"
+  },
+  {
+    "name": "Allegheny Valley Association of Churches (AVAC) Food Pantry",
+    "description": "Monthly food distribution providing produce and grocery items to at-need families. No documentation required for registration. Serves Natrona Heights, Brackenridge, Cheswick, Russellton, Curtisville, Creighton, Springdale, and Tarentum.",
+    "address": "1913 Freeport Road, Natrona Heights, PA 15065",
+    "phone": "(724) 226-0606",
+    "url": "https://www.avaoc.org/",
+    "categorySlug": "food",
+    "zipCode": "15065"
+  },
+  {
+    "name": "The Healthy Food Center",
+    "description": "Free healthy food pantry offering nutrition counseling and nutrition education to residents in northern Allegheny County. Serves zip codes 15014, 15030, 15065, 15068, 15076, 15084, 15144, and surrounding areas.",
+    "address": "590 Pittsburgh Mills Boulevard, Tarentum, PA 15084",
+    "phone": "(724) 226-7435",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "15084"
+  },
+  {
+    "name": "Olivet Food Pantry",
+    "description": "Free food pantry housed in Olivet Presbyterian Church, distributing food on the third Tuesday of each month to residents of West Elizabeth, Clairton, and Jefferson Hills.",
+    "address": "726 4th Street, West Elizabeth, PA 15088",
+    "phone": "(412) 770-6437",
+    "url": "https://olivetfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "15088"
+  },
+  {
+    "name": "North Hills Community Outreach (NHCO)",
+    "description": "Nonprofit serving Northern Allegheny County residents with a food pantry, emergency food assistance, and utility help. Pantry is appointment-based, open Monday-Friday 9am-4pm. Emergency food available for anyone in crisis.",
+    "address": "1975 Ferguson Road, Allison Park, PA 15101",
+    "phone": "(412) 487-6316",
+    "url": "https://www.nhco.org/",
+    "categorySlug": "food",
+    "zipCode": "15101"
+  },
+  {
+    "name": "South Hills Interfaith Movement (SHIM)",
+    "description": "Nonprofit operating food pantries in Bethel Park, Baldwin, and West Mifflin distributing canned goods, produce, bread, milk, eggs, frozen meats, and other items. Serves South Hills families and supports immigrant communities.",
+    "address": "2601 South Park Road, Bethel Park, PA 15102",
+    "phone": "(412) 854-9120",
+    "url": "https://shimcares.org/",
+    "categorySlug": "food",
+    "zipCode": "15102"
+  },
+  {
+    "name": "Prospect Community Food Pantry",
+    "description": "Community food pantry serving residents of East Pittsburgh and surrounding neighborhoods.",
+    "address": "24 Prospect Drive, East Pittsburgh, PA 15112",
+    "phone": "(412) 824-1914",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "15112"
+  },
+  {
+    "name": "Homestead Park United Methodist Church Food Pantry",
+    "description": "Church-operated food pantry serving residents of Munhall and surrounding communities in Allegheny County.",
+    "address": "4231 Shady Avenue, Munhall, PA 15120",
+    "phone": "(412) 462-9030",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "15120"
+  },
+  {
+    "name": "Mission Agape",
+    "description": "Local nonprofit providing food assistance to residents of White Oak and surrounding communities in Allegheny County.",
+    "address": "1540 Lincoln Way, White Oak, PA 15131",
+    "phone": "(412) 874-2158",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "15131"
+  },
+  {
+    "name": "McKeesport Alliance Church Food Pantry",
+    "description": "Monthly food distribution on the second Friday of every month from 5:30-6:30 PM, serving residents of McKeesport and surrounding areas.",
+    "address": "McKeesport, PA 15132",
+    "phone": "(412) 678-1162",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "15132"
+  },
+  {
+    "name": "Garden City United Methodist Church Food Pantry",
+    "description": "Free food pantry serving Monroeville, Pitcairn, Wall, Wilmerding, and Turtle Creek communities in eastern Allegheny County.",
+    "address": "500 Laurel Drive, Monroeville, PA 15146",
+    "phone": "",
+    "url": "https://www.gardencityfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "15146"
+  },
+  {
+    "name": "Riverview Community Action Center",
+    "description": "Community action center serving residents of Oakmont, Springdale, and surrounding river communities in Allegheny County with food and social services.",
+    "address": "501 2nd Street, Oakmont, PA 15139",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "15139"
+  },
+  {
+    "name": "Sewickley Community Center",
+    "description": "Community center providing social services including food assistance and community support programs to residents of Sewickley and surrounding Allegheny County communities.",
+    "address": "200 Walnut Street, Sewickley, PA 15143",
+    "phone": "",
+    "url": "https://www.sewickleycommunitycenter.com/",
+    "categorySlug": "community",
+    "zipCode": "15143"
+  },
+  {
+    "name": "Second Avenue Commons",
+    "description": "Year-round, low-barrier 92-bed emergency shelter and daytime engagement center for adults experiencing homelessness, operated by Pittsburgh Mercy. Walk-in 24/7. Also offers primary care clinic on-site.",
+    "address": "700 Second Avenue, Pittsburgh, PA 15219",
+    "phone": "(412) 775-9001",
+    "url": "https://secondavenuecommons.org/",
+    "categorySlug": "housing",
+    "zipCode": "15219"
+  },
+  {
+    "name": "East End Cooperative Ministry (EECM)",
+    "description": "Nonprofit food pantry open Monday-Friday serving residents of East Liberty and surrounding neighborhoods including 15206, 15224, 15232, and 15217. Provides groceries, emergency food assistance, and social services.",
+    "address": "6140 Station Street, Pittsburgh, PA 15206",
+    "phone": "(412) 361-5549",
+    "url": "https://www.eecm.org/",
+    "categorySlug": "food",
+    "zipCode": "15206"
+  },
+  {
+    "name": "Fishes & Loaves Cooperative Ministries",
+    "description": "Nonprofit bringing healthy, free food to the Hazelwood-Greenfield communities through a food pantry and cooperative model serving local residents.",
+    "address": "134 East Elizabeth Street, Pittsburgh, PA 15207",
+    "phone": "(412) 414-3125",
+    "url": "https://fishes-and-loaves-hazelwood.org/",
+    "categorySlug": "food",
+    "zipCode": "15207"
+  },
+  {
+    "name": "Brashear Association Food Pantry",
+    "description": "Food pantry open to residents of zip codes 15203, 15210, 15211, and 15227. Households must be 18+ and at or below 200% of federal poverty guidelines. Adults may visit once per month; households with children may visit twice per month.",
+    "address": "Pittsburgh, PA 15210",
+    "phone": "(412) 431-2236",
+    "url": "https://www.brashearassociation.org/food-assistance",
+    "categorySlug": "food",
+    "zipCode": "15210"
+  },
+  {
+    "name": "Northside Common Ministries Food Pantry",
+    "description": "Food pantry serving residents of zip codes 15212, 15214, and 15233. Open Tuesday, Wednesday, and Friday 9:30am-12:00pm. Photo ID and proof of address required for first-time visitors. Also operates Pleasant Valley Shelter for men.",
+    "address": "1602 Brighton Road, Pittsburgh, PA 15212",
+    "phone": "(412) 323-1170",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "15212"
+  },
+  {
+    "name": "Light of Life Rescue Mission",
+    "description": "Emergency shelter and food pantry serving all of Allegheny County. Provides shelter for men, women and children, hot meals, clothing and hygiene products, and case management. Food pantry at Outreach Center on Lacock Street.",
+    "address": "234 Voeghtly Street, Pittsburgh, PA 15212",
+    "phone": "(412) 803-4100",
+    "url": "https://www.lightoflife.org/",
+    "categorySlug": "housing",
+    "zipCode": "15212"
+  },
+  {
+    "name": "Living Stones Community Pantry",
+    "description": "Nonprofit community pantry serving South Hills communities, open on the first and third Wednesdays of each month from 6-7pm and second and fourth Sundays from 2-3pm.",
+    "address": "1444 Hillsdale Avenue, Pittsburgh, PA 15216",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "15216"
+  },
+  {
+    "name": "Wilkinsburg Community Ministry (WCM)",
+    "description": "Community nonprofit sharing food with residents of Wilkinsburg and adjacent neighborhoods including East Homewood, East Liberty, Park Place, Regent Square, Swissvale, Braddock, Edgewood, Forest Hills, and Penn Hills. Open Monday-Friday 9am-1pm. Also offers mobile food pantry.",
+    "address": "702-704 Wood Street, Wilkinsburg, PA 15221",
+    "phone": "(412) 241-8072",
+    "url": "https://wcm15221.org/",
+    "categorySlug": "food",
+    "zipCode": "15221"
+  },
+  {
+    "name": "Jubilee Food Pantry",
+    "description": "Local food pantry open Fridays 10am-2pm serving residents of the Uptown Pittsburgh neighborhood.",
+    "address": "310 Brereton Street, Pittsburgh, PA 15219",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "15219"
+  },
+  {
+    "name": "Calvert Memorial Presbyterian Church Food Pantry",
+    "description": "Church-based food pantry distributing food on the first three Wednesdays of each month, serving residents of Etna borough and surrounding communities.",
+    "address": "Etna, PA 15223",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "15223"
+  },
+  {
+    "name": "Northside Common Ministries - Pleasant Valley Shelter",
+    "description": "Temporary housing shelter for men and male-identifying individuals experiencing homelessness, operated by Northside Common Ministries. Serves residents of Pittsburgh's North Side neighborhoods including zip codes 15212, 15214, and 15233.",
+    "address": "1602 Brighton Road, Pittsburgh, PA 15212",
+    "phone": "(412) 323-1170",
+    "url": "",
+    "categorySlug": "housing",
+    "zipCode": "15233"
+  },
+  {
+    "name": "Armstrong County Community Action Partnership (ACCAP) Food Bank",
+    "description": "County-wide food bank offering monthly pantry distributions, senior food box distributions, drive-up distributions, and emergency food to Armstrong County residents including North Apollo, Spring Church, and Kittanning areas.",
+    "address": "326 S. Water Street, Suite 1, Kittanning, PA 16201",
+    "phone": "(724) 548-3408",
+    "url": "https://www.armstrongcap.com/",
+    "categorySlug": "food",
+    "zipCode": "16201"
+  },
+  {
+    "name": "Armstrong County Community Action Partnership (ACCAP) - Freeport Pantry",
+    "description": "Local food pantry operated by ACCAP serving residents of Freeport and surrounding Armstrong County communities with monthly food distributions, senior food box program, and emergency food assistance.",
+    "address": "102 5th Street, Freeport, PA 16229",
+    "phone": "(724) 548-3408",
+    "url": "https://www.armstrongcap.com/pantries",
+    "categorySlug": "food",
+    "zipCode": "16229"
+  },
+  {
+    "name": "Armstrong County Community Action Partnership (ACCAP) - Ford City Pantry",
+    "description": "Local food pantry operated by ACCAP serving residents of Ford City and surrounding Armstrong County communities with monthly food distributions and emergency food assistance.",
+    "address": "1024 Fourth Avenue, Ford City, PA 16226",
+    "phone": "(724) 548-3408",
+    "url": "https://www.armstrongcap.com/pantries",
+    "categorySlug": "food",
+    "zipCode": "16226"
+  },
+  {
+    "name": "Armstrong County Community Action Partnership (ACCAP) - Rural Valley Pantry",
+    "description": "Local food pantry operated by ACCAP serving residents of Rural Valley and nearby Armstrong County communities with monthly food distributions and emergency food assistance.",
+    "address": "901 Main Street, Rural Valley, PA 16249",
+    "phone": "(724) 548-3408",
+    "url": "https://www.armstrongcap.com/pantries",
+    "categorySlug": "food",
+    "zipCode": "16249"
+  },
+  {
+    "name": "Armstrong County Community Action Partnership (ACCAP) - Templeton Pantry",
+    "description": "Local food pantry operated by ACCAP serving residents of Templeton, Seminole, Yatesboro, and surrounding rural Armstrong County communities with monthly food distributions and emergency food assistance.",
+    "address": "Templeton, PA 16259",
+    "phone": "(724) 548-3408",
+    "url": "https://www.armstrongcap.com/pantries",
+    "categorySlug": "food",
+    "zipCode": "16259"
+  },
+  {
+    "name": "Healing Hunger Beaver County",
+    "description": "Nonprofit alleviating hunger through community relationships in Aliquippa and surrounding Beaver County communities. Operates the Little Free Pantry, Little Free Garden, Little Free Food Truck, and Manna Community Meal program.",
+    "address": "2100 Irwin Street, Aliquippa, PA 15001",
+    "phone": "(724) 312-3825",
+    "url": "https://healinghungerbc.org/",
+    "categorySlug": "food",
+    "zipCode": "15001"
+  },
+  {
+    "name": "Families Matter Food Pantry",
+    "description": "Nonprofit food pantry in Monaca serving Beaver County residents. Distributions Monday for Veterans 1-2pm, Tuesday 3-4pm, and Thursday 1-2pm. Open for services Monday-Friday 9am-4pm.",
+    "address": "186 Wagner Road, Monaca, PA 15061",
+    "phone": "(724) 709-7718",
+    "url": "https://www.familiesmatterfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "15061"
+  },
+  {
+    "name": "Twelve Loaves Soup Kitchen and Food Pantry",
+    "description": "Soup kitchen and food pantry welcoming all community members, open Monday, Tuesday, Thursday, and Friday from 11am-1pm, serving New Brighton and surrounding Beaver County communities.",
+    "address": "1031 Second Avenue, New Brighton, PA 15066",
+    "phone": "(724) 561-6491",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "15066"
+  },
+  {
+    "name": "Salvation Army - Rochester Corps Food Pantry",
+    "description": "Food pantry serving Rochester, Bridgewater, Brighton Township, Freedom, Conway, Vanport, and Beaver. Open Tuesday and Thursday 9am-noon. Serves zip codes 15009, 15027, 15042, and 15074.",
+    "address": "378 Jefferson Street, Rochester, PA 15074",
+    "phone": "(724) 774-8335",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "15074"
+  },
+  {
+    "name": "The People's Pantry of McKean County",
+    "description": "Free community pantry and refrigerator serving McKean County residents in Smethport area.",
+    "address": "Smethport, PA 16749",
+    "phone": "",
+    "url": "https://www.facebook.com/p/The-Peoples-Pantry-of-McKean-County-100082931122158/",
+    "categorySlug": "food",
+    "zipCode": "16749"
+  },
+  {
+    "name": "Kane Area Food Pantry",
+    "description": "Food pantry serving McKean County residents including Smethport, open the 4th Friday of each month from 12pm-4pm.",
+    "address": "Kane, PA 16735",
+    "phone": "814-594-6918",
+    "url": "https://www.findhelp.org/kane-area-food-pantry--kane-pa--food-pantry/5929978322223104",
+    "categorySlug": "food",
+    "zipCode": "16750"
+  },
+  {
+    "name": "McKean County Food Bank",
+    "description": "Local food bank providing food assistance to McKean County residents in Bradford and surrounding areas.",
+    "address": "20 Russell Blvd, Bradford, PA 16701",
+    "phone": "814-362-0071",
+    "url": "https://networks.whyhunger.org/organisation/4995",
+    "categorySlug": "food",
+    "zipCode": "16701"
+  },
+  {
+    "name": "Mercer County Food Bank",
+    "description": "Supplies county-wide emergency food pantries and mobile pantry programs serving low-income families and residents in rural and underserved areas of Mercer County.",
+    "address": "Greenville, PA 16125",
+    "phone": "",
+    "url": "https://mercercountyfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "16125"
+  },
+  {
+    "name": "Good Shepherd Center",
+    "description": "Multi-denominational ministry offering food pantry, hot meals, clothing, and free medical clinic. Open Mon, Wed, Fri 9am-3pm; hot meals Mon 4-5:30pm, Tue & Thu 12-1pm.",
+    "address": "10 N Water St, Greenville, PA 16125",
+    "phone": "724-866-1340",
+    "url": "https://pennsylvaniafoodbanks.org/food-bank/greenville-worship-service-center/",
+    "categorySlug": "food",
+    "zipCode": "16125"
+  },
+  {
+    "name": "Grove City Community Food Pantry",
+    "description": "Local food pantry serving Grove City and surrounding Mercer County communities, open Monday and Friday 10am-4pm.",
+    "address": "114 S Center St, Grove City, PA 16127",
+    "phone": "",
+    "url": "https://www.findhelp.org/food/food-pantry--mercer-pa",
+    "categorySlug": "food",
+    "zipCode": "16127"
+  },
+  {
+    "name": "Community Action Partnership of Mercer County (CAPMC)",
+    "description": "Provides programs including heating bill assistance, rent help, mortgage counseling, and services for seniors in Mercer County.",
+    "address": "Sharon, PA 16146",
+    "phone": "",
+    "url": "https://www.needhelppayingbills.com/html/community_action_partnership_o6.html",
+    "categorySlug": "utilities",
+    "zipCode": "16146"
+  },
+  {
+    "name": "AWARE, Inc. of Mercer County",
+    "description": "Victim services agency providing 24/7 emergency shelter, hotline, legal advocacy, and support services for survivors of domestic and sexual violence in Mercer County.",
+    "address": "109 S Sharpsville Ave Suite D, Sharon, PA 16146",
+    "phone": "888-981-1457",
+    "url": "https://www.domesticshelters.org/help/pa/sharon/16146/aware-inc",
+    "categorySlug": "crisis",
+    "zipCode": "16146"
+  },
+  {
+    "name": "West Hills Food Pantry",
+    "description": "Food pantry serving Hermitage and surrounding communities in Mercer County.",
+    "address": "Hermitage, PA 16148",
+    "phone": "",
+    "url": "https://westhillsfoodpantry.org/about/",
+    "categorySlug": "food",
+    "zipCode": "16148"
+  },
+  {
+    "name": "Gentle Shepherd Church of the Nazarene Food Pantry",
+    "description": "Free food pantry open 2nd and 4th Thursday of each month from 4-6pm serving Hermitage area residents.",
+    "address": "3480 Shenango Valley Fwy, Hermitage, PA 16148",
+    "phone": "724-342-7729",
+    "url": "https://homelessshelterdirectory.org/foodbanks/city/pa-hermitage.html",
+    "categorySlug": "food",
+    "zipCode": "16148"
+  },
+  {
+    "name": "Mother Hubbard's Cupboard",
+    "description": "Food bank ministry of St. Mark's Episcopal Church providing food to Mifflin County residents regardless of religious affiliation. Funded entirely by community donations and staffed by volunteers.",
+    "address": "21 South Main Street, Lewistown, PA 17044",
+    "phone": "717-248-8327",
+    "url": "https://www.stmark-lewistown.org/mission-outreach/mother-hubbards-cupboard/",
+    "categorySlug": "food",
+    "zipCode": "17044"
+  },
+  {
+    "name": "Helping Hands Food Pantry Lewistown",
+    "description": "Faith-based 501(c)(3) food pantry providing a 7-day supply of groceries and personal care items free to people in need regardless of religious beliefs, operated almost entirely by volunteers.",
+    "address": "Lewistown, PA 17044",
+    "phone": "",
+    "url": "https://www.findhelp.org/food/food-pantry--lewistown-pa",
+    "categorySlug": "food",
+    "zipCode": "17044"
+  },
+  {
+    "name": "Shelter Services Inc.",
+    "description": "Provides temporary emergency shelter to homeless individuals and families in Mifflin and Juniata Counties. Serves adults 18+ in homeless crisis. Offers men, women, and children accompanied by a legal adult.",
+    "address": "13 Depot Street, Lewistown, PA 17044",
+    "phone": "717-248-0102",
+    "url": "https://www.shelterlist.com/details/pa_17044_shelter-services-juniata-of-mifflin-county",
+    "categorySlug": "housing",
+    "zipCode": "17044"
+  },
+  {
+    "name": "Kish Valley Grace Brethren Church Food Giveaway",
+    "description": "Monthly soup giveaway on the 3rd Saturday, 9:30am-12:30pm at Reedsville or Milroy location serving Mifflin County communities.",
+    "address": "99 Taylor Drive, Reedsville, PA 17084",
+    "phone": "717-667-2500",
+    "url": "https://www.findhelp.org/food/food-pantry--lewistown-pa",
+    "categorySlug": "food",
+    "zipCode": "17084"
+  },
+  {
+    "name": "Commodore Perry Food Pantry",
+    "description": "Community food pantry serving Hadley and surrounding Mercer County rural communities.",
+    "address": "Hadley, PA 16130",
+    "phone": "",
+    "url": "https://mercercountyfoodbank.org/gethelp/",
+    "categorySlug": "food",
+    "zipCode": "16130"
+  },
+  {
+    "name": "St. Francis Xavier Food Pantry",
+    "description": "Parish food pantry available every Friday, or by request at any time, serving McKean County residents.",
+    "address": "McKean, PA",
+    "phone": "814-476-7657",
+    "url": "https://stfrancisxaviermckean.org/Food-Pantry.html",
+    "categorySlug": "food",
+    "zipCode": "16113"
+  },
+  {
+    "name": "Strait from the Heart Food Pantry",
+    "description": "Food pantry in Lawrenceville serving surrounding Tioga County zip codes including 16929, 16920, 16940, 16942, and 16946. Open 3rd Thursday of the month 4pm-6pm.",
+    "address": "18 Academy St, Lawrenceville, PA 16929",
+    "phone": "",
+    "url": "https://www.tiogapartnership.org/items-1/wellsboro-area-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "16929"
+  },
+  {
+    "name": "Salvation Army Lewistown",
+    "description": "Provides emergency food pantry and other assistance services to Mifflin County residents.",
+    "address": "9 S Dorcas St, Lewistown, PA 17044",
+    "phone": "",
+    "url": "https://www.findhelp.org/food/food-pantry--lewistown-pa",
+    "categorySlug": "food",
+    "zipCode": "17044"
+  },
+  {
+    "name": "Bread of Life Outreach (BOLO)",
+    "description": "501(c)(3) ministry of Newport Assembly of God serving Perry County and surrounding rural counties for nearly 30 years. Provides perishable and non-perishable food, household items, personal care products, diapers, and formula. Open three days per week.",
+    "address": "35 N. Front Street, Newport, PA 17074",
+    "phone": "",
+    "url": "https://www.newportassembly.org/bolo",
+    "categorySlug": "food",
+    "zipCode": "17074"
+  },
+  {
+    "name": "Neighbor Helping Neighbor Food Bank",
+    "description": "Food bank providing food twice a month to families in Perry County at 150% of poverty level or below. Hours Mon, Wed, Fri 8:45am-11:45am and 1-3pm, plus evening hours on the Monday following the 3rd Saturday 4:30-6:30pm.",
+    "address": "300A South Carlisle Street, New Bloomfield, PA 17068",
+    "phone": "717-594-0027",
+    "url": "https://nhnfoodbank.com/",
+    "categorySlug": "food",
+    "zipCode": "17068"
+  },
+  {
+    "name": "Perry Human Services",
+    "description": "Nonprofit serving individuals, families, and communities of Perry County since 1974, providing counseling, drug and alcohol services, and community support programs.",
+    "address": "8391 Spring Road Suite 2, New Bloomfield, PA 17068",
+    "phone": "",
+    "url": "https://perryhumanservices.org/",
+    "categorySlug": "community",
+    "zipCode": "17068"
+  },
+  {
+    "name": "Perry County Food Pantry",
+    "description": "Emergency food pantry providing food assistance to Perry County families twice a month on Fridays.",
+    "address": "New Bloomfield, PA 17068",
+    "phone": "717-582-9978",
+    "url": "https://www.foodpantries.org/ci/pa-new_bloomfield",
+    "categorySlug": "food",
+    "zipCode": "17068"
+  },
+  {
+    "name": "Coudersport Alliance Church Food Pantry",
+    "description": "Faith-based community food pantry ministry created in 1998 providing tangible resources to those in need. Open Tuesdays and Thursdays 10:30am-1:30pm.",
+    "address": "7 Alliance Avenue, Coudersport, PA 16915",
+    "phone": "",
+    "url": "https://www.coudycma.org/food-pantry.html",
+    "categorySlug": "food",
+    "zipCode": "16915"
+  },
+  {
+    "name": "Project SHARE Food Pantry",
+    "description": "Food distribution program serving Cumberland County including communities near the Perry County border, providing groceries to low-income families.",
+    "address": "Carlisle, PA 17013",
+    "phone": "",
+    "url": "https://www.projectsharepa.org/distribution/",
+    "categorySlug": "food",
+    "zipCode": "17013"
+  },
+  {
+    "name": "Coudersport Alliance Church Food Pantry",
+    "description": "Faith-based community food pantry providing tangible resources to those in need in Potter County. Open Tuesdays and Thursdays 10:30am-1:30pm.",
+    "address": "7 Alliance Avenue, Coudersport, PA 16915",
+    "phone": "",
+    "url": "https://www.coudycma.org/food-pantry.html",
+    "categorySlug": "food",
+    "zipCode": "16915"
+  },
+  {
+    "name": "St. Paul Lutheran Church Food Bank",
+    "description": "Community food bank operating on the 4th Friday of every month from 10-11am serving Galeton area residents.",
+    "address": "Adams Street, Galeton, PA 16922",
+    "phone": "",
+    "url": "https://pottercountypa.gov/2025/06/20/food-banks/",
+    "categorySlug": "food",
+    "zipCode": "16922"
+  },
+  {
+    "name": "Port Allegany Food Pantry",
+    "description": "Local food pantry serving Port Allegany and McKean County, open the 1st Saturday after the first Friday of each month from 9am-11am.",
+    "address": "12 Knapp Road, Port Allegany, PA 16743",
+    "phone": "",
+    "url": "https://mckean.pa.networkofcare.org/veterans/services/agency.aspx?pid=PortAlleganyFoodPantry_17_1504_0",
+    "categorySlug": "food",
+    "zipCode": "16743"
+  },
+  {
+    "name": "Gathered From the Grove Food Pantry",
+    "description": "Community food pantry ministry serving Port Allegany and surrounding McKean County rural areas.",
+    "address": "Port Allegany, PA 16743",
+    "phone": "",
+    "url": "https://www.facebook.com/p/Gathered-From-the-Grove-Food-Pantry-100067783151417/",
+    "categorySlug": "food",
+    "zipCode": "16743"
+  },
+  {
+    "name": "Potter County Human Services",
+    "description": "County human services agency providing social services for families and children of Potter County through accessible programs including food assistance and coordinated services.",
+    "address": "Coudersport, PA 16915",
+    "phone": "",
+    "url": "https://pottercountyhumansvcs.org/",
+    "categorySlug": "community",
+    "zipCode": "16915"
+  },
+  {
+    "name": "Tableland Services Inc. (CAPFSC) Food Program",
+    "description": "Community Action Partnership for Somerset County operating multiple food distribution sites across the county including Meyersdale, Garrett, and Salisbury areas.",
+    "address": "535 East Main Street, Somerset, PA 15501",
+    "phone": "814-445-9628",
+    "url": "https://tableland.org/Food-Program",
+    "categorySlug": "food",
+    "zipCode": "15501"
+  },
+  {
+    "name": "Next Step Center Emergency Shelter",
+    "description": "Emergency shelter serving Somerset County individuals and families facing homelessness.",
+    "address": "Somerset, PA 15501",
+    "phone": "",
+    "url": "https://www.nextstepcenter.org/",
+    "categorySlug": "housing",
+    "zipCode": "15501"
+  },
+  {
+    "name": "Somerset County Mobile Food Bank",
+    "description": "501(c)(3) nonprofit providing free food distribution to low-income Somerset County residents with limited income and transportation, bringing fresh produce and groceries to those in need.",
+    "address": "Somerset, PA 15501",
+    "phone": "",
+    "url": "https://scmfb.org/",
+    "categorySlug": "food",
+    "zipCode": "15501"
+  },
+  {
+    "name": "Somerset Community Food Pantry",
+    "description": "Local food pantry serving Somerset residents and Rockwood area, open Wednesdays 8-11am at Trinity Lutheran Church.",
+    "address": "918 Tayman Ave, Somerset, PA 15501",
+    "phone": "",
+    "url": "https://www.somersetfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "15501"
+  },
+  {
+    "name": "Helping Hands Food Pantry Boswell",
+    "description": "Community food pantry serving the North Star School District area, open the first 4 Thursdays of each month.",
+    "address": "Boswell, PA 15531",
+    "phone": "",
+    "url": "https://www.facebook.com/HelpingHandsBoswell/",
+    "categorySlug": "food",
+    "zipCode": "15531"
+  },
+  {
+    "name": "Somerset County Mobile Food Bank",
+    "description": "501(c)(3) nonprofit providing free food distribution to low-income Somerset County residents with limited income and transportation throughout the county including Boswell, Friedens, and Garrett areas.",
+    "address": "Somerset, PA 15501",
+    "phone": "",
+    "url": "https://scmfb.org/",
+    "categorySlug": "food",
+    "zipCode": "15530"
+  },
+  {
+    "name": "Berlin Pantry",
+    "description": "Local food pantry serving Berlin and Shanksville areas, open Wednesdays 9-11am at Trinity United Church of Christ.",
+    "address": "610 Main St, Berlin, PA 15530",
+    "phone": "814-442-7550",
+    "url": "https://www.centerforpophealth.org/food-resource/berlin-pantry/",
+    "categorySlug": "food",
+    "zipCode": "15530"
+  },
+  {
+    "name": "Casselman Valley Helpers Food Pantry",
+    "description": "Community food pantry serving Meyersdale and Salisbury areas, open 9-10am the 1st Friday of each month at Zion Lutheran Church.",
+    "address": "355 Center St, Meyersdale, PA 15552",
+    "phone": "814-634-5659",
+    "url": "https://tableland.org/Food-Program",
+    "categorySlug": "food",
+    "zipCode": "15552"
+  },
+  {
+    "name": "Tableland Services Inc. (CAPFSC)",
+    "description": "Community Action Partnership for Somerset County providing housing assistance, homeless prevention, emergency services grants, and permanent supportive housing for Somerset County residents.",
+    "address": "535 East Main Street, Somerset, PA 15501",
+    "phone": "814-445-9628",
+    "url": "https://tableland.org/Housing",
+    "categorySlug": "housing",
+    "zipCode": "15530"
+  },
+  {
+    "name": "United Way of the Southern Alleghenies Food Pantries",
+    "description": "Coordinates food pantry network serving Somerset, Cambria, and Blair County communities, maintaining a comprehensive directory of local food resources.",
+    "address": "Somerset, PA 15501",
+    "phone": "",
+    "url": "https://www.unitedwaysa.org/food-pantries",
+    "categorySlug": "food",
+    "zipCode": "15501"
+  },
+  {
+    "name": "Bridges Cooperative Ministry Food Pantry",
+    "description": "Local food pantry serving Cambria and Somerset County border communities, providing food assistance to families in need.",
+    "address": "Johnstown area, PA",
+    "phone": "",
+    "url": "https://bridgescm.org/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "15924"
+  },
+  {
+    "name": "Franklin Street Food Pantry",
+    "description": "One of the largest food pantries in Cambria County, providing a three to five-day food supply for hundreds of food-insecure families each month.",
+    "address": "Johnstown, PA 15901",
+    "phone": "",
+    "url": "https://www.centerforcommunityaction.org/social-determinants-of-health-hub",
+    "categorySlug": "food",
+    "zipCode": "15937"
+  },
+  {
+    "name": "Berlin Pantry",
+    "description": "Local food pantry serving Berlin, Shanksville, and surrounding Somerset County communities, open Wednesdays 9-11am.",
+    "address": "610 Main St, Berlin, PA 15530",
+    "phone": "814-442-7550",
+    "url": "https://www.centerforpophealth.org/food-resource/berlin-pantry/",
+    "categorySlug": "food",
+    "zipCode": "15924"
+  },
+  {
+    "name": "Wellsboro Area Food Pantry",
+    "description": "Community food pantry serving Wellsboro and surrounding Tioga County communities including Ansonia, Charleston, Tioga, and Delmar. Open second Monday and fourth Tuesday each month 10am-1pm.",
+    "address": "36 Main Street, Wellsboro, PA 16901",
+    "phone": "570-998-4018",
+    "url": "http://www.wellsborofoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "16901"
+  },
+  {
+    "name": "Tioga Community Food Pantry",
+    "description": "Local food pantry located at St. Andrews Episcopal Church, open the 4th Saturday of each month 9-10am serving Tioga and surrounding communities.",
+    "address": "9 Main Street, Tioga, PA 16946",
+    "phone": "",
+    "url": "https://www.tiogapartnership.org/items-1/tioga-community-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "16946"
+  },
+  {
+    "name": "Strait from the Heart Food Pantry",
+    "description": "Community food pantry in Lawrenceville open the 3rd Thursday of the month 4-6pm, serving the 16929, 16920, 16940, 16942, and 16946 zip codes.",
+    "address": "18 Academy St, Lawrenceville, PA 16929",
+    "phone": "",
+    "url": "https://tiogapartnership.org/?category_name=food-assistance",
+    "categorySlug": "food",
+    "zipCode": "16929"
+  },
+  {
+    "name": "Sullivan County Food Pantry",
+    "description": "Nonprofit food pantry serving Sullivan County and surrounding communities with free groceries for residents in need.",
+    "address": "Sullivan County, PA",
+    "phone": "",
+    "url": "https://www.sullivancountyfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "16912"
+  },
+  {
+    "name": "Food for Families SVDP Johnstown",
+    "description": "Subsidiary of the Society of St. Vincent de Paul serving Cambria County with food assistance for families in need.",
+    "address": "Johnstown, PA 15901",
+    "phone": "",
+    "url": "https://www.facebook.com/foodforfamiliesSVDP/",
+    "categorySlug": "food",
+    "zipCode": "15963"
+  },
+  {
+    "name": "Wellsboro Area Food Pantry",
+    "description": "Community food pantry serving Wellsboro and surrounding Tioga County communities. Open second Monday and fourth Tuesday each month 10am-1pm.",
+    "address": "36 Main Street, Wellsboro, PA 16901",
+    "phone": "570-998-4018",
+    "url": "http://www.wellsborofoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "16920"
+  },
+  {
+    "name": "Strait from the Heart Food Pantry",
+    "description": "Community food pantry open the 3rd Thursday of the month 4-6pm, serving zip codes 16929, 16920, 16940, 16942, and 16946 in Tioga County.",
+    "address": "18 Academy St, Lawrenceville, PA 16929",
+    "phone": "",
+    "url": "https://tiogapartnership.org/?category_name=food-assistance",
+    "categorySlug": "food",
+    "zipCode": "16929"
+  },
+  {
+    "name": "Tioga Community Food Pantry",
+    "description": "Community food pantry at St. Andrews Episcopal Church open the 4th Saturday each month 9-10am, serving Tioga and surrounding communities.",
+    "address": "9 Main Street, Tioga, PA 16946",
+    "phone": "",
+    "url": "https://www.tiogapartnership.org/items-1/tioga-community-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "16946"
+  },
+  {
+    "name": "Tioga County Partnership for Community Health Food Assistance",
+    "description": "Connects Tioga County residents to local food assistance resources including pantries in Wellsboro, Tioga, Knoxville, and Lawrenceville.",
+    "address": "Wellsboro, PA 16901",
+    "phone": "",
+    "url": "https://tiogapartnership.org/?category_name=food-assistance",
+    "categorySlug": "food",
+    "zipCode": "16935"
+  },
+  {
+    "name": "Sullivan County Food Pantry",
+    "description": "Nonprofit food pantry serving Sullivan County communities with free groceries for residents in need.",
+    "address": "Sullivan County, PA",
+    "phone": "",
+    "url": "https://www.sullivancountyfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "16920"
+  },
+  {
+    "name": "Community Services of Venango County Food Pantry",
+    "description": "Operates food pantries and clothing rooms in Oil City and Rocky Grove, plus a Mobile Food Pantry serving rural locations throughout Venango County.",
+    "address": "Oil City, PA 16301",
+    "phone": "",
+    "url": "https://www.communityservicespa.org/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "16301"
+  },
+  {
+    "name": "St. Elizabeth Center Food Pantry",
+    "description": "Community food pantry open the 2nd and 4th Wednesday of each month, 10am-noon, serving Oil City and Venango County residents.",
+    "address": "311 Emerald Street, Oil City, PA 16301",
+    "phone": "",
+    "url": "https://www.venangocountypa.gov/739/Food-Supports",
+    "categorySlug": "food",
+    "zipCode": "16301"
+  },
+  {
+    "name": "PPC Violence Free Network Emergency Shelter",
+    "description": "The only shelter in Venango County for individuals affected by domestic and sexual violence. Provides 24/7 emergency shelter, food, basic necessities, and case management including housing assistance.",
+    "address": "Franklin, PA 16323",
+    "phone": "814-676-5476",
+    "url": "https://fscas.org/ppc-emergency-shelter/",
+    "categorySlug": "crisis",
+    "zipCode": "16323"
+  },
+  {
+    "name": "Pleasantville Interfaith Emergency Food Pantry",
+    "description": "Interfaith community food pantry serving Pleasantville and surrounding rural Venango County communities.",
+    "address": "Pleasantville, PA 16341",
+    "phone": "",
+    "url": "https://pleasantvillefoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "16341"
+  },
+  {
+    "name": "Helping Hand of Warren County",
+    "description": "Nonprofit organization providing food pantry and other assistance services to Warren County residents, with attention to transportation barriers in rural areas.",
+    "address": "Warren, PA 16365",
+    "phone": "",
+    "url": "https://www.warrencountyhelpinghand.com/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "16365"
+  },
+  {
+    "name": "2nd Street Food Pantry of Youngsville",
+    "description": "Community food pantry located within Youngsville New Life Church. Open Tuesdays 3:30-6:30pm and Wed-Fri 9:30am-12:30pm. Neighbors may come twice monthly plus the 4th Saturday 10am-noon.",
+    "address": "Youngsville, PA 16371",
+    "phone": "",
+    "url": "https://warrengives.org/2024/02/youngsville-2nd-street-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "16371"
+  },
+  {
+    "name": "Warren First Church of the Nazarene Food Pantry",
+    "description": "Free community food pantry serving Warren and surrounding Warren County communities.",
+    "address": "907 Pennsylvania Ave, Warren, PA 16365",
+    "phone": "",
+    "url": "https://www.findhelp.org/warren-first-church-of-the-nazarene-(wfcn)--warren-pa--food-pantry/6653886823923712",
+    "categorySlug": "food",
+    "zipCode": "16365"
+  },
+  {
+    "name": "Grace UMC Food Pantry Warren",
+    "description": "Church food pantry open on weekdays during office hours for anyone in the Warren area with an emergency food need.",
+    "address": "Warren, PA 16365",
+    "phone": "",
+    "url": "https://www.graceumcwarrenpa.com/outreach",
+    "categorySlug": "food",
+    "zipCode": "16365"
+  },
+  {
+    "name": "Corry Area Food Pantry",
+    "description": "Local food pantry distributing food to needy families in Corry and surrounding Erie County communities on the third Friday of each month.",
+    "address": "Corry, PA 16407",
+    "phone": "",
+    "url": "https://corryareafoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "16407"
+  },
+  {
+    "name": "Edinboro Food Pantry",
+    "description": "Community food pantry serving Edinboro and surrounding Erie County communities with free groceries for residents in need.",
+    "address": "Edinboro, PA 16412",
+    "phone": "",
+    "url": "https://reentry.networkofcare.org/erie-pa/services/agency?pid=EdinboroFoodPantry_19_1718_0",
+    "categorySlug": "food",
+    "zipCode": "16412"
+  },
+  {
+    "name": "Center for Family Services Crawford County Food Pantries",
+    "description": "Operates seven food pantries across Crawford County serving residents with emergency and supplemental food assistance.",
+    "address": "Crawford County, PA",
+    "phone": "",
+    "url": "https://www.ctrforfamilyservices.org/food-pantries/",
+    "categorySlug": "food",
+    "zipCode": "16402"
+  },
+  {
+    "name": "Helping Hand of Warren County",
+    "description": "Nonprofit providing food pantry and assistance services to Warren County residents, including communities in the 16350 and 16365 zip codes with attention to rural transportation barriers.",
+    "address": "Warren, PA 16365",
+    "phone": "",
+    "url": "https://www.warrencountyhelpinghand.com/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "16350"
+  },
+  {
+    "name": "2nd Street Food Pantry of Youngsville",
+    "description": "Community food pantry within Youngsville New Life Church. Open Tuesdays 3:30-6:30pm and Wed-Fri 9:30am-12:30pm. Neighbors may come twice monthly plus the 4th Saturday 10am-noon.",
+    "address": "Youngsville, PA 16371",
+    "phone": "",
+    "url": "https://warrengives.org/2024/02/youngsville-2nd-street-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "16371"
+  },
+  {
+    "name": "PPC Violence Free Network Emergency Shelter",
+    "description": "Only shelter in Venango County for individuals affected by domestic and sexual violence. Provides 24/7 emergency shelter, food, basic necessities, and case management including housing assistance.",
+    "address": "Franklin, PA 16323",
+    "phone": "814-676-5476",
+    "url": "https://fscas.org/ppc-emergency-shelter/",
+    "categorySlug": "crisis",
+    "zipCode": "16313"
+  },
+  {
+    "name": "Community Circle Food Pantry",
+    "description": "Nonprofit food pantry open three days a week providing supplemental groceries to individuals and families in Washington County experiencing food insecurity.",
+    "address": "70 E Beau St, Washington, PA 15301",
+    "phone": "724-225-1540",
+    "url": "https://www.facebook.com/communitycirvlefoodpantry/",
+    "categorySlug": "food",
+    "zipCode": "15301"
+  },
+  {
+    "name": "City Mission Samaritan Care Center and Food Pantry",
+    "description": "Christ-centered nonprofit providing food pantry services, hygiene items, and emergency shelter for homeless individuals in Washington County.",
+    "address": "84 W Wheeling St, Washington, PA 15301",
+    "phone": "724-222-8530",
+    "url": "https://www.citymission.org/programs/outreach",
+    "categorySlug": "food",
+    "zipCode": "15301"
+  },
+  {
+    "name": "City Mission Emergency Shelter",
+    "description": "Emergency homeless shelter providing meals, overnight housing, case management, counseling, and life recovery programs for men, women, and children in crisis.",
+    "address": "56 W Strawberry Ave, Washington, PA 15301",
+    "phone": "724-222-8530",
+    "url": "https://www.citymission.org/",
+    "categorySlug": "housing",
+    "zipCode": "15301"
+  },
+  {
+    "name": "Tylerdale Food Pantry",
+    "description": "Local food pantry distributing groceries to Washington County residents on a regular weekly and monthly schedule.",
+    "address": "1000 Jefferson Ave, Washington, PA 15301",
+    "phone": "724-632-2190",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "15301"
+  },
+  {
+    "name": "Greater Washington County Food Bank (Food Helpers)",
+    "description": "Nonprofit regional food bank serving Washington and Greene Counties for over 42 years, operating 11+ monthly distribution sites including senior boxes and mobile programs.",
+    "address": "909 National Pike W, Brownsville, PA 15417",
+    "phone": "724-632-2190",
+    "url": "https://foodhelpers.org/",
+    "categorySlug": "food",
+    "zipCode": "15301"
+  },
+  {
+    "name": "Neighbor 2 Neighbor of Southwestern PA",
+    "description": "Faith-based nonprofit providing free food distributions at 12+ sites, emergency cold-weather shelter for men and women, and self-sufficiency programs throughout Washington County.",
+    "address": "Washington, PA 15301",
+    "phone": "",
+    "url": "https://www.n2nhelps.org/",
+    "categorySlug": "food",
+    "zipCode": "15301"
+  },
+  {
+    "name": "Charleroi Area Food Pantry",
+    "description": "Nonprofit food pantry serving Charleroi and surrounding communities since 1986, distributing food to those experiencing food insecurity in Washington County.",
+    "address": "828 Meadow Ave, Charleroi, PA 15022",
+    "phone": "724-483-6133",
+    "url": "https://pennsylvaniafoodbanks.org/food-bank/charleroi-area-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "15022"
+  },
+  {
+    "name": "Mon Valley Youth and Teen Association Food Distribution",
+    "description": "Local nonprofit providing monthly food distribution in partnership with Greater Pittsburgh Community Food Bank serving Donora and surrounding Mon Valley communities.",
+    "address": "160 Thompson Ave, Donora, PA 15033",
+    "phone": "724-379-4889",
+    "url": "https://www.mvyata.org/programs/food-programs",
+    "categorySlug": "food",
+    "zipCode": "15033"
+  },
+  {
+    "name": "Salvation Army Mon Valley Emergency Food Assistance",
+    "description": "Emergency food assistance serving Donora and the Mon Valley region Monday through Friday.",
+    "address": "800 Thompson Ave, Donora, PA 15033",
+    "phone": "724-684-4282",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "15033"
+  },
+  {
+    "name": "St. Andrew Parish Food Bank",
+    "description": "Parish-run food bank serving over 125 families in Charleroi, Donora, and Monongahela with monthly distributions at three community locations.",
+    "address": "1 Park Manor Rd, Donora, PA 15033",
+    "phone": "724-379-4777",
+    "url": "https://saintandrewmidmon.org/st-andrew-parish-food-bank",
+    "categorySlug": "food",
+    "zipCode": "15033"
+  },
+  {
+    "name": "Greater Washington County Food Bank - Monongahela Distribution",
+    "description": "Regular food distribution site serving Monongahela and southern Washington County residents with emergency food, fresh produce, and senior food box programs.",
+    "address": "200 Railroad St, Monongahela, PA 15063",
+    "phone": "724-632-2190",
+    "url": "https://foodhelpers.org/",
+    "categorySlug": "food",
+    "zipCode": "15063"
+  },
+  {
+    "name": "Greater Washington County Food Bank (Food Helpers)",
+    "description": "Nonprofit regional food bank serving Washington County for over 42 years with multiple rural distribution sites, senior food boxes, and mobile food programs.",
+    "address": "909 National Pike W, Brownsville, PA 15417",
+    "phone": "724-632-2190",
+    "url": "https://foodhelpers.org/",
+    "categorySlug": "food",
+    "zipCode": "15314"
+  },
+  {
+    "name": "Ellsworth Food Pantry",
+    "description": "Local food pantry serving Bentleyville and Ellsworth area residents, distributing food monthly on the third Thursday of the month.",
+    "address": "812 Main St, Bentleyville, PA 15314",
+    "phone": "724-632-2190",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "15314"
+  },
+  {
+    "name": "Community Circle Food Pantry",
+    "description": "Nonprofit food pantry open three days per week providing supplemental groceries to Washington County families and individuals in need.",
+    "address": "70 E Beau St, Washington, PA 15301",
+    "phone": "724-225-1540",
+    "url": "https://www.facebook.com/communitycirvlefoodpantry/",
+    "categorySlug": "food",
+    "zipCode": "15317"
+  },
+  {
+    "name": "Peters Township Food Pantry",
+    "description": "Community food pantry serving McMurray and Peters Township area residents with grocery distributions.",
+    "address": "McMurray, PA 15317",
+    "phone": "724-941-1472",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "15317"
+  },
+  {
+    "name": "City Mission Emergency Shelter and Food Services",
+    "description": "Christ-centered nonprofit offering emergency shelter, food pantry, case management, and life recovery programs for homeless and food-insecure individuals in Washington County.",
+    "address": "56 W Strawberry Ave, Washington, PA 15301",
+    "phone": "724-222-8530",
+    "url": "https://www.citymission.org/",
+    "categorySlug": "housing",
+    "zipCode": "15311"
+  },
+  {
+    "name": "West Bethlehem Emergency Food Pantry",
+    "description": "Local emergency food pantry serving residents of Bentleyville and surrounding Washington County communities.",
+    "address": "Bentleyville, PA 15314",
+    "phone": "",
+    "url": "https://sites.google.com/view/westbethemergencyfoodpantry/home",
+    "categorySlug": "food",
+    "zipCode": "15314"
+  },
+  {
+    "name": "Greater Washington County Food Bank (Food Helpers)",
+    "description": "Nonprofit regional food bank distributing food across rural Washington County through 11+ monthly sites, senior box programs, and mobile delivery.",
+    "address": "909 National Pike W, Brownsville, PA 15417",
+    "phone": "724-632-2190",
+    "url": "https://foodhelpers.org/",
+    "categorySlug": "food",
+    "zipCode": "15345"
+  },
+  {
+    "name": "Meadowlands Food Pantry Distribution",
+    "description": "Monthly community food pantry distribution in partnership with Greater Pittsburgh Community Food Bank, serving Meadow Lands and surrounding Washington County communities.",
+    "address": "Meadow Lands, PA 15347",
+    "phone": "",
+    "url": "https://washingtoncountyhumanservices.com",
+    "categorySlug": "food",
+    "zipCode": "15347"
+  },
+  {
+    "name": "Community Circle Food Pantry",
+    "description": "Nonprofit food pantry open three days per week providing supplemental groceries to individuals and families in Washington County experiencing food insecurity.",
+    "address": "70 E Beau St, Washington, PA 15301",
+    "phone": "724-225-1540",
+    "url": "https://www.facebook.com/communitycirvlefoodpantry/",
+    "categorySlug": "food",
+    "zipCode": "15360"
+  },
+  {
+    "name": "City Mission Emergency Shelter",
+    "description": "Emergency homeless shelter providing meals, housing, case management, and life recovery programs for men, women, and children in Washington County.",
+    "address": "56 W Strawberry Ave, Washington, PA 15301",
+    "phone": "724-222-8530",
+    "url": "https://www.citymission.org/",
+    "categorySlug": "housing",
+    "zipCode": "15363"
+  },
+  {
+    "name": "Neighbor 2 Neighbor of Southwestern PA",
+    "description": "Faith-based nonprofit providing weekly food outreach, free food distributions at 12+ sites, and emergency cold-weather shelter throughout Washington County.",
+    "address": "Washington, PA 15301",
+    "phone": "",
+    "url": "https://www.n2nhelps.org/",
+    "categorySlug": "food",
+    "zipCode": "15376"
+  },
+  {
+    "name": "Greater Washington County Food Bank - California PA Distribution",
+    "description": "Food distribution site serving California, Coal Center, Dunlevy, and surrounding Washington County river communities with monthly food boxes and emergency food assistance.",
+    "address": "California, PA 15419",
+    "phone": "724-632-2190",
+    "url": "https://foodhelpers.org/",
+    "categorySlug": "food",
+    "zipCode": "15419"
+  },
+  {
+    "name": "Greater Washington County Food Bank - Country Six Distribution",
+    "description": "Monthly food distribution point in partnership with Greater Pittsburgh Community Food Bank serving rural Washington County residents near Roscoe and Stockdale.",
+    "address": "Roscoe, PA 15477",
+    "phone": "724-632-2190",
+    "url": "https://foodhelpers.org/",
+    "categorySlug": "food",
+    "zipCode": "15477"
+  },
+  {
+    "name": "Westmoreland Food Bank",
+    "description": "Nonprofit county food bank distributing food to thousands of Westmoreland County households monthly through pantry sites, mobile markets, and fresh produce programs.",
+    "address": "100 Devonshire Dr, Delmont, PA 15626",
+    "phone": "724-468-8660",
+    "url": "https://westmorelandfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "15068"
+  },
+  {
+    "name": "Mount Saint Peter Church Food Pantry",
+    "description": "Local parish food pantry serving New Kensington and Arnold area residents with monthly food distributions on the first Wednesday of each month.",
+    "address": "100 Freeport Rd, New Kensington, PA 15068",
+    "phone": "",
+    "url": "https://www.newkensingtoncatholic.org/community-outreach",
+    "categorySlug": "food",
+    "zipCode": "15068"
+  },
+  {
+    "name": "United Presbyterian Church Food Pantry - New Kensington",
+    "description": "Faith-based food pantry distributing food to New Kensington area residents on a monthly basis.",
+    "address": "601 5th Ave, New Kensington, PA 15068",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "15068"
+  },
+  {
+    "name": "Salvation Army New Kensington Food Distribution",
+    "description": "Salvation Army food distribution program serving New Kensington residents on the third Friday of each month.",
+    "address": "255 3rd St, New Kensington, PA 15068",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "15068"
+  },
+  {
+    "name": "Westmoreland Community Action Emergency Food Pantry",
+    "description": "Emergency food pantry providing crisis food assistance to Westmoreland County individuals and families, with referrals to additional community resources.",
+    "address": "316 Donohoe Rd, Greensburg, PA 15601",
+    "phone": "800-816-0022",
+    "url": "https://westmorelandca.org/resources/emergency-services/emergency-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "15062"
+  },
+  {
+    "name": "Westmoreland Food Bank",
+    "description": "Nonprofit county food bank serving Westmoreland County through pantry sites, mobile markets, fresh produce programs, and senior food boxes for thousands of households monthly.",
+    "address": "100 Devonshire Dr, Delmont, PA 15626",
+    "phone": "724-468-8660",
+    "url": "https://westmorelandfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "15601"
+  },
+  {
+    "name": "First United Methodist Church Food Pantry - Greensburg",
+    "description": "Faith-based food pantry serving Greensburg-area residents with grocery distributions held on the second Friday of each month.",
+    "address": "Greensburg, PA 15601",
+    "phone": "",
+    "url": "https://greensburgfirst.org/index.php/resources/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "15601"
+  },
+  {
+    "name": "Catholic Charities Diocese of Greensburg - Material Assistance",
+    "description": "Nonprofit social service agency providing emergency food, rent assistance, utility help, and baby items to individuals and families in need throughout the Diocese of Greensburg.",
+    "address": "711 E Pittsburgh St, Greensburg, PA 15601",
+    "phone": "724-837-1840",
+    "url": "https://www.ccharitiesgreensburg.org/services/material-assistance/",
+    "categorySlug": "food",
+    "zipCode": "15601"
+  },
+  {
+    "name": "Welcome Home Shelter",
+    "description": "Emergency shelter providing 30-60 days of safe housing for homeless families and single women in Westmoreland County, with case management and life skills classes.",
+    "address": "218 S Maple Ave Ste 200, Greensburg, PA 15601",
+    "phone": "724-838-9133",
+    "url": "",
+    "categorySlug": "housing",
+    "zipCode": "15601"
+  },
+  {
+    "name": "Blackburn Center",
+    "description": "Nonprofit anti-violence organization providing emergency shelter, 24-hour crisis hotline, counseling, and advocacy for survivors of domestic and sexual violence in Westmoreland County.",
+    "address": "PO Box 398, Greensburg, PA 15601",
+    "phone": "724-837-9540",
+    "url": "https://www.blackburncenter.org/",
+    "categorySlug": "crisis",
+    "zipCode": "15601"
+  },
+  {
+    "name": "Westmoreland Community Action Emergency Food Pantry",
+    "description": "Emergency food pantry offering crisis food assistance to Westmoreland County individuals and families, with referrals to additional services.",
+    "address": "316 Donohoe Rd, Greensburg, PA 15601",
+    "phone": "800-816-0022",
+    "url": "https://westmorelandca.org/resources/emergency-services/emergency-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "15601"
+  },
+  {
+    "name": "St. Vincent Grove Food Distribution",
+    "description": "Monthly food distribution site serving Latrobe and surrounding Westmoreland County residents, operating on the third Tuesday of each month.",
+    "address": "Monstery Dr Ext, Latrobe, PA 15650",
+    "phone": "724-613-6075",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "15613"
+  },
+  {
+    "name": "Catholic Charities Diocese of Greensburg - Apollo Area",
+    "description": "Social service agency providing comprehensive information, referral services, and emergency assistance to residents of Apollo and surrounding Armstrong/Westmoreland communities.",
+    "address": "711 E Pittsburgh St, Greensburg, PA 15601",
+    "phone": "724-837-1840",
+    "url": "https://www.ccharitiesgreensburg.org/",
+    "categorySlug": "community",
+    "zipCode": "15613"
+  },
+  {
+    "name": "Westmoreland Food Bank",
+    "description": "Nonprofit county food bank serving Westmoreland County with pantry distribution sites, mobile fresh produce markets, and senior food boxes for households throughout the county.",
+    "address": "100 Devonshire Dr, Delmont, PA 15626",
+    "phone": "724-468-8660",
+    "url": "https://westmorelandfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "15626"
+  },
+  {
+    "name": "Westmoreland Community Action Emergency Food Pantry",
+    "description": "Emergency food pantry providing crisis food assistance to Westmoreland County individuals and families, operating weekdays with referrals to additional services.",
+    "address": "316 Donohoe Rd, Greensburg, PA 15601",
+    "phone": "800-816-0022",
+    "url": "https://westmorelandca.org/resources/emergency-services/emergency-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "15627"
+  },
+  {
+    "name": "Laurel Valley Area Food Pantry",
+    "description": "Local food pantry serving Laurel Valley area residents in Westmoreland County with fresh and non-perishable food distributions.",
+    "address": "Westmoreland County, PA",
+    "phone": "",
+    "url": "https://westmorelandfoodbank.org/food_pantry/laurel-valley-area-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "15628"
+  },
+  {
+    "name": "Jeannette Area Food Pantry",
+    "description": "Local community food pantry distributing groceries to Jeannette and North Huntingdon area residents on the fourth Friday of each month.",
+    "address": "4th & Bullitt St, Jeannette, PA 15644",
+    "phone": "724-527-3736",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "15644"
+  },
+  {
+    "name": "Catholic Charities Diocese of Greensburg",
+    "description": "Nonprofit social service agency providing emergency food, rent, utility assistance, information, and referral services to individuals and families throughout Westmoreland County.",
+    "address": "711 E Pittsburgh St, Greensburg, PA 15601",
+    "phone": "724-837-1840",
+    "url": "https://www.ccharitiesgreensburg.org/",
+    "categorySlug": "community",
+    "zipCode": "15642"
+  },
+  {
+    "name": "Welcome Home Shelter",
+    "description": "Emergency shelter for homeless families and single women in Westmoreland County offering safe housing, case management, and life skills programming.",
+    "address": "218 S Maple Ave Ste 200, Greensburg, PA 15601",
+    "phone": "724-838-9133",
+    "url": "",
+    "categorySlug": "housing",
+    "zipCode": "15642"
+  },
+  {
+    "name": "The Union Mission",
+    "description": "The only emergency shelter for homeless men in all of Westmoreland County, providing 24/7 meals, housing, and supportive services in Latrobe.",
+    "address": "2217 Harrison Ave, Latrobe, PA 15650",
+    "phone": "724-539-3550",
+    "url": "https://www.theunionmission.org",
+    "categorySlug": "housing",
+    "zipCode": "15650"
+  },
+  {
+    "name": "Greater Latrobe Ministerial Association Food Pantry",
+    "description": "Interfaith food pantry serving Latrobe and surrounding Westmoreland County residents on the second Friday of each month from 10am to 3pm.",
+    "address": "331 Weldon St, Latrobe, PA 15650",
+    "phone": "724-537-4450",
+    "url": "https://www.foodpantries.org/li/greater-latrobe-ministerial-association",
+    "categorySlug": "food",
+    "zipCode": "15650"
+  },
+  {
+    "name": "Westmoreland Food Bank - Latrobe Distribution",
+    "description": "Westmoreland Food Bank distribution site in Latrobe serving county residents with fresh and non-perishable food on the third Thursday of each month.",
+    "address": "5103 Center Dr, Latrobe, PA 15650",
+    "phone": "800-462-2080",
+    "url": "https://westmorelandfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "15650"
+  },
+  {
+    "name": "Leechburg Area Food Pantry",
+    "description": "Local food pantry serving Leechburg and surrounding Armstrong County communities with regular grocery distributions.",
+    "address": "251 Main St, Leechburg, PA 15656",
+    "phone": "724-568-7667",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "15656"
+  },
+  {
+    "name": "Mt Pleasant Area Food Pantry",
+    "description": "Local food pantry serving Mount Pleasant and nearby Westmoreland County communities with regular food distributions including fresh and non-perishable items.",
+    "address": "Mount Pleasant, PA 15666",
+    "phone": "724-887-6148",
+    "url": "https://westmorelandfoodbank.org/food_pantry/mt-pleasant-area-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "15666"
+  },
+  {
+    "name": "Westmoreland Community Action Emergency Food Pantry",
+    "description": "Emergency food pantry providing crisis food assistance to Westmoreland County individuals and families in need, with case management referrals.",
+    "address": "316 Donohoe Rd, Greensburg, PA 15601",
+    "phone": "800-816-0022",
+    "url": "https://westmorelandca.org/resources/emergency-services/emergency-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "15668"
+  },
+  {
+    "name": "New Stanton Food Pantry",
+    "description": "Local community food pantry serving New Stanton and surrounding Westmoreland County residents with monthly distributions on the third Thursday.",
+    "address": "New Stanton, PA 15672",
+    "phone": "",
+    "url": "https://westmorelandfoodbank.org/food_pantry/new-stanton-united-methodist-church/",
+    "categorySlug": "food",
+    "zipCode": "15672"
+  },
+  {
+    "name": "Westmoreland Food Bank - Scottdale Distribution",
+    "description": "Food distribution network serving Scottdale and surrounding Westmoreland County communities through partner pantry sites with fresh and non-perishable food.",
+    "address": "100 Devonshire Dr, Delmont, PA 15626",
+    "phone": "800-462-2080",
+    "url": "https://westmorelandfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "15683"
+  },
+  {
+    "name": "Westmoreland Community Action Emergency Food Pantry",
+    "description": "Emergency food pantry providing crisis food assistance to Westmoreland County families and individuals, with referrals to additional community services.",
+    "address": "316 Donohoe Rd, Greensburg, PA 15601",
+    "phone": "800-816-0022",
+    "url": "https://westmorelandca.org/resources/emergency-services/emergency-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "15684"
+  },
+  {
+    "name": "Catholic Charities Diocese of Greensburg - Emergency Assistance",
+    "description": "Nonprofit social service agency providing emergency food, rent, utility assistance, and comprehensive referral services to individuals and families in Westmoreland County.",
+    "address": "711 E Pittsburgh St, Greensburg, PA 15601",
+    "phone": "724-837-1840",
+    "url": "https://www.ccharitiesgreensburg.org/services/material-assistance/",
+    "categorySlug": "community",
+    "zipCode": "15690"
+  },
+  {
+    "name": "Christian Laymen Corps Food Pantry",
+    "description": "Nonprofit food pantry serving Youngwood and Westmoreland County residents with grocery distributions.",
+    "address": "Greensburg, PA 15601",
+    "phone": "",
+    "url": "https://www.findhelp.org/christian-laymen-corps--greensburg-pa--food-pantry/4786761315909632?postal=15697",
+    "categorySlug": "food",
+    "zipCode": "15675"
+  },
+  {
+    "name": "Christian Laymen Corps Food Pantry",
+    "description": "Nonprofit food pantry serving Youngwood and surrounding Westmoreland County residents with grocery distributions.",
+    "address": "Greensburg, PA 15601",
+    "phone": "",
+    "url": "https://www.findhelp.org/christian-laymen-corps--greensburg-pa--food-pantry/4786761315909632?postal=15697",
+    "categorySlug": "food",
+    "zipCode": "15697"
+  },
+  {
+    "name": "Laurel Valley Area Food Pantry",
+    "description": "Local food pantry serving New Florence, Bolivar, and Laurel Valley area residents with fresh and non-perishable food, CSFP, and TEFAP program distributions.",
+    "address": "5414 Route 711, New Florence, PA 15944",
+    "phone": "724-235-2028",
+    "url": "https://sites.vivery.org/laurel-valley-area-food-pantry/new-florence-pa/6580",
+    "categorySlug": "food",
+    "zipCode": "15944"
+  },
+  {
+    "name": "Westmoreland Food Bank - Bolivar/Torrance Area",
+    "description": "Westmoreland Food Bank partner network serving Bolivar, Torrance, and rural Westmoreland County with monthly food distributions.",
+    "address": "100 Devonshire Dr, Delmont, PA 15626",
+    "phone": "800-462-2080",
+    "url": "https://westmorelandfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "15923"
+  },
+  {
+    "name": "New Hope Ministries - Dillsburg Center",
+    "description": "Christian social service agency providing food pantry, mobile food pantry, senior commodity boxes, SNAP assistance, soup kitchen, and help with housing, utilities, and employment in the Dillsburg area.",
+    "address": "99 W Church St, Dillsburg, PA 17019",
+    "phone": "717-432-3053",
+    "url": "https://nhm-pa.org/",
+    "categorySlug": "food",
+    "zipCode": "17019"
+  },
+  {
+    "name": "Bethany Baptist Food Pantry",
+    "description": "Local faith-based food pantry serving Airville and southern York County communities.",
+    "address": "4162 Delta Rd, Airville, PA 17302",
+    "phone": "717-495-1087",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "17302"
+  },
+  {
+    "name": "York County Food Bank",
+    "description": "Regional food bank fighting hunger through a network of over 100 partner agencies, food pantries, and faith-based organizations across York County.",
+    "address": "York County, PA",
+    "phone": "",
+    "url": "https://yorkfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "17019"
+  }
+]

@@ -1,0 +1,836 @@
+[
+  {
+    "name": "Bourne Council on Aging",
+    "description": "Provides a wide range of social services for older adults in Bourne, including outreach, SNAP enrollment assistance, housing information, fuel assistance, and referrals to Elder Services of Cape Cod and the Islands.",
+    "address": "239 Main Street, Buzzards Bay, MA 02532",
+    "phone": "(508) 759-0600",
+    "url": "https://www.townofbourne.com/council-on-aging",
+    "categorySlug": "community",
+    "zipCode": "02532"
+  },
+  {
+    "name": "Damien's Place Food Pantry",
+    "description": "Food pantry and food bank serving residents of Plymouth, Bristol, and Barnstable counties, including the Buzzards Bay and Onset areas. Provides emergency food assistance to individuals and families in need.",
+    "address": "65 Red Brook Rd, Buzzards Bay, MA 02532",
+    "phone": "(508) 759-5245",
+    "url": "https://damiensfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "02532"
+  },
+  {
+    "name": "Family Table Collaborative",
+    "description": "Cape Cod's community kitchen dedicated to ending food insecurity by preparing and distributing fresh, nutritious meals to residents across the Cape, including Barnstable County communities.",
+    "address": "1338 MA-28, South Yarmouth, MA 02664",
+    "phone": "(508) 348-9777",
+    "url": "https://www.familytablecollaborative.org/",
+    "categorySlug": "food",
+    "zipCode": "02664"
+  },
+  {
+    "name": "First United Methodist Church Chatham Food Pantry",
+    "description": "Community food pantry providing food assistance to individuals and families in the Chatham area, including residents of South Chatham. Open to anyone in need of food support.",
+    "address": "PO Box 37, Chatham, MA 02633",
+    "phone": "(508) 241-4982",
+    "url": "https://www.chathammethodist.org/general-5",
+    "categorySlug": "food",
+    "zipCode": "02633"
+  },
+  {
+    "name": "Friends of Bourne Council on Aging Food Pantry",
+    "description": "Community food pantry operated by the Friends of the Bourne Council on Aging, providing food assistance to residents of Bourne and surrounding Cape Cod communities.",
+    "address": "121 Main St, Buzzards Bay, MA 02532",
+    "phone": "(508) 759-3351",
+    "url": "https://friendsofbournecoa.org/friends-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "02532"
+  },
+  {
+    "name": "Hands of Hope Food Pantry and Outreach Center",
+    "description": "Full-service food pantry and outreach center operated by the Cape Cod Council of Churches, serving all Barnstable villages including Cotuit, as well as families from Yarmouth, Dennis, Harwich, Mashpee, and Sandwich.",
+    "address": "625 Main Street, Chatham, MA 02633",
+    "phone": "(508) 432-1312",
+    "url": "https://www.capecodcouncilofchurches.org/hands-of-hope-food-pantry-and-outreach-center",
+    "categorySlug": "food",
+    "zipCode": "02633"
+  },
+  {
+    "name": "Lower Cape Outreach Council - Chatham Pantry",
+    "description": "Emergency food pantry managed by the Lower Cape Outreach Council serving Chatham and South Chatham residents. One of nine LCOC pantries serving the Lower and Outer Cape.",
+    "address": "625 Main Street, Chatham, MA 02633",
+    "phone": "(508) 240-0694",
+    "url": "https://lcoutreach.org/food-pantries/chatham/",
+    "categorySlug": "food",
+    "zipCode": "02633"
+  },
+  {
+    "name": "The Family Pantry of Cape Cod",
+    "description": "Non-profit, non-denominational organization providing food and clothing to residents of Cape Cod in need. Serves individuals and families regardless of background or circumstance.",
+    "address": "133 Queen Anne Rd, Harwich, MA 02645",
+    "phone": "(508) 432-6519",
+    "url": "https://www.thefamilypantry.com/",
+    "categorySlug": "food",
+    "zipCode": "02645"
+  },
+  {
+    "name": "Berkshire Community Action Council (BCAC)",
+    "description": "Community action agency assisting low-income Berkshire County residents with food assistance, fuel assistance, weatherization, and financial stability programs. Operates the Food Depot and partners with the Food Bank of Western Massachusetts.",
+    "address": "85 Main Street, North Adams, MA 01247",
+    "phone": "(413) 663-3014",
+    "url": "https://www.bcacinc.org/",
+    "categorySlug": "community",
+    "zipCode": "01247"
+  },
+  {
+    "name": "CHP Berkshires - Adams Family Medicine",
+    "description": "Federally Qualified Health Center (FQHC) providing primary medical care, women's health, behavioral health, vision care, and nutrition services to adults and children in Adams and surrounding Berkshire communities, regardless of ability to pay.",
+    "address": "19 Depot Street, Suite 1, Adams, MA 01220",
+    "phone": "(413) 743-1080",
+    "url": "https://chpberkshires.org/locations/adams-family-medicine/",
+    "categorySlug": "healthcare",
+    "zipCode": "01220"
+  },
+  {
+    "name": "CHP Berkshires - Adams Family Services",
+    "description": "Social services program offering family support, food assistance through the twice-monthly Food for All fresh-food distribution, and referrals for housing, utility bills, and other needs for Adams residents.",
+    "address": "19 Depot Street, Adams, MA 01220",
+    "phone": "(413) 528-9311",
+    "url": "https://chpberkshires.org/locations/adams-family-services/",
+    "categorySlug": "community",
+    "zipCode": "01220"
+  },
+  {
+    "name": "Food Bank of Western Massachusetts Mobile Food Pantry - Adams",
+    "description": "Mobile food pantry distribution held on the 2nd and 4th Tuesdays monthly at the Adams Council on Aging. No proof of eligibility required; open to all Berkshire County residents with one distribution per household.",
+    "address": "3 Hoosac Street, Adams, MA 01220",
+    "phone": "(413) 743-8333",
+    "url": "https://www.foodbankwma.org/get-help/home/",
+    "categorySlug": "food",
+    "zipCode": "01220"
+  },
+  {
+    "name": "Otis Food Pantry",
+    "description": "Community food pantry serving residents of Otis, Massachusetts, providing groceries and food assistance to individuals and families in need in this rural Berkshire County town.",
+    "address": "1 North Main Road, Otis, MA 01253",
+    "phone": "(413) 269-0100",
+    "url": "https://townofotisma.com/series/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "01253"
+  },
+  {
+    "name": "Greater Attleboro Council for Children",
+    "description": "Nonprofit organization providing critical social services to children and families in the Attleboro area, including food assistance and family support programs.",
+    "address": "139 Park Street, Attleboro, MA 02703",
+    "phone": "(508) 226-1777",
+    "url": "https://www.councilforchildren.org/critical-services",
+    "categorySlug": "community",
+    "zipCode": "02703"
+  },
+  {
+    "name": "House of Hope New Bedford",
+    "description": "Transitional and emergency housing shelter providing overnight accommodations, meals, counseling, and substance abuse recovery services to individuals experiencing homelessness in New Bedford.",
+    "address": "848 Mt Pleasant Street, New Bedford, MA 02746",
+    "phone": "(508) 996-6814",
+    "url": "https://www.nbmacan.com/work/homelessness",
+    "categorySlug": "housing",
+    "zipCode": "02746"
+  },
+  {
+    "name": "Manet Community Health Center - Attleboro",
+    "description": "Federally Qualified Health Center (FQHC) providing preventive, primary care, and integrated behavioral health services to all Attleboro area residents regardless of financial circumstance or insurance status.",
+    "address": "8 North Main Street, Attleboro, MA 02703",
+    "phone": "(508) 205-4600",
+    "url": "https://www.manetchc.org/attleboro/",
+    "categorySlug": "healthcare",
+    "zipCode": "02703"
+  },
+  {
+    "name": "New Bedford Community Health",
+    "description": "Federally Qualified Health Center (FQHC) providing medical, dental, and mental health care to New Bedford residents for over four decades, regardless of ability to pay. Specializes in serving multicultural and immigrant populations.",
+    "address": "874 Purchase Street, New Bedford, MA 02740",
+    "phone": "(508) 992-6553",
+    "url": "https://gnbchc.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "02740"
+  },
+  {
+    "name": "New Hope, Inc.",
+    "description": "Domestic violence service organization providing emergency shelter, advocacy, and support services to survivors of domestic violence and sexual assault in Bristol County and surrounding areas.",
+    "address": "247 Maple Street, Attleboro, MA 02703",
+    "phone": "(508) 226-4015",
+    "url": "https://www.new-hope.org/",
+    "categorySlug": "housing",
+    "zipCode": "02703"
+  },
+  {
+    "name": "PACE Community Food Center",
+    "description": "Emergency food bank operated by People Acting in Community Endeavors (PACE), serving New Bedford and surrounding communities including Dartmouth, Fairhaven, Acushnet, Marion, Rochester, and Mattapoisett.",
+    "address": "477 Park Street, New Bedford, MA 02740",
+    "phone": "(508) 999-9920",
+    "url": "https://paceinfo.org/programs/food-bank/",
+    "categorySlug": "food",
+    "zipCode": "02740"
+  },
+  {
+    "name": "Salvation Army New Bedford Corps",
+    "description": "Provides food pantry services, a bread giveaway program, and community assistance to New Bedford residents. Serves individuals and families facing food insecurity in the greater New Bedford area.",
+    "address": "619 Purchase Street, New Bedford, MA 02740",
+    "phone": "(508) 997-6561",
+    "url": "https://easternusa.salvationarmy.org/massachusetts/new-bedford/",
+    "categorySlug": "food",
+    "zipCode": "02740"
+  },
+  {
+    "name": "Self Help Inc. Food Bank - Attleboro",
+    "description": "Food bank and pantry serving Attleboro and surrounding Bristol County communities, offering emergency food assistance along with SNAP, WIC, and MassHealth benefits application support.",
+    "address": "95 Pine Street, Suite 6, Attleboro, MA 02703",
+    "phone": "(508) 226-4192",
+    "url": "https://selfhelpinc.org/program-services/emergency-services/food-bank/",
+    "categorySlug": "food",
+    "zipCode": "02703"
+  },
+  {
+    "name": "Island Food Pantry",
+    "description": "Community food pantry serving all Martha's Vineyard islanders in need, providing groceries and food assistance. Open year-round with regular hours and dedicated senior shopping hours.",
+    "address": "114 Dukes County Ave, Oak Bluffs, MA 02557",
+    "phone": "(508) 296-8384",
+    "url": "https://www.igimv.org/pantry",
+    "categorySlug": "food",
+    "zipCode": "02539"
+  },
+  {
+    "name": "Martha's Vineyard Community Services",
+    "description": "Island-wide nonprofit providing comprehensive human services including family support, food assistance, behavioral health, youth services, and developmental disability services to all Martha's Vineyard residents across all six island towns.",
+    "address": "111 Edgartown Road, Oak Bluffs, MA 02557",
+    "phone": "(508) 693-7900",
+    "url": "https://www.mvcommunityservices.org/",
+    "categorySlug": "community",
+    "zipCode": "02539"
+  },
+  {
+    "name": "Vineyard Health Care Access",
+    "description": "Helps Martha's Vineyard residents obtain affordable health care by connecting them with MassHealth, Medicare, Connector Care, and other coverage programs, as well as Social Security Disability and food stamps.",
+    "address": "114 New York Ave, Oak Bluffs, MA 02557",
+    "phone": "(508) 696-0020",
+    "url": "https://mvhealthcareaccess.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "02539"
+  },
+  {
+    "name": "Good Hope Foods",
+    "description": "Community food pantry in Lynnfield serving families in need, providing groceries to an average of 250 families weekly including delivery to seniors and local shelters.",
+    "address": "47 Grove Street, Lynnfield, MA 01940",
+    "phone": "(781) 715-0203",
+    "url": "https://goodhopeinc.org/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "01940"
+  },
+  {
+    "name": "Greater Lynn Senior Services (GLSS)",
+    "description": "Area Agency on Aging providing comprehensive social services to adults 60 and older in Lynn, Lynnfield, Nahant, Saugus, and Swampscott, including meals, home care, housing assistance, and information and referral services.",
+    "address": "8 Silsbee Street, Lynn, MA 01901",
+    "phone": "(781) 599-0110",
+    "url": "https://www.glss.net/",
+    "categorySlug": "community",
+    "zipCode": "01940"
+  },
+  {
+    "name": "Merrimac Senior Center Food Pantry",
+    "description": "Community food pantry located at the Merrimac Senior Center serving residents of Merrimac and surrounding areas. Also hosts the Our Neighbors' Table Mobile Food Pantry distributions.",
+    "address": "100 East Main Street, Merrimac, MA 01860",
+    "phone": "(978) 346-9549",
+    "url": "https://townofmerrimac.com/council-on-aging/",
+    "categorySlug": "food",
+    "zipCode": "01860"
+  },
+  {
+    "name": "Salvation Army Haverhill Corps",
+    "description": "Provides food pantry services and Sally's Kitchen lunch program to residents of Haverhill and surrounding communities including Merrimac, serving those facing food insecurity and hunger.",
+    "address": "395 Main Street, Haverhill, MA 01830",
+    "phone": "(978) 420-4192",
+    "url": "https://easternusa.salvationarmy.org/massachusetts/haverhill/",
+    "categorySlug": "food",
+    "zipCode": "01830"
+  },
+  {
+    "name": "Somebody Cares New England",
+    "description": "Nonprofit food pantry in Haverhill serving low-income individuals and families in the greater Haverhill and Merrimac area, open monthly with emergency food relief available by appointment.",
+    "address": "358 Washington Street, Haverhill, MA 01832",
+    "phone": "(978) 912-7626",
+    "url": "https://somebodycaresne.org/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "01832"
+  },
+  {
+    "name": "Amherst Survival Center Food Pantry",
+    "description": "Full-service food pantry serving Leverett and over a dozen surrounding Franklin County communities, providing fresh produce, groceries, and curbside pickup options to residents regardless of income documentation.",
+    "address": "138 Sunderland Road, North Amherst, MA 01059",
+    "phone": "(413) 549-3968",
+    "url": "https://amherstsurvival.org/pantry/",
+    "categorySlug": "food",
+    "zipCode": "01054"
+  },
+  {
+    "name": "Community Action Center for Self-Reliance Food Pantry",
+    "description": "Food pantry operated by Community Action Pioneer Valley serving rural hill town residents including those in Plainfield, Hawley, Ashfield, Buckland, Conway, Charlemont, Colrain, Heath, Monroe, Rowe, and Shelburne with free grocery distributions.",
+    "address": "51 Maple Street, Shelburne Falls, MA 01370",
+    "phone": "(413) 773-5029",
+    "url": "https://www.communityaction.us/program/food-pantries/",
+    "categorySlug": "food",
+    "zipCode": "01370"
+  },
+  {
+    "name": "Community Action Pioneer Valley",
+    "description": "Federally designated anti-poverty agency for Franklin County providing food pantries, housing assistance, fuel assistance, SNAP enrollment, and comprehensive social services to low-income residents including those in New Salem and surrounding rural communities.",
+    "address": "393 Main Street, Greenfield, MA 01301",
+    "phone": "(413) 774-2318",
+    "url": "https://www.communityaction.us/",
+    "categorySlug": "community",
+    "zipCode": "01301"
+  },
+  {
+    "name": "Franklin County Community Meals Program",
+    "description": "Nonprofit alleviating hunger in Franklin County by operating free community meal sites in Greenfield, Orange, Turners Falls, and Northfield, as well as mobile food bank distributions serving towns including Leverett.",
+    "address": "P.O. Box 172, Greenfield, MA 01302",
+    "phone": "(413) 772-1033",
+    "url": "https://www.fccmp.org/",
+    "categorySlug": "food",
+    "zipCode": "01054"
+  },
+  {
+    "name": "Chicopee Health Center",
+    "description": "Federally Qualified Health Center offering primary care, pediatrics, dental care, pharmacy, and educational support services to patients regardless of ability to pay, serving the Chicopee community.",
+    "address": "505 Front Street, Chicopee, MA 01013",
+    "phone": "(413) 420-2222",
+    "url": "https://hhcinc.org/single-location-2/chicopee-health-center/",
+    "categorySlug": "healthcare",
+    "zipCode": "01013"
+  },
+  {
+    "name": "Lorraine's Soup Kitchen & Pantry",
+    "description": "Provides free hot meals Monday through Friday and a food pantry distributing groceries to anyone in need, with no documentation required. Also hosts monthly visiting nurse health services for guests.",
+    "address": "170 Pendexter Avenue, Chicopee, MA 01013",
+    "phone": "(413) 592-9528",
+    "url": "https://www.lorrainessoupkitchen.com/",
+    "categorySlug": "food",
+    "zipCode": "01013"
+  },
+  {
+    "name": "Open Pantry Community Services",
+    "description": "Provides emergency food pantry services with non-perishable groceries and Open Door social services including case management, housing search assistance, and referrals for medical, mental health, and substance abuse services for people experiencing homelessness.",
+    "address": "288 Pine Street, Springfield, MA 01105",
+    "phone": "(413) 739-4737",
+    "url": "https://smoc.org/service/open-pantry-community-services/",
+    "categorySlug": "food",
+    "zipCode": "01105"
+  },
+  {
+    "name": "Samaritan Inn",
+    "description": "Emergency shelter providing housing for homeless men and women in Westfield, offering up to 37 beds along with meals, nursing visits, clothing, housing advocacy, counseling, and referrals to other social service agencies.",
+    "address": "7 Free Street, Westfield, MA 01085",
+    "phone": "(413) 568-3122",
+    "url": "https://app.housingworks.net/program/3208",
+    "categorySlug": "housing",
+    "zipCode": "01085"
+  },
+  {
+    "name": "St. Vincent de Paul Food Pantry at St. Mary's Church",
+    "description": "Faith-based food pantry operated by the Society of St. Vincent de Paul providing supplemental groceries to individuals and families in need in the Westfield area, open weekly on Wednesday afternoons.",
+    "address": "86 Mechanic Street, Westfield, MA 01085",
+    "phone": "(413) 568-5619",
+    "url": "https://www.findhelp.org/st.-mary's-church-of-westfield--westfield-ma--st.-vincent-de-paul-food-pantry/6583496257306624",
+    "categorySlug": "food",
+    "zipCode": "01085"
+  },
+  {
+    "name": "United Way of Pioneer Valley – Chicopee Service Center",
+    "description": "Operates an emergency food pantry open to anyone seeking assistance with no documentation or proof of need required, offering a wide variety of food items on a weekly basis to Chicopee area residents.",
+    "address": "226 Exchange Street, Chicopee, MA 01013",
+    "phone": "(413) 693-0213",
+    "url": "https://www.uwpv.org/chicopee",
+    "categorySlug": "food",
+    "zipCode": "01013"
+  },
+  {
+    "name": "Wales Community Pantry",
+    "description": "Free supplemental food pantry serving residents of Brimfield, Holland, Wales, and surrounding communities with monthly food distributions including special support for seniors, veterans, and homebound neighbors.",
+    "address": "172 Palmer Road (Route 20), Brimfield, MA 01010",
+    "phone": "(413) 245-0055",
+    "url": "https://walescommunitypantry.com/",
+    "categorySlug": "food",
+    "zipCode": "01010"
+  },
+  {
+    "name": "Westfield Food Pantry",
+    "description": "Community food pantry alleviating hunger in the Westfield area since 1986, providing free groceries to Westfield residents with multiple distribution sessions per week including evening hours.",
+    "address": "101 Meadow Street, Westfield, MA 01085",
+    "phone": "(413) 572-0802",
+    "url": "https://www.westfieldfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "01085",
+    "additionalZipCodes": [
+      "07090"
+    ]
+  },
+  {
+    "name": "Food Bank of Western Massachusetts",
+    "description": "Regional food bank serving western Massachusetts counties including Berkshire County, operating a Food Finder Map and food assistance navigation line to connect residents with local pantries, community meal sites, and distribution events.",
+    "address": "97 North Hatfield Road, Hatfield, MA 01038",
+    "phone": "(413) 247-9738",
+    "url": "https://www.foodbankwma.org/",
+    "categorySlug": "food",
+    "zipCode": "01038"
+  },
+  {
+    "name": "Northampton Survival Center",
+    "description": "Community food pantry and social services organization serving Northampton and 18 surrounding communities including Plainfield, offering free groceries, a Hilltown Pantry satellite location in Goshen, and additional support services.",
+    "address": "265 Prospect Street, Northampton, MA 01060",
+    "phone": "(413) 586-6564",
+    "url": "https://www.northamptonsurvival.org/",
+    "categorySlug": "food",
+    "zipCode": "01060"
+  },
+  {
+    "name": "Cambridge Economic Opportunity Committee (CEOC)",
+    "description": "Cambridge's anti-poverty nonprofit and community action agency offering a food pantry with fresh produce, frozen meat, and non-perishables, plus energy assistance, housing support, and social services for Cambridge residents.",
+    "address": "11 Inman Street, Cambridge, MA 02139",
+    "phone": "(617) 868-2900",
+    "url": "https://www.ceoccambridge.org/",
+    "categorySlug": "community",
+    "zipCode": "02139"
+  },
+  {
+    "name": "Centre Street Food Pantry",
+    "description": "Volunteer-run neighborhood food pantry offering free groceries to Newton-area residents every Tuesday afternoon and the third Saturday of each month, with early access hours for seniors 65 and older.",
+    "address": "11 Homer Street, Newton Centre, MA 02459",
+    "phone": "(617) 340-9554",
+    "url": "https://www.centrestfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "02459"
+  },
+  {
+    "name": "City of Newton Human Services",
+    "description": "Municipal social services division providing case management, outreach, information and referrals, and youth and young adult services to Newton residents aged 14–59, connecting residents to community resources and support programs.",
+    "address": "1000 Commonwealth Avenue, Newton, MA 02459",
+    "phone": "(617) 796-1500",
+    "url": "https://www.newtonma.gov/government/health-human-services/social-services",
+    "categorySlug": "community",
+    "zipCode": "02459"
+  },
+  {
+    "name": "Community Teamwork, Inc. (CTI)",
+    "description": "Greater Lowell's Community Action Agency providing housing assistance, emergency shelter, fuel assistance, food programs, employment services, and comprehensive case management for low-income individuals and families throughout Middlesex County.",
+    "address": "155 Merrimack Street, Lowell, MA 01852",
+    "phone": "(978) 459-0551",
+    "url": "https://www.commteam.org/",
+    "categorySlug": "community",
+    "zipCode": "01852"
+  },
+  {
+    "name": "East End House Community Food Pantry",
+    "description": "Community food pantry providing individuals and families in need with fresh fruits and vegetables, canned and dry goods, meats, and dairy products, open five days per week with no residency restrictions for Cambridge and Greater Boston area residents.",
+    "address": "105 Spring Street, Cambridge, MA 02141",
+    "phone": "(617) 876-4444",
+    "url": "https://eastendhouse.org/programs-and-services/food-program/",
+    "categorySlug": "food",
+    "zipCode": "02141"
+  },
+  {
+    "name": "Hudson Community Food Pantry",
+    "description": "Non-profit food pantry serving Hudson, Berlin, and Bolton residents struggling with food insecurity, open Tuesday and Saturday mornings and the first Thursday evening of each month.",
+    "address": "28 Houghton Street, Hudson, MA 01749",
+    "phone": "(978) 562-5280",
+    "url": "https://hudsoncommunityfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "01749"
+  },
+  {
+    "name": "Lowell Community Health Center",
+    "description": "Federally Qualified Health Center providing comprehensive primary care, behavioral health, dental, and specialty services to all patients regardless of ability to pay, serving the diverse Lowell community.",
+    "address": "161 Jackson Street, Lowell, MA 01852",
+    "phone": "(978) 937-9700",
+    "url": "https://www.lchealth.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "01852"
+  },
+  {
+    "name": "Lowell Transitional Living Center",
+    "description": "Emergency homeless shelter providing 90 beds for men and women in the Greater Lowell area, with 24-hour staffing, three meals daily, case management, nursing and mental health services, and housing placement assistance.",
+    "address": "189 Middlesex Street, Lowell, MA 01852",
+    "phone": "(978) 458-9888",
+    "url": "https://smoc.org/service/lowell-transitional-living-center/",
+    "categorySlug": "housing",
+    "zipCode": "01852"
+  },
+  {
+    "name": "Maynard Food Pantry",
+    "description": "Food pantry providing free groceries to individuals and families in need, serving residents of Maynard, Acton, Stow, and Sudbury with a shop-style distribution model open on Tuesday and Thursday mornings.",
+    "address": "12 Bancroft Street, Maynard, MA 01754",
+    "phone": "(978) 897-8340",
+    "url": "http://www.maynardfoodpantry.com/",
+    "categorySlug": "food",
+    "zipCode": "01754"
+  },
+  {
+    "name": "Merrimack Valley Food Bank",
+    "description": "Regional food bank providing food distribution and support to over 100 member agencies across 33 cities and towns in the Merrimack Valley region of Massachusetts and New Hampshire, including Essex County communities near Merrimac.",
+    "address": "30 International Place, Lowell, MA 01851",
+    "phone": "(978) 454-7272",
+    "url": "https://mvfb.org/",
+    "categorySlug": "food",
+    "zipCode": "01851"
+  },
+  {
+    "name": "Newton Food Pantry",
+    "description": "City-supported food pantry providing free groceries to Newton residents with both appointment-based and walk-in service hours on Wednesdays and Thursdays, located in the basement of Newton City Hall.",
+    "address": "1000 Commonwealth Avenue, Newton Centre, MA 02459",
+    "phone": "(617) 796-1233",
+    "url": "https://newtonfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "02459",
+    "additionalZipCodes": [
+      "03858"
+    ]
+  },
+  {
+    "name": "Open Pantry of Greater Lowell",
+    "description": "Food pantry serving the Greater Lowell community with free grocery distributions on a weekly basis including Wednesday evening hours, providing relief from hunger with no residency restrictions.",
+    "address": "13 Hurd Street, Lowell, MA 01852",
+    "phone": "(978) 453-6693",
+    "url": "https://theopenpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "01852"
+  },
+  {
+    "name": "Open Table",
+    "description": "Community food organization providing a walk-up food pantry with fresh produce, prepared meals, and a variety of grocery items at no cost to anyone who needs it, no questions asked, serving Maynard and surrounding communities.",
+    "address": "33 Main Street, Maynard, MA 01754",
+    "phone": "(978) 369-2275",
+    "url": "https://www.opentable.org/",
+    "categorySlug": "food",
+    "zipCode": "01754"
+  },
+  {
+    "name": "Townsend Ecumenical Outreach (TEO)",
+    "description": "Faith-based nonprofit providing emergency and monthly food distribution and a Clothes Closet to residents of Townsend and Ashby in need, distributing food to over 800 people per month with no income requirements.",
+    "address": "82 Bayberry Hill Road, West Townsend, MA 01474",
+    "phone": "(978) 877-6002",
+    "url": "https://www.teo-ma.org/",
+    "categorySlug": "food",
+    "zipCode": "01474"
+  },
+  {
+    "name": "A Safe Place, Inc.",
+    "description": "Nantucket-based nonprofit supporting and empowering adults and children impacted by domestic and sexual violence, offering a 24/7 hotline, emergency shelter, in-person counseling, and advocacy services in English, Spanish, and Portuguese.",
+    "address": "5B Windy Way, Nantucket, MA 02554",
+    "phone": "(508) 228-0561",
+    "url": "https://asafeplacenantucket.org/",
+    "categorySlug": "housing",
+    "zipCode": "02554"
+  },
+  {
+    "name": "Nantucket Cottage Hospital",
+    "description": "Island's sole hospital providing primary care, urgent access, women's health, specialty services, and community health programs to Nantucket residents and visitors, affiliated with Mass General Brigham health system.",
+    "address": "57 Prospect Street, Nantucket, MA 02554",
+    "phone": "(508) 825-8100",
+    "url": "https://nantuckethospital.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "02554"
+  },
+  {
+    "name": "Nantucket Food, Fuel & Rental Assistance",
+    "description": "Island nonprofit operating a food pantry with fresh produce, dairy, meats, and pantry staples for Nantucket residents in need, plus rental assistance to prevent eviction and fuel assistance to prevent utility shutoffs, with delivery available for seniors and disabled individuals.",
+    "address": "10 Washington Street, Nantucket, MA 02554",
+    "phone": "(508) 228-7438",
+    "url": "https://www.assistnantucket.org/",
+    "categorySlug": "food",
+    "zipCode": "02554"
+  },
+  {
+    "name": "Nantucket Health & Human Services",
+    "description": "Town department coordinating public health, social services, and assistance programs for Nantucket residents including housing support, emergency assistance, and referrals to island and regional social service organizations.",
+    "address": "131 Pleasant Street, Nantucket, MA 02554",
+    "phone": "(508) 228-7200",
+    "url": "https://www.nantucket-ma.gov/153/Human-Services",
+    "categorySlug": "community",
+    "zipCode": "02554"
+  },
+  {
+    "name": "Holbrook Council on Aging",
+    "description": "Municipal senior services office providing information, referrals, and social service coordination for older adults and residents in need in Holbrook.",
+    "address": "9 Jewel Road, Holbrook, MA 02343",
+    "phone": "(781) 767-4617",
+    "url": "https://www.holbrookma.gov/266/Council-on-Aging",
+    "categorySlug": "community",
+    "zipCode": "02343"
+  },
+  {
+    "name": "Holbrook Ecumenical Food Pantry",
+    "description": "Community food pantry operating out of St. John's Episcopal Church providing grocery assistance to Holbrook residents and members of Holbrook churches on a monthly basis.",
+    "address": "322 South Franklin Street, Holbrook, MA 02343",
+    "phone": "(781) 767-4656",
+    "url": "https://www.foodpantries.org/ci/ma-holbrook",
+    "categorySlug": "food",
+    "zipCode": "02343"
+  },
+  {
+    "name": "Interfaith Social Services",
+    "description": "One of Greater Boston's largest emergency food programs, providing food pantry services and a range of social supports including HomeSafe domestic violence prevention to South Shore families.",
+    "address": "105 Adams Street, Quincy, MA 02169",
+    "phone": "(617) 773-6203",
+    "url": "https://interfaithsocialservices.org",
+    "categorySlug": "food",
+    "zipCode": "02169"
+  },
+  {
+    "name": "Walpole Community Food Pantry",
+    "description": "Non-profit food pantry serving Walpole residents since 1993, providing shelf-stable groceries and perishable items to individuals and families facing food insecurity in the area.",
+    "address": "24 Walpole Park South, Walpole, MA 02081",
+    "phone": "(508) 668-0106",
+    "url": "https://www.wcfp.org",
+    "categorySlug": "food",
+    "zipCode": "02081"
+  },
+  {
+    "name": "Walpole Housing Authority",
+    "description": "Local housing authority administering public housing and Section 8 Housing Choice Vouchers for low-income families, elderly, and disabled residents of Walpole.",
+    "address": "8 Diamond Pond Terrace, Walpole, MA 02081",
+    "phone": "(508) 668-7878",
+    "url": "http://walpolehousing.org",
+    "categorySlug": "housing",
+    "zipCode": "02081"
+  },
+  {
+    "name": "Brockton Neighborhood Health Center",
+    "description": "Federally Qualified Health Center providing comprehensive primary care, dental, behavioral health, and homeless services to Brockton residents regardless of ability to pay.",
+    "address": "63 Main Street, Brockton, MA 02301",
+    "phone": "(508) 559-6699",
+    "url": "https://www.bnhc.org",
+    "categorySlug": "healthcare",
+    "zipCode": "02301"
+  },
+  {
+    "name": "Father Bill's & MainSpring",
+    "description": "Leading homeless services organization providing emergency shelter, housing assistance, and supportive services to adults experiencing homelessness in the greater Brockton and South Shore area.",
+    "address": "124 Manley Street, Brockton, MA 02301",
+    "phone": "(508) 587-5441",
+    "url": "https://helpfbms.org",
+    "categorySlug": "housing",
+    "zipCode": "02301"
+  },
+  {
+    "name": "Sacred Heart Outreach Pantry / St. Vincent de Paul",
+    "description": "Emergency food pantry run by the Society of St. Vincent de Paul serving residents of Middleboro, Lakeville, Rochester, and Carver with groceries distributed on Saturdays and Wednesdays.",
+    "address": "53 Oak Street, Middleboro, MA 02346",
+    "phone": "(508) 947-1717",
+    "url": "https://www.foodpantries.org/ci/ma-carver",
+    "categorySlug": "food",
+    "zipCode": "02346"
+  },
+  {
+    "name": "Self Help Inc.",
+    "description": "Community action agency offering food access programs, emergency assistance, SNAP enrollment, energy assistance, and other social services to low-income residents of the greater Brockton area.",
+    "address": "45 Pearl Street, Brockton, MA 02301",
+    "phone": "(508) 588-0447",
+    "url": "https://selfhelpinc.org",
+    "categorySlug": "community",
+    "zipCode": "02301"
+  },
+  {
+    "name": "South Shore Community Action Council (SSCAC)",
+    "description": "Community action agency serving Plymouth County including Carver, providing food and nutrition programs, housing and utility assistance, transportation, and childcare to low-income residents.",
+    "address": "71 Obery Street, Plymouth, MA 02360",
+    "phone": "(508) 747-7575",
+    "url": "https://www.sscac.org",
+    "categorySlug": "community",
+    "zipCode": "02360"
+  },
+  {
+    "name": "The Charity Guild",
+    "description": "Non-profit food pantry providing fresh and healthy food to people at risk of food insecurity in the Greater Brockton area, serving up to 2,000 community members each month.",
+    "address": "501 Main Street, Brockton, MA 02301",
+    "phone": "(508) 583-5280",
+    "url": "https://thecharityguild.org",
+    "categorySlug": "food",
+    "zipCode": "02301"
+  },
+  {
+    "name": "Action for Boston Community Development (ABCD)",
+    "description": "Boston's largest community action agency providing food access centers, energy assistance, housing support, job training, and a wide range of social services to low-income residents.",
+    "address": "178 Tremont Street, Boston, MA 02111",
+    "phone": "(617) 348-6329",
+    "url": "https://bostonabcd.org",
+    "categorySlug": "community",
+    "zipCode": "02111"
+  },
+  {
+    "name": "Boston Rescue Mission",
+    "description": "Emergency shelter and services organization open 24/7 providing overnight shelter, hot meals, food pantry, and case management to men and women experiencing homelessness in downtown Boston.",
+    "address": "39 Kingston Street, Boston, MA 02111",
+    "phone": "(617) 338-9000",
+    "url": "https://www.brm.org",
+    "categorySlug": "housing",
+    "zipCode": "02111"
+  },
+  {
+    "name": "Charlestown Community Health Center (MGH)",
+    "description": "Mass General Brigham-affiliated community health center offering comprehensive outpatient primary care for the whole family, with on-call physician coverage 24/7.",
+    "address": "73 High Street, Charlestown, MA 02129",
+    "phone": "(617) 724-8135",
+    "url": "https://www.massgeneral.org/locations/charlestown",
+    "categorySlug": "healthcare",
+    "zipCode": "02129"
+  },
+  {
+    "name": "Harvest on Vine Food Pantry",
+    "description": "Community food pantry run by the Charlestown Catholic Collaborative providing groceries to Charlestown residents on the second Saturday of each month and last Tuesday of each month.",
+    "address": "49 Vine Street, Charlestown, MA 02129",
+    "phone": "(617) 990-7314",
+    "url": "https://www.stmarystcatherine.org",
+    "categorySlug": "food",
+    "zipCode": "02129"
+  },
+  {
+    "name": "NEW Health Charlestown",
+    "description": "Satellite health center of North End Waterfront Health providing affordable primary care, dental, and preventive health services to Charlestown residents regardless of insurance status.",
+    "address": "15 Tufts Street, Charlestown, MA 02129",
+    "phone": "(857) 238-1100",
+    "url": "https://newhealthcenter.org",
+    "categorySlug": "healthcare",
+    "zipCode": "02129"
+  },
+  {
+    "name": "Salvation Army South End Corps",
+    "description": "Food pantry and social services hub serving residents of downtown Boston and surrounding zip codes with emergency food assistance, limited to one visit every three months per household.",
+    "address": "1500 Washington Street, Boston, MA 02118",
+    "phone": "(617) 536-5260",
+    "url": "https://easternusa.salvationarmy.org/massachusetts/boston-south-end/",
+    "categorySlug": "food",
+    "zipCode": "02118"
+  },
+  {
+    "name": "Barre Food Pantry",
+    "description": "Community food pantry operating at Barre Congregational Church, providing twice-monthly grocery distributions and emergency food deliveries to over 100 area families in the Barre region.",
+    "address": "7 Park Street, Barre, MA 01005",
+    "phone": "(978) 355-6921",
+    "url": "https://www.barrefoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "01005"
+  },
+  {
+    "name": "Catholic Charities of Worcester County",
+    "description": "Comprehensive social services agency offering food pantry, case management, SNAP enrollment, emergency rent and utility assistance, and a clothing closet to individuals and families in need.",
+    "address": "10 Hammond Street, Worcester, MA 01610",
+    "phone": "(508) 798-0191",
+    "url": "https://www.ccworc.org",
+    "categorySlug": "community",
+    "zipCode": "01610"
+  },
+  {
+    "name": "Community Survival Center",
+    "description": "Community organization providing a food pantry, hot meals, and emergency assistance services to individuals and families in the Spencer and surrounding areas of central Massachusetts.",
+    "address": "30 Mechanic Street, Spencer, MA 01562",
+    "phone": "(508) 885-7849",
+    "url": "https://communitysurvivalcenter.org/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "01562"
+  },
+  {
+    "name": "Douglas Adult Social Center Food Pantry",
+    "description": "Municipal senior center operating a food pantry open to all Douglas residents regardless of age, with transportation assistance available to local pantry locations.",
+    "address": "331 Main Street, Douglas, MA 01516",
+    "phone": "(508) 476-2283",
+    "url": "https://www.douglas-ma.gov",
+    "categorySlug": "food",
+    "zipCode": "01516"
+  },
+  {
+    "name": "Douglas Ecumenical Food Pantry",
+    "description": "Community-wide food pantry hosted at St. Denis Catholic Parish providing food and personal care items to any Douglas resident in need, open twice weekly on Mondays and Wednesdays.",
+    "address": "23 Manchaug Street, Douglas, MA 01516",
+    "phone": "(508) 476-2002",
+    "url": "https://saintdenischurch.com/douglas-ecumenical-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "01516"
+  },
+  {
+    "name": "North Quabbin Community Coalition",
+    "description": "Community-wide alliance serving the North Quabbin region including New Salem, providing a resource directory, food assistance referrals, and coordination of social services for residents of Athol, Erving, New Salem, Orange, Petersham, Phillipston, Royalston, Warwick, and Wendell.",
+    "address": "251 Exchange Street, Athol, MA 01331",
+    "phone": "(978) 249-3703",
+    "url": "https://nqcc.org/",
+    "categorySlug": "community",
+    "zipCode": "01331"
+  },
+  {
+    "name": "Oxford Ecumenical Food Shelf",
+    "description": "Community food pantry at the Oxford Community Center providing free emergency grocery assistance every Thursday to Oxford residents and members of Oxford churches.",
+    "address": "4 Maple Road, Oxford, MA 01540",
+    "phone": "(508) 987-1062",
+    "url": "https://sites.google.com/view/oxford-food-shelf/home",
+    "categorySlug": "food",
+    "zipCode": "01540"
+  },
+  {
+    "name": "Rutland Food Pantry (Many Hands Food Pantry)",
+    "description": "Community food pantry serving Rutland, Oakham, and Hubbardston residents with twice-monthly distributions at St. Patrick's Church and a local Hubbardston site.",
+    "address": "7 Main Street, Unit 3, Hubbardston, MA 01452",
+    "phone": "(508) 507-8521",
+    "url": "https://www.manyhandsfoodpantry.com",
+    "categorySlug": "food",
+    "zipCode": "01452"
+  },
+  {
+    "name": "Southbridge Food Share",
+    "description": "Community food pantry providing food assistance to residents of Southbridge, Sturbridge, Holland, Wales, Brimfield, and Charlton with volunteer-driven distribution of groceries to those in need.",
+    "address": "446 Hamilton Street, Southbridge, MA 01550",
+    "phone": "(508) 764-6583",
+    "url": "https://www.facebook.com/SouthbridgeFoodShare/",
+    "categorySlug": "food",
+    "zipCode": "01550"
+  },
+  {
+    "name": "UMass Memorial Barre Family Health Center",
+    "description": "UMass Memorial Health-affiliated family health center providing primary care, family medicine, and preventive health services to residents of the Barre area and surrounding central Worcester County communities.",
+    "address": "151 Worcester Road, Barre, MA 01005",
+    "phone": "(978) 355-6321",
+    "url": "https://www.ummhealth.org/locations/umass-memorial-medical-center/barre-family-health-center",
+    "categorySlug": "healthcare",
+    "zipCode": "01005"
+  },
+  {
+    "name": "Wachusett Food Pantry",
+    "description": "Community food pantry in nearby Sterling serving West Boylston and surrounding Wachusett-area towns with grocery distributions on the third Saturday and preceding Friday of each month.",
+    "address": "50 Worcester Road, Sterling, MA 01564",
+    "phone": "(978) 563-1064",
+    "url": "https://www.wachusettfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "01564"
+  },
+  {
+    "name": "West Boylston Food Pantry",
+    "description": "Food pantry operated by First Congregational Church of West Boylston distributing perishable and non-perishable food to residents who lack resources to purchase groceries, open the third Tuesday of each month.",
+    "address": "26 Central Street, West Boylston, MA 01583",
+    "phone": "(508) 835-4462",
+    "url": "https://www.fccwb.org/serve",
+    "categorySlug": "food",
+    "zipCode": "01583"
+  },
+  {
+    "name": "WHEAT Community Connections",
+    "description": "United Way of Tri-County program in Clinton providing a community food cupboard, hot meals, and basic needs assistance serving Bolton and surrounding towns in central Worcester County.",
+    "address": "272 High Street, Clinton, MA 01510",
+    "phone": "(508) 370-4943",
+    "url": "https://www.uwotc.org/WHEAT",
+    "categorySlug": "food",
+    "zipCode": "01510"
+  },
+  {
+    "name": "Worcester Community Action Council (WCAC)",
+    "description": "Community action agency serving Barre and 43 surrounding Worcester County towns through energy assistance, early education, financial empowerment, and emergency social service programs.",
+    "address": "484 Main Street, Worcester, MA 01608",
+    "phone": "(508) 754-1176",
+    "url": "https://wcac.net",
+    "categorySlug": "community",
+    "zipCode": "01608"
+  }
+]

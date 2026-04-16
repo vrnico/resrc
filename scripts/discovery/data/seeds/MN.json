@@ -1,0 +1,1298 @@
+[
+  {
+    "name": "Aitkin County Health and Human Services",
+    "description": "County agency providing social services, public health programs, and assistance with food, housing, and financial benefits for Aitkin County residents.",
+    "address": "209 2nd St NW, Aitkin, MN 56431",
+    "phone": "(218) 927-7200",
+    "url": "https://www.co.aitkin.mn.us/departments/hhs/social-services/",
+    "categorySlug": "community",
+    "zipCode": "56431"
+  },
+  {
+    "name": "Hill City Area Food Shelf",
+    "description": "Volunteer-run emergency food shelf serving Hill City residents and anyone within 10 miles. Distributes groceries to individuals and families in need in the Hill City area.",
+    "address": "113 Ione Ave NE, Hill City, MN 55748",
+    "phone": "(218) 392-7730",
+    "url": "https://oyh.org/resources/hill-city-area-food-shelf/",
+    "categorySlug": "food",
+    "zipCode": "55748"
+  },
+  {
+    "name": "Lakes and Pines Community Action Council",
+    "description": "Community action agency serving Aitkin and surrounding counties with food assistance, energy assistance, housing, and weatherization programs for low-income individuals and families.",
+    "address": "104 2nd St NW, Aitkin, MN 56431",
+    "phone": "(320) 679-1800",
+    "url": "https://www.lakesandpines.org/food-assistance",
+    "categorySlug": "community",
+    "zipCode": "56431"
+  },
+  {
+    "name": "Anoka County Human Services",
+    "description": "County agency providing a wide range of social services including cash assistance, food support, child protection, housing assistance, and crisis intervention for Anoka County residents.",
+    "address": "1201 89th Ave NE, Suite 130, Blaine, MN 55434",
+    "phone": "(763) 755-6873",
+    "url": "https://www.anokacountymn.gov/1059/Human-Services",
+    "categorySlug": "community",
+    "zipCode": "55434"
+  },
+  {
+    "name": "Family Promise of Anoka County",
+    "description": "Emergency shelter and transitional housing program for families experiencing homelessness in Anoka County, offering safe temporary housing and case management toward permanent housing.",
+    "address": "14515 Nowthen Blvd NW, Ramsey, MN 55303",
+    "phone": "(763) 568-7365",
+    "url": "https://www.anokacountymn.gov/2689/Basic-Needs",
+    "categorySlug": "housing",
+    "zipCode": "55421"
+  },
+  {
+    "name": "SACA Food Shelf & Thrift Store",
+    "description": "Southern Anoka Community Assistance food shelf serving Columbia Heights, Hilltop, Fridley, Spring Lake Park, and Northeast Minneapolis with groceries available once every 30 days.",
+    "address": "627 38th Ave NE, Columbia Heights, MN 55421",
+    "phone": "(763) 789-2444",
+    "url": "https://sacafoodshelf.org/",
+    "categorySlug": "food",
+    "zipCode": "55421"
+  },
+  {
+    "name": "Beltrami County Health and Human Services",
+    "description": "County agency providing public assistance, social services, and public health programs including emergency assistance, food support, and child and family services for Beltrami County residents.",
+    "address": "616 America Ave NW, Bemidji, MN 56601",
+    "phone": "(218) 333-8300",
+    "url": "https://www.co.beltrami.mn.us/departments/health-human-services/",
+    "categorySlug": "community",
+    "zipCode": "56601"
+  },
+  {
+    "name": "Bemidji Community Food Shelf",
+    "description": "Community food shelf serving Beltrami County residents with groceries distributed Monday, Wednesday, and Friday for individuals and families facing food insecurity.",
+    "address": "1260 Exchange Ave SE, Bemidji, MN 56601",
+    "phone": "(218) 444-6580",
+    "url": "https://www.bcfsmn.org/",
+    "categorySlug": "food",
+    "zipCode": "56601"
+  },
+  {
+    "name": "BI-CAP (Bi-County Community Action Program)",
+    "description": "Nonprofit community action agency assisting low-income families and individuals in Cass and Beltrami Counties with housing, weatherization, energy assistance, early childhood education, and youth employment services.",
+    "address": "6603 Bemidji Ave N, Bemidji, MN 56601",
+    "phone": "(218) 751-4631",
+    "url": "https://www.bicap.org/",
+    "categorySlug": "community",
+    "zipCode": "56601"
+  },
+  {
+    "name": "The Wolfe Center",
+    "description": "Nighttime emergency shelter for chronically homeless adults struggling with chemical dependency, providing overnight housing from 8 PM to 8 AM for up to 16 individuals.",
+    "address": "522 America Ave NW, Bemidji, MN 56601",
+    "phone": "(218) 444-1380",
+    "url": "https://www.bicap.org/projects/assistance/community-resources/",
+    "categorySlug": "housing",
+    "zipCode": "56601"
+  },
+  {
+    "name": "Rice Area Food Shelf",
+    "description": "Volunteer-run food shelf serving the Rice, Royalton, Gilman, and St. Stephen areas of Benton County, distributing groceries once a month to households in need.",
+    "address": "30 Main St E, Rice, MN 56367",
+    "phone": "(320) 393-2915",
+    "url": "https://www.givemn.org/organization/Rice-Area-Food-Shelf",
+    "categorySlug": "food",
+    "zipCode": "56367"
+  },
+  {
+    "name": "Blue Earth County Department of Human Services",
+    "description": "County human services agency providing emergency assistance, food support (SNAP), cash assistance (MFIP), housing resources, and child and family services for Blue Earth County residents.",
+    "address": "410 S 5th St, Mankato, MN 56001",
+    "phone": "(507) 304-4335",
+    "url": "https://www.blueearthcountymn.gov/99/Human-Services-Social-Services",
+    "categorySlug": "community",
+    "zipCode": "56001"
+  },
+  {
+    "name": "Maple River Loaves & Fishes Food Shelf",
+    "description": "Community food shelf serving the Maple River School District including Mapleton, Amboy, Beauford, Good Thunder, and Minnesota Lake with groceries available on Tuesday afternoons and Saturday mornings.",
+    "address": "104 E Central Ave, Mapleton, MN 56065",
+    "phone": "(507) 524-3046",
+    "url": "https://www.foodpantries.org/li/maple-river-loaves-and-fishes",
+    "categorySlug": "food",
+    "zipCode": "56065"
+  },
+  {
+    "name": "Carlton County Public Health and Human Services",
+    "description": "County agency offering social services, public health programs, financial assistance, and emergency assistance for Carlton County residents including those in the Kettle River area.",
+    "address": "14 N 11th Street, Cloquet, MN 55720",
+    "phone": "(888) 818-4511",
+    "url": "https://www.carltoncountymn.gov/277/Public-Health-Human-Services",
+    "categorySlug": "community",
+    "zipCode": "55720"
+  },
+  {
+    "name": "Salvation Army Cloquet Food Shelf",
+    "description": "Food shelf serving Carlton County residents with groceries available on Monday evenings and Tuesday mornings, open to low-income individuals, families, seniors, and veterans.",
+    "address": "316 Carlton Ave, Cloquet, MN 55720",
+    "phone": "(218) 879-5447",
+    "url": "https://centralusa.salvationarmy.org/northern/BrainerdLakes/cure-hunger/",
+    "categorySlug": "food",
+    "zipCode": "55720"
+  },
+  {
+    "name": "Gather and Grow Food Shelf",
+    "description": "Food shelf serving northern and western Carver County including Watertown, Waconia, Cologne, Mayer, and surrounding communities with client-choice grocery shopping and mobile delivery options.",
+    "address": "309 Lewis Ave S, Watertown, MN 55388",
+    "phone": "(952) 442-3878",
+    "url": "https://gatherandgrowmn.org/watertown/",
+    "categorySlug": "food",
+    "zipCode": "55388"
+  },
+  {
+    "name": "Chippewa County Family Services",
+    "description": "County social services office providing food assistance (SNAP), cash assistance, medical assistance, child welfare, and emergency support programs for Chippewa County residents.",
+    "address": "719 N 7th St, Suite 200, Montevideo, MN 56265",
+    "phone": "(320) 269-6401",
+    "url": "https://www.co.chippewa.mn.us/158/Family-Services",
+    "categorySlug": "community",
+    "zipCode": "56265"
+  },
+  {
+    "name": "Chippewa County Food Shelf",
+    "description": "Food shelf operated by Prairie Five Community Action Council serving Chippewa County residents with groceries distributed Monday through Friday, including residents from Milan and surrounding communities.",
+    "address": "719 N 7th St, Suite 302, Montevideo, MN 56265",
+    "phone": "(320) 269-6578",
+    "url": "https://prairiefive.org/programs/food-programs/",
+    "categorySlug": "food",
+    "zipCode": "56265"
+  },
+  {
+    "name": "Chippewa County Housing and Redevelopment Authority",
+    "description": "County HRA providing affordable housing assistance including the Housing Choice Voucher (Section 8) program to low-income residents of Chippewa County.",
+    "address": "629 N 11th St, Montevideo, MN 56265",
+    "phone": "(320) 269-7447",
+    "url": "https://www.swmhp.org/housing-help/chippewa-county/",
+    "categorySlug": "housing",
+    "zipCode": "56265"
+  },
+  {
+    "name": "Clay County Social Services",
+    "description": "County social services office in Moorhead providing food assistance, emergency general assistance, medical assistance, and family support services for Clay County residents including the Dilworth area.",
+    "address": "715 11th St N, Moorhead, MN 56560",
+    "phone": "(218) 299-5200",
+    "url": "https://claycountymn.gov/168/Social-Services",
+    "categorySlug": "community",
+    "zipCode": "56560"
+  },
+  {
+    "name": "Community Health Service Inc. (CHSI) Moorhead",
+    "description": "Federally Qualified Health Center providing primary medical, dental, and behavioral health care on a sliding-fee scale to patients in the Moorhead and Clay County area regardless of ability to pay.",
+    "address": "2310 4th Ave N, Moorhead, MN 56560",
+    "phone": "(218) 236-6502",
+    "url": "https://chsiclinics.org/locations/moorhead-mn/",
+    "categorySlug": "healthcare",
+    "zipCode": "56560"
+  },
+  {
+    "name": "Seeds of Hope Food Pantry",
+    "description": "Food pantry operated by Destiny Outreach Mission Base serving Clay County residents including Dilworth with groceries available on Tuesday evenings.",
+    "address": "14 Center Ave E, Dilworth, MN 56529",
+    "phone": "(218) 288-4300",
+    "url": "https://www.findhelp.org/destiny-outreach-mission-base--dilworth-mn--seeds-of-hope---food-pantry/6401294701297664?postal=56529",
+    "categorySlug": "food",
+    "zipCode": "56529"
+  },
+  {
+    "name": "Grand Portage Band Tribal Programs",
+    "description": "Comprehensive social services provided by the Grand Portage Band of Lake Superior Chippewa including food distribution, human services, health services, elderly nutrition, Head Start, and community support for Grand Portage Band members and the broader community.",
+    "address": "83 Stevens Road, Grand Portage, MN 55605",
+    "phone": "(218) 475-2277",
+    "url": "https://www.grandportageband.com/grand-portage-tribal-programs/",
+    "categorySlug": "community",
+    "zipCode": "55605"
+  },
+  {
+    "name": "Grand Portage Human Services Food Shelf",
+    "description": "Food shelf operated through Grand Portage Human Services providing groceries to residents of Grand Portage and Cook County, open Monday through Friday during regular business hours.",
+    "address": "83 Stevens Road, Grand Portage, MN 55605",
+    "phone": "(218) 475-2453",
+    "url": "https://agingwellresources.org/grand-portage-food/",
+    "categorySlug": "food",
+    "zipCode": "55605"
+  },
+  {
+    "name": "Crow Wing County Community Services",
+    "description": "County social services agency providing emergency financial assistance, food support, housing help, veterans services, and child and family programs for Crow Wing County residents.",
+    "address": "204 Laurel St, Brainerd, MN 56401",
+    "phone": "(218) 824-1010",
+    "url": "https://www.crowwing.gov/91/Community-Services",
+    "categorySlug": "community",
+    "zipCode": "56401"
+  },
+  {
+    "name": "New Pathways Inc.",
+    "description": "Organization providing emergency shelter and transitional housing services for individuals and families experiencing homelessness in the Brainerd Lakes area of Crow Wing County.",
+    "address": "Brainerd, MN 56401",
+    "phone": "(218) 454-0460",
+    "url": "https://www.crowwing.gov/203/Emergency-Assistance",
+    "categorySlug": "housing",
+    "zipCode": "56401"
+  },
+  {
+    "name": "Dakota County Community Development Agency",
+    "description": "Local government agency providing housing assistance, rental aid, and homelessness prevention services for low-income residents throughout Dakota County including the Randolph area.",
+    "address": "1228 Town Centre Dr, Eagan, MN 55123",
+    "phone": "(651) 675-4400",
+    "url": "https://www.dakotacda.org/",
+    "categorySlug": "housing",
+    "zipCode": "55123"
+  },
+  {
+    "name": "Hastings Family Service",
+    "description": "Nonprofit serving Dakota County residents with a market-style food shelf, Meals on Wheels, and supportive social services for individuals and families in the Hastings area.",
+    "address": "301 2nd St E, Hastings, MN 55033",
+    "phone": "(651) 437-7134",
+    "url": "https://hastingsfamilyservice.org/",
+    "categorySlug": "food",
+    "zipCode": "55033"
+  },
+  {
+    "name": "Saint Mark's Food Shelf (Randolph Community Food Shelf)",
+    "description": "Emergency food shelf operated out of Saint Mark's church in Randolph, distributing a week's supply of food and personal items to families in the Randolph School District once per month.",
+    "address": "28595 Randolph Blvd, Randolph, MN 55065",
+    "phone": "(507) 263-9182",
+    "url": "https://www.stmarksrandolph.com/food-shelf",
+    "categorySlug": "food",
+    "zipCode": "55065"
+  },
+  {
+    "name": "Dodge County Department of Human Services",
+    "description": "County social services agency providing food assistance (SNAP), emergency general assistance, medical assistance, cash assistance, and housing support for residents of Dodge County including Claremont.",
+    "address": "22 6th Street West, Dept. 401, Mantorville, MN 55955",
+    "phone": "(507) 923-2900",
+    "url": "https://dodgecountymn.gov/departments/human_services.php",
+    "categorySlug": "community",
+    "zipCode": "55955"
+  },
+  {
+    "name": "SEMCAC Family Homeless Prevention (Dodge County)",
+    "description": "SEMCAC community action agency providing homelessness prevention and assistance for low-income families, individuals, and unaccompanied youth in Dodge County who are homeless or at risk of losing housing.",
+    "address": "105 S Mantorville Ave, Kasson, MN 55944",
+    "phone": "(507) 634-4350",
+    "url": "https://www.semcac.org/",
+    "categorySlug": "housing",
+    "zipCode": "55944"
+  },
+  {
+    "name": "Douglas County Department of Social Services",
+    "description": "County agency providing foster care, child protection, adoption counseling, chemical dependency, mental health, and financial assistance programs including SNAP and medical assistance for Douglas County residents.",
+    "address": "809 Elm St, Suite 1186, Alexandria, MN 56308",
+    "phone": "(320) 762-2302",
+    "url": "https://www.douglascountymn.gov/social-services",
+    "categorySlug": "community",
+    "zipCode": "56308"
+  },
+  {
+    "name": "Outreach Food Shelf",
+    "description": "Nonprofit food shelf serving Douglas County including the Osakis area with client-choice grocery shopping; a mobile pantry also reaches the four corners of Douglas County for those with transportation barriers.",
+    "address": "1201 Lake St, Alexandria, MN 56308",
+    "phone": "(320) 762-8411",
+    "url": "https://outreachfoodshelf.com/",
+    "categorySlug": "food",
+    "zipCode": "56308"
+  },
+  {
+    "name": "Fillmore County Department of Social Services",
+    "description": "County agency providing financial assistance, food support (SNAP), medical assistance, and social services for Fillmore County residents including individuals and families in the Lanesboro area.",
+    "address": "902 Houston St NW, Suite 1, Preston, MN 55965",
+    "phone": "(507) 765-2175",
+    "url": "https://www.co.fillmore.mn.us/departments/community_services/human_services/index.php",
+    "categorySlug": "community",
+    "zipCode": "55965"
+  },
+  {
+    "name": "Salvation Army Albert Lea Food Shelf",
+    "description": "Food pantry serving Freeborn County residents with monthly grocery distributions available Monday through Thursday afternoons for low-income individuals and families in the Albert Lea area.",
+    "address": "302 Court St, Albert Lea, MN 56007",
+    "phone": "(507) 373-8776",
+    "url": "https://www.salvationarmyusa.org/mn/albert-lea/court-st-corps/",
+    "categorySlug": "food",
+    "zipCode": "56007"
+  },
+  {
+    "name": "United Way of Freeborn County",
+    "description": "United Way chapter coordinating food access resources and social services across Freeborn County, including the Welcome Pantry and connections to local food shelves serving the Glenville area.",
+    "address": "411 1st Ave S, Albert Lea, MN 56007",
+    "phone": "(507) 373-8670",
+    "url": "https://www.unitedwayfc.org/food",
+    "categorySlug": "community",
+    "zipCode": "56007"
+  },
+  {
+    "name": "Goodhue County Health and Human Services",
+    "description": "County agency providing food support, cash assistance, medical assistance, and social services for low-income families, adults, elderly, and disabled individuals throughout Goodhue County.",
+    "address": "509 W 5th St, Red Wing, MN 55066",
+    "phone": "(651) 385-3000",
+    "url": "https://goodhuecountymn.gov/health_human_services/",
+    "categorySlug": "community",
+    "zipCode": "55066"
+  },
+  {
+    "name": "Red Wing Area Food Shelf",
+    "description": "Community food shelf serving Goodhue County residents including Wanamingo with grocery distributions several times per week at their Red Wing location.",
+    "address": "1755 Old W Main St, Red Wing, MN 55066",
+    "phone": "(651) 388-9302",
+    "url": "https://www.redwingfoodshelf.org/",
+    "categorySlug": "food",
+    "zipCode": "55066"
+  },
+  {
+    "name": "Three Rivers Community Action",
+    "description": "Community action agency serving southeast Minnesota with housing assistance, Meals on Wheels, financial aid, and advocacy for low-income residents of Goodhue, Olmsted, Rice, and Wabasha Counties.",
+    "address": "269 E 5th St, Red Wing, MN 55066",
+    "phone": "(651) 385-8000",
+    "url": "https://www.threeriverscap.org/",
+    "categorySlug": "community",
+    "zipCode": "55066"
+  },
+  {
+    "name": "Catholic Charities Twin Cities - Minneapolis",
+    "description": "Catholic Charities provides meals, emergency shelter, and supportive housing services to over 25,000 people annually experiencing or at risk of homelessness at multiple Minneapolis locations.",
+    "address": "819 2nd Ave S, Minneapolis, MN 55402",
+    "phone": "(612) 204-8330",
+    "url": "https://cctwincities.org/services-and-locations/",
+    "categorySlug": "housing",
+    "zipCode": "55402"
+  },
+  {
+    "name": "Edina Resource Center",
+    "description": "Community resource hub connecting Edina residents with local resources for food, housing, healthcare, social services, and holiday support.",
+    "address": "4401 W 76th St, Edina, MN 55435",
+    "phone": "",
+    "url": "https://edinaresourcecenter.com/",
+    "categorySlug": "community",
+    "zipCode": "55435"
+  },
+  {
+    "name": "Hennepin County Southdale Service Center",
+    "description": "Hennepin County human services office providing public assistance programs including SNAP, cash assistance, housing support, child care assistance, and medical assistance eligibility.",
+    "address": "1225 Southdale Center, Edina, MN 55435",
+    "phone": "(612) 348-8240",
+    "url": "https://www.hennepincounty.gov/government/directory/human-services",
+    "categorySlug": "community",
+    "zipCode": "55435"
+  },
+  {
+    "name": "Hennepin Healthcare (HCMC)",
+    "description": "Public safety-net hospital and clinic system serving all patients including those experiencing homelessness; operates the Health Care for the Homeless program with mobile teams at eight shelter and drop-in sites across Minneapolis.",
+    "address": "701 Park Ave, Minneapolis, MN 55415",
+    "phone": "(612) 873-3000",
+    "url": "https://hennepinhealthcare.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "55415"
+  },
+  {
+    "name": "ICA Food Shelf",
+    "description": "Nonprofit food shelf providing groceries to residents of Hopkins, Minnetonka, and surrounding southwest Hennepin County communities including those near Eden Prairie.",
+    "address": "11588 K-Tel Dr, Minnetonka, MN 55343",
+    "phone": "(952) 938-0729",
+    "url": "https://www.icafoodshelf.org/",
+    "categorySlug": "food",
+    "zipCode": "55343"
+  },
+  {
+    "name": "Minnehaha United Methodist Church Food Shelf",
+    "description": "Free food shelf open every Tuesday serving households in the area between the Crosstown and Lake Street, Cedar Avenue and the Mississippi River in south Minneapolis.",
+    "address": "3701 E 50th St, Minneapolis, MN 55417",
+    "phone": "(612) 721-6231",
+    "url": "https://www.minnehaha.org/foodshelf.html",
+    "categorySlug": "food",
+    "zipCode": "55417"
+  },
+  {
+    "name": "People Serving People",
+    "description": "Minnesota's largest emergency family homeless shelter providing 99 private shelter rooms, early childhood education, family support services, and an on-site Hennepin County health clinic for families experiencing homelessness.",
+    "address": "614 S 3rd St, Minneapolis, MN 55415",
+    "phone": "(612) 332-4500",
+    "url": "https://www.peopleservingpeople.org/",
+    "categorySlug": "housing",
+    "zipCode": "55415"
+  },
+  {
+    "name": "PROP Food Shelf (People Reaching Out to People)",
+    "description": "Community food shelf serving Eden Prairie and Chanhassen residents with client-choice grocery shopping by appointment, plus employment assistance, financial mentoring, nutritional coaching, and on-site counseling.",
+    "address": "14700 Martin Dr, Eden Prairie, MN 55344",
+    "phone": "(952) 937-9120",
+    "url": "https://propfood.org/",
+    "categorySlug": "food",
+    "zipCode": "55343"
+  },
+  {
+    "name": "Simpson Housing Services",
+    "description": "Nonprofit providing emergency shelter, transitional housing, and supportive housing for adults experiencing homelessness in Minneapolis, with Adult Shelter Connect as the access point for placement services.",
+    "address": "160 Glenwood Ave, Minneapolis, MN 55405",
+    "phone": "(612) 874-8683",
+    "url": "https://simpsonhousing.org/",
+    "categorySlug": "housing",
+    "zipCode": "55405"
+  },
+  {
+    "name": "The PROP Shop",
+    "description": "Free clothing, household goods, and furniture resource for Eden Prairie and Chanhassen residents in financial need, operated as part of the PROP community services organization.",
+    "address": "14700 Martin Dr, Eden Prairie, MN 55344",
+    "phone": "(952) 937-9120",
+    "url": "https://propshopep.org/",
+    "categorySlug": "community",
+    "zipCode": "55343"
+  },
+  {
+    "name": "VEAP (Volunteers Enlisted to Assist People)",
+    "description": "Community nonprofit providing a food pantry, mobile pantry, and social services including emergency financial assistance for rent, security deposits, and utilities to residents of south Minneapolis, Richfield, Edina, and Bloomington.",
+    "address": "9600 Aldrich Ave S, Bloomington, MN 55420",
+    "phone": "(952) 888-9616",
+    "url": "https://veap.org/",
+    "categorySlug": "food",
+    "zipCode": "55420"
+  },
+  {
+    "name": "Houston County Department of Human Services",
+    "description": "County social services office administering SNAP, MFIP, child care assistance, medical assistance, and other public assistance programs for Houston County residents.",
+    "address": "304 S Marshall St Room 104, Caledonia, MN 55921",
+    "phone": "(507) 725-5811",
+    "url": "https://www.co.houston.mn.us/departments/human-services/",
+    "categorySlug": "community",
+    "zipCode": "55921"
+  },
+  {
+    "name": "Houston County Public Health",
+    "description": "County public health department providing health screenings, immunization clinics, family planning, and community health education services to Houston County residents.",
+    "address": "611 Vista Dr Ste 1, Caledonia, MN 55921",
+    "phone": "(507) 725-5811",
+    "url": "https://www.co.houston.mn.us/departments/public-health/",
+    "categorySlug": "healthcare",
+    "zipCode": "55921"
+  },
+  {
+    "name": "Family Pathways Cambridge Food Pantry",
+    "description": "Food shelf operated by Family Pathways providing quality food items to households experiencing food insecurity in Isanti, Chisago, Mille Lacs, and Pine Counties.",
+    "address": "1575 1st Ave E, Cambridge, MN 55008",
+    "phone": "(651) 674-8040",
+    "url": "https://www.familypathways.org/our-work/food-access/food-shelves/",
+    "categorySlug": "food",
+    "zipCode": "55008"
+  },
+  {
+    "name": "Isanti County Health and Human Services",
+    "description": "County human services office providing SNAP, cash assistance, child care assistance, MinnesotaCare eligibility, and meals-on-wheels for homebound seniors across Isanti County.",
+    "address": "1700 E Rum River Dr S Suite A, Cambridge, MN 55008",
+    "phone": "(763) 689-1484",
+    "url": "https://www.isanticountymn.gov/298/Services",
+    "categorySlug": "community",
+    "zipCode": "55008"
+  },
+  {
+    "name": "Ruby's Pantry - Isanti",
+    "description": "Monthly pop-up food distribution hosted at New Hope Community Church providing large bundles of groceries to anyone in need at no income requirement.",
+    "address": "114 Dahlin Ave NE, Isanti, MN 55040",
+    "phone": "",
+    "url": "https://www.rubyspantry.org/",
+    "categorySlug": "food",
+    "zipCode": "55040"
+  },
+  {
+    "name": "North Itasca Emergency Food Shelf (NIEFS)",
+    "description": "Community food shelf serving Bigfork and north Itasca County residents with free food distribution on Thursday afternoons.",
+    "address": "200 Main Ave, Bigfork, MN 56628",
+    "phone": "(218) 259-5884",
+    "url": "https://networks.whyhunger.org/organisation/43554",
+    "categorySlug": "food",
+    "zipCode": "56628"
+  },
+  {
+    "name": "Kanabec County Health and Human Services",
+    "description": "County social services office providing SNAP food assistance, General Assistance, Medical Assistance, MFIP, and other public assistance programs to low-income Kanabec County residents.",
+    "address": "18 N Vine St, Mora, MN 55051",
+    "phone": "(320) 679-6350",
+    "url": "https://www.co.kanabec.mn.us/departments/public_health_and_human_services/index.php",
+    "categorySlug": "community",
+    "zipCode": "55051"
+  },
+  {
+    "name": "Mora Food Pantry",
+    "description": "Community food pantry serving all of Kanabec County with food assistance twice a month; no referral or appointment required and open Tuesday and Friday mornings.",
+    "address": "214 NW Railroad Ave, Mora, MN 55051",
+    "phone": "(320) 679-5513",
+    "url": "https://minnesotafoodbanks.org/food-bank/mora-food-pantry-mora-mn-kanabec-county-food-shelf/",
+    "categorySlug": "food",
+    "zipCode": "55051"
+  },
+  {
+    "name": "Cornerstone Food Pantry",
+    "description": "Food pantry operated by Grace-Red River Lutheran Parish serving Kittson County residents on Tuesday afternoons and Thursday evenings or by appointment.",
+    "address": "321 S Birch Ave, Hallock, MN 56728",
+    "phone": "(218) 843-3665",
+    "url": "https://minnesotafoodbanks.org/food-bank/cornerstone-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "56728"
+  },
+  {
+    "name": "Kittson County Social Services",
+    "description": "County social services department providing Emergency General Assistance, General Assistance, MFIP, SNAP, and Minnesota Supplemental Aid to eligible Kittson County residents.",
+    "address": "410 5th St SE Suite 100, Hallock, MN 56728",
+    "phone": "(218) 843-2689",
+    "url": "https://www.co.kittson.mn.us/government/departments/social_services/index.php",
+    "categorySlug": "community",
+    "zipCode": "56728"
+  },
+  {
+    "name": "Koochiching County Food Access",
+    "description": "Nonprofit food shelf serving anyone in Koochiching County struggling to meet their food needs at no cost, with shopping hours Tuesday and Thursday afternoons at their International Falls location.",
+    "address": "410 5th Ave, International Falls, MN 56649",
+    "phone": "(218) 283-8020",
+    "url": "https://kcfoodaccess.org/",
+    "categorySlug": "food",
+    "zipCode": "56649"
+  },
+  {
+    "name": "Koochiching County Public Health and Human Services",
+    "description": "County department providing social services, child protection, adult protection, financial assistance programs, and public health services to residents of Koochiching County.",
+    "address": "715 4th St, International Falls, MN 56649",
+    "phone": "(218) 283-7000",
+    "url": "https://www.co.koochiching.mn.us/161/Public-Health-Human-Services",
+    "categorySlug": "community",
+    "zipCode": "56649"
+  },
+  {
+    "name": "Lake of the Woods County Social Services",
+    "description": "County social services office providing SNAP, financial assistance, child welfare, and other public assistance programs to Lake of the Woods County residents.",
+    "address": "206 8th Ave SE Suite 200, Baudette, MN 56623",
+    "phone": "(218) 634-2642",
+    "url": "https://www.co.lake-of-the-woods.mn.us/social-services/",
+    "categorySlug": "community",
+    "zipCode": "56623"
+  },
+  {
+    "name": "Lake of the Woods Food Shelf",
+    "description": "Food shelf serving Lake of the Woods, western Koochiching, and eastern Roseau County residents with monthly food distribution; appointments available by phone.",
+    "address": "106 2nd St NE, Baudette, MN 56623",
+    "phone": "(218) 634-3295",
+    "url": "https://greatnonprofits.org/org/lake-of-the-woods-food-shelf-inc",
+    "categorySlug": "food",
+    "zipCode": "56623"
+  },
+  {
+    "name": "Southwest Health and Human Services - Lyon County",
+    "description": "County human services office providing social services, SNAP, financial assistance, medical assistance, child care assistance, and mental health services to Lyon County residents.",
+    "address": "607 W Main St, Marshall, MN 56258",
+    "phone": "(507) 537-6730",
+    "url": "https://swmhhs.com/locations/lyon-county/",
+    "categorySlug": "community",
+    "zipCode": "56258"
+  },
+  {
+    "name": "UCAP Kitchen Table Food Shelf - Marshall",
+    "description": "Client-choice food shelf operated by United Community Action Partnership serving Lyon County and surrounding areas, open Monday, Wednesday, and Friday afternoons.",
+    "address": "1400 S Saratoga St, Marshall, MN 56258",
+    "phone": "(507) 537-1416",
+    "url": "https://www.unitedcapmn.org/programs/community-family-services/food-assistance/",
+    "categorySlug": "food",
+    "zipCode": "56258"
+  },
+  {
+    "name": "Argyle Area Food Shelf",
+    "description": "Small community food shelf serving the Argyle area of Marshall County with twice-monthly distribution hours.",
+    "address": "511 3rd St, Argyle, MN 56713",
+    "phone": "(218) 437-6438",
+    "url": "https://marshallcountyresources.org/children-families/food-shelves",
+    "categorySlug": "food",
+    "zipCode": "56713"
+  },
+  {
+    "name": "Marshall County Social Services",
+    "description": "County social services department providing SNAP, Emergency General Assistance, General Assistance, MFIP, housing support, and other financial assistance programs to Marshall County residents.",
+    "address": "208 Colvin Ave Suite 14, Warren, MN 56762",
+    "phone": "(218) 745-5124",
+    "url": "https://www.marshallcountymn.gov/departments/social_services/index.php",
+    "categorySlug": "community",
+    "zipCode": "56762"
+  },
+  {
+    "name": "Warren Area Food Shelf",
+    "description": "Food shelf serving Marshall County residents with weekly Tuesday evening hours at the Westbridge Center in Warren.",
+    "address": "109 S Minnesota St, Warren, MN 56762",
+    "phone": "(218) 201-1965",
+    "url": "https://www.northcountryfoodbank.org/agency/warren-emergency-food-shelf/",
+    "categorySlug": "food",
+    "zipCode": "56762"
+  },
+  {
+    "name": "Heaven's Table Food Shelf",
+    "description": "Community food shelf in Fairmont serving Martin County residents facing food insecurity.",
+    "address": "909 Winnebago Ave, Fairmont, MN 56031",
+    "phone": "(507) 238-5424",
+    "url": "https://www.facebook.com/heavenstablefoodshelf/",
+    "categorySlug": "food",
+    "zipCode": "56031"
+  },
+  {
+    "name": "Human Services of Faribault & Martin Counties",
+    "description": "Bi-county human services agency providing social services, SNAP, financial assistance, child welfare, and medical assistance programs to residents of Faribault and Martin Counties.",
+    "address": "115 W 1st St, Fairmont, MN 56031",
+    "phone": "(507) 526-3265",
+    "url": "https://www.fmchs.com/",
+    "categorySlug": "community",
+    "zipCode": "56031"
+  },
+  {
+    "name": "Salvation Army - Martin County Food Shelf",
+    "description": "Salvation Army food shelf in Fairmont providing food assistance and emergency services to Martin County residents.",
+    "address": "114 E Blue Earth Ave, Fairmont, MN 56031",
+    "phone": "(507) 238-9797",
+    "url": "https://centralusa.salvationarmy.org/northern/southeastern-minnesota-service-extension/",
+    "categorySlug": "food",
+    "zipCode": "56031"
+  },
+  {
+    "name": "Meeker Area Food Shelf",
+    "description": "Community food shelf serving Meeker County residents with client-choice shopping, no ID or proof of residence required, and a mobile food shelf available for those who lack transportation.",
+    "address": "118 N Sibley Ave, Litchfield, MN 55355",
+    "phone": "(320) 693-7661",
+    "url": "https://www.meekercountyfood.org/",
+    "categorySlug": "food",
+    "zipCode": "55355"
+  },
+  {
+    "name": "Meeker County Health and Human Services",
+    "description": "County human services office providing SNAP, General Assistance, MFIP, cash assistance, and medical assistance eligibility to low-income Meeker County residents.",
+    "address": "114 N Holcombe Ave Suite 180, Litchfield, MN 55355",
+    "phone": "(320) 693-5300",
+    "url": "https://www.co.meeker.mn.us/239/Health-and-Human-Services",
+    "categorySlug": "community",
+    "zipCode": "55355"
+  },
+  {
+    "name": "Morrison County Food Shelf",
+    "description": "Food shelf in Little Falls founded by the Franciscan Sisters offering a grocery store-like client-choice experience to Morrison County residents facing food insecurity.",
+    "address": "Little Falls, MN 56345",
+    "phone": "(320) 632-8304",
+    "url": "https://www.hometownsource.com/morrison_county_record/news/local/feeding-the-community-morrison-county-food-shelf-provides-critical-assistance/article_76ca034a-ff7b-11ef-b86d-cfaa9b810dc2.html",
+    "categorySlug": "food",
+    "zipCode": "56345"
+  },
+  {
+    "name": "Morrison County Health and Human Services",
+    "description": "County human services department providing financial assistance, SNAP, medical assistance, child welfare, and care programs for low-income Morrison County residents.",
+    "address": "213 SE 1st Ave, Little Falls, MN 56345",
+    "phone": "(320) 632-0100",
+    "url": "https://morrisoncountymn.gov/678/HEALTH-HUMAN-SERVICES",
+    "categorySlug": "community",
+    "zipCode": "56345"
+  },
+  {
+    "name": "Pierz Area Food Shelf",
+    "description": "Community food shelf serving residents of the Pierz area and eastern Morrison County with monthly visits allowed; located in the old library building behind the fire hall.",
+    "address": "220 Main St S #5, Pierz, MN 56364",
+    "phone": "(320) 266-6874",
+    "url": "https://www.pierzmn.org/index.asp?SEC=FBAC93AC-9857-4694-AB31-2EDC8ED19CA6",
+    "categorySlug": "food",
+    "zipCode": "56364"
+  },
+  {
+    "name": "Lyle Community Food Shelf",
+    "description": "Local food shelf in Lyle open Wednesday afternoons and Friday mornings, serving anyone in need with monthly drive-thru food bags including bread, milk, eggs, cheese, meat, and frozen vegetables.",
+    "address": "103 Pershing Ave, Lyle, MN 55953",
+    "phone": "(507) 325-4684",
+    "url": "https://hometownfoodsecurity.org/mower-resources/local-resources-austin-mower/",
+    "categorySlug": "food",
+    "zipCode": "55953"
+  },
+  {
+    "name": "Mower County Health and Human Services",
+    "description": "County human services agency providing emergency financial assistance, SNAP, medical assistance, child welfare, and other social services to Mower County residents.",
+    "address": "201 1st St NE, Austin, MN 55912",
+    "phone": "(507) 437-9535",
+    "url": "https://www.co.mower.mn.us/departments/health_human_services/index.php",
+    "categorySlug": "community",
+    "zipCode": "55912"
+  },
+  {
+    "name": "Salvation Army Austin Food Shelf",
+    "description": "Salvation Army food shelf serving Mower County residents with food assistance available Tuesday through Friday with multiple weekly distribution sessions.",
+    "address": "409 1st Ave NE, Austin, MN 55912",
+    "phone": "(507) 437-4566",
+    "url": "https://centralusa.salvationarmy.org/northern/Rochester/",
+    "categorySlug": "food",
+    "zipCode": "55912"
+  },
+  {
+    "name": "Lafayette Food Pantry",
+    "description": "Small community food pantry in Lafayette serving residents of southern Nicollet County with Wednesday afternoon hours.",
+    "address": "Lafayette, MN 56054",
+    "phone": "(507) 228-8049",
+    "url": "https://www.co.nicollet.mn.us/DocumentCenter/View/9407/Local-Food-Resources-update-102325",
+    "categorySlug": "food",
+    "zipCode": "56054"
+  },
+  {
+    "name": "Nicollet County Health and Human Services",
+    "description": "County human services office providing SNAP, cash assistance, medical assistance, child welfare, and social services for low-income Nicollet County residents.",
+    "address": "501 S Minnesota Ave, Saint Peter, MN 56082",
+    "phone": "(507) 934-8559",
+    "url": "https://www.co.nicollet.mn.us/187/Health-and-Human-Services",
+    "categorySlug": "community",
+    "zipCode": "56082"
+  },
+  {
+    "name": "St. Peter Area Food Shelf",
+    "description": "Food shelf serving households in the St. Peter School District and rural Nicollet County areas including Saint Peter, Nicollet, and Kasota with appointment-based and walk-in distribution.",
+    "address": "St. Peter, MN 56082",
+    "phone": "",
+    "url": "https://www.stpeterfoodshelf.com/",
+    "categorySlug": "food",
+    "zipCode": "56082"
+  },
+  {
+    "name": "Norman County Social Services",
+    "description": "County social services department in Ada providing SNAP, Emergency General Assistance, General Assistance, MFIP, and Minnesota Supplemental Aid to Norman County residents.",
+    "address": "15 2nd Ave E, Ada, MN 56510",
+    "phone": "(218) 784-5400",
+    "url": "https://www.co.norman.mn.us/departments/social_services/index.php",
+    "categorySlug": "community",
+    "zipCode": "56510"
+  },
+  {
+    "name": "Channel One Regional Food Bank",
+    "description": "Regional food bank and food shelf serving Olmsted County and surrounding areas including Stewartville, with grocery delivery available to Stewartville households and a client-choice food shelf in Rochester.",
+    "address": "131 35th St SE, Rochester, MN 55904",
+    "phone": "(507) 287-2350",
+    "url": "https://www.helpingfeedpeople.org/",
+    "categorySlug": "food",
+    "zipCode": "55904"
+  },
+  {
+    "name": "Olmsted County Human Services",
+    "description": "County human services department providing food assistance, housing support, health programs, financial assistance, and social services to Olmsted County residents including those in Stewartville.",
+    "address": "2117 Campus Dr SE, Rochester, MN 55904",
+    "phone": "(507) 328-6500",
+    "url": "https://www.olmstedcounty.gov/residents/services-individuals-families",
+    "categorySlug": "community",
+    "zipCode": "55904"
+  },
+  {
+    "name": "Otter Tail County Human Services",
+    "description": "County human services department providing SNAP, General Assistance, Emergency General Assistance, MFIP, and Minnesota Supplemental Aid to low-income Otter Tail County residents.",
+    "address": "500 W Fir Ave, Fergus Falls, MN 56537",
+    "phone": "(218) 998-8230",
+    "url": "https://ottertailcounty.gov/department/human-services/",
+    "categorySlug": "community",
+    "zipCode": "56537"
+  },
+  {
+    "name": "The Bridge Community Pantry",
+    "description": "Community food pantry in Perham with no income requirements, serving Otter Tail County residents with Tuesday morning hours and a mobile pantry serving Dent, Ottertail, Richville, and Vergas.",
+    "address": "501 4th Ave NW, Perham, MN 56573",
+    "phone": "(218) 346-6181",
+    "url": "https://mn.gov/adresources/search/f9e20e07-dc49-52f5-b50f-b798e4de4d97/",
+    "categorySlug": "food",
+    "zipCode": "56573"
+  },
+  {
+    "name": "Pine County Health and Human Services",
+    "description": "County human services department in Sandstone providing SNAP, financial assistance, child welfare, adult protection, and other social services to Pine County residents.",
+    "address": "1602 Hwy 23 N, Sandstone, MN 55072",
+    "phone": "(320) 591-1570",
+    "url": "https://www.pinecountymn.gov/departments/health_and_human_services/index.php",
+    "categorySlug": "community",
+    "zipCode": "55072"
+  },
+  {
+    "name": "Welia Health",
+    "description": "Regional health system serving Pine County and surrounding areas with primary care, specialty care, and hospital services; provides social services resource referrals including food access programs.",
+    "address": "301 Balsam St, Sandstone, MN 55072",
+    "phone": "(320) 245-2212",
+    "url": "https://www.weliahealth.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "55072"
+  },
+  {
+    "name": "Care & Share Center",
+    "description": "Regional shelter and social services provider in Crookston offering food, emergency shelter, basic necessities, life skills, employment support, and assistance for those with disabilities, mental health needs, or other barriers.",
+    "address": "220 E 3rd St, Crookston, MN 56716",
+    "phone": "(218) 281-2644",
+    "url": "https://mypathmn.org/directory/listing/the-care-and-share-center/",
+    "categorySlug": "housing",
+    "zipCode": "56716"
+  },
+  {
+    "name": "Fertile Family Resource Center",
+    "description": "Connects Fertile-area families with information about community resources, referrals to services, and assistance completing applications for benefits programs. Located at the Knutson Community Center.",
+    "address": "101 S Mill St, Fertile, MN 56540",
+    "phone": "(218) 230-2926",
+    "url": "https://www.tvoc.org/services/community-services/family-resource-center-frc/",
+    "categorySlug": "community",
+    "zipCode": "56540"
+  },
+  {
+    "name": "North Country Food Bank",
+    "description": "Regional food bank serving northern Minnesota that partners with local food shelves throughout Itasca County including the Grand Rapids and Bigfork areas to distribute food to those in need.",
+    "address": "4 Pioneer Dr, East Grand Forks, MN 56721",
+    "phone": "(218) 773-7715",
+    "url": "https://www.northcountryfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "56721"
+  },
+  {
+    "name": "Tri-Valley Opportunity Council",
+    "description": "Community action agency serving Norman, Polk, and Marshall Counties with housing assistance, emergency services, Head Start, energy assistance, and senior programs to help people achieve stability.",
+    "address": "107 N Broadway #200, Crookston, MN 56716",
+    "phone": "(218) 281-5832",
+    "url": "https://www.tvoc.org/",
+    "categorySlug": "community",
+    "zipCode": "56716"
+  },
+  {
+    "name": "Glacial Ridge Health System",
+    "description": "Regional health system serving Pope County and west-central Minnesota with primary care clinics, hospital services, home care, hospice, and wellness programs. Accepts Medicare, Medicaid, and private insurance.",
+    "address": "417 Franklin St S, Glenwood, MN 56334",
+    "phone": "(320) 634-4521",
+    "url": "https://glacialridge.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "56334"
+  },
+  {
+    "name": "Hearts and Hands Food Shelf of Pope County",
+    "description": "Food shelf serving residents of Pope County and surrounding areas, providing free groceries to individuals and families in need. Open Monday, Wednesday, and the last Tuesday of each month.",
+    "address": "206 6th Ave NW, Glenwood, MN 56334",
+    "phone": "(320) 634-3408",
+    "url": "https://www.northcountryfoodbank.org/agency/pope-co-hearts-hands/",
+    "categorySlug": "food",
+    "zipCode": "56334"
+  },
+  {
+    "name": "Western Prairie Human Services",
+    "description": "Multi-county human services agency providing mental health services, chemical dependency treatment, and support for adults and children in Pope County and surrounding communities.",
+    "address": "211 E Minnesota Ave, Suite 200, Glenwood, MN 56334",
+    "phone": "(320) 634-7755",
+    "url": "https://www.wphsmn.gov/",
+    "categorySlug": "community",
+    "zipCode": "56334"
+  },
+  {
+    "name": "Higher Ground Saint Paul Shelter",
+    "description": "Catholic Charities emergency shelter for adults experiencing homelessness in Saint Paul, providing overnight lodging, meals, mental health services, medical care, showers, and case management to help guests find stable housing.",
+    "address": "435 Dorothy Day Place, Saint Paul, MN 55102",
+    "phone": "(651) 647-2350",
+    "url": "https://cctwincities.org/services-and-locations/adult-emergency-shelters/higher-ground-saint-paul-shelter/",
+    "categorySlug": "housing",
+    "zipCode": "55102"
+  },
+  {
+    "name": "Keystone Community Services",
+    "description": "Ramsey County's largest food shelf network, serving 35,000+ people annually through the Community Food Center, Foodmobile, and mobile food distribution. Also provides senior services and basic needs support for Midway and North End St. Paul neighborhoods.",
+    "address": "1916 University Ave W, Saint Paul, MN 55104",
+    "phone": "(651) 917-3792",
+    "url": "https://keystoneservices.org/",
+    "categorySlug": "food",
+    "zipCode": "55104"
+  },
+  {
+    "name": "Ramsey County Health and Human Services",
+    "description": "County agency providing financial assistance, food support, child care, health care, and housing programs for low-income Ramsey County residents. Operates 24/7 information line in English, Spanish, Hmong, and Somali.",
+    "address": "160 E Kellogg Blvd, Saint Paul, MN 55101",
+    "phone": "(651) 266-4444",
+    "url": "https://www.ramseycountymn.gov/your-government/departments/social-services",
+    "categorySlug": "community",
+    "zipCode": "55101"
+  },
+  {
+    "name": "Redwood Area Food Shelf",
+    "description": "Food shelf serving residents of Redwood Falls and surrounding Redwood County communities including Morton, Franklin, Delhi, Belview, and Echo. Open Tuesday and Thursday mornings.",
+    "address": "500 E Bridge St, Ste 5, Redwood Falls, MN 56283",
+    "phone": "(507) 627-3653",
+    "url": "https://www.hungersolutions.org/resource/redwood-area-food-shelf/",
+    "categorySlug": "food",
+    "zipCode": "56283"
+  },
+  {
+    "name": "Southwest Health and Human Services – Redwood County",
+    "description": "Multi-county public agency providing child welfare, financial assistance, child support, social services, and public health programs to residents of Redwood County and five surrounding counties.",
+    "address": "266 E Bridge St, Redwood Falls, MN 56283",
+    "phone": "(507) 637-4060",
+    "url": "https://swmhhs.com/",
+    "categorySlug": "community",
+    "zipCode": "56283"
+  },
+  {
+    "name": "United Community Action Partnership – Redwood Falls",
+    "description": "Community action agency providing homeless prevention assistance, housing stability support, and energy assistance programs to low-income residents of Redwood County and surrounding southwest Minnesota counties.",
+    "address": "164 E 2nd St, Redwood Falls, MN 56283",
+    "phone": "(507) 637-2187",
+    "url": "https://www.unitedcapmn.org/redwood-county/",
+    "categorySlug": "housing",
+    "zipCode": "56283"
+  },
+  {
+    "name": "Cansayapi Food Pantry – Lower Sioux",
+    "description": "Food pantry operated by Lower Sioux Health and Human Services serving the Lower Sioux Indian Community and residents in the Morton area of Renville County.",
+    "address": "39512 Reservation Hwy 1, Morton, MN 56270",
+    "phone": "(507) 430-5746",
+    "url": "https://lowersiouxhhs.org/cansayapi-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "56270"
+  },
+  {
+    "name": "Lower Sioux Health Care Center",
+    "description": "Tribal health clinic offering primary care, dental, community health, nutrition, and telehealth services. Open to Lower Sioux Community members, American Indian/Alaska Natives within a ten-mile radius, and the general public for dental and optical services.",
+    "address": "39648 Reservation Hwy 3, Morton, MN 56270",
+    "phone": "(507) 697-8600",
+    "url": "https://lowersiouxhhs.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "56270"
+  },
+  {
+    "name": "Renville County Food Shelf",
+    "description": "Food pantry serving low-income families, single parents, seniors, veterans, and anyone in need in Renville County. Open Monday, Wednesday, Thursday, and Friday with daytime and evening hours.",
+    "address": "108 9th St S, Olivia, MN 56277",
+    "phone": "(320) 523-5339",
+    "url": "https://www.renvillecountymn.gov/public-health/food-shelf/",
+    "categorySlug": "food",
+    "zipCode": "56277"
+  },
+  {
+    "name": "Rock County Food Shelf",
+    "description": "Food pantry serving Luverne and all of Rock County including Kenneth, Beaver Creek, Hardwick, Hills, Jasper, Magnolia, and Steen. Open Thursdays with monthly visit allowance and exceptions for emergencies.",
+    "address": "208 W Maple St, Luverne, MN 56156",
+    "phone": "(507) 227-5548",
+    "url": "https://oyh.org/resources/rock-county-food-shelf/",
+    "categorySlug": "food",
+    "zipCode": "56156"
+  },
+  {
+    "name": "Southwest Health and Human Services – Rock County",
+    "description": "County human services office providing SNAP food assistance, financial assistance, child welfare services, and public health programs to Rock County residents including those in Kenneth and Luverne.",
+    "address": "204 E Brown St, Luverne, MN 56156",
+    "phone": "(507) 283-5070",
+    "url": "https://swmhhs.com/locations/rock-county/",
+    "categorySlug": "community",
+    "zipCode": "56156"
+  },
+  {
+    "name": "Southwest Minnesota Housing Partnership – Rock County",
+    "description": "Nonprofit providing housing assistance, foreclosure counseling, rental assistance, and housing resource navigation for low-income residents of Rock County and surrounding southwest Minnesota communities.",
+    "address": "208 W Maple St, Luverne, MN 56156",
+    "phone": "(507) 836-8566",
+    "url": "https://www.swmhp.org/housing-help/rock-county/",
+    "categorySlug": "housing",
+    "zipCode": "56156"
+  },
+  {
+    "name": "Bridgewood Church Food Pantry",
+    "description": "Free community food pantry in Savage with an outdoor Little Free Pantry stocked with non-perishable food items, baby items, and toiletries available at any time with no appointment required.",
+    "address": "6201 W 135th St, Savage, MN 55378",
+    "phone": "(952) 226-4800",
+    "url": "https://www.bridgewoodchurch.com/",
+    "categorySlug": "food",
+    "zipCode": "55378"
+  },
+  {
+    "name": "Community Action Partnership of Scott, Carver & Dakota Counties (CAP)",
+    "description": "Community action agency serving Scott County with a food shelf, housing assistance, and programs to help families achieve self-sufficiency. The Scott County office serves Savage, Prior Lake, Shakopee, and surrounding communities.",
+    "address": "738 1st Ave E, Shakopee, MN 55379",
+    "phone": "(952) 496-2125",
+    "url": "https://capagency.org/",
+    "categorySlug": "food",
+    "zipCode": "55379"
+  },
+  {
+    "name": "Scott County Community Development Agency (CDA)",
+    "description": "Public agency providing affordable housing programs including Section 8 housing choice vouchers, affordable rental units, and homeless prevention services for low-income individuals and families in Scott County.",
+    "address": "323 Naumkeag St S, Shakopee, MN 55379",
+    "phone": "(952) 402-9022",
+    "url": "https://scottcda.org/",
+    "categorySlug": "housing",
+    "zipCode": "55379"
+  },
+  {
+    "name": "Minnesota Valley Action Council – Sibley County",
+    "description": "Community action agency providing homeless prevention and housing stability assistance, energy assistance, and emergency services for low-income residents of Sibley County including Henderson and Gaylord.",
+    "address": "110 6th St, Gaylord, MN 55334",
+    "phone": "(507) 237-2981",
+    "url": "https://www.mnvac.org/",
+    "categorySlug": "housing",
+    "zipCode": "55334"
+  },
+  {
+    "name": "Sibley County FoodShare",
+    "description": "Food shelf serving Sibley County residents including Henderson and surrounding communities. Open Monday evenings, Wednesday afternoons, and the first and third Friday mornings. Same-day registration accepted.",
+    "address": "111 Industrial Ave S, Gaylord, MN 55334",
+    "phone": "(507) 237-5253",
+    "url": "https://www.sibleycountyfoodshare.org/",
+    "categorySlug": "food",
+    "zipCode": "55334"
+  },
+  {
+    "name": "Sibley County Public Health & Human Services",
+    "description": "County agency providing financial assistance programs, social services, child and adult protection, mental health services, and disability services to residents of Sibley County.",
+    "address": "111 8th St, Gaylord, MN 55334",
+    "phone": "(507) 237-4000",
+    "url": "https://www.sibleycounty.gov/330/Public-Health-Human-Services",
+    "categorySlug": "community",
+    "zipCode": "55334"
+  },
+  {
+    "name": "Ely Area Food Shelf",
+    "description": "Food shelf providing emergency and supplemental food assistance to residents of Ely and surrounding communities in St. Louis County who have exhausted other options to alleviate hunger.",
+    "address": "15 W Conan St, Ely, MN 55731",
+    "phone": "(218) 235-8527",
+    "url": "https://elyareafoodshelf.org/",
+    "categorySlug": "food",
+    "zipCode": "55731"
+  },
+  {
+    "name": "Ely Community Resource",
+    "description": "Nonprofit community resource center in Ely connecting residents with local social services, emergency assistance, and support programs across St. Louis County.",
+    "address": "103 E Chapman St, Ely, MN 55731",
+    "phone": "",
+    "url": "https://sites.google.com/elycommunityresource.org/ecr",
+    "categorySlug": "community",
+    "zipCode": "55731"
+  },
+  {
+    "name": "Ely-Bloomenson Community Hospital",
+    "description": "Community hospital serving Ely and the surrounding Iron Range area since 1958, providing emergency care, inpatient services, primary care, specialty clinics, and community health programs.",
+    "address": "328 W Conan St, Ely, MN 55731",
+    "phone": "(218) 365-3271",
+    "url": "https://www.ebch.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "55731"
+  },
+  {
+    "name": "Hibbing Area Food Shelf",
+    "description": "Food shelf serving Hibbing and surrounding Iron Range communities with free groceries for individuals and families in need. Open Monday, Tuesday, and Wednesday with morning and afternoon hours.",
+    "address": "1910 1st Ave, Hibbing, MN 55746",
+    "phone": "(218) 262-1729",
+    "url": "https://www.foodpantries.org/ci/mn-hibbing",
+    "categorySlug": "food",
+    "zipCode": "55746"
+  },
+  {
+    "name": "Salvation Army – Hibbing Food Shelf",
+    "description": "Salvation Army food shelf providing free groceries to individuals and families in Hibbing and surrounding St. Louis County communities including Chisholm, Buhl, and Side Lake. Appointment preferred.",
+    "address": "107 W Howard St, Hibbing, MN 55746",
+    "phone": "(218) 263-5096",
+    "url": "https://centralusa.salvationarmy.org/northern/Hibbing/cure-hunger/",
+    "categorySlug": "food",
+    "zipCode": "55746"
+  },
+  {
+    "name": "St. Louis County Service Center – Ely",
+    "description": "County human services office providing financial assistance, adult and children's services, disability services, elderly care, and public health programs to residents of the Ely area of St. Louis County.",
+    "address": "320 Miners Dr E, Ely, MN 55731",
+    "phone": "(218) 365-8220",
+    "url": "https://www.stlouiscountymn.gov/departments-a-z/public-health-human-services",
+    "categorySlug": "community",
+    "zipCode": "55731"
+  },
+  {
+    "name": "Catholic Charities of St. Cloud",
+    "description": "Catholic Charities operates a food shelf and social services for residents across sixteen central Minnesota counties, including Benton County, offering emergency food assistance and case management.",
+    "address": "157 Roosevelt Rd, St. Cloud, MN 56301",
+    "phone": "(320) 229-4560",
+    "url": "https://www.ccstcloud.org/",
+    "categorySlug": "community",
+    "zipCode": "56301"
+  },
+  {
+    "name": "Eden Valley Area Food Shelf",
+    "description": "Food shelf serving residents of Stearns and Meeker counties from the Eden Valley area. Open the first and third Wednesday of each month in the afternoon. Requires household name and address to register.",
+    "address": "556 Brooks St N, Eden Valley, MN 55329",
+    "phone": "(320) 453-3700",
+    "url": "https://mn.gov/adresources/search/e9fa8e07-99cd-5fd0-8a82-e4bb910ae84b/",
+    "categorySlug": "food",
+    "zipCode": "55329"
+  },
+  {
+    "name": "Servant's Heart Food Pantry – Faith Evangelical Church",
+    "description": "Faith-based food pantry in Melrose serving residents of western Stearns County including New Munich. Also hosts a free community dinner on the third Friday of the month from September through June.",
+    "address": "200 Franklin St, Melrose, MN 56352",
+    "phone": "",
+    "url": "https://www.stearnscountymn.gov/1064/Food-Support",
+    "categorySlug": "food",
+    "zipCode": "56352"
+  },
+  {
+    "name": "Stearns County Human Services",
+    "description": "County agency providing SNAP food assistance, financial assistance, child care support, mental health services, and social programs to residents of Stearns County including Eden Valley and surrounding areas.",
+    "address": "705 Courthouse Sq, St. Cloud, MN 56303",
+    "phone": "(320) 656-6000",
+    "url": "https://www.stearnscountymn.gov/1479/Human-Services",
+    "categorySlug": "community",
+    "zipCode": "56303"
+  },
+  {
+    "name": "Stevens Community Medical Center",
+    "description": "Regional hospital and clinic system serving Morris and Stevens County with primary care, emergency services, specialty care, and community health programs. Accepts Medicare, Medicaid, and private insurance.",
+    "address": "400 E 1st St, Morris, MN 56267",
+    "phone": "(320) 589-1313",
+    "url": "https://www.scmcinc.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "56267"
+  },
+  {
+    "name": "Stevens County Food Shelf",
+    "description": "Food shelf established in 1986 serving low-income residents of Stevens County and surrounding areas with emergency and supplemental food. Open five days a week with morning and evening hours.",
+    "address": "701 Iowa Ave, Morris, MN 56267",
+    "phone": "(320) 589-7436",
+    "url": "https://www.foodshelfstevenscounty.com/",
+    "categorySlug": "food",
+    "zipCode": "56267"
+  },
+  {
+    "name": "Stevens County Human Services",
+    "description": "County agency providing child and adult protection, mental health, foster care, developmental disability services, substance use disorder treatment, and senior services to Stevens County residents.",
+    "address": "400 Colorado Ave, Morris, MN 56267",
+    "phone": "(320) 208-6600",
+    "url": "https://www.co.stevens.mn.us/886/Human-Services",
+    "categorySlug": "community",
+    "zipCode": "56267"
+  },
+  {
+    "name": "Bertha-Hewitt Food Shelf",
+    "description": "Local food shelf serving Bertha and Hewitt residents of Todd County, operated at New Life Church of God. Provides emergency food assistance to individuals and families in the Bertha area.",
+    "address": "401 Main St W, Bertha, MN 56437",
+    "phone": "(218) 924-2085",
+    "url": "https://hometownnews.biz/todd-county-community-wellbeing-resources-food-shelves/",
+    "categorySlug": "food",
+    "zipCode": "56437"
+  },
+  {
+    "name": "CentraCare Health – Long Prairie Clinic",
+    "description": "Primary care and rehabilitation clinic serving Todd County residents with physical therapy, occupational therapy, speech therapy, and general medical care.",
+    "address": "50 CentraCare Dr, Long Prairie, MN 56347",
+    "phone": "(320) 732-2131",
+    "url": "https://www.centracare.com/",
+    "categorySlug": "healthcare",
+    "zipCode": "56347"
+  },
+  {
+    "name": "Long Prairie Emergency Food Pantry",
+    "description": "Food pantry serving Todd County residents with free groceries distributed Wednesday and Friday mornings. Clients register once per year and may pick up food monthly or on an emergency basis.",
+    "address": "127 Central Ave, Long Prairie, MN 56347",
+    "phone": "(320) 732-0979",
+    "url": "https://minnesotafoodbanks.org/food-bank/long-prairie-emergency-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "56347"
+  },
+  {
+    "name": "Todd County Health and Human Services",
+    "description": "County agency offering financial assistance, adult and children's mental health services, chemical dependency treatment, and community health programs for all Todd County residents.",
+    "address": "212 2nd Ave S, Long Prairie, MN 56347",
+    "phone": "(320) 732-4500",
+    "url": "https://www.toddcountymn.gov/government/departments/health_and_human_services/index.php",
+    "categorySlug": "community",
+    "zipCode": "56347"
+  },
+  {
+    "name": "Wabasha Area Food Share",
+    "description": "Food pantry serving Wabasha, Kellogg, and all Wabasha County residents with fresh produce, dairy, frozen meat, and non-perishable foods in a store-like setting. Open Tuesdays and Thursdays; all Minnesota residents welcome.",
+    "address": "611 Broadway Ave, Wabasha, MN 55981",
+    "phone": "(651) 565-5667",
+    "url": "https://wabashafood.com/",
+    "categorySlug": "food",
+    "zipCode": "55981"
+  },
+  {
+    "name": "Wabasha County Social Services",
+    "description": "County human services agency administering SNAP food assistance, financial assistance programs, child and adult protection services, and housing support for Wabasha County residents.",
+    "address": "625 Jefferson Ave, Wabasha, MN 55981",
+    "phone": "(651) 565-3351",
+    "url": "https://www.co.wabasha.mn.us/departments/social_services/index.php",
+    "categorySlug": "community",
+    "zipCode": "55981"
+  },
+  {
+    "name": "Hugo Good Neighbors Food Shelf",
+    "description": "Food shelf serving all residents of zip code 55038, including Hugo, Centerville, and portions of Lino Lakes and White Bear Lake. Open Monday, Tuesday, Thursday, and Friday with daytime and evening hours.",
+    "address": "15106 Francesca Ave N, Hugo, MN 55038",
+    "phone": "(651) 528-6224",
+    "url": "https://www.hugofoodshelf.org/",
+    "categorySlug": "food",
+    "zipCode": "55038"
+  },
+  {
+    "name": "Washington County Community Services",
+    "description": "County agency providing financial assistance, housing support, child care assistance, mental health services, and social programs to low-income residents of Washington County including the Centerville and Forest Lake areas.",
+    "address": "14900 61st St N, Stillwater, MN 55082",
+    "phone": "(651) 430-6455",
+    "url": "https://www.co.washington.mn.us/2082/Community-Services",
+    "categorySlug": "community",
+    "zipCode": "55038"
+  },
+  {
+    "name": "Watonwan County Food Shelf",
+    "description": "Food shelf serving all Watonwan County residents including Lewisville with free groceries every Wednesday and the second and fourth Thursday of the month. Spanish interpreter available during open hours.",
+    "address": "113 7th St S, St. James, MN 56081",
+    "phone": "(507) 621-4264",
+    "url": "https://sites.google.com/wcfoodshelf.org/wcfoodshelf/home",
+    "categorySlug": "food",
+    "zipCode": "56081"
+  },
+  {
+    "name": "Watonwan County Human Services",
+    "description": "County agency providing public health, financial assistance, child and adult services, and maternal and child health programs to residents of Watonwan County including Lewisville and St. James.",
+    "address": "715 2nd Ave S, St. James, MN 56081",
+    "phone": "(507) 375-3294",
+    "url": "https://www.co.watonwan.mn.us/154/Human-Service",
+    "categorySlug": "community",
+    "zipCode": "56081"
+  },
+  {
+    "name": "Winona County Health and Human Services",
+    "description": "County agency providing financial assistance, child and adult protection, mental health services, public health programs, and community health resources to Winona County residents including Minnesota City.",
+    "address": "202 W 3rd St, Winona, MN 55987",
+    "phone": "(507) 457-6200",
+    "url": "https://www.winonacounty.gov/217/Health-Human-Services",
+    "categorySlug": "community",
+    "zipCode": "55987"
+  },
+  {
+    "name": "Winona Health",
+    "description": "Community hospital system serving Winona County with a 49-bed acute care hospital, primary care and specialty clinics, mental health services, long-term care, home health, and rehabilitation services.",
+    "address": "855 Mankato Ave, Winona, MN 55987",
+    "phone": "(507) 454-3650",
+    "url": "https://www.winonahealth.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "55987"
+  },
+  {
+    "name": "Winona Volunteer Services Food Shelf",
+    "description": "Nonprofit food shelf serving Winona County residents five days a week. Also coordinates home-delivered meals and operates a used clothing store. Clients may visit as needed throughout the year.",
+    "address": "402 E 2nd St, Winona, MN 55987",
+    "phone": "(507) 452-5591",
+    "url": "https://www.winonavs.org/food-shelf/",
+    "categorySlug": "food",
+    "zipCode": "55987"
+  },
+  {
+    "name": "Monticello Help Center",
+    "description": "Food shelf and clothing resource center serving Wright County residents with free pre-packaged food distribution, client-choice shopping nights, and a summer Kid's Kitchen program for children.",
+    "address": "224 W 3rd St, Monticello, MN 55362",
+    "phone": "(763) 295-4031",
+    "url": "https://www.monticellohelpcenter.org/",
+    "categorySlug": "food",
+    "zipCode": "55362"
+  },
+  {
+    "name": "Wright County Community Action (WCCA)",
+    "description": "Community action agency providing transitional housing, rapid rehousing, housing stability programs, and WIC for low-income families and individuals experiencing homelessness in Wright County.",
+    "address": "130 W Division St, Maple Lake, MN 55358",
+    "phone": "(320) 963-6500",
+    "url": "https://wccaweb.com/",
+    "categorySlug": "housing",
+    "zipCode": "55358"
+  },
+  {
+    "name": "Wright County Human Services",
+    "description": "County agency providing SNAP food assistance, financial assistance, child welfare, adult mental health, chemical dependency services, and disability programs to all Wright County residents.",
+    "address": "10 2nd St NW, Buffalo, MN 55313",
+    "phone": "(763) 682-7400",
+    "url": "https://www.co.wright.mn.us/224/Programs-Offered",
+    "categorySlug": "community",
+    "zipCode": "55313"
+  }
+]

@@ -1,0 +1,3476 @@
+[
+  {
+    "name": "SAFE Alamance - Choice Food Pantry",
+    "description": "SAFE Alamance operates three choice food pantries in Alamance County set up like small grocery stores so clients can choose food based on their needs. Serves Burlington, Graham, and surrounding communities by appointment.",
+    "address": "Burlington, NC 27217",
+    "phone": null,
+    "url": "https://www.safealamance.org/choicefoodpantries",
+    "categorySlug": "food",
+    "zipCode": "27217"
+  },
+  {
+    "name": "The Salvation Army of Alamance County - Food Pantry",
+    "description": "Provides a food pantry to help struggling individuals and families supplement their groceries, distributed Monday, Wednesday, and Friday from 1:00 PM to 3:30 PM.",
+    "address": "812 North Anthony Street, Burlington, NC 27217",
+    "phone": null,
+    "url": "https://southernusa.salvationarmy.org/alamance/hunger/",
+    "categorySlug": "food",
+    "zipCode": "27217"
+  },
+  {
+    "name": "Allied Churches of Alamance County",
+    "description": "Provides emergency services including an emergency shelter, resource day center, community kitchen, and food pantry to help individuals move toward self-sufficiency. Serves lunch and dinner in carry-out trays.",
+    "address": "206 N Fisher St, Burlington, NC 27217",
+    "phone": "(336) 229-0881",
+    "url": "https://food-banks.org/detail/allied_churches_of_alamance_county_burlington_nc.html",
+    "categorySlug": "crisis",
+    "zipCode": "27217"
+  },
+  {
+    "name": "DreamAlign Ministries Food Pantry",
+    "description": "Offers emergency food assistance and a monthly food assistance program in Graham. Open Monday 10am\u201312pm and 7pm\u20139pm, and Friday 10am\u20132pm.",
+    "address": "124 East Pine Street, Graham, NC 27253",
+    "phone": null,
+    "url": "https://www.foodpantries.org/co/nc-alamance",
+    "categorySlug": "food",
+    "zipCode": "27253"
+  },
+  {
+    "name": "Mustard Seed Food Pantry",
+    "description": "Community food pantry in Graham providing food assistance to Alamance County residents. Open Monday and Tuesday 10am\u20131pm.",
+    "address": "224 N Main St, Graham, NC 27253",
+    "phone": null,
+    "url": "https://www.foodpantries.org/ci/nc-alamance",
+    "categorySlug": "food",
+    "zipCode": "27253"
+  },
+  {
+    "name": "Breakthrough Community Church Food Pantry",
+    "description": "Church-based food pantry serving Mebane and Alamance County residents. Open Tuesday and Saturday 9am\u201310:30am.",
+    "address": "703 S Third Street, Mebane, NC 27302",
+    "phone": null,
+    "url": "https://www.foodpantries.org/ci/nc-burlington",
+    "categorySlug": "food",
+    "zipCode": "27302"
+  },
+  {
+    "name": "Christian Crisis Center Food Pantry",
+    "description": "Provides quality food items to households experiencing food insecurity in Alexander County. Open Monday\u2013Friday 9:00 AM\u201312:00 PM.",
+    "address": "215 5th Ave SW, Taylorsville, NC 28681",
+    "phone": "(828) 632-0022",
+    "url": "https://www.findhelp.org/christian-crisis-center--township-of-taylorsville-nc--food-pantry/5069114757480448?postal=28681",
+    "categorySlug": "food",
+    "zipCode": "28681"
+  },
+  {
+    "name": "The Salvation Army - Taylorsville Food Pantry",
+    "description": "Offers limited food supplies to those in need in Taylorsville and Alexander County. Open Wednesdays 9:00 AM\u201312:00 PM; call ahead as supplies are limited.",
+    "address": "226 West Gate Drive, Taylorsville, NC 28681",
+    "phone": "(828) 322-8061",
+    "url": "https://northcarolinafoodbanks.org/food-bank/the-salvation-army-taylorsville/",
+    "categorySlug": "food",
+    "zipCode": "28681"
+  },
+  {
+    "name": "Solid Rock Food Closet - Alleghany County Ministerium",
+    "description": "Provides food assistance to low-income individuals and families in Alleghany County. Located at 71 Womble Street across from Alleghany CARES.",
+    "address": "71 Womble Street, Sparta, NC 28675",
+    "phone": null,
+    "url": "https://benefitsexplorer.com/food-pantry/north-carolina/alleghany/64536/alleghany-county-ministerium-solid-rock-food-closet",
+    "categorySlug": "food",
+    "zipCode": "28675"
+  },
+  {
+    "name": "Alleghany CARES, Inc.",
+    "description": "Nonprofit providing utility assistance, one-time prescription help, and winter crisis fuel assistance for families and individuals struggling with financial emergencies in Alleghany County.",
+    "address": "Sparta, NC 28675",
+    "phone": "336-372-5959",
+    "url": "https://www.alleghanycares.com/",
+    "categorySlug": "utilities",
+    "zipCode": "28675"
+  },
+  {
+    "name": "Alleghany County Department of Social Services",
+    "description": "County DSS office administering Food and Nutrition Services, crisis assistance for heating and cooling, and other state benefit programs for eligible Alleghany County residents.",
+    "address": "182 Doctors St., Sparta, NC 28675",
+    "phone": "336-372-2411",
+    "url": "https://alleghanycounty-nc.gov/index.php/social-services/",
+    "categorySlug": "community",
+    "zipCode": "28675"
+  },
+  {
+    "name": "DANA Services of North Carolina",
+    "description": "Domestic Abuse is Not Acceptable (DANA) provides crisis intervention, safety planning, and community referrals for domestic violence survivors in Alleghany and surrounding counties.",
+    "address": "Sparta, NC 28675",
+    "phone": null,
+    "url": "https://www.danaservices.org/resources.html",
+    "categorySlug": "crisis",
+    "zipCode": "28675"
+  },
+  {
+    "name": "Anson Crisis Ministry - Food Pantry",
+    "description": "Nonprofit dedicated to providing food, clothing, medical assistance, utility assistance, emergency shelter, and rental assistance to those in crisis in Anson County. Open Monday, Tuesday, Wednesday, and Friday 8:00 AM\u20131:00 PM.",
+    "address": "117 North Rutherford St., Wadesboro, NC 28170",
+    "phone": "(704) 694-2445",
+    "url": "https://northcarolinafoodbanks.org/food-bank/anson-crisis-ministry-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "28170"
+  },
+  {
+    "name": "Feed My Lambs, Inc.",
+    "description": "Nonprofit food service organization serving Anson County residents with food distribution and community nutrition programs.",
+    "address": "Wadesboro, NC 28170",
+    "phone": null,
+    "url": "https://www.feedmylambsnc.com/foodservices",
+    "categorySlug": "food",
+    "zipCode": "28170"
+  },
+  {
+    "name": "Ashe Food Pantry",
+    "description": "Leads the fight to end hunger in Ashe County by acquiring and distributing food to those who seek aid. Clients may visit once a month to receive a variety of healthy food choices.",
+    "address": "Jefferson, NC 28640",
+    "phone": null,
+    "url": "https://ashefoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "28640"
+  },
+  {
+    "name": "Ashe Outreach Ministries",
+    "description": "Provides critical food assistance to residents facing food insecurity in Ashe County, tackling food security with regular distributions.",
+    "address": "406 School Ave, West Jefferson, NC 28694",
+    "phone": null,
+    "url": "https://northcarolinafoodbanks.org/food-bank/ashe-outreach-ministries-school-ave/",
+    "categorySlug": "food",
+    "zipCode": "28694"
+  },
+  {
+    "name": "Ashe Really Cares",
+    "description": "Nonprofit providing free food, clothing, and essential items for low-income residents of Ashe County.",
+    "address": "204 Beaver Creek School Rd, West Jefferson, NC 28694",
+    "phone": null,
+    "url": "https://ashereallycares.com/services",
+    "categorySlug": "food",
+    "zipCode": "28694"
+  },
+  {
+    "name": "Compassionate Commissary",
+    "description": "Emergency food resource providing food and essential life items such as personal hygiene products and paper goods for Ashe County residents in crisis.",
+    "address": "West Jefferson, NC 28694",
+    "phone": "828-434-8888",
+    "url": "https://www.compassionatecommissary.org/",
+    "categorySlug": "food",
+    "zipCode": "28694"
+  },
+  {
+    "name": "Ashe County Sharing Center",
+    "description": "Food pantry and community resource center providing food assistance and other services to Ashe County residents in need.",
+    "address": "Jefferson, NC 28640",
+    "phone": null,
+    "url": "https://www.findhelp.org/ashe-county-sharing-center,-inc.--jefferson-nc--food-pantry/5368411702689792?postal=28694",
+    "categorySlug": "food",
+    "zipCode": "28640"
+  },
+  {
+    "name": "Ashe County Coalition for the Homeless",
+    "description": "501(c)(3) nonprofit coalition working to prevent and reduce homelessness in Ashe County through community collaboration.",
+    "address": "West Jefferson, NC 28694",
+    "phone": null,
+    "url": "https://www.facebook.com/AsheCoalition/",
+    "categorySlug": "housing",
+    "zipCode": "28694"
+  },
+  {
+    "name": "Feeding Avery Families",
+    "description": "Dedicated nonprofit food pantry addressing food insecurity across Avery County with client-choice shopping twice a month and monthly mobile distributions throughout the county.",
+    "address": "189 Old Vale Road, Newland, NC 28657",
+    "phone": "828-783-8506",
+    "url": "https://feedingaveryfamilies.org/",
+    "categorySlug": "food",
+    "zipCode": "28657"
+  },
+  {
+    "name": "Elk River Helping Hands",
+    "description": "Local 501(c)(3) charitable organization partnered with the Town of Banner Elk to provide community assistance and emergency resources to Avery County residents.",
+    "address": "Banner Elk, NC 28604",
+    "phone": null,
+    "url": "https://townofbannerelk.org/resource-center/",
+    "categorySlug": "community",
+    "zipCode": "28604"
+  },
+  {
+    "name": "Eagle's Wings Food Ministry",
+    "description": "Provides food distributions in Washington, Beaufort County. Distributions on Tuesdays 9:00\u201311:00 AM and 2:00\u20134:00 PM; also operates a mobile food pantry.",
+    "address": "932 W. 3rd Street, Washington, NC 27889",
+    "phone": "252-975-1138",
+    "url": "https://www.washingtonhousingauthority.org/beaufort-county-food-banks",
+    "categorySlug": "food",
+    "zipCode": "27889"
+  },
+  {
+    "name": "Mother of Mercy Catholic Church Food Pantry",
+    "description": "Church-run food pantry and meal program serving Washington and Beaufort County residents, including Christmas and Easter meals and other emergency assistance.",
+    "address": "112 West 9th Street, Washington, NC 27889",
+    "phone": "252-946-2941",
+    "url": "https://www.needhelppayingbills.com/html/beaufort_county_food_banks_and.html",
+    "categorySlug": "food",
+    "zipCode": "27889"
+  },
+  {
+    "name": "St. John's Disciples of Christ Food Pantry",
+    "description": "Provides up to 3 weeks of food assistance to residents of Beaufort County in Washington, NC.",
+    "address": "2283 St John Church Rd, Washington, NC 27889",
+    "phone": "252-975-3700",
+    "url": "https://www.needhelppayingbills.com/html/beaufort_county_food_banks_and.html",
+    "categorySlug": "food",
+    "zipCode": "27889"
+  },
+  {
+    "name": "Food Bank of the Albemarle",
+    "description": "Regional food bank partnering with more than 100 nonprofit organizations to help neighbors access free food across 15 counties in Northeast North Carolina including Beaufort County.",
+    "address": null,
+    "phone": "252-335-4035",
+    "url": "https://afoodbank.org/get-help/",
+    "categorySlug": "food",
+    "zipCode": "27889"
+  },
+  {
+    "name": "Belhaven Area Food Pantry",
+    "description": "Local food pantry serving Belhaven and surrounding Beaufort County communities with emergency food assistance for low-income residents.",
+    "address": "Belhaven, NC 27810",
+    "phone": null,
+    "url": "https://www.needhelppayingbills.com/html/beaufort_and_martin_county_food.html",
+    "categorySlug": "food",
+    "zipCode": "27810"
+  },
+  {
+    "name": "Good Shepherd Food Pantry of Bertie County",
+    "description": "Nonprofit collecting, storing, and distributing food to those in need throughout all 9 towns of Bertie County. Distributes every 2nd and 3rd Saturday 10am\u20131pm and the Wednesday/Thursday between those Saturdays 11am\u20132pm.",
+    "address": "819 Governors Road, Windsor, NC 27983",
+    "phone": "252-794-1095",
+    "url": "https://goodshepherdfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "27983"
+  },
+  {
+    "name": "Food Bank of the Albemarle - Bertie County",
+    "description": "Regional food bank serving Bertie County through partner agencies, distributing canned goods, groceries, baby formula, and surplus government commodities to churches and pantries across the region.",
+    "address": null,
+    "phone": "252-335-4035",
+    "url": "https://afoodbank.org/get-help/",
+    "categorySlug": "food",
+    "zipCode": "27983"
+  },
+  {
+    "name": "Bladen Crisis Assistance",
+    "description": "Provides food and housing help in association with social services in Elizabethtown. Open Thursdays \u2014 seniors (62+) on 1st and 3rd Thursday 9:30 AM\u201312:30 PM, all others on 2nd and 4th Thursday 9:30 AM\u201312:30 PM.",
+    "address": "208 Morehead St., Elizabethtown, NC 28337",
+    "phone": "(910) 879-1032",
+    "url": "https://www.foodpantries.org/ci/nc-elizabethtown",
+    "categorySlug": "food",
+    "zipCode": "28337"
+  },
+  {
+    "name": "First Baptist Church of Bladenboro Food Pantry",
+    "description": "Church-based food pantry serving Bladenboro and Bladen County residents. Open 9 AM\u201311 AM on the second Saturday of each month.",
+    "address": "500 S. Main St., Bladenboro, NC 28320",
+    "phone": "(910) 863-3618",
+    "url": "https://www.foodpantries.org/co/nc-bladen",
+    "categorySlug": "food",
+    "zipCode": "28320"
+  },
+  {
+    "name": "Bladen County Department of Social Services",
+    "description": "County agency coordinating federal food assistance, emergency shelter, and support services for vulnerable families in Bladen County. Open Monday\u2013Friday 8:30 AM\u20135:00 PM.",
+    "address": "208 East McKay Street, Elizabethtown, NC 28337",
+    "phone": null,
+    "url": "https://www.ncdhhs.gov/divisions/social-services/bladen-county-department-social-services",
+    "categorySlug": "community",
+    "zipCode": "28337"
+  },
+  {
+    "name": "Men and Women United for Youth and Families",
+    "description": "Nonprofit food pantry serving Riegelwood and Bladen County. Open noon to 2 PM on the second Tuesday of each month.",
+    "address": "1795 Woodyard Road, Riegelwood, NC 28456",
+    "phone": "(910) 655-3811",
+    "url": "https://recoverybladen.org/resources/food-and-nutrition/",
+    "categorySlug": "food",
+    "zipCode": "28332"
+  },
+  {
+    "name": "Brunswick Family Assistance - Leland Office",
+    "description": "Private nonprofit providing critical assistance to families and individuals in crisis in Brunswick County since 1981, including food pantry (once every 30 days) and support toward self-sufficiency.",
+    "address": "324-I Village Road NE, Leland, NC 28451",
+    "phone": "910-408-1700",
+    "url": "https://brunswickfamily.org/",
+    "categorySlug": "food",
+    "zipCode": "28451"
+  },
+  {
+    "name": "Brunswick Family Assistance - Bolivia",
+    "description": "Serves Brunswick County residents with food pantry access, providing a 3\u20134-day supply of groceries once every 30 days to individuals and families in need.",
+    "address": "Bolivia, NC 28422",
+    "phone": "910-754-4766",
+    "url": "https://brunswickfamily.org/",
+    "categorySlug": "food",
+    "zipCode": "28422"
+  },
+  {
+    "name": "First Baptist Church of Leland Food Pantry",
+    "description": "Church-run food pantry distributing food to needy families twice each month on the 1st and 3rd Saturdays.",
+    "address": "517 Village Road NE, Leland, NC 28451",
+    "phone": null,
+    "url": "https://www.findhelp.org/food/food-pantry--leland-nc",
+    "categorySlug": "food",
+    "zipCode": "28451"
+  },
+  {
+    "name": "Cornerstone Baptist Church - TEFAP Food Pantry",
+    "description": "Distributes TEFAP (emergency food assistance) commodities to Brunswick County residents on the Saturday following the 2nd Thursday 10 AM\u20132 PM and 4th Thursday 4 PM\u20137 PM.",
+    "address": "1638 Lanvale Road, Leland, NC 28451",
+    "phone": null,
+    "url": "https://www.findhelp.org/food/food-pantry--leland-nc",
+    "categorySlug": "food",
+    "zipCode": "28451"
+  },
+  {
+    "name": "Brunswick County Resource Directory",
+    "description": "Official Brunswick County directory listing nonprofit and social service organizations providing food, housing, healthcare, and other community resources to county residents.",
+    "address": "Bolivia, NC 28422",
+    "phone": null,
+    "url": "https://www.brunswickcountync.gov/BusinessDirectoryII.aspx?lngBusinessCategoryID=23",
+    "categorySlug": "community",
+    "zipCode": "28422"
+  },
+  {
+    "name": "PORCH Brunswick Forest Community",
+    "description": "Community volunteer organization providing food assistance and neighbor-to-neighbor support for residents in Brunswick County.",
+    "address": "Leland, NC 28451",
+    "phone": null,
+    "url": "https://porchcommunities.org/brunswick-forest",
+    "categorySlug": "food",
+    "zipCode": "28451"
+  },
+  {
+    "name": "ABCCM Crisis Ministry",
+    "description": "Asheville Buncombe Community Christian Ministry provides food boxes, gently used clothing, utility and rental assistance, and a soup kitchen at their Patton Ave location serving Buncombe County residents.",
+    "address": "1543 Patton Ave, Asheville, NC 28806",
+    "phone": null,
+    "url": "https://www.abccm.org/ministry-services/crisis/",
+    "categorySlug": "crisis",
+    "zipCode": "28806"
+  },
+  {
+    "name": "ABCCM Veterans Restoration Quarters",
+    "description": "Provides transitional housing alongside meals, case management, and education for men veterans in Buncombe County, promoting long-term success and stability.",
+    "address": "Asheville, NC 28801",
+    "phone": null,
+    "url": "https://www.abccm.org/ministry-services/crisis/",
+    "categorySlug": "housing",
+    "zipCode": "28801"
+  },
+  {
+    "name": "The Salvation Army of Asheville - Center of Hope",
+    "description": "Provides food pantry, clothing and furniture vouchers, emergency shelter, and other social services to individuals and families in Asheville and Buncombe County.",
+    "address": "204 Haywood St., Asheville, NC 28801",
+    "phone": "(828) 253-4723",
+    "url": "https://www.findhelp.org/salvation-army-of-asheville,-buncombe-county---center-of-hope--asheville-nc--food-pantry/5473091350953984?postal=28801",
+    "categorySlug": "food",
+    "zipCode": "28801"
+  },
+  {
+    "name": "BeLoved Asheville",
+    "description": "Local nonprofit providing street pantries throughout Asheville for food access, street medics for unhoused individuals, diapers, school supplies, baby formula, and other essential community resources.",
+    "address": "Asheville, NC 28801",
+    "phone": null,
+    "url": "https://www.findhelp.org/beloved-asheville--asheville-nc--street-pantries/4710967082745856?postal=28801",
+    "categorySlug": "food",
+    "zipCode": "28801"
+  },
+  {
+    "name": "MANNA FoodBank",
+    "description": "Regional food bank working to end hunger in Western North Carolina, distributing food through a network of partner agencies and pantries across Buncombe County and the WNC region.",
+    "address": "Asheville, NC 28806",
+    "phone": null,
+    "url": "https://mannafoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "28806"
+  },
+  {
+    "name": "Helpmate",
+    "description": "Provides shelter, food, case management, and support services for individuals fleeing domestic violence in Buncombe County.",
+    "address": "Asheville, NC 28801",
+    "phone": null,
+    "url": "https://www.buncombenc.gov/320/Homelessness-Resources",
+    "categorySlug": "crisis",
+    "zipCode": "28801"
+  },
+  {
+    "name": "ABCCM Transformation Village",
+    "description": "Provides transitional housing, meals, case management, and life skills education for women and children experiencing homelessness in Buncombe County.",
+    "address": "Asheville, NC 28803",
+    "phone": null,
+    "url": "https://www.abccm.org/ministry-services/crisis/",
+    "categorySlug": "housing",
+    "zipCode": "28803"
+  },
+  {
+    "name": "Code Purple Asheville",
+    "description": "Coordinated cold-weather emergency shelter response for unhoused individuals in Buncombe County and Asheville, expanding shelter capacity from November through April during extreme weather.",
+    "address": "Asheville, NC 28801",
+    "phone": null,
+    "url": "https://www.buncombenc.gov/320/Homelessness-Resources",
+    "categorySlug": "housing",
+    "zipCode": "28801"
+  },
+  {
+    "name": "Burke United Christian Ministries - Food Pantry & Soup Kitchen",
+    "description": "Restores resilience in people living in poverty in Burke County through a food pantry (Monday\u2013Friday 10am\u20132pm), soup kitchen (Monday\u2013Friday 11am\u201312:30pm, Saturday 9:30\u201311am), and crisis assistance including utility and rental payments.",
+    "address": "305 B W Union St, Morganton, NC 28655",
+    "phone": null,
+    "url": "https://www.bucm.net/",
+    "categorySlug": "food",
+    "zipCode": "28655"
+  },
+  {
+    "name": "Glen Alpine Food Pantry",
+    "description": "501(c)(3) nonprofit providing weekly food boxes to low-income Burke County families in the Glen Alpine area.",
+    "address": "Glen Alpine, NC 28628",
+    "phone": null,
+    "url": "https://morganton.com/news/local/grants-help-glen-alpine-food-pantry-provide-burke-county-nc-low-income-families-with-food/article_94fc7d1e-55be-11ef-b1a3-5f5a79d16fe8.html",
+    "categorySlug": "food",
+    "zipCode": "28619"
+  },
+  {
+    "name": "Cooperative Christian Ministry (CCM) - Cabarrus County",
+    "description": "Operates a drive-thru food pantry in Concord for Cabarrus County and Kannapolis residents. Open Monday\u2013Friday 10am\u20131pm and Thursday afternoons 4pm\u20136pm for working clients.",
+    "address": "246 Country Club Dr NE, Concord, NC 28025",
+    "phone": "704-786-4709",
+    "url": "https://cooperativeministry.com/need-assistance/food/",
+    "categorySlug": "food",
+    "zipCode": "28025"
+  },
+  {
+    "name": "The Salvation Army of Cabarrus County - Concord Corps",
+    "description": "Food pantry serving Cabarrus County and Kannapolis residents. Open Monday, Tuesday, and Wednesday; provides free food assistance to those in need.",
+    "address": "Concord, NC 28025",
+    "phone": null,
+    "url": "https://foodpantries.org/li/the-salvation-army-of-cabarrus-county",
+    "categorySlug": "food",
+    "zipCode": "28025"
+  },
+  {
+    "name": "Bethel Baptist Church Helping Hands Food Pantry",
+    "description": "Church-based food pantry in Kannapolis serving Cabarrus County residents every Monday and Thursday 9am\u20131pm.",
+    "address": "Kannapolis, NC 28081",
+    "phone": null,
+    "url": "https://www.needhelppayingbills.com/html/cabarrus_county_food_banks.html",
+    "categorySlug": "food",
+    "zipCode": "28081"
+  },
+  {
+    "name": "North Kannapolis Baptist Church Food Pantry",
+    "description": "Church food pantry providing food assistance to Kannapolis and Cabarrus County residents. Open Wednesdays 9am\u201311am.",
+    "address": "Kannapolis, NC 28081",
+    "phone": null,
+    "url": "https://www.needhelppayingbills.com/html/cabarrus_county_food_banks.html",
+    "categorySlug": "food",
+    "zipCode": "28081"
+  },
+  {
+    "name": "Westford Methodist Church Cupboard of Love Food Pantry",
+    "description": "Drive-thru food pantry in Concord serving Cabarrus County residents on Saturdays 9am\u201312pm.",
+    "address": "Concord, NC 28027",
+    "phone": null,
+    "url": "https://cooperativeministry.com/what-we-do/food-relief/",
+    "categorySlug": "food",
+    "zipCode": "28027"
+  },
+  {
+    "name": "Yokefellow of Caldwell County - Food Pantry",
+    "description": "Provides food assistance to households in Lenoir and Caldwell County. Food pantry located at headquarters, open Mondays, Tuesdays, Thursdays, and Fridays.",
+    "address": "202 Harper Ave, Lenoir, NC 28645",
+    "phone": null,
+    "url": "https://www.yokefellow.org/services-we-offer/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "28645"
+  },
+  {
+    "name": "Lenoir Soup Kitchen",
+    "description": "Serves hot meals to those in need in Caldwell County, Monday\u2013Friday 11am\u201312pm for lunch and Sundays 4pm\u20134:45pm for dinner.",
+    "address": "1113 College Avenue SW, Lenoir, NC 28645",
+    "phone": "828-758-1411",
+    "url": "https://www.caldwellcountync.org/DocumentCenter/View/2635/Caldwell-County-Food-Pantry-List",
+    "categorySlug": "food",
+    "zipCode": "28645"
+  },
+  {
+    "name": "Shelter Home of Caldwell County",
+    "description": "Provides emergency shelter and housing resources for individuals and families in crisis in Caldwell County.",
+    "address": "515 Scroggs St NW, Lenoir, NC 28645",
+    "phone": "828-758-0888",
+    "url": "https://www.caldwellcountync.org/DocumentCenter/View/2642/Food-Resources",
+    "categorySlug": "housing",
+    "zipCode": "28645"
+  },
+  {
+    "name": "Covenant Fellowship Food Pantry",
+    "description": "Community food pantry in Granite Falls serving Caldwell County residents. Open 1st and 3rd Tuesdays 5:00\u20136:30 PM.",
+    "address": "6062 Petra Mill Road, Granite Falls, NC 28630",
+    "phone": "(828) 396-9670",
+    "url": "https://www.foodpantries.org/ci/nc-lenoir",
+    "categorySlug": "food",
+    "zipCode": "28630"
+  },
+  {
+    "name": "South Caldwell Christian Ministries",
+    "description": "Food pantry serving Hudson, Granite Falls, and Lenoir areas of Caldwell County with emergency food assistance.",
+    "address": "Granite Falls, NC 28630",
+    "phone": null,
+    "url": "https://www.findhelp.org/south-caldwell-christian-ministries--granite-falls-nc--food-pantry/6271948994904064?postal=28633",
+    "categorySlug": "food",
+    "zipCode": "28630"
+  },
+  {
+    "name": "Martha's Mission Cupboard",
+    "description": "Provides nutritious food and hope to families in crisis in Morehead City and Carteret County. Open Monday, Wednesday, and Friday 10:30 AM\u20133:00 PM.",
+    "address": "901 Bay Street, Morehead City, NC 28557",
+    "phone": "252-726-1717",
+    "url": "https://marthasmission.com/",
+    "categorySlug": "food",
+    "zipCode": "28557"
+  },
+  {
+    "name": "The Storehouse Pantry",
+    "description": "Food pantry serving Morehead City and Carteret County residents. Open Monday\u2013Friday 10am\u20131pm.",
+    "address": "3114 Bridges Street, Morehead City, NC 28557",
+    "phone": "443-956-4633",
+    "url": "https://www.rise4me.com/resources/storehouse-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "28557"
+  },
+  {
+    "name": "Loaves and Fishes Food Pantry - Beaufort",
+    "description": "Food pantry serving Beaufort and Carteret County residents, open 10 AM\u20132 PM on the first four Mondays of each month.",
+    "address": "Beaufort Plaza Shopping Center, Beaufort, NC 28516",
+    "phone": "252-504-0123",
+    "url": "https://carteret.ces.ncsu.edu/2020/04/carteret-county-food-resources/",
+    "categorySlug": "food",
+    "zipCode": "28516"
+  },
+  {
+    "name": "Hope Mission Morehead City",
+    "description": "Provides daily meals to anyone in need in the Morehead City area. Open 11 AM\u201312:30 PM seven days a week.",
+    "address": "1410 Bridges St., Morehead City, NC 28557",
+    "phone": null,
+    "url": "https://www.carolinacoastonline.com/site/community_resources.html",
+    "categorySlug": "food",
+    "zipCode": "28557"
+  },
+  {
+    "name": "Martha's Mission Cupboard - Carteret County",
+    "description": "Nonprofit providing nutritious food and support to families in crisis across Carteret County including Swansboro, Newport, and Emerald Isle areas.",
+    "address": "901 Bay Street, Morehead City, NC 28557",
+    "phone": "252-726-1717",
+    "url": "https://marthasmission.com/",
+    "categorySlug": "food",
+    "zipCode": "28584"
+  },
+  {
+    "name": "Carteret Food and Health Council",
+    "description": "Collects surplus vegetables, unserved prepared food, and donated canned goods to distribute to food pantries and families across Carteret County including coastal communities.",
+    "address": null,
+    "phone": "919-219-9840",
+    "url": "https://carteret.ces.ncsu.edu/2020/04/carteret-county-food-resources/",
+    "categorySlug": "food",
+    "zipCode": "28570"
+  },
+  {
+    "name": "Food Bank of Central & Eastern NC - Carteret Distribution",
+    "description": "Regional food bank distributing food through a network of partner pantries and agencies serving Carteret County including Newport, Swansboro, and Emerald Isle.",
+    "address": null,
+    "phone": null,
+    "url": "https://foodbankcenc.org/",
+    "categorySlug": "food",
+    "zipCode": "28570"
+  },
+  {
+    "name": "Caswell County Parish, Inc.",
+    "description": "Primary emergency food pantry for Caswell County serving low-income households once a month. Open Tuesdays and Thursdays 9:30 AM\u20134:45 PM.",
+    "address": "1038 Main Street, Yanceyville, NC 27379",
+    "phone": "(336) 694-6428",
+    "url": "https://caswellcountyparish.org/services/",
+    "categorySlug": "food",
+    "zipCode": "27305"
+  },
+  {
+    "name": "County Outreach Ministry",
+    "description": "Provides food assistance to Caswell County residents on the 2nd Thursday of each month, 11am\u20131pm and 2pm\u20134pm.",
+    "address": "225 Third Street, Yanceyville, NC 27379",
+    "phone": "336-694-4224",
+    "url": "https://www.countyoutreachministry.org/",
+    "categorySlug": "food",
+    "zipCode": "27305"
+  },
+  {
+    "name": "Caswell County Local Foods",
+    "description": "Local food council offering a complimentary community lunch on the third Wednesday of each month using locally grown ingredients, and connecting residents to local food resources.",
+    "address": "158 E. Church Street, Yanceyville, NC 27379",
+    "phone": "336-694-4158",
+    "url": "https://caswelllocalfoods.org/",
+    "categorySlug": "food",
+    "zipCode": "27305"
+  },
+  {
+    "name": "High Street Baptist Church Food Bank",
+    "description": "Church-based food bank serving Caswell County residents with emergency food assistance in Yanceyville.",
+    "address": "Yanceyville, NC 27379",
+    "phone": null,
+    "url": "https://www.freefood.org/l/caswell-county-parish-inc",
+    "categorySlug": "food",
+    "zipCode": "27311"
+  },
+  {
+    "name": "Pelham Community Center Food Bank",
+    "description": "Community center-based food bank serving residents of the Pelham area of Caswell County with emergency food assistance.",
+    "address": "Pelham, NC 27311",
+    "phone": null,
+    "url": "https://www.ncworks.gov/admin/gsipub/htmlarea/uploads/CRAG/Caswell_County.pdf",
+    "categorySlug": "food",
+    "zipCode": "27311"
+  },
+  {
+    "name": "Christian Help Center of Person County",
+    "description": "Nonprofit providing food pantry, soup kitchen, clothing, toiletries, and emergency financial assistance to Person County residents in need.",
+    "address": "122 Depot St, Roxboro, NC 27573",
+    "phone": "(336) 599-6070",
+    "url": "https://www.christianhelpcenter.net/",
+    "categorySlug": "food",
+    "zipCode": "27573"
+  },
+  {
+    "name": "Safe Haven of Person County",
+    "description": "Provides emergency shelter, 24-hour hotline, crisis intervention, and advocacy for survivors of domestic violence, sexual assault, and human trafficking in Person County.",
+    "address": "29 Abbitt St, Roxboro, NC 27573",
+    "phone": "(336) 599-7233",
+    "url": "https://www.personcountysafehaven.org/",
+    "categorySlug": "crisis",
+    "zipCode": "27573"
+  },
+  {
+    "name": "Good Samaritan Food Pantry \u2013 Mt. Pisgah Lutheran Church",
+    "description": "Free food pantry serving low-income families, seniors, veterans, and anyone in need in the Hickory area.",
+    "address": "9379 NC Highway 127, Hickory, NC 28601",
+    "phone": "(828) 495-8251",
+    "url": "https://mtpisgahelca.org/ministries/good-samaritan-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "28601"
+  },
+  {
+    "name": "Family Care Center of Catawba Valley",
+    "description": "Emergency and residential housing program serving homeless families with dependent children; provides case management, employment assistance, and life-skills support.",
+    "address": "2875 Highland Ave NE, Hickory, NC 28601",
+    "phone": "(828) 324-9917",
+    "url": "https://www.familycare-center.org/",
+    "categorySlug": "housing",
+    "zipCode": "28601"
+  },
+  {
+    "name": "Hickory Soup Kitchen",
+    "description": "The only soup kitchen in Hickory; serves free hot meals Monday\u2013Friday, plus shower facilities, hygiene supplies, and take-home groceries for homeless individuals.",
+    "address": "110 2nd Street Pl SE, Hickory, NC 28602",
+    "phone": "(828) 327-4828",
+    "url": "https://hickorysoupkitchen.org/",
+    "categorySlug": "food",
+    "zipCode": "28602"
+  },
+  {
+    "name": "The HOPE Center (Hickory Soup Kitchen)",
+    "description": "Free resource center in Hickory offering job placement assistance and transportation services to individuals in need.",
+    "address": "110 2nd Street Pl SE, Hickory, NC 28602",
+    "phone": "(828) 327-4828",
+    "url": "https://www.hskhopecenter.org/",
+    "categorySlug": "employment",
+    "zipCode": "28602"
+  },
+  {
+    "name": "Burke United Christian Ministries",
+    "description": "Community nonprofit offering a food pantry, soup kitchen, hygiene assistance, showers, financial crisis aid, and homeless supplies to Burke County residents.",
+    "address": "305 W Union St, Morganton, NC 28655",
+    "phone": "(828) 433-8075",
+    "url": "https://www.bucm.net/",
+    "categorySlug": "food",
+    "zipCode": "28655"
+  },
+  {
+    "name": "Glen Alpine Food Pantry",
+    "description": "Provides food boxes to low-income and food-insecure families in Glen Alpine and western Burke County, operating out of Glen Alpine United Methodist Church.",
+    "address": "410 Linville St, Glen Alpine, NC 28628",
+    "phone": "(828) 391-9095",
+    "url": "https://www.facebook.com/glenalpinefoodpantry/",
+    "categorySlug": "food",
+    "zipCode": "28628"
+  },
+  {
+    "name": "CORA Food Pantry (Chatham Outreach Alliance)",
+    "description": "Free food pantry serving Chatham County residents with groceries and support. Locations in Pittsboro and Siler City.",
+    "address": "40 Camp Dr, Pittsboro, NC 27312",
+    "phone": "(919) 542-5020",
+    "url": "https://www.corafoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "27312"
+  },
+  {
+    "name": "West Chatham Food Pantry",
+    "description": "Nonprofit food pantry serving western Chatham County residents with food assistance multiple days per week.",
+    "address": "Siler City, NC 27344",
+    "phone": "",
+    "url": "https://www.facebook.com/WCFoodPantryNC/",
+    "categorySlug": "food",
+    "zipCode": "27344"
+  },
+  {
+    "name": "Cherokee County Food Bank",
+    "description": "Local food bank operated by the Andrews NC Lions Club, providing food for those in need in Cherokee County.",
+    "address": "122 Main St, Andrews, NC 28901",
+    "phone": "(828) 321-5512",
+    "url": "https://www.facebook.com/CherokeeCountyFoodBank/",
+    "categorySlug": "food",
+    "zipCode": "28901"
+  },
+  {
+    "name": "Cherokee County Sharing Center",
+    "description": "Food pantry located at First United Methodist Church of Murphy, providing food assistance on a regular schedule and for emergencies.",
+    "address": "73 Valley River Ave, Murphy, NC 28906",
+    "phone": "(828) 837-2718",
+    "url": "https://andrewsumc.org/community-needs-cherokee-county/",
+    "categorySlug": "food",
+    "zipCode": "28906"
+  },
+  {
+    "name": "Hurlburt-Johnson Friendship House",
+    "description": "Emergency shelter providing safe housing and support services to homeless families and individuals in Cherokee County and surrounding areas.",
+    "address": "73 Blumenthal St, Murphy, NC 28906",
+    "phone": "(828) 837-2654",
+    "url": "https://murphyshelter.org/",
+    "categorySlug": "housing",
+    "zipCode": "28906"
+  },
+  {
+    "name": "Clay County Food Pantry",
+    "description": "Nonprofit food pantry serving low-income families and individuals in Clay County since 1992, open every Friday.",
+    "address": "2278 Hinton Center Rd, Hayesville, NC 28904",
+    "phone": "(404) 580-3881",
+    "url": "https://www.claycountyfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "28904"
+  },
+  {
+    "name": "Feeding Kids Cleveland County",
+    "description": "Nonprofit fighting food insecurity by providing food bags, school break meals, and books to students and families in Cleveland County.",
+    "address": "405 W Marion St, Shelby, NC 28150",
+    "phone": "",
+    "url": "https://www.feedingkidscc.org/",
+    "categorySlug": "food",
+    "zipCode": "28150"
+  },
+  {
+    "name": "Cleveland County Abuse Prevention Council \u2013 The Lighthouse Shelter",
+    "description": "Emergency shelter and crisis services for women and children experiencing domestic violence or homelessness in Cleveland County.",
+    "address": "407 W Warren St, Shelby, NC 28150",
+    "phone": "(704) 481-0043",
+    "url": "https://www.domesticshelters.org/help/nc/shelby/28150/cleveland-county-abuse-prevention-council-inc",
+    "categorySlug": "crisis",
+    "zipCode": "28150"
+  },
+  {
+    "name": "Kings Mountain Crisis Ministry",
+    "description": "Provides food pantry, clothing, and financial assistance for rent, utilities, medicine, and fuel to residents of the Kings Mountain area.",
+    "address": "208 N Cleveland Ave, Kings Mountain, NC 28086",
+    "phone": "(704) 739-7256",
+    "url": "https://kmcrisisministry.org/",
+    "categorySlug": "food",
+    "zipCode": "28086"
+  },
+  {
+    "name": "Upper Cleveland Area Needs (U-CAN)",
+    "description": "Provides food pantry services and assistance with clothing, utilities, and household goods to upper Cleveland County residents.",
+    "address": "Lawndale, NC 28090",
+    "phone": "",
+    "url": "https://www.findhelp.org/upper-cleveland-area-needs-(u-can)--lawndale-nc--food-pantry/6349120512589824",
+    "categorySlug": "food",
+    "zipCode": "28090"
+  },
+  {
+    "name": "Harvest Table",
+    "description": "Food pantry serving Columbus County residents from Grace of God Holiness Ministries, open multiple days per week.",
+    "address": "213 E Columbus St, Whiteville, NC 28472",
+    "phone": "(910) 642-6654",
+    "url": "https://www.foodpantries.org/li/harvest_table_28472",
+    "categorySlug": "food",
+    "zipCode": "28472"
+  },
+  {
+    "name": "Families First \u2013 Domestic Violence Services",
+    "description": "Provides emergency shelter, crisis hotline, and support services to victims of domestic violence in Columbus County.",
+    "address": "Whiteville, NC 28472",
+    "phone": "(910) 641-0444",
+    "url": "https://www.familiesfirstnc.org/",
+    "categorySlug": "crisis",
+    "zipCode": "28472"
+  },
+  {
+    "name": "First Baptist Church of Bladenboro Food Pantry",
+    "description": "Monthly food pantry serving residents of Bladenboro and surrounding Columbus County communities on the second Saturday of each month.",
+    "address": "500 S Main St, Bladenboro, NC 28320",
+    "phone": "(910) 863-3618",
+    "url": "https://borderbelt.org/food-pantries-nc-border-belt/",
+    "categorySlug": "food",
+    "zipCode": "28320"
+  },
+  {
+    "name": "Men and Women United for Youth and Families",
+    "description": "Community nonprofit providing a monthly food pantry for residents of the Delco area in Columbus County.",
+    "address": "44 Dream Ave, Delco, NC 28436",
+    "phone": "(910) 655-3811",
+    "url": "https://borderbelt.org/food-pantries-nc-border-belt/",
+    "categorySlug": "food",
+    "zipCode": "28436"
+  },
+  {
+    "name": "Fayetteville Urban Ministry",
+    "description": "50+ year nonprofit serving Cumberland County with a food pantry, clothing closet, and financial assistance for rent, utilities, and critical needs.",
+    "address": "701 Whitfield St, Fayetteville, NC 28301",
+    "phone": "(910) 483-5944",
+    "url": "https://www.fayurbmin.org/",
+    "categorySlug": "food",
+    "zipCode": "28301"
+  },
+  {
+    "name": "Manna Dream Center",
+    "description": "Provides food pantry services, temporary housing for homeless men, and mentorship programs to Fayetteville area residents.",
+    "address": "336 Ray Ave, Fayetteville, NC 28301",
+    "phone": "(910) 568-3897",
+    "url": "https://mannadreamcenter.org/",
+    "categorySlug": "food",
+    "zipCode": "28301"
+  },
+  {
+    "name": "Catholic Charities Fayetteville Region",
+    "description": "Provides food pantry services and tangible assistance to alleviate food insecurity in Cumberland County.",
+    "address": "726 Ramsey St, Fayetteville, NC 28301",
+    "phone": "",
+    "url": "https://www.catholiccharitiesraleigh.org/",
+    "categorySlug": "food",
+    "zipCode": "28301"
+  },
+  {
+    "name": "Religious Community Services of New Bern",
+    "description": "Nonprofit providing food pantry, to-go hot meals, emergency shelter for single adults and families, clothing, and utility assistance in New Bern.",
+    "address": "919 George St, New Bern, NC 28560",
+    "phone": "(252) 633-2767",
+    "url": "https://www.rcsnewbern.com/",
+    "categorySlug": "food",
+    "zipCode": "28560"
+  },
+  {
+    "name": "Catholic Charities \u2013 New Bern Region",
+    "description": "Offers food pantry, utility assistance, housing assistance, and case management to residents of the New Bern area.",
+    "address": "1702 Red Robin Ln, New Bern, NC 28562",
+    "phone": "(252) 577-1912",
+    "url": "https://www.catholiccharitiesraleigh.org/locations/new-bern-region/",
+    "categorySlug": "food",
+    "zipCode": "28562"
+  },
+  {
+    "name": "Martha's Mission Cupboard",
+    "description": "Food pantry in Morehead City serving Carteret County residents with vouchers from DSS.",
+    "address": "901 Bay St, Morehead City, NC 28557",
+    "phone": "(252) 726-1717",
+    "url": "https://www.foodpantries.org/co/nc-carteret",
+    "categorySlug": "food",
+    "zipCode": "28557"
+  },
+  {
+    "name": "HELP of Beaufort",
+    "description": "Provides free food, clothing, short-term financial assistance, and mobile meals delivery to Beaufort County residents in need for over 50 years.",
+    "address": "Beaufort County, NC 27810",
+    "phone": "",
+    "url": "https://helpofbeaufort.org/",
+    "categorySlug": "food",
+    "zipCode": "27810"
+  },
+  {
+    "name": "Robeson County Church & Community Center",
+    "description": "Provides a free choice food pantry, emergency social assistance, utility and rental payment assistance, medicine aid, and household items to Robeson County residents.",
+    "address": "600 W 5th St, Lumberton, NC 28358",
+    "phone": "(910) 738-5204",
+    "url": "https://www.facebook.com/RobesonCenter/",
+    "categorySlug": "food",
+    "zipCode": "28358"
+  },
+  {
+    "name": "My Refuge",
+    "description": "Nonprofit offering daily meals, food pantry, temporary housing, and clothing to individuals and families in Lumberton and Robeson County.",
+    "address": "2020 W 5th St, Lumberton, NC 28358",
+    "phone": "(910) 618-5600",
+    "url": "http://www.myrefugelumberton.org/",
+    "categorySlug": "food",
+    "zipCode": "28358"
+  },
+  {
+    "name": "Southeastern Family Violence Center",
+    "description": "Private nonprofit providing emergency shelter, 24-hour crisis line, counseling, advocacy, and support services to victims of domestic and family violence in Robeson County.",
+    "address": "1407 E 5th St, Lumberton, NC 28358",
+    "phone": "(910) 739-8622",
+    "url": "https://www.southeasternfamilyviolencecenter.org/",
+    "categorySlug": "crisis",
+    "zipCode": "28358"
+  },
+  {
+    "name": "Elizabethtown Food Pantry",
+    "description": "Food pantry serving Bladen County residents, with separate hours for seniors (62+) and general population twice a month on Thursdays.",
+    "address": "Elizabethtown, NC 28337",
+    "phone": "(910) 879-1032",
+    "url": "https://borderbelt.org/food-pantries-nc-border-belt/",
+    "categorySlug": "food",
+    "zipCode": "28337"
+  },
+  {
+    "name": "Lower Currituck Food Pantry",
+    "description": "Nonprofit food pantry serving lower Currituck County residents in need.",
+    "address": "6480 Caratoke Hwy, Grandy, NC 27939",
+    "phone": "(252) 453-3559",
+    "url": "https://lowercurrituckfoodpantry.weebly.com/",
+    "categorySlug": "food",
+    "zipCode": "27939"
+  },
+  {
+    "name": "Camden Methodist Church Food Pantry",
+    "description": "Bi-monthly food pantry run by volunteers from multiple Camden County congregations, serving residents in need.",
+    "address": "Camden, NC 27921",
+    "phone": "(252) 312-6238",
+    "url": "https://www.camdenmethodist.org/food-pantry.html",
+    "categorySlug": "food",
+    "zipCode": "27921"
+  },
+  {
+    "name": "Beach Food Pantry",
+    "description": "Nonprofit providing direct nutritional assistance to Dare County residents facing temporary food crises or emergencies on the Outer Banks.",
+    "address": "4007 N Croatan Hwy, Kitty Hawk, NC 27949",
+    "phone": "(252) 261-2756",
+    "url": "https://beachfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "27949"
+  },
+  {
+    "name": "Cape Hatteras Food Pantry (Hatteras Island Meals)",
+    "description": "Food pantry and emergency assistance program serving Hatteras Island residents with food, operated under United Methodist Men Emergency Assistance.",
+    "address": "Buxton, NC 27920",
+    "phone": "",
+    "url": "https://islandfreepress.org/outer-banks-news/cape-hatteras-food-pantry-asks-for-communitys-help-amid-rising-need/",
+    "categorySlug": "food",
+    "zipCode": "27920"
+  },
+  {
+    "name": "Outer Banks Hotline",
+    "description": "Provides emergency shelter, crisis hotline, and support services for survivors of domestic violence, sexual assault, and human trafficking in Dare County.",
+    "address": "Manteo, NC 27954",
+    "phone": "(252) 473-3366",
+    "url": "https://obhotline.org/",
+    "categorySlug": "crisis",
+    "zipCode": "27954"
+  },
+  {
+    "name": "Food Bank of the Albemarle \u2013 Neighborhood Hub",
+    "description": "Regional food bank serving 15 northeastern NC counties; neighborhood hub food pantry located in Elizabeth City, open weekdays for pickup.",
+    "address": "109 Tidewater Way, Elizabeth City, NC 27909",
+    "phone": "(252) 335-4035",
+    "url": "https://afoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "27909"
+  },
+  {
+    "name": "Salvation Army of the Albemarle Region",
+    "description": "Provides food pantry services and emergency assistance to Pasquotank County and surrounding area residents.",
+    "address": "602 N Hughes Blvd, Elizabeth City, NC 27909",
+    "phone": "(252) 338-4120",
+    "url": "https://www.salvationarmyusa.org/nc/elizabeth-city/4th-st-corps/hunger/",
+    "categorySlug": "food",
+    "zipCode": "27909"
+  },
+  {
+    "name": "Perquimans County Mobile Food Pantry (Food Bank of the Albemarle)",
+    "description": "Monthly mobile food pantry serving Perquimans County residents, held the 2nd Friday of each month at the county recreation center.",
+    "address": "310 Granby St, Hertford, NC 27944",
+    "phone": "(252) 335-4035",
+    "url": "https://afoodbank.org/get-help/mobile-food-pantries/",
+    "categorySlug": "food",
+    "zipCode": "27944"
+  },
+  {
+    "name": "Pastor's Pantry",
+    "description": "Nonprofit food pantry providing monthly groceries to senior adults age 60+ and their household members throughout Davidson County.",
+    "address": "307 N State St, Lexington, NC 27292",
+    "phone": "",
+    "url": "https://www.pastorspantry.org/",
+    "categorySlug": "food",
+    "zipCode": "27292"
+  },
+  {
+    "name": "West Davidson Food Pantry (Least of These Ministries)",
+    "description": "Community food pantry serving Davidson County residents with free food distribution multiple days per week.",
+    "address": "4600 W Old US Hwy 64, Lexington, NC 27295",
+    "phone": "",
+    "url": "https://westdavidsonfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "27295"
+  },
+  {
+    "name": "Davidson County First Hope Ministries",
+    "description": "Nonprofit operating adult and family homeless shelters, an emergency food pantry, and clothing closet for Davidson County residents in need.",
+    "address": "107 E 1st Ave, Lexington, NC 27292",
+    "phone": "(336) 248-6684",
+    "url": "https://dcfirsthope.org/",
+    "categorySlug": "housing",
+    "zipCode": "27292"
+  },
+  {
+    "name": "A Storehouse for Jesus",
+    "description": "Provides food pantry, clothing, and medical assistance to Davie County and surrounding county residents in need.",
+    "address": "675 Lexington Rd, Mocksville, NC 27028",
+    "phone": "(336) 753-8080",
+    "url": "https://www.astorehouseforjesus.org/",
+    "categorySlug": "food",
+    "zipCode": "27028"
+  },
+  {
+    "name": "Davidson Community Action",
+    "description": "War on Poverty organization providing food pantry and assistance programs to low-income Davidson County families and individuals.",
+    "address": "Lexington, NC 27292",
+    "phone": "",
+    "url": "https://www.davidsoncommunityaction.com/",
+    "categorySlug": "food",
+    "zipCode": "27292"
+  },
+  {
+    "name": "Duplin Christian Outreach Ministries",
+    "description": "Provides food pantry, crisis assistance, and child hunger programs to Duplin County residents in need.",
+    "address": "514 S Norwood St, Wallace, NC 28466",
+    "phone": "(910) 285-6000",
+    "url": "https://duplinchristian.org/",
+    "categorySlug": "food",
+    "zipCode": "28466"
+  },
+  {
+    "name": "Shackle Free Community",
+    "description": "Community organization in Warsaw providing food assistance and support services to Duplin County residents.",
+    "address": "224 W College St, Warsaw, NC 28398",
+    "phone": "",
+    "url": "https://duplin.ces.ncsu.edu/food-assistance/",
+    "categorySlug": "food",
+    "zipCode": "28398"
+  },
+  {
+    "name": "Safe Haven of Pender",
+    "description": "Provides emergency shelter, 24-hour crisis hotline, and advocacy services to victims of domestic violence in Pender and Duplin counties.",
+    "address": "Burgaw, NC 28425",
+    "phone": "(910) 259-8989",
+    "url": "https://safehavenofpender.com/",
+    "categorySlug": "crisis",
+    "zipCode": "28425"
+  },
+  {
+    "name": "Urban Ministries of Durham",
+    "description": "Comprehensive nonprofit ending homelessness and poverty through emergency shelter, 3 daily meals, food pantry, clothing, and workforce development in Durham.",
+    "address": "410 Liberty St, Durham, NC 27701",
+    "phone": "(919) 682-0538",
+    "url": "https://umdurham.org/",
+    "categorySlug": "housing",
+    "zipCode": "27701"
+  },
+  {
+    "name": "Durham Community Food Pantry (Catholic Charities)",
+    "description": "Food pantry serving Durham County residents with groceries multiple days per week including evening hours.",
+    "address": "2020 Chapel Hill Rd, Durham, NC 27707",
+    "phone": "",
+    "url": "https://www.catholiccharitiesraleigh.org/programs/durham-community-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "27707"
+  },
+  {
+    "name": "Durham Rescue Mission",
+    "description": "Durham's oldest and largest long-term homeless shelter, providing food, clothing, shelter, vocational training, job placement, and Biblical counseling to over 400 people daily.",
+    "address": "1201 E Main St, Durham, NC 27701",
+    "phone": "(919) 688-9641",
+    "url": "https://durhamrescuemission.org/",
+    "categorySlug": "housing",
+    "zipCode": "27701"
+  },
+  {
+    "name": "Durham Rescue Mission \u2013 Opportunity Place",
+    "description": "Women and families shelter operated by Durham Rescue Mission, providing food, housing, and support programs in Durham.",
+    "address": "6611 Guess Rd, Durham, NC 27712",
+    "phone": "(919) 688-9641",
+    "url": "https://durhamrescuemission.org/",
+    "categorySlug": "housing",
+    "zipCode": "27712"
+  },
+  {
+    "name": "Clemmons Food Pantry",
+    "description": "Local nonprofit providing weekly supplemental groceries to over 800 Forsyth County households per month, with curbside pickup options.",
+    "address": "2660 Neudorf Rd, Clemmons, NC 27012",
+    "phone": "(336) 331-3432",
+    "url": "https://clemmonsfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "27012"
+  },
+  {
+    "name": "United Community Ministries",
+    "description": "Provides daily soup kitchen, community shelter for single men, food pantry, and support services to homeless and nearly homeless individuals in Rocky Mount.",
+    "address": "341 McDonald St, Rocky Mount, NC 27804",
+    "phone": "(252) 985-1650",
+    "url": "https://unitedcommunityministries.org/",
+    "categorySlug": "housing",
+    "zipCode": "27804"
+  },
+  {
+    "name": "The REACH Center",
+    "description": "Faith-based nonprofit offering food security programs, housing/utility assistance, prescription medication help, and workforce development to Nash and Edgecombe County residents.",
+    "address": "921 Hunter Hill Rd, Rocky Mount, NC 27804",
+    "phone": "(252) 937-2942",
+    "url": "https://www.myreachnc.com/",
+    "categorySlug": "food",
+    "zipCode": "27804"
+  },
+  {
+    "name": "Salvation Army \u2013 Nash, Edgecombe & Wilson Counties",
+    "description": "Provides food pantry and emergency financial assistance to residents of Nash, Edgecombe, and Wilson counties.",
+    "address": "1000 Hunter Hill Rd, Rocky Mount, NC 27804",
+    "phone": "",
+    "url": "https://southernusa.salvationarmy.org/nash-edgecombe-wilson/",
+    "categorySlug": "food",
+    "zipCode": "27804"
+  },
+  {
+    "name": "Winston-Salem Rescue Mission - Client Choice Food Pantry",
+    "description": "Client-choice food pantry allowing individuals to select their own food items. Also operates a men's emergency shelter.",
+    "address": "718 N Trade St, Winston-Salem, NC 27101",
+    "phone": "(336) 723-1848",
+    "url": "https://wsrescue.org/client-choice-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "27101"
+  },
+  {
+    "name": "Bethesda Center for the Homeless",
+    "description": "Day and emergency night shelter for homeless men and women in Winston-Salem and Forsyth County. Largest homeless shelter in Winston-Salem with 100 beds.",
+    "address": "930 N Patterson Ave, Winston-Salem, NC 27101",
+    "phone": "(336) 722-9951",
+    "url": "https://www.bethesdacenter.org/",
+    "categorySlug": "housing",
+    "zipCode": "27101"
+  },
+  {
+    "name": "The Salvation Army Center of Hope - Family Shelter",
+    "description": "The only family emergency shelter in Forsyth County. Provides shelter to single mothers, single fathers, and parents with children. Open 24/7.",
+    "address": "1255 Trade St NW, Winston-Salem, NC 27101",
+    "phone": "(336) 724-7477",
+    "url": "https://southernusa.salvationarmy.org/winston-salem/shelter-1/",
+    "categorySlug": "housing",
+    "zipCode": "27101"
+  },
+  {
+    "name": "Crisis Control Ministry",
+    "description": "Provides short-term emergency services including a two-week supply of food, utility bill assistance, rent/mortgage help, and prescription medication for Forsyth and Stokes County residents.",
+    "address": "200 E 10th St, Winston-Salem, NC 27101",
+    "phone": "(336) 724-7875",
+    "url": "https://crisiscontrol.org/",
+    "categorySlug": "crisis",
+    "zipCode": "27101"
+  },
+  {
+    "name": "The Shalom Project",
+    "description": "One of the oldest food pantries in Winston-Salem. Provides supplementary groceries and a clothing closet every Tuesday morning.",
+    "address": "726 N Cherry St, Winston-Salem, NC 27101",
+    "phone": "(336) 721-0606",
+    "url": "https://theshalomprojectnc.org/",
+    "categorySlug": "food",
+    "zipCode": "27101"
+  },
+  {
+    "name": "Care & Share Food Pantry - Dream Center of Forsyth County",
+    "description": "Local food pantry serving the Winston-Salem community through the Dream Center of Forsyth County.",
+    "address": "1201 N Liberty St, Winston-Salem, NC 27101",
+    "phone": "(336) 744-4004",
+    "url": "https://dreamcenterforsyth.com/service/care-share-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "27101"
+  },
+  {
+    "name": "Crisis Control Ministry - Kernersville",
+    "description": "Provides emergency food, utility assistance, and medication for Forsyth and Stokes County residents. Kernersville branch serving zip 27284.",
+    "address": "431 W Bodenhamer St, Kernersville, NC 27284",
+    "phone": "(336) 996-5401",
+    "url": "https://crisiscontrol.org/",
+    "categorySlug": "crisis",
+    "zipCode": "27284"
+  },
+  {
+    "name": "Project RE3 Hope Center",
+    "description": "Food pantry open Wednesdays and Saturdays 9am-11am. Also offers clothing closet, counseling ministry, and community programs in Kernersville.",
+    "address": "Kernersville, NC 27284",
+    "phone": "",
+    "url": "https://www.foodpantries.org/li/nc_27284_project-re3-hope-center",
+    "categorySlug": "food",
+    "zipCode": "27284"
+  },
+  {
+    "name": "Sowing Seeds",
+    "description": "Community food pantry serving Franklinton and Franklin County residents. Open Mondays and Wednesdays 4-6pm.",
+    "address": "200 Ayscue Way, Franklinton, NC 27525",
+    "phone": "(919) 375-3002",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "27525"
+  },
+  {
+    "name": "New Life Outreach Ministry",
+    "description": "Faith-based food pantry open the 1st and 3rd Monday of each month 9am-12pm in Franklinton.",
+    "address": "128 Savage St, Franklinton, NC 27525",
+    "phone": "(919) 494-2147",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "27525"
+  },
+  {
+    "name": "The Help Center",
+    "description": "Monthly food distribution serving Louisburg and Franklin County residents. Distribution on 3rd Thursday at 9am.",
+    "address": "110 Industrial Dr, Louisburg, NC 27549",
+    "phone": "(919) 391-7300",
+    "url": "https://www.thehelpcenternc.com/",
+    "categorySlug": "food",
+    "zipCode": "27549"
+  },
+  {
+    "name": "Pantry of H.O.P.E",
+    "description": "Food pantry serving Louisburg area residents. Open Thursdays 3-6pm and 4th Saturdays 8-10:30am.",
+    "address": "3331 NC 39 Hwy S, Louisburg, NC 27549",
+    "phone": "(919) 671-3010",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "27549"
+  },
+  {
+    "name": "Crisis Assistance Ministry of Gastonia",
+    "description": "Provides emergency assistance including food, utilities, and rent/mortgage to low-income households in greater Gastonia. Open Mon-Thu 9am-2pm.",
+    "address": "805 W Airline Ave, Gastonia, NC 28052",
+    "phone": "(704) 867-8901",
+    "url": "https://crisisassistancegastonia.org/",
+    "categorySlug": "crisis",
+    "zipCode": "28052"
+  },
+  {
+    "name": "GLOW Food Ministry",
+    "description": "Provides groceries for 600+ people every month through Revolution Church's community food ministry in Gastonia.",
+    "address": "1015 W Franklin Blvd, Gastonia, NC 28052",
+    "phone": "",
+    "url": "https://revolutionchurchnc.com/glow/",
+    "categorySlug": "food",
+    "zipCode": "28052"
+  },
+  {
+    "name": "Lakeshore Food Pantry",
+    "description": "Community food pantry located in Gastonia serving residents of the Gaston County area.",
+    "address": "2200 Brookneal Dr, Gastonia, NC 28054",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "28054"
+  },
+  {
+    "name": "Gastonia Street Ministry",
+    "description": "Provides free supper Tuesday and Thursday evenings around 8pm for those in need in Gastonia.",
+    "address": "416 W Main Ave, Gastonia, NC 28052",
+    "phone": "(704) 605-3173",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "28052"
+  },
+  {
+    "name": "FeedNC",
+    "description": "Provides meals, displacement services, and a Grassroots Grocery supplementary food program for struggling families in Mooresville and Iredell County.",
+    "address": "275 S Broad St, Mooresville, NC 28115",
+    "phone": "(704) 660-9010",
+    "url": "https://www.feednc.org/",
+    "categorySlug": "food",
+    "zipCode": "28115"
+  },
+  {
+    "name": "Iredell Food - United Way of Iredell County",
+    "description": "Food pantry network with locations in Mooresville and Statesville serving Iredell County residents.",
+    "address": "266 N Broad St, Mooresville, NC 28115",
+    "phone": "",
+    "url": "https://uwiredell.org/iredell-food/",
+    "categorySlug": "food",
+    "zipCode": "28115"
+  },
+  {
+    "name": "Iredell Christian Ministries",
+    "description": "Faith-based nonprofit providing food assistance, financial help, and community outreach to Iredell County residents in need.",
+    "address": "752 Old Salisbury Rd, Statesville, NC 28677",
+    "phone": "(704) 924-6700",
+    "url": "https://iredellchristianministries.org/",
+    "categorySlug": "food",
+    "zipCode": "28677"
+  },
+  {
+    "name": "Fifth Street Ministries",
+    "description": "Serves hot meals daily at 11am and 5:30pm. Distributes food boxes on Wednesdays and Fridays in Statesville.",
+    "address": "1421 Fifth St, Statesville, NC 28677",
+    "phone": "(704) 872-4045",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "28677"
+  },
+  {
+    "name": "Gates Emergency Ministries",
+    "description": "Community nonprofit providing emergency assistance and food resources to Gates County residents.",
+    "address": "252 NC Hwy 37 N, Gates, NC 27937",
+    "phone": "(252) 357-6599",
+    "url": "",
+    "categorySlug": "crisis",
+    "zipCode": "27937"
+  },
+  {
+    "name": "Upon This Rock Ministries - Oxford",
+    "description": "Food pantry serving Oxford and Granville County residents. Open Tuesdays and Fridays 2-5pm.",
+    "address": "1206 College St, Oxford, NC 27565",
+    "phone": "(919) 692-0007",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "27565"
+  },
+  {
+    "name": "First Baptist Church Creedmoor - Food Missions Ministry",
+    "description": "Faith-based food assistance serving Creedmoor and Granville County residents every Wednesday 9am-11:30am.",
+    "address": "119 S Main St, Creedmoor, NC 27522",
+    "phone": "(919) 528-2351",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "27522"
+  },
+  {
+    "name": "Greene County Interfaith Volunteers - Food Pantry",
+    "description": "Mobile food pantry serving Greene County residents on the 3rd Thursday of each month at 1pm.",
+    "address": "342 Highway 13 S, Snow Hill, NC 28580",
+    "phone": "(252) 747-1090",
+    "url": "https://www.foodpantries.org/li/greene_county_interfaith_volunteers_mobile_food_pantry_28580",
+    "categorySlug": "food",
+    "zipCode": "28580"
+  },
+  {
+    "name": "Greensboro Urban Ministry - Food Pantry",
+    "description": "Choice-style food pantry open Tuesday-Thursday 9am-2pm serving Guilford County residents. Guests may visit once every 14 days.",
+    "address": "305 W Gate City Blvd, Greensboro, NC 27406",
+    "phone": "(336) 271-5959",
+    "url": "https://www.greensborourbanministry.org/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "27406"
+  },
+  {
+    "name": "Greensboro Urban Ministry - Weaver House Shelter",
+    "description": "Emergency shelter for single men and women, plus the Pathways Center for families with private living spaces. Part of Greensboro Urban Ministry.",
+    "address": "305 W Gate City Blvd, Greensboro, NC 27406",
+    "phone": "(336) 271-5959",
+    "url": "https://www.greensborourbanministry.org/weaver-house/",
+    "categorySlug": "housing",
+    "zipCode": "27406"
+  },
+  {
+    "name": "The Blessed Table Food Pantry",
+    "description": "Cooperative ministry of eight United Methodist Churches providing free food to Greensboro families since 2004. Open Mondays 10am-1pm.",
+    "address": "3433 Summit Ave, Greensboro, NC 27405",
+    "phone": "(336) 333-2266",
+    "url": "https://www.blessedtable.org/",
+    "categorySlug": "food",
+    "zipCode": "27405"
+  },
+  {
+    "name": "Glenwood Together Food Pantry",
+    "description": "Neighborhood food pantry serving Greensboro residents every Tuesday 11am-1pm.",
+    "address": "1203 Maple St, Greensboro, NC 27405",
+    "phone": "",
+    "url": "https://www.glenwoodtogether.com/food-assistance",
+    "categorySlug": "food",
+    "zipCode": "27405"
+  },
+  {
+    "name": "Interactive Resource Center",
+    "description": "Day resource center for people experiencing or at risk of homelessness in Guilford County. Offers showers, laundry, medical clinic, computer lab, and case management.",
+    "address": "407 E Washington St, Greensboro, NC 27401",
+    "phone": "(336) 332-0824",
+    "url": "https://www.interactiveresourcecenter.org/",
+    "categorySlug": "housing",
+    "zipCode": "27401"
+  },
+  {
+    "name": "YWCA Greensboro Emergency Family Shelter",
+    "description": "Emergency shelter providing housing, food, case management, and support for families experiencing homelessness in Guilford County.",
+    "address": "1807 E Wendover Ave, Greensboro, NC 27405",
+    "phone": "(336) 333-0175",
+    "url": "https://ywcagsonc.org/family-shelter/",
+    "categorySlug": "housing",
+    "zipCode": "27405"
+  },
+  {
+    "name": "Helping Hands High Point",
+    "description": "Serves over 750 households weekly through a community food pantry in High Point.",
+    "address": "2301 S Main St, High Point, NC 27263",
+    "phone": "(336) 886-2327",
+    "url": "https://www.helpinghandshighpoint.org/",
+    "categorySlug": "food",
+    "zipCode": "27263"
+  },
+  {
+    "name": "Open Door Ministries - Food Pantry",
+    "description": "Local nonprofit food pantry serving High Point and surrounding Guilford County communities.",
+    "address": "High Point, NC 27260",
+    "phone": "",
+    "url": "https://www.opendoorministrieshp.org/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "27260"
+  },
+  {
+    "name": "Greensboro Urban Ministry - Food Pantry",
+    "description": "Choice-style food pantry open Tuesday-Thursday 9am-2pm for Guilford County residents experiencing hunger.",
+    "address": "305 W Gate City Blvd, Greensboro, NC 27406",
+    "phone": "(336) 271-5959",
+    "url": "https://www.greensborourbanministry.org/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "27406"
+  },
+  {
+    "name": "Interactive Resource Center",
+    "description": "Innovative day resource center for people experiencing or at risk of homelessness. Services include showers, laundry, medical clinic, and case management.",
+    "address": "407 E Washington St, Greensboro, NC 27401",
+    "phone": "(336) 332-0824",
+    "url": "https://www.interactiveresourcecenter.org/",
+    "categorySlug": "housing",
+    "zipCode": "27401"
+  },
+  {
+    "name": "Union Mission of Roanoke Rapids",
+    "description": "Shelter and food program serving Halifax County since 1951. Provides men's and women's shelter, nightly community meals, and food pantry services.",
+    "address": "1310 Roanoke Ave, Roanoke Rapids, NC 27870",
+    "phone": "(252) 537-3372",
+    "url": "https://unionmissionrr.org/",
+    "categorySlug": "housing",
+    "zipCode": "27870"
+  },
+  {
+    "name": "Enfield Food Pantry",
+    "description": "Local food pantry serving residents in Enfield and Halifax County.",
+    "address": "Enfield, NC 27823",
+    "phone": "(252) 445-3001",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "27823"
+  },
+  {
+    "name": "First Baptist Church Enfield - Food Pantry",
+    "description": "Monthly food pantry serving Halifax County residents from 2-6pm on the third Monday of each month.",
+    "address": "577 E Franklin St, Enfield, NC 27823",
+    "phone": "(252) 445-2272",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "27823"
+  },
+  {
+    "name": "Weldon Food Pantry",
+    "description": "Food pantry open every Wednesday 12pm-6pm for Halifax County residents in Weldon.",
+    "address": "Weldon, NC 27890",
+    "phone": "(252) 451-0757",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "27890"
+  },
+  {
+    "name": "Union Mission of Roanoke Rapids",
+    "description": "Shelter and food program serving Halifax County since 1951. Provides emergency shelter for men and women, nightly community meals, and food pantry.",
+    "address": "1310 Roanoke Ave, Roanoke Rapids, NC 27870",
+    "phone": "(252) 537-3372",
+    "url": "https://unionmissionrr.org/",
+    "categorySlug": "housing",
+    "zipCode": "27870"
+  },
+  {
+    "name": "Harnett Food Pantry",
+    "description": "Nonprofit food pantry serving Harnett County residents. Open Mondays 4-6:30pm, Tuesdays 1-4pm, and Thursdays 10am-1pm.",
+    "address": "413 W Old Rd, Lillington, NC 27546",
+    "phone": "(910) 985-7787",
+    "url": "https://theharnettfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "27546"
+  },
+  {
+    "name": "Dunn United Ministerial Association (DUMA) Food Pantry",
+    "description": "Faith-based collaborative food pantry serving Dunn and Harnett County residents in need.",
+    "address": "323 E Broad St, Dunn, NC 28334",
+    "phone": "(910) 891-1633",
+    "url": "https://dunnunited.org/",
+    "categorySlug": "food",
+    "zipCode": "28334"
+  },
+  {
+    "name": "Beacon Rescue Mission - Dunn",
+    "description": "Emergency shelter providing temporary housing for families in Harnett County. Requires drug test and employment search; stays up to 30 days.",
+    "address": "Dunn, NC 28334",
+    "phone": "(910) 892-5772",
+    "url": "",
+    "categorySlug": "housing",
+    "zipCode": "28334"
+  },
+  {
+    "name": "SAFE of Harnett County",
+    "description": "Nonprofit providing 24-hour crisis line, emergency shelter, and advocacy for victims of domestic violence and sexual assault in Harnett County.",
+    "address": "1210 S Main St, Lillington, NC 27546",
+    "phone": "(910) 893-7233",
+    "url": "https://www.safeofhc.org/",
+    "categorySlug": "crisis",
+    "zipCode": "27546"
+  },
+  {
+    "name": "Haywood Christian Ministry Food Pantry",
+    "description": "Full-choice, market-style food pantry with no eligibility requirements in Waynesville. Open Mon 12-4pm, Wed 9am-1pm, Fri 11am-4pm.",
+    "address": "150 Branner Ave, Waynesville, NC 28786",
+    "phone": "",
+    "url": "https://hcmnc.org/food-ministry",
+    "categorySlug": "food",
+    "zipCode": "28786"
+  },
+  {
+    "name": "Second Season Neighborhood Pantry",
+    "description": "Neighborhood food pantry open Tuesday, Thursday, and Saturday 9am-noon in Waynesville.",
+    "address": "156 Boundary St, Waynesville, NC 28786",
+    "phone": "",
+    "url": "https://www.longschapel.com/second-season",
+    "categorySlug": "food",
+    "zipCode": "28786"
+  },
+  {
+    "name": "Beulah Baptist Church Food Pantry",
+    "description": "Faith-based food pantry open Tuesdays 11am-2pm serving Canton and Haywood County residents.",
+    "address": "483 Sunset Circle, Canton, NC 28716",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "28716"
+  },
+  {
+    "name": "The Storehouse",
+    "description": "Provides food and basic necessities to those in need in Henderson County. Open Wednesday-Friday 9am-2pm.",
+    "address": "1049 Spartanburg Hwy, Hendersonville, NC 28739",
+    "phone": "(828) 692-8300",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "28739"
+  },
+  {
+    "name": "Interfaith Assistance Ministry (IAM)",
+    "description": "Nonprofit providing food pantry and crisis assistance to Henderson County residents since 1984. Food pantry open Wednesdays 3-5:30pm.",
+    "address": "Hendersonville, NC 28739",
+    "phone": "(828) 697-7029",
+    "url": "https://www.iam-hc.org/",
+    "categorySlug": "food",
+    "zipCode": "28739"
+  },
+  {
+    "name": "Safelight",
+    "description": "Nonprofit providing emergency shelter, 24-hour crisis hotline, counseling, and advocacy for survivors of interpersonal and sexual violence in Henderson County.",
+    "address": "133 5th Ave W, Hendersonville, NC 28739",
+    "phone": "(828) 693-3840",
+    "url": "https://safelightfamily.org/",
+    "categorySlug": "crisis",
+    "zipCode": "28739"
+  },
+  {
+    "name": "The Salvation Army - Hendersonville",
+    "description": "Food pantry, rent and utility emergency assistance, and disaster response serving Henderson County residents.",
+    "address": "239 3rd Ave E, Hendersonville, NC 28792",
+    "phone": "(828) 693-4181",
+    "url": "https://southernusa.salvationarmy.org/",
+    "categorySlug": "food",
+    "zipCode": "28792"
+  },
+  {
+    "name": "Interfaith Assistance Ministry (IAM) - Hendersonville",
+    "description": "Provides food, crisis assistance, and basic needs support to Henderson County residents since 1984. Food pantry open Wednesdays 3-5:30pm.",
+    "address": "Hendersonville, NC 28792",
+    "phone": "(828) 697-7029",
+    "url": "https://www.iam-hc.org/",
+    "categorySlug": "food",
+    "zipCode": "28792"
+  },
+  {
+    "name": "Ahoskie Food Pantry",
+    "description": "Food pantry serving Hertford County residents open Monday-Friday 9:30am-noon.",
+    "address": "701 E Church St, Ahoskie, NC 27910",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "27910"
+  },
+  {
+    "name": "Murfreesboro Baptist Church Mobile Food Pantry",
+    "description": "Monthly mobile food pantry distribution serving Hertford County residents on the 3rd Tuesday from 1-2:30pm.",
+    "address": "200 W Main St, Murfreesboro, NC 27855",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "27855"
+  },
+  {
+    "name": "REM Church Food Pantry - Raeford",
+    "description": "Monthly food pantry distribution for Hoke County residents on the first Wednesday of each month, 4:30-6:30pm.",
+    "address": "379 W Palmer St, Raeford, NC 28376",
+    "phone": "",
+    "url": "https://www.remchurchnc.org/food_pantry",
+    "categorySlug": "food",
+    "zipCode": "28376"
+  },
+  {
+    "name": "Hoke County Open Door Soup Kitchen",
+    "description": "Community soup kitchen providing meals to individuals in need in Raeford and Hoke County.",
+    "address": "Raeford, NC 28376",
+    "phone": "",
+    "url": "https://www.facebook.com/hcodskrnc15/",
+    "categorySlug": "food",
+    "zipCode": "28376"
+  },
+  {
+    "name": "Safelight",
+    "description": "Emergency shelter, crisis hotline, and advocacy for survivors of domestic and sexual violence in Henderson County.",
+    "address": "133 5th Ave W, Hendersonville, NC 28739",
+    "phone": "(828) 693-3840",
+    "url": "https://safelightfamily.org/",
+    "categorySlug": "crisis",
+    "zipCode": "28784"
+  },
+  {
+    "name": "FeedNC",
+    "description": "Provides meals, displacement services, and a Grassroots Grocery supplementary food program for families in Mooresville and Iredell County.",
+    "address": "275 S Broad St, Mooresville, NC 28115",
+    "phone": "(704) 660-9010",
+    "url": "https://www.feednc.org/",
+    "categorySlug": "food",
+    "zipCode": "28115"
+  },
+  {
+    "name": "Iredell Christian Ministries",
+    "description": "Community food pantry and financial assistance nonprofit serving Iredell County residents. Open Mon-Wed 8:30am-2pm, Thu 8:30am-3:30pm.",
+    "address": "752 Old Salisbury Rd, Statesville, NC 28677",
+    "phone": "(704) 924-6700",
+    "url": "https://iredellchristianministries.org/",
+    "categorySlug": "food",
+    "zipCode": "28677"
+  },
+  {
+    "name": "Fifth Street Ministries - Statesville",
+    "description": "Serves hot meals daily at 11am and 5:30pm, and distributes food boxes on Wednesdays and Fridays for Statesville residents.",
+    "address": "1421 Fifth St, Statesville, NC 28677",
+    "phone": "(704) 872-4045",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "28677"
+  },
+  {
+    "name": "Fishes & Loaves Food Pantry",
+    "description": "100% volunteer-based nonprofit food pantry serving all of Jackson County. Open Mondays and Thursdays 4:30-6:30pm, located behind the Cashiers Glenville Volunteer Fire Dept.",
+    "address": "Cashiers, NC 28717",
+    "phone": "",
+    "url": "https://fishesandloavescashiers.org/",
+    "categorySlug": "food",
+    "zipCode": "28717"
+  },
+  {
+    "name": "The Community Table",
+    "description": "Nonprofit providing nutritious free meals in a welcoming environment to Jackson County neighbors in need since 1999. Located in Sylva.",
+    "address": "23 Central St, Sylva, NC 28779",
+    "phone": "",
+    "url": "https://communitytable.org/",
+    "categorySlug": "food",
+    "zipCode": "28779"
+  },
+  {
+    "name": "The Community Table",
+    "description": "Food pantry providing groceries for home use. Clients may return every 2 weeks. Open Monday, Tuesday, Thursday, Friday.",
+    "address": "23 Central Street, Sylva, NC 28779",
+    "phone": "(828) 586-6782",
+    "url": "https://communitytable.org/",
+    "categorySlug": "food",
+    "zipCode": "28779"
+  },
+  {
+    "name": "United Christian Ministries of Jackson County",
+    "description": "Food bank, financial assistance, and referrals to other agencies serving Jackson County residents.",
+    "address": "191 Skyland Drive, Sylva, NC 28779",
+    "phone": "(828) 586-8228",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "28779"
+  },
+  {
+    "name": "Fishes & Loaves Food Pantry",
+    "description": "Community food pantry serving Jackson County residents. Open Mondays and Thursdays 4:00pm\u20136:30pm.",
+    "address": "549 Frank Allen Rd, Cashiers, NC 28717",
+    "phone": "(828) 508-0378",
+    "url": "https://fishesandloavescashiers.org/",
+    "categorySlug": "food",
+    "zipCode": "28783"
+  },
+  {
+    "name": "Potter's House Praise Tabernacle Food Pantry",
+    "description": "Local church food pantry serving residents of Benson and surrounding Johnston County area.",
+    "address": "107 North Lee Street, Benson, NC 27504",
+    "phone": "(919) 463-5043",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "27504"
+  },
+  {
+    "name": "West Johnston Food Pantry",
+    "description": "Community food pantry located at West Johnston High School campus, serving Johnston County residents. Open 1st and 3rd Saturdays 8:00\u20139:30am.",
+    "address": "5935 Raleigh Road, Benson, NC 27504",
+    "phone": "(919) 934-7333",
+    "url": "https://www.westjohnstonfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "27504"
+  },
+  {
+    "name": "Clayton Area Ministries",
+    "description": "Food pantry and utility assistance for Clayton-area residents. Open Monday, Tuesday, Wednesday, Friday 1:00\u20133:00pm.",
+    "address": "307 E Main Street, Clayton, NC 27520",
+    "phone": "(919) 553-5644",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "27520"
+  },
+  {
+    "name": "First Baptist Church of Four Oaks Food Pantry",
+    "description": "Drive-thru food pantry open Thursdays 12:00pm\u20132:00pm for Johnston County residents.",
+    "address": "403 N Main Street, Four Oaks, NC 27524",
+    "phone": "(919) 963-2102",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "27524"
+  },
+  {
+    "name": "Hinnant Outreach Center",
+    "description": "Provides food bags for Johnston County residents. Open Monday\u2013Friday 9:00am\u20131:00pm, limit 1 bag per week.",
+    "address": "102 W Main Street, Micro, NC 27555",
+    "phone": "(919) 284-0082",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "27555"
+  },
+  {
+    "name": "Princeton United Methodist Church Food Pantry",
+    "description": "Food pantry open on the 1st and 3rd Wednesdays of the month from 3:00pm to 4:00pm.",
+    "address": "Princeton, NC 27569",
+    "phone": "(919) 936-3871",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "27569"
+  },
+  {
+    "name": "Smithfield Area Ministries Food Closet",
+    "description": "Quality food pantry allowing clients to shop once a month. Open Monday\u2013Thursday 9:30am\u201312pm and 2\u20134:30pm, Friday 9:30am\u201312pm.",
+    "address": "140 East Market Street, Smithfield, NC 27577",
+    "phone": "(919) 934-8915",
+    "url": "https://smithfieldareaministries.wordpress.com/",
+    "categorySlug": "food",
+    "zipCode": "27577"
+  },
+  {
+    "name": "Smithfield Rescue Mission",
+    "description": "Emergency and long-term shelter for homeless individuals, plus life necessities and recovery programs to break the cycle of poverty.",
+    "address": "523 Glenn Street, Smithfield, NC 27577",
+    "phone": "(919) 934-9257",
+    "url": "https://smithfieldrescue.org/",
+    "categorySlug": "housing",
+    "zipCode": "27577"
+  },
+  {
+    "name": "Street Reach of Johnston County",
+    "description": "Operates the White Flag emergency shelter and provides essential resources including IDs, clothing, referrals for medical and mental health care, employment, housing, and transportation to treatment.",
+    "address": "Smithfield, NC 27577",
+    "phone": "",
+    "url": "https://www.streetreachjc.org/",
+    "categorySlug": "housing",
+    "zipCode": "27577"
+  },
+  {
+    "name": "The Filling Station Food Pantry",
+    "description": "Provides non-perishable boxes and perishables via curbside service on Tuesdays and Thursdays starting at 9:00am until all boxes are distributed.",
+    "address": "221 Main Street, Pollocksville, NC 28573",
+    "phone": "(252) 224-1127",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "28573"
+  },
+  {
+    "name": "Trenton Methodist Church Food Pantry",
+    "description": "Free food pantry open to all Jones County residents on Saturdays 9:30am\u201311:30am.",
+    "address": "418 Hwy 58 North, Unit C, Trenton, NC 28585",
+    "phone": "(252) 448-9111",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "28585"
+  },
+  {
+    "name": "Christians United Outreach Center (CUOC)",
+    "description": "Client-choice healthy pantry where guests may shop once every four weeks. Open Tuesday\u2013Friday 10am\u20134pm, Saturday 10am\u20132pm. Serves Lee County residents.",
+    "address": "109 E Main Street, Sanford, NC 27330",
+    "phone": "",
+    "url": "https://www.cuoclc.org/",
+    "categorySlug": "food",
+    "zipCode": "27330"
+  },
+  {
+    "name": "Five N Two Food Pantry",
+    "description": "Emergency food assistance provided weekly to clients in Lee County.",
+    "address": "507 N Steele Street, Sanford, NC 27330",
+    "phone": "(919) 776-5823",
+    "url": "https://www.leecountyunitedway.org/five-n-two-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "27330"
+  },
+  {
+    "name": "Bread of Life Ministries",
+    "description": "Local food ministry providing food assistance to residents in the Sanford and Lee County area.",
+    "address": "219 Maple Ave, Sanford, NC 27330",
+    "phone": "",
+    "url": "https://bolmnc.org/",
+    "categorySlug": "food",
+    "zipCode": "27330"
+  },
+  {
+    "name": "The Salvation Army of Kinston Food Pantry",
+    "description": "Supplemental grocery pantry for residents of Lenoir, Greene, and Duplin Counties. Open Monday\u2013Thursday 9am\u20134pm, Friday 9am\u20133pm.",
+    "address": "2110 N Queen Street, Kinston, NC 28501",
+    "phone": "(252) 523-5175",
+    "url": "https://www.salvationarmycarolinas.org/kinston/home/",
+    "categorySlug": "food",
+    "zipCode": "28501"
+  },
+  {
+    "name": "Faith Developmental Community Center Food Pantry",
+    "description": "Local food pantry open Wednesday 7\u20138pm, Thursday 1\u20132pm, and Sunday 1\u20132pm (based on food availability).",
+    "address": "655 Sussex Street, Kinston, NC 28504",
+    "phone": "(252) 686-6918",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "28504"
+  },
+  {
+    "name": "La Grange Food Pantry",
+    "description": "Community food pantry serving Lenoir County residents on the 1st and 3rd Wednesday of each month 10:00am\u201312:00pm.",
+    "address": "La Grange, NC 28551",
+    "phone": "(252) 566-3881",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "28551"
+  },
+  {
+    "name": "Crisis Assistance Ministry of Gastonia",
+    "description": "Provides basic needs assistance including food and financial help to residents in the greater Gastonia area. Open Monday\u2013Thursday 9am\u20132pm.",
+    "address": "805 W Airline Avenue, Gastonia, NC 28052",
+    "phone": "(704) 867-8901",
+    "url": "https://crisisassistancegastonia.org/",
+    "categorySlug": "food",
+    "zipCode": "28033"
+  },
+  {
+    "name": "Bountiful Blessings Food Pantry",
+    "description": "Nonprofit food pantry providing fresh produce, canned goods, and pantry staples every Thursday starting at 7:30am, first-come first-served.",
+    "address": "2311 Crescent Lane, Gastonia, NC 28052",
+    "phone": "(704) 865-8616",
+    "url": "https://www.bountifulblessingsfood.com/",
+    "categorySlug": "food",
+    "zipCode": "28033"
+  },
+  {
+    "name": "Christian Ministry of Lincoln County",
+    "description": "Food pantry with no paperwork required open Monday\u2013Friday 9am\u20131pm. Also operates a soup kitchen daily 11:30am\u201312:30pm. Serves Lincoln County residents.",
+    "address": "207 S Poplar Street, Lincolnton, NC 28092",
+    "phone": "",
+    "url": "https://christianministryoflincolncounty.org/emergency-services",
+    "categorySlug": "food",
+    "zipCode": "28092"
+  },
+  {
+    "name": "Nourishing Hands Food Pantry",
+    "description": "Fresh produce and grocery pantry at Antioch Baptist Church. Open the 1st and 3rd Wednesday of the month 9:00am\u201312:00pm (ID required).",
+    "address": "2110 E Main Street, Lincolnton, NC 28092",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "28092"
+  },
+  {
+    "name": "Macon County CareNet",
+    "description": "Client-choice food pantry serving Macon County residents with proof of residency. Open Monday\u2013Friday 10:00am\u20131:00pm. Also offers backpack program, soup cafe, and financial assistance.",
+    "address": "130 Bidwell Street, Franklin, NC 28734",
+    "phone": "(828) 369-2642",
+    "url": "https://maconcarenet.org/",
+    "categorySlug": "food",
+    "zipCode": "28734"
+  },
+  {
+    "name": "Highlands Food Pantry",
+    "description": "Community food pantry in partnership with Highlands United Methodist Church and MANNA FoodBank, providing food assistance to Highlands and surrounding communities.",
+    "address": "315 Main Street, Highlands, NC 28741",
+    "phone": "(828) 526-0890",
+    "url": "https://highlandsfriendshipcenter.org/foodpantry",
+    "categorySlug": "food",
+    "zipCode": "28741"
+  },
+  {
+    "name": "Cherokee County Sharing Center",
+    "description": "Local food pantry serving Cherokee County residents. Open Tuesday and Friday 1:00\u20133:00pm.",
+    "address": "517 Hiwassee Street, Murphy, NC 28906",
+    "phone": "(828) 360-4041",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "28763"
+  },
+  {
+    "name": "Murphy Shelter",
+    "description": "Emergency homeless shelter providing temporary refuge and fostering hope for individuals and families in Cherokee County.",
+    "address": "73 Blumenthal Street, Murphy, NC 28906",
+    "phone": "(828) 837-2654",
+    "url": "https://murphyshelter.org/",
+    "categorySlug": "housing",
+    "zipCode": "28763"
+  },
+  {
+    "name": "Mars Hill United Methodist Church 24/7 Pantry",
+    "description": "Community free pantry accessible around the clock for Madison County residents in need.",
+    "address": "201 S Main Street, Mars Hill, NC 28754",
+    "phone": "(828) 689-2343",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "28753"
+  },
+  {
+    "name": "Salvation Army Food Pantry - Madison County",
+    "description": "Monthly food pantry open the 2nd Wednesday of each month 9:00am\u201312:00pm for Hot Springs area residents.",
+    "address": "Hot Springs, NC 28743",
+    "phone": "(828) 622-3355",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "28743"
+  },
+  {
+    "name": "Beacon of Hope Services",
+    "description": "Provides emergency assistance including food pantry, clothing, household items, bedding, personal hygiene items, and vouchers. Thrift store and food pantry open Monday\u2013Saturday 10am\u20134pm. Serves Madison County residents.",
+    "address": "5111 US Hwy 25/70, Marshall, NC 28753",
+    "phone": "(828) 649-3470",
+    "url": "https://bohmarshall.org/",
+    "categorySlug": "food",
+    "zipCode": "28754"
+  },
+  {
+    "name": "Faith Community Outreach Food Pantry",
+    "description": "Nonprofit food pantry providing supplemental nutritional foods weekly to Western Martin County residents with a satellite location in Hamilton.",
+    "address": "103 East Academy Street, Robersonville, NC 27871",
+    "phone": "(252) 795-4379",
+    "url": "https://fco2019.org/",
+    "categorySlug": "food",
+    "zipCode": "27871"
+  },
+  {
+    "name": "Faith Community Outreach - Williamston",
+    "description": "Food pantry serving Martin County residents with supplemental nutritional foods.",
+    "address": "607 Washington Street, Williamston, NC 27892",
+    "phone": "(252) 792-8880",
+    "url": "https://fco2019.org/",
+    "categorySlug": "food",
+    "zipCode": "27892"
+  },
+  {
+    "name": "Foothills Food Hub",
+    "description": "Community food hub supporting local food access in McDowell County. Offers free shopping events and produce distribution. Free shopping the last Friday of each month starting at 1pm.",
+    "address": "263 Barnes Road, Suite J, Marion, NC 28752",
+    "phone": "(828) 748-8225",
+    "url": "https://www.foothillsfoodhub.org/",
+    "categorySlug": "food",
+    "zipCode": "28752"
+  },
+  {
+    "name": "Dysartsville Food Pantry",
+    "description": "Community food pantry in Nebo, NC serving McDowell County residents as a MANNA FoodBank partner agency.",
+    "address": "Nebo, NC 28761",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "28761"
+  },
+  {
+    "name": "Angels & Sparrows Community Table",
+    "description": "Provides a free seated community meal and emergency food pantry Monday\u2013Friday 11:00am\u20131:00pm for Huntersville and surrounding area residents.",
+    "address": "15016 N Old Statesville Road, Huntersville, NC 28078",
+    "phone": "(704) 918-0122",
+    "url": "https://angelsandsparrows.org/",
+    "categorySlug": "food",
+    "zipCode": "28078"
+  },
+  {
+    "name": "The Christian Mission Food Pantry",
+    "description": "Client-choice food pantry offering healthy fresh produce, bread, deli items, meats, and shelf-stable foods. Clients may visit twice monthly. Open Tuesday 10am\u20135pm, Wednesday\u2013Friday 9am\u20135pm.",
+    "address": "266 N Broad Street, Mooresville, NC 28115",
+    "phone": "(704) 664-2357",
+    "url": "https://thechristianmission.org/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "28031"
+  },
+  {
+    "name": "Matthews HELP Center",
+    "description": "Provides supplemental food staples and social services to residents in the Matthews/Stallings area. Pantry by appointment Thursday 10am\u20131pm. Also offers clothing and household goods.",
+    "address": "119 N Ames Street, Matthews, NC 28105",
+    "phone": "(704) 847-8383",
+    "url": "https://matthewshelpcenter.org/",
+    "categorySlug": "food",
+    "zipCode": "28105"
+  },
+  {
+    "name": "Dilworth Soup Kitchen",
+    "description": "Serves 200+ free take-out lunches every Monday and Friday 11:00am\u201312:00pm, year-round, at First Christian Church.",
+    "address": "1200 East Boulevard, Charlotte, NC 28203",
+    "phone": "(704) 334-3771",
+    "url": "https://www.dilworthsoupkitchen.org/",
+    "categorySlug": "food",
+    "zipCode": "28203"
+  },
+  {
+    "name": "Crisis Assistance Ministry",
+    "description": "Provides emergency rent and utility assistance, free clothing, household goods, and financial counseling to Mecklenburg County residents in poverty. Lobby open Monday\u2013Friday 9am\u20134pm.",
+    "address": "500-A Spratt Street, Charlotte, NC 28206",
+    "phone": "(704) 371-3001",
+    "url": "https://crisisassistance.org/",
+    "categorySlug": "utilities",
+    "zipCode": "28206"
+  },
+  {
+    "name": "Roof Above Emergency Shelter",
+    "description": "Emergency shelter and day services for individuals experiencing homelessness in Charlotte. Operates multiple shelter locations including day services center.",
+    "address": "945 North College Street, Charlotte, NC 28206",
+    "phone": "(704) 347-0278",
+    "url": "https://www.roofabove.org/",
+    "categorySlug": "housing",
+    "zipCode": "28206"
+  },
+  {
+    "name": "Care Ring Food Pantry",
+    "description": "Provides up to one week's supply of free groceries including fresh fruits, vegetables, dairy, and meats twice per week. Also hosts free fresh produce distribution Thursdays 11am\u201312pm (appointment via Nourish Up).",
+    "address": "Charlotte, NC 28206",
+    "phone": "(704) 523-4333",
+    "url": "https://careringnc.org/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "28206"
+  },
+  {
+    "name": "Jackson Park Ministries",
+    "description": "Local nonprofit providing food and community support services to Charlotte residents near the airport area.",
+    "address": "5415 Airport Drive, Charlotte, NC 28208",
+    "phone": "(704) 335-1616",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "28208"
+  },
+  {
+    "name": "Park Road Baptist Church Loaves & Fishes",
+    "description": "Community food pantry program providing food assistance to Charlotte residents in the south Charlotte area.",
+    "address": "3900 Park Road, Charlotte, NC 28209",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "28209"
+  },
+  {
+    "name": "Hearts & Hands Food Pantry",
+    "description": "Emergency food pantry serving the greater Charlotte metro area since 2017. Offers emergency food pick-up, delivery, mobile food pantry, community fridges, and food banking services.",
+    "address": "Charlotte, NC 28211",
+    "phone": "",
+    "url": "https://www.heartsandhandsfoodpantry.com/",
+    "categorySlug": "food",
+    "zipCode": "28211"
+  },
+  {
+    "name": "Hope Street Food Pantry",
+    "description": "Community food pantry open Thursdays 4:00\u20137:00pm and 2nd and 4th Tuesdays 10:30\u201311:30am. No referral required.",
+    "address": "4100 Johnston Oehler Road, Charlotte, NC 28269",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "28269"
+  },
+  {
+    "name": "St. Matthew Ballantyne Campus Food Pantry",
+    "description": "Catholic church food pantry providing food assistance with dignity. Serves Ballantyne and surrounding south Charlotte area residents.",
+    "address": "8015 Ballantyne Commons Parkway, Charlotte, NC 28277",
+    "phone": "(704) 543-7677",
+    "url": "https://stmatthewcatholic.org/foodpantry",
+    "categorySlug": "food",
+    "zipCode": "28277"
+  },
+  {
+    "name": "Christ The King Food Pantry - Steele Creek",
+    "description": "Second Harvest food pantry serving the Steele Creek and southwest Charlotte area with food assistance on Wednesdays.",
+    "address": "Charlotte, NC 28278",
+    "phone": "",
+    "url": "https://ctkcharlotte.org/foodpantry/",
+    "categorySlug": "food",
+    "zipCode": "28278"
+  },
+  {
+    "name": "Feeding Avery Families",
+    "description": "Nonprofit food pantry addressing food insecurity in Avery County with individual shopping and drive-thru options, plus mobile distribution at multiple community sites throughout the county.",
+    "address": "189 Old Vale Road, Newland, NC 28657",
+    "phone": "(828) 783-8506",
+    "url": "https://feedingaveryfamilies.org/",
+    "categorySlug": "food",
+    "zipCode": "28705"
+  },
+  {
+    "name": "Mitchell County Shepherd's Staff",
+    "description": "Nonprofit fighting hunger in Mitchell County with emergency food pantry, community garden produce, heating assistance, diapers, Thanksgiving baskets, and Christmas boxes.",
+    "address": "6565 Hwy 226 South, Spruce Pine, NC 28777",
+    "phone": "",
+    "url": "https://www.mcshepherdsstaff.org/",
+    "categorySlug": "food",
+    "zipCode": "28777"
+  },
+  {
+    "name": "Montgomery County Food Bank",
+    "description": "Local food bank distributing food assistance to residents throughout Montgomery County, including Biscoe and surrounding communities.",
+    "address": "102 East Spring Street, Troy, NC 27371",
+    "phone": "(910) 576-6531",
+    "url": "https://mcfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "27209"
+  },
+  {
+    "name": "Mount Gilead Food Pantry",
+    "description": "All-volunteer food pantry serving 130\u2013150 families weekly in Montgomery County every Saturday. Affiliated with Second Harvest Food Bank of Metrolina.",
+    "address": "101 W Ingram Street, Mount Gilead, NC 27306",
+    "phone": "",
+    "url": "https://www.mgfpinc.com/",
+    "categorySlug": "food",
+    "zipCode": "27306"
+  },
+  {
+    "name": "Montgomery County Food Bank",
+    "description": "Local food bank distributing food assistance to Montgomery County residents including communities in Troy, Biscoe, and Candor.",
+    "address": "102 East Spring Street, Troy, NC 27371",
+    "phone": "(910) 576-6531",
+    "url": "https://mcfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "27371"
+  },
+  {
+    "name": "Interfaith Food Pantry of Aberdeen",
+    "description": "Food pantry accepting residents with ID from Aberdeen and Southern Pines. Open Monday\u2013Friday 10:00am\u20131:00pm.",
+    "address": "110 Knight Street, Aberdeen, NC 28315",
+    "phone": "(910) 944-1093",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "28315"
+  },
+  {
+    "name": "Bethesda Presbyterian Church Food Pantry",
+    "description": "Church food pantry serving Aberdeen and Moore County residents.",
+    "address": "1002 N Sandhills Boulevard, Aberdeen, NC 28315",
+    "phone": "(910) 944-1319",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "28315"
+  },
+  {
+    "name": "Carthage Food Pantry",
+    "description": "Community food pantry with distributions on the 1st and 3rd Saturdays of each month from 8:00am\u20139:30am.",
+    "address": "108 Bruce Street, Carthage, NC 28327",
+    "phone": "(910) 245-4354",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "28327"
+  },
+  {
+    "name": "HELP - Hoke Emergency Liaison Program",
+    "description": "Emergency food pantry and clothing closet serving Hoke County residents. Open Monday, Tuesday, Thursday, Friday, and Saturday.",
+    "address": "110 E Central Avenue, Raeford, NC 28376",
+    "phone": "(910) 875-8857",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "28373"
+  },
+  {
+    "name": "Church Community Services of Scotland County",
+    "description": "Provides food bank, clothing closet, utility assistance, prescription assistance, and transient assistance. Food bank open Monday, Wednesday, Friday 8:30am\u201312pm.",
+    "address": "108 South Gill Street, Laurinburg, NC 28352",
+    "phone": "(910) 276-8330",
+    "url": "https://scccs2016.wordpress.com/",
+    "categorySlug": "food",
+    "zipCode": "28350"
+  },
+  {
+    "name": "Restoring Hope Center Food Pantry",
+    "description": "Drive-thru food pantry open Monday, Tuesday, and Friday 9:30am\u201311:00am for Laurinburg and Scotland County area residents.",
+    "address": "1206 North Main Street, Laurinburg, NC 28352",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "28350"
+  },
+  {
+    "name": "Hope Station",
+    "description": "Hub of support for Wilson County families in crisis providing food pantry (Monday, Wednesday, Friday 9am\u201311:30am), men's emergency shelter (20 beds), and women/family emergency shelter (10 beds). Also offers housing and emergency financial assistance.",
+    "address": "309 Goldsboro Street East, Wilson, NC 27893",
+    "phone": "(252) 291-7278",
+    "url": "https://www.hopestation-wilson.org/",
+    "categorySlug": "housing",
+    "zipCode": "27803"
+  },
+  {
+    "name": "New Christian Food Pantry",
+    "description": "Local nonprofit food pantry providing food and clothing to families in need in Wilson, NC. Open Monday\u2013Thursday 9:30am\u20133:00pm and Friday 9:30am\u20131:00pm.",
+    "address": "Wilson, NC 27803",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "27803"
+  },
+  {
+    "name": "A Touch of the Father's Love Food Ministry",
+    "description": "Client-choice food bank in Nash County open Monday, Wednesday, Friday, and Saturdays. Partner agency of the Food Bank of Central & Eastern NC.",
+    "address": "5193 Momeyer Way, Nashville, NC 27856",
+    "phone": "(252) 377-2209",
+    "url": "https://atouchofthefatherslove.org/",
+    "categorySlug": "food",
+    "zipCode": "27856"
+  },
+  {
+    "name": "Mother Hubbard's Cupboard",
+    "description": "Volunteer organization distributing emergency food to hungry residents in Wilmington. Open Wednesdays and Saturdays 12pm\u20133pm.",
+    "address": "315 Redcross Street, Wilmington, NC 28401",
+    "phone": "",
+    "url": "https://www.motherhubbardsnc.com/",
+    "categorySlug": "food",
+    "zipCode": "28401"
+  },
+  {
+    "name": "Good Shepherd Center",
+    "description": "Provides meals, day shelter with job placement, showers, clothing, and overnight shelter with dinner and case management for homeless individuals in Wilmington. Lunch served Monday\u2013Friday 11am\u201312pm.",
+    "address": "811 Martin Street, Wilmington, NC 28401",
+    "phone": "(910) 763-4424",
+    "url": "https://www.goodshepherdwilmington.org/",
+    "categorySlug": "housing",
+    "zipCode": "28401"
+  },
+  {
+    "name": "Early Bread Ministry",
+    "description": "Food pantry open Tuesdays and Thursdays 9am\u201311am, plus lunch served Wednesdays 11am\u20131pm at St. Peter the Fisherman Church.",
+    "address": "314 South Carolina Avenue, Wilmington, NC 28401",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "28401"
+  },
+  {
+    "name": "First Fruit Ministries",
+    "description": "Provides free food pantry (Wednesday 10am\u20131pm, Monday and Saturday 10am\u201312pm), day shelter, supportive housing, and street outreach with hot meals for homeless and at-risk individuals in Wilmington.",
+    "address": "2750 Vance Street, Wilmington, NC 28412",
+    "phone": "(910) 794-9656",
+    "url": "https://www.firstfruitministries.org/",
+    "categorySlug": "housing",
+    "zipCode": "28412"
+  },
+  {
+    "name": "Myrtle Grove Food Pantry",
+    "description": "Community food pantry serving south Wilmington residents on the 1st and 3rd Tuesday 10:00am\u20132:00pm.",
+    "address": "7547 Carolina Beach Road, Wilmington, NC 28412",
+    "phone": "(910) 793-6181",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "28412"
+  },
+  {
+    "name": "Help Center of Federal Point",
+    "description": "Local help center providing food and community assistance to Carolina Beach and Federal Point area residents.",
+    "address": "7 N 3rd Street, Carolina Beach, NC 28428",
+    "phone": "(910) 458-2777",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "28428"
+  },
+  {
+    "name": "St. Stanislaus Roman Catholic Church Food Pantry",
+    "description": "Church food pantry open every other Thursday 9:00am\u201311:00am serving Castle Hayne and surrounding residents.",
+    "address": "4849 Castle Hayne Road, Castle Hayne, NC 28429",
+    "phone": "(910) 675-2336",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "28429"
+  },
+  {
+    "name": "Brunswick Family Assistance",
+    "description": "Private nonprofit in operation since 1981 providing food pantry and financial assistance to Brunswick County residents.",
+    "address": "929 Old Ocean Highway, Bolivia, NC 28422",
+    "phone": "(910) 754-4766",
+    "url": "https://brunswickfamily.org/",
+    "categorySlug": "food",
+    "zipCode": "28449"
+  },
+  {
+    "name": "Way of the Cross Outreach",
+    "description": "Community food pantry serving Roanoke Rapids area residents on the 1st and 5th Sunday at 3:00pm.",
+    "address": "139 Stephens Street, Roanoke Rapids, NC 27870",
+    "phone": "(252) 535-1276",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "27832"
+  },
+  {
+    "name": "Jackson Mobile Food Pantry",
+    "description": "Food Bank of the Albemarle mobile distribution at Jackson United Methodist Church serving Northampton County residents on the 4th Monday of each month 3:45pm\u20134:45pm.",
+    "address": "206 Thomas Bragg Drive, Jackson, NC 27845",
+    "phone": "",
+    "url": "https://afoodbank.org/get-help/mobile-food-pantries/",
+    "categorySlug": "food",
+    "zipCode": "27845"
+  },
+  {
+    "name": "Northampton Mobile Food Pantry",
+    "description": "Food Bank of the Albemarle mobile distribution serving Rich Square area in Northampton County on the 4th Monday of each month 12:00pm\u20131:00pm.",
+    "address": "120 Sessoms Drive, Rich Square, NC 27869",
+    "phone": "",
+    "url": "https://afoodbank.org/get-help/mobile-food-pantries/",
+    "categorySlug": "food",
+    "zipCode": "27869"
+  },
+  {
+    "name": "Loaves and Fishes Ministries Warren",
+    "description": "Charitable food pantry serving Warren County residents Monday, Wednesday, Friday 9:00am\u20133:00pm (clients must sign in by 2:30pm).",
+    "address": "538 West Ridgeway Street, Warrenton, NC 27589",
+    "phone": "(252) 257-1160",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "27820"
+  },
+  {
+    "name": "AGAPE Food Pantry",
+    "description": "Client-choice food pantry feeding over 1,500 people monthly in Warren County. Open Monday, Tuesday, Thursday 9:00am\u20132:00pm. Families may visit once per month.",
+    "address": "28855 Legion Trail Drive, Warrenton, NC 27589",
+    "phone": "",
+    "url": "https://www.agapemo.org/",
+    "categorySlug": "food",
+    "zipCode": "27820"
+  },
+  {
+    "name": "Weldon Food Pantry",
+    "description": "Community food pantry serving Halifax County residents every Wednesday 12pm\u20136pm and for emergencies.",
+    "address": "Weldon, NC 27890",
+    "phone": "(252) 536-2437",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "27897"
+  },
+  {
+    "name": "Share the Table",
+    "description": "Faith-based nonprofit food pantry serving Pender and Onslow County communities including Hampstead, Holly Ridge, Surf City, Sneads Ferry, and Jacksonville. Open Sunday 4:30\u20136pm, Tuesday\u2013Thursday 10am\u201311:30am and 1\u20132:30pm.",
+    "address": "12395 NC-50, Hampstead, NC 28443",
+    "phone": "(910) 616-8897",
+    "url": "https://sharethetablenc.com/",
+    "categorySlug": "food",
+    "zipCode": "28445"
+  },
+  {
+    "name": "Onslow Community Outreach",
+    "description": "Provides food bank, soup kitchen (Monday\u2013Friday 11am\u2013noon), homeless shelter, and medical clinic for Onslow County residents.",
+    "address": "1210 Hargett Street, Jacksonville, NC 28540",
+    "phone": "(910) 455-5733",
+    "url": "https://onslowco.org/",
+    "categorySlug": "food",
+    "zipCode": "28540"
+  },
+  {
+    "name": "Salvation Army of Jacksonville",
+    "description": "Food pantry, clothing, emergency assistance, and other social services for Onslow County residents.",
+    "address": "403 Center Street, Jacksonville, NC 28546",
+    "phone": "(910) 346-8800",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "28546"
+  },
+  {
+    "name": "Second Chance Mission of Hope",
+    "description": "Provides groceries to struggling and low-income residents in Jacksonville and Onslow County.",
+    "address": "148 Kerr Street, Jacksonville, NC 28540",
+    "phone": "(910) 455-7111",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "28540"
+  },
+  {
+    "name": "SAFE Alamance Choice Food Pantry",
+    "description": "Southern Alamance Family Empowerment operates three client-choice grocery-style food pantries in Alamance County by appointment only. Open Tuesday and Thursday 9am\u2013noon and select Saturdays 9\u201311am.",
+    "address": "Alamance County, NC",
+    "phone": "(336) 525-2120",
+    "url": "https://www.safealamance.org/",
+    "categorySlug": "food",
+    "zipCode": "27243"
+  },
+  {
+    "name": "Cedar Grove United Methodist Church Outdoor Food Pantry",
+    "description": "Outdoor community free pantry accessible at all times for Cedar Grove and northern Orange County residents.",
+    "address": "5218 Efland Cedar Grove Road, Cedar Grove, NC 27231",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "27231"
+  },
+  {
+    "name": "Grace and Peace Cathedral Food Boxes",
+    "description": "Food distribution open daily Monday\u2013Sunday 1:00\u20133:00pm, plus 2nd Monday 2pm drive-thru and 4th Tuesday 5\u20136pm drive-thru. Serves Mebane and surrounding Alamance County residents.",
+    "address": "600 E Washington Street, Mebane, NC 27302",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "27243"
+  },
+  {
+    "name": "Samaritan Relief Ministry Food Pantry",
+    "description": "Food pantry providing basic nutritional needs for individuals and families in need in the Hillsborough area.",
+    "address": "300 Millstone Drive, Hillsborough, NC 27278",
+    "phone": "(919) 732-6194",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "27278"
+  },
+  {
+    "name": "Inter-Faith Council Community Market",
+    "description": "Free food market providing fresh produce, pantry staples, and hygiene items at no cost to households where someone lives or works in Chapel Hill or Carrboro.",
+    "address": "110 W. Main Street, Carrboro, NC 27510",
+    "phone": "(919) 929-6380",
+    "url": "https://www.ifcweb.org/services/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "27510"
+  },
+  {
+    "name": "IFC HomeStart",
+    "description": "24-hour emergency shelter for women and families experiencing homelessness, with capacity for up to 50 women and children.",
+    "address": "2505 Homestead Road, Chapel Hill, NC 27516",
+    "phone": "(919) 932-6025",
+    "url": "https://www.ifcweb.org/services/homestart",
+    "categorySlug": "housing",
+    "zipCode": "27516"
+  },
+  {
+    "name": "IFC SECU Community House",
+    "description": "24-hour shelter for men experiencing homelessness in Orange County.",
+    "address": "110 W. Main Street, Carrboro, NC 27510",
+    "phone": "(919) 245-2655",
+    "url": "https://www.ifcweb.org/services/community-house",
+    "categorySlug": "housing",
+    "zipCode": "27510"
+  },
+  {
+    "name": "PORCH Chapel Hill-Carrboro",
+    "description": "Grassroots hunger relief organization collecting food and cash donations through volunteers for distribution to local families, pantries, and schools.",
+    "address": "Chapel Hill, NC 27514",
+    "phone": "",
+    "url": "https://chapelhill.porchcommunities.org/",
+    "categorySlug": "food",
+    "zipCode": "27514"
+  },
+  {
+    "name": "Pamlico County Fishes and Loaves Outreach",
+    "description": "Referral-based food pantry distributing quality canned and packaged food, perishables, and personal hygiene products to Pamlico County residents. Also operates a monthly mobile food pantry.",
+    "address": "108 Straight Road, Oriental, NC 28571",
+    "phone": "",
+    "url": "https://pcflo.weebly.com/",
+    "categorySlug": "food",
+    "zipCode": "28571"
+  },
+  {
+    "name": "Food Bank of the Albemarle Neighborhood Hub",
+    "description": "Regional food bank and neighborhood hub serving northeastern NC, providing food assistance and SNAP application help.",
+    "address": "109 Tidewater Way, Elizabeth City, NC 27909",
+    "phone": "(252) 312-6238",
+    "url": "https://afoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "27909"
+  },
+  {
+    "name": "Pender County Christian Services",
+    "description": "Nonprofit community resource center since 1982 serving Pender County residents with food pantry, thrift store, and other support programs.",
+    "address": "210 W. Fremont Street, Burgaw, NC 28425",
+    "phone": "(910) 259-5840",
+    "url": "https://pendercountychristianservices.com/",
+    "categorySlug": "food",
+    "zipCode": "28425"
+  },
+  {
+    "name": "Brunswick Family Assistance Agency",
+    "description": "Private non-profit providing food pantry, rental assistance, utility assistance, prescription assistance, and other services to low-income residents of Brunswick County.",
+    "address": "4600-10 Main Street, Shallotte, NC 28459",
+    "phone": "(910) 754-4766",
+    "url": "https://brunswickfamily.org/",
+    "categorySlug": "food",
+    "zipCode": "28457"
+  },
+  {
+    "name": "Good Shepherd Food Pantry of Bertie County",
+    "description": "Food pantry fighting hunger in Bertie County for over 16 years, distributing food on the 2nd and 3rd Saturdays each month and the Wednesday and Thursday between those Saturdays.",
+    "address": "1008 N King Street, Windsor, NC 27983",
+    "phone": "(252) 484-3889",
+    "url": "https://goodshepherdfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "27985"
+  },
+  {
+    "name": "The Open Door Food Pantry of Perquimans County",
+    "description": "Provides food, personal care, and laundry products to people in need in Perquimans County. Open Monday, Wednesday, and Thursday.",
+    "address": "293 Creek Drive, Hertford, NC 27944",
+    "phone": "(252) 421-3700",
+    "url": "https://www.perquimansopendoor.com/",
+    "categorySlug": "food",
+    "zipCode": "27944"
+  },
+  {
+    "name": "Area Congregations in Ministry (ACIM)",
+    "description": "Nonprofit relieving hunger in Granville County through a food bank open multiple days per week. Also provides temporary shelter referrals.",
+    "address": "634 Roxboro Road, Oxford, NC 27565",
+    "phone": "(919) 690-0961",
+    "url": "https://www.acimgranville.org/",
+    "categorySlug": "food",
+    "zipCode": "27583"
+  },
+  {
+    "name": "Christian Help Center of Person County",
+    "description": "Provides food pantry, clothes closet, and soup kitchen services to residents of Person County and surrounding areas.",
+    "address": "122 Depot Street, Roxboro, NC 27573",
+    "phone": "(336) 599-6070",
+    "url": "https://www.christianhelpcenter.net/",
+    "categorySlug": "food",
+    "zipCode": "27573"
+  },
+  {
+    "name": "Tarboro Community Outreach",
+    "description": "Non-profit agency serving needy families and individuals of Edgecombe County since 1982, operating a 26-man homeless shelter, transitional housing, and a food pantry serving 400+ households monthly.",
+    "address": "701 Cedar Lane, Tarboro, NC 27886",
+    "phone": "(252) 823-8801",
+    "url": "",
+    "categorySlug": "housing",
+    "zipCode": "27812"
+  },
+  {
+    "name": "A Touch of the Father's Love Ministry and Food Pantry",
+    "description": "Food bank in Nash County specializing in client-choice shopping, serving veterans and families in Nash, Wilson, Edgecombe and Halifax counties.",
+    "address": "5193 Momeyer Way, Nashville, NC 27856",
+    "phone": "(252) 377-2209",
+    "url": "https://atouchofthefatherslove.org/",
+    "categorySlug": "food",
+    "zipCode": "27827"
+  },
+  {
+    "name": "Feed Your Neighbor Community Food Pantry",
+    "description": "Federally accredited 501(c)(3) nonprofit providing grocery distributions every Thursday afternoon to 450+ neighbors monthly in Pitt County.",
+    "address": "413 4th Street, Greenville, NC 27858",
+    "phone": "(252) 752-3482",
+    "url": "https://www.feedyourneighborgreenville.org/",
+    "categorySlug": "food",
+    "zipCode": "27858"
+  },
+  {
+    "name": "JOY Community Center",
+    "description": "Formerly Greenville Soup Kitchen, the only place in Greenville preparing and serving a free daily meal on weekdays and evening meals Monday through Thursday.",
+    "address": "Greenville, NC 27834",
+    "phone": "",
+    "url": "https://joycommunitycenter.org/",
+    "categorySlug": "food",
+    "zipCode": "27834"
+  },
+  {
+    "name": "Grifton Mission Ministries",
+    "description": "Food pantry providing food boxes and assistance to households in need in Lenoir County and six surrounding counties. Open Monday and Thursday.",
+    "address": "6499 N. Highland Boulevard, Grifton, NC 28530",
+    "phone": "(252) 253-8677",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "28530"
+  },
+  {
+    "name": "Community Food Pantry - Helping Hands of Henderson County",
+    "description": "Food pantry serving Henderson County using a shoppers-choice model, partnering with MANNA food bank and local farmers. Open Wednesday, Thursday, and Friday.",
+    "address": "3685 Chimney Rock Road, Hendersonville, NC 28756",
+    "phone": "(828) 692-8300",
+    "url": "https://www.communityfoodpantrync.com/",
+    "categorySlug": "food",
+    "zipCode": "28756"
+  },
+  {
+    "name": "Saluda Pop-Up Pantry",
+    "description": "Non-profit food pantry located in Downtown Saluda serving Polk and Henderson Counties. Open every Tuesday 1:00-6:00 PM at Saluda Presbyterian Church.",
+    "address": "54 Carolina Street, Saluda, NC 28773",
+    "phone": "",
+    "url": "https://saludapantry.com/",
+    "categorySlug": "food",
+    "zipCode": "28773"
+  },
+  {
+    "name": "Tryon Daily Bread / TBOUTREACH Food Assistance",
+    "description": "Local food assistance program serving Polk County residents in the Tryon area.",
+    "address": "Tryon, NC 28782",
+    "phone": "",
+    "url": "https://www.tboutreach.org/food-assistance.html",
+    "categorySlug": "food",
+    "zipCode": "28782"
+  },
+  {
+    "name": "Christians United Outreach Center (CUOC)",
+    "description": "Faith-based, community-supported crisis intervention center in Asheboro serving Randolph County for 30+ years, offering food pantry and emergency financial assistance.",
+    "address": "930 S Fayetteville Street, Asheboro, NC 27203",
+    "phone": "(336) 625-1500",
+    "url": "https://www.mycuoc.org/",
+    "categorySlug": "food",
+    "zipCode": "27203"
+  },
+  {
+    "name": "Ramseur Food Pantry",
+    "description": "Emergency food pantry providing food for residents of southeastern Randolph County. Open Monday, Wednesday, and Friday mornings and Tuesday evenings.",
+    "address": "724 Liberty Street, Ramseur, NC 27316",
+    "phone": "(336) 824-8045",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "27316"
+  },
+  {
+    "name": "Open Door Ministries of High Point",
+    "description": "Provides emergency assistance, men's shelter with 42 beds, and food pantry serving the homeless and low-income residents of High Point and surrounding areas.",
+    "address": "400 N Centennial Street, High Point, NC 27260",
+    "phone": "(336) 885-0191",
+    "url": "https://www.opendoorministrieshp.org/",
+    "categorySlug": "housing",
+    "zipCode": "27263"
+  },
+  {
+    "name": "Helping Hands High Point",
+    "description": "Food pantry serving 750+ households per week across Guilford and Randolph County, open Tuesday through Thursday.",
+    "address": "High Point, NC 27262",
+    "phone": "",
+    "url": "https://www.helpinghandshighpoint.org/",
+    "categorySlug": "food",
+    "zipCode": "27298"
+  },
+  {
+    "name": "Richmond County Rescue Mission",
+    "description": "Emergency shelter and support services helping men and women transition back into the community, with food pantry and clothing closet.",
+    "address": "252 School Street, Rockingham, NC 28379",
+    "phone": "",
+    "url": "https://www.richmond-county-rescue-mission.org/",
+    "categorySlug": "housing",
+    "zipCode": "28330"
+  },
+  {
+    "name": "Church Community Services of Scotland County",
+    "description": "Provides food bank, clothing closet, utility assistance, prescription assistance, and other services to Scotland County residents.",
+    "address": "108 S. Gill Street, Laurinburg, NC 28352",
+    "phone": "(910) 276-8330",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "28347"
+  },
+  {
+    "name": "Restoring Hope Center",
+    "description": "Provides drive-thru food pantry Monday, Tuesday, and Friday mornings for residents of Scotland County.",
+    "address": "1206 North Main Street, Laurinburg, NC 28352",
+    "phone": "(910) 276-4460",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "28352"
+  },
+  {
+    "name": "Robeson Together (Robeson County Church & Community Center)",
+    "description": "Robeson County's oldest and largest faith-based nonprofit, providing a Free Choice Food Pantry, rent and utility assistance, and monthly government food giveaway.",
+    "address": "600 W 5th Street, Lumberton, NC 28358",
+    "phone": "(910) 738-5204",
+    "url": "https://robesontogether.org/",
+    "categorySlug": "food",
+    "zipCode": "28358"
+  },
+  {
+    "name": "My Refuge",
+    "description": "Serves lunch and dinner Tuesday through Saturday and bagged lunches on Sundays; also provides food from pantry and temporary housing assistance in Lumberton.",
+    "address": "2020 W 5th Street, Lumberton, NC 28358",
+    "phone": "(910) 618-5600",
+    "url": "http://www.myrefugelumberton.org/",
+    "categorySlug": "crisis",
+    "zipCode": "28358"
+  },
+  {
+    "name": "AIMI Food Bank - Red Springs",
+    "description": "American Indian Mortgage Initiative providing food boxes and nutritional meals to families throughout Robeson and surrounding counties.",
+    "address": "108 S Main Street, Red Springs, NC 28377",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "28377"
+  },
+  {
+    "name": "Reidsville Outreach Center",
+    "description": "Cooperative Christian ministry serving people in need in Rockingham County and surrounding areas, including drive-thru food distribution every Thursday.",
+    "address": "435 S.W. Market Street, Reidsville, NC 27320",
+    "phone": "(336) 342-7770",
+    "url": "https://reidsvilleoutreachcenter.org/",
+    "categorySlug": "food",
+    "zipCode": "27320"
+  },
+  {
+    "name": "Rockingham Hope Food Pantry",
+    "description": "Faith-based ministry operating a drive-thru food pantry serving 500+ households monthly in Rockingham County. Open Tuesday through Thursday.",
+    "address": "326 E Stadium Drive, Eden, NC 27288",
+    "phone": "(336) 623-2133",
+    "url": "https://osbornebaptist.com/rockinghamhope/",
+    "categorySlug": "food",
+    "zipCode": "27025"
+  },
+  {
+    "name": "Home of Refuge Outreach",
+    "description": "501(c)(3) nonprofit providing year-round safe and secure shelter for the homeless with food and clean clothing in the Eden area.",
+    "address": "Eden, NC 27289",
+    "phone": "",
+    "url": "https://www.homeofrefugeoutreach.org/",
+    "categorySlug": "housing",
+    "zipCode": "27048"
+  },
+  {
+    "name": "Reidsville Outreach Center",
+    "description": "Cooperative Christian ministry serving people in need in Rockingham County and surrounding areas, with drive-thru food distribution every Thursday.",
+    "address": "435 S.W. Market Street, Reidsville, NC 27320",
+    "phone": "(336) 342-7770",
+    "url": "https://reidsvilleoutreachcenter.org/",
+    "categorySlug": "food",
+    "zipCode": "27320"
+  },
+  {
+    "name": "Rockingham Hope Food Pantry",
+    "description": "Faith-based ministry operating an appointment-based community food pantry serving 500+ households monthly in Rockingham County.",
+    "address": "326 E Stadium Drive, Eden, NC 27288",
+    "phone": "(336) 623-2133",
+    "url": "https://osbornebaptist.com/rockinghamhope/",
+    "categorySlug": "food",
+    "zipCode": "27288"
+  },
+  {
+    "name": "Rowan Helping Ministries",
+    "description": "Provides shelter for the homeless, food pantry, clothing center, kitchen, food packing programs, and crisis assistance throughout Rowan County.",
+    "address": "226 N. Long Street, Salisbury, NC 28144",
+    "phone": "(704) 637-6838",
+    "url": "https://rowanhelpingministries.org/",
+    "categorySlug": "food",
+    "zipCode": "28144"
+  },
+  {
+    "name": "Foothills Food Pantry",
+    "description": "Local food pantry in Dobson serving Surry County residents, open Tuesday and Thursday mornings and Monday evenings.",
+    "address": "233 Cooper Street, Dobson, NC 27017",
+    "phone": "(336) 386-8405",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "27288"
+  },
+  {
+    "name": "Tri County Christian Crisis Ministries",
+    "description": "Provides emergency food, clothing, power, water, and medicine assistance for residents of Jonesville, Elkin, Dobson, State Road, and Rhonda in Surry County.",
+    "address": "290 N Bridge Street, Elkin, NC 28621",
+    "phone": "(336) 526-1089",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "27013"
+  },
+  {
+    "name": "Helping Hands Foundation of Surry County",
+    "description": "Provides assistance with non-perishable food, toiletries, clothing, and utility bill assistance to Surry County residents. Open Monday through Friday.",
+    "address": "227 Rockford Street, Mount Airy, NC 27030",
+    "phone": "(336) 673-0215",
+    "url": "https://helpinghandsofsurry.org/",
+    "categorySlug": "food",
+    "zipCode": "28088"
+  },
+  {
+    "name": "Grace of God Rescue Mission",
+    "description": "Emergency shelter and daily meal program for men and women in Forest City. Provides 30-day shelter, three meals per day, and operates Gail's House for women and children.",
+    "address": "537 West Main Street, Forest City, NC 28043",
+    "phone": "(828) 245-9141",
+    "url": "",
+    "categorySlug": "housing",
+    "zipCode": "28043"
+  },
+  {
+    "name": "Neighbor's Food Pantry",
+    "description": "Non-profit, non-discriminating food charity providing food for approximately 400 families per month in Rutherford County.",
+    "address": "217 Gilkey School Road, Rutherfordton, NC 28139",
+    "phone": "(828) 652-5437",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "28139"
+  },
+  {
+    "name": "Basics Christian Ministries",
+    "description": "Community food pantry serving residents of the Henrietta area in Rutherford County.",
+    "address": "141 N. Main Street, Henrietta, NC 28114",
+    "phone": "(828) 289-7996",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "28114"
+  },
+  {
+    "name": "Washburn Community Outreach Center",
+    "description": "Community outreach center providing food assistance and support services to Bostic and surrounding areas in Rutherford County.",
+    "address": "2934 Piney Mountain Road, Bostic, NC 28018",
+    "phone": "(828) 245-5603",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "28018"
+  },
+  {
+    "name": "Sampson Partners",
+    "description": "Humanitarian relief nonprofit in Sampson County supporting food banks, college scholarships, domestic violence programs, and emergency relief through thrift store proceeds.",
+    "address": "309 East Main Street, Clinton, NC 28328",
+    "phone": "(910) 592-3599",
+    "url": "https://www.sampsonpartners.net/",
+    "categorySlug": "community",
+    "zipCode": "28318"
+  },
+  {
+    "name": "First Baptist Church Food Pantry - Clinton",
+    "description": "Food pantry serving Sampson County residents every Wednesday, with picture ID required.",
+    "address": "900 College Street, Clinton, NC 28328",
+    "phone": "(910) 592-2883",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "28328"
+  },
+  {
+    "name": "Restoring Hope Center",
+    "description": "Drive-thru food pantry serving Scotland County residents Monday, Tuesday, and Friday mornings.",
+    "address": "1206 North Main Street, Laurinburg, NC 28352",
+    "phone": "(910) 276-4460",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "28352"
+  },
+  {
+    "name": "Church Community Services of Scotland County",
+    "description": "Food bank, clothing closet, utility assistance, prescription assistance, and Christmas Cheer program serving Scotland County residents.",
+    "address": "108 S. Gill Street, Laurinburg, NC 28352",
+    "phone": "(910) 276-8330",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "28363"
+  },
+  {
+    "name": "Stanly Community Christian Ministry",
+    "description": "Non-profit providing food pantry, community tables, and financial assistance to Stanly County residents. Multiple pantry locations across the county.",
+    "address": "506 S. 1st Street, Albemarle, NC 28001",
+    "phone": "(704) 982-7915",
+    "url": "https://www.sccminc.org/",
+    "categorySlug": "food",
+    "zipCode": "28001"
+  },
+  {
+    "name": "West Stanly Christian Ministries",
+    "description": "Provides food, clothing, household items, and financial assistance for power, water, medications, and rent to western Stanly County residents.",
+    "address": "211 N Love Chapel Road, Stanfield, NC 28163",
+    "phone": "(704) 888-6406",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "28009"
+  },
+  {
+    "name": "Northern Stokes Food Pantry",
+    "description": "Community food pantry serving the Francisco area of northern Stokes County, open two Mondays per month with morning and afternoon hours.",
+    "address": "7257 NC 89 Highway W, Francisco, NC 27040",
+    "phone": "(336) 351-0900",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "28344"
+  },
+  {
+    "name": "Stanly Community Christian Ministry - Norwood Pantry",
+    "description": "Food pantry satellite location serving eastern Stanly County residents with walk-in availability on Mondays.",
+    "address": "247 W. Turner Court, Norwood, NC 28128",
+    "phone": "(704) 982-7915",
+    "url": "https://www.sccminc.org/food-pantries",
+    "categorySlug": "food",
+    "zipCode": "28128"
+  },
+  {
+    "name": "West Stanly Christian Ministries",
+    "description": "Provides food, clothing, household items, and financial assistance for utilities, medications, and rent to western Stanly County residents. Open Monday through Thursday.",
+    "address": "211 N Love Chapel Road, Stanfield, NC 28163",
+    "phone": "(704) 888-6406",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "28163"
+  },
+  {
+    "name": "Northern Stokes Food Pantry",
+    "description": "Community food pantry serving northern Stokes County residents in the Francisco area, open on alternating Mondays.",
+    "address": "7257 NC 89 Highway W, Francisco, NC 27040",
+    "phone": "(336) 351-0900",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "27016"
+  },
+  {
+    "name": "Rockingham Hope Food Pantry",
+    "description": "Faith-based ministry providing drive-thru food pantry and monthly mobile pantry for elderly clients in Rockingham County.",
+    "address": "326 E Stadium Drive, Eden, NC 27288",
+    "phone": "(336) 623-2133",
+    "url": "https://osbornebaptist.com/rockinghamhope/",
+    "categorySlug": "food",
+    "zipCode": "27019"
+  },
+  {
+    "name": "Helping Hands Foundation of Surry County",
+    "description": "Provides non-perishable food, toiletries, clothing, and utility bill assistance to Surry County residents. Open Monday through Friday.",
+    "address": "227 Rockford Street, Mount Airy, NC 27030",
+    "phone": "(336) 673-0215",
+    "url": "https://helpinghandsofsurry.org/",
+    "categorySlug": "food",
+    "zipCode": "27021"
+  },
+  {
+    "name": "Foothills Food Pantry",
+    "description": "Community food pantry in Dobson serving Surry County residents on multiple days per week.",
+    "address": "233 Cooper Street, Dobson, NC 27017",
+    "phone": "(336) 386-8405",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "27042"
+  },
+  {
+    "name": "Tri County Christian Crisis Ministries",
+    "description": "Provides emergency food, clothing, power assistance, and medicine for residents of the Elkin and surrounding Surry County area.",
+    "address": "290 N Bridge Street, Elkin, NC 28621",
+    "phone": "(336) 526-1089",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "27043"
+  },
+  {
+    "name": "The Shepherd's House of Mount Airy",
+    "description": "Emergency housing and shelter serving Surry County and surrounding areas.",
+    "address": "227 Rockford Street, Mount Airy, NC 27030",
+    "phone": "(336) 786-1420",
+    "url": "",
+    "categorySlug": "housing",
+    "zipCode": "27052"
+  },
+  {
+    "name": "Helping Hands Foundation of Surry County",
+    "description": "Food pantry providing food assistance to low-income residents of Surry County through TEFAP and community donation programs.",
+    "address": "227 Rockford Street, Mount Airy, NC 27030",
+    "phone": "336-673-0215",
+    "url": "https://helpinghandsofsurry.org",
+    "categorySlug": "food",
+    "zipCode": "27030"
+  },
+  {
+    "name": "King Outreach Ministry",
+    "description": "Nonprofit responding to crisis needs for food, clothing, shelter, heating fuel, and medicine for families in western Stokes County.",
+    "address": "221 Ingram Dr, King, NC 27021",
+    "phone": "336-983-4357",
+    "url": "https://kingoutreach.org",
+    "categorySlug": "food",
+    "zipCode": "27041"
+  },
+  {
+    "name": "East Stokes Outreach Ministry",
+    "description": "501(c)(3) nonprofit food pantry and thrift store serving residents on the eastern side of Stokes County in crisis situations.",
+    "address": "Stokes County, NC",
+    "phone": "",
+    "url": "https://www.eaststokesoutreachministry.com",
+    "categorySlug": "food",
+    "zipCode": "27047"
+  },
+  {
+    "name": "Ashe County Sharing Center",
+    "description": "Food pantry providing food to low-income families throughout Ashe County, open Monday, Tuesday, Thursday, and Friday.",
+    "address": "115 Colvard Street, Jefferson, NC 28640",
+    "phone": "336-846-7019",
+    "url": "https://ashefoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "28621"
+  },
+  {
+    "name": "Ashe Really Cares",
+    "description": "Nonprofit pantry providing free food, clothing, and essentials to low-income residents of Ashe County.",
+    "address": "204 Beaver Creek School Road, West Jefferson, NC 28694",
+    "phone": "336-846-5234",
+    "url": "https://ashereallycares.com",
+    "categorySlug": "food",
+    "zipCode": "28676"
+  },
+  {
+    "name": "Ashe Harvest Ministries",
+    "description": "Faith-based ministry offering a free food pantry to residents of Ashe County.",
+    "address": "West Jefferson, NC 28694",
+    "phone": "",
+    "url": "https://asheharvestministries.com",
+    "categorySlug": "food",
+    "zipCode": "28676"
+  },
+  {
+    "name": "Alleghany County Ministerium \u2013 Solid Rock Food Closet",
+    "description": "Faith-based food closet assisting low-income Alleghany County residents; requires photo ID and proof of county residency.",
+    "address": "71 Womble Street, Sparta, NC 28675",
+    "phone": "336-372-6560",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "28683"
+  },
+  {
+    "name": "Sharing House",
+    "description": "Faith-based cooperative providing food orders, hygiene items, clothing, showers, household items, and financial/utility assistance to Transylvania County residents.",
+    "address": "164 Duckworth Ave, Brevard, NC 28712",
+    "phone": "828-884-2866",
+    "url": "https://www.sharinghouse.org",
+    "categorySlug": "food",
+    "zipCode": "28712"
+  },
+  {
+    "name": "Hunger Coalition of Transylvania County",
+    "description": "Nonprofit addressing food insecurity in Transylvania County through food distribution programs.",
+    "address": "PO Box 1695, Brevard, NC 28712",
+    "phone": "828-577-3795",
+    "url": "https://www.hungerfreetc.com",
+    "categorySlug": "food",
+    "zipCode": "28712"
+  },
+  {
+    "name": "The Haven of Transylvania County",
+    "description": "Emergency shelter providing temporary housing for individuals and families experiencing homelessness in Transylvania County, with separate adult and family facilities.",
+    "address": "126 Oakdale St, Brevard, NC 28712",
+    "phone": "828-877-2040",
+    "url": "https://havenoftc.org",
+    "categorySlug": "housing",
+    "zipCode": "28712"
+  },
+  {
+    "name": "MANNA FoodBank \u2013 Bryson City Distribution",
+    "description": "Regional food bank distribution site operating at Southwestern Community College Swain Campus serving Bryson City and Swain County.",
+    "address": "60 Almond School Rd, Bryson City, NC 28713",
+    "phone": "",
+    "url": "https://mannafoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "28713"
+  },
+  {
+    "name": "Fishes & Loaves Food Pantry",
+    "description": "Nonprofit food pantry serving Jackson County residents, addressing food insecurity in Cashiers, Sylva, Dillsboro, and Webster.",
+    "address": "549 Frank Allen Rd, Cashiers, NC 28717",
+    "phone": "828-508-0378",
+    "url": "https://fishesandloavescashiers.org",
+    "categorySlug": "food",
+    "zipCode": "28718"
+  },
+  {
+    "name": "Saluda Pop-Up Pantry",
+    "description": "Community food pantry partnering with MANNA food bank and local farmers, offering shopper's choice model to Polk and Henderson County residents.",
+    "address": "54 Carolina Street, Saluda, NC 28773",
+    "phone": "828-674-5738",
+    "url": "https://saludapantry.com",
+    "categorySlug": "food",
+    "zipCode": "28772"
+  },
+  {
+    "name": "Tyrrell County Food Pantry",
+    "description": "Local nonprofit food pantry serving Columbia and Tyrrell County residents with monthly mobile food distribution.",
+    "address": "832 US Hwy 64 East, Columbia, NC 27925",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "27925"
+  },
+  {
+    "name": "Loaves and Fishes of Union County",
+    "description": "501(c)(3) volunteer-based community food pantry supporting local families in crisis in Union County, distributed free of charge.",
+    "address": "St. Paul's Episcopal Church, Monroe, NC 28110",
+    "phone": "704-960-1486",
+    "url": "https://www.loavesandfishesofunioncounty.org",
+    "categorySlug": "food",
+    "zipCode": "28110"
+  },
+  {
+    "name": "Community Shelter of Union County",
+    "description": "Emergency shelter, soup kitchen, and food pantry serving Union County residents 24/7 with rehousing assistance.",
+    "address": "160 Meadow St, Monroe, NC 28110",
+    "phone": "704-289-5300",
+    "url": "https://unionshelter.org",
+    "categorySlug": "housing",
+    "zipCode": "28110"
+  },
+  {
+    "name": "Open Arms Community Outreach",
+    "description": "Second Harvest and Feeding America agency in Union County providing food distribution on Tuesdays, Thursdays, and emergency Wednesdays.",
+    "address": "Monroe, NC 28112",
+    "phone": "980-269-1828",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "28112"
+  },
+  {
+    "name": "Common Heart \u2013 Union County Food Pantries",
+    "description": "Nonprofit operating drive-thru food pantries at multiple Union County church locations using TEFAP government commodities for qualifying residents.",
+    "address": "8515 Rea Rd, Waxhaw, NC 28173",
+    "phone": "704-218-9060",
+    "url": "https://commonheart.org",
+    "categorySlug": "food",
+    "zipCode": "28173"
+  },
+  {
+    "name": "Lifeline Outreach Inc.",
+    "description": "Provides emergency shelter for women and children in crisis, a food pantry, and a thrift store in Vance County.",
+    "address": "2014 Raleigh Road, Henderson, NC 27536",
+    "phone": "252-425-0346",
+    "url": "",
+    "categorySlug": "housing",
+    "zipCode": "27536"
+  },
+  {
+    "name": "Western Wake Crisis Ministry (NeighborUp)",
+    "description": "Community food pantry serving Apex, Holly Springs, Fuquay-Varina, New Hill, and Willow Spring residents with client-choice shopping model.",
+    "address": "1600 Olive Chapel Rd Ste 408, Apex, NC 27502",
+    "phone": "919-362-0657",
+    "url": "https://wwcm.org",
+    "categorySlug": "food",
+    "zipCode": "27502"
+  },
+  {
+    "name": "Dorcas Ministries",
+    "description": "Free emergency food assistance with client-choice model for Cary and Morrisville residents, open six days a week.",
+    "address": "193 High House Road, Cary, NC 27511",
+    "phone": "919-469-9861",
+    "url": "https://dorcasnc.org",
+    "categorySlug": "food",
+    "zipCode": "27511"
+  },
+  {
+    "name": "Christian Community In Action",
+    "description": "Nonprofit providing food and emergency assistance to residents of Cary, NC.",
+    "address": "Cary, NC 27513",
+    "phone": "919-468-4590",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "27513"
+  },
+  {
+    "name": "Fuquay-Varina Emergency Food Pantry",
+    "description": "Faith-based nonprofit combating hunger for residents of Fuquay-Varina, Willow Springs, Holly Springs, and Angier in Wake and Johnston Counties.",
+    "address": "216 W Academy Street, Fuquay Varina, NC 27526",
+    "phone": "919-552-7720",
+    "url": "https://www.fvfoodpantry.com",
+    "categorySlug": "food",
+    "zipCode": "27526"
+  },
+  {
+    "name": "Holly Springs Food Cupboard",
+    "description": "Volunteer-run 501(c)(3) food pantry serving Holly Springs and surrounding communities since 2010.",
+    "address": "621 W Holly Springs Road, Holly Springs, NC 27540",
+    "phone": "919-577-2210",
+    "url": "https://hsfoodcupboard.org",
+    "categorySlug": "food",
+    "zipCode": "27540"
+  },
+  {
+    "name": "Tri-Area Ministry Food Pantry",
+    "description": "Nonprofit, non-denominational, 100% volunteer food pantry serving 1,600+ families monthly in the Wake Forest, Youngsville, and Rolesville area since 1988.",
+    "address": "149 E Holding Avenue, Wake Forest, NC 27587",
+    "phone": "919-556-7144",
+    "url": "https://triareaministry.com",
+    "categorySlug": "food",
+    "zipCode": "27587"
+  },
+  {
+    "name": "Urban Ministries of Wake County",
+    "description": "Provides food pantry, emergency shelter for women (Helen Wright Center), and healthcare for uninsured adults in Wake County since 1981.",
+    "address": "1390 Capital Blvd, Raleigh, NC 27603",
+    "phone": "919-746-0101",
+    "url": "https://www.urbanmin.org",
+    "categorySlug": "food",
+    "zipCode": "27603"
+  },
+  {
+    "name": "Wake Relief",
+    "description": "All-volunteer emergency food pantry since 1975, providing a week's worth of groceries to Wake County residents experiencing food insecurity.",
+    "address": "4 N Blount St, Raleigh, NC 27601",
+    "phone": "919-307-8748",
+    "url": "https://wakerelief.org",
+    "categorySlug": "food",
+    "zipCode": "27601"
+  },
+  {
+    "name": "Catholic Parish Outreach Food Pantry",
+    "description": "One of the largest food pantries in eastern NC, serving any resident of Wake, Johnston, or Franklin County with free groceries.",
+    "address": "2013 North Raleigh Blvd, Raleigh, NC 27604",
+    "phone": "919-873-0245",
+    "url": "https://www.catholiccharitiesraleigh.org/programs/catholic-parish-outreach-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "27604"
+  },
+  {
+    "name": "Inter-Faith Food Shuttle",
+    "description": "Regional food bank and meal program distributing millions of pounds of food annually across the Triangle and eastern NC.",
+    "address": "1001 Blair Drive Suite 120, Raleigh, NC 27603",
+    "phone": "919-250-0043",
+    "url": "https://foodshuttle.org",
+    "categorySlug": "food",
+    "zipCode": "27603"
+  },
+  {
+    "name": "Family Promise of Wake County",
+    "description": "Shelter and services for homeless families including emergency shelter, transitional housing, rapid rehousing, and homelessness prevention.",
+    "address": "903 Method Rd, Raleigh, NC 27606",
+    "phone": "919-832-6024",
+    "url": "https://www.familypromisetriangle.org",
+    "categorySlug": "housing",
+    "zipCode": "27606"
+  },
+  {
+    "name": "North Raleigh Ministries",
+    "description": "Crisis center, food pantry, and thrift shop serving residents of north Raleigh zip codes 27604, 27609, 27612-27616.",
+    "address": "9650 Strickland Rd, Raleigh, NC 27615",
+    "phone": "919-844-6676",
+    "url": "https://northraleighministries.com",
+    "categorySlug": "food",
+    "zipCode": "27615"
+  },
+  {
+    "name": "The Helping Hand of Warren County",
+    "description": "Local nonprofit providing food pantry services to all Warren County residents with no income guidelines.",
+    "address": "Warrenton, NC 27589",
+    "phone": "",
+    "url": "https://www.warrencountyhelpinghand.com",
+    "categorySlug": "food",
+    "zipCode": "27551"
+  },
+  {
+    "name": "Loaves & Fishes Ministries \u2013 Warren County",
+    "description": "Faith-based food pantry providing monthly food boxes to low-income families, single parents, seniors, veterans, and others in Warren County.",
+    "address": "Warrenton, NC 27589",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "27551"
+  },
+  {
+    "name": "Hospitality House of Northwest NC",
+    "description": "Regional nonprofit providing emergency shelter, food pantry, transitional housing, and crisis assistance across seven High Country counties including Watauga and Avery.",
+    "address": "338 Brook Hollow Road, Boone, NC 28607",
+    "phone": "828-264-1237",
+    "url": "https://www.hosphouse.org",
+    "categorySlug": "housing",
+    "zipCode": "28607"
+  },
+  {
+    "name": "Hunger & Health Coalition",
+    "description": "Free food pantry, free pharmacy, and free clinic providing food boxes of 35-40 lbs to over 2,000 families twice monthly in Watauga County.",
+    "address": "141 Health Center Drive Suite C, Boone, NC 28607",
+    "phone": "828-262-1628",
+    "url": "https://www.hungerandhealthcoalition.org",
+    "categorySlug": "food",
+    "zipCode": "28607"
+  },
+  {
+    "name": "Yokefellow of Caldwell County",
+    "description": "Nonprofit providing food pantry, emergency assistance, and shelter for Caldwell County neighbors.",
+    "address": "202 Harper Ave, Lenoir, NC 28645",
+    "phone": "828-754-7088",
+    "url": "https://www.yokefellow.org",
+    "categorySlug": "food",
+    "zipCode": "28679"
+  },
+  {
+    "name": "United Church Ministries of Wayne County",
+    "description": "Provides food assistance and temporary financial assistance to residents of Wayne County, NC.",
+    "address": "119 W Walnut Street, Goldsboro, NC 27530",
+    "phone": "919-734-0480",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "27530"
+  },
+  {
+    "name": "HGDC Community Crisis Center",
+    "description": "Daily food pantry distribution of nonperishable items to Wayne County residents in need.",
+    "address": "607 S Slocomb Street, Goldsboro, NC 27534",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "27534"
+  },
+  {
+    "name": "Washington County Mobile Food Pantry",
+    "description": "Monthly mobile food distribution serving Washington County residents at Mt. Herman United Methodist Church on the 4th Tuesday of each month.",
+    "address": "11424 Newland Road, Creswell, NC 27928",
+    "phone": "",
+    "url": "https://afoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "27928"
+  },
+  {
+    "name": "Hope Station",
+    "description": "Hub of support for Wilson County families in crisis providing food pantry (up to 3 days of food), men's emergency shelter, and family/women's emergency shelter.",
+    "address": "309 Goldsboro Street East, Wilson, NC 27893",
+    "phone": "252-291-7278",
+    "url": "https://www.hopestation-wilson.org",
+    "categorySlug": "housing",
+    "zipCode": "27830"
+  },
+  {
+    "name": "Duplin Christian Outreach Ministries",
+    "description": "Local food pantry serving Wallace and Duplin County residents twice weekly with free groceries.",
+    "address": "514 S Norwood St, Wallace, NC 28466",
+    "phone": "910-285-6000",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "28333"
+  },
+  {
+    "name": "Samaritan Kitchen of Wilkes",
+    "description": "Client choice food pantry and Project Backpack program serving Wilkes County residents, open Monday, Wednesday, and Friday.",
+    "address": "4187 W US Hwy 421, Wilkesboro, NC 28697",
+    "phone": "336-838-5331",
+    "url": "https://skwilkes.org",
+    "categorySlug": "food",
+    "zipCode": "28606"
+  },
+  {
+    "name": "Tri-County Christian Crisis Ministry",
+    "description": "Nonprofit providing food, clothing, medication, utility assistance, and crisis support to residents of Surry, Alleghany, Ashe, and Yadkin county zip codes.",
+    "address": "290 N Bridge Street, Elkin, NC 28621",
+    "phone": "336-526-1089",
+    "url": "https://tric-ministry.com",
+    "categorySlug": "food",
+    "zipCode": "28669"
+  },
+  {
+    "name": "Yadkin Christian Ministries",
+    "description": "Food pantry serving Yadkin County residents in Yadkinville and East Bend.",
+    "address": "Yadkinville, NC 27055",
+    "phone": "336-677-0000",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "28670"
+  },
+  {
+    "name": "A Touch of the Father's Love Ministry and Food Pantry",
+    "description": "Client choice food bank in Nash County serving veterans and families in Nash, Wilson, Edgecombe, and Halifax counties.",
+    "address": "526 E Nash St, Spring Hope, NC 27882",
+    "phone": "252-343-3362",
+    "url": "https://atouchofthefatherslove.org",
+    "categorySlug": "food",
+    "zipCode": "27851"
+  },
+  {
+    "name": "Wilson Oasis Center",
+    "description": "Provides shelter, food, clothing, counseling, and support services for homeless individuals, impoverished residents, and abused women and children in Wilson County.",
+    "address": "223 N Douglas St, Wilson, NC 27893",
+    "phone": "252-991-4168",
+    "url": "https://wilsonoasis.com",
+    "categorySlug": "housing",
+    "zipCode": "27893"
+  },
+  {
+    "name": "Hope Station \u2013 Wilson County",
+    "description": "Emergency food pantry and shelter (men's shelter and family/women's shelter) serving Wilson County families in crisis.",
+    "address": "309 Goldsboro Street East, Wilson, NC 27893",
+    "phone": "252-291-7278",
+    "url": "https://www.hopestation-wilson.org",
+    "categorySlug": "food",
+    "zipCode": "27896"
+  },
+  {
+    "name": "Yadkin Christian Ministries",
+    "description": "Cooperative effort of churches and nonprofits providing food, utility assistance, medicine, and other necessities to low-income Yadkin County residents.",
+    "address": "117 Woodlyn Dr, Yadkinville, NC 27055",
+    "phone": "336-677-3080",
+    "url": "http://y-c-m.org",
+    "categorySlug": "food",
+    "zipCode": "27055"
+  },
+  {
+    "name": "A Storehouse for Jesus \u2013 Yadkin County",
+    "description": "Food pantry providing groceries to families in Yadkin County, open Monday, Tuesday, Wednesday, and Thursday.",
+    "address": "Yadkin County, NC",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "28642"
+  },
+  {
+    "name": "Catherine H. Barber Memorial Homeless Shelter",
+    "description": "Emergency overnight shelter for homeless individuals in Wilkes County.",
+    "address": "3200 Statesville Road, North Wilkesboro, NC 28659",
+    "phone": "",
+    "url": "",
+    "categorySlug": "housing",
+    "zipCode": "28685"
+  },
+  {
+    "name": "Mitchell County Shepherd's Staff",
+    "description": "501(c)(3) nonprofit with the primary goal of defeating hunger in Mitchell County through a food distribution pantry.",
+    "address": "10994 NC-226, Spruce Pine, NC 28777",
+    "phone": "828-765-5385",
+    "url": "https://www.mcshepherdsstaff.org",
+    "categorySlug": "food",
+    "zipCode": "28714"
+  },
+  {
+    "name": "Helping Hand Pantry of Mitchell County",
+    "description": "Community-based nonprofit providing personal care and food assistance to Mitchell County residents since 2007.",
+    "address": "Bakersville, NC 28705",
+    "phone": "",
+    "url": "https://www.helpinghandpantryofmitchell.org",
+    "categorySlug": "food",
+    "zipCode": "28714"
+  },
+  {
+    "name": "Beacon of Hope \u2013 Madison County",
+    "description": "Provides weekly food assistance to 1,700+ families monthly in Madison County, plus a thrift store and other services.",
+    "address": "5111 US Hwy 25/70, Marshall, NC 28753",
+    "phone": "828-649-3470",
+    "url": "https://bohmarshall.org",
+    "categorySlug": "food",
+    "zipCode": "28740"
+  },
+  {
+    "name": "Neighbors in Need \u2013 Madison County",
+    "description": "Faith-based, all-volunteer nonprofit providing heating, utility, and food assistance to Madison County residents in short-term crisis since 1981.",
+    "address": "Marshall Presbyterian Church, 165 S Main St, Marshall, NC 28753",
+    "phone": "",
+    "url": "https://www.neighborsinneednc.com",
+    "categorySlug": "utilities",
+    "zipCode": "28740"
+  },
+  {
+    "name": "Salvation Army \u2013 Madison, Mitchell & Yancey",
+    "description": "Monthly food pantry serving residents of Madison, Mitchell, and Yancey counties on the second Wednesday of each month.",
+    "address": "Hot Springs, NC 28743",
+    "phone": "828-622-3355",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "28755"
+  }
+]

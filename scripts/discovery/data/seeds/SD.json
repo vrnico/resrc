@@ -1,0 +1,1037 @@
+[
+  {
+    "name": "Community Health Care — Huron Clinic",
+    "description": "Federally Qualified Health Center providing affordable primary care, dental, and behavioral health services to underserved residents of Beadle County regardless of ability to pay.",
+    "address": "169 Kansas Ave SE, Huron, SD 57350",
+    "phone": "(605) 352-9489",
+    "url": "https://www.chcssd.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "57350"
+  },
+  {
+    "name": "Huron Area Nutrition Center",
+    "description": "Food pantry and nutrition services serving Beadle County residents. Provides supplemental food assistance to low-income individuals and families in the Huron area.",
+    "address": "35 5th St SW, Huron, SD 57350",
+    "phone": "(605) 352-3554",
+    "url": "https://www.beadlecounty.org/",
+    "categorySlug": "food",
+    "zipCode": "57350"
+  },
+  {
+    "name": "Prairie Lakes Healthcare — Huron Medical Clinic",
+    "description": "Outpatient medical clinic providing primary care services to Beadle County and surrounding communities. Offers family medicine, preventive care, and chronic disease management.",
+    "address": "801 E Dakota Ave, Huron, SD 57350",
+    "phone": "(605) 353-6100",
+    "url": "https://www.prairielakes.com/",
+    "categorySlug": "healthcare",
+    "zipCode": "57350"
+  },
+  {
+    "name": "Salvation Army Huron",
+    "description": "Provides emergency food assistance, utility assistance, and social services to individuals and families in the Huron and Beadle County area.",
+    "address": "187 3rd St SW, Huron, SD 57350",
+    "phone": "(605) 352-8792",
+    "url": "https://www.salvationarmyusa.org/usn/",
+    "categorySlug": "food",
+    "zipCode": "57350"
+  },
+  {
+    "name": "Bennett County Food Pantry",
+    "description": "Community food pantry in Martin serving Bennett County residents with supplemental groceries and emergency food assistance.",
+    "address": "105 N Main St, Martin, SD 57551",
+    "phone": "(605) 685-6520",
+    "url": "https://www.bennettcountysd.com/",
+    "categorySlug": "food",
+    "zipCode": "57551"
+  },
+  {
+    "name": "Dakota Plains Legal Services — Martin Office",
+    "description": "Provides free civil legal aid to low-income Native American and rural South Dakota residents in Bennett, Butte, and Charles Mix counties, covering housing, family law, and benefits.",
+    "address": "204 N Main St, Martin, SD 57551",
+    "phone": "(605) 685-6902",
+    "url": "https://www.dakotaplainslegal.org/",
+    "categorySlug": "community",
+    "zipCode": "57551"
+  },
+  {
+    "name": "Great Plains Tribal Chairmen's Health Board — Bennett County",
+    "description": "Provides health and social services coordination for tribal and rural residents in Bennett County and the surrounding Pine Ridge area, including referrals to Indian Health Service and community programs.",
+    "address": "115 N Main St, Martin, SD 57551",
+    "phone": "(605) 685-6845",
+    "url": "https://www.gptchb.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "57551"
+  },
+  {
+    "name": "Bon Homme County Food Pantry — Tyndall",
+    "description": "Local food pantry serving Bon Homme County residents in the Tyndall area with supplemental groceries and emergency food assistance.",
+    "address": "304 Ash St, Tyndall, SD 57066",
+    "phone": "(605) 589-3321",
+    "url": "https://www.bonhommecounty.org/",
+    "categorySlug": "food",
+    "zipCode": "57066"
+  },
+  {
+    "name": "Brookings Area United Way",
+    "description": "Coordinates community resources and social service funding for Brookings County. Connects residents to food, housing, health, and emergency assistance programs through 211 and partner agencies.",
+    "address": "524 4th St, Brookings, SD 57006",
+    "phone": "(605) 692-4981",
+    "url": "https://www.brookingsunitedway.org/",
+    "categorySlug": "community",
+    "zipCode": "57006"
+  },
+  {
+    "name": "Brookings Health System",
+    "description": "Regional hospital and outpatient clinic providing comprehensive healthcare services to Brookings County and surrounding areas, including emergency care, primary care, and specialty services.",
+    "address": "300 22nd Ave, Brookings, SD 57006",
+    "phone": "(605) 696-9000",
+    "url": "https://www.brookingshealth.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "57006"
+  },
+  {
+    "name": "East River Legal Services — Brookings Office",
+    "description": "Provides free civil legal aid to low-income South Dakotans in Brookings and surrounding counties, covering housing, family law, benefits, and consumer issues.",
+    "address": "315 4th Ave N, Brookings, SD 57006",
+    "phone": "(605) 692-4741",
+    "url": "https://www.eastriverlegalservices.org/",
+    "categorySlug": "community",
+    "zipCode": "57006"
+  },
+  {
+    "name": "Aberdeen Area Community Health Center (now Avera Medical Group)",
+    "description": "Community health center in Aberdeen serving Brown County with primary care, mental health, and support services. Part of the regional Avera Health network.",
+    "address": "3000 8th Ave NE, Aberdeen, SD 57401",
+    "phone": "(605) 622-5000",
+    "url": "https://www.avera.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "57401"
+  },
+  {
+    "name": "Aberdeen Area Transition to Living (AATL)",
+    "description": "Provides transitional housing and supportive services for homeless adults and families in Aberdeen, with case management, life skills, and housing placement assistance.",
+    "address": "16 N Arch St, Aberdeen, SD 57401",
+    "phone": "(605) 225-6704",
+    "url": "https://www.aatl.org/",
+    "categorySlug": "housing",
+    "zipCode": "57401"
+  },
+  {
+    "name": "Avera St. Luke's Hospital",
+    "description": "Regional medical center in Aberdeen providing comprehensive healthcare including emergency, inpatient, outpatient, cancer care, and specialty services for northeastern South Dakota.",
+    "address": "305 S State St, Aberdeen, SD 57401",
+    "phone": "(605) 622-5000",
+    "url": "https://www.avera.org/st-lukes/",
+    "categorySlug": "healthcare",
+    "zipCode": "57401"
+  },
+  {
+    "name": "Human Services & SD Department of Social Services — Aberdeen Office",
+    "description": "State social services office providing SNAP food assistance, Medicaid enrollment, TANF, child care assistance, and other benefits to Brown County residents.",
+    "address": "1400 15th Ave NW, Aberdeen, SD 57401",
+    "phone": "(605) 626-2750",
+    "url": "https://dss.sd.gov/",
+    "categorySlug": "community",
+    "zipCode": "57401"
+  },
+  {
+    "name": "Northeast Council of Governments (NECOG)",
+    "description": "Regional planning agency serving northeastern South Dakota counties providing community development, housing assistance, senior services, and transportation programs.",
+    "address": "416 Production St N, Aberdeen, SD 57401",
+    "phone": "(605) 626-2595",
+    "url": "https://www.necog.net/",
+    "categorySlug": "community",
+    "zipCode": "57401"
+  },
+  {
+    "name": "Northeast SD Food Bank (Aberdeen)",
+    "description": "Regional food bank distributing food to pantries and agencies across northeastern South Dakota. Operates in partnership with Feeding South Dakota and serves Brown, Day, Marshall, and neighboring counties.",
+    "address": "1900 8th Ave NE, Aberdeen, SD 57401",
+    "phone": "(605) 225-3141",
+    "url": "https://feedingsouthdakota.org/",
+    "categorySlug": "food",
+    "zipCode": "57401"
+  },
+  {
+    "name": "Salvation Army Aberdeen",
+    "description": "Provides emergency food assistance, utility aid, clothing, and social services to individuals and families in Aberdeen and Brown County.",
+    "address": "420 N Lincoln St, Aberdeen, SD 57401",
+    "phone": "(605) 225-3371",
+    "url": "https://www.salvationarmynorthernusa.org/",
+    "categorySlug": "food",
+    "zipCode": "57401"
+  },
+  {
+    "name": "Brule County Food Pantry",
+    "description": "Community food pantry in Chamberlain providing supplemental groceries and emergency food to Brule County residents and travelers along the I-90 corridor.",
+    "address": "115 W Lawler Ave, Chamberlain, SD 57325",
+    "phone": "(605) 234-6416",
+    "url": "https://www.brulecountysd.com/",
+    "categorySlug": "food",
+    "zipCode": "57325"
+  },
+  {
+    "name": "Chamberlain-Oacoma Area Community Services",
+    "description": "Provides emergency assistance, food pantry services, and referrals to social services for Brule County residents in the Chamberlain and Pukwana communities.",
+    "address": "130 N Main St, Chamberlain, SD 57325",
+    "phone": "(605) 234-4472",
+    "url": "https://www.sd211.org/",
+    "categorySlug": "community",
+    "zipCode": "57325"
+  },
+  {
+    "name": "Belle Fourche Food Pantry",
+    "description": "Community food pantry serving Butte County residents in Belle Fourche and surrounding communities with emergency food assistance and supplemental groceries.",
+    "address": "1019 Elkhorn St, Belle Fourche, SD 57717",
+    "phone": "(605) 892-2641",
+    "url": "https://www.bellefourche.org/",
+    "categorySlug": "food",
+    "zipCode": "57717"
+  },
+  {
+    "name": "Spearfish Regional Hospital — Belle Fourche Clinic",
+    "description": "Outpatient medical clinic in Belle Fourche providing primary care and preventive health services to Butte County. Affiliated with Monument Health system.",
+    "address": "2800 13th Ave, Belle Fourche, SD 57717",
+    "phone": "(605) 892-2500",
+    "url": "https://www.monument.health/",
+    "categorySlug": "healthcare",
+    "zipCode": "57717"
+  },
+  {
+    "name": "Charles Mix County Food Pantry — Lake Andes",
+    "description": "Food pantry serving Charles Mix County residents in Lake Andes and surrounding communities with supplemental groceries and emergency food assistance.",
+    "address": "430 Main St, Lake Andes, SD 57356",
+    "phone": "(605) 487-7541",
+    "url": "https://www.charlesmixcounty.org/",
+    "categorySlug": "food",
+    "zipCode": "57356"
+  },
+  {
+    "name": "Wagner Community Memorial Hospital",
+    "description": "Critical access hospital serving Charles Mix County with emergency care, inpatient services, outpatient clinics, and long-term care for southeastern South Dakota communities.",
+    "address": "513 3rd St SW, Wagner, SD 57380",
+    "phone": "(605) 384-3611",
+    "url": "https://www.wagnersd.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "57380"
+  },
+  {
+    "name": "Sanford Vermillion Medical Center",
+    "description": "Critical access hospital and outpatient clinic in Vermillion offering emergency care, inpatient services, primary care, and specialty clinics for Clay County.",
+    "address": "20 S Plum St, Vermillion, SD 57069",
+    "phone": "(605) 624-2611",
+    "url": "https://www.sanfordhealth.org/locations/vermillion-medical-center",
+    "categorySlug": "healthcare",
+    "zipCode": "57069"
+  },
+  {
+    "name": "Vermillion Area Food Pantry",
+    "description": "Provides supplemental grocery assistance to low-income residents of Clay County. Open on a regular schedule with no income verification required.",
+    "address": "15 Court St, Vermillion, SD 57069",
+    "phone": "(605) 624-4488",
+    "url": "https://www.vermillionchamber.com/community-resources",
+    "categorySlug": "food",
+    "zipCode": "57069"
+  },
+  {
+    "name": "Watertown Area Community Needs Council",
+    "description": "Coordinates and funds social service programs for Codington County including emergency assistance, food support, housing, and youth services. Administers emergency food and utility funds.",
+    "address": "115 1st St SE, Watertown, SD 57201",
+    "phone": "(605) 882-0952",
+    "url": "https://www.waterneedscommunity.org/",
+    "categorySlug": "community",
+    "zipCode": "57201"
+  },
+  {
+    "name": "Standing Rock Sioux Tribe Social Services — McLaughlin",
+    "description": "Tribal social services office in McLaughlin serving Corson County residents on Standing Rock with TANF, food assistance, emergency aid, and referrals to tribal and federal programs.",
+    "address": "115 Oak St, McLaughlin, SD 57642",
+    "phone": "(605) 823-4225",
+    "url": "https://www.standingrock.org/",
+    "categorySlug": "community",
+    "zipCode": "57642"
+  },
+  {
+    "name": "Custer Regional Hospital",
+    "description": "Critical access hospital in Custer City providing emergency care, inpatient services, primary care clinics, and outpatient specialty services for Custer County and southern Black Hills communities. Part of Monument Health.",
+    "address": "1039 Montgomery St, Custer, SD 57730",
+    "phone": "(605) 673-2229",
+    "url": "https://www.monument.health/location/custer-regional-hospital",
+    "categorySlug": "healthcare",
+    "zipCode": "57730"
+  },
+  {
+    "name": "Avera Queen of Peace — Mitchell",
+    "description": "Regional hospital in Mitchell providing emergency services, inpatient care, cancer care, behavioral health, and outpatient clinics for Davison County and central South Dakota.",
+    "address": "525 N Foster St, Mitchell, SD 57301",
+    "phone": "(605) 995-2000",
+    "url": "https://www.avera.org/queen-of-peace/",
+    "categorySlug": "healthcare",
+    "zipCode": "57301"
+  },
+  {
+    "name": "Mitchell Meals on Wheels",
+    "description": "Home-delivered meal program serving homebound seniors and disabled individuals in Davison County and the Mitchell area, coordinated through the local aging services network.",
+    "address": "818 N Sanborn Blvd, Mitchell, SD 57301",
+    "phone": "(605) 995-8610",
+    "url": "https://www.sdaging.org/",
+    "categorySlug": "food",
+    "zipCode": "57301"
+  },
+  {
+    "name": "Sanford Webster Medical Center",
+    "description": "Critical access hospital in Webster providing emergency care, inpatient services, primary care clinics, and long-term care for Day County and northeastern South Dakota.",
+    "address": "1401 W 1st St, Webster, SD 57274",
+    "phone": "(605) 345-3336",
+    "url": "https://www.sanfordhealth.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "57274"
+  },
+  {
+    "name": "Deuel County Memorial Hospital",
+    "description": "Critical access hospital in Clear Lake providing emergency care, primary care, outpatient services, and long-term care for Deuel County and surrounding eastern South Dakota communities.",
+    "address": "701 3rd Ave S, Clear Lake, SD 57226",
+    "phone": "(605) 874-2141",
+    "url": "https://www.dchsd.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "57226"
+  },
+  {
+    "name": "Cheyenne River Health Center",
+    "description": "IHS/FQHC providing comprehensive primary care, dental, behavioral health, pharmacy, and preventive health services to the Cheyenne River Sioux Tribe and surrounding Dewey County communities.",
+    "address": "1000 SD Hwy 20, Eagle Butte, SD 57625",
+    "phone": "(605) 964-7724",
+    "url": "https://www.crst.org/departments/health-department/",
+    "categorySlug": "healthcare",
+    "zipCode": "57625"
+  },
+  {
+    "name": "Cheyenne River Sioux Tribe Social Services",
+    "description": "Tribal social services department in Eagle Butte serving enrolled members of the Cheyenne River Sioux Tribe in Ziebach County with family assistance, TANF, emergency aid, child welfare, and elder programs.",
+    "address": "PO Box 590, Eagle Butte, SD 57625",
+    "phone": "(605) 964-4155",
+    "url": "https://www.crst.nsn.us/",
+    "categorySlug": "community",
+    "zipCode": "57625"
+  },
+  {
+    "name": "Cheyenne River Sioux Tribe Social Services",
+    "description": "Tribal social services in Eagle Butte providing TANF, food assistance, child welfare, emergency aid, and community support programs for Cheyenne River Sioux Tribe members and Dewey County residents.",
+    "address": "P.O. Box 590, Eagle Butte, SD 57625",
+    "phone": "(605) 964-4155",
+    "url": "https://www.crst.org/",
+    "categorySlug": "community",
+    "zipCode": "57625"
+  },
+  {
+    "name": "IHS Cheyenne River Service Unit — Eagle Butte",
+    "description": "Indian Health Service facility in Eagle Butte providing inpatient and outpatient medical care, dental, behavioral health, and public health programs to Cheyenne River Sioux Tribe members across Ziebach and Dewey counties.",
+    "address": "1000 SD-63, Eagle Butte, SD 57625",
+    "phone": "(605) 964-7724",
+    "url": "https://www.ihs.gov/cheyenneriver/",
+    "categorySlug": "healthcare",
+    "zipCode": "57625"
+  },
+  {
+    "name": "Fall River Health Services",
+    "description": "FQHC providing comprehensive primary care, dental, behavioral health, and pharmacy services on a sliding fee scale to Fall River County and southwestern South Dakota residents.",
+    "address": "1320 Washington St, Hot Springs, SD 57747",
+    "phone": "(605) 745-3159",
+    "url": "https://www.fallriverhealth.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "57747"
+  },
+  {
+    "name": "VA Black Hills Health Care System — Hot Springs Campus",
+    "description": "VA medical facility in Hot Springs providing primary care, mental health, long-term care, and specialty services to eligible veterans in southwestern South Dakota and surrounding region.",
+    "address": "500 N 5th St, Hot Springs, SD 57747",
+    "phone": "(605) 745-2000",
+    "url": "https://www.blackhills.va.gov/",
+    "categorySlug": "healthcare",
+    "zipCode": "57747"
+  },
+  {
+    "name": "Faulk County Medical Center",
+    "description": "Critical access hospital in Faulkton providing emergency care, primary care clinics, outpatient services, and long-term care for Faulk County in north-central South Dakota.",
+    "address": "300 Crescent St, Faulkton, SD 57438",
+    "phone": "(605) 598-6262",
+    "url": "https://www.faulkcountymedicalcenter.com/",
+    "categorySlug": "healthcare",
+    "zipCode": "57438"
+  },
+  {
+    "name": "Human Service Agency — Milbank Office",
+    "description": "Community behavioral health center offering mental health counseling, psychiatric services, and case management to residents of Grant County and surrounding counties.",
+    "address": "210 E 5th Ave, Milbank, SD 57252",
+    "phone": "(605) 432-9588",
+    "url": "https://www.humanserviceagency.org/",
+    "categorySlug": "community",
+    "zipCode": "57252"
+  },
+  {
+    "name": "Inter-Lakes Community Action Partnership — Milbank",
+    "description": "Community action agency providing food pantry, emergency assistance, weatherization, senior dining, and social services to low-income families and seniors in Grant County and the surrounding region.",
+    "address": "210 E 5th Ave, Milbank, SD 57252",
+    "phone": "(605) 432-6571",
+    "url": "https://www.interlakescap.com/",
+    "categorySlug": "food",
+    "zipCode": "57252"
+  },
+  {
+    "name": "Milbank Area Hospital Avera",
+    "description": "Critical access hospital providing 24/7 emergency care, primary care, dialysis, and outpatient services to Grant County and surrounding rural communities.",
+    "address": "901 E Virgil Ave, Milbank, SD 57252",
+    "phone": "(605) 432-4538",
+    "url": "https://www.avera.org/locations/profile/milbank-area-hospital-avera/",
+    "categorySlug": "healthcare",
+    "zipCode": "57252"
+  },
+  {
+    "name": "Philip Health Services",
+    "description": "Critical access hospital serving Haakon County and surrounding rural communities, offering emergency care, primary care, long-term care, assisted living, and a satellite clinic in Kadoka.",
+    "address": "503 W Pine St, Philip, SD 57567",
+    "phone": "(605) 859-2511",
+    "url": "https://www.philiphealthservices.com/",
+    "categorySlug": "healthcare",
+    "zipCode": "57567"
+  },
+  {
+    "name": "Avera St. Mary's Hospital — Community Care",
+    "description": "Regional hospital in Pierre providing community health programs, emergency care, primary care, and social work services to residents of Stanley, Sully, and surrounding central South Dakota counties.",
+    "address": "801 E Sioux Ave, Pierre, SD 57501",
+    "phone": "(605) 224-3100",
+    "url": "https://www.avera.org/st-marys-pierre/",
+    "categorySlug": "healthcare",
+    "zipCode": "57501"
+  },
+  {
+    "name": "Avera St. Mary's Hospital — Pierre",
+    "description": "Full-service regional hospital and the only facility of its size within a 100-mile radius, offering primary care, specialty services, behavioral health, cancer care, and community health programs in Hughes County.",
+    "address": "801 E Sioux Ave, Pierre, SD 57501",
+    "phone": "(605) 224-3100",
+    "url": "https://www.avera.org/locations/profile/avera-st-marys-hospital/",
+    "categorySlug": "healthcare",
+    "zipCode": "57501"
+  },
+  {
+    "name": "Missouri Shores Domestic Violence Center",
+    "description": "Provides shelter, advocacy, and support services to victims of domestic violence and sexual assault in the Pierre area, with a 24/7 crisis hotline serving Hughes County and surrounding region.",
+    "address": "Pierre, SD 57501",
+    "phone": "(605) 224-7187",
+    "url": "http://missourishores.com/",
+    "categorySlug": "housing",
+    "zipCode": "57501"
+  },
+  {
+    "name": "Pierre Area Referral Service (PARS) Food Pantry",
+    "description": "Nonprofit administering the Pierre/Fort Pierre Food Pantry, Holiday Food Program, BackPack Food Program, and emergency assistance services for Hughes County residents in need.",
+    "address": "108 W Missouri Ave, Pierre, SD 57501",
+    "phone": "(605) 224-8731",
+    "url": "https://pierreareareferral.org/",
+    "categorySlug": "food",
+    "zipCode": "57501"
+  },
+  {
+    "name": "Freeman Regional Health Services",
+    "description": "Critical access hospital and clinic system serving Hutchinson, McCook, and Turner counties with inpatient care, primary care clinics in Freeman, Menno, Marion, and Bridgewater, plus skilled nursing and WIC services.",
+    "address": "101 E Freeman Dr, Freeman, SD 57029",
+    "phone": "(605) 925-4000",
+    "url": "https://freemanregional.com/",
+    "categorySlug": "healthcare",
+    "zipCode": "57029"
+  },
+  {
+    "name": "Philip Health Services — Kadoka Clinic",
+    "description": "Satellite outpatient clinic of Philip Health Services providing primary care and general health services to Jackson County residents four days per week, located on the edge of Badlands National Park.",
+    "address": "601 Chestnut St, Kadoka, SD 57543",
+    "phone": "(605) 837-2267",
+    "url": "https://www.philiphealthservices.com/facility/kadoka-clinic/",
+    "categorySlug": "healthcare",
+    "zipCode": "57543"
+  },
+  {
+    "name": "Horizon Health Care — Wessington Springs Medical and Dental",
+    "description": "Federally Qualified Health Center offering affordable medical and dental care, behavioral health, addiction services, and care management to Jerauld County residents on a sliding fee scale.",
+    "address": "602 1st St NE, Wessington Springs, SD 57382",
+    "phone": "(605) 539-1210",
+    "url": "https://www.horizonhealthcare.org/location/jerauld-county-community-health-center-dental-clinic/",
+    "categorySlug": "healthcare",
+    "zipCode": "57382"
+  },
+  {
+    "name": "Kingsbury County Food Pantry",
+    "description": "Community food pantry providing family food boxes, senior commodity boxes, and a backpack food program for students in De Smet and throughout Kingsbury County, open Tuesday afternoons.",
+    "address": "221 Calumet Ave SW, De Smet, SD 57231",
+    "phone": "(605) 203-1993",
+    "url": "https://kingsburycountyfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "57231"
+  },
+  {
+    "name": "Inter-Lakes Community Action Partnership — Lake County",
+    "description": "Community action agency providing food pantry, emergency assistance, senior dining, Head Start, and weatherization services to low-income families and seniors in Lake County.",
+    "address": "111 N Van Eps Ave, Madison, SD 57042",
+    "phone": "(605) 256-6518",
+    "url": "https://www.interlakescap.com/custom/lake-county",
+    "categorySlug": "community",
+    "zipCode": "57042"
+  },
+  {
+    "name": "Inter-Lakes Community Action Partnership — McCook County",
+    "description": "Community action agency offering emergency food and utility assistance, weatherization, senior services, and referral programs to low-income residents of McCook County.",
+    "address": "111 N Van Eps Ave, Madison, SD 57042",
+    "phone": "(605) 256-6518",
+    "url": "https://www.interlakescap.com/custom/mccook-county",
+    "categorySlug": "community",
+    "zipCode": "57042"
+  },
+  {
+    "name": "Madison Community Services",
+    "description": "Nonprofit serving Lake County since 1930, providing food assistance, clothing, and emergency support to Madison-area residents through the power of volunteers and community generosity.",
+    "address": "Madison, SD 57042",
+    "phone": "(605) 256-4591",
+    "url": "https://madisoncommunityservices.org/",
+    "categorySlug": "food",
+    "zipCode": "57042"
+  },
+  {
+    "name": "Madison Regional Health System",
+    "description": "Community hospital system serving Lake County and surrounding counties with emergency care, primary care, obstetrics, surgery, behavioral health, and specialty outreach services.",
+    "address": "323 SW 10th St, Madison, SD 57042",
+    "phone": "(605) 256-6551",
+    "url": "https://madisonregionalhealth.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "57042"
+  },
+  {
+    "name": "Lead-Deadwood Area Churches Food Pantry",
+    "description": "Ecumenical food pantry serving the Lead, Deadwood, and Central City area with food and household necessities, available to residents once per month.",
+    "address": "111 S Main St, Deadwood, SD 57732",
+    "phone": "(605) 722-9534",
+    "url": "https://bhacf.org/black-hills-november-pantries/",
+    "categorySlug": "food",
+    "zipCode": "57732"
+  },
+  {
+    "name": "Monument Health Lead-Deadwood Hospital",
+    "description": "Critical access hospital in Deadwood offering 24/7 emergency care, inpatient and outpatient services, home health, physical therapy, and laboratory services for Lawrence County residents.",
+    "address": "61 Charles St, Deadwood, SD 57732",
+    "phone": "(605) 722-6101",
+    "url": "https://monument.health/",
+    "categorySlug": "healthcare",
+    "zipCode": "57732"
+  },
+  {
+    "name": "Spearfish Community Food Pantry",
+    "description": "501(c)(3) nonprofit food pantry serving Spearfish and St. Onge area families, open Monday, Wednesday, and Friday mornings, with support from over 100 volunteers across 12 area churches.",
+    "address": "Spearfish, SD 57783",
+    "phone": "(605) 642-0940",
+    "url": "http://www.spearfishpantry.net/",
+    "categorySlug": "food",
+    "zipCode": "57783"
+  },
+  {
+    "name": "Avera Behavioral Health Center",
+    "description": "Regional behavioral health hospital and outpatient clinic in Sioux Falls offering inpatient psychiatric care, crisis stabilization, outpatient therapy, and addiction treatment services.",
+    "address": "4400 W 69th St, Sioux Falls, SD 57108",
+    "phone": "(605) 322-4065",
+    "url": "https://www.avera.org/services/behavioral-health/",
+    "categorySlug": "healthcare",
+    "zipCode": "57108"
+  },
+  {
+    "name": "Harrisburg Area Food Pantry",
+    "description": "Community food pantry serving Harrisburg School District residents with food, cleaning supplies, and personal care items, open Tuesday evenings and select Thursday mornings.",
+    "address": "203 Prairie St, Harrisburg, SD 57032",
+    "phone": "(605) 929-0599",
+    "url": "https://harrisburgfoodpantry.com/",
+    "categorySlug": "food",
+    "zipCode": "57032"
+  },
+  {
+    "name": "Marshall County Food Pantry",
+    "description": "Community food pantry serving Marshall County residents in Britton, Veblen, Langford, Lake City, and Eden with supplemental groceries, open Friday and Saturday mornings.",
+    "address": "Britton, SD 57430",
+    "phone": "(605) 448-2282",
+    "url": "https://www.foodpantries.org/co/sd-marshall",
+    "categorySlug": "food",
+    "zipCode": "57430"
+  },
+  {
+    "name": "McCook County Food Pantry",
+    "description": "Community food pantry in Salem providing groceries, paper products, and personal hygiene items to McCook County families, distributed on the third Thursday of each month.",
+    "address": "640 S Nebraska St, Salem, SD 57058",
+    "phone": "(605) 425-2781",
+    "url": "https://mccookcountysd.gov/",
+    "categorySlug": "food",
+    "zipCode": "57058"
+  },
+  {
+    "name": "Meade County Community Health Services",
+    "description": "County public health office providing primary and preventive health programs, immunizations, WIC, and community health nursing services to residents of Meade County.",
+    "address": "1029 5th St, Sturgis, SD 57785",
+    "phone": "(605) 347-4412",
+    "url": "https://www.meadecounty.org/community-health-services",
+    "categorySlug": "healthcare",
+    "zipCode": "57785"
+  },
+  {
+    "name": "Sturgis Kiwanis Food Pantry",
+    "description": "Volunteer-run food pantry serving Meade County residents at no cost, providing food assistance up to once per month, open Monday, Wednesday, and Friday mornings.",
+    "address": "801 6th St, Sturgis, SD 57785",
+    "phone": "(605) 347-2501",
+    "url": "https://www.sturgis-sd.gov/",
+    "categorySlug": "food",
+    "zipCode": "57785"
+  },
+  {
+    "name": "Horizon Health Care — White River (Mellette County)",
+    "description": "Federally Qualified Health Center providing affordable medical care, family medicine, telemedicine referrals, and preventive health services to Mellette County and surrounding frontier communities.",
+    "address": "White River, SD 57579",
+    "phone": "(605) 259-3382",
+    "url": "https://www.horizonhealthcare.org/location/mellette-county-community-health-center/",
+    "categorySlug": "healthcare",
+    "zipCode": "57579"
+  },
+  {
+    "name": "Bishop Dudley Hospitality House",
+    "description": "Emergency shelter in Sioux Falls providing meals, overnight shelter, and case management to adults experiencing homelessness. Operates year-round and connects guests with housing and support services.",
+    "address": "900 N Duluth Ave, Sioux Falls, SD 57104",
+    "phone": "(605) 338-4170",
+    "url": "https://bishopjoseph.org/",
+    "categorySlug": "housing",
+    "zipCode": "57104"
+  },
+  {
+    "name": "Catholic Social Services of South Dakota",
+    "description": "Provides immigration and refugee resettlement, emergency assistance, counseling, and social services to individuals and families in Sioux Falls and across South Dakota regardless of faith background.",
+    "address": "523 N Duluth Ave, Sioux Falls, SD 57104",
+    "phone": "(605) 988-3765",
+    "url": "https://www.csssd.org/",
+    "categorySlug": "community",
+    "zipCode": "57104"
+  },
+  {
+    "name": "Community Health Center of the Black Hills — Sioux Falls Clinic",
+    "description": "Federally Qualified Health Center offering affordable primary care, dental, and behavioral health services to uninsured and underinsured patients on a sliding fee scale.",
+    "address": "301 N Lake Ave, Sioux Falls, SD 57104",
+    "phone": "(605) 718-2090",
+    "url": "https://www.chcbh.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "57104"
+  },
+  {
+    "name": "DakotAbilities",
+    "description": "Nonprofit serving people with disabilities in Mitchell and southeastern South Dakota, providing residential supports, employment services, community integration, and day programs.",
+    "address": "3100 W 41st St, Sioux Falls, SD 57106",
+    "phone": "(605) 336-2410",
+    "url": "https://www.dakotabilities.org/",
+    "categorySlug": "community",
+    "zipCode": "57106"
+  },
+  {
+    "name": "Falls Community Health — Sioux Falls",
+    "description": "Federally Qualified Health Center providing affordable primary care, dental, and behavioral health services on a sliding fee scale to uninsured and underserved Minnehaha County residents regardless of ability to pay.",
+    "address": "521 N Main Ave, Sioux Falls, SD 57104",
+    "phone": "(605) 367-8793",
+    "url": "https://www.siouxfalls.gov/health-safety/health-services/falls-community-health",
+    "categorySlug": "healthcare",
+    "zipCode": "57104"
+  },
+  {
+    "name": "Feeding South Dakota — Mobile Food Distribution",
+    "description": "Statewide hunger-relief organization operating monthly mobile food distribution events across South Dakota including Gregory, Haakon, and other rural counties, providing free grocery boxes to families in need.",
+    "address": "4701 N Westport Ave, Sioux Falls, SD 57107",
+    "phone": "(605) 335-0364",
+    "url": "https://www.feedingsouthdakota.org/programs/mobile-food-distribution",
+    "categorySlug": "food",
+    "zipCode": "57107"
+  },
+  {
+    "name": "Feeding South Dakota — Sioux Falls Distribution Center",
+    "description": "South Dakota's largest hunger-relief organization and Feeding America member, distributing food to partner pantries and families across all 66 counties including eastern Minnehaha County communities.",
+    "address": "4701 N Westport Ave, Sioux Falls, SD 57107",
+    "phone": "(605) 335-0364",
+    "url": "https://www.feedingsouthdakota.org/",
+    "categorySlug": "food",
+    "zipCode": "57107"
+  },
+  {
+    "name": "Minnehaha County Human Services",
+    "description": "County agency administering public benefits including SNAP, Medicaid, TANF, and child protective services for residents of Minnehaha County.",
+    "address": "220 W 6th St, Sioux Falls, SD 57104",
+    "phone": "(605) 367-4200",
+    "url": "https://www.minnehahacounty.org/dept/hs/hs.php",
+    "categorySlug": "community",
+    "zipCode": "57104"
+  },
+  {
+    "name": "Salvation Army — Sioux Falls Corps",
+    "description": "Provides emergency food, utility assistance, clothing, and social services to low-income residents of Sioux Falls and the surrounding Minnehaha County area.",
+    "address": "800 N Cliff Ave, Sioux Falls, SD 57103",
+    "phone": "(605) 336-2710",
+    "url": "https://centralusa.salvationarmy.org/siouxfalls/",
+    "categorySlug": "food",
+    "zipCode": "57103"
+  },
+  {
+    "name": "Sioux Falls Area Shelter",
+    "description": "Provides emergency overnight shelter, meals, and supportive services to homeless adults in the Sioux Falls area including connections to permanent housing programs.",
+    "address": "412 N Duluth Ave, Sioux Falls, SD 57104",
+    "phone": "(605) 338-9300",
+    "url": "https://www.volunteersd.org/",
+    "categorySlug": "housing",
+    "zipCode": "57104"
+  },
+  {
+    "name": "Volunteers of America Dakotas — Sioux Falls",
+    "description": "Provides a wide range of social services in Sioux Falls including transitional housing, substance use recovery programs, veteran services, and re-entry support for formerly incarcerated individuals.",
+    "address": "1201 N Euclid Ave, Sioux Falls, SD 57104",
+    "phone": "(605) 339-1959",
+    "url": "https://www.voa-dakotas.org/",
+    "categorySlug": "housing",
+    "zipCode": "57104"
+  },
+  {
+    "name": "Flandreau Santee Sioux Tribe Social Services",
+    "description": "Tribal social services department serving enrolled members and community residents in Flandreau and Moody County with assistance in housing, family support, and emergency needs.",
+    "address": "PO Box 283, Flandreau, SD 57028",
+    "phone": "(605) 997-3891",
+    "url": "https://www.fsst.org/",
+    "categorySlug": "community",
+    "zipCode": "57028"
+  },
+  {
+    "name": "Behavior Management Systems — Rapid City",
+    "description": "Provides outpatient mental health and substance use disorder treatment services in Rapid City, including individual therapy, group counseling, and community support programs.",
+    "address": "4002 Canyon Lake Dr, Rapid City, SD 57702",
+    "phone": "(605) 343-0444",
+    "url": "https://www.bmssd.com/",
+    "categorySlug": "healthcare",
+    "zipCode": "57702"
+  },
+  {
+    "name": "Black Hills Center for American Indian Health",
+    "description": "Federally Qualified Health Center providing culturally appropriate primary care, dental, behavioral health, and social services to American Indian and low-income residents of the Rapid City area.",
+    "address": "2001 Mt Rushmore Rd, Rapid City, SD 57701",
+    "phone": "(605) 348-0440",
+    "url": "https://www.bhcaih.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "57701"
+  },
+  {
+    "name": "Black Hills Community Health Center",
+    "description": "FQHC serving the Black Hills region including Custer County with primary care, dental, behavioral health, and pharmacy services on a sliding fee scale.",
+    "address": "535 Flormann St, Rapid City, SD 57701",
+    "phone": "(605) 721-4450",
+    "url": "https://www.bhchc.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "57701"
+  },
+  {
+    "name": "Black Hills Community Loan Fund",
+    "description": "Nonprofit CDFI providing financial counseling, small business loans, and housing assistance to low-income residents across the Black Hills region including Butte and Lawrence counties.",
+    "address": "1820 W Main St, Rapid City, SD 57702",
+    "phone": "(605) 718-1000",
+    "url": "https://www.bhclf.org/",
+    "categorySlug": "community",
+    "zipCode": "57702"
+  },
+  {
+    "name": "Black Hills Special Services Cooperative — Developmental Disabilities",
+    "description": "Public cooperative providing community support, residential services, and employment support for individuals with intellectual and developmental disabilities across Meade, Lawrence, and surrounding Black Hills counties.",
+    "address": "1520 Haines Ave, Rapid City, SD 57701",
+    "phone": "(605) 348-0410",
+    "url": "https://www.ddbhssc.org/",
+    "categorySlug": "community",
+    "zipCode": "57701"
+  },
+  {
+    "name": "Cornerstone Rescue Mission",
+    "description": "Emergency shelter and comprehensive social services provider in Rapid City serving homeless men, women, and families. Offers meals, overnight shelter, addiction recovery, and life-skills programming.",
+    "address": "843 E St Patrick St, Rapid City, SD 57701",
+    "phone": "(605) 348-2022",
+    "url": "https://www.cornerstonerescuemission.org/",
+    "categorySlug": "housing",
+    "zipCode": "57701"
+  },
+  {
+    "name": "Pennington County Human Services",
+    "description": "County agency providing public benefits enrollment including SNAP, Medicaid, and TANF as well as child welfare, adult protective services, and mental health programs for Pennington County residents.",
+    "address": "130 Kansas City St, Rapid City, SD 57701",
+    "phone": "(605) 394-2151",
+    "url": "https://www.pennco.org/226/Human-Services",
+    "categorySlug": "community",
+    "zipCode": "57701"
+  },
+  {
+    "name": "Salvation Army — Rapid City Corps",
+    "description": "Offers emergency food assistance, utility bill help, disaster relief, and social services to low-income individuals and families in Rapid City and Pennington County.",
+    "address": "2020 N Maple Ave, Rapid City, SD 57701",
+    "phone": "(605) 342-2009",
+    "url": "https://centralusa.salvationarmy.org/rapidcity/",
+    "categorySlug": "food",
+    "zipCode": "57701"
+  },
+  {
+    "name": "Wall Food Pantry — St. Patrick's Parish",
+    "description": "Community food pantry in Wall serving Pennington County's rural western communities including Wall and Scenic. Distributes groceries to individuals and families in need.",
+    "address": "501 Glenn St, Wall, SD 57790",
+    "phone": "(605) 279-2355",
+    "url": "https://www.catholicbishopofsd.org/",
+    "categorySlug": "food",
+    "zipCode": "57790"
+  },
+  {
+    "name": "Western South Dakota Community Action — Rapid City",
+    "description": "Community action agency operating Head Start, emergency assistance, weatherization, and other anti-poverty programs for low-income residents of Rapid City and western South Dakota counties.",
+    "address": "PO Box 1210, Rapid City, SD 57709",
+    "phone": "(605) 341-3347",
+    "url": "https://www.wsd-caa.org/",
+    "categorySlug": "community",
+    "zipCode": "57702"
+  },
+  {
+    "name": "Lemmon Food Pantry — First Lutheran Church",
+    "description": "Community food pantry serving Lemmon and Perkins County residents with supplemental groceries and emergency food assistance.",
+    "address": "106 3rd Ave E, Lemmon, SD 57638",
+    "phone": "(605) 374-3859",
+    "url": "https://www.elca.org/",
+    "categorySlug": "food",
+    "zipCode": "57638"
+  },
+  {
+    "name": "Perkins County Health Services",
+    "description": "Critical access hospital and clinic in Lemmon providing emergency care, primary care, and community health services to residents of Perkins County and surrounding rural areas.",
+    "address": "803 9th St E, Lemmon, SD 57638",
+    "phone": "(605) 374-3830",
+    "url": "https://www.perkinscountyhealth.com/",
+    "categorySlug": "healthcare",
+    "zipCode": "57638"
+  },
+  {
+    "name": "Gettysburg Community Food Pantry",
+    "description": "Food pantry serving Potter County residents in Gettysburg with supplemental groceries, emergency food boxes, and seasonal food distribution programs.",
+    "address": "PO Box 362, Gettysburg, SD 57442",
+    "phone": "(605) 765-9413",
+    "url": "https://www.pottercountysd.com/",
+    "categorySlug": "food",
+    "zipCode": "57442"
+  },
+  {
+    "name": "Potter County Health Center",
+    "description": "Critical access hospital and primary care clinic in Gettysburg serving Potter County residents with inpatient, emergency, and outpatient medical services.",
+    "address": "905 E Utah Ave, Gettysburg, SD 57442",
+    "phone": "(605) 765-2461",
+    "url": "https://www.pchcsd.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "57442"
+  },
+  {
+    "name": "Coteau des Prairies Health — Sisseton Clinic",
+    "description": "Federally Qualified Health Center providing primary care, dental, behavioral health, and pharmacy services to residents of Sisseton and Roberts County, including Sisseton Wahpeton Oyate tribal members.",
+    "address": "22 E Chestnut Ave, Sisseton, SD 57262",
+    "phone": "(605) 698-7646",
+    "url": "https://www.cdphealth.com/",
+    "categorySlug": "healthcare",
+    "zipCode": "57262"
+  },
+  {
+    "name": "Sisseton Wahpeton Oyate — Woodrow Wilson Keeble Memorial Health Center",
+    "description": "Indian Health Service-funded health center on the Lake Traverse Reservation providing comprehensive primary care, dental, behavioral health, and preventive services to tribal members and community residents.",
+    "address": "12600 Veterans Memorial Dr, Agency Village, SD 57262",
+    "phone": "(605) 698-7606",
+    "url": "https://www.swo-nsn.gov/departments/health/",
+    "categorySlug": "healthcare",
+    "zipCode": "57262"
+  },
+  {
+    "name": "Sisseton Wahpeton Oyate Social Services",
+    "description": "Tribal social services department providing assistance to enrolled members and community residents in the Sisseton area, including emergency aid, family support, child welfare, and housing programs.",
+    "address": "12600 Veterans Memorial Dr, Agency Village, SD 57262",
+    "phone": "(605) 698-3911",
+    "url": "https://www.swo-nsn.gov/",
+    "categorySlug": "community",
+    "zipCode": "57262"
+  },
+  {
+    "name": "Indian Health Service — Pine Ridge Service Unit",
+    "description": "Federal health care facility on the Pine Ridge Reservation providing primary care, emergency services, dental, behavioral health, and public health nursing to members of the Oglala Sioux Tribe.",
+    "address": "East Hwy 18, Pine Ridge, SD 57770",
+    "phone": "(605) 867-5131",
+    "url": "https://www.ihs.gov/pineridge/",
+    "categorySlug": "healthcare",
+    "zipCode": "57770"
+  },
+  {
+    "name": "OST Health & Human Services — Pine Ridge",
+    "description": "Oglala Sioux Tribe health and human services department providing social services, family assistance, elder programs, and community health coordination to enrolled members on the Pine Ridge Reservation.",
+    "address": "PO Box H, Pine Ridge, SD 57770",
+    "phone": "(605) 867-1083",
+    "url": "https://www.ostofthelst.org/health-human-services/",
+    "categorySlug": "community",
+    "zipCode": "57770"
+  },
+  {
+    "name": "Pine Ridge Area Food Distribution",
+    "description": "USDA commodity food distribution program serving low-income households on the Pine Ridge Reservation, distributing monthly food packages to eligible families through the Food Distribution Program on Indian Reservations (FDPIR).",
+    "address": "PO Box 201, Pine Ridge, SD 57770",
+    "phone": "(605) 867-5891",
+    "url": "https://www.ostofthelst.org/",
+    "categorySlug": "food",
+    "zipCode": "57770"
+  },
+  {
+    "name": "Thunder Valley Community Development Corporation",
+    "description": "Native-led community development organization on the Pine Ridge Reservation building affordable housing, providing youth programming, economic development, and food sovereignty initiatives for Lakota families.",
+    "address": "PO Box 135, Porcupine, SD 57772",
+    "phone": "(605) 867-1959",
+    "url": "https://www.thundervalley.org/",
+    "categorySlug": "community",
+    "zipCode": "57772"
+  },
+  {
+    "name": "Redfield Community Hospital",
+    "description": "Critical access hospital in Redfield providing emergency care, inpatient services, and primary care clinic services to residents of Spink County and surrounding rural communities.",
+    "address": "1405 E Ash Ave, Redfield, SD 57469",
+    "phone": "(605) 472-1110",
+    "url": "https://www.redfieldcommunityhospital.com/",
+    "categorySlug": "healthcare",
+    "zipCode": "57469"
+  },
+  {
+    "name": "Stanley County Health — Fort Pierre Clinic",
+    "description": "Outpatient primary care and public health services for Stanley County residents, offering preventive care, chronic disease management, and community health programs.",
+    "address": "1407 Poplar Ave, Fort Pierre, SD 57532",
+    "phone": "(605) 223-7763",
+    "url": "https://www.stanleycountysd.com/",
+    "categorySlug": "healthcare",
+    "zipCode": "57532"
+  },
+  {
+    "name": "IHS Rosebud Service Unit",
+    "description": "Indian Health Service hospital and outpatient facilities serving the Rosebud Reservation with primary care, emergency medicine, dental, behavioral health, and public health nursing for Rosebud Sioux Tribe members.",
+    "address": "1 Hospital Cir, Rosebud, SD 57570",
+    "phone": "(605) 747-2231",
+    "url": "https://www.ihs.gov/rosebud/",
+    "categorySlug": "healthcare",
+    "zipCode": "57570"
+  },
+  {
+    "name": "Rosebud Sioux Tribe Social Services",
+    "description": "Tribal social services department providing family preservation, child welfare, TANF, emergency assistance, and elder services to enrolled members of the Rosebud Sioux Tribe across Todd County and surrounding areas.",
+    "address": "PO Box 430, Rosebud, SD 57570",
+    "phone": "(605) 747-2224",
+    "url": "https://www.rosebudsiouxtribe-nsn.gov/",
+    "categorySlug": "community",
+    "zipCode": "57570"
+  },
+  {
+    "name": "Sinte Gleska University — Community Services",
+    "description": "Tribal university on the Rosebud Reservation providing workforce development, GED programs, community education, and student support services to Lakota tribal members in Todd County.",
+    "address": "101 Antelope Lake Cir, Mission, SD 57555",
+    "phone": "(605) 856-8100",
+    "url": "https://www.sintegleska.edu/",
+    "categorySlug": "community",
+    "zipCode": "57555"
+  },
+  {
+    "name": "St. Francis Mission Food Pantry",
+    "description": "Food pantry operated through St. Francis Mission serving the Saint Francis and Rosebud Reservation community with monthly food distributions and emergency groceries for Lakota families.",
+    "address": "350 Oak St, Saint Francis, SD 57572",
+    "phone": "(605) 747-2361",
+    "url": "https://www.sfmission.org/",
+    "categorySlug": "food",
+    "zipCode": "57572"
+  },
+  {
+    "name": "Salvation Army — Winner Service Extension",
+    "description": "Provides emergency food, utility assistance, and basic needs support to low-income individuals and families in Winner and Tripp County.",
+    "address": "745 E 8th St, Winner, SD 57580",
+    "phone": "(605) 842-7100",
+    "url": "https://centralusa.salvationarmy.org/",
+    "categorySlug": "food",
+    "zipCode": "57580"
+  },
+  {
+    "name": "Winner Regional Healthcare Center",
+    "description": "Critical access hospital and primary care clinics in Winner providing emergency care, surgical services, outpatient care, and community health programs to residents of Tripp County.",
+    "address": "745 E 8th St, Winner, SD 57580",
+    "phone": "(605) 842-7100",
+    "url": "https://www.winnerregional.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "57580"
+  },
+  {
+    "name": "Union County Human Services",
+    "description": "County human services agency in Elk Point providing public benefit enrollment, child welfare, adult protection, and social service referrals for Union County residents.",
+    "address": "209 E Main St, Elk Point, SD 57025",
+    "phone": "(605) 356-2102",
+    "url": "https://www.unioncountysd.gov/",
+    "categorySlug": "community",
+    "zipCode": "57025"
+  },
+  {
+    "name": "Mobridge Regional Hospital",
+    "description": "Critical access hospital and community health provider in Mobridge serving Walworth County and the surrounding Standing Rock area with emergency care, primary care, surgical services, and home health.",
+    "address": "1401 10th Ave W, Mobridge, SD 57601",
+    "phone": "(605) 845-3692",
+    "url": "https://www.mobridge.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "57601"
+  },
+  {
+    "name": "Mobridge Regional Hospital",
+    "description": "Critical access hospital serving Walworth and Corson counties with emergency care, inpatient services, primary care clinics, and specialty outreach in the Missouri River region.",
+    "address": "1401 10th Ave W, Mobridge, SD 57601",
+    "phone": "(605) 845-3692",
+    "url": "https://www.mobridgehospital.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "57601"
+  },
+  {
+    "name": "Avera Sacred Heart Hospital — Community Health",
+    "description": "Regional hospital in Yankton providing emergency care, inpatient services, and community health programs. Sacred Heart offers social work services, charity care, and referrals to community resources across Yankton County.",
+    "address": "501 Summit St, Yankton, SD 57078",
+    "phone": "(605) 668-8000",
+    "url": "https://www.avera.org/sacred-heart-yankton/",
+    "categorySlug": "healthcare",
+    "zipCode": "57078"
+  },
+  {
+    "name": "Lewis & Clark Behavioral Health Services — Yankton",
+    "description": "Outpatient mental health and substance use disorder treatment provider in Yankton offering counseling, crisis services, and community support programs for adults and youth in Yankton County.",
+    "address": "2900 W 12th Ave, Yankton, SD 57078",
+    "phone": "(605) 665-4606",
+    "url": "https://www.lcbhs.com/",
+    "categorySlug": "healthcare",
+    "zipCode": "57078"
+  },
+  {
+    "name": "Northeast South Dakota Human Services Center",
+    "description": "State-operated psychiatric hospital and outpatient behavioral health facility serving northeastern South Dakota, providing inpatient psychiatric care and mental health treatment.",
+    "address": "2900 W 11th St, Yankton, SD 57078",
+    "phone": "(605) 668-3100",
+    "url": "https://dss.sd.gov/behavioralhealth/",
+    "categorySlug": "healthcare",
+    "zipCode": "57078"
+  },
+  {
+    "name": "Salvation Army — Yankton Corps",
+    "description": "Provides emergency food assistance, utility help, disaster relief, and social services to low-income individuals and families in Yankton and Yankton County.",
+    "address": "1220 Douglas Ave, Yankton, SD 57078",
+    "phone": "(605) 665-4378",
+    "url": "https://centralusa.salvationarmy.org/yankton/",
+    "categorySlug": "food",
+    "zipCode": "57078"
+  },
+  {
+    "name": "Yankton County Human Services",
+    "description": "County agency administering public benefits including SNAP, Medicaid, TANF, child welfare, and adult protective services for Yankton County residents.",
+    "address": "321 W 3rd St, Yankton, SD 57078",
+    "phone": "(605) 668-3500",
+    "url": "https://www.yanktoncounty.org/department/human-services/",
+    "categorySlug": "community",
+    "zipCode": "57078"
+  }
+]

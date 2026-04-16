@@ -1,0 +1,983 @@
+[
+  {
+    "name": "Adair County Community Health Center",
+    "description": "Federally qualified health center providing primary care, preventive health, and wellness services to residents of Adair County regardless of ability to pay.",
+    "address": "801 Westlake Drive, Columbia, KY 42728",
+    "phone": "(270) 384-2286",
+    "url": "https://kentuckyfoodbanks.org/adair-county-community-health-center/",
+    "categorySlug": "healthcare",
+    "zipCode": "42728"
+  },
+  {
+    "name": "Adair County Department of Community Based Services",
+    "description": "State office administering SNAP food benefits, Kentucky Transitional Assistance Program, Medicaid eligibility, and the Community Services Block Grant for Adair County families.",
+    "address": "703 Jamestown Street, Columbia, KY 42728",
+    "phone": "(855) 306-8959",
+    "url": "https://chfs.ky.gov/agencies/dcbs/Pages/default.aspx",
+    "categorySlug": "community",
+    "zipCode": "42728"
+  },
+  {
+    "name": "Adair County Food Pantry",
+    "description": "Provides food assistance to residents of Adair County. Open Tuesday mornings for food distribution to individuals and families in need.",
+    "address": "203 South Monroe St, Columbia, KY 42728",
+    "phone": "(270) 789-4938",
+    "url": "https://kentuckyfoodbanks.org/adair-county-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "42728"
+  },
+  {
+    "name": "Lake Cumberland Community Action Agency – Adair County",
+    "description": "Community action agency providing emergency food assistance, energy assistance (LIHEAP), housing support, and financial literacy programs to low-income Adair County residents.",
+    "address": "1115 Jamestown St, Suite 6, Columbia, KY 42728",
+    "phone": "(270) 384-2147",
+    "url": "https://lc-caa.org/",
+    "categorySlug": "community",
+    "zipCode": "42728"
+  },
+  {
+    "name": "Barren River Area Safe Space",
+    "description": "Provides emergency shelter, crisis intervention, case management, and counseling for victims of domestic violence and their children in Barren County.",
+    "address": "Glasgow, KY 42141",
+    "phone": "(270) 659-0823",
+    "url": "https://www.thehelplist.com/co/ky-barren",
+    "categorySlug": "housing",
+    "zipCode": "42141"
+  },
+  {
+    "name": "Bridge Kentucky",
+    "description": "Nonprofit providing wraparound services including food pantry, financial assistance to prevent eviction or utility shut-offs, and a daytime warming center for families in the Glasgow area.",
+    "address": "107 W. College St, Glasgow, KY 42141",
+    "phone": "(270) 659-0020",
+    "url": "https://cityofglasgow.gov/in-glasgow-hope-isnt-just-a-word-its-a-daily-reality-thanks-in-large-part-to-bridge-kentucky-a-local-nonprofit-that-has-become-a-vital-lifeline-for-families-and-indiv/",
+    "categorySlug": "community",
+    "zipCode": "42141"
+  },
+  {
+    "name": "Community Relief Fund Food Pantry",
+    "description": "Provides food assistance and emergency financial help with rent, utilities, and security deposits for low-income residents of Barren County.",
+    "address": "107 W. College St, Glasgow, KY 42141",
+    "phone": "(270) 651-9006",
+    "url": "https://www.foodpantries.org/li/ky_glasgow_community-relief-fund-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "42141"
+  },
+  {
+    "name": "Gateway Community Action Agency – Commodity Food Program",
+    "description": "Community action agency providing monthly commodity food boxes to seniors 60+ below 130% of poverty level in Bath, Menifee, and Montgomery Counties, plus additional assistance programs.",
+    "address": "PO Box 709, Owingsville, KY 40360",
+    "phone": "(800) 927-1833",
+    "url": "https://gatewaycaa.org",
+    "categorySlug": "food",
+    "zipCode": "40360"
+  },
+  {
+    "name": "Bell County Health Department – Pineville",
+    "description": "Public health department offering vaccinations, WIC nutrition program, family planning, and preventive health services for Bell County residents.",
+    "address": "310 S Cherry St, Pineville, KY 40977",
+    "phone": "(606) 337-9595",
+    "url": "https://bellcountyhealthky.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "40977"
+  },
+  {
+    "name": "Mountain Comprehensive Health Corporation – Middlesboro",
+    "description": "Federally Qualified Health Center offering primary care, dental, behavioral health, and pharmacy services to residents of Bell County and surrounding Eastern Kentucky counties regardless of ability to pay.",
+    "address": "1530 US Hwy 25E, Middlesboro, KY 40965",
+    "phone": "(606) 654-9450",
+    "url": "https://www.mchcky.com/",
+    "categorySlug": "healthcare",
+    "zipCode": "40965"
+  },
+  {
+    "name": "Boyd County CAReS",
+    "description": "Community-based nonprofit identifying, coordinating, and mobilizing resources for individuals and families in crisis, including food pantry services, shelter referrals, and housing information for Boyd County residents.",
+    "address": "2516 Carter Avenue, Ashland, KY 41101",
+    "phone": "(606) 324-2949",
+    "url": "https://boydcountycares.org/",
+    "categorySlug": "community",
+    "zipCode": "41101"
+  },
+  {
+    "name": "Catlettsburg Church of God – Seed Harvest Food Distribution",
+    "description": "Faith-based food distribution center providing free groceries and food boxes to residents of the Catlettsburg and Boyd County area.",
+    "address": "105 36th St, Catlettsburg, KY 41129",
+    "phone": "",
+    "url": "https://www.facinghunger.org/wp-content/uploads/2020/06/Boyd-County-Agencies-1.pdf",
+    "categorySlug": "food",
+    "zipCode": "41129"
+  },
+  {
+    "name": "Catlettsburg Housing Authority",
+    "description": "Public housing authority providing affordable rental housing and housing assistance programs for low-income residents of the Catlettsburg area.",
+    "address": "210 24th Street, Catlettsburg, KY 41129",
+    "phone": "(606) 739-6851",
+    "url": "https://www.ashlandky.gov/departments/community___economic_development/ashland_assisted_housing_authority/community.php",
+    "categorySlug": "housing",
+    "zipCode": "41129"
+  },
+  {
+    "name": "River Cities Harvest",
+    "description": "Nonprofit food redistribution organization collecting and distributing food to partner agencies fighting hunger and food insecurity in Boyd, Greenup, and Lawrence Counties in Kentucky.",
+    "address": "2516 Carter Ave, Ashland, KY 41101",
+    "phone": "(606) 324-3663",
+    "url": "https://rivercitiesharvest.org/",
+    "categorySlug": "food",
+    "zipCode": "41101"
+  },
+  {
+    "name": "Breathitt County Health Department",
+    "description": "Public health department providing food assistance, WIC nutrition services, immunizations, and community health programs for Breathitt County residents.",
+    "address": "955 Kentucky 30, Jackson, KY 41339",
+    "phone": "(606) 666-7755",
+    "url": "https://kentuckyfoodbanks.org/breathitt-county-health-department",
+    "categorySlug": "healthcare",
+    "zipCode": "41339"
+  },
+  {
+    "name": "Breathitt County Hunger Alliance",
+    "description": "Provides basic needs assistance including food, household items, and cleaning products to families throughout the Breathitt County community.",
+    "address": "Jackson, KY 41339",
+    "phone": "",
+    "url": "https://www.facebook.com/breathittcountyhungeralliance/",
+    "categorySlug": "food",
+    "zipCode": "41339"
+  },
+  {
+    "name": "Interfaith of Breathitt County Food Pantry",
+    "description": "Provides nutritious food to individuals and families in need throughout Breathitt County, operating out of Jackson with regular distribution hours.",
+    "address": "1148 Main St, Jackson, KY 41339",
+    "phone": "(606) 666-7760",
+    "url": "https://kentuckyfoodbanks.org/interfaith-of-breathitt-county",
+    "categorySlug": "food",
+    "zipCode": "41339"
+  },
+  {
+    "name": "Multi-Purpose Community Action Agency – Bullitt County",
+    "description": "Community action agency serving Bullitt County with emergency assistance, energy bill help (LIHEAP), food, and social services for low-income residents.",
+    "address": "214 Frank Simon Avenue, Shepherdsville, KY 40165",
+    "phone": "(502) 543-3455",
+    "url": "https://bchdguide.org/tag/food/",
+    "categorySlug": "community",
+    "zipCode": "40165"
+  },
+  {
+    "name": "Seven Counties Services – Bullitt County Office",
+    "description": "Provides mental health, substance abuse, and developmental disabilities services to adults and children in Bullitt County.",
+    "address": "527 N. Joe B. Hall Avenue, Shepherdsville, KY 40165",
+    "phone": "(502) 955-6447",
+    "url": "https://sevencounties.org/about/locations/bullitt-county-office/",
+    "categorySlug": "healthcare",
+    "zipCode": "40165"
+  },
+  {
+    "name": "Brighton Center",
+    "description": "Comprehensive community services nonprofit offering food assistance, emergency financial help, affordable housing, workforce development, and substance abuse recovery for women across Northern Kentucky including Campbell County.",
+    "address": "799 Ann St, Newport, KY 41071",
+    "phone": "(859) 491-8303",
+    "url": "https://www.brightoncenter.com/",
+    "categorySlug": "community",
+    "zipCode": "41071"
+  },
+  {
+    "name": "CARE Mission",
+    "description": "Faith-based ministry providing a food pantry, clothing, eyeglass assistance, and service referrals to individuals and families in need in Campbell County.",
+    "address": "11093 Alexandria Pike, Alexandria, KY 41001",
+    "phone": "(859) 635-4500",
+    "url": "https://www.caremission.net/",
+    "categorySlug": "food",
+    "zipCode": "41001"
+  },
+  {
+    "name": "Salvation Army – Newport",
+    "description": "Provides food assistance, children's clothing, and emergency financial aid for rent and utilities to individuals and families in Campbell County.",
+    "address": "340 West 10th St, Newport, KY 41071",
+    "phone": "(859) 431-1063",
+    "url": "https://easternusa.salvationarmy.org/",
+    "categorySlug": "food",
+    "zipCode": "41071"
+  },
+  {
+    "name": "Community Food Pantry of Grayson",
+    "description": "Provides free food assistance to Carter County residents in need, with distribution on Mondays and Saturdays.",
+    "address": "287 Pomeroy Street, Grayson, KY 41143",
+    "phone": "(606) 474-5464",
+    "url": "https://uwnek211.myresourcedirectory.com/index.php?option=com_cpx&task=resource.view&id=4671586",
+    "categorySlug": "food",
+    "zipCode": "41143"
+  },
+  {
+    "name": "Northeastern Kentucky Community Action Agency",
+    "description": "Community action agency providing emergency assistance, LIHEAP energy aid, and social services to low-income residents of Carter County and surrounding northeastern Kentucky counties.",
+    "address": "1758 E. Midland Trail, Grayson, KY 41143",
+    "phone": "(800) 817-4443",
+    "url": "https://www.kyjustice.org/county/carter",
+    "categorySlug": "community",
+    "zipCode": "41143"
+  },
+  {
+    "name": "Micah Mission Center",
+    "description": "United Methodist ministry providing daily hot meals, monthly food bank distribution, help with utility bills, clothing, and showers to individuals in need in Hopkinsville and Christian County.",
+    "address": "209 So Main St, Hopkinsville, KY 42240",
+    "phone": "(270) 569-5432",
+    "url": "https://www.micahmission.org/",
+    "categorySlug": "food",
+    "zipCode": "42240"
+  },
+  {
+    "name": "Sanctuary Inc.",
+    "description": "Provides emergency shelter, transitional housing, and permanent housing for victims of domestic violence and sexual assault, with a 29-bed shelter serving Christian County.",
+    "address": "210 E. Ninth St, Hopkinsville, KY 42241",
+    "phone": "(270) 885-4572",
+    "url": "https://christiancountyconnection.com/resource-directory/",
+    "categorySlug": "housing",
+    "zipCode": "42240"
+  },
+  {
+    "name": "St. Luke's Free Clinic",
+    "description": "Provides free medical care to uninsured and underinsured adults in Christian County who cannot afford health care.",
+    "address": "408 W 17th St, Hopkinsville, KY 42240",
+    "phone": "(270) 889-9340",
+    "url": "https://p2p.uky.edu/sites/default/files/2025-08/christian-county-sdoh-resource-guide.pdf",
+    "categorySlug": "healthcare",
+    "zipCode": "42240"
+  },
+  {
+    "name": "Cumberland County Food Bank",
+    "description": "Local food bank providing food boxes and emergency food assistance to Cumberland County residents in need, open Tuesdays with emergency appointments available by phone.",
+    "address": "124 Upper River Street, Burkesville, KY 42717",
+    "phone": "",
+    "url": "https://www.lcdhd.org/wp-content/uploads/2025/11/Cumberland-County-Community-Resources.pdf",
+    "categorySlug": "food",
+    "zipCode": "42717"
+  },
+  {
+    "name": "Cumberland County Health Department",
+    "description": "Public health department providing WIC nutrition services, immunizations, and community-based preventive health care programs for Cumberland County residents.",
+    "address": "226 Copper Lane, Burkesville, KY 42717",
+    "phone": "",
+    "url": "https://cumberlandcounty.ky.gov/services/Pages/services.aspx",
+    "categorySlug": "healthcare",
+    "zipCode": "42717"
+  },
+  {
+    "name": "Estill Community Pantry",
+    "description": "Provides free food assistance to Estill County residents, distributing on the second and third Tuesday of each month in Ravenna.",
+    "address": "514 Main Street, Ravenna, KY 40472",
+    "phone": "(606) 723-9786",
+    "url": "https://networks.whyhunger.org/organisation/37218",
+    "categorySlug": "food",
+    "zipCode": "40472"
+  },
+  {
+    "name": "God's Outreach – Estill County Food Pantry",
+    "description": "Serves over 800 families monthly with supplemental food from a Mobile Food Unit operating in Ravenna, providing groceries and staples to Estill County residents in need.",
+    "address": "210 Third St, Ravenna, KY 40472",
+    "phone": "",
+    "url": "https://godsoutreach.org/estill-county/",
+    "categorySlug": "food",
+    "zipCode": "40472"
+  },
+  {
+    "name": "Kentucky River Foothills Development Council – Estill County",
+    "description": "Community action agency offering housing assistance, home care for seniors, emergency support, and self-sufficiency coaching to low-income residents of Estill County.",
+    "address": "100 Tyler Lane, Irvine, KY 40336",
+    "phone": "(606) 723-4492",
+    "url": "https://foothillscap.org/",
+    "categorySlug": "community",
+    "zipCode": "40336"
+  },
+  {
+    "name": "Fleming County Health Department",
+    "description": "Public health department offering immunizations, WIC nutrition services, and preventive health care programs for Fleming County residents.",
+    "address": "55 Foundation Drive, Flemingsburg, KY 41041",
+    "phone": "(606) 845-4641",
+    "url": "https://flemingcountyhealthky.gov/",
+    "categorySlug": "healthcare",
+    "zipCode": "41041"
+  },
+  {
+    "name": "God's Pantry Food Bank – Flemingsburg",
+    "description": "Food bank partner agency distributing free food to individuals and families in need in the Flemingsburg area of Fleming County.",
+    "address": "1856 Elizaville Rd, Flemingsburg, KY 41041",
+    "phone": "(606) 845-5121",
+    "url": "https://www.godspantry.org/",
+    "categorySlug": "food",
+    "zipCode": "41041"
+  },
+  {
+    "name": "Big Sandy Area Community Action Program – Floyd County",
+    "description": "Community action agency providing emergency food assistance, LIHEAP energy aid, homelessness prevention, rapid re-housing, and tenant-based rental assistance to low-income residents of Floyd County.",
+    "address": "60 Court Street, Allen, KY 41601",
+    "phone": "(606) 874-3595",
+    "url": "https://bsacap.org/",
+    "categorySlug": "community",
+    "zipCode": "41601"
+  },
+  {
+    "name": "Big Sandy Health Care – Prestonsburg",
+    "description": "Federally Qualified Health Center providing comprehensive primary care, behavioral health, dental, OB/GYN, pediatrics, and pharmacy services to Floyd County and surrounding Eastern Kentucky communities regardless of ability to pay.",
+    "address": "1709 KY Route 321, Prestonsburg, KY 41653",
+    "phone": "",
+    "url": "https://www.bshc.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "41653"
+  },
+  {
+    "name": "Fishes and Loaves Food Pantry – Prestonsburg",
+    "description": "Provides free food to individuals and families in need in Floyd County, distributing from the Prestonsburg area.",
+    "address": "2072 S. Lake Dr, Prestonsburg, KY 41653",
+    "phone": "",
+    "url": "https://bigsandy.libguides.com/blogs/news-events/food-assistance-in-the-surrounding-area",
+    "categorySlug": "food",
+    "zipCode": "41653"
+  },
+  {
+    "name": "Floyd County Health Department",
+    "description": "Public health department providing WIC nutrition services, immunizations, and preventive health care programs for Floyd County residents including those in the Dwale area.",
+    "address": "283 Goble Street, Prestonsburg, KY 41653",
+    "phone": "(606) 886-2788",
+    "url": "https://chfs.ky.gov/agencies/dph/Pages/default.aspx",
+    "categorySlug": "healthcare",
+    "zipCode": "41653"
+  },
+  {
+    "name": "Catholic Charities Mobile Food Pantry – Grant County",
+    "description": "Monthly mobile food pantry serving low-income families and individuals in Grant County on the second Monday of each month.",
+    "address": "Williamstown, KY 41097",
+    "phone": "",
+    "url": "https://www.catholiccharitieslex.org/",
+    "categorySlug": "food",
+    "zipCode": "41097"
+  },
+  {
+    "name": "Crittenden Baptist Church Food Pantry",
+    "description": "Community food pantry providing non-perishable food items to Grant County residents, open every Thursday evening.",
+    "address": "215 Russell Drive, Crittenden, KY 41030",
+    "phone": "(859) 428-3122",
+    "url": "https://www.pmg-ky3.com/grantco/local-food-assistance-available/article_a6d15483-f6c9-5c08-ad52-6878a738fd4b.html",
+    "categorySlug": "food",
+    "zipCode": "41030"
+  },
+  {
+    "name": "Grant County Helping Hands",
+    "description": "Faith-based nonprofit providing food, clothing, shelter assistance, utility help, and furniture to individuals and families in Grant County, operating Tuesday and Thursday mornings.",
+    "address": "214 Barnes Road, Williamstown, KY 41097",
+    "phone": "",
+    "url": "https://www.charitynavigator.org/ein/421542455",
+    "categorySlug": "community",
+    "zipCode": "41097"
+  },
+  {
+    "name": "Central Kentucky Community Action Council – Grayson County",
+    "description": "Community action agency providing financial assistance, rent and utility help, emergency shelter referrals, food pantry services, and youth enrichment programs to residents of Grayson County.",
+    "address": "Leitchfield, KY 42754",
+    "phone": "",
+    "url": "https://ckcac.org/",
+    "categorySlug": "community",
+    "zipCode": "42754"
+  },
+  {
+    "name": "Grayson County Alliance Food Pantry",
+    "description": "Nonprofit serving Grayson County for over 23 years, providing USDA commodities, Commodity Supplemental Food Program foods, and monthly food assistance to over 700 households, plus backpack food for at-risk school children.",
+    "address": "2203 Brandenburg Road, Leitchfield, KY 42754",
+    "phone": "(270) 259-4000",
+    "url": "https://gc-alliance.com/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "42754"
+  },
+  {
+    "name": "Hancock County Help Office / Food Pantry",
+    "description": "Provides food pantry services, thrift store items, and utility assistance to Hancock County residents in need through the Audubon Area Community Services network.",
+    "address": "430 Main Cross Street, Hawesville, KY 42348",
+    "phone": "(270) 927-6500",
+    "url": "https://www.audubon-area.com/",
+    "categorySlug": "food",
+    "zipCode": "42348"
+  },
+  {
+    "name": "Feeding America Kentucky's Heartland",
+    "description": "Regional food bank distributing food through a network of partner agencies across Hart County and 41 other Kentucky counties to address food insecurity for families and individuals.",
+    "address": "2708 Mccracken Blvd, Elizabethtown, KY 42701",
+    "phone": "(270) 769-6997",
+    "url": "https://feedingamericaky.org/",
+    "categorySlug": "food",
+    "zipCode": "42701"
+  },
+  {
+    "name": "Christ's Hands Emergency Food Pantry",
+    "description": "Emergency food pantry serving communities along Hwy 38 from Brookside through the Cloverfork area, providing food assistance to Harlan County households in need.",
+    "address": "112 Railroad St, Harlan, KY 40831",
+    "phone": "(606) 573-6030",
+    "url": "http://resource.harlanonline.net/guide.htm",
+    "categorySlug": "food",
+    "zipCode": "40831"
+  },
+  {
+    "name": "Harlan County Community Action Agency (HCCAA)",
+    "description": "Community action agency fighting poverty in Harlan County through energy assistance, emergency financial aid, housing support, transportation, and workforce training for low-income residents.",
+    "address": "319 Camden Street, Harlan, KY 40831",
+    "phone": "(606) 573-5335",
+    "url": "https://www.harlancountycaa.com/",
+    "categorySlug": "community",
+    "zipCode": "40831"
+  },
+  {
+    "name": "Loaves and Fishes Ministry",
+    "description": "Faith-based food pantry serving Cumberland and the surrounding Harlan County area, open weekly to provide food assistance to neighbors in need.",
+    "address": "1417 E. Main Street, Cumberland, KY 40823",
+    "phone": "(606) 273-5300",
+    "url": "https://www.heartsofappalachia.org/kentucky-food-resources",
+    "categorySlug": "food",
+    "zipCode": "40823"
+  },
+  {
+    "name": "Community Action of Southern Kentucky – Hart County",
+    "description": "Community action agency serving Hart County residents with emergency food and shelter assistance, LIHEAP energy aid, housing counseling, and social services referrals from their Munfordville office.",
+    "address": "509 AA Whitman Lane, Munfordville, KY 42765",
+    "phone": "(270) 524-0224",
+    "url": "https://www.casoky.org/hart",
+    "categorySlug": "community",
+    "zipCode": "42765"
+  },
+  {
+    "name": "Henry County Helping Hands, Inc.",
+    "description": "Nonprofit organization providing food, toiletries, and personal hygiene products to Henry County residents in need, supported by local volunteers, businesses, and churches.",
+    "address": "New Castle, KY 40050",
+    "phone": "",
+    "url": "https://www.facebook.com/henrycountyhelpinghands/",
+    "categorySlug": "food",
+    "zipCode": "40050"
+  },
+  {
+    "name": "North Central District Health Department – Henry County",
+    "description": "Public health department offering clinical services, environmental health programs, and community health resources for Henry County residents in New Castle.",
+    "address": "75 Park Rd, New Castle, KY 40050",
+    "phone": "(502) 845-2882",
+    "url": "https://ncdhd.com/",
+    "categorySlug": "healthcare",
+    "zipCode": "40050"
+  },
+  {
+    "name": "Tri-County Community Action Agency – Henry County",
+    "description": "Community action agency serving Henry, Oldham, and Trimble counties since 1974, providing LIHEAP energy assistance, weatherization, emergency food and shelter aid, and senior services to low-income residents.",
+    "address": "125 Park Rd, New Castle, KY 40050",
+    "phone": "(502) 845-7808",
+    "url": "https://www.tccaaky.org",
+    "categorySlug": "community",
+    "zipCode": "40050"
+  },
+  {
+    "name": "God's Outreach Jackson County Mobile Food Pantry",
+    "description": "Monthly mobile food pantry hosted at the Jackson County Public Library, distributing free food boxes to families in need throughout McKee and surrounding Jackson County communities.",
+    "address": "338 Main St N, McKee, KY 40447",
+    "phone": "",
+    "url": "http://godsoutreach.org/jackson-county/",
+    "categorySlug": "food",
+    "zipCode": "40447"
+  },
+  {
+    "name": "Jackson County Food Bank, Inc.",
+    "description": "Food bank providing free food assistance to households experiencing food insecurity in Jackson County, open Monday through Friday for client visits.",
+    "address": "1257 McCammon Ridge Rd, McKee, KY 40447",
+    "phone": "(606) 287-8336",
+    "url": "http://members.prtcnet.org/jacksoncountyfoodbank/",
+    "categorySlug": "food",
+    "zipCode": "40447"
+  },
+  {
+    "name": "Hillview Community Christian Food Pantry (Dare to Care)",
+    "description": "Dare to Care partner food pantry distributing food to households in the south Louisville 40229 area, providing supplemental groceries to families facing hunger.",
+    "address": "1191 Hillview Blvd, Louisville, KY 40229",
+    "phone": "(502) 957-5280",
+    "url": "https://daretocare.org/",
+    "categorySlug": "food",
+    "zipCode": "40229"
+  },
+  {
+    "name": "Okolona Christian Church Pantry",
+    "description": "Community food pantry in Okolona serving zip codes 40229, 40219, 40118, 40165, and 40109 with food and household essentials including diapers and pet food, open Tuesday afternoons.",
+    "address": "10801 Faithful Way, Louisville, KY 40229",
+    "phone": "(502) 962-6500",
+    "url": "https://www.okolonacc.org/pantry/",
+    "categorySlug": "food",
+    "zipCode": "40229"
+  },
+  {
+    "name": "South Louisville Community Ministries (SLCM)",
+    "description": "Nonprofit serving south Louisville zip codes including 40209, operating a choice food pantry plus emergency financial assistance for utilities and rent for low-income families.",
+    "address": "415 1/2 W Ashland Ave, Louisville, KY 40214",
+    "phone": "(502) 367-6445",
+    "url": "https://slcm.org/",
+    "categorySlug": "food",
+    "zipCode": "40214"
+  },
+  {
+    "name": "St. Vincent de Paul Louisville",
+    "description": "Catholic social services organization operating a community kitchen, choice food pantry, men's emergency shelter, affordable housing, and supportive services for homeless and low-income Louisville residents.",
+    "address": "2911 S 4th St, Louisville, KY 40208",
+    "phone": "(502) 637-9786",
+    "url": "https://www.svdplou.org/",
+    "categorySlug": "housing",
+    "zipCode": "40208"
+  },
+  {
+    "name": "Wayside Christian Mission",
+    "description": "Nonprofit providing emergency shelter, meals, and wraparound support services to homeless men, women, and families in the Louisville area, including the south Louisville community.",
+    "address": "432 E Jefferson St, Louisville, KY 40202",
+    "phone": "(502) 584-3711",
+    "url": "https://www.waysidechristianmission.org/",
+    "categorySlug": "housing",
+    "zipCode": "40202"
+  },
+  {
+    "name": "Paintsville ARH Hospital",
+    "description": "72-bed community hospital serving Johnson, Martin, Magoffin, and Morgan counties with emergency care, primary and specialty medicine, behavioral health, and outpatient clinical services.",
+    "address": "410 N Mayo Trail, Paintsville, KY 41240",
+    "phone": "(606) 789-3511",
+    "url": "https://www.arh.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "41240"
+  },
+  {
+    "name": "Be Concerned – The People's Pantry",
+    "description": "Northern Kentucky's largest choice food pantry, providing 60–70 lbs of supplemental groceries to over 2,200 families each month at their Covington location, with additional services at Erlanger.",
+    "address": "1100 Pike St, Covington, KY 41011",
+    "phone": "(859) 291-6789",
+    "url": "https://beconcerned.org/",
+    "categorySlug": "food",
+    "zipCode": "41011"
+  },
+  {
+    "name": "Northern Kentucky Community Action Commission – Kenton County",
+    "description": "Community action agency providing a choice food pantry, USDA commodity distribution, family services, career readiness, and housing and weatherization assistance to Kenton County residents.",
+    "address": "717 Madison Ave, Covington, KY 41011",
+    "phone": "(859) 581-6607",
+    "url": "https://nkcac.org/",
+    "categorySlug": "community",
+    "zipCode": "41011"
+  },
+  {
+    "name": "The Salvation Army – Northern Kentucky Corps",
+    "description": "Social services organization providing food assistance, emergency utility and rent aid, and community programs for low-income and vulnerable residents throughout Kenton and Campbell counties.",
+    "address": "1806 Scott Blvd, Covington, KY 41014",
+    "phone": "(859) 261-0835",
+    "url": "https://easternusa.salvationarmy.org/greater-cincinnati/northern-kentucky/",
+    "categorySlug": "community",
+    "zipCode": "41014"
+  },
+  {
+    "name": "Welcome House, Inc.",
+    "description": "Nonprofit ending homelessness in Northern Kentucky by providing emergency shelter, transitional housing, and case management services to homeless women, children, and families in the Covington area.",
+    "address": "1132 Greenup St, Covington, KY 41011",
+    "phone": "(859) 431-8717",
+    "url": "https://www.welcomehouseky.org/",
+    "categorySlug": "housing",
+    "zipCode": "41011"
+  },
+  {
+    "name": "Kentucky River Community Care – Knott County",
+    "description": "Community mental health center providing outpatient behavioral health, substance use treatment, and crisis services to Knott County residents in the Hindman area.",
+    "address": "820 Hwy 160 South, Hindman, KY 41822",
+    "phone": "(606) 785-0004",
+    "url": "https://www.krccnet.com/",
+    "categorySlug": "healthcare",
+    "zipCode": "41822"
+  },
+  {
+    "name": "LKLP Community Action Council – Knott County Outreach Office",
+    "description": "Community action agency serving Leslie, Knott, Letcher, and Perry counties with emergency services, LIHEAP energy assistance, housing aid, employment support, and commodity food distribution for low-income residents.",
+    "address": "131 West Main Street, Hindman, KY 41822",
+    "phone": "(606) 785-3322",
+    "url": "https://www.lklp.org/",
+    "categorySlug": "community",
+    "zipCode": "41822"
+  },
+  {
+    "name": "Christian Life Food Bank",
+    "description": "Community food pantry serving eligible Knox County residents with emergency food assistance, operating out of Barbourville.",
+    "address": "165 Black Street, Barbourville, KY 40906",
+    "phone": "(606) 627-7931",
+    "url": "https://www.facebook.com/pages/Christian-Life-Fellowship-Food-Pantry/316776225155410",
+    "categorySlug": "food",
+    "zipCode": "40906"
+  },
+  {
+    "name": "KCEOC Community Action Partnership – Knox County",
+    "description": "Community action agency with 60+ years serving eastern and central Kentucky, providing LIHEAP energy assistance, weatherization, emergency rental and utility aid, and senior services to Knox County residents.",
+    "address": "5448 N Highway US 25E Suite A, Gray, KY 40734",
+    "phone": "(606) 546-3152",
+    "url": "https://kceoc.org/",
+    "categorySlug": "community",
+    "zipCode": "40734"
+  },
+  {
+    "name": "Lend-A-Hand Center",
+    "description": "Nonprofit community service organization on a farm in northeastern Knox County providing educational, spiritual, health, and social services to improve the quality of life for people in southeastern Kentucky.",
+    "address": "Highway US 25E, Walker, KY 40997",
+    "phone": "",
+    "url": "https://tfhope.org/lend-a-hand-center-2/",
+    "categorySlug": "community",
+    "zipCode": "40997"
+  },
+  {
+    "name": "Community Action of Southern Kentucky – LaRue County",
+    "description": "Community action agency offering emergency food and shelter assistance, LIHEAP energy aid, and social services support to LaRue County residents through their Hodgenville office.",
+    "address": "120 Greensburg Rd, Hodgenville, KY 42748",
+    "phone": "(270) 358-3937",
+    "url": "https://www.casoky.org/",
+    "categorySlug": "community",
+    "zipCode": "42748"
+  },
+  {
+    "name": "Shepherd's Pie Food Pantry",
+    "description": "Faith-based volunteer food pantry housed at Magnolia Cumberland Presbyterian Church, providing supplemental and emergency food to LaRue County families every Tuesday afternoon.",
+    "address": "235 Old L&N Turnpike, Magnolia, KY 42757",
+    "phone": "(270) 324-3472",
+    "url": "https://nolinrecc.com/organization-spotlight-shepherds-pie-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "42757"
+  },
+  {
+    "name": "Big Creek Missions Food Pantry",
+    "description": "Monthly food pantry operated by Big Creek Missions in Hyden, providing food boxes and basic necessities to hundreds of Leslie County residents each month.",
+    "address": "23119 Highway 421, Hyden, KY 41749",
+    "phone": "(859) 667-4216",
+    "url": "https://www.bigcreekmissions.com/pantry",
+    "categorySlug": "food",
+    "zipCode": "40803"
+  },
+  {
+    "name": "Wendover Bed & Breakfast and Retreat Center",
+    "description": "Historic National Historic Landmark at the original Frontier Nursing Service headquarters founded by Mary Breckinridge, offering lodging, tours, and a community gathering space in the rural Wendover community of Leslie County.",
+    "address": "132 FNS Dr, Wendover, KY 41775",
+    "phone": "(606) 672-2317",
+    "url": "http://www.wendoverky.org/",
+    "categorySlug": "community",
+    "zipCode": "41775"
+  },
+  {
+    "name": "Letcher County Food Pantry",
+    "description": "Nonprofit food pantry in Whitesburg providing free food assistance to Letcher County households, open Wednesday through Friday with food and utility referral services.",
+    "address": "204 Madison Ave, Whitesburg, KY 41858",
+    "phone": "(606) 633-5881",
+    "url": "https://www.facebook.com/people/Letcher-County-Food-Pantry/61582905040199/",
+    "categorySlug": "food",
+    "zipCode": "41858"
+  },
+  {
+    "name": "Lewis County Health Department",
+    "description": "Public health department providing clinical services, immunizations, WIC, environmental health programs, and community health resources for Lewis County residents in Vanceburg.",
+    "address": "185 Commercial Drive, Vanceburg, KY 41179",
+    "phone": "(606) 796-2632",
+    "url": "https://lewiscountykyhd.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "41179"
+  },
+  {
+    "name": "Licking Valley Community Action Program (LVCAP) – Lewis County",
+    "description": "Community action agency serving Lewis County with emergency food pantry, LIHEAP energy assistance, commodity food distribution, senior services, and social service referrals from their Vanceburg community center.",
+    "address": "210 Front Street, Vanceburg, KY 41179",
+    "phone": "(606) 796-3893",
+    "url": "https://www.lvcap.com/",
+    "categorySlug": "community",
+    "zipCode": "41179"
+  },
+  {
+    "name": "Community Action of Southern Kentucky – Logan County",
+    "description": "Community action agency serving Logan County residents with emergency food and shelter assistance, LIHEAP energy aid, garden programs, and social services from their Russellville office.",
+    "address": "201 West 6th St, Russellville, KY 42276",
+    "phone": "(270) 726-2459",
+    "url": "https://www.casoky.org/logan",
+    "categorySlug": "community",
+    "zipCode": "42276"
+  },
+  {
+    "name": "Logan County Good Samaritan, Inc.",
+    "description": "Christian benevolent organization serving Logan County since 1997, providing food assistance, emergency housing, emergency transportation, and household necessities from their Russellville location.",
+    "address": "602 East 4th Street, Russellville, KY 42276",
+    "phone": "(270) 725-9002",
+    "url": "http://www.logancountygoodsam.com/",
+    "categorySlug": "food",
+    "zipCode": "42276"
+  },
+  {
+    "name": "Communicare – Marion County Behavioral Health Clinic",
+    "description": "Outpatient behavioral health clinic providing counseling, psychiatry, case management, and substance abuse treatment to adults and youth in Marion County.",
+    "address": "65 Old Springfield Rd, Lebanon, KY 40033",
+    "phone": "(270) 692-2509",
+    "url": "https://www.communicare.org/service-marion",
+    "categorySlug": "healthcare",
+    "zipCode": "40033"
+  },
+  {
+    "name": "Marion County Health Department",
+    "description": "Public health department offering immunizations, WIC, maternal and child health services, and communicable disease prevention for Marion County residents.",
+    "address": "318 E Main St, Lebanon, KY 40033",
+    "phone": "(270) 692-2313",
+    "url": "https://lhd.chfs.ky.gov/agencies/dph/dafm/Pages/marion.aspx",
+    "categorySlug": "healthcare",
+    "zipCode": "40033"
+  },
+  {
+    "name": "Martin County Community Health Center",
+    "description": "Federally Qualified Health Center providing primary care, dental, and behavioral health services on a sliding-fee scale to residents of Martin County and surrounding Appalachian communities.",
+    "address": "6500 Highway 645, Ste 110, Inez, KY 41224",
+    "phone": "(606) 298-3412",
+    "url": "https://carelistings.com/federally-qualified-health-centers/inez-ky/martin-county-community-health-center/5ace883d93efd2372f97fb17",
+    "categorySlug": "healthcare",
+    "zipCode": "41224"
+  },
+  {
+    "name": "Martin County Health Department",
+    "description": "Public health department providing immunizations, WIC nutrition services, maternal and child health programs, and environmental health services to Martin County residents.",
+    "address": "PO Box 579, Inez, KY 41224",
+    "phone": "(606) 298-3592",
+    "url": "https://martinhealthky.gov",
+    "categorySlug": "healthcare",
+    "zipCode": "41224"
+  },
+  {
+    "name": "McLean County Health Center – Green River District Health Department",
+    "description": "Public health clinic offering immunizations, WIC, family planning, communicable disease services, and environmental health programs for McLean County residents.",
+    "address": "200 Hwy 81 N, Suite 101, Calhoun, KY 42327",
+    "phone": "(270) 273-3062",
+    "url": "https://healthdepartment.org/location/mclean-county-health-center/",
+    "categorySlug": "healthcare",
+    "zipCode": "42327"
+  },
+  {
+    "name": "Dayspring Assembly of God Food Pantry",
+    "description": "Faith-based food pantry serving Menifee County residents with grocery distributions, providing free food to individuals and families experiencing food insecurity.",
+    "address": "176 Pond Circle, Wellington, KY 40387",
+    "phone": "(606) 768-2048",
+    "url": "https://www.findhelp.org/dayspring-assembly-of-god-food-pantry--frenchburg-ky--food-pantry/5817899122163712",
+    "categorySlug": "food",
+    "zipCode": "40387"
+  },
+  {
+    "name": "Menifee County Health Center – Gateway District Health Department",
+    "description": "Public health clinic providing immunizations, WIC, family planning, HANDS home visitation, and communicable disease services to Menifee County residents.",
+    "address": "1919 Main St, Frenchburg, KY 40322",
+    "phone": "(606) 768-2151",
+    "url": "https://gdhd.org",
+    "categorySlug": "healthcare",
+    "zipCode": "40322"
+  },
+  {
+    "name": "Christ's Pantry of Morgan County",
+    "description": "Nonprofit food pantry in West Liberty distributing free groceries to Morgan County residents in need, with weekly distributions every Monday evening.",
+    "address": "West Liberty, KY 41472",
+    "phone": "(606) 743-4356",
+    "url": "https://www.foodpantries.org/li/ky_west-liberty_christs-pantry-of-morgan-county-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "41472"
+  },
+  {
+    "name": "Morgan County ARH Hospital",
+    "description": "Critical access hospital serving Morgan and surrounding counties with emergency care, primary care clinics, pharmacy, and diagnostic services in rural Appalachian Kentucky.",
+    "address": "476 Liberty Rd, West Liberty, KY 41472",
+    "phone": "(606) 743-3186",
+    "url": "https://www.arh.org/locations/morgan_county.aspx",
+    "categorySlug": "healthcare",
+    "zipCode": "41472"
+  },
+  {
+    "name": "Pathways – Morgan County",
+    "description": "Regional behavioral health center providing mental health counseling, substance abuse treatment, crisis services, and case management to Morgan County residents.",
+    "address": "767 N Main St, West Liberty, KY 41472",
+    "phone": "(800) 562-8909",
+    "url": "https://www.pathways-ky.org",
+    "categorySlug": "healthcare",
+    "zipCode": "41472"
+  },
+  {
+    "name": "Owensboro Health Muhlenberg Community Hospital",
+    "description": "Community hospital providing emergency care, primary care, surgical services, and specialty care to residents of Muhlenberg County and surrounding communities.",
+    "address": "440 Hopkinsville St, Greenville, KY 42345",
+    "phone": "(270) 338-8000",
+    "url": "https://www.owensborohealth.org/locations/profile/owensboro-health-muhlenberg-community-hospital",
+    "categorySlug": "healthcare",
+    "zipCode": "42345"
+  },
+  {
+    "name": "Pennyrile Allied Community Services – Muhlenberg County",
+    "description": "Community action agency offering energy assistance, housing support, weatherization, Head Start, and emergency assistance programs to low-income residents of Muhlenberg County.",
+    "address": "30 Big John Plaza, Greenville, KY 42345",
+    "phone": "(270) 338-5080",
+    "url": "https://www.pacs-ky.org",
+    "categorySlug": "community",
+    "zipCode": "42345"
+  },
+  {
+    "name": "Ohio County Food Pantry",
+    "description": "All-volunteer food pantry serving Ohio County residents with monthly grocery distributions and a weekend food backpack program for local schoolchildren in need.",
+    "address": "1220 S Main St, Hartford, KY 42347",
+    "phone": "(270) 363-0032",
+    "url": "https://www.ohiocountyfoodpantry.lfbc.us",
+    "categorySlug": "food",
+    "zipCode": "42347"
+  },
+  {
+    "name": "Community Chest of Oldham County",
+    "description": "Nonprofit providing emergency financial assistance to Oldham County residents with rental, mortgage, utility, and medical costs when funds are available.",
+    "address": "La Grange, KY 40031",
+    "phone": "(502) 222-0427",
+    "url": "https://www.oldhampl.org/community-connections",
+    "categorySlug": "community",
+    "zipCode": "40031"
+  },
+  {
+    "name": "HighPoint Charitable Services Food Pantry",
+    "description": "Food pantry serving Oldham County and surrounding counties, providing weekly access to fresh produce, canned goods, breads, and meat at no cost to clients in need.",
+    "address": "424 E Main St, La Grange, KY 40031",
+    "phone": "(502) 713-7090",
+    "url": "https://www.highpointcs.org/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "40031"
+  },
+  {
+    "name": "Hazard-Perry County Community Ministries",
+    "description": "Faith-based nonprofit operating since 1976 with emergency food assistance, a homeless crisis shelter, child development centers, and family support programs for Perry County residents.",
+    "address": "135 Memorial Dr, Hazard, KY 41701",
+    "phone": "(606) 436-2662",
+    "url": "http://www.hpccm.org",
+    "categorySlug": "community",
+    "zipCode": "41701"
+  },
+  {
+    "name": "Kentucky Mountain Health Alliance",
+    "description": "Federally Qualified Health Center providing affordable primary care, dental, and behavioral health services on a sliding-fee scale to uninsured and underinsured residents of Perry County.",
+    "address": "279 E Main St, Hazard, KY 41701",
+    "phone": "(606) 487-9505",
+    "url": "https://kymha.com",
+    "categorySlug": "healthcare",
+    "zipCode": "41701"
+  },
+  {
+    "name": "Primary Care Centers of Eastern Kentucky – Vicco",
+    "description": "Rural health clinic in Vicco providing primary care, preventive services, and chronic disease management to uninsured and underinsured residents of Perry County on a sliding-fee scale.",
+    "address": "317 Main St, Vicco, KY 41773",
+    "phone": "(606) 476-2274",
+    "url": "https://www.vitadox.com/practice/vicco-ky-41773/primary-care-centers-of-eastern-kentucky-vicco/DaNfvQMtqwksigUx7NJtqk",
+    "categorySlug": "healthcare",
+    "zipCode": "41773"
+  },
+  {
+    "name": "Thankful Hearts Food Pantry",
+    "description": "Nonprofit food pantry in Pikeville providing free food, household goods, and school supplies to Pike County residents, including monthly food delivery to senior high-rises.",
+    "address": "648 Adams Rd, Pikeville, KY 41501",
+    "phone": "(606) 437-6221",
+    "url": "https://www.facebook.com/thankfulheartsfoodpantryinc/",
+    "categorySlug": "food",
+    "zipCode": "41501"
+  },
+  {
+    "name": "Upper Room Learning Center Food Pantry",
+    "description": "Community food pantry located in Regina serving Pike County residents along the Belcher Highway corridor with free groceries and household essentials.",
+    "address": "10519 Regina Belcher Hwy, Regina, KY 41559",
+    "phone": "(606) 794-7467",
+    "url": "https://pikecountyhealth.com/community-resources/",
+    "categorySlug": "food",
+    "zipCode": "41559"
+  },
+  {
+    "name": "Bethany House Domestic Abuse Shelter",
+    "description": "Emergency domestic violence shelter serving Pulaski County and nine other Lake Cumberland area counties, providing safe housing, advocacy, support groups, and community education.",
+    "address": "Somerset, KY 42501",
+    "phone": "(606) 679-1553",
+    "url": "https://bethanyhouseinc.org",
+    "categorySlug": "housing",
+    "zipCode": "42501"
+  },
+  {
+    "name": "God's Food Pantry – Somerset",
+    "description": "Large food pantry serving Pulaski County, distributing thousands of carts of groceries monthly to individuals and families experiencing food insecurity in the Somerset area.",
+    "address": "119 S Central Ave, Somerset, KY 42501",
+    "phone": "(606) 679-8560",
+    "url": "https://www.somersetfoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "42501"
+  },
+  {
+    "name": "Cumberland Family Medical Center – Russell Springs (FQHC)",
+    "description": "Federally Qualified Health Center offering primary care, preventive services, and chronic disease management on a sliding-fee scale to uninsured and low-income Russell County residents.",
+    "address": "404 Steve Dr, Russell Springs, KY 42642",
+    "phone": "(270) 866-3161",
+    "url": "https://cfmcky.com",
+    "categorySlug": "healthcare",
+    "zipCode": "42642"
+  },
+  {
+    "name": "Russell County Senior Center",
+    "description": "Senior services center providing the USDA Commodity Supplemental Food Program and congregate meals to nearly 200 income-eligible seniors 60 and older in Russell County each month.",
+    "address": "Jamestown, KY 42629",
+    "phone": "(270) 343-4565",
+    "url": "https://feedingamericaky.org/agency-spotlight-russell-county-senior-center/",
+    "categorySlug": "food",
+    "zipCode": "42629"
+  },
+  {
+    "name": "Todd County Health Department",
+    "description": "Public health department providing immunizations, WIC nutrition assistance, maternal and child health, and disease prevention services to Todd County residents.",
+    "address": "617 W Main St, Elkton, KY 42220",
+    "phone": "(270) 265-2362",
+    "url": "https://lhd.chfs.ky.gov/agencies/dph/dafm/Pages/todd.aspx",
+    "categorySlug": "healthcare",
+    "zipCode": "42220"
+  },
+  {
+    "name": "Todd County Interfaith Center",
+    "description": "Food pantry open four days a week providing free groceries to Todd County residents, requiring proof of residency and ID; walk-ins welcome with no income verification required.",
+    "address": "602 S Streets Ave, Elkton, KY 42220",
+    "phone": "(270) 505-9216",
+    "url": "https://www.foodpantries.org/li/todd_county_-Elkton-42220",
+    "categorySlug": "food",
+    "zipCode": "42220"
+  },
+  {
+    "name": "Barren River Area Safe Space (BRASS)",
+    "description": "Domestic violence shelter and advocacy organization serving Warren and surrounding counties, providing emergency housing, legal advocacy, support groups, and community education.",
+    "address": "Bowling Green, KY 42101",
+    "phone": "(270) 781-9334",
+    "url": "https://www.startherewarrencounty.org/resource-pages/housing-and-shelter",
+    "categorySlug": "housing",
+    "zipCode": "42101"
+  },
+  {
+    "name": "Calvary Care Center",
+    "description": "Food bank affiliated with Feeding America serving low-income residents of Warren County, distributing fresh produce, canned goods, protein, and other groceries at no cost.",
+    "address": "480 Beauty Court, Bowling Green, KY 42101",
+    "phone": "",
+    "url": "https://www.calvarybg.org/calvary-care-center",
+    "categorySlug": "food",
+    "zipCode": "42101"
+  },
+  {
+    "name": "Salvation Army – Bowling Green Corps",
+    "description": "Emergency shelter with 60 beds serving men, women, and children, plus food boxes, utility assistance, and disaster services for Warren County and surrounding communities.",
+    "address": "400 W Main Ave, Bowling Green, KY 42101",
+    "phone": "(270) 843-3485",
+    "url": "https://southernusa.salvationarmy.org/BowlingGreen",
+    "categorySlug": "housing",
+    "zipCode": "42101"
+  },
+  {
+    "name": "Landon's Hope Resource Center",
+    "description": "Food pantry in Sebree serving Webster County residents twice weekly with free groceries and household goods, with no requirements other than being in need.",
+    "address": "2900 US 41 S, Sebree, KY 42455",
+    "phone": "(270) 884-3334",
+    "url": "https://www.findhelp.org/providence-community-food-bank--providence-ky--webster-county-community-food-bank/4954421832318976",
+    "categorySlug": "food",
+    "zipCode": "42455"
+  },
+  {
+    "name": "Webster County Health Center – Green River District Health Department",
+    "description": "Public health clinic providing immunizations, WIC, family planning, communicable disease services, and environmental health programs for Webster County residents.",
+    "address": "80 Clayton Ave, Dixon, KY 42409",
+    "phone": "(270) 639-9315",
+    "url": "https://healthdepartment.org/location/webster-county-health-center/",
+    "categorySlug": "healthcare",
+    "zipCode": "42409"
+  }
+]

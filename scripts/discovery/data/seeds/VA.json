@@ -1,0 +1,3125 @@
+[
+  {
+    "name": "Accomack County Department of Social Services",
+    "description": "Can assist with Food Stamps/SNAP benefits, heating and cooling bills, and shelter requirements in case of a disaster.",
+    "address": "22554 Center Parkway, Accomac, VA 23301",
+    "phone": "(757) 787-9303",
+    "url": "https://www.co.accomack.va.us/departments/social-services",
+    "categorySlug": "food",
+    "zipCode": "23301"
+  },
+  {
+    "name": "Atlantic Road Food Pantry Distribution",
+    "description": "Monthly food pantry distribution on the 2nd Wednesday.",
+    "address": "10352 Atlantic Road, Atlantic, Accomack County, VA 23303",
+    "phone": "",
+    "url": "https://foodbankonline.org",
+    "categorySlug": "food",
+    "zipCode": "23303"
+  },
+  {
+    "name": "Bloxom Methodist Church Food Pantry",
+    "description": "Operates a drive-thru food pantry affiliated with the Foodbank of Southeastern Virginia and the Eastern Shore.",
+    "address": "25460 Bloxom Lane, Bloxom, VA 23308",
+    "phone": "(757) 710-1822",
+    "url": "https://foodbankonline.org",
+    "categorySlug": "food",
+    "zipCode": "23308"
+  },
+  {
+    "name": "Hollies Baptist Church Food Pantry",
+    "description": "Distributes food on the 3rd Monday of each month from 12:00 to 1:00 pm.",
+    "address": "17691 Hollies Church Road, Keller, VA 23401",
+    "phone": "",
+    "url": "https://foodbankonline.org",
+    "categorySlug": "food",
+    "zipCode": "23401"
+  },
+  {
+    "name": "Hallwood Mobile Pantry",
+    "description": "Operated by the Foodbank of Southeastern Virginia and the Eastern Shore. Operates on the first and third Wednesdays of each month from 11:00 am to 1:00 pm.",
+    "address": "28281 Main Street, Hallwood, Virginia 23359",
+    "phone": "(757) 910-8584",
+    "url": "https://foodbankonline.org",
+    "categorySlug": "food",
+    "zipCode": "23359"
+  },
+  {
+    "name": "Accomack County Emergency Shelters",
+    "description": "Operates 6 emergency shelter locations that open as needed. Operational status announced on local radio and acdps.net.",
+    "address": "Accomack County, VA 23301",
+    "phone": "(757) 787-1530",
+    "url": "https://www.acdps.net",
+    "categorySlug": "crisis",
+    "zipCode": "23301"
+  },
+  {
+    "name": "Accomack-Northampton Regional Housing Authority",
+    "description": "Provides housing assistance, including low-income affordable housing and public housing. Manages the regional Section 8 Housing Choice Voucher Program and owns several apartment complexes.",
+    "address": "23372 Front St, Accomac, VA 23301",
+    "phone": "(757) 787-2800",
+    "url": "",
+    "categorySlug": "housing",
+    "zipCode": "23301"
+  },
+  {
+    "name": "Accomack-Northampton Planning District Commission",
+    "description": "Offers Homeless Prevention/Rapid Re-housing programs, including financial aid for rent, deposits, utilities, and housing relocation services. Offers housing programs, including access to homeless services and housing counseling. Specializes in the construction of low and moderate-income housing.",
+    "address": "23372 Front Street, Accomac, VA 23301",
+    "phone": "(757) 787-2936",
+    "url": "",
+    "categorySlug": "housing",
+    "zipCode": "23301"
+  },
+  {
+    "name": "Accomack County Emergency Shelters",
+    "description": "Six school buildings used as emergency shelters during disaster-related emergencies. Operational status announced on local radio and acdps.net.",
+    "address": "Accomack County, VA 23306",
+    "phone": "(757) 787-1530",
+    "url": "https://www.acdps.net",
+    "categorySlug": "crisis",
+    "zipCode": "23306"
+  },
+  {
+    "name": "Eastern Shore Coalition Against Domestic Violence",
+    "description": "Provides emergency shelter, clothing, food, and aid for victims of domestic violence.",
+    "address": "",
+    "phone": "(757) 787-1329",
+    "url": "",
+    "categorySlug": "crisis",
+    "zipCode": "23306"
+  },
+  {
+    "name": "Accomack County Emergency Shelters",
+    "description": "Six school buildings used as emergency shelters during disaster-related events. Not for long-term housing.",
+    "address": "Accomack County, VA 23336",
+    "phone": "(757) 787-1530",
+    "url": "https://www.accomack.va.us",
+    "categorySlug": "crisis",
+    "zipCode": "23336"
+  },
+  {
+    "name": "Accomack County Emergency Shelters",
+    "description": "Six school buildings used as emergency shelters during disaster-related events. Not for long-term housing.",
+    "address": "Accomack County, VA 23356",
+    "phone": "(757) 787-1530",
+    "url": "https://www.accomack.va.us",
+    "categorySlug": "crisis",
+    "zipCode": "23356"
+  },
+  {
+    "name": "Eastern Shore Coalition Against Domestic Violence",
+    "description": "Offers emergency shelter, clothing, food, and support for victims of domestic violence in Accomack County.",
+    "address": "",
+    "phone": "(757) 787-1329",
+    "url": "",
+    "categorySlug": "crisis",
+    "zipCode": "23356"
+  },
+  {
+    "name": "Accomack County Emergency Shelters",
+    "description": "Six school buildings used as emergency shelters during disaster-related events. Not for long-term housing.",
+    "address": "Accomack County, VA 23358",
+    "phone": "(757) 787-1530",
+    "url": "https://www.accomack.va.us",
+    "categorySlug": "crisis",
+    "zipCode": "23358"
+  },
+  {
+    "name": "Eastern Shore Coalition Against Domestic Violence",
+    "description": "Provides emergency shelter, clothing, food, and aid for victims of domestic violence.",
+    "address": "",
+    "phone": "(757) 787-1329",
+    "url": "",
+    "categorySlug": "crisis",
+    "zipCode": "23358"
+  },
+  {
+    "name": "Accomack County Emergency Shelters",
+    "description": "Six school buildings used as emergency shelters during disaster-related events. Not for long-term housing.",
+    "address": "Accomack County, VA 23359",
+    "phone": "(757) 787-1530",
+    "url": "https://www.accomack.va.us",
+    "categorySlug": "crisis",
+    "zipCode": "23359"
+  },
+  {
+    "name": "Light House Ministries Transitional Homeless Shelter",
+    "description": "A transitional homeless shelter that provides assistance based on Christian principles.",
+    "address": "18309 North Street, Keller, VA 23401",
+    "phone": "(757) 787-2535",
+    "url": "",
+    "categorySlug": "housing",
+    "zipCode": "23401"
+  },
+  {
+    "name": "Mill Run Accomack",
+    "description": "Low-income apartments and affordable housing opportunities. May offer income-based rent and accept Section 8 vouchers.",
+    "address": "35409 Mill Run Ln, Belle Haven, VA 23306",
+    "phone": "",
+    "url": "",
+    "categorySlug": "housing",
+    "zipCode": "23306"
+  },
+  {
+    "name": "Eastern Shore Arc House",
+    "description": "Low-income apartments and affordable housing opportunities. Some units are accessible.",
+    "address": "36128 Indian Ln, Belle Haven, VA 23306",
+    "phone": "",
+    "url": "",
+    "categorySlug": "housing",
+    "zipCode": "23306"
+  },
+  {
+    "name": "Church of the Ascension",
+    "description": "Food Pantry is open Monday-Friday, 10:00 a.m. - 11:30 a.m., no appointment necessary. Financial assistance is limited to Virginia Beach residents.",
+    "address": "Virginia Beach, VA",
+    "phone": "(757) 495-1886 x414",
+    "url": "https://ascensionvb.org",
+    "categorySlug": "food",
+    "zipCode": "23407"
+  },
+  {
+    "name": "St. Gregory the Great Catholic Church",
+    "description": "Distributes food every Tuesday and Thursday from 12:00 p.m. to 1:30 p.m.",
+    "address": "247 Clearfield Ave, Virginia Beach, VA",
+    "phone": "(757) 497-8330",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "23407"
+  },
+  {
+    "name": "The Chapel Pantry",
+    "description": "A free client-choice food pantry. Open Tuesdays, Thursdays, and Saturdays from 2:00 p.m. to 6:00 p.m.",
+    "address": "2020 Laskin Road, Virginia Beach, VA 23454",
+    "phone": "(757) 428-6763",
+    "url": "https://thechapelpantry.com",
+    "categorySlug": "food",
+    "zipCode": "23407"
+  },
+  {
+    "name": "Thalia UMC",
+    "description": "Food Pantry is open Thursdays, 12:30 p.m. - 2:30 p.m. ID is required.",
+    "address": "4321 Virginia Beach Blvd, Virginia Beach, VA",
+    "phone": "(757) 340-5015",
+    "url": "https://vbumc.org",
+    "categorySlug": "food",
+    "zipCode": "23407"
+  },
+  {
+    "name": "Judeo-Christian Outreach Center (JCOC) at First Lynnhaven Baptist",
+    "description": "Must call for an appointment. Open Tuesdays & Saturdays, 10:00 a.m. - 12:00 p.m. No voicemails honored.",
+    "address": "2744 Robert Jackson Drive, Virginia Beach, VA",
+    "phone": "(757) 491-2846",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "23407"
+  },
+  {
+    "name": "Manna Ministry of Tidewater",
+    "description": "Provides food pantry delivery in Virginia Beach. Call and leave a message with your name and phone number.",
+    "address": "216 Business Park Drive, Virginia Beach, VA",
+    "phone": "(757) 609-0709",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "23407"
+  },
+  {
+    "name": "Holy Spirit Catholic",
+    "description": "Open Tuesdays & Thursdays, 10:00 a.m. - 12:00 p.m.",
+    "address": "1396 Lynnhaven Parkway, Virginia Beach, VA",
+    "phone": "(757) 468-1533",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "23407"
+  },
+  {
+    "name": "Loaves & Fishes Food Pantry",
+    "description": "Free groceries including fresh produce, milk, eggs, bread, and frozen meat for anyone who needs help eating well. Serves the Charlottesville-Albemarle area.",
+    "address": "2050 Lambs Road, Charlottesville, VA 22901",
+    "phone": "(434) 996-7868",
+    "url": "https://cvillefoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "22901"
+  },
+  {
+    "name": "UUCville Food Distribution Center",
+    "description": "Food pantry operated by the Unitarian Universalist Congregation of Charlottesville, providing food assistance to community members in need.",
+    "address": "717 Rugby Road, Charlottesville, VA 22901",
+    "phone": "(434) 293-8179",
+    "url": "https://uucharlottesville.org/social-justice/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "22901"
+  },
+  {
+    "name": "Emergency Food Network",
+    "description": "Provides a 3-day food supply to individuals and families in the Charlottesville-Albemarle area. Call Monday, Wednesday, Friday, or Saturday 9am-noon to order; pick up same day 1:30-3:30pm.",
+    "address": "900 Harris Street, Charlottesville, VA 22903",
+    "phone": "(434) 979-9180",
+    "url": "https://www.emergencyfoodnetwork.org/",
+    "categorySlug": "food",
+    "zipCode": "22901"
+  },
+  {
+    "name": "The Haven",
+    "description": "Day shelter open every morning 365 days a year offering breakfast, showers, laundry facilities, computers, phones, storage bins, and mail delivery to anyone in need.",
+    "address": "112 West Market Street, Charlottesville, VA 22902",
+    "phone": "(434) 973-1234",
+    "url": "https://www.thehaven.org/",
+    "categorySlug": "housing",
+    "zipCode": "22901"
+  },
+  {
+    "name": "PACEM (Providing Assistance & Care Every Night)",
+    "description": "Emergency winter shelter providing dinner and overnight shelter through a network of 60+ local congregations for people experiencing homelessness in Charlottesville.",
+    "address": "Charlottesville, VA 22902",
+    "phone": "(434) 465-1392",
+    "url": "https://pacemshelter.org/",
+    "categorySlug": "housing",
+    "zipCode": "22901"
+  },
+  {
+    "name": "Shelter for Help in Emergency",
+    "description": "Emergency shelter and services for survivors of domestic violence in Charlottesville, Albemarle County, and surrounding counties.",
+    "address": "Charlottesville, VA 22901",
+    "phone": "(434) 293-8509",
+    "url": "https://vsdvalliance.org/agency/shelter-for-help-in-emergency/",
+    "categorySlug": "crisis",
+    "zipCode": "22901"
+  },
+  {
+    "name": "Dos Santos Food Pantry & Thrift Store",
+    "description": "Provides healthy, culturally appropriate food to immigrant and agricultural worker communities in Accomack and Northampton Counties on Virginia's Eastern Shore.",
+    "address": "Accomack County, VA",
+    "phone": null,
+    "url": "https://dossantosfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "23480"
+  },
+  {
+    "name": "ALIVE! Food Program",
+    "description": "The largest private safety net for Alexandrians living in poverty and with hunger. Provides food assistance and emergency services to residents of Alexandria.",
+    "address": "2723 King Street, Alexandria, VA 22302",
+    "phone": "(703) 837-9300",
+    "url": "https://www.alive-inc.org/food-program-in-alexandria-virginia/",
+    "categorySlug": "food",
+    "zipCode": "22302"
+  },
+  {
+    "name": "West End Food Pantry",
+    "description": "Community food pantry serving residents in the West End of Alexandria, providing supplemental groceries to those in need.",
+    "address": "5150 Fillmore Avenue, Alexandria, VA 22311",
+    "phone": null,
+    "url": "https://www.westendfoodpantry.com/",
+    "categorySlug": "food",
+    "zipCode": "22311"
+  },
+  {
+    "name": "The Koinonia Foundation Food Pantry",
+    "description": "Provides food pantry and clothing closet services along with emergency financial aid with counseling to residents of Alexandria.",
+    "address": "Alexandria, VA 22301",
+    "phone": null,
+    "url": "http://www.koinoniacares.org/",
+    "categorySlug": "food",
+    "zipCode": "22301"
+  },
+  {
+    "name": "COPE Food Pantry",
+    "description": "Operated by McAllister Memorial Presbyterian Church, distributes groceries and canned food to people in emergency situations in the Alleghany Highlands area.",
+    "address": "Covington, VA 24426",
+    "phone": null,
+    "url": "https://www.rise4me.com/resources/cope-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "24426"
+  },
+  {
+    "name": "Total Action for Progress (TAP) - Covington",
+    "description": "Community action agency providing assistance including food, housing support, and workforce development to low-income individuals in Covington and Alleghany County.",
+    "address": "118 South Lexington Avenue, Covington, VA 24426",
+    "phone": "(540) 962-6328",
+    "url": "https://www.findhelp.org/total-action-for-progress-(tap)--covington-va--virginia-cares/5805361316233216?postal=24426",
+    "categorySlug": "community",
+    "zipCode": "24426"
+  },
+  {
+    "name": "Neighbors Helping Neighbors of Amherst County",
+    "description": "Provides a free client-choice food store to assist individuals in overcoming food insecurity in Amherst County. Distribution on first, second, and third Saturdays each month.",
+    "address": "151 Mitchell Bell Road, Madison Heights, VA 24572",
+    "phone": "(434) 226-0019",
+    "url": "https://www.nhnamherst.org",
+    "categorySlug": "food",
+    "zipCode": "24572"
+  },
+  {
+    "name": "Amherst Survival Center Food Pantry",
+    "description": "Local nonprofit providing food pantry services to residents of Amherst County, Virginia.",
+    "address": "Amherst, VA 24521",
+    "phone": null,
+    "url": "https://amherstsurvival.org/pantry/",
+    "categorySlug": "food",
+    "zipCode": "24521"
+  },
+  {
+    "name": "Arlington Food Assistance Center (AFAC)",
+    "description": "Fights hunger in Arlington by providing free supplemental groceries to families in need. Multiple distribution locations throughout the county including Arlington Mill and Gilliam Place.",
+    "address": "2708 S. Nelson Street, Arlington, VA 22206",
+    "phone": "(703) 228-1300",
+    "url": "https://afac.org/",
+    "categorySlug": "food",
+    "zipCode": "22206"
+  },
+  {
+    "name": "Our Lady Queen of Peace Food Pantry",
+    "description": "Parish food pantry serving residents of Arlington, providing food assistance to those in need in the community.",
+    "address": "2700 South 19th Street, Arlington, VA 22204",
+    "phone": "(703) 979-5580",
+    "url": "https://www.ourladyqueenofpeace.org/food-pantry.html",
+    "categorySlug": "food",
+    "zipCode": "22204"
+  },
+  {
+    "name": "Saint George's Episcopal Church Food Pantry",
+    "description": "Community food pantry operated by Saint George's Episcopal Church serving residents of Arlington and surrounding areas.",
+    "address": "Arlington, VA 22207",
+    "phone": null,
+    "url": "https://www.saintgeorgeschurch.org/foodpantry",
+    "categorySlug": "food",
+    "zipCode": "22207"
+  },
+  {
+    "name": "PathForward (formerly A-SPAN)",
+    "description": "Homeless services organization providing 24/7 emergency shelter with 50+ housing-focused beds for single adults experiencing homelessness in Arlington.",
+    "address": "2020A 14th Street N., Arlington, VA 22201",
+    "phone": "(703) 228-1010",
+    "url": "https://pfva.org/",
+    "categorySlug": "housing",
+    "zipCode": "22201"
+  },
+  {
+    "name": "Bridges to Independence",
+    "description": "Arlington's largest emergency family shelter with approximately 50 beds across 15 apartment units, serving homeless families and children. Includes a 24-hour food pantry.",
+    "address": "Arlington, VA 22204",
+    "phone": null,
+    "url": "https://bridges2.org/",
+    "categorySlug": "housing",
+    "zipCode": "22204"
+  },
+  {
+    "name": "Arlington Thrive",
+    "description": "Provides emergency assistance to individuals and families facing homelessness, utility shutoffs, and food insecurity in Arlington County.",
+    "address": "Arlington, VA 22201",
+    "phone": "(703) 228-1300",
+    "url": "https://arlingtonthrive.org/",
+    "categorySlug": "crisis",
+    "zipCode": "22201"
+  },
+  {
+    "name": "Arlington Food Assistance Center - Columbia Pike Location",
+    "description": "Secondary AFAC distribution location at the Columbia Pike neighborhood, providing free supplemental groceries to Arlington families in need.",
+    "address": "1554 Columbia Pike, Arlington, VA 22204",
+    "phone": "(703) 228-1300",
+    "url": "https://afac.org/get-groceries/",
+    "categorySlug": "food",
+    "zipCode": "22204"
+  },
+  {
+    "name": "Verona Community Food Pantry",
+    "description": "Volunteer-run pantry serving 150+ families in Augusta County, Staunton, and Waynesboro. Open Tuesdays 9-11am and 2nd and 4th Thursdays 6-8pm.",
+    "address": "68 Dick Huff Lane, Verona, VA 24482",
+    "phone": "(540) 248-7777",
+    "url": "https://veronafoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "24482"
+  },
+  {
+    "name": "Churchville Community Pantry",
+    "description": "Local food pantry serving residents of Churchville and surrounding Augusta County communities.",
+    "address": "Churchville, VA 24421",
+    "phone": null,
+    "url": "https://www.waynesboro.va.us/DocumentCenter/View/12526/Food-and-Clothing-Resources-DSS",
+    "categorySlug": "food",
+    "zipCode": "24421"
+  },
+  {
+    "name": "Fishersville UMC Food Pantry",
+    "description": "United Methodist Church food pantry providing food assistance to residents of Augusta County near Fishersville and Waynesboro.",
+    "address": "Fishersville, VA 22939",
+    "phone": null,
+    "url": "https://www.waynesboro.va.us/DocumentCenter/View/12526/Food-and-Clothing-Resources-DSS",
+    "categorySlug": "food",
+    "zipCode": "22939"
+  },
+  {
+    "name": "Bath County Mobile Food Pantry",
+    "description": "Mobile food pantry serving Bath County residents through the Blue Ridge Area Food Bank network. Open the first Monday of each month 2-4pm.",
+    "address": "7445 Sam Snead Highway, Hot Springs, VA 24445",
+    "phone": null,
+    "url": "https://foodfinder.brafb.org/locations/bath-county-mobile-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "24445"
+  },
+  {
+    "name": "Jackson House Crisis Center",
+    "description": "Interfaith community crisis center providing short-term emergency assistance for basic needs including food, clothing, shelter, and medicine in Bath County.",
+    "address": "Hot Springs, VA 24445",
+    "phone": null,
+    "url": "https://www.jacksonhouse.org/",
+    "categorySlug": "crisis",
+    "zipCode": "24445"
+  },
+  {
+    "name": "Ashwood Food Pantry",
+    "description": "Community food pantry distributing food on the first Monday of each month to Bath County residents in the Ashwood area.",
+    "address": "Hot Springs, VA 24445",
+    "phone": null,
+    "url": "https://bathhospital.org/event/ashwood-food-pantry-distribution-2/",
+    "categorySlug": "food",
+    "zipCode": "24445"
+  },
+  {
+    "name": "Bedford Christian Ministries",
+    "description": "Community agency sponsored by 25+ local churches providing food, clothing, household items, and limited financial assistance to senior, disabled, and low-income Bedford County residents. Open Mon/Tue/Fri 9am-12pm.",
+    "address": "217 West Washington Street, Bedford, VA 24523",
+    "phone": "(540) 586-2633",
+    "url": "https://bedfordchristianministries.org/",
+    "categorySlug": "food",
+    "zipCode": "24523"
+  },
+  {
+    "name": "Bedford Community Christmas Station",
+    "description": "Nonprofit operating a year-round food pantry for Bedford County residents. Open Tuesday and Wednesday 10am-4pm.",
+    "address": "510 Blue Ridge Avenue, Bedford, VA 24523",
+    "phone": "(540) 586-0754",
+    "url": "https://www.bedfordchristmasstation.org/year-round-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "24523"
+  },
+  {
+    "name": "Lake Christian Ministries",
+    "description": "Food pantry serving Bedford County residents, open Monday, Wednesday, Friday, and the last Tuesday of each month.",
+    "address": "Bedford County, VA 24121",
+    "phone": "(540) 297-3214",
+    "url": "https://www.foodpantries.org/ci/va-bedford",
+    "categorySlug": "food",
+    "zipCode": "24121"
+  },
+  {
+    "name": "New London Church Feed the Need",
+    "description": "Community food assistance program operated by New London Church serving residents of the Forest area in Bedford County.",
+    "address": "12371 East Lynchburg Salem Turnpike, Forest, VA 24551",
+    "phone": null,
+    "url": "https://newlondonchurch.com/what-we-do/feed-the-need/",
+    "categorySlug": "food",
+    "zipCode": "24551"
+  },
+  {
+    "name": "Botetourt Food Pantry",
+    "description": "Nonprofit food pantry collecting, storing, and distributing food to those in need in Botetourt County. Open Saturdays 9am-12pm and by appointment for emergencies.",
+    "address": "Corner of Roanoke and Herndon Streets, Fincastle, VA 24090",
+    "phone": "(540) 473-2370",
+    "url": "https://virginiafoodbanks.org/food-bank/botetourt-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "24090"
+  },
+  {
+    "name": "Botetourt Resource Center",
+    "description": "Connects Botetourt County residents to needed human resources through information, advocacy, and referral. Operates a food pantry in partnership with other community pantries.",
+    "address": "Botetourt County, VA 24083",
+    "phone": null,
+    "url": "http://www.botetourtresourcecenter.com/",
+    "categorySlug": "community",
+    "zipCode": "24083"
+  },
+  {
+    "name": "Bonsack Baptist Food Bank",
+    "description": "Extension of the Feeding Southwest Virginia food bank network serving Botetourt County, Roanoke County, and Bedford County residents with emergency food assistance.",
+    "address": "Bonsack, VA 24175",
+    "phone": null,
+    "url": "https://www.bonsackbaptist.org/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "24175"
+  },
+  {
+    "name": "Bristol Emergency Food Pantry",
+    "description": "Major hunger-relief organization for Bristol, providing three days of food to residents of Bristol VA/TN. Open Monday-Friday 1-3pm. No fee; photo ID and local residency required.",
+    "address": "155 Washington Street, Bristol, VA 24201",
+    "phone": "(423) 571-4449",
+    "url": "http://bristolfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "24201"
+  },
+  {
+    "name": "St. Vincent de Paul Mission of Bristol",
+    "description": "Operates a 365/24/7 25-bed shelter for individuals and families, plus a walk-in resource center assisting those who are unsheltered in Bristol, VA.",
+    "address": "Bristol, VA 24201",
+    "phone": null,
+    "url": "https://svdpofbristol.com/",
+    "categorySlug": "housing",
+    "zipCode": "24201"
+  },
+  {
+    "name": "Family Promise of Bristol",
+    "description": "Provides services and facilities for homeless and low-income persons in the Bristol TN/VA area, including food, clothing, shelter, and low-cost housing.",
+    "address": "Bristol, VA 24201",
+    "phone": null,
+    "url": "https://www.volunteer-united.org/agency/detail/?agency_id=107699",
+    "categorySlug": "housing",
+    "zipCode": "24201"
+  },
+  {
+    "name": "Brunswick County Feed More Distribution",
+    "description": "Feed More partner agency providing food distribution to Brunswick County residents in the Brodnax area.",
+    "address": "3495 Grandy Road, Brodnax, VA 23920",
+    "phone": "(434) 848-3593",
+    "url": "https://feedmore.org/agency-locator/",
+    "categorySlug": "food",
+    "zipCode": "23920"
+  },
+  {
+    "name": "Buchanan Community Food Pantry",
+    "description": "Local food pantry providing food assistance to residents of Buchanan County, Virginia, including the Grundy area.",
+    "address": "Grundy, VA 24614",
+    "phone": null,
+    "url": "https://www.foodbanks.net/organization/1616/buchanan-community-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "24614"
+  },
+  {
+    "name": "Rocklick Food Pantry",
+    "description": "Community food pantry serving residents of Buchanan County in the Maxie area.",
+    "address": "Maxie, VA 24628",
+    "phone": "(276) 531-9545",
+    "url": "https://feedingswva.org/map-directory/",
+    "categorySlug": "food",
+    "zipCode": "24628"
+  },
+  {
+    "name": "Feeding My Sheep",
+    "description": "Local food assistance ministry serving Buchanan County residents in the Vansant area.",
+    "address": "Vansant, VA 24656",
+    "phone": "(276) 597-2645",
+    "url": "https://feedingswva.org/map-directory/",
+    "categorySlug": "food",
+    "zipCode": "24656"
+  },
+  {
+    "name": "New Life Fellowship Food Pantry",
+    "description": "Community food pantry serving residents of Buchanan County in the Patterson/Oakwood area of southwest Virginia.",
+    "address": "Oakwood, VA 24631",
+    "phone": "(276) 498-4825",
+    "url": "https://feedingswva.org/map-directory/",
+    "categorySlug": "food",
+    "zipCode": "24631"
+  },
+  {
+    "name": "Buchanan County Food Assistance - Feeding Southwest Virginia",
+    "description": "Network of food pantries and meal programs distributing charitable food throughout Buchanan County including Grundy, Hurley, Vansant, and surrounding communities.",
+    "address": "Grundy, VA 24614",
+    "phone": null,
+    "url": "https://feedingswva.org/map-directory/",
+    "categorySlug": "food",
+    "zipCode": "24607"
+  },
+  {
+    "name": "Buckingham Church of the Nazarene Food Pantry",
+    "description": "Local church food pantry providing free food to Buckingham County residents. Open Sundays 12:30-1:30pm.",
+    "address": "1206 Twin Creek Road, Buckingham, VA 23921",
+    "phone": "(434) 420-1979",
+    "url": "https://www.foodpantries.org/li/buckingham_church_of_the_nazarene_23921",
+    "categorySlug": "food",
+    "zipCode": "23921"
+  },
+  {
+    "name": "Maysville Presbyterian Church Food Pantry",
+    "description": "Church-operated food pantry serving residents of Buckingham County and surrounding rural communities.",
+    "address": "12945 W James Anderson Highway, Buckingham, VA 23921",
+    "phone": "(434) 414-8805",
+    "url": "https://www.foodpantries.org/ci/va-buckingham",
+    "categorySlug": "food",
+    "zipCode": "23921"
+  },
+  {
+    "name": "Bridge to Hope Food Pantry",
+    "description": "Client-choice food pantry operated by Rockbridge Community Church of the Nazarene serving Buena Vista residents. Open every Wednesday 4-6pm. No one turned away.",
+    "address": "906 Magnolia Avenue, Buena Vista, VA 24416",
+    "phone": "(540) 460-9131",
+    "url": "https://www.abridgetohope.com/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "24416"
+  },
+  {
+    "name": "Altavista Ministerial Association Food Pantry",
+    "description": "Community food pantry serving Altavista and Campbell County residents, open Monday through Thursday 10am-12pm.",
+    "address": "Altavista, VA 24517",
+    "phone": "(434) 369-7937",
+    "url": "https://www.foodpantries.org/ci/va-altavista",
+    "categorySlug": "food",
+    "zipCode": "24517"
+  },
+  {
+    "name": "Brookneal Baptist Church Food Pantry",
+    "description": "Church food pantry serving Campbell County residents in the Brookneal area. Open the third Saturday of each month 10-11:30am.",
+    "address": "304 Wickliffe Road, Brookneal, VA 24528",
+    "phone": null,
+    "url": "https://www.foodpantries.org/ci/va-brookneal",
+    "categorySlug": "food",
+    "zipCode": "24528"
+  },
+  {
+    "name": "Caroline Christian Center Food Pantry",
+    "description": "Food pantry serving Bowling Green and Caroline County residents, open Tuesday-Thursday 9am-4pm with additional Thursday evening hours.",
+    "address": "103 N Main Street, Bowling Green, VA 22427",
+    "phone": "(804) 814-7623",
+    "url": "https://stvdpfredericksburg.com/caroline-food/",
+    "categorySlug": "food",
+    "zipCode": "22427"
+  },
+  {
+    "name": "Blessings Food Pantry at Carmel Baptist Church",
+    "description": "Faith-based food pantry and clothing assistance serving residents of Ruther Glen and southern Caroline County. Open Sundays 9-10:30am.",
+    "address": "24320 Jefferson Davis Highway, Ruther Glen, VA 22546",
+    "phone": "(804) 448-2956",
+    "url": "https://stvdpfredericksburg.com/caroline-food/",
+    "categorySlug": "food",
+    "zipCode": "22546"
+  },
+  {
+    "name": "Carroll County Ministerial Association Food Pantry",
+    "description": "Food pantry requiring Carroll County ID and proof of residency. Open every Thursday excluding holidays at First United Methodist Church in Hillsville.",
+    "address": "225 Fulcher Street, Hillsville, VA 24343",
+    "phone": "(276) 728-2434",
+    "url": "https://search.211virginia.org/search/7f1ef506-4628-56d7-8457-f639dfdc5c50",
+    "categorySlug": "food",
+    "zipCode": "24343"
+  },
+  {
+    "name": "FGC Fancy Gap Friends Fellowship Food Pantry",
+    "description": "Community food pantry providing monthly food assistance to anyone in Galax City, Carroll County, and Grayson County. No documentation required. Open Wednesdays and Thursdays.",
+    "address": "580 Mountain View Drive, Fancy Gap, VA 24328",
+    "phone": "(276) 235-7115",
+    "url": "https://www.foodpantries.org/li/fgc-fancy-gap-friends/",
+    "categorySlug": "food",
+    "zipCode": "24328"
+  },
+  {
+    "name": "Carroll County Food Sunday",
+    "description": "Provides emergency supplemental food weekly to Carroll County residents in a way that enhances human dignity. Clients can visit weekly once enrolled.",
+    "address": "Hillsville, VA 24343",
+    "phone": "",
+    "url": "https://ccfoodsunday.org/",
+    "categorySlug": "food",
+    "zipCode": "24343"
+  },
+  {
+    "name": "Carroll County Ministerial Association Food Pantry",
+    "description": "Food pantry open every Thursday 9:30am-12pm and last Tuesday 4-6pm. Must be a Carroll County resident with valid ID and proof of residency.",
+    "address": "225 Fulcher Street, Hillsville, VA 24343",
+    "phone": "(276) 728-2434",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "24343"
+  },
+  {
+    "name": "GoochlandCares Food Pantry",
+    "description": "Community food bank serving Goochland County residents. Provides over 534,000 meals worth of food annually to thousands of clients including children.",
+    "address": "2999 River Road West, Goochland, VA 23063",
+    "phone": "804-556-0201",
+    "url": "https://goochlandcares.org/services/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "23063"
+  },
+  {
+    "name": "Emergency Food Network",
+    "description": "Provides a 3-day supply of healthy groceries to residents of Charlottesville and Albemarle County. Open Monday, Wednesday, Friday and Saturday 1:30-3:30pm for pick-up.",
+    "address": "900 Harris Street, Charlottesville, VA 22903",
+    "phone": "(434) 979-9180",
+    "url": "https://www.emergencyfoodnetwork.org/",
+    "categorySlug": "food",
+    "zipCode": "22903"
+  },
+  {
+    "name": "Loaves & Fishes Food Pantry",
+    "description": "Provides nourishing food with respect and dignity to all who seek assistance, with drive-thru service on Wednesday, Thursday, and Saturday, and Tuesday appointments.",
+    "address": "2050 Lambs Road, Charlottesville, VA 22901",
+    "phone": "434-996-7868",
+    "url": "https://cvillefoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "22901"
+  },
+  {
+    "name": "RESET Inc. Food Pantry",
+    "description": "Chesapeake nonprofit operating a 24/7 food pantry distributing food every Thursday 3-6pm. Also provides mentorship, job training, senior care, and veteran outreach.",
+    "address": "1109 S Military Hwy, Chesapeake, VA 23320",
+    "phone": "",
+    "url": "https://resetvirginia.org/available-assistance",
+    "categorySlug": "food",
+    "zipCode": "23320"
+  },
+  {
+    "name": "Oasis Community Food Pantry",
+    "description": "Serves Chesapeake zip codes 23321 and 23323. Open Monday, Wednesday, and Friday 10:00 AM - 12:00 PM. Part of Oasis Social Ministry serving homeless and marginalized communities.",
+    "address": "Chesapeake, VA 23323",
+    "phone": "",
+    "url": "https://oasissocialministry.org/what-we-do/",
+    "categorySlug": "food",
+    "zipCode": "23323"
+  },
+  {
+    "name": "House of Blessings - Harvest Assembly of God",
+    "description": "Food pantry and financial assistance for Chesapeake residents. Located at 525 Kempsville Road serving the 23320 area.",
+    "address": "525 Kempsville Road, Chesapeake, VA 23320",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "23320"
+  },
+  {
+    "name": "Chesterfield Food Bank Outreach Center",
+    "description": "Nonprofit fighting hunger in Chesterfield County and surrounding areas. Operates multiple food distribution sites throughout the county.",
+    "address": "12211 Iron Bridge Road, Chester, VA 23831",
+    "phone": "804-414-8885",
+    "url": "https://www.cfboc.org/",
+    "categorySlug": "food",
+    "zipCode": "23831"
+  },
+  {
+    "name": "CCHASM - Chesterfield Colonial Heights Alliance for Social Ministry",
+    "description": "Provides emergency food pantry appointments and utility financial assistance to residents in Chesterfield, Colonial Heights, Dinwiddie, Hopewell, Petersburg and Prince George. Hours Mon-Thu 8:30am-1:30pm.",
+    "address": "P.O. Box 430, Chesterfield, VA 23832",
+    "phone": "(804) 796-2749",
+    "url": "http://cchasm.org/",
+    "categorySlug": "food",
+    "zipCode": "23832"
+  },
+  {
+    "name": "FISH of Clarke County",
+    "description": "Provides food, clothing, transportation, and financial support to the poor and elderly in Clarke County. Food pantry open Monday-Friday 9am-4:30pm. Monthly distribution at Duncan Memorial UMC.",
+    "address": "311 E Main Street, Berryville, VA 22611",
+    "phone": "(540) 955-1823",
+    "url": "https://www.fishofclarkecounty.org/",
+    "categorySlug": "food",
+    "zipCode": "22611"
+  },
+  {
+    "name": "Craig Valley Baptist Church Food Pantry",
+    "description": "Local food pantry serving Craig County residents in the New Castle area.",
+    "address": "New Castle, VA 24127",
+    "phone": "",
+    "url": "http://www.craigvalleybaptist.com/p/food-pantry.html",
+    "categorySlug": "food",
+    "zipCode": "24127"
+  },
+  {
+    "name": "Colonial Heights Food Pantry",
+    "description": "501(c)(3) Network Partner of The Central Virginia Foodbank. Serves residents of Chesterfield, Colonial Heights, Dinwiddie, Petersburg and Prince George. Open every Thursday and Friday.",
+    "address": "530 Southpark Boulevard, Colonial Heights, VA 23834",
+    "phone": "804-520-7117",
+    "url": "https://www.chfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "23834"
+  },
+  {
+    "name": "Culpeper Food Closet",
+    "description": "Food closet operated by St. Stephens Episcopal Church serving Culpeper County residents. Open Monday-Friday 9am-12pm, Thursdays also 4-6pm.",
+    "address": "120 N. Commerce Street, Culpeper, VA 22701",
+    "phone": "540-825-1177",
+    "url": "https://www.ststephensculpeper.net/culpeper-food-closet/",
+    "categorySlug": "food",
+    "zipCode": "22701"
+  },
+  {
+    "name": "Culpeper Hope Food Pantry",
+    "description": "Food pantry serving Culpeper area residents through the Blue Ridge Area Food Bank network. Part of Culpeper Church of the Nazarene.",
+    "address": "Culpeper, VA 22701",
+    "phone": "",
+    "url": "https://foodfinder.brafb.org/locations/hope-culpeper-church-of-the-nazarene",
+    "categorySlug": "food",
+    "zipCode": "22701"
+  },
+  {
+    "name": "Caroline Christian Center Food Pantry",
+    "description": "Small pantry serving Caroline County residents. Open Tuesday-Thursday 9:00am-4:00pm. Call ahead for precise timing.",
+    "address": "103 N Main Street, Bowling Green, VA 22427",
+    "phone": "804-814-7623",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "22427"
+  },
+  {
+    "name": "Buchanan Community Food Pantry",
+    "description": "Community food pantry serving Buchanan County residents in Grundy, Virginia.",
+    "address": "Grundy, VA 24614",
+    "phone": "",
+    "url": "https://www.foodbanks.net/organization/1616/buchanan-community-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "24614"
+  },
+  {
+    "name": "Dinwiddie Food Bank",
+    "description": "Local food bank serving Dinwiddie County residents with emergency food assistance.",
+    "address": "12318 Boydton Plank Rd, Dinwiddie, VA 23841",
+    "phone": "",
+    "url": "https://www.dinwiddieva.us/1119/Food-Bank-Information",
+    "categorySlug": "food",
+    "zipCode": "23841"
+  },
+  {
+    "name": "Dinwiddie Church of the Nazarene Food Pantry",
+    "description": "Food pantry open the first and third Saturday of each month from 10am to noon, serving Dinwiddie area residents.",
+    "address": "24604 Old Vaughan Road, Dinwiddie, VA 23841",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "23841"
+  },
+  {
+    "name": "West Main Baptist Church Food Pantry",
+    "description": "Food pantry and utilities help program serving Danville, VA residents.",
+    "address": "Danville, VA 24540",
+    "phone": "434-792-5960",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "24540"
+  },
+  {
+    "name": "Love Thy Neighbor Community Food Pantry",
+    "description": "501(c)(3) nonprofit offering free food, hygiene items and hope to those facing food insecurity in King George, VA. Open Sunday 1-5pm, Thursday 5:30-8pm, Saturday 9:30-11:30am.",
+    "address": "10250 Kings Highway, King George, VA 22485",
+    "phone": "",
+    "url": "https://www.kgfood.org/",
+    "categorySlug": "food",
+    "zipCode": "22485"
+  },
+  {
+    "name": "First Baptist Church Food Pantry - Tappahannock",
+    "description": "Community food pantry serving Essex County residents. Open Thursdays 2:30-4pm and Saturdays 10:30am-12pm.",
+    "address": "401 Marsh Street, Tappahannock, VA 22560",
+    "phone": "804-443-2340",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "22560"
+  },
+  {
+    "name": "7th Day Adventist Community Center Food Pantry",
+    "description": "Community food distribution serving Tappahannock and Essex County residents. Open Wednesdays 12-3pm.",
+    "address": "1683 Tappahannock Blvd, Tappahannock, VA 22560",
+    "phone": "804-443-5085",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "22560"
+  },
+  {
+    "name": "Western Fairfax Christian Ministries (WFCM)",
+    "description": "Provides supplemental food to low-income residents of Chantilly, Centreville, Clifton, Oak Hill, Fairfax, and Fairfax Station in zip codes 20120, 20121, 20124, 20151, 22030, 22033, 22039, and 22171. Also provides emergency rent and utilities assistance.",
+    "address": "4511 Daly Drive, Suite J, Chantilly, VA 20151",
+    "phone": "703-988-9656",
+    "url": "https://www.wfcmva.org",
+    "categorySlug": "food",
+    "zipCode": "20151"
+  },
+  {
+    "name": "Cornerstones Food Pantry (ASAPP)",
+    "description": "Largest food pantry in northwest Fairfax County, open to the public 37 hours per week plus one Saturday morning a month. Stocks fresh food, non-perishable items, and personal care items. Also offers emergency financial assistance for rent and utilities.",
+    "address": "11484 Washington Plaza West, Suite 120, Reston, VA 20190",
+    "phone": "571-323-1400",
+    "url": "https://www.cornerstonesva.org/services/food-financial-or-urgent-assistance/foods-and-basic-needs/",
+    "categorySlug": "food",
+    "zipCode": "20190"
+  },
+  {
+    "name": "Embry Rucker Community Shelter - Cornerstones",
+    "description": "76-bed residential shelter providing safe, emergency housing for individuals experiencing homelessness. Open 24 hours a day, 365 days a year. Adult-only households as of April 2025.",
+    "address": "11975 Bowman Towne Drive, Reston, VA 20190",
+    "phone": "703-437-1975",
+    "url": "https://www.cornerstonesva.org/services/food-financial-or-urgent-assistance/emergency-shelter/",
+    "categorySlug": "housing",
+    "zipCode": "20190"
+  },
+  {
+    "name": "ACCA - Annandale Christian Community for Action Food Pantry",
+    "description": "Alliance of 26 churches providing food, rental assistance, furniture, and other services to needy families in the Annandale/Bailey's Crossroads area.",
+    "address": "7200 Columbia Pike, Annandale, VA 22003",
+    "phone": "703-256-0100",
+    "url": "https://accacares.org/foodpantry/",
+    "categorySlug": "food",
+    "zipCode": "22003"
+  },
+  {
+    "name": "Food for Others",
+    "description": "Regional food bank serving the Northern Virginia community since 1995. Operates neighborhood distribution sites in Annandale and Fairfax.",
+    "address": "2938 Prosperity Ave, Fairfax, VA 22031",
+    "phone": "703-207-9173",
+    "url": "https://foodforothers.org/",
+    "categorySlug": "food",
+    "zipCode": "22031"
+  },
+  {
+    "name": "Britepaths Food Support Program",
+    "description": "Provides one-time emergency food packing of non-perishable food and toiletries to Fairfax County residents in temporary financial crisis. Referral required through Coordinated Services Planning.",
+    "address": "3959 Pender Drive, Suite 200, Fairfax, VA 22030",
+    "phone": "703-273-8829",
+    "url": "https://britepaths.org/our-services/food-security/",
+    "categorySlug": "food",
+    "zipCode": "22030"
+  },
+  {
+    "name": "Falls Church Community Service Council",
+    "description": "Provides emergency food and rental assistance to individuals and families in Falls Church. Serves zip codes 22042, 22043, 22044, and 22046. Food pantry maintained at Knox Presbyterian Church.",
+    "address": "Falls Church, VA 22046",
+    "phone": "(703) 222-0880",
+    "url": "https://fcswecare.org/",
+    "categorySlug": "food",
+    "zipCode": "22046"
+  },
+  {
+    "name": "Committee for Helping Others (CHO) Food Closet",
+    "description": "Provides emergency food (not long-term food service) to residents of Vienna, Oakton, Dunn Loring, and Merrifield. Appointment required by phone or email.",
+    "address": "124 Park St NE, Vienna, VA 22180",
+    "phone": "703-281-7614",
+    "url": "https://cho-va.com/services/food/",
+    "categorySlug": "food",
+    "zipCode": "22180"
+  },
+  {
+    "name": "ECHO - Ecumenical Community Helping Others",
+    "description": "All-volunteer 501(c)(3) nonprofit providing food, clothing, housewares, and financial assistance to Burke/Springfield community residents. Serves zip codes 22151, 22152, 22153, 22015, and parts of 22150 and 22312.",
+    "address": "7205 Old Keene Mill Rd, Springfield, VA 22150",
+    "phone": "703-569-9160",
+    "url": "https://www.echo-inc.org/",
+    "categorySlug": "food",
+    "zipCode": "22150"
+  },
+  {
+    "name": "Share of McLean",
+    "description": "501(c)(3) nonprofit providing emergency financial assistance, food, used clothing, refurbished computers, and furniture to residents of McLean and Pimmit Hills. Food and clothing open every Wednesday and Saturday 9:30am-12:00pm at McLean Baptist Church.",
+    "address": "1367 Chain Bridge Rd, McLean, VA 22101",
+    "phone": "",
+    "url": "https://www.shareofmclean.org/",
+    "categorySlug": "food",
+    "zipCode": "22101"
+  },
+  {
+    "name": "Columbia Baptist Church Food Pantry",
+    "description": "Food pantry serving Falls Church area residents. Call or email to schedule a pantry appointment.",
+    "address": "7416 Arlington Blvd, Falls Church, VA 22042",
+    "phone": "703-237-2562",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "22042"
+  },
+  {
+    "name": "ALIVE! Food Hub",
+    "description": "Interfaith community-based nonprofit providing food, personal items, cleaning supplies, and school supplies to Alexandria residents. Distribution Tuesday-Thursday 11am-6pm and Saturday 10am-2pm. Home delivery available for seniors and those with disabilities.",
+    "address": "2723 King Street, Alexandria, VA 22302",
+    "phone": "(703) 837-9300",
+    "url": "https://www.alive-inc.org/food-program-in-alexandria-virginia/",
+    "categorySlug": "food",
+    "zipCode": "22302"
+  },
+  {
+    "name": "The Koinonia Foundation Food Pantry",
+    "description": "Provides food pantry, clothing closet, and emergency financial aid with counseling to Alexandria area residents.",
+    "address": "6037 Franconia Road, Alexandria, VA 22310",
+    "phone": "(703) 971-1991",
+    "url": "http://www.koinoniacares.org/",
+    "categorySlug": "food",
+    "zipCode": "22310"
+  },
+  {
+    "name": "United Community Food Pantry",
+    "description": "Food distribution serving Alexandria residents every second and last Thursday of the month.",
+    "address": "7511 Fordson Road, Alexandria, VA 22306",
+    "phone": "(703) 768-7106",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "22306"
+  },
+  {
+    "name": "Fauquier Community Food Bank and Thrift Store",
+    "description": "501(c)(3) nonprofit providing food assistance to residents of Fauquier County since 2012. Open Monday-Friday 12pm-4pm for client services.",
+    "address": "249 E Shirley Avenue, Warrenton, VA 20186",
+    "phone": "540-359-6054",
+    "url": "https://www.fauquierfoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "20186"
+  },
+  {
+    "name": "Fauquier FISH Food Pantry",
+    "description": "Fauquier County food pantry open three times a week (Tuesday 9:30am-12pm, Thursday evening, Saturday 9:30am-12pm). Residents may select a week's worth of food once per month with no questions asked.",
+    "address": "24 Pelham Street, Warrenton, VA 20186",
+    "phone": "(540) 347-3474",
+    "url": "https://fauquierfish.org/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "20186"
+  },
+  {
+    "name": "Fauquier Community Food Bank and Thrift Store",
+    "description": "Food pantry providing USDA commodities, senior commodity boxes, pantry services, and personal supplies to registered clients in Fauquier County. Open Monday\u2013Friday 12\u20134pm, pickup twice per month.",
+    "address": "249 East Shirley Avenue, Warrenton, VA 20186",
+    "phone": "(540) 341-7007",
+    "url": "https://www.fauquierfoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "20186"
+  },
+  {
+    "name": "Fauquier FISH Food Pantry",
+    "description": "Emergency food pantry serving Fauquier County residents, providing assistance once per month. Hours vary by season.",
+    "address": "680 Industrial Road Suite A, Warrenton, VA 20186",
+    "phone": "(540) 347-3474",
+    "url": "https://fauquierfish.org/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "20186"
+  },
+  {
+    "name": "Fauquier Family Shelter Services",
+    "description": "52-bed 24-hour emergency shelter serving nearly 400 people annually. Also offers transitional housing with life skills, financial literacy, employment, and wellness support. Serves Fauquier, Orange, Culpeper, Madison, and Rappahannock counties.",
+    "address": "85 Keith Street, Warrenton, VA 20186",
+    "phone": "(540) 341-0900",
+    "url": "https://www.familyshelterservices.org",
+    "categorySlug": "housing",
+    "zipCode": "20186"
+  },
+  {
+    "name": "Copper Hill Church of the Brethren Food Bank",
+    "description": "Food bank serving residents of Floyd County and Roanoke County. Located in Copper Hill, VA.",
+    "address": "Floyd Hwy N, Copper Hill, VA 24079",
+    "phone": "(540) 929-4749",
+    "url": "https://floydfoodguide.org/copper-hill-church-of-the-brethren-food-bank/",
+    "categorySlug": "food",
+    "zipCode": "24079"
+  },
+  {
+    "name": "Havens Chapel Food Bank",
+    "description": "Food bank serving residents between Christiansburg, Check, and Floyd areas of Floyd County.",
+    "address": "3375 Daniels Run Road, Check, VA 24072",
+    "phone": "(540) 651-8215",
+    "url": "https://floydfoodguide.org/category/food-pantries/",
+    "categorySlug": "food",
+    "zipCode": "24072"
+  },
+  {
+    "name": "Plenty! Farm and Food Bank",
+    "description": "Drive-thru fresh food pantry open to all Floyd County residents. Monday 1\u20134pm, Tuesday 10am\u20131pm, Thursday 4\u20136:30pm.",
+    "address": "192 Elephant Curve Road, Floyd, VA 24091",
+    "phone": "(540) 745-3898",
+    "url": "https://plentyfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "24091"
+  },
+  {
+    "name": "Plenty! Farm and Food Bank",
+    "description": "Drive-thru fresh food pantry open to all Floyd County residents with no income limits. Provides fresh produce, meat, eggs, dairy, bread, shelf-stable items and pet food. Monday 1\u20134pm, Tuesday 10am\u20131pm, Thursday 4\u20136:30pm.",
+    "address": "192 Elephant Curve Road, Floyd, VA 24091",
+    "phone": "(540) 745-3898",
+    "url": "https://plentyfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "24091"
+  },
+  {
+    "name": "New River Community Action \u2013 Floyd Food Bank",
+    "description": "Community action agency food bank serving Floyd County residents with emergency food assistance.",
+    "address": "323 Floyd Hwy S, Floyd, VA 24091",
+    "phone": "(540) 745-2102",
+    "url": "https://newrivercommunityaction.org",
+    "categorySlug": "food",
+    "zipCode": "24091"
+  },
+  {
+    "name": "Beaver Dam Baptist Church Food Pantry",
+    "description": "Mobile food pantry distribution serving Troy-area residents in Fluvanna County. Distribution Monday\u2013Friday 9am\u20131pm.",
+    "address": "1794 Richmond Road, Troy, VA 22974",
+    "phone": "(434) 295-0277",
+    "url": "https://search.211virginia.org/search/6d38d58d-9943-5ee5-8d01-f44dcac8ee48",
+    "categorySlug": "food",
+    "zipCode": "22974"
+  },
+  {
+    "name": "MACAA Fluvanna Food Pantry",
+    "description": "Monthly food pantry supported by the Fluvanna Christian Service Society and Blue Ridge Area Food Bank. Residents can pick up groceries once a month.",
+    "address": "8878 James Madison Highway, Fork Union, VA 23055",
+    "phone": "(434) 295-3171",
+    "url": "https://www.macaa.org/foodpantry",
+    "categorySlug": "food",
+    "zipCode": "23055"
+  },
+  {
+    "name": "His Cupboard Food Pantry",
+    "description": "Food pantry serving Boones Mill and Franklin County residents in need.",
+    "address": "51 Jacob Boon Lane, Boones Mill, VA 24065",
+    "phone": "(540) 797-9252",
+    "url": "https://www.needhelppayingbills.com/html/franklin_county_virginia_food_pantr.html",
+    "categorySlug": "food",
+    "zipCode": "24065"
+  },
+  {
+    "name": "Stepping Stone Mission of Franklin County",
+    "description": "Soup kitchen providing free hot lunch and limited take-home food items seven days a week, 11:30am\u201312:45pm, to individuals in need in Franklin County.",
+    "address": "1105 N Main Street, Rocky Mount, VA 24151",
+    "phone": "(540) 482-0775",
+    "url": "https://www.steppingstonemission.org",
+    "categorySlug": "food",
+    "zipCode": "24151"
+  },
+  {
+    "name": "God's Provision Food Pantry",
+    "description": "Food pantry ministry of Rocky Mount Church of God serving Franklin County residents. 2nd and 4th Saturdays by appointment.",
+    "address": "1155 Franklin Street, Rocky Mount, VA 24151",
+    "phone": "(276) 634-8445",
+    "url": "https://feedingswva.org/map-directory/",
+    "categorySlug": "food",
+    "zipCode": "24151"
+  },
+  {
+    "name": "Stepping Stone Mission of Franklin County",
+    "description": "Soup kitchen serving free hot lunch and limited take-home food items seven days a week, 11:30am\u201312:45pm, to individuals in need in Franklin County.",
+    "address": "1105 N Main Street, Rocky Mount, VA 24151",
+    "phone": "(540) 482-0775",
+    "url": "https://www.steppingstonemission.org",
+    "categorySlug": "food",
+    "zipCode": "24151"
+  },
+  {
+    "name": "CCAP Winchester Food Pantry",
+    "description": "High-volume food pantry providing proteins, fresh produce, and dairy for nutritious meal security for families in Winchester and Frederick County. Also assists with rent, utilities, and employment barriers.",
+    "address": "112 South Kent Street, Winchester, VA 22601",
+    "phone": "(540) 662-4318",
+    "url": "https://ccapwinchester.org",
+    "categorySlug": "food",
+    "zipCode": "22602"
+  },
+  {
+    "name": "Hope Again Care Center",
+    "description": "Food pantry in Winchester open Tuesday and Wednesday 10am\u20132pm and 1st\u20134th Saturday 9am\u2013noon.",
+    "address": "213 South Braddock Street, Winchester, VA 22603",
+    "phone": "",
+    "url": "https://www.foodpantries.org/li/hope-again-care-center",
+    "categorySlug": "food",
+    "zipCode": "22603"
+  },
+  {
+    "name": "Winchester Rescue Mission",
+    "description": "52-bed year-round emergency shelter for men and women experiencing homelessness in the Northern Shenandoah Valley. Operating since 1973.",
+    "address": "435 N Cameron Street, Winchester, VA 22601",
+    "phone": "(540) 667-5379",
+    "url": "https://www.winrescue.org",
+    "categorySlug": "housing",
+    "zipCode": "22602"
+  },
+  {
+    "name": "The Laurel Center",
+    "description": "Emergency shelter and 24/7 crisis hotline for domestic violence victims in the Winchester area.",
+    "address": "Winchester, VA 22601",
+    "phone": "(540) 667-6466",
+    "url": "https://thelaurelcenter.org",
+    "categorySlug": "crisis",
+    "zipCode": "22602"
+  },
+  {
+    "name": "WATTS \u2013 Winchester Area Temporary Transitional Shelter",
+    "description": "Safe temporary shelter during extreme weather for homeless guests in Winchester, Frederick, and Clarke counties.",
+    "address": "Winchester, VA 22601",
+    "phone": "",
+    "url": "https://watts-homelessshelter.org",
+    "categorySlug": "housing",
+    "zipCode": "22602"
+  },
+  {
+    "name": "Fredericksburg Regional Food Bank",
+    "description": "Regional food bank partnering with 235+ community organizations to address hunger across Fredericksburg, Caroline, King George, Spotsylvania, and Stafford counties.",
+    "address": "3631 Lee Hill Drive, Fredericksburg, VA 22401",
+    "phone": "(540) 371-7666",
+    "url": "https://fredfood.org",
+    "categorySlug": "food",
+    "zipCode": "22401"
+  },
+  {
+    "name": "The Storehouse Ministry",
+    "description": "Emergency food distribution for senior citizens and individuals in need. No appointment necessary. Tuesday and Thursday 12:30\u20132pm.",
+    "address": "2303 Airport Avenue, Fredericksburg, VA 22401",
+    "phone": "(540) 654-5281",
+    "url": "https://search.211virginia.org/search/2633e4a6-d458-507c-a819-3defea6c7471",
+    "categorySlug": "food",
+    "zipCode": "22401"
+  },
+  {
+    "name": "Franklin Cooperative Ministry",
+    "description": "Food pantry serving residents of Franklin City, Isle of Wight County, and Southampton County. Monday\u2013Thursday with lunch break noon\u20131pm.",
+    "address": "301 West 1st Avenue, Franklin, VA 23851",
+    "phone": "(757) 516-6322",
+    "url": "https://www.findhelp.org/franklin-cooperative-ministry--franklin-va--emergency-financial-assistance/5027957166047232",
+    "categorySlug": "food",
+    "zipCode": "23851"
+  },
+  {
+    "name": "Willing Partners Food Pantry",
+    "description": "Nonprofit collecting, storing, and distributing food boxes to those in need in Galax and Carroll County. Distributions 4\u20135 times a month, mostly Wednesdays with one Saturday per month.",
+    "address": "972 East Stuart Drive, Galax, VA 24333",
+    "phone": "(276) 238-5500",
+    "url": "https://willingpartners.org/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "24333"
+  },
+  {
+    "name": "God's Storehouse & Soup Kitchen",
+    "description": "Food pantry and soup kitchen serving Galax area residents, feeding the body and supporting the spirit of those in need.",
+    "address": "406 W Oldtown Street, Galax, VA 24333",
+    "phone": "(276) 237-6424",
+    "url": "https://godsstorehousegalax.com",
+    "categorySlug": "food",
+    "zipCode": "24333"
+  },
+  {
+    "name": "Galax Hope House Ministries",
+    "description": "Emergency and transitional homeless shelter offering 5-day emergency housing and a longer-term transitional housing program with a Life Plan Recovery Program for those experiencing homelessness.",
+    "address": "408 West Center Street, Galax, VA 24333",
+    "phone": "(276) 236-7573",
+    "url": "https://search.211virginia.org/search/441e5032-2c8a-5b33-9fbe-53ede21c8115",
+    "categorySlug": "housing",
+    "zipCode": "24333"
+  },
+  {
+    "name": "Giles County Christian Service Mission Food Pantry",
+    "description": "Client-choice model food pantry allowing individuals to select their own food, promoting dignity. Open Monday\u2013Saturday 10am\u20132pm in Pearisburg.",
+    "address": "516 Wenonah Avenue, Pearisburg, VA 24134",
+    "phone": "(540) 921-3006",
+    "url": "https://search.211virginia.org/search/7abf9ba9-52d3-558e-9402-7ed9dd0f4469",
+    "categorySlug": "food",
+    "zipCode": "24134"
+  },
+  {
+    "name": "Hope House \u2013 Giles County Homeless Shelter",
+    "description": "501(c)(3) nonprofit providing safe emergency shelter for individuals and families experiencing a housing crisis, with supportive services for self-sufficiency. Duplex facility with units for singles and families.",
+    "address": "138 Old Virginia Avenue, Narrows, VA 24124",
+    "phone": "(540) 921-3842",
+    "url": "https://gilescountyhopehouse.wordpress.com",
+    "categorySlug": "housing",
+    "zipCode": "24124"
+  },
+  {
+    "name": "Bread for Life Community Food Pantry",
+    "description": "Ecumenical food ministry run by members of more than 10 local churches serving Gloucester County. Open Mondays 11am\u20132pm and Wednesdays 1\u20134pm.",
+    "address": "7840 John Clayton Memorial Highway, Gloucester, VA 23061",
+    "phone": "(804) 694-9366",
+    "url": "https://www.breadforlifefoodpantry.com",
+    "categorySlug": "food",
+    "zipCode": "23061"
+  },
+  {
+    "name": "Salvation Army Virginia Peninsula Corps \u2013 Hayes Food Pantry",
+    "description": "Community food pantry serving the Hayes and Gloucester County area. By appointment only.",
+    "address": "7057 Linda Circle, Hayes, VA 23072",
+    "phone": "",
+    "url": "https://search.211virginia.org/search/552e425a-a8a9-5dff-bc41-28eefe198667",
+    "categorySlug": "food",
+    "zipCode": "23072"
+  },
+  {
+    "name": "GoochlandCares Food Pantry",
+    "description": "Full-service food pantry offering in-person shopping, online ordering, and curbside pickup. Provides fresh vegetables, frozen meats, milk, baked goods, and non-perishables. Open Monday\u2013Friday with varied hours.",
+    "address": "2999 River Road West, Goochland, VA 23063",
+    "phone": "(804) 556-6260",
+    "url": "https://goochlandcares.org/services/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "23063"
+  },
+  {
+    "name": "Harvest Food Pantry \u2013 Victory Christian Fellowship",
+    "description": "Food pantry serving Goochland County residents, open Tuesdays 2\u20136pm.",
+    "address": "2850 Maidens Road, Goochland, VA 23063",
+    "phone": "",
+    "url": "https://goochlandcares.org/services/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "23063"
+  },
+  {
+    "name": "Food Independence",
+    "description": "Monthly food distribution serving Grayson County residents. Distributions on the 4th Tuesday of each month, 9\u201311am.",
+    "address": "PO Box 201, Independence, VA 24348",
+    "phone": "",
+    "url": "https://www.facebook.com/p/Food-Independence-100066923312816/",
+    "categorySlug": "food",
+    "zipCode": "24348"
+  },
+  {
+    "name": "Virginia Peninsula Foodbank Mobile Pantry",
+    "description": "Mobile food bus pantry serving rural areas including Gloucester, Mathews, and surrounding middle peninsula counties. Call mid-week to schedule appointment.",
+    "address": "3190 Georgetown Road, Williamsburg, VA 23185",
+    "phone": "(804) 792-3699",
+    "url": "https://hrfoodbank.org/need-food/",
+    "categorySlug": "food",
+    "zipCode": "23178"
+  },
+  {
+    "name": "Bread for Life Community Food Pantry",
+    "description": "Ecumenical food ministry run by members of more than 10 local churches in Gloucester County. Open Mondays 11am\u20132pm and Wednesdays 1\u20134pm.",
+    "address": "7840 John Clayton Memorial Highway, Gloucester, VA 23061",
+    "phone": "(804) 694-9366",
+    "url": "https://www.breadforlifefoodpantry.com",
+    "categorySlug": "food",
+    "zipCode": "23184"
+  },
+  {
+    "name": "El Shaddai Ministry Food Pantry",
+    "description": "Food pantry serving Emporia and Greensville County residents. Open 2nd and 3rd Thursday 9\u201311am.",
+    "address": "609 Halifax Street, Emporia, VA 23847",
+    "phone": "(434) 594-2680",
+    "url": "https://networks.whyhunger.org/organisation/23330",
+    "categorySlug": "food",
+    "zipCode": "23847"
+  },
+  {
+    "name": "Serving Hope Food Pantry",
+    "description": "Food pantry helping alleviate hunger in South Boston by serving nutritious food to those in need in Halifax County.",
+    "address": "1011 South of Dan School Road, South Boston, VA 24592",
+    "phone": "(434) 222-7366",
+    "url": "https://www.foodpantries.org/ci/va-south_boston",
+    "categorySlug": "food",
+    "zipCode": "24592"
+  },
+  {
+    "name": "The People's Pantry",
+    "description": "Food pantry at South Boston Church of God providing non-perishables and frozen foods. Open every 4th Saturday 10am\u2013noon. Also offers delivery and mobile services.",
+    "address": "3000 Halifax Road, South Boston, VA 24592",
+    "phone": "",
+    "url": "https://www.facebook.com/ThePeoplesPantrySBCOG/",
+    "categorySlug": "food",
+    "zipCode": "24592"
+  },
+  {
+    "name": "Tri-County Community Action Agency \u2013 Emergency Food & Shelter",
+    "description": "Community action agency providing emergency food assistance and shelter support for Halifax, Mecklenburg, and Charlotte county residents.",
+    "address": "1176 Huell Matthews Highway, South Boston, VA 24592",
+    "phone": "(434) 575-7916",
+    "url": "https://tricountyva.org/emergency-food-shelter/",
+    "categorySlug": "food",
+    "zipCode": "24592"
+  },
+  {
+    "name": "Virginia Peninsula Foodbank",
+    "description": "Regional food bank serving individuals, families, children, seniors and veterans across Hampton, Newport News, and surrounding areas through pantry partners and a mobile food bus.",
+    "address": "2401 Aluminum Avenue, Hampton, VA 23661",
+    "phone": "(757) 596-7188",
+    "url": "https://hrfoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "23651"
+  },
+  {
+    "name": "UFWC Connected Table Food Pantry",
+    "description": "Local community food pantry at United Family Worship Center. Open 3rd Saturday 10am\u20132pm and Sundays 11am\u2013noon.",
+    "address": "667 Hannah Street, Hampton, VA 23661",
+    "phone": "",
+    "url": "https://www.unitedfamilyworshipcenter.org/connectedtable",
+    "categorySlug": "food",
+    "zipCode": "23651"
+  },
+  {
+    "name": "HELP Inc \u2013 Hampton Roads Ecumenical Lodgings & Provisions",
+    "description": "Provides emergency shelter, transitional shelter, and case management helping clients achieve permanent housing in Hampton and Newport News. Also operates a day center and food pantry.",
+    "address": "1320 LaSalle Avenue, Hampton, VA 23669",
+    "phone": "(757) 727-2577",
+    "url": "https://helphampton.org",
+    "categorySlug": "housing",
+    "zipCode": "23669"
+  },
+  {
+    "name": "Transitions Family Violence Services",
+    "description": "Sole provider of comprehensive services to adult and child victims of domestic violence in Hampton, Newport News, Poquoson, and York County.",
+    "address": "Hampton, VA 23661",
+    "phone": "(757) 722-2261",
+    "url": "https://www.transitionsfvs.org",
+    "categorySlug": "crisis",
+    "zipCode": "23661"
+  },
+  {
+    "name": "Ashland Christian Emergency Services (ACES) Food Pantry",
+    "description": "Food pantry serving Hanover County residents in Ashland, Doswell, and Hanover zip codes.",
+    "address": "507B Caroline Street, Ashland, VA 23005",
+    "phone": "",
+    "url": "https://www.hanovercounty.gov/1237/Hanover-County-Food-Pantries",
+    "categorySlug": "food",
+    "zipCode": "23005"
+  },
+  {
+    "name": "Elmont Community Food Pantry",
+    "description": "Community food pantry in Ashland area serving Hanover County residents, open every Saturday 10am\u2013noon.",
+    "address": "11208 Elmont Road, Ashland, VA 23005",
+    "phone": "",
+    "url": "https://www.hanovercounty.gov/1237/Hanover-County-Food-Pantries",
+    "categorySlug": "food",
+    "zipCode": "23005"
+  },
+  {
+    "name": "Mechanicsville Christian Center Food Pantry",
+    "description": "Food pantry serving Mechanicsville and surrounding Hanover County zip codes.",
+    "address": "8061 Shady Grove Road, Mechanicsville, VA 23111",
+    "phone": "",
+    "url": "https://www.hanovercounty.gov/1237/Hanover-County-Food-Pantries",
+    "categorySlug": "food",
+    "zipCode": "23111"
+  },
+  {
+    "name": "Pappy's Pantry Ministries",
+    "description": "Food pantry serving all Hanover County residents in need.",
+    "address": "8492 McClellan Road, Mechanicsville, VA 23111",
+    "phone": "",
+    "url": "https://www.pappyspantryministries.org",
+    "categorySlug": "food",
+    "zipCode": "23111"
+  },
+  {
+    "name": "Patchwork Pantry",
+    "description": "Emergency food pantry at Community Mennonite Church providing a three-day supply of staple food to individuals and families in Harrisonburg and Rockingham County. Open Wednesdays 6:30\u20137:30pm.",
+    "address": "70 S High Street, Harrisonburg, VA 22801",
+    "phone": "",
+    "url": "https://www.patchworkpantry.org",
+    "categorySlug": "food",
+    "zipCode": "22801"
+  },
+  {
+    "name": "Hope Distributed Food Pantry",
+    "description": "Grocery-store-style food pantry serving Harrisonburg and Rockingham County. Open Thursdays 4\u20136pm, 1st and 2nd Saturdays 9\u201311am, and 1st Thursday 9:30\u201311:30am.",
+    "address": "1869 Boyers Road, Harrisonburg, VA 22801",
+    "phone": "(540) 578-3510",
+    "url": "https://www.hopedistributed.org",
+    "categorySlug": "food",
+    "zipCode": "22801"
+  },
+  {
+    "name": "Mercy House Emergency Shelter",
+    "description": "Nonprofit providing emergency shelter and support services for homeless families with dependent children in Harrisonburg, helping families achieve self-sufficiency.",
+    "address": "305 North High Street, Harrisonburg, VA 22802",
+    "phone": "(540) 432-1812",
+    "url": "https://www.themercyhouse.org",
+    "categorySlug": "housing",
+    "zipCode": "22802"
+  },
+  {
+    "name": "Salvation Army Harrisonburg Emergency Shelter",
+    "description": "Emergency shelter serving single men, women, and families with children in Harrisonburg during times of crisis. Daily intake begins at 4pm, first-come first-served.",
+    "address": "895 Jefferson Street, Harrisonburg, VA 22802",
+    "phone": "(540) 433-2785",
+    "url": "https://southernusa.salvationarmy.org/harrisonburg/provide-housing/",
+    "categorySlug": "housing",
+    "zipCode": "22802"
+  },
+  {
+    "name": "Henrico Community Food Bank",
+    "description": "Nonprofit providing equitable and dignified access to nutritious food through community partnerships and a mobile distribution program serving Glen Allen and Henrico County.",
+    "address": "PO Box 6300, Glen Allen, VA 23060",
+    "phone": "(804) 616-8534",
+    "url": "https://henricocommunityfoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "23060"
+  },
+  {
+    "name": "Glen Allen Church of Christ \u2013 Twelve Baskets",
+    "description": "Food pantry serving Glen Allen and Henrico County residents. Open Saturdays 9am\u201311am.",
+    "address": "11064 Staples Mill Road, Glen Allen, VA 23060",
+    "phone": "(804) 756-2030",
+    "url": "https://feedmore.org/agency/glen-allen-church-of-christ-twelve-baskets/",
+    "categorySlug": "food",
+    "zipCode": "23060"
+  },
+  {
+    "name": "Welborne Community Food Pantry",
+    "description": "Drive-thru food pantry serving multiple Richmond-area zip codes including West End and surrounding neighborhoods. Pre-bagged pickup Mondays 5\u20136:30pm.",
+    "address": "920 Maybeury Drive, Richmond, VA 23229",
+    "phone": "",
+    "url": "https://www.foodpantries.org/li/welborne-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "23229"
+  },
+  {
+    "name": "Lamb's Basket Food Pantry",
+    "description": "Food pantry serving Lakeside and Henrico County residents. Open Tuesdays and Thursdays 10am\u201312:45pm.",
+    "address": "8419 Oakview Avenue, Richmond, VA 23228",
+    "phone": "",
+    "url": "https://www.henricocitizen.com/henrico-food-pantries/",
+    "categorySlug": "food",
+    "zipCode": "23228"
+  },
+  {
+    "name": "Henry County Food Pantry",
+    "description": "Drive-thru food distribution every Monday 9am\u2013noon, providing shelf-stable goods, fresh produce, and frozen meats when available to Henry County residents.",
+    "address": "3321 Fairystone Parkway, Bassett, VA 24055",
+    "phone": "(276) 629-1369",
+    "url": "https://henrycountyfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "24055"
+  },
+  {
+    "name": "Community Storehouse",
+    "description": "Food pantry serving Martinsville and Henry County for 25+ years. Provides supplemental groceries to low-income families, seniors, disabled individuals, and disadvantaged neighbors. Also offers a clothes closet.",
+    "address": "128 East Church Street, Martinsville, VA 24112",
+    "phone": "(276) 632-9002",
+    "url": "https://storehousemhc.com",
+    "categorySlug": "food",
+    "zipCode": "24112"
+  },
+  {
+    "name": "Grace Network of Martinsville-Henry County",
+    "description": "Faith-based first-stop resource center for families in crisis. Provides financial assistance for housing and utilities, a client-choice food pantry, and heating/cooling assistance to Martinsville and Henry County residents.",
+    "address": "1590 Virginia Avenue, Martinsville, VA 24112",
+    "phone": "(276) 638-8500",
+    "url": "https://www.gracenetworkmhc.org",
+    "categorySlug": "community",
+    "zipCode": "24112"
+  },
+  {
+    "name": "Henry County Food Pantry",
+    "description": "Drive-thru food distribution every Monday 9am\u2013noon serving Henry County residents. Provides shelf-stable goods, fresh produce, frozen meats, clothing, household items, hygiene items, and pet food.",
+    "address": "3321 Fairystone Parkway, Bassett, VA 24055",
+    "phone": "(276) 629-1369",
+    "url": "https://henrycountyfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "24089"
+  },
+  {
+    "name": "Highland County Food Pantry",
+    "description": "Food pantry serving Highland County residents including Monterey, McDowell, and Blue Grass areas. Open 3rd Saturday 11am\u2013noon and Sundays 12:30\u20131:30pm.",
+    "address": "Monterey, VA 24465",
+    "phone": "(540) 499-2849",
+    "url": "https://www.foodpantries.org/li/va_24458_highland-county-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "24465"
+  },
+  {
+    "name": "Hopewell Food Pantry",
+    "description": "501(c)(3) nonprofit organized in 1983 by local churches to provide emergency food to Hopewell residents. Emphasis on seniors and disabled individuals. Open Monday, Wednesday, Friday 1\u20133pm.",
+    "address": "903 W City Point Road, Hopewell, VA 23860",
+    "phone": "(804) 530-3546",
+    "url": "https://www.hopewellfoodpantry.com",
+    "categorySlug": "food",
+    "zipCode": "23860"
+  },
+  {
+    "name": "Isle of Wight Christian Outreach Program (COP)",
+    "description": "All-volunteer nonprofit providing food, furniture, diapers, emergency assistance, and dental services to Isle of Wight County residents. Open Monday 11am\u20133pm and 4\u20136:30pm, Wednesday and Friday 11am\u20133pm.",
+    "address": "402 Grace Street, Smithfield, VA 23430",
+    "phone": "(757) 356-9267",
+    "url": "https://iowcop.net",
+    "categorySlug": "food",
+    "zipCode": "23430"
+  },
+  {
+    "name": "Franklin Cooperative Ministry Food Pantry",
+    "description": "Food pantry serving residents of Franklin City, Isle of Wight County, and Southampton County. Includes Battery Park and Carrollton area residents.",
+    "address": "301 West 1st Avenue, Franklin, VA 23851",
+    "phone": "(757) 516-6322",
+    "url": "https://www.findhelp.org/franklin-cooperative-ministry--franklin-va--emergency-financial-assistance/5027957166047232",
+    "categorySlug": "food",
+    "zipCode": "23314"
+  },
+  {
+    "name": "Community Harvest Outreach",
+    "description": "Nonprofit providing food pantry and clothes closet services for underprivileged residents in the Windsor area.",
+    "address": "5 Roberts Ave Suite E, Windsor, VA 23487",
+    "phone": "(757) 556-5403",
+    "url": "https://www.communityharvestoutreach.org/",
+    "categorySlug": "food",
+    "zipCode": "23487"
+  },
+  {
+    "name": "Tucker Swamp Baptist Church Food Pantry",
+    "description": "Monthly food pantry serving Isle of Wight and Southampton County residents, open every third Saturday.",
+    "address": "37527 Seacock Chapel Rd, Zuni, VA 23898",
+    "phone": "(757) 242-6553",
+    "url": "https://www.findhelp.org/tucker-swamp-baptist-church--zuni-va--food-pantry/5203838634295296",
+    "categorySlug": "food",
+    "zipCode": "23898"
+  },
+  {
+    "name": "Isle of Wight Christian Outreach Program (COP)",
+    "description": "Provides food, diapers, household items, furniture, and emergency financial assistance for utility bills, rent, and other urgent needs.",
+    "address": "402 Grace St, Smithfield, VA 23430",
+    "phone": "(757) 356-9267",
+    "url": "https://iowcop.net/",
+    "categorySlug": "food",
+    "zipCode": "23898"
+  },
+  {
+    "name": "FISH Williamsburg",
+    "description": "All-volunteer nonprofit providing food, clothing, and household goods to residents of Williamsburg, James City County, and York County since 1975.",
+    "address": "312 2nd St, Williamsburg, VA 23185",
+    "phone": "(757) 220-9379",
+    "url": "https://fishwilliamsburg.org/",
+    "categorySlug": "food",
+    "zipCode": "23185"
+  },
+  {
+    "name": "Grove Christian Outreach Center",
+    "description": "Nonprofit community outreach serving the greater Williamsburg area with food pantry and community support services.",
+    "address": "8800 Pocahontas Trail, Williamsburg, VA 23185",
+    "phone": "(757) 887-1100",
+    "url": "https://www.groveoutreach.com/",
+    "categorySlug": "food",
+    "zipCode": "23185"
+  },
+  {
+    "name": "Hands Across Middlesex",
+    "description": "Interfaith community outreach providing food pantry, household goods, and home repair assistance to Middlesex County residents in need.",
+    "address": "7485 General Puller Hwy, Locust Hill, VA 23168",
+    "phone": "(804) 758-2044",
+    "url": "https://www.handsacrossmiddlesex.org/",
+    "categorySlug": "food",
+    "zipCode": "23168"
+  },
+  {
+    "name": "Thrive Virginia \u2013 King & Queen Feeding Program",
+    "description": "Nonprofit offering a non-perishable food pantry and community food distribution for King William and King and Queen County residents.",
+    "address": "208 Allens Circle, King & Queen CH, VA 23085",
+    "phone": "(804) 966-8720",
+    "url": "https://www.thriveva.org/feeding-program",
+    "categorySlug": "food",
+    "zipCode": "23085"
+  },
+  {
+    "name": "Moments of Hope Outreach \u2013 Mo Hope Pantry",
+    "description": "Community food pantry serving Hanover County residents with weekly distribution on Wednesdays and Saturdays.",
+    "address": "13400 Hanover Courthouse Rd, Hanover, VA 23023",
+    "phone": "(804) 913-9151",
+    "url": "https://momentsofhopeoutreach.org/mo-hope-pantry",
+    "categorySlug": "food",
+    "zipCode": "23023"
+  },
+  {
+    "name": "Love Thy Neighbor Community Food Pantry",
+    "description": "Patron-choice food pantry offering free food and hygiene items to those facing food insecurity in King George County. Serves about 300 families weekly.",
+    "address": "10250 Kings Hwy, King George, VA 22485",
+    "phone": "(540) 709-1130",
+    "url": "https://www.kgfood.org/",
+    "categorySlug": "food",
+    "zipCode": "22485"
+  },
+  {
+    "name": "White Stone Baptist Church Food Pantry (WSBC)",
+    "description": "Weekly food pantry serving residents of White Stone, Irvington, and Weems, held every Tuesday from 1\u20133 p.m. at Friendship Community House.",
+    "address": "Friendship Community House, White Stone, VA 22578",
+    "phone": "(804) 435-1413",
+    "url": "https://whitestonebaptistchurch.org/missions/",
+    "categorySlug": "food",
+    "zipCode": "22578"
+  },
+  {
+    "name": "Thrive Virginia \u2013 King William Feeding Program",
+    "description": "Nonprofit providing meal bags and food pantry services to King William and King and Queen County residents during school breaks and year-round.",
+    "address": "7338 Richmond Tpke, Aylett, VA 23009",
+    "phone": "(804) 966-8720",
+    "url": "https://www.thriveva.org/feeding-program",
+    "categorySlug": "food",
+    "zipCode": "23009"
+  },
+  {
+    "name": "Helping the Homeless Ministries",
+    "description": "Outreach ministry providing meals and support services to homeless and at-risk individuals in Gloucester, King William, Mathews, and Middlesex Counties.",
+    "address": "7040 George Washington Memorial Hwy, Gloucester, VA 23061",
+    "phone": "(804) 792-3699",
+    "url": "https://helpingthehomelessministries.org/",
+    "categorySlug": "housing",
+    "zipCode": "23181"
+  },
+  {
+    "name": "Dryden Food Pantry",
+    "description": "Local food pantry serving residents of Lee County in the Dryden area.",
+    "address": "State Road 726, Dryden, VA 24243",
+    "phone": "(276) 546-1568",
+    "url": "https://www.findhelp.org/food/food-pantry--dryden-va",
+    "categorySlug": "food",
+    "zipCode": "24243"
+  },
+  {
+    "name": "Rose Hill Calvary Road Food Pantry",
+    "description": "Community food pantry providing food for families in the Rose Hill area of Lee County, open Tuesdays and bi-monthly Saturdays.",
+    "address": "525 Calvary Rd, Rose Hill, VA 24281",
+    "phone": "(276) 445-4766",
+    "url": "https://www.charitynavigator.org/ein/473545036",
+    "categorySlug": "food",
+    "zipCode": "24281"
+  },
+  {
+    "name": "Appalachian Community Action & Development Agency \u2013 Mobile Food Pantry",
+    "description": "Mobile food pantry serving Lee County residents on the fourth Tuesday of each month at their Jonesville office.",
+    "address": "28970 Daniel Boone Trail, Jonesville, VA 24263",
+    "phone": "(276) 452-2441",
+    "url": "https://www.findhelp.org/appalachian-community-action-&-development-agency--jonesville-va--mobile-food-pantry/4838595997990912",
+    "categorySlug": "food",
+    "zipCode": "24263"
+  },
+  {
+    "name": "Mt. Carmel Baptist Church Food Pantry",
+    "description": "Local church food pantry serving residents in the Pennington Gap area of Lee County.",
+    "address": "179 Ben Lawson Dr, Pennington Gap, VA 24277",
+    "phone": "(276) 393-4433",
+    "url": "https://www.affordablehousing411.com/food-assistances/lee-county-virginia/",
+    "categorySlug": "food",
+    "zipCode": "24277"
+  },
+  {
+    "name": "Tree of Life Ministries Food Pantry",
+    "description": "Nonprofit food pantry and community support organization serving western Loudoun County residents, with multiple distribution sites and delivery options.",
+    "address": "115 E Main St, Purcellville, VA 20132",
+    "phone": "(571) 397-6333",
+    "url": "https://www.tolministries.org/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "20132"
+  },
+  {
+    "name": "Loudoun Hunger Relief",
+    "description": "Provides emergency groceries and food pantry services to Loudoun County residents by appointment.",
+    "address": "750 Miller Dr Suite 110, Leesburg, VA 20175",
+    "phone": "(703) 777-5911",
+    "url": "https://loudounhunger.org/",
+    "categorySlug": "food",
+    "zipCode": "20147"
+  },
+  {
+    "name": "LINK Against Hunger",
+    "description": "Unique home-delivery food rescue service bringing food to homebound clients in Fairfax and Loudoun Counties, with mobile pantry events in Sterling.",
+    "address": "46833 Harry Byrd Hwy (mobile site), Sterling, VA 20164",
+    "phone": "(703) 437-1776",
+    "url": "https://www.linkagainsthunger.org/",
+    "categorySlug": "food",
+    "zipCode": "20164"
+  },
+  {
+    "name": "Loudoun Regional Food Pantry \u2013 Sterling",
+    "description": "Catholic Charities food pantry providing perishable and non-perishable groceries to Sterling/Dulles area residents once every 30 days.",
+    "address": "113 Executive Dr Bldg 2 Suite 110, Sterling, VA 20166",
+    "phone": "(703) 443-6693",
+    "url": "https://www.ccda.net/getfood/",
+    "categorySlug": "food",
+    "zipCode": "20166"
+  },
+  {
+    "name": "Sterling Park Baptist Church Food Pantry",
+    "description": "Community food pantry distributing food and clothing every Saturday (except 5th Saturdays) from 3:00\u20134:30 p.m., no documentation required.",
+    "address": "501 N York Rd, Sterling, VA 20164",
+    "phone": "(703) 430-2527",
+    "url": "https://www.sterlingparkbc.org/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "20164"
+  },
+  {
+    "name": "Louisa County Resource Council",
+    "description": "Comprehensive resource council providing food pantry and essential services to Louisa County residents multiple days per week.",
+    "address": "147 Resource Ln, Louisa, VA 23093",
+    "phone": "(540) 967-1510",
+    "url": "https://louisaresource.org/",
+    "categorySlug": "food",
+    "zipCode": "23093"
+  },
+  {
+    "name": "Central Virginia Assembly of God Food Pantry",
+    "description": "Monthly food pantry serving residents of Mineral and the surrounding Louisa County area, held the 3rd Thursday of each month.",
+    "address": "5052 Cross County Rd, Mineral, VA 23117",
+    "phone": "(804) 556-2700",
+    "url": "https://www.findhelp.org/food/food-pantry--louisa-va",
+    "categorySlug": "food",
+    "zipCode": "23117"
+  },
+  {
+    "name": "Park View Community Mission \u2013 Food For Families",
+    "description": "Virginia's largest client-choice pantry west of Richmond, providing fresh produce, meat, dairy, and non-perishables to Lynchburg-area neighbors bi-weekly at no cost.",
+    "address": "2420 Memorial Ave, Lynchburg, VA 24501",
+    "phone": "(434) 845-8468",
+    "url": "https://www.parkviewmission.org/fff",
+    "categorySlug": "food",
+    "zipCode": "24501"
+  },
+  {
+    "name": "Community Resource Services (CRS)",
+    "description": "Nonprofit serving Lunenburg and Nottoway Counties since 2000 with a client-choice food pantry, senior outreach, and nutritional education.",
+    "address": "1021 Tidewater Ave, Victoria, VA 23974",
+    "phone": "(434) 321-3054",
+    "url": "https://crslbc.com/",
+    "categorySlug": "food",
+    "zipCode": "23974"
+  },
+  {
+    "name": "Kenbridge United Methodist Church Food Pantry",
+    "description": "Local church food pantry serving residents in Kenbridge and the Lunenburg County area.",
+    "address": "201 E 5th Ave, Kenbridge, VA 23944",
+    "phone": "(434) 676-8117",
+    "url": "https://www.findhelp.org/food/food-pantry--kenbridge-va",
+    "categorySlug": "food",
+    "zipCode": "23944"
+  },
+  {
+    "name": "HumanKind Emergency Food & Household Pantry",
+    "description": "Nonprofit providing emergency food and household supplies to individuals and families in the greater Lynchburg area, Monday\u2013Friday.",
+    "address": "150 Linden Ave, Lynchburg, VA 24503",
+    "phone": "(434) 384-3131",
+    "url": "https://www.humankind.org/household-pantry/",
+    "categorySlug": "food",
+    "zipCode": "24503"
+  },
+  {
+    "name": "Salvation Army Center of Hope \u2013 Lynchburg",
+    "description": "80-bed emergency shelter serving homeless individuals and families in the greater Lynchburg area without discrimination.",
+    "address": "2215 Park Ave, Lynchburg, VA 24501",
+    "phone": "(434) 845-5939",
+    "url": "https://southernusa.salvationarmy.org/lynchburg/center-of-hope/",
+    "categorySlug": "housing",
+    "zipCode": "24502"
+  },
+  {
+    "name": "Rivermont Area Emergency Food Pantry",
+    "description": "Emergency food pantry serving residents of the Rivermont area in Lynchburg, operating out of Holy Trinity Lutheran Church.",
+    "address": "1000 Langhorne Rd, Lynchburg, VA 24503",
+    "phone": "(434) 384-6231",
+    "url": "https://www.fpcly.org/local-mission",
+    "categorySlug": "food",
+    "zipCode": "24503"
+  },
+  {
+    "name": "Agape Center Lynchburg",
+    "description": "Christ-centered community outreach providing food, clothing, hygiene products, housewares, and furniture assistance to greater Lynchburg residents.",
+    "address": "7619 Timberlake Rd, Lynchburg, VA 24502",
+    "phone": "(434) 239-0090",
+    "url": "https://www.agapelyh.org/",
+    "categorySlug": "food",
+    "zipCode": "24502"
+  },
+  {
+    "name": "MESA \u2013 Madison Emergency Services Association",
+    "description": "Food pantry and emergency assistance serving all of Madison County since 1982, providing healthy food options, hygiene items, and other support.",
+    "address": "927 Orange Rd, Pratts, VA 22731",
+    "phone": "(540) 948-4427",
+    "url": "https://www.mesamadisonva.org/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "22727"
+  },
+  {
+    "name": "SERVE / Northern Virginia Family Service \u2013 Hunger Resource Center",
+    "description": "Large hunger resource center serving Prince William County, Manassas, and Manassas Park with over 600 families per month by appointment.",
+    "address": "10056 Dean Dr, Manassas, VA 20110",
+    "phone": "(571) 748-2680",
+    "url": "https://www.nvfs.org/our-services/health-well-being/food-assistance/",
+    "categorySlug": "food",
+    "zipCode": "20110"
+  },
+  {
+    "name": "Sacred Heart Catholic Church Food & Clothing Pantry",
+    "description": "Drive-through food and clothing pantry open Saturday mornings, serving families in need in the Manassas area.",
+    "address": "12975 Purcell Rd, Manassas, VA 20112",
+    "phone": "(703) 590-0030",
+    "url": "https://www.sacredheartmanassas.org/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "20110"
+  },
+  {
+    "name": "Bread for Life Community Food Pantry",
+    "description": "Community food pantry in Gloucester serving fresh produce, meat, dairy, and non-perishables on Mondays and Wednesdays.",
+    "address": "7840 John Clayton Memorial Hwy, Gloucester, VA 23061",
+    "phone": "(804) 694-9366",
+    "url": "https://www.breadforlifefoodpantry.com/",
+    "categorySlug": "food",
+    "zipCode": "23064"
+  },
+  {
+    "name": "True Bread Food Pantry",
+    "description": "Faith-based food pantry serving Mathews County and surrounding area residents.",
+    "address": "Mathews, VA 23109",
+    "phone": "(804) 725-7131",
+    "url": "https://www.findhelp.org/food/food-pantry--mathews-va",
+    "categorySlug": "food",
+    "zipCode": "23109"
+  },
+  {
+    "name": "Project Care-For Food Pantry (Clarksville Food Pantry)",
+    "description": "Community food pantry serving western Mecklenburg County (Clarksville, Boydton, Skipwith, Buffalo Junction, Nelson) every Wednesday and Saturday, distributing 33+ lbs of food per family.",
+    "address": "103 Woodland Dr, Clarksville, VA 23927",
+    "phone": "(919) 614-5919",
+    "url": "https://www.clarksvillefoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "23927"
+  },
+  {
+    "name": "Hearts & Hands Food Pantry",
+    "description": "Volunteer-run client-choice food pantry serving Mecklenburg County by appointment Tuesdays, Thursdays, and bi-weekly Saturdays \u2014 no referral needed.",
+    "address": "Mecklenburg County, VA",
+    "phone": "",
+    "url": "https://www.heartsandhandsfoodpantry.com/",
+    "categorySlug": "food",
+    "zipCode": "23950"
+  },
+  {
+    "name": "Tri-County Community Action Agency \u2013 Serving Hope Food Pantry",
+    "description": "Community action agency providing emergency food, shelter, and utility assistance to residents of Halifax, Mecklenburg, and Charlotte Counties.",
+    "address": "1176 Huell Matthews Hwy, South Boston, VA 24592",
+    "phone": "(434) 575-7916",
+    "url": "https://tricountyva.org/tccaa-serving-hope-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "24529"
+  },
+  {
+    "name": "Nelson County Pantry",
+    "description": "Privately funded, all-volunteer nonprofit food pantry serving Nelson County residents on the last Saturday of each month.",
+    "address": "9890 Thomas Nelson Hwy, Lovingston, VA 22949",
+    "phone": "(434) 263-8006",
+    "url": "https://nelsoncountypantry.org/",
+    "categorySlug": "food",
+    "zipCode": "24580"
+  },
+  {
+    "name": "Hands Across Middlesex Food Pantry",
+    "description": "Interfaith community outreach providing food pantry and household goods to Middlesex County residents including Deltaville, held at the Cryer Center multiple times monthly.",
+    "address": "7485 General Puller Hwy, Locust Hill, VA 23168",
+    "phone": "(804) 758-2044",
+    "url": "https://www.handsacrossmiddlesex.org/",
+    "categorySlug": "food",
+    "zipCode": "23043"
+  },
+  {
+    "name": "Agape Center NRV",
+    "description": "Multi-church outreach center in the New River Valley providing food, clothing, and diapers to residents on Wednesdays and Fridays.",
+    "address": "1175 Cambria St NE, Christiansburg, VA 24073",
+    "phone": "(540) 251-5646",
+    "url": "https://www.agapecenternrv.org/",
+    "categorySlug": "food",
+    "zipCode": "24073"
+  },
+  {
+    "name": "Montgomery County Emergency Assistance Program (MCEAP)",
+    "description": "100% volunteer nonprofit founded in 1975 providing emergency food, financial, and other assistance to low-income, elderly, and disabled residents of Montgomery County.",
+    "address": "308 W Main St, Christiansburg, VA 24073",
+    "phone": "(540) 382-6186",
+    "url": "https://mceap.com/",
+    "categorySlug": "community",
+    "zipCode": "24073"
+  },
+  {
+    "name": "Blacksburg Interfaith Food Pantry",
+    "description": "Monthly food pantry serving low-income Blacksburg residents experiencing financial crisis, providing food once per month.",
+    "address": "706 Harding Ave, Blacksburg, VA 24060",
+    "phone": "(540) 951-8134",
+    "url": "https://newrivercommunityaction.org/programs/emergency-assistance-programs/blacksburg-interfaith-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "24060"
+  },
+  {
+    "name": "Montgomery County Emergency Assistance Program (MCEAP)",
+    "description": "All-volunteer nonprofit since 1975 providing food pantry, clothing bank, thrift store, and household items to low-income residents throughout all of Montgomery County including Pilot, Riner, and Shawsville. Call first for the administrative office.",
+    "address": "400 W. Main St., Christiansburg, VA 24073",
+    "phone": "(540) 381-1561",
+    "url": "https://mceap.com",
+    "categorySlug": "food",
+    "zipCode": "24073"
+  },
+  {
+    "name": "Agape Center NRV",
+    "description": "Food pantry and emergency assistance outreach ministry serving the New River Valley including Montgomery County. Provides food boxes to residents of Floyd, Giles, Montgomery, and Pulaski Counties and Radford City.",
+    "address": "1175 Cambria Street NE, Christiansburg, VA 24073",
+    "phone": "(540) 251-5646",
+    "url": "https://www.agapecenternrv.org",
+    "categorySlug": "food",
+    "zipCode": "24073"
+  },
+  {
+    "name": "The Salvation Army New River Valley Corps",
+    "description": "Provides daily food bags and monthly food boxes to individuals in need in Montgomery County and surrounding New River Valley areas. Also offers emergency financial assistance.",
+    "address": "1125 Roanoke Street, Christiansburg, VA 24073",
+    "phone": "(540) 394-3233",
+    "url": "https://southernusa.salvationarmy.org/nrv/",
+    "categorySlug": "food",
+    "zipCode": "24073"
+  },
+  {
+    "name": "Blacksburg Interfaith Food Pantry",
+    "description": "Food pantry operated by New River Community Action offering monthly food assistance to Blacksburg-area residents and transients in Montgomery County at 200% poverty income or below experiencing financial crises.",
+    "address": "706 Harding Ave., Blacksburg, VA 24060",
+    "phone": "(540) 951-8134",
+    "url": "https://blacksburginterfaithfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "24060"
+  },
+  {
+    "name": "New River Family Shelter",
+    "description": "The only scattered-site emergency shelter program in the New River Valley providing safe short-term housing (30\u201390 days) to families and children experiencing homelessness in Montgomery County.",
+    "address": "110 Roanoke St., Christiansburg, VA 24073",
+    "phone": "(540) 382-6188",
+    "url": "https://nrfamilyshelter.org",
+    "categorySlug": "housing",
+    "zipCode": "24073"
+  },
+  {
+    "name": "To Our House (New River Community Action)",
+    "description": "Winter emergency shelter for single homeless adults and all-adult households in the New River Valley, operating November through March. Low-barrier shelter with 14 beds serving Montgomery County and surrounding areas.",
+    "address": "1093 East Main Street, Christiansburg, VA 24073",
+    "phone": "(540) 639-3159",
+    "url": "https://toourhouse.org",
+    "categorySlug": "housing",
+    "zipCode": "24073"
+  },
+  {
+    "name": "New River Community Action - Emergency Assistance",
+    "description": "Provides emergency financial assistance to Montgomery County residents including food gift cards, rent/mortgage help, utility assistance, heating fuel, medical costs, and emergency motel shelter for those at 200% poverty income or below in crisis.",
+    "address": "110 Roanoke St., Christiansburg, VA 24073",
+    "phone": "(540) 639-3159",
+    "url": "https://newrivercommunityaction.org",
+    "categorySlug": "utilities",
+    "zipCode": "24073"
+  },
+  {
+    "name": "Nelson County Pantry",
+    "description": "All-volunteer nonprofit food pantry providing supplemental food to approximately 275 Nelson County households monthly. Distributes on the last Saturday of each month. Proof of Nelson County residency required.",
+    "address": "9890 Thomas Nelson Hwy., Lovingston, VA 22949",
+    "phone": "(434) 263-6694",
+    "url": "https://nelsoncountypantry.org",
+    "categorySlug": "food",
+    "zipCode": "22949"
+  },
+  {
+    "name": "Nelson County Department of Social Services",
+    "description": "County agency providing SNAP/food stamps, TANF cash assistance, fuel and energy assistance (heating, cooling, crisis fuel), Medicaid, child care subsidies, and other social services to Nelson County residents.",
+    "address": "203 Front Street, Lovingston, VA 22949",
+    "phone": "(434) 263-7160",
+    "url": "https://www.nelsoncounty-va.gov/departments-offices/social-services/",
+    "categorySlug": "utilities",
+    "zipCode": "22949"
+  },
+  {
+    "name": "Region Ten Community Services Board - Nelson Counseling Center",
+    "description": "Provides mental health, intellectual disability, substance use, and crisis services to Nelson County residents. Offers outpatient treatment, partial hospitalization, and telehealth. 24-hour crisis line: (434) 972-1800.",
+    "address": "71 Tanbark Plaza, Lovingston, VA 22949",
+    "phone": "(434) 263-4889",
+    "url": "https://regionten.org/locations/nelson-counseling-center/",
+    "categorySlug": "crisis",
+    "zipCode": "22949"
+  },
+  {
+    "name": "Nelson County Pantry",
+    "description": "Privately funded, non-profit food pantry operated entirely by volunteers serving Nelson County residents, member of Blue Ridge Area Food Bank. Proof of Nelson County residency required.",
+    "address": "9890 Thomas Nelson Hwy, Lovingston, VA 22949",
+    "phone": "(434) 263-6923",
+    "url": "https://nelsoncountypantry.org/",
+    "categorySlug": "food",
+    "zipCode": "24553"
+  },
+  {
+    "name": "LINK of Hampton Roads",
+    "description": "Nonprofit serving at-risk, homeless, veterans, and mentally ill residents in Hampton Roads. Provides food, hot drinks, clothing, computer and phone access, and emergency winter shelter.",
+    "address": "10413 Warwick Blvd, Newport News, VA 23601",
+    "phone": "(757) 595-1953",
+    "url": "https://www.linkhr.org/",
+    "categorySlug": "food",
+    "zipCode": "23601"
+  },
+  {
+    "name": "THRIVE Peninsula",
+    "description": "501(c)(3) nonprofit helping families through financial hardship. Operates a free grocery store (The Market), financial assistance, financial literacy, ID assistance, legal connections, and resource referrals.",
+    "address": "12749 Nettles Dr, Newport News, VA 23606",
+    "phone": "(757) 877-6211",
+    "url": "https://www.thrivepeninsula.org/",
+    "categorySlug": "food",
+    "zipCode": "23606"
+  },
+  {
+    "name": "Union Mission Ministries",
+    "description": "Southeastern Virginia's largest homeless shelter and recovery program. Provides safe temporary housing, hot meals, clean clothing, case management, and connections to community resources for men, women, and children.",
+    "address": "5100 E Virginia Beach Blvd, Norfolk, VA 23502",
+    "phone": "(757) 627-8686",
+    "url": "http://www.unionmissionministries.org/",
+    "categorySlug": "housing",
+    "zipCode": "23502"
+  },
+  {
+    "name": "Village Family Outreach",
+    "description": "501(c)(3) hunger relief charity providing food distribution and supportive programs to underprivileged, under-resourced Norfolk residents. Food and clothing distribution held monthly.",
+    "address": "813 Henry St, Norfolk, VA 23504",
+    "phone": "(757) 656-9577",
+    "url": "https://www.villagefamilyoutreach.net/",
+    "categorySlug": "food",
+    "zipCode": "23504"
+  },
+  {
+    "name": "Ghent Area Ministry",
+    "description": "Serves transitional, low-income, and homeless individuals in Norfolk through a food pantry, clothing closet, transportation assistance, and support services. Open Monday through Friday.",
+    "address": "1301 Colonial Ave, Norfolk, VA 23517",
+    "phone": "(757) 622-0438",
+    "url": "https://www.gamhelpsnorfolk.org/",
+    "categorySlug": "food",
+    "zipCode": "23517"
+  },
+  {
+    "name": "Dos Santos Food Pantry & Thrift Store",
+    "description": "Provides healthy, culturally appropriate food to immigrant and agricultural worker communities in Accomack and Northampton Counties on Virginia's Eastern Shore. Also operates a thrift store.",
+    "address": "25377 Lankford Hwy Suite B, Onley, VA 23418",
+    "phone": "(757) 787-4892",
+    "url": "https://dossantosfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "23350"
+  },
+  {
+    "name": "Bethany Baptist Church Food Pantry",
+    "description": "Community food pantry serving Callao and Northumberland County residents on the 3rd Friday of each month from 9\u201311 a.m.",
+    "address": "16256 Richmond Rd, Callao, VA 22435",
+    "phone": "(804) 529-6890",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "22435"
+  },
+  {
+    "name": "Food Bank of Wise County",
+    "description": "Local nonprofit food bank serving Norton and Wise County residents in need. Open Tuesdays and Fridays for food distribution.",
+    "address": "200 Industrial Dr NE, Norton, VA 24273",
+    "phone": "(276) 679-3663",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "24273"
+  },
+  {
+    "name": "Wilderness Food Pantry (LOW Lions Club)",
+    "description": "Community food pantry operated by the LOW Lions Club and LOW Lioness Lions Club serving Locust Grove and Orange County area families. Clients shop for items they need; also distributes USDA food products.",
+    "address": "Route 20, Locust Grove, VA 22508",
+    "phone": "(888) 508-9274",
+    "url": "https://www.lowlions.org/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "22508"
+  },
+  {
+    "name": "Love Outreach Food Pantry & Clothes Closet",
+    "description": "All-volunteer 501(c)(3) nonprofit food pantry partnered with the Blue Ridge Area Food Bank serving Orange County residents. Also operates a clothing closet.",
+    "address": "252 Blue Ridge Dr, Orange, VA 22960",
+    "phone": "(540) 223-6674",
+    "url": "https://loveoutreachocva.org/",
+    "categorySlug": "food",
+    "zipCode": "22960"
+  },
+  {
+    "name": "Page One of Page County",
+    "description": "501(c)(3) nonprofit founded in 1977 providing food pantry and family assistance programs to Page County residents. Two locations in Luray and Shenandoah. Also assists with rent and utility crises.",
+    "address": "35 N Bank St, Luray, VA 22835",
+    "phone": "(540) 743-4863",
+    "url": "https://www.vapageone.org/",
+    "categorySlug": "food",
+    "zipCode": "22835"
+  },
+  {
+    "name": "Page One of Page County - Shenandoah",
+    "description": "Branch location of Page One nonprofit offering food pantry and family assistance for Page County residents in the Shenandoah area.",
+    "address": "600 Comer Rd, Shenandoah, VA 22849",
+    "phone": "(540) 743-4863",
+    "url": "https://www.vapageone.org/",
+    "categorySlug": "food",
+    "zipCode": "22849"
+  },
+  {
+    "name": "Patrick County Community Food Bank",
+    "description": "Nonprofit food bank dedicated to collecting, storing, and distributing food to Patrick County residents in need. Open Monday through Friday.",
+    "address": "108 Commerce St, Stuart, VA 24171",
+    "phone": "(276) 694-6300",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "24171"
+  },
+  {
+    "name": "CARES \u2013 Crisis Assistance Response Emergency Shelter",
+    "description": "Provides crisis assistance and emergency shelter in Petersburg. Operates a food pantry and clothes closet for low-income residents.",
+    "address": "120 E Washington St, Petersburg, VA 23803",
+    "phone": "(804) 861-0865",
+    "url": "https://cares-va.org/",
+    "categorySlug": "crisis",
+    "zipCode": "23803"
+  },
+  {
+    "name": "The Hope Center Food Pantry (Downtown Churches United)",
+    "description": "Union of area faith communities and charitable partners meeting essential needs in Greater Petersburg. Offers food pantry, daily lunch program, and utility assistance. Tuesdays and Thursdays 10am\u20131pm.",
+    "address": "827 Commerce St, Petersburg, VA 23803",
+    "phone": "(804) 722-0321",
+    "url": "https://dcuhopecenter.org/",
+    "categorySlug": "food",
+    "zipCode": "23803"
+  },
+  {
+    "name": "Northern Pittsylvania County Food Center",
+    "description": "Nonprofit food distribution center serving northern Pittsylvania County residents. Distributes approximately one month's worth of food boxes monthly from their Gretna warehouse.",
+    "address": "402 Chaney Ln, Gretna, VA 24557",
+    "phone": "(434) 835-6063",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "24557"
+  },
+  {
+    "name": "Oasis Social Ministry",
+    "description": "Supports homeless and marginalized people in Portsmouth and surrounding areas. Provides a client-choice food pantry, daily community soup kitchen for breakfast and lunch (365 days/year), and a free thrifty boutique.",
+    "address": "800 A Williamsburg Ave, Portsmouth, VA 23704",
+    "phone": "(757) 397-6060",
+    "url": "https://oasissocialministry.org/",
+    "categorySlug": "food",
+    "zipCode": "23704"
+  },
+  {
+    "name": "H.E.R. Shelter (Help and Emergency Response)",
+    "description": "Private nonprofit certified by United Way of South Hampton Roads operating emergency shelter facilities in Portsmouth and Chesapeake for domestic violence survivors. Provides housing, case management, court advocacy, and children's programs.",
+    "address": "Portsmouth, VA 23701",
+    "phone": "(757) 251-0144",
+    "url": "https://hershelter.com/",
+    "categorySlug": "crisis",
+    "zipCode": "23701"
+  },
+  {
+    "name": "Powhatan Food Pantry (Coalition of Powhatan Churches)",
+    "description": "Volunteer-operated food pantry serving Powhatan County residents. Member of the Central Virginia Food Bank. Open Tuesdays, Thursdays, and Saturdays 10am\u201312pm. Proof of Powhatan County residency required.",
+    "address": "2500 Batterson Rd, Powhatan, VA 23139",
+    "phone": "(804) 372-9526",
+    "url": "https://www.coalitionofpowhatanchurches.com/",
+    "categorySlug": "food",
+    "zipCode": "23139"
+  },
+  {
+    "name": "FACES Food Pantry",
+    "description": "All-volunteer nonprofit providing emergency and supplementary food to qualified residents of Farmville and Prince Edward County since 1981. Open Thursdays 5\u20137pm and Saturdays 8\u201310:30am.",
+    "address": "482 Commerce Rd, Farmville, VA 23901",
+    "phone": "(434) 392-6277",
+    "url": "https://www.facesfoodpantry.com/",
+    "categorySlug": "food",
+    "zipCode": "23901"
+  },
+  {
+    "name": "Prince George Food Bank",
+    "description": "Independent nonprofit food bank serving Prince George County residents in need. Mission is that no one goes hungry. Open Tuesdays and Fridays 10am\u2013noon.",
+    "address": "11023 Prince George Dr, Disputanta, VA 23842",
+    "phone": "(804) 733-1691",
+    "url": "https://www.princegeorgecountyva.gov/residents/prince_george_foodbank.php",
+    "categorySlug": "food",
+    "zipCode": "23842"
+  },
+  {
+    "name": "ACTS (Action in Community Through Service)",
+    "description": "Serves residents of eastern Prince William County including Dale City, Dumfries, Lake Ridge, Woodbridge, and surrounding areas. Provides food pantry, hunger prevention, family services, and emergency assistance.",
+    "address": "3901 ACTS Lane, Dumfries, VA 22026",
+    "phone": "(703) 441-8606",
+    "url": "https://actspwc.org/",
+    "categorySlug": "food",
+    "zipCode": "22026"
+  },
+  {
+    "name": "ACTS (Action in Community Through Service)",
+    "description": "Serves eastern Prince William County communities including Woodbridge, Dale City, Triangle, and Quantico. Provides walk-in food pantry, hunger prevention center, and emergency family services.",
+    "address": "3901 ACTS Lane, Dumfries, VA 22026",
+    "phone": "(703) 441-8606",
+    "url": "https://actspwc.org/",
+    "categorySlug": "food",
+    "zipCode": "22191"
+  },
+  {
+    "name": "St. Francis House",
+    "description": "Outreach ministry of St. Francis of Assisi Parish established in 1992 to serve low-income families in eastern Prince William County with food and basic needs assistance.",
+    "address": "2606 Heth Ct, Dumfries, VA 22026",
+    "phone": "",
+    "url": "https://stfrncis.org/st-francis-house/",
+    "categorySlug": "food",
+    "zipCode": "22026"
+  },
+  {
+    "name": "Dublin Food Pantry (Pulaski County)",
+    "description": "Community food pantry serving Dublin neighbors experiencing food insecurity for over 46 years. Provides groceries, hygiene products, and essential resources to families in need in Pulaski County.",
+    "address": "Dublin, VA 24084",
+    "phone": "",
+    "url": "https://www.dublinfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "24084"
+  },
+  {
+    "name": "Pulaski Daily Bread",
+    "description": "Local food assistance organization providing daily bread and food support to Pulaski residents in need.",
+    "address": "408 N Jefferson Ave, Pulaski, VA 24301",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "24301"
+  },
+  {
+    "name": "New River Community Action \u2013 Radford Food Pantry",
+    "description": "Community action agency providing food pantry services and emergency assistance to Radford and surrounding New River Valley residents with income up to 200% of federal poverty guidelines.",
+    "address": "928 W Main St, Radford, VA 24141",
+    "phone": "(540) 267-3205",
+    "url": "https://newrivercommunityaction.org/",
+    "categorySlug": "food",
+    "zipCode": "24141"
+  },
+  {
+    "name": "Rappahannock Food Pantry",
+    "description": "Volunteer 501(c)(3) nonprofit assisting all Rappahannock County residents in need of food. Serves over 300 families who can shop when needed. Open Tuesdays, Thursdays, and Saturdays.",
+    "address": "11763 Lee Hwy, Sperryville, VA 22740",
+    "phone": "(540) 987-5090",
+    "url": "https://www.rappahannockpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "22740"
+  },
+  {
+    "name": "CAPUP North Food Pantry",
+    "description": "Food pantry serving Richmond city residents in the downtown area, open Monday through Thursday 10am\u201312pm.",
+    "address": "1021 Oliver Hill Way, Richmond, VA 23219",
+    "phone": "(804) 788-0050",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "23219"
+  },
+  {
+    "name": "Ebenezer Baptist Church Food Pantry",
+    "description": "Church-based food pantry serving Richmond area residents Monday through Thursday 8:30am\u20131pm in the 23220 zip code.",
+    "address": "216 W Leigh St, Richmond, VA 23220",
+    "phone": "(804) 643-3366",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "23220"
+  },
+  {
+    "name": "Peter Paul Development Center",
+    "description": "Community center providing food pantry and support services to Richmond residents, open first and third Wednesdays.",
+    "address": "1708 N 22nd Street, Richmond, VA 23223",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "23223"
+  },
+  {
+    "name": "Saint Thomas' Episcopal Church Food Pantry",
+    "description": "Church-run food pantry serving the north Richmond community.",
+    "address": "3602 Hawthorne Ave, Richmond, VA 23222",
+    "phone": "",
+    "url": "https://www.stthomasrichmond.org/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "23222"
+  },
+  {
+    "name": "Northside Outreach Center",
+    "description": "Food pantry open the third Saturday of the month from 9am to 11am serving north Richmond.",
+    "address": "3080 Meadowbridge Rd, Richmond, VA 23222",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "23222"
+  },
+  {
+    "name": "First Union Pantry",
+    "description": "Food pantry serving residents in the south Richmond area.",
+    "address": "6144 Derwent Road, Richmond, VA 23225",
+    "phone": "804-745-9772",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "23225"
+  },
+  {
+    "name": "Belmont Community Resource Services",
+    "description": "Community food pantry and clothing closet serving south Richmond neighborhoods.",
+    "address": "3510 Broad Rock Blvd, Richmond, VA 23225",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "23225"
+  },
+  {
+    "name": "United Nations Church Food Pantry",
+    "description": "Church food pantry open Sundays from 1:30pm to 2:30pm in the Cowardin Avenue area of Richmond.",
+    "address": "214 Cowardin Ave, Richmond, VA 23224",
+    "phone": "804-230-6466",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "23224"
+  },
+  {
+    "name": "Roanoke Rescue Mission",
+    "description": "Comprehensive crisis intervention center offering emergency shelter and transitional housing for men, women, and children, plus weekly Manna Food Pantry distribution.",
+    "address": "402 4th Street SE, Roanoke, VA 24013",
+    "phone": "540-343-7227",
+    "url": "https://rescuemission.net/",
+    "categorySlug": "housing",
+    "zipCode": "24013"
+  },
+  {
+    "name": "Family Promise of Greater Roanoke",
+    "description": "Helps families facing homelessness with rental assistance, landlord mediation, and homelessness prevention strategies.",
+    "address": "631 Abney Rd, Roanoke, VA 24012",
+    "phone": "540-444-7374",
+    "url": "",
+    "categorySlug": "housing",
+    "zipCode": "24012"
+  },
+  {
+    "name": "Bonsack Baptist Church Food Pantry",
+    "description": "Food pantry open Thursdays 8:30\u201310am for residents of Roanoke County zip codes 24012 or 24019.",
+    "address": "4845 Cloverdale Road, Roanoke, VA 24019",
+    "phone": "540-977-5701",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "24019"
+  },
+  {
+    "name": "Local Office on Aging Emergency Food Pantry",
+    "description": "Emergency food pantry serving seniors and low-income residents in the Roanoke area.",
+    "address": "4932 Frontage Road NW, Roanoke, VA 24012",
+    "phone": "540-345-0451",
+    "url": "https://www.loaa.org/our-services/emergency-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "24012"
+  },
+  {
+    "name": "United Christian Inner City Ministries",
+    "description": "Food pantry and ministry serving residents in the Roanoke city area.",
+    "address": "828 Jamison Ave, Roanoke, VA 24013",
+    "phone": "540-392-6613",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "24013"
+  },
+  {
+    "name": "Christian Soldiers Food Pantry",
+    "description": "Food pantry open for one visit per week for Roanoke City and Vinton residents, serving 9:30\u201311am.",
+    "address": "728A Church Ave SE, Roanoke, VA 24013",
+    "phone": "",
+    "url": "https://www.facebook.com/ChristianSoldiersFP/",
+    "categorySlug": "food",
+    "zipCode": "24013"
+  },
+  {
+    "name": "St. Francis House",
+    "description": "Food pantry and supportive services open 9am\u201312pm in downtown Roanoke.",
+    "address": "820 Campbell Ave SW, Roanoke, VA 24016",
+    "phone": "540-268-0044",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "24016"
+  },
+  {
+    "name": "MFSC Food Pantry at Calvary Chapel",
+    "description": "Food pantry serving northwest Roanoke residents.",
+    "address": "3839 Shenandoah Avenue, Roanoke, VA 24017",
+    "phone": "540-983-1766",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "24017"
+  },
+  {
+    "name": "Presbyterian Community Center",
+    "description": "Provides emergency financial assistance for utilities, rent, mortgage, and a food pantry with no-cost groceries for the Roanoke community.",
+    "address": "1228 Jamison Ave SE, Roanoke, VA 24013",
+    "phone": "540-342-9299",
+    "url": "https://www.pccse.org/emergency-services",
+    "categorySlug": "food",
+    "zipCode": "24013"
+  },
+  {
+    "name": "Rockbridge Area Relief Association (RARA)",
+    "description": "Largest nonprofit alleviating hunger in the Rockbridge area; operates a free Neighborhood Grocery with client-choice model, open Mon/Wed/Thurs 2:30\u20134:30pm and Sat 10am\u201312pm.",
+    "address": "Lexington, VA 24450",
+    "phone": "",
+    "url": "https://www.raralex.org/",
+    "categorySlug": "food",
+    "zipCode": "24450"
+  },
+  {
+    "name": "Bridge to Hope Food Pantry",
+    "description": "Client-choice food pantry located in downtown Buena Vista, open once a week.",
+    "address": "906 Magnolia Ave, Buena Vista, VA 24416",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "24416"
+  },
+  {
+    "name": "United Way of Rockbridge HELPLine",
+    "description": "Provides financial assistance with utilities, heating fuel, rent, shelter, and transportation to prevent evictions and utility cutoffs in the Lexington/Rockbridge area.",
+    "address": "218 South Main Street, Lexington, VA 24450",
+    "phone": "",
+    "url": "https://www.uwrockbridge.org/safety-net",
+    "categorySlug": "utilities",
+    "zipCode": "24450"
+  },
+  {
+    "name": "Rockbridge Feeds",
+    "description": "Local organization addressing food insecurity in Rockbridge County and surrounding communities.",
+    "address": "Lexington, VA 24450",
+    "phone": "",
+    "url": "https://rockbridgefeeds.org/",
+    "categorySlug": "food",
+    "zipCode": "24450"
+  },
+  {
+    "name": "Open Door Food Pantry Mt. Jackson",
+    "description": "Nonprofit food pantry affiliated with Blue Ridge Area Food Bank, serving Shenandoah County residents facing food insecurity.",
+    "address": "Mount Jackson, VA 22842",
+    "phone": "",
+    "url": "https://opendoorfoodpantrymj.org/",
+    "categorySlug": "food",
+    "zipCode": "22842"
+  },
+  {
+    "name": "Patchwork Pantry",
+    "description": "Provides food, clothing, and diapers to individuals and families in need in the Harrisonburg and Rockingham County area.",
+    "address": "Harrisonburg, VA 22801",
+    "phone": "",
+    "url": "https://www.patchworkpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "22801"
+  },
+  {
+    "name": "Elkton Area United Services (EAUS)",
+    "description": "Food pantry serving Elkton-area residents, open Tuesdays and Fridays 12\u20132pm.",
+    "address": "412 Gibbons Ave, Elkton, VA 22827",
+    "phone": "540-298-8685",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "22827"
+  },
+  {
+    "name": "Elkton Seventh Day Adventist Church Food Pantry",
+    "description": "Community food pantry open the 2nd Friday of each month 12\u20132pm in Elkton.",
+    "address": "20995 Blue and Gold Dr, Elkton, VA 22827",
+    "phone": "540-298-1801",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "22827"
+  },
+  {
+    "name": "West Rockingham Food Pantry",
+    "description": "501(c)(3) nonprofit community pantry composed of eleven churches and two Ruritan Clubs serving west Rockingham County residents.",
+    "address": "Rockingham County, VA 22831",
+    "phone": "",
+    "url": "https://www.cookscreekchurch.org/west-rockingham-food-pantry.html",
+    "categorySlug": "food",
+    "zipCode": "22831"
+  },
+  {
+    "name": "Hope Distributed",
+    "description": "Food pantry providing perishable and nonperishable items including meat, produce, bakery, and canned goods; open Thursdays 4\u20136pm and select Saturdays 9\u201311am.",
+    "address": "1869 Boyers Rd, Harrisonburg, VA 22801",
+    "phone": "540-578-3510",
+    "url": "https://www.facebook.com/HopeDistributed/",
+    "categorySlug": "food",
+    "zipCode": "22801"
+  },
+  {
+    "name": "Verona Community Food Pantry",
+    "description": "Independent all-volunteer 501(c)(3) nonprofit providing food to those in need in Augusta County, Staunton, and Waynesboro. Open Mon, Wed, and Thurs 9\u201311am.",
+    "address": "Verona, VA 24482",
+    "phone": "",
+    "url": "https://veronafoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "24482"
+  },
+  {
+    "name": "The Neighbor Bridge Little Grocery",
+    "description": "Client-choice food pantry located in Augusta County between Staunton and Waynesboro, partnered with Fishersville Community Church.",
+    "address": "Fishersville, VA 22939",
+    "phone": "",
+    "url": "https://www.theneighborbridge.org/thelittlegrocery",
+    "categorySlug": "food",
+    "zipCode": "22939"
+  },
+  {
+    "name": "Staunton Helping Hands Center",
+    "description": "Food pantry providing groceries to individuals and families in need in the Staunton area.",
+    "address": "Staunton, VA 24401",
+    "phone": "",
+    "url": "https://www.stauntonhelpinghands.org/food-pantry.html",
+    "categorySlug": "food",
+    "zipCode": "24401"
+  },
+  {
+    "name": "Scott County Ministerial Association (SCMA) Food Pantry",
+    "description": "Community food pantry serving Scott County residents, open Tuesday and Wednesday 9am\u201312pm.",
+    "address": "112 Library Ave, Gate City, VA 24251",
+    "phone": "276-386-9400",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "24251"
+  },
+  {
+    "name": "HOPE Christian Ministries Food Pantry",
+    "description": "Free food pantry serving Duffield and surrounding Scott County, VA residents.",
+    "address": "Duffield, VA 24244",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "24244"
+  },
+  {
+    "name": "Gate City Church of God Food Pantry",
+    "description": "Free food pantry serving Scott County, Virginia residents.",
+    "address": "Gate City, VA 24251",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "24251"
+  },
+  {
+    "name": "Food Bank of Wise County",
+    "description": "Nonprofit collecting, storing, and distributing food to low-income families, seniors, veterans, and individuals in need in Norton and Wise County. Open Tuesday and Friday 10\u201311:30am.",
+    "address": "200 Industrial Dr NE, Norton, VA 24273",
+    "phone": "276-275-0537",
+    "url": "https://virginiafoodbanks.org/food-bank/food-bank-of-wise-county-inc/",
+    "categorySlug": "food",
+    "zipCode": "24273"
+  },
+  {
+    "name": "Scott County Ministerial Association (SCMA) Food Pantry",
+    "description": "Community food pantry serving Scott County, open Tuesday and Wednesday 9am\u201312pm.",
+    "address": "112 Library Ave, Gate City, VA 24251",
+    "phone": "276-386-9400",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "24251"
+  },
+  {
+    "name": "Open Door Food Pantry Mt. Jackson",
+    "description": "Nonprofit food pantry affiliated with Blue Ridge Area Food Bank serving Shenandoah County residents.",
+    "address": "Mount Jackson, VA 22842",
+    "phone": "",
+    "url": "https://opendoorfoodpantrymj.org/",
+    "categorySlug": "food",
+    "zipCode": "22842"
+  },
+  {
+    "name": "Front Royal Warren County C-CAP Food Pantry",
+    "description": "Congregational Community Action Project providing food, clothing, limited financial assistance, and social services referrals for Warren County. Open Mon, Wed, Thurs 9am\u2013noon.",
+    "address": "400 Kendrick Lane Suite B, Front Royal, VA 22630",
+    "phone": "",
+    "url": "https://ourccap.org/",
+    "categorySlug": "food",
+    "zipCode": "22630"
+  },
+  {
+    "name": "Loaves and Fishes Food Pantry Warren County",
+    "description": "Food pantry serving Warren and surrounding counties in partnership with Catholic Charities, open Tue 1\u20134pm and Thu/Fri 9am\u20132pm.",
+    "address": "Front Royal, VA 22630",
+    "phone": "",
+    "url": "https://www.foodpantries.org/li/loaves-fishes-food-pantry-warren-county",
+    "categorySlug": "food",
+    "zipCode": "22630"
+  },
+  {
+    "name": "House of Hope Men's Shelter",
+    "description": "Emergency and transitional shelter for homeless men in Front Royal; 12-bed, 24-hour facility offering continuum of care up to 9 months including food, clothing, and laundry.",
+    "address": "724 Warren Avenue, Front Royal, VA 22630",
+    "phone": "540-635-2446",
+    "url": "",
+    "categorySlug": "housing",
+    "zipCode": "22630"
+  },
+  {
+    "name": "Atkins First Church of God Food Pantry",
+    "description": "Food pantry serving Smyth County residents in the Atkins area.",
+    "address": "6118 Lee Hwy, Atkins, VA 24311",
+    "phone": "276-783-2259",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "24311"
+  },
+  {
+    "name": "Loaves and Fishes Area Food Pantry Chilhowie",
+    "description": "Food pantry serving Smyth County residents in the Chilhowie area.",
+    "address": "141 Pine Ave, Chilhowie, VA 24319",
+    "phone": "276-646-9939",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "24319"
+  },
+  {
+    "name": "First United Methodist Church Marion Food Pantry",
+    "description": "Church-run food pantry serving residents of Marion and Smyth County.",
+    "address": "115 S. Church St, Marion, VA 24354",
+    "phone": "276-783-5194",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "24354"
+  },
+  {
+    "name": "Sugar Grove Church of God of Prophecy Food Pantry",
+    "description": "Food pantry serving residents in the Sugar Grove area of Smyth County.",
+    "address": "533 Flat Ridge Rd, Sugar Grove, VA 24375",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "24375"
+  },
+  {
+    "name": "Brunswick Family Assistance Mobile Food Pantry",
+    "description": "Monthly mobile food pantry visiting Brunswick County locations on the 1st and 3rd Thursday of each month.",
+    "address": "Lawrenceville, VA 23868",
+    "phone": "",
+    "url": "https://brunswickfamily.org/mobile-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "23868"
+  },
+  {
+    "name": "S.E.R.V.E. Stafford Emergency Relief",
+    "description": "Provides emergency food, clothing, and other assistance to Stafford County residents; open Mon/Wed 10am\u20132:30pm and Tue/Thu 1\u20134:30pm.",
+    "address": "Stafford, VA 22554",
+    "phone": "",
+    "url": "",
+    "categorySlug": "community",
+    "zipCode": "22554"
+  },
+  {
+    "name": "Mt Ararat Baptist Church Food Pantry",
+    "description": "Food pantry serving residents of zip codes 22554 and 22556 in Stafford County, open Monday\u2013Friday 8am\u20135pm.",
+    "address": "1112 Garrisonville Rd, Stafford, VA 22554",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "22554"
+  },
+  {
+    "name": "Central United Methodist Church Food Pantry Staunton",
+    "description": "Food pantry serving Staunton city and Augusta County; open every Wednesday 9\u201311:30am and Saturday 10\u201311:30am.",
+    "address": "14 N. Lewis St, Staunton, VA 24401",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "24401"
+  },
+  {
+    "name": "Valley Mission",
+    "description": "126-bed homeless shelter in the Shenandoah Valley for single men, women, and families; also serves daily meals to the broader community.",
+    "address": "1513 W. Beverley Street, Staunton, VA 24401",
+    "phone": "",
+    "url": "https://www.foodpantries.org/li/valley_mission_24401",
+    "categorySlug": "housing",
+    "zipCode": "24401"
+  },
+  {
+    "name": "Linden Heights Baptist Church Food Pantry",
+    "description": "Food pantry open every Tuesday and the last Thursday of each month in Staunton.",
+    "address": "371 Linden Drive, Staunton, VA 24401",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "24401"
+  },
+  {
+    "name": "Oasis Social Ministry",
+    "description": "Local nonprofit providing food assistance and social services to residents of Suffolk and the surrounding Hampton Roads area.",
+    "address": "Suffolk, VA 23434",
+    "phone": "",
+    "url": "https://oasissocialministry.org/",
+    "categorySlug": "food",
+    "zipCode": "23434"
+  },
+  {
+    "name": "Suffolk Jewish Community Center Community Pantry",
+    "description": "Community food pantry serving Suffolk-area residents in need.",
+    "address": "Suffolk, VA 23434",
+    "phone": "",
+    "url": "https://syjcc.org/community-pantry/",
+    "categorySlug": "food",
+    "zipCode": "23434"
+  },
+  {
+    "name": "Judeo-Christian Outreach Center Food Pantry",
+    "description": "Provides free groceries to South Hampton Roads and Eastern Shore residents including Isle of Wight and Suffolk; guests may receive food every 30 days.",
+    "address": "Suffolk, VA 23432",
+    "phone": "",
+    "url": "https://jcoc.org/about-us/hunger-relief-programs/",
+    "categorySlug": "food",
+    "zipCode": "23432"
+  },
+  {
+    "name": "Agape Food Pantry Wytheville",
+    "description": "Food pantry serving Wythe County residents.",
+    "address": "395 W. Spring St, Wytheville, VA 24382",
+    "phone": "276-228-6889",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "24382"
+  },
+  {
+    "name": "Bland Ministry Center",
+    "description": "501(c)(3) nonprofit serving Bland and surrounding counties with food pantry, clothing closet, home repair, and dental clinic.",
+    "address": "65 Seddon Street, Bland, VA 24315",
+    "phone": "276-688-4701",
+    "url": "https://www.blandministrycenter.org",
+    "categorySlug": "food",
+    "zipCode": "24315"
+  },
+  {
+    "name": "Bluefield Union Mission Food Pantry",
+    "description": "Provides food boxes to needy families and individuals in Bland, Buchanan, and Tazewell counties; open Monday\u2013Friday 9am\u20134pm.",
+    "address": "Bluefield, VA 24605",
+    "phone": "276-322-4911",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "24605"
+  },
+  {
+    "name": "Feeding Southwest Virginia Mobile Food Pantry",
+    "description": "Monthly mobile food distribution visiting 12 sites in remote Southwest Virginia communities including Buchanan and Tazewell counties.",
+    "address": "Abingdon, VA 24210",
+    "phone": "276-628-9266",
+    "url": "https://feedingswva.org/programs/mobile-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "24210"
+  },
+  {
+    "name": "North Tazewell USDA Commodities Pantry",
+    "description": "Distributes USDA commodity food boxes to families and individuals in the Clinch Valley community, per government guidelines.",
+    "address": "North Tazewell, VA 24630",
+    "phone": "276-988-3704",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "24630"
+  },
+  {
+    "name": "Chapel Pantry at Eastern Shore Chapel",
+    "description": "Walk-in food pantry offering groceries including dry goods, meat, eggs, dairy, baked goods, and fresh produce; guests may come once per month. Open Mon\u2013Thu 2\u20134pm and Wed 5:30\u20137pm.",
+    "address": "2020 Laskin Road, Virginia Beach, VA 23454",
+    "phone": "",
+    "url": "https://www.easternshorechapel.org/chapel-pantry",
+    "categorySlug": "food",
+    "zipCode": "23454"
+  },
+  {
+    "name": "Courthouse Community United Methodist Church Food Pantry",
+    "description": "Food pantry open Wednesdays 10am\u201312pm and 5:30\u20136:30pm, plus free community dinner every Wednesday evening in Virginia Beach.",
+    "address": "Virginia Beach, VA 23456",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "23456"
+  },
+  {
+    "name": "FOTE Outreach Food Pantry",
+    "description": "Community food pantry serving residents in the 23452 Virginia Beach area; call for pick-up times.",
+    "address": "3420 Club House Road, Virginia Beach, VA 23452",
+    "phone": "757-431-0052",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "23452"
+  },
+  {
+    "name": "Manna Ministry of Tidewater",
+    "description": "Provides emergency food assistance to families in the Tidewater/Hampton Roads area.",
+    "address": "216 Business Park Drive, Virginia Beach, VA 23462",
+    "phone": "757-609-0709",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "23462"
+  },
+  {
+    "name": "Seton Youth Shelters",
+    "description": "24-hour emergency shelter for youth ages 9\u201317, operating separate shelters for boys and girls in Virginia Beach.",
+    "address": "Virginia Beach, VA 23455",
+    "phone": "",
+    "url": "",
+    "categorySlug": "housing",
+    "zipCode": "23455"
+  },
+  {
+    "name": "Eastern Shore Chapel Winter Shelter",
+    "description": "Community churches partner to provide meals and warm overnight shelter for up to 65 homeless men and women during cold weather months in Virginia Beach.",
+    "address": "2020 Laskin Road, Virginia Beach, VA 23454",
+    "phone": "",
+    "url": "https://www.easternshorechapel.org/outreach",
+    "categorySlug": "housing",
+    "zipCode": "23454"
+  },
+  {
+    "name": "Front Royal Warren County C-CAP",
+    "description": "Congregational Community Action Project providing food, clothing, financial assistance, and social service referrals for Warren County residents.",
+    "address": "400 Kendrick Lane Suite B, Front Royal, VA 22630",
+    "phone": "",
+    "url": "https://ourccap.org/",
+    "categorySlug": "food",
+    "zipCode": "22630"
+  },
+  {
+    "name": "Bristol Emergency Food Pantry",
+    "description": "Bristol's major hunger-relief organization serving zip codes 24201\u201324203; open Monday\u2013Friday 1\u20133pm.",
+    "address": "155 Washington Street, Bristol, VA 24201",
+    "phone": "",
+    "url": "http://bristolfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "24201"
+  },
+  {
+    "name": "Bristol Faith in Action",
+    "description": "Provides emergency food, diapers, cleaning supplies, and personal hygiene items to residents of Bristol and Washington County, VA.",
+    "address": "Bristol, VA 24202",
+    "phone": "276-466-8292",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "24202"
+  },
+  {
+    "name": "Meals with a Mission Big Stone Gap",
+    "description": "Food ministry providing meals and food assistance to residents of Wise County.",
+    "address": "14 East 11th Street North, Big Stone Gap, VA 24219",
+    "phone": "276-337-9285",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "24219"
+  },
+  {
+    "name": "First Baptist Church Hope Center Coeburn",
+    "description": "Community food pantry and support services for Wise County residents in the Coeburn area.",
+    "address": "701 Front St, Coeburn, VA 24230",
+    "phone": "276-395-6237",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "24230"
+  },
+  {
+    "name": "Helping Hands Food Pantry at West Waynesboro Church of Christ",
+    "description": "Food pantry serving Waynesboro residents affiliated with Blue Ridge Area Food Bank.",
+    "address": "Waynesboro, VA 22980",
+    "phone": "",
+    "url": "https://foodfinder.brafb.org/locations/helping-hands-food-pantry-west-waynesboro-church-of-christ",
+    "categorySlug": "food",
+    "zipCode": "22980"
+  },
+  {
+    "name": "First Presbyterian Church Waynesboro Food Pantry",
+    "description": "Church-run food pantry providing groceries to Waynesboro-area residents in need.",
+    "address": "Waynesboro, VA 22980",
+    "phone": "",
+    "url": "https://foodfinder.brafb.org/locations/first-presbyterian-church-waynesboro",
+    "categorySlug": "food",
+    "zipCode": "22980"
+  },
+  {
+    "name": "Love Thy Neighbor Community Food Pantry",
+    "description": "Free food, hygiene items, and hope for individuals and families facing food insecurity in King George County; open Sundays 1\u20135pm, Thursdays 5:30\u20138pm, and Saturdays 9:30\u201311:30am.",
+    "address": "King George, VA 22485",
+    "phone": "",
+    "url": "https://www.kgfood.org/",
+    "categorySlug": "food",
+    "zipCode": "22485"
+  },
+  {
+    "name": "CCAP Winchester Food Pantry",
+    "description": "Congregational Community Action Project providing food, clothing, and financial assistance to residents of Winchester and Frederick County.",
+    "address": "Winchester, VA 22601",
+    "phone": "",
+    "url": "https://ccapwinchester.org/",
+    "categorySlug": "food",
+    "zipCode": "22601"
+  },
+  {
+    "name": "Highland Food Pantry Winchester",
+    "description": "501(c)(3) nonprofit food pantry providing food assistance for neighbors in need in the Winchester area.",
+    "address": "Winchester, VA 22601",
+    "phone": "",
+    "url": "https://www.facebook.com/highlandfoodpantry/",
+    "categorySlug": "food",
+    "zipCode": "22601"
+  },
+  {
+    "name": "Clintwood Ministerial Association Food Pantry",
+    "description": "Food pantry operated by local ministerial association serving Dickenson County residents.",
+    "address": "426 Clintwood Main St, Clintwood, VA 24228",
+    "phone": "276-935-8595",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "24228"
+  },
+  {
+    "name": "Buchanan Community Food Pantry",
+    "description": "Community food pantry serving low-income residents in Grundy and Buchanan County.",
+    "address": "Grundy, VA 24614",
+    "phone": "",
+    "url": "https://www.foodbanks.net/organization/1616/buchanan-community-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "24614"
+  },
+  {
+    "name": "Fellowship Baptist Church Food Ministry Meadowview",
+    "description": "Church food ministry serving residents in the Meadowview area of Washington County.",
+    "address": "14221 Ravenswood Drive, Meadowview, VA 24361",
+    "phone": "276-944-5308",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "24361"
+  },
+  {
+    "name": "Food Independence",
+    "description": "Local food pantry distributing food on the 4th Tuesday of each month 9\u201311am to Independence and Grayson County residents.",
+    "address": "PO Box 201, Independence, VA 24348",
+    "phone": "",
+    "url": "https://www.facebook.com/p/Food-Independence-100066923312816/",
+    "categorySlug": "food",
+    "zipCode": "24348"
+  },
+  {
+    "name": "Carroll County Ministerial Association Food Pantry",
+    "description": "Ministerial association-run food pantry serving Carroll County, Virginia residents.",
+    "address": "Hillsville, VA 24343",
+    "phone": "276-728-2434",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "24343"
+  },
+  {
+    "name": "Rooftop of Virginia",
+    "description": "Community action agency providing food assistance, housing support, and other resources for Carroll, Floyd, Grayson, Patrick, and Wythe counties.",
+    "address": "Galax, VA 24333",
+    "phone": "",
+    "url": "https://www.rtov.org/resources/",
+    "categorySlug": "community",
+    "zipCode": "24333"
+  },
+  {
+    "name": "York County Church Women United Food Closet",
+    "description": "Nonprofit food closet serving York County and Poquoson residents since 1973.",
+    "address": "300 Ella Taylor Road, Yorktown, VA 23692",
+    "phone": "757-898-9057",
+    "url": "https://www.foodcloset.org/",
+    "categorySlug": "food",
+    "zipCode": "23692"
+  },
+  {
+    "name": "York County Food Bank",
+    "description": "Fights hunger through a network of more than 100 partner agencies in York County including food pantries, faith partners, schools, and senior living facilities.",
+    "address": "Yorktown, VA 23693",
+    "phone": "",
+    "url": "https://yorkfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "23693"
+  },
+  {
+    "name": "York County Shelter Programs",
+    "description": "Nonprofit helping homeless individuals for over 44 years, offering integrated programs including addiction treatment, job training, and permanent housing support.",
+    "address": "Yorktown, VA 23692",
+    "phone": "",
+    "url": "https://www.yorkcountyshelterprograms.com/",
+    "categorySlug": "housing",
+    "zipCode": "23692"
+  },
+  {
+    "name": "York Community Service Association Food Pantry",
+    "description": "Food pantry serving York County community members in need.",
+    "address": "Yorktown, VA 23690",
+    "phone": "",
+    "url": "https://www.ycsame.org/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "23690"
+  },
+  {
+    "name": "Family Crisis Support Services",
+    "description": "Provides shelter and crisis services for domestic violence and homeless individuals in Buchanan, Dickenson, Lee, Norton, Russell, Scott, and Wise counties.",
+    "address": "Norton, VA 24273",
+    "phone": "",
+    "url": "",
+    "categorySlug": "crisis",
+    "zipCode": "24273"
+  },
+  {
+    "name": "York County Church Women United Food Closet",
+    "description": "Nonprofit food closet that has been serving York County and Poquoson residents since 1973.",
+    "address": "300 Ella Taylor Road, Yorktown, VA 23692",
+    "phone": "757-898-9057",
+    "url": "https://www.foodcloset.org/",
+    "categorySlug": "food",
+    "zipCode": "23696"
+  },
+  {
+    "name": "York County Food Bank",
+    "description": "Fights hunger alongside a network of more than 100 partner agencies in York County, serving Grafton and surrounding areas.",
+    "address": "Yorktown, VA 23693",
+    "phone": "",
+    "url": "https://yorkfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "23696"
+  }
+]

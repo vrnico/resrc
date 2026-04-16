@@ -1,0 +1,1001 @@
+[
+  {
+    "name": "Bear River Association of Governments",
+    "description": "Regional community action agency serving Box Elder, Cache, and Rich Counties with utility assistance, rental assistance, free tax preparation, weatherization, home rehabilitation, and first-time homebuyer programming.",
+    "address": "170 N Main St, Logan, UT 84321",
+    "phone": "(435) 752-7242",
+    "url": "https://www.brag.utah.gov",
+    "categorySlug": "community",
+    "zipCode": "84321"
+  },
+  {
+    "name": "Bear River Health Department",
+    "description": "Public health department serving Cache, Box Elder, and Rich Counties offering clinical health services, immunizations, WIC, family planning, communicable disease prevention, and nutrition programs.",
+    "address": "655 E 1300 N, Logan, UT 84341",
+    "phone": "(435) 792-6500",
+    "url": "https://brhdut.gov",
+    "categorySlug": "healthcare",
+    "zipCode": "84341"
+  },
+  {
+    "name": "Cache Community Food Pantry – Logan",
+    "description": "Community partnership food pantry ensuring no individual in Cache County goes to bed hungry. Offers extended evening hours multiple days per week for working families.",
+    "address": "359 S Main St, Logan, UT 84321",
+    "phone": "(435) 753-7140",
+    "url": "https://cachefood.org/",
+    "categorySlug": "food",
+    "zipCode": "84321"
+  },
+  {
+    "name": "Cache Community Food Pantry – Logan",
+    "description": "Community partnership food pantry ensuring no individual in Cache County goes to bed hungry. Offers extended evening hours multiple days per week for working families.",
+    "address": "359 S Main St, Logan, UT 84321",
+    "phone": "(435) 753-7140",
+    "url": "https://cachefood.org/",
+    "categorySlug": "food",
+    "zipCode": "84321"
+  },
+  {
+    "name": "Cache Community Food Pantry – Logan",
+    "description": "Community partnership food pantry ensuring no individual in Cache County goes to bed hungry. Offers extended evening hours multiple days per week for working families.",
+    "address": "359 S Main St, Logan, UT 84321",
+    "phone": "(435) 753-7140",
+    "url": "https://cachefood.org/",
+    "categorySlug": "food",
+    "zipCode": "84321"
+  },
+  {
+    "name": "Cache Valley Humanitarian Center",
+    "description": "Humanitarian aid and resource distribution center providing supplies and support to those in need across Cache Valley, including materials for unhoused individuals.",
+    "address": "1853 E 3375 N, North Logan, UT 84341",
+    "phone": "(208) 206-3270",
+    "url": "https://www.cachevalleyhumanitariancenter.com",
+    "categorySlug": "community",
+    "zipCode": "84341"
+  },
+  {
+    "name": "CAPSA – Citizens Against Physical and Sexual Abuse",
+    "description": "Nonprofit providing free, confidential services for survivors of domestic violence and sexual abuse including emergency shelter, transitional housing, 24/7 crisis line, legal advocacy, therapy, and support groups.",
+    "address": "39 W 100 N, Logan, UT 84321",
+    "phone": "(435) 753-2500",
+    "url": "https://www.capsa.org",
+    "categorySlug": "housing",
+    "zipCode": "84321"
+  },
+  {
+    "name": "Loaves and Fishes Community Meal",
+    "description": "Free community lunch served to anyone in need on the 1st and 3rd Saturdays of each month at First Presbyterian Church of Logan.",
+    "address": "178 W Center St, Logan, UT 84321",
+    "phone": "",
+    "url": "https://firstpreslogan.com/church-life/loaves-fishes-community-meal",
+    "categorySlug": "food",
+    "zipCode": "84321"
+  },
+  {
+    "name": "Sunshine Terrace Foundation",
+    "description": "Nonprofit senior care organization offering skilled nursing, assisted living, short-term rehabilitation, outpatient therapy, home health, and hospice services for older adults in Cache Valley.",
+    "address": "248 W 300 N, Logan, UT 84321",
+    "phone": "(435) 752-0411",
+    "url": "https://www.sunshineterrace.org",
+    "categorySlug": "healthcare",
+    "zipCode": "84321"
+  },
+  {
+    "name": "WAB Warming Center",
+    "description": "Emergency cold-weather shelter providing warmth, safety, and care for unhoused individuals and families on the coldest nights of the year in Cache Valley.",
+    "address": "85 E 100 N, Logan, UT 84321",
+    "phone": "",
+    "url": "https://wabwarmingcenter.org",
+    "categorySlug": "housing",
+    "zipCode": "84321"
+  },
+  {
+    "name": "Carbon County Food Bank – Price",
+    "description": "County food bank distributing monthly food boxes to households experiencing food insecurity in Carbon County. Accepts walk-in clients with proof of income and residence.",
+    "address": "75 E 400 S, Price, UT 84501",
+    "phone": "(435) 637-9232",
+    "url": "https://serda.utah.gov/food-banks",
+    "categorySlug": "food",
+    "zipCode": "84501"
+  },
+  {
+    "name": "Southeast Utah Health Department – Carbon County",
+    "description": "Public health agency offering clinical and family health services including WIC, immunizations, family planning, and communicable disease programs for Carbon and Emery Counties.",
+    "address": "149 East 100 South, Price, UT 84501",
+    "phone": "(435) 637-3671",
+    "url": "https://seuhealth.gov",
+    "categorySlug": "healthcare",
+    "zipCode": "84501"
+  },
+  {
+    "name": "Bountiful Community Food Pantry",
+    "description": "Food pantry serving Davis County residents with grocery-style food distribution. Operates a mobile pantry program to extend reach to those unable to travel.",
+    "address": "480 E 150 N, Bountiful, UT 84010",
+    "phone": "(801) 299-8464",
+    "url": "https://bountifulfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "84010"
+  },
+  {
+    "name": "Bountiful Community Food Pantry",
+    "description": "Food pantry serving Davis County residents with grocery-style food distribution. Operates a mobile pantry program to extend reach to those unable to travel.",
+    "address": "480 E 150 N, Bountiful, UT 84010",
+    "phone": "(801) 299-8464",
+    "url": "https://bountifulfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "84010"
+  },
+  {
+    "name": "Bountiful Community Food Pantry",
+    "description": "Food pantry serving Davis County residents with grocery-style food distribution. Operates a mobile pantry program to extend reach to those unable to travel.",
+    "address": "480 E 150 N, Bountiful, UT 84010",
+    "phone": "(801) 299-8464",
+    "url": "https://bountifulfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "84010"
+  },
+  {
+    "name": "Davis Community Housing Authority",
+    "description": "Public housing authority administering Section 8 Housing Choice Vouchers and affordable housing programs for low-income Davis County residents.",
+    "address": "352 South 200 West, Suite 1, Farmington, UT 84025",
+    "phone": "(801) 451-2587",
+    "url": "https://www.daviscommunityhousing.com",
+    "categorySlug": "housing",
+    "zipCode": "84025"
+  },
+  {
+    "name": "Open Doors Utah",
+    "description": "Nonprofit family support center providing homeless prevention, emergency financial assistance, transitional housing, and self-sufficiency programs for low-income families in Davis County.",
+    "address": "1360 East 1450 South, Clearfield, UT 84015",
+    "phone": "(801) 773-0712",
+    "url": "https://www.opendoorsutah.org",
+    "categorySlug": "housing",
+    "zipCode": "84015"
+  },
+  {
+    "name": "Uintah Basin Healthcare – Roosevelt",
+    "description": "Regional hospital and multispecialty clinic serving Duchesne County and the broader Uintah Basin, offering inpatient care, emergency services, primary care, and specialty clinics.",
+    "address": "250 West 300 North, Roosevelt, UT 84066",
+    "phone": "(435) 722-4691",
+    "url": "https://ubh.org",
+    "categorySlug": "healthcare",
+    "zipCode": "84066"
+  },
+  {
+    "name": "Moab Free Health Clinic",
+    "description": "Free primary care and preventive health services for uninsured and underinsured residents of Grand County and southeast Utah. Appointment required.",
+    "address": "121 West 200 South Suite A, Moab, UT 84532",
+    "phone": "(435) 259-1113",
+    "url": "https://www.moabfreehealthclinic.org",
+    "categorySlug": "healthcare",
+    "zipCode": "84532"
+  },
+  {
+    "name": "Moab Valley Multicultural Center",
+    "description": "Bilingual (English/Spanish) community center offering a food pantry, case management for housing stability, hygiene items, clothing vouchers, and social services for Grand County residents.",
+    "address": "156 North 100 West, Moab, UT 84532",
+    "phone": "(435) 259-5444",
+    "url": "https://moabmc.org",
+    "categorySlug": "community",
+    "zipCode": "84532"
+  },
+  {
+    "name": "Seekhaven Family Crisis and Resource Center",
+    "description": "Trauma-informed shelter and advocacy services for survivors of domestic violence, sexual abuse, dating violence, stalking, and sex trafficking in southeast Utah. 24/7 crisis line available.",
+    "address": "81 North 300 East, Moab, UT 84532",
+    "phone": "(435) 259-2229",
+    "url": "https://www.seekhaven.org",
+    "categorySlug": "housing",
+    "zipCode": "84532"
+  },
+  {
+    "name": "Kane County Assistance Program",
+    "description": "County-level assistance program connecting Kane County residents to emergency financial aid, utility assistance, housing support, and a directory of regional social service resources.",
+    "address": "76 N Main St, Kanab, UT 84741",
+    "phone": "(435) 644-2551",
+    "url": "https://kanecountyassist.org/",
+    "categorySlug": "community",
+    "zipCode": "84741"
+  },
+  {
+    "name": "Long Valley Food Pantry (Kane County Care and Share)",
+    "description": "Food pantry operated by Kane County Care and Share serving Orderville and the Long Valley area, distributing groceries on the 1st and 3rd Thursday of each month from the Long Valley Senior Center.",
+    "address": "415 E State St, Orderville, UT 84758",
+    "phone": "(435) 648-2504",
+    "url": "https://kane.utah.gov/166/Care-Share",
+    "categorySlug": "food",
+    "zipCode": "84758"
+  },
+  {
+    "name": "Southwest Utah Public Health Department – Iron County",
+    "description": "Public health department office serving Iron County with clinical services, immunizations, WIC, maternal and child health programs, and disease prevention.",
+    "address": "260 E DL Sargent Dr, Cedar City, UT 84723",
+    "phone": "(435) 586-2437",
+    "url": "https://swuhealth.gov",
+    "categorySlug": "healthcare",
+    "zipCode": "84723"
+  },
+  {
+    "name": "Bishop Weigand Homeless Resource Center – Catholic Community Services",
+    "description": "The only daytime homeless resource center of its kind in Salt Lake City. Provides daytime shelter, case management, computer lab, showers, laundry, and partnership services.",
+    "address": "437 W 200 S, Salt Lake City, UT 84101",
+    "phone": "(801) 363-7710",
+    "url": "https://www.ccsutah.org/programs/weigand-resource-center",
+    "categorySlug": "housing",
+    "zipCode": "84101"
+  },
+  {
+    "name": "Community Health Centers of Utah – Midvale",
+    "description": "FQHC providing comprehensive primary care, dental services, and mental health support on a sliding-fee scale for uninsured, underinsured, and low-income patients in the south Salt Lake valley.",
+    "address": "220 W 7200 S, Suite A, Midvale, UT 84047",
+    "phone": "(801) 566-5494",
+    "url": "https://chc-ut.org",
+    "categorySlug": "healthcare",
+    "zipCode": "84047"
+  },
+  {
+    "name": "Crossroads Urban Center – Emergency Food Pantry",
+    "description": "Emergency food pantry and advocacy organization serving low-income Salt Lake City residents. Provides grocery-style food distribution Monday through Friday.",
+    "address": "347 S 400 E, Salt Lake City, UT 84111",
+    "phone": "(801) 364-7765",
+    "url": "https://www.crossroadsurbancenter.org/",
+    "categorySlug": "food",
+    "zipCode": "84111"
+  },
+  {
+    "name": "Crossroads Urban Center – Emergency Food Pantry",
+    "description": "Emergency food pantry and advocacy organization serving low-income Salt Lake City residents. Provides grocery-style food distribution Monday through Friday.",
+    "address": "347 S 400 E, Salt Lake City, UT 84111",
+    "phone": "(801) 364-7765",
+    "url": "https://www.crossroadsurbancenter.org/",
+    "categorySlug": "food",
+    "zipCode": "84111"
+  },
+  {
+    "name": "Crossroads Urban Center – Emergency Food Pantry",
+    "description": "Emergency food pantry and advocacy organization serving low-income Salt Lake City residents. Provides grocery-style food distribution Monday through Friday.",
+    "address": "347 S 400 E, Salt Lake City, UT 84111",
+    "phone": "(801) 364-7765",
+    "url": "https://www.crossroadsurbancenter.org/",
+    "categorySlug": "food",
+    "zipCode": "84111"
+  },
+  {
+    "name": "Crossroads Urban Center – Westside Food Pantry",
+    "description": "Westside food pantry extending Crossroads Urban Center services to the west side of Salt Lake City, providing grocery-style food distribution to low-income community members.",
+    "address": "1358 W Indiana Ave, Salt Lake City, UT 84104",
+    "phone": "(801) 364-7765",
+    "url": "https://www.crossroadsurbancenter.org/westside.html",
+    "categorySlug": "food",
+    "zipCode": "84104"
+  },
+  {
+    "name": "Family Support Center – Midvale",
+    "description": "Free emergency and respite childcare for children ages 0–11 whose parents are in crisis. Also offers child abuse counseling, general counseling, and sexual assault counseling for south Salt Lake valley families.",
+    "address": "777 W Center St, Midvale, UT 84047",
+    "phone": "(801) 255-6881",
+    "url": "https://utahfamilies.org/find-a-center/midvale/",
+    "categorySlug": "community",
+    "zipCode": "84047"
+  },
+  {
+    "name": "Family Support Center – Midvale",
+    "description": "Free emergency and respite childcare for children ages 0–11 whose parents are in crisis. Also offers child abuse counseling, general counseling, and sexual assault counseling for south Salt Lake valley families.",
+    "address": "777 W Center St, Midvale, UT 84047",
+    "phone": "(801) 255-6881",
+    "url": "https://utahfamilies.org/find-a-center/midvale/",
+    "categorySlug": "community",
+    "zipCode": "84047"
+  },
+  {
+    "name": "Fourth Street Clinic",
+    "description": "Federally Qualified Health Center providing free and low-cost medical, dental, pharmacy, and case management services specifically to people experiencing homelessness and housing instability in Salt Lake City.",
+    "address": "409 W 400 S, Salt Lake City, UT 84101",
+    "phone": "(801) 364-0058",
+    "url": "https://fourthstreetclinic.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "84101"
+  },
+  {
+    "name": "Holy Cross Hospital – Jordan Valley (CommonSpirit Health)",
+    "description": "Full-service acute care hospital serving West Jordan and the southwest Salt Lake Valley, providing emergency, surgical, maternal, and specialty medical services.",
+    "address": "3580 W 9000 S, West Jordan, UT 84088",
+    "phone": "(801) 561-8888",
+    "url": "https://www.mountain.commonspirit.org/location/holy-cross-hospital-jordan-valley",
+    "categorySlug": "healthcare",
+    "zipCode": "84088"
+  },
+  {
+    "name": "Joyce Hansen Hall Food Bank – Catholic Community Services",
+    "description": "Largest food pantry in Northern Utah operating in a grocery-store style format. Also delivers boxes to homebound, elderly, and disabled individuals.",
+    "address": "224 N 2200 W, Salt Lake City, UT 84116",
+    "phone": "(801) 977-9119",
+    "url": "https://ccsutah.org/programs/joyce-hansen-hall-food-bank",
+    "categorySlug": "food",
+    "zipCode": "84116"
+  },
+  {
+    "name": "Neighborhood House",
+    "description": "Community center established in 1894 offering childcare, preschool, and family support services including a food pantry for enrolled families in the west Salt Lake City area.",
+    "address": "1050 W 500 S, Salt Lake City, UT 84104",
+    "phone": "(801) 363-4589",
+    "url": "https://www.nhutah.org/",
+    "categorySlug": "community",
+    "zipCode": "84104"
+  },
+  {
+    "name": "Neighborhood House",
+    "description": "Community center established in 1894 offering childcare, preschool, and family support services including a food pantry for enrolled families in the west Salt Lake City area.",
+    "address": "1050 W 500 S, Salt Lake City, UT 84104",
+    "phone": "(801) 363-4589",
+    "url": "https://www.nhutah.org/",
+    "categorySlug": "community",
+    "zipCode": "84104"
+  },
+  {
+    "name": "Neighborhood House",
+    "description": "Community center established in 1894 offering childcare, preschool, and family support services including a food pantry for enrolled families in the west Salt Lake City area.",
+    "address": "1050 W 500 S, Salt Lake City, UT 84104",
+    "phone": "(801) 363-4589",
+    "url": "https://www.nhutah.org/",
+    "categorySlug": "community",
+    "zipCode": "84104"
+  },
+  {
+    "name": "Rescue Mission of Salt Lake – Men's Facility and Homeless Service Center",
+    "description": "Faith-based shelter providing daily meals, overnight beds, showers, clothing, family food boxes, crisis counseling, and addiction recovery programs to homeless men in Salt Lake City.",
+    "address": "463 S 400 W, Salt Lake City, UT 84101",
+    "phone": "(801) 355-1302",
+    "url": "https://rescuesaltlake.org/",
+    "categorySlug": "housing",
+    "zipCode": "84101"
+  },
+  {
+    "name": "South Valley Services",
+    "description": "Provides safe shelter and 24/7 crisis support to survivors of domestic and sexual violence and their children, including a confidential emergency shelter, community resource center with advocacy, and a 24-hour hotline.",
+    "address": "8000 S Redwood Rd, Suite N150, West Jordan, UT 84084",
+    "phone": "(801) 255-1095",
+    "url": "https://svsutah.org",
+    "categorySlug": "housing",
+    "zipCode": "84084"
+  },
+  {
+    "name": "St. Joseph the Worker Catholic Church Food Pantry",
+    "description": "Parish food pantry providing weekly grocery distribution to West Jordan residents in need, operating on Tuesday evenings with no income verification required.",
+    "address": "7405 S Redwood Rd, West Jordan, UT 84084",
+    "phone": "(801) 739-3169",
+    "url": "https://sjwchurch.com/pages/outreach/FoodPantry.html",
+    "categorySlug": "food",
+    "zipCode": "84084"
+  },
+  {
+    "name": "Taylorsville Food Pantry",
+    "description": "Utah Food Bank partner pantry serving Taylorsville residents with grocery-style food distribution, no appointment needed during open hours.",
+    "address": "4775 S Plymouth View Dr, Taylorsville, UT 84123",
+    "phone": "(801) 815-0003",
+    "url": "https://taylorsvillepantry.com",
+    "categorySlug": "food",
+    "zipCode": "84123"
+  },
+  {
+    "name": "The Road Home – Family Resource Center",
+    "description": "Emergency shelter and transitional housing for families with children experiencing homelessness. Provides case management, meals, and connections to permanent housing resources.",
+    "address": "529 W 9th Ave, Midvale, UT 84047",
+    "phone": "(801) 569-1201",
+    "url": "https://theroadhome.org/resource-centers/",
+    "categorySlug": "housing",
+    "zipCode": "84047"
+  },
+  {
+    "name": "The Road Home – Family Resource Center",
+    "description": "Emergency shelter and transitional housing for families with children experiencing homelessness. Provides case management, meals, and connections to permanent housing resources.",
+    "address": "529 W 9th Ave, Midvale, UT 84047",
+    "phone": "(801) 569-1201",
+    "url": "https://theroadhome.org/resource-centers/",
+    "categorySlug": "housing",
+    "zipCode": "84047"
+  },
+  {
+    "name": "The Road Home – Family Resource Center",
+    "description": "Emergency shelter and transitional housing for families with children experiencing homelessness. Provides case management, meals, and connections to permanent housing resources.",
+    "address": "529 W 9th Ave, Midvale, UT 84047",
+    "phone": "(801) 569-1201",
+    "url": "https://theroadhome.org/resource-centers/",
+    "categorySlug": "housing",
+    "zipCode": "84047"
+  },
+  {
+    "name": "The Road Home – Pamela Atkinson Men's Resource Center",
+    "description": "300-bed emergency shelter for men open 365 days a year. Provides beds, three daily meals, showers, clothing, laundry, and case management to help guests find permanent housing.",
+    "address": "3380 S 1000 W, South Salt Lake, UT 84119",
+    "phone": "(801) 359-4142",
+    "url": "https://theroadhome.org/",
+    "categorySlug": "housing",
+    "zipCode": "84119"
+  },
+  {
+    "name": "The Road Home – Pamela Atkinson Men's Resource Center",
+    "description": "300-bed emergency shelter for men open 365 days a year. Provides beds, three daily meals, showers, clothing, laundry, and case management to help guests find permanent housing.",
+    "address": "3380 S 1000 W, South Salt Lake, UT 84119",
+    "phone": "(801) 359-4142",
+    "url": "https://theroadhome.org/",
+    "categorySlug": "housing",
+    "zipCode": "84119"
+  },
+  {
+    "name": "The Road Home – Pamela Atkinson Men's Resource Center",
+    "description": "300-bed emergency shelter for men open 365 days a year. Provides beds, three daily meals, showers, clothing, laundry, and case management to help guests find permanent housing.",
+    "address": "3380 S 1000 W, South Salt Lake, UT 84119",
+    "phone": "(801) 359-4142",
+    "url": "https://theroadhome.org/",
+    "categorySlug": "housing",
+    "zipCode": "84119"
+  },
+  {
+    "name": "Utah Food Bank – Main Warehouse",
+    "description": "Utah's largest food bank, distributing food through a network of 250+ partner agencies statewide. Provides emergency food boxes and connects individuals to nearby pantries.",
+    "address": "3150 S 900 W, Salt Lake City, UT 84119",
+    "phone": "(801) 978-2452",
+    "url": "https://www.utahfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "84119"
+  },
+  {
+    "name": "Utah Food Bank – Main Warehouse",
+    "description": "Utah's largest food bank, distributing food through a network of 250+ partner agencies statewide. Provides emergency food boxes and connects individuals to nearby pantries.",
+    "address": "3150 S 900 W, Salt Lake City, UT 84119",
+    "phone": "(801) 978-2452",
+    "url": "https://www.utahfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "84119"
+  },
+  {
+    "name": "Utah Food Bank – Main Warehouse",
+    "description": "Utah's largest food bank, distributing food through a network of 250+ partner agencies statewide. Provides emergency food boxes and connects individuals to nearby pantries.",
+    "address": "3150 S 900 W, Salt Lake City, UT 84119",
+    "phone": "(801) 978-2452",
+    "url": "https://www.utahfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "84119"
+  },
+  {
+    "name": "Utah Food Bank – West Jordan Mobile Pantry",
+    "description": "Monthly mobile food pantry operated by the Utah Food Bank, bringing free groceries directly to a West Jordan distribution site for households experiencing food insecurity.",
+    "address": "3930 W 7875 S, West Jordan, UT 84088",
+    "phone": "(801) 978-2452",
+    "url": "https://www.utahfoodbank.org/find-a-pantry/",
+    "categorySlug": "food",
+    "zipCode": "84088"
+  },
+  {
+    "name": "Utah Partners for Health – West Jordan Clinic",
+    "description": "Federally Qualified Health Center offering affordable primary medical care, dental, behavioral health, optometry, pharmacy, physical therapy, substance use treatment, and insurance enrollment on a sliding-fee scale.",
+    "address": "9103 S 1300 W, Suite 102, West Jordan, UT 84088",
+    "phone": "(801) 417-0131",
+    "url": "https://upfh.org",
+    "categorySlug": "healthcare",
+    "zipCode": "84088"
+  },
+  {
+    "name": "Valley Behavioral Health – Murray",
+    "description": "Utah's largest community mental health provider offering outpatient therapy, psychiatric medication management, substance use treatment, crisis intervention, and case management. Accepts Medicaid and offers sliding-scale fees.",
+    "address": "5965 S 900 E, Murray, UT 84121",
+    "phone": "(888) 949-4864",
+    "url": "https://valleycares.com",
+    "categorySlug": "healthcare",
+    "zipCode": "84121"
+  },
+  {
+    "name": "Volunteers of America Utah – Center for Women and Children",
+    "description": "Residential detoxification and recovery program for women with children, providing social-model detox, three daily meals, parenting support, recovery groups, and housing transition services.",
+    "address": "697 W 4170 South, Murray, UT 84123",
+    "phone": "(801) 261-9177",
+    "url": "https://www.voaut.org",
+    "categorySlug": "housing",
+    "zipCode": "84123"
+  },
+  {
+    "name": "Volunteers of America Utah – Geraldine E. King Women's Resource Center",
+    "description": "24/7 emergency shelter for women 18 and older experiencing homelessness, with case management and supportive services toward permanent housing.",
+    "address": "131 E 700 S, Salt Lake City, UT 84111",
+    "phone": "(801) 893-1500",
+    "url": "https://www.voaut.org/get-help/adult-homeless-services",
+    "categorySlug": "housing",
+    "zipCode": "84111"
+  },
+  {
+    "name": "Volunteers of America Utah – Youth Resource Center",
+    "description": "Drop-in resource center and emergency shelter for youth aged 15–22 experiencing or at risk of homelessness. Provides meals, showers, laundry, and case management.",
+    "address": "888 S 400 W, Salt Lake City, UT 84101",
+    "phone": "(801) 364-0744",
+    "url": "https://www.voaut.org/get-help/youth-homeless-services",
+    "categorySlug": "housing",
+    "zipCode": "84101"
+  },
+  {
+    "name": "San Juan County Public Health",
+    "description": "County public health department providing WIC nutrition assistance, immunizations, family planning, communicable disease services, and health education to residents of San Juan County.",
+    "address": "735 S 200 W Suite 2, Blanding, UT 84511",
+    "phone": "(435) 587-3838",
+    "url": "https://sanjuanpublichealth.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "84511"
+  },
+  {
+    "name": "San Juan Health Services – Blanding Clinic",
+    "description": "Outpatient primary care clinic serving Blanding and surrounding San Juan County communities, providing affordable medical care to low-income, uninsured, and underinsured patients.",
+    "address": "735 S 200 W, Blanding, UT 84511",
+    "phone": "(435) 678-2254",
+    "url": "https://sanjuanhealth.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "84511"
+  },
+  {
+    "name": "Utah Food Bank – Southeastern Distribution Center",
+    "description": "Regional food bank distribution center opened in 2024 serving San Juan County and the Navajo Nation, offering both fresh and non-perishable groceries to individuals and families five days a week.",
+    "address": "295 E 200 N, Blanding, UT 84511",
+    "phone": "(435) 674-5498",
+    "url": "https://www.utahfoodbank.org/about/southeastern-distribution-center/",
+    "categorySlug": "food",
+    "zipCode": "84511"
+  },
+  {
+    "name": "Central Utah Public Health Department – Manti Office",
+    "description": "Public health office providing immunizations, STI testing, family planning, WIC referrals, and disease prevention services to Sanpete County residents.",
+    "address": "125 N 100 E, Manti, UT 84642",
+    "phone": "(435) 835-2231",
+    "url": "https://centralutahhealth.gov/manti/",
+    "categorySlug": "healthcare",
+    "zipCode": "84642"
+  },
+  {
+    "name": "Intermountain Health – Sanpete Valley Hospital",
+    "description": "Critical access hospital serving all of Sanpete County with 24/7 emergency care, inpatient services, imaging, lab, surgery, OB-GYN, and telehealth specialty consultations.",
+    "address": "1100 S Medical Dr, Mount Pleasant, UT 84647",
+    "phone": "(435) 462-2441",
+    "url": "https://intermountainhealthcare.org/locations/sanpete-valley-hospital",
+    "categorySlug": "healthcare",
+    "zipCode": "84647"
+  },
+  {
+    "name": "Sanpete Pantry",
+    "description": "Community food pantry ensuring no Sanpete County resident goes hungry, with weekly food pickup hours in Mount Pleasant and mobile food drops serving Fayette, Manti, Ephraim, Gunnison, and all other Sanpete communities.",
+    "address": "1080 Blackhawk Blvd, Mount Pleasant, UT 84647",
+    "phone": "(435) 462-3006",
+    "url": "https://sanpetepantry.org/",
+    "categorySlug": "food",
+    "zipCode": "84647"
+  },
+  {
+    "name": "Christian Center of Park City – Food Pantry",
+    "description": "Free food pantry open to anyone in need in Summit and Wasatch counties, offering groceries, emergency assistance, Latino outreach, and counseling services.",
+    "address": "1283 Deer Valley Drive, Park City, UT 84060",
+    "phone": "(435) 649-2260",
+    "url": "https://ccofpc.org/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "84060"
+  },
+  {
+    "name": "Christian Center of Park City – Food Pantry",
+    "description": "Free food pantry open to anyone in need in Summit and Wasatch counties, offering groceries, emergency assistance, Latino outreach, and counseling services.",
+    "address": "1283 Deer Valley Drive, Park City, UT 84060",
+    "phone": "(435) 649-2260",
+    "url": "https://ccofpc.org/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "84060"
+  },
+  {
+    "name": "People's Health Clinic",
+    "description": "Volunteer-driven nonprofit clinic providing free, high-quality healthcare including primary care, mental health, and dental referrals to uninsured residents of Summit and Wasatch counties.",
+    "address": "650 Round Valley Drive, Park City, UT 84060",
+    "phone": "(435) 333-1851",
+    "url": "https://peopleshealthclinic.org",
+    "categorySlug": "healthcare",
+    "zipCode": "84060"
+  },
+  {
+    "name": "Ashley Valley Food Pantry",
+    "description": "Food pantry operated by the Uintah Basin Association of Governments serving Uintah County and Vernal area residents. Clients may receive one food box per month.",
+    "address": "426 East 200 South, Vernal, UT 84078",
+    "phone": "(435) 789-1014",
+    "url": "https://www.foodpantries.org/li/ashley_valley_food_pantry_84078",
+    "categorySlug": "food",
+    "zipCode": "84078"
+  },
+  {
+    "name": "Ashley Valley Food Pantry – Vernal",
+    "description": "Food pantry serving Uintah County residents operated by the Uintah Basin Association of Governments. Provides monthly food boxes to eligible households.",
+    "address": "426 E 200 S, Vernal, UT 84078",
+    "phone": "(435) 789-1014",
+    "url": "https://www.ubaog.org/community-services",
+    "categorySlug": "food",
+    "zipCode": "84078"
+  },
+  {
+    "name": "Uintah Basin Healthcare – Vernal Clinic",
+    "description": "Outpatient primary care and urgent care clinic in Vernal serving Uintah County, operated by Uintah Basin Healthcare. Offers family medicine, urgent care, and specialist visits.",
+    "address": "405 North 500 West Building 1 Suite 201, Vernal, UT 84078",
+    "phone": "(435) 789-1165",
+    "url": "https://ubh.org/basin-clinic/",
+    "categorySlug": "healthcare",
+    "zipCode": "84078"
+  },
+  {
+    "name": "Uintah Basin Healthcare – Vernal Clinic",
+    "description": "Outpatient primary care and urgent care clinic in Vernal serving Uintah County, operated by Uintah Basin Healthcare. Offers family medicine, urgent care, and specialist visits.",
+    "address": "405 North 500 West Building 1 Suite 201, Vernal, UT 84078",
+    "phone": "(435) 789-1165",
+    "url": "https://ubh.org/basin-clinic/",
+    "categorySlug": "healthcare",
+    "zipCode": "84078"
+  },
+  {
+    "name": "Agape Thrift Store and Food Pantry",
+    "description": "Thrift store and food pantry in Payson providing grocery items, senior food boxes, and donated goods to low-income individuals and families in southern Utah County.",
+    "address": "765 E 100 N, Payson, UT 84651",
+    "phone": "(801) 885-5523",
+    "url": "https://www.foodpantries.org/li/agape-thrift-and-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "84651"
+  },
+  {
+    "name": "Community Action Services and Food Bank – Provo",
+    "description": "Food bank and emergency assistance organization providing food pantry services, housing assistance, financial literacy, and wraparound support to Utah County residents since 1967.",
+    "address": "815 S Freedom Blvd, Provo, UT 84601",
+    "phone": "(801) 373-8200",
+    "url": "https://communityactionprovo.org/",
+    "categorySlug": "food",
+    "zipCode": "84601"
+  },
+  {
+    "name": "Community Action Services and Food Bank – Provo",
+    "description": "Food bank and emergency assistance organization providing food pantry services, housing assistance, financial literacy, and wraparound support to Utah County residents since 1967.",
+    "address": "815 S Freedom Blvd, Provo, UT 84601",
+    "phone": "(801) 373-8200",
+    "url": "https://communityactionprovo.org/",
+    "categorySlug": "food",
+    "zipCode": "84601"
+  },
+  {
+    "name": "Community Action Services and Food Bank – Provo",
+    "description": "Food bank and emergency assistance organization providing food pantry services, housing assistance, financial literacy, and wraparound support to Utah County residents since 1967.",
+    "address": "815 S Freedom Blvd, Provo, UT 84601",
+    "phone": "(801) 373-8200",
+    "url": "https://communityactionprovo.org/",
+    "categorySlug": "food",
+    "zipCode": "84601"
+  },
+  {
+    "name": "East Bay Health Center – Mountainlands",
+    "description": "FQHC satellite clinic co-located with the Food & Care Coalition, specializing in primary healthcare for individuals experiencing homelessness on a sliding-scale fee basis.",
+    "address": "299 E 900 S, Suite 101, Provo, UT 84606",
+    "phone": "(801) 429-2000",
+    "url": "https://www.mountainlands.org/eastbay",
+    "categorySlug": "healthcare",
+    "zipCode": "84606"
+  },
+  {
+    "name": "Food and Care Coalition – Provo",
+    "description": "Comprehensive resource center providing daily meals, hygiene services, showers, laundry, internet access, and transitional housing. Partners with health providers for on-site medical, dental, and mental health services.",
+    "address": "299 E 900 S, Provo, UT 84606",
+    "phone": "(801) 373-1825",
+    "url": "https://foodandcare.org/",
+    "categorySlug": "community",
+    "zipCode": "84606"
+  },
+  {
+    "name": "Food and Care Coalition – Provo",
+    "description": "Comprehensive resource center providing daily meals, hygiene services, showers, laundry, internet access, and transitional housing. Partners with health providers for on-site medical, dental, and mental health services.",
+    "address": "299 E 900 S, Provo, UT 84606",
+    "phone": "(801) 373-1825",
+    "url": "https://foodandcare.org/",
+    "categorySlug": "community",
+    "zipCode": "84606"
+  },
+  {
+    "name": "Food and Care Coalition – Provo",
+    "description": "Comprehensive resource center providing daily meals, hygiene services, showers, laundry, internet access, and transitional housing. Partners with health providers for on-site medical, dental, and mental health services.",
+    "address": "299 E 900 S, Provo, UT 84606",
+    "phone": "(801) 373-1825",
+    "url": "https://foodandcare.org/",
+    "categorySlug": "community",
+    "zipCode": "84606"
+  },
+  {
+    "name": "Housing Authority of Utah County",
+    "description": "Federal HUD-affiliated agency administering affordable housing programs for low-income individuals, seniors, and people with disabilities in Utah County, including Section 8 Housing Choice Vouchers.",
+    "address": "485 N Freedom Blvd, Provo, UT 84601",
+    "phone": "(801) 373-8333",
+    "url": "https://housinguc.org",
+    "categorySlug": "housing",
+    "zipCode": "84601"
+  },
+  {
+    "name": "Mountainlands Community Health Center – Provo",
+    "description": "Federally Qualified Health Center offering affordable medical, dental, mental health, and pharmacy services to Utah County residents regardless of insurance status.",
+    "address": "589 S State St, Provo, UT 84606",
+    "phone": "(801) 429-2000",
+    "url": "https://www.mountainlands.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "84606"
+  },
+  {
+    "name": "Mountainlands Community Health Center – Provo",
+    "description": "Federally Qualified Health Center offering affordable medical, dental, mental health, and pharmacy services to Utah County residents regardless of insurance status.",
+    "address": "589 S State St, Provo, UT 84606",
+    "phone": "(801) 429-2000",
+    "url": "https://www.mountainlands.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "84606"
+  },
+  {
+    "name": "Mountainlands Community Health Center – Provo",
+    "description": "Federally Qualified Health Center offering affordable medical, dental, mental health, and pharmacy services to Utah County residents regardless of insurance status.",
+    "address": "589 S State St, Provo, UT 84606",
+    "phone": "(801) 429-2000",
+    "url": "https://www.mountainlands.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "84606"
+  },
+  {
+    "name": "United Way of Utah County",
+    "description": "Nonprofit coordinating community resources across Utah County including 211 helpline referrals, Help Me Grow parenting support, community centers, tax-filing assistance, and food and housing assistance referrals.",
+    "address": "148 N 100 W, Provo, UT 84601",
+    "phone": "(801) 374-2591",
+    "url": "https://unitedwayuc.org",
+    "categorySlug": "community",
+    "zipCode": "84601"
+  },
+  {
+    "name": "Utah County Health Department – Clinical Services",
+    "description": "County public health department offering clinical services including STI testing and treatment, TB testing, immunizations, and community health programs for Utah County residents.",
+    "address": "151 S University Ave, Suite 1610, Provo, UT 84601",
+    "phone": "(801) 851-7025",
+    "url": "https://health.utahcounty.gov/clinical-services/",
+    "categorySlug": "healthcare",
+    "zipCode": "84601"
+  },
+  {
+    "name": "Utah County Health Department – Clinical Services",
+    "description": "County public health department offering clinical services including STI testing and treatment, TB testing, immunizations, and community health programs for Utah County residents.",
+    "address": "151 S University Ave, Suite 1610, Provo, UT 84601",
+    "phone": "(801) 851-7025",
+    "url": "https://health.utahcounty.gov/clinical-services/",
+    "categorySlug": "healthcare",
+    "zipCode": "84601"
+  },
+  {
+    "name": "Wasatch Behavioral Health",
+    "description": "Public comprehensive behavioral health center serving Utah and Wasatch Counties with mental health therapy, crisis services, substance use disorder treatment, children and youth programs, and criminal justice transition services.",
+    "address": "750 N Freedom Blvd, Provo, UT 84601",
+    "phone": "(801) 373-4760",
+    "url": "https://www.wasatch.org",
+    "categorySlug": "healthcare",
+    "zipCode": "84601"
+  },
+  {
+    "name": "DOVE Center",
+    "description": "Domestic violence and sexual assault crisis center providing confidential emergency shelter, 24-hour advocacy helpline, counseling, and legal advocacy services for Washington County residents.",
+    "address": "391 E 500 S, St. George, UT 84770",
+    "phone": "(435) 628-0458",
+    "url": "https://dovecenter.org",
+    "categorySlug": "housing",
+    "zipCode": "84770"
+  },
+  {
+    "name": "Family Support Center of Washington County",
+    "description": "Provides parenting classes, family counseling, crisis intervention, and community support programs to strengthen families and prevent child abuse and neglect in Washington County.",
+    "address": "310 W 200 N, St. George, UT 84770",
+    "phone": "(435) 674-5133",
+    "url": "https://utahfamilies.org/find-a-center/washington-county/",
+    "categorySlug": "community",
+    "zipCode": "84770"
+  },
+  {
+    "name": "Family Support Center of Washington County",
+    "description": "Provides parenting classes, family counseling, crisis intervention, and community support programs to strengthen families and prevent child abuse and neglect in Washington County.",
+    "address": "310 W 200 N, St. George, UT 84770",
+    "phone": "(435) 674-5133",
+    "url": "https://utahfamilies.org/find-a-center/washington-county/",
+    "categorySlug": "community",
+    "zipCode": "84770"
+  },
+  {
+    "name": "Southwest Behavioral Health Center",
+    "description": "Community mental health center providing outpatient behavioral health, substance use treatment, crisis services, and psychiatric care across Southern Utah.",
+    "address": "474 W 200 N, St. George, UT 84770",
+    "phone": "(435) 634-5600",
+    "url": "https://www.sbhc.us",
+    "categorySlug": "healthcare",
+    "zipCode": "84770"
+  },
+  {
+    "name": "St. George Food Pantry",
+    "description": "Local food pantry providing emergency food assistance to low-income families and individuals in the St. George and Washington County area.",
+    "address": "198 N 100 E, St. George, UT 84770",
+    "phone": "(435) 674-5757",
+    "url": "http://www.stgeorgefoodpantry.com/",
+    "categorySlug": "food",
+    "zipCode": "84770"
+  },
+  {
+    "name": "St. George Food Pantry",
+    "description": "Local food pantry providing emergency food assistance to low-income families and individuals in the St. George and Washington County area.",
+    "address": "198 N 100 E, St. George, UT 84770",
+    "phone": "(435) 674-5757",
+    "url": "http://www.stgeorgefoodpantry.com/",
+    "categorySlug": "food",
+    "zipCode": "84770"
+  },
+  {
+    "name": "St. George Food Pantry",
+    "description": "Local food pantry providing emergency food assistance to low-income families and individuals in the St. George and Washington County area.",
+    "address": "198 N 100 E, St. George, UT 84770",
+    "phone": "(435) 674-5757",
+    "url": "http://www.stgeorgefoodpantry.com/",
+    "categorySlug": "food",
+    "zipCode": "84770"
+  },
+  {
+    "name": "Switchpoint Community Resource Center – St. George",
+    "description": "24/7 homeless shelter and resource center empowering those in poverty by addressing underlying causes. Provides emergency shelter, food pantry, job training, and transitional housing in Washington County.",
+    "address": "948 N 1300 W, St. George, UT 84770",
+    "phone": "(435) 628-9310",
+    "url": "https://switchpoint.org/",
+    "categorySlug": "housing",
+    "zipCode": "84770"
+  },
+  {
+    "name": "Switchpoint Community Resource Center – St. George",
+    "description": "24/7 homeless shelter and resource center empowering those in poverty by addressing underlying causes. Provides emergency shelter, food pantry, job training, and transitional housing in Washington County.",
+    "address": "948 N 1300 W, St. George, UT 84770",
+    "phone": "(435) 628-9310",
+    "url": "https://switchpoint.org/",
+    "categorySlug": "housing",
+    "zipCode": "84770"
+  },
+  {
+    "name": "Switchpoint Community Resource Center – St. George",
+    "description": "24/7 homeless shelter and resource center empowering those in poverty by addressing underlying causes. Provides emergency shelter, food pantry, job training, and transitional housing in Washington County.",
+    "address": "948 N 1300 W, St. George, UT 84770",
+    "phone": "(435) 628-9310",
+    "url": "https://switchpoint.org/",
+    "categorySlug": "housing",
+    "zipCode": "84770"
+  },
+  {
+    "name": "Catholic Community Services of Northern Utah – Ogden",
+    "description": "Food pantry and social services organization in Ogden serving low-income and vulnerable residents with food distribution, emergency assistance, and senior-designated services.",
+    "address": "2504 F Ave, Ogden, UT 84401",
+    "phone": "(801) 394-5944",
+    "url": "https://ccsutah.org/ogden-programs",
+    "categorySlug": "food",
+    "zipCode": "84401"
+  },
+  {
+    "name": "Joyce Hansen Hall Food Bank",
+    "description": "Food pantry operated by Catholic Community Services of Utah providing free groceries to low-income households in the Ogden area, open Tuesday through Friday.",
+    "address": "2504 F Avenue, Ogden, UT 84401",
+    "phone": "(801) 394-5944",
+    "url": "https://www.ccsutah.org",
+    "categorySlug": "food",
+    "zipCode": "84401"
+  },
+  {
+    "name": "Lantern House – Ogden",
+    "description": "Northern Utah's largest homeless shelter providing 24/7 emergency shelter for individuals and families in crisis. Serves over 125,000 meals and 73,000 shelter nights annually at no charge.",
+    "address": "269 W 33rd St, Ogden, UT 84401",
+    "phone": "(801) 621-5036",
+    "url": "https://www.stannescenter.org/",
+    "categorySlug": "housing",
+    "zipCode": "84401"
+  },
+  {
+    "name": "Lantern House – Ogden",
+    "description": "Northern Utah's largest homeless shelter providing 24/7 emergency shelter for individuals and families in crisis. Serves over 125,000 meals and 73,000 shelter nights annually at no charge.",
+    "address": "269 W 33rd St, Ogden, UT 84401",
+    "phone": "(801) 621-5036",
+    "url": "https://www.stannescenter.org/",
+    "categorySlug": "housing",
+    "zipCode": "84401"
+  },
+  {
+    "name": "Lantern House – Ogden",
+    "description": "Northern Utah's largest homeless shelter providing 24/7 emergency shelter for individuals and families in crisis. Serves over 125,000 meals and 73,000 shelter nights annually at no charge.",
+    "address": "269 W 33rd St, Ogden, UT 84401",
+    "phone": "(801) 621-5036",
+    "url": "https://www.stannescenter.org/",
+    "categorySlug": "housing",
+    "zipCode": "84401"
+  },
+  {
+    "name": "Midtown Community Health Center – Ogden",
+    "description": "Federally Qualified Health Center providing affordable primary medical and dental care regardless of ability to pay, including family medicine, prenatal care, pediatrics, women's health, and chronic disease management.",
+    "address": "2240 Adams Avenue, Ogden, UT 84401",
+    "phone": "(801) 393-5355",
+    "url": "https://www.midtownchc.org",
+    "categorySlug": "healthcare",
+    "zipCode": "84401"
+  },
+  {
+    "name": "Ogden Rescue Mission",
+    "description": "Faith-based homeless service center providing safe shelter, meals, clothing, inpatient recovery programs, and free medical and dental care staffed by volunteer health professionals.",
+    "address": "2775 Wall Ave, Ogden, UT 84401",
+    "phone": "(801) 621-4360",
+    "url": "https://ogdenrescuemission.org/",
+    "categorySlug": "housing",
+    "zipCode": "84401"
+  },
+  {
+    "name": "Ogden Rescue Mission",
+    "description": "Faith-based homeless service center providing safe shelter, meals, clothing, inpatient recovery programs, and free medical and dental care staffed by volunteer health professionals.",
+    "address": "2775 Wall Ave, Ogden, UT 84401",
+    "phone": "(801) 621-4360",
+    "url": "https://ogdenrescuemission.org/",
+    "categorySlug": "housing",
+    "zipCode": "84401"
+  },
+  {
+    "name": "Ogden Rescue Mission",
+    "description": "Faith-based homeless service center providing safe shelter, meals, clothing, inpatient recovery programs, and free medical and dental care staffed by volunteer health professionals.",
+    "address": "2775 Wall Ave, Ogden, UT 84401",
+    "phone": "(801) 621-4360",
+    "url": "https://ogdenrescuemission.org/",
+    "categorySlug": "housing",
+    "zipCode": "84401"
+  },
+  {
+    "name": "Ogden-Weber Community Action Partnership (OWCAP)",
+    "description": "Community action organization offering emergency food assistance, energy assistance, housing support, and other services to low-income Weber County residents.",
+    "address": "2519 Jefferson Ave, Ogden, UT 84401",
+    "phone": "(801) 399-9281",
+    "url": "https://www.owcap.org/",
+    "categorySlug": "community",
+    "zipCode": "84401"
+  },
+  {
+    "name": "Ogden-Weber Community Action Partnership (OWCAP)",
+    "description": "Community action organization offering emergency food assistance, energy assistance, housing support, and other services to low-income Weber County residents.",
+    "address": "2519 Jefferson Ave, Ogden, UT 84401",
+    "phone": "(801) 399-9281",
+    "url": "https://www.owcap.org/",
+    "categorySlug": "community",
+    "zipCode": "84401"
+  },
+  {
+    "name": "Ogden-Weber Community Action Partnership (OWCAP)",
+    "description": "Community action organization offering emergency food assistance, energy assistance, housing support, and other services to low-income Weber County residents.",
+    "address": "2519 Jefferson Ave, Ogden, UT 84401",
+    "phone": "(801) 399-9281",
+    "url": "https://www.owcap.org/",
+    "categorySlug": "community",
+    "zipCode": "84401"
+  },
+  {
+    "name": "Salvation Army Ogden Corps",
+    "description": "Provides food assistance including a daily breakfast program, to-go lunch bags, and food boxes for families experiencing food insecurity. Also offers emergency social services.",
+    "address": "2615 Grant Avenue, Ogden, UT 84401",
+    "phone": "(801) 621-3580",
+    "url": "https://ogden.salvationarmy.org/ogden_corps",
+    "categorySlug": "food",
+    "zipCode": "84401"
+  },
+  {
+    "name": "Weber Human Services",
+    "description": "Designated local authority for mental health, substance abuse treatment, prevention programs, and aging services for Weber and Morgan County residents, including crisis stabilization and medication-assisted treatment.",
+    "address": "237 26th Street, Ogden, UT 84401",
+    "phone": "(801) 625-3700",
+    "url": "https://www.weberhs.org",
+    "categorySlug": "healthcare",
+    "zipCode": "84401"
+  },
+  {
+    "name": "Weber Human Services – Aging Division",
+    "description": "Provides in-home support, senior transportation, meal delivery, caregiver support, adult day services, and care coordination for elderly residents of Weber and Morgan Counties.",
+    "address": "237 26th Street, Ogden, UT 84401",
+    "phone": "(801) 625-3770",
+    "url": "https://www.weberhsaging.net",
+    "categorySlug": "community",
+    "zipCode": "84401"
+  }
+]

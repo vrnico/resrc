@@ -1,0 +1,2036 @@
+[
+  {
+    "name": "Catholic Charities Diocese of Fort Wayne-South Bend",
+    "description": "Provides financial assistance, immigration services, refugee resettlement, and social services to individuals and families throughout the Diocese of Fort Wayne–South Bend.",
+    "address": "915 S Clinton St, Fort Wayne, IN 46802",
+    "phone": "(260) 422-5625",
+    "url": "https://www.ccfwsb.org/",
+    "categorySlug": "community",
+    "zipCode": "46802"
+  },
+  {
+    "name": "Community Harvest Food Bank of Northeast Indiana",
+    "description": "The largest hunger relief organization in northeast Indiana, annually distributing nearly 13 million pounds of food to partner pantries and programs across Allen, Adams, DeKalb, Huntington, LaGrange, Noble, Steuben, Wells, and Whitley counties.",
+    "address": "999 E Tillman Rd, Fort Wayne, IN 46816",
+    "phone": "(260) 447-3696",
+    "url": "https://www.communityharvest.org/",
+    "categorySlug": "food",
+    "zipCode": "46816"
+  },
+  {
+    "name": "Fort Wayne Rescue Mission",
+    "description": "Provides emergency shelter, meals, clothing, and life recovery programs to homeless men, women, and children in Fort Wayne. Charis House offers residential housing and support services for women and children.",
+    "address": "404 E Washington Blvd, Fort Wayne, IN 46802",
+    "phone": "(260) 426-7357",
+    "url": "https://fwrm.org/",
+    "categorySlug": "housing",
+    "zipCode": "46802"
+  },
+  {
+    "name": "Northeast Indiana CAP (NEICAP)",
+    "description": "Community Action Agency providing Head Start, weatherization, utility assistance, and emergency food programs across multiple northeast Indiana counties including Steuben.",
+    "address": "529 E. Berry Street, Fort Wayne, IN 46802",
+    "phone": "(260) 422-4776",
+    "url": "https://www.neicap.org",
+    "categorySlug": "community",
+    "zipCode": "46802"
+  },
+  {
+    "name": "Parkview Behavioral Health Institute – Park Center",
+    "description": "Community Mental Health Center providing inpatient and outpatient mental health, addiction, and crisis services to Fort Wayne and surrounding northeast Indiana communities. Offers a 24-hour HelpLine and SOS Mobile Intervention Team.",
+    "address": "1900 Carew St, Fort Wayne, IN 46805",
+    "phone": "(260) 481-2700",
+    "url": "https://www.parkview.com/locations/parkview-behavioral-health-institute",
+    "categorySlug": "healthcare",
+    "zipCode": "46805"
+  },
+  {
+    "name": "Salvation Army Fort Wayne",
+    "description": "Provides a weekly food pantry, emergency shelter, utility assistance, and other social services to individuals and families experiencing hardship in the Fort Wayne area.",
+    "address": "Salvation Army, Fort Wayne, IN 46802",
+    "phone": "(260) 423-3485",
+    "url": "https://centralusa.salvationarmy.org/fortwayneIN/",
+    "categorySlug": "food",
+    "zipCode": "46802"
+  },
+  {
+    "name": "The Lighthouse Food Bank",
+    "description": "Food bank serving Fort Wayne and Allen County residents, open Monday–Thursday 10am–4pm and Friday noon–6pm. Provides food assistance to individuals and families in need.",
+    "address": "3000 E State Blvd, Fort Wayne, IN 46805",
+    "phone": "(260) 483-0180",
+    "url": "https://lhfw.org/our-services/food-bank/",
+    "categorySlug": "food",
+    "zipCode": "46805"
+  },
+  {
+    "name": "Wellspring Interfaith Social Services",
+    "description": "Faith-based organization serving Fort Wayne's central city residents with a food bank, clothing, youth programs, and case management to help individuals and families achieve stability.",
+    "address": "1316 Broadway, Fort Wayne, IN 46802",
+    "phone": "(260) 422-6618",
+    "url": "https://www.wellspringinterfaith.org/",
+    "categorySlug": "food",
+    "zipCode": "46802"
+  },
+  {
+    "name": "Love Chapel Food Pantry & Emergency Shelter",
+    "description": "Ministry of the Ecumenical Assembly of Bartholomew County Churches operating a large food pantry, emergency hot meals, temporary housing, and financial assistance for all Bartholomew County residents.",
+    "address": "311 Center St, Columbus, IN 47201",
+    "phone": "(812) 372-9421",
+    "url": "https://columbuslovechapel.com/",
+    "categorySlug": "food",
+    "zipCode": "47201"
+  },
+  {
+    "name": "Turning Point Domestic Violence Services",
+    "description": "Provides a 25-bed emergency shelter, 24-hour crisis helpline, court advocacy, and support services for survivors of domestic and dating violence across a seven-county area in south-central Indiana.",
+    "address": "Columbus, IN 47201",
+    "phone": "(800) 221-6311",
+    "url": "https://www.turningpointdv.org/",
+    "categorySlug": "housing",
+    "zipCode": "47201"
+  },
+  {
+    "name": "Community & Family Services, Inc. (Adams County)",
+    "description": "Community Action Agency providing a food pantry, energy assistance, and other support services to low-income individuals and families in Adams, Blackford, Huntington, Jay, Randolph, and Wells counties.",
+    "address": "1015 W Washington St, Hartford City, IN 47348",
+    "phone": "(765) 348-0744",
+    "url": "https://www.communityandfamilyservices.org/",
+    "categorySlug": "food",
+    "zipCode": "47348"
+  },
+  {
+    "name": "The Caring Center – Boone County",
+    "description": "Umbrella nonprofit providing food pantry, transitional housing, mobile food pantry, and emergency assistance to low-income residents of Boone County, Indiana.",
+    "address": "1230 Ransdell Court, Lebanon, IN 46052",
+    "phone": "(765) 482-2020",
+    "url": "https://thecaringcenter.net/",
+    "categorySlug": "housing",
+    "zipCode": "46052"
+  },
+  {
+    "name": "St. Vincent de Paul – Brown County",
+    "description": "All-volunteer organization providing food, clothing, housewares, furniture, and utility assistance to residents of Brown County. Features a 24/7 Little Pantry and weekly pop-up food distributions.",
+    "address": "Nashville, IN 47448",
+    "phone": "(812) 988-6560",
+    "url": "https://stvincentdepaulbrowncounty.com/",
+    "categorySlug": "food",
+    "zipCode": "47448"
+  },
+  {
+    "name": "Carroll County Food Pantry",
+    "description": "Food pantry serving Carroll County residents, open Monday and Friday 10am–noon. Provides food boxes to individuals and families in need in the Delphi area.",
+    "address": "618 N Washington St, Delphi, IN 46923",
+    "phone": "(765) 564-4879",
+    "url": "https://www.facebook.com/Carroll-County-Food-Pantry-Indiana-100068845764972/",
+    "categorySlug": "food",
+    "zipCode": "46923"
+  },
+  {
+    "name": "Emmaus Mission Center",
+    "description": "Christian ministry providing emergency shelter, food pantry, and clothing assistance to homeless individuals and families in Logansport and Cass County. The shelter offers a six-month recovery program with meals, housing, and life skills support.",
+    "address": "805 Spencer St, Logansport, IN 46947",
+    "phone": "(574) 739-0107",
+    "url": "https://www.logan-emmaus.org/",
+    "categorySlug": "housing",
+    "zipCode": "46947"
+  },
+  {
+    "name": "Catalyst Rescue Mission",
+    "description": "Provides emergency shelter, transitional housing, meals, and recovery programs to homeless men and women in the southern Indiana region including Jeffersonville, Clarksville, and New Albany.",
+    "address": "1727 DL Motley Way, Jeffersonville, IN 47130",
+    "phone": "(812) 285-1197",
+    "url": "https://catalystrescuemission.org/",
+    "categorySlug": "housing",
+    "zipCode": "47130"
+  },
+  {
+    "name": "Center for Lay Ministries – Food Pantry",
+    "description": "Food pantry open Monday–Friday 9am–3:30pm serving Clark County residents in Jeffersonville. Also provides addiction recovery and community support programs.",
+    "address": "213 E Maple St, Jeffersonville, IN 47130",
+    "phone": "(812) 282-0063",
+    "url": "https://centerforlayministries.org/",
+    "categorySlug": "food",
+    "zipCode": "47130"
+  },
+  {
+    "name": "Clark County Youth Shelter & Family Services",
+    "description": "Provides safe emergency shelter and support services for youth in Clark and Floyd counties who have no place to go. Also offers family resources and crisis intervention.",
+    "address": "118 E Chestnut St, Jeffersonville, IN 47130",
+    "phone": "(812) 284-5229",
+    "url": "https://www.ccysfs.org/",
+    "categorySlug": "housing",
+    "zipCode": "47130"
+  },
+  {
+    "name": "New Hope Services",
+    "description": "One of the largest nonprofits in southern Indiana, providing affordable housing, disability services, and family services across 23 counties. Headquartered in Jeffersonville and serving the Floyd County region.",
+    "address": "725 Wall St, Jeffersonville, IN 47130",
+    "phone": "(812) 822-8248",
+    "url": "https://www.newhopeservices.org/",
+    "categorySlug": "housing",
+    "zipCode": "47130"
+  },
+  {
+    "name": "Clinton County Community Action Program (CLINTONCAP)",
+    "description": "Community Action Agency serving Clinton County residents since 1965. Offers a food pantry open Monday–Thursday 7am–3:30pm, energy assistance, Head Start, and other support services for self-sufficiency.",
+    "address": "Frankfort, IN 46041",
+    "phone": "(765) 659-0274",
+    "url": "https://clintoncap.org/",
+    "categorySlug": "food",
+    "zipCode": "46041"
+  },
+  {
+    "name": "Salvation Army – Clinton County",
+    "description": "Provides food pantry services Monday, Wednesday, and Friday 9:30am–noon and 1–3pm, plus emergency financial assistance, utility help, and holiday programs for residents of Frankfort and Clinton County.",
+    "address": "300 W Washington St, Frankfort, IN 46041",
+    "phone": "(765) 654-7896",
+    "url": "https://centralusa.salvationarmy.org/",
+    "categorySlug": "food",
+    "zipCode": "46041"
+  },
+  {
+    "name": "Crawford County United Ministries",
+    "description": "Collaborates with local churches to provide a food pantry, emergency assistance, and other support services to Crawford County residents in Marengo and surrounding communities. Clients may visit monthly for food.",
+    "address": "Marengo, IN 47140",
+    "phone": "(812) 365-2167",
+    "url": "https://cometocrawford.com/business/crawford-county-united-ministries/",
+    "categorySlug": "food",
+    "zipCode": "47140"
+  },
+  {
+    "name": "Shelter Ministries (SonShine Ministries) – De Kalb County",
+    "description": "Christian nonprofit providing a food pantry (Monday 2–5pm, Thursday 5–7pm), emergency financial assistance, clothing through the Christmas Bureau, and limited emergency shelter for DeKalb County residents.",
+    "address": "1103 W Auburn Dr, Auburn, IN 46706",
+    "phone": "(260) 925-9200",
+    "url": "https://www.shelterministries.org/",
+    "categorySlug": "food",
+    "zipCode": "46706"
+  },
+  {
+    "name": "Dearborn County Clearinghouse Food Pantry",
+    "description": "Food pantry serving Dearborn and Ohio county residents, with locations in Aurora (Monday–Tuesday 10am–1pm) and Lawrenceburg (Wednesday 10am–4pm). Provides monthly groceries and daily cold lunch based on family size.",
+    "address": "411 George St, Aurora, IN 47001",
+    "phone": "(812) 926-1370",
+    "url": "https://dearbornclearinghouse.com/",
+    "categorySlug": "food",
+    "zipCode": "47001"
+  },
+  {
+    "name": "Human Services Inc. (HSI) – Decatur County Food Pantry",
+    "description": "Community Action Agency providing monthly drive-thru food pantry, utility assistance, and housing support to residents of Decatur and Shelby counties. Food pantry held monthly at the Greensburg location.",
+    "address": "1939 N Carver St, Greensburg, IN 47240",
+    "phone": "(812) 663-8830",
+    "url": "https://www.hsi-indiana.com/",
+    "categorySlug": "food",
+    "zipCode": "47240"
+  },
+  {
+    "name": "Community Action Program of East Central Indiana (CAPECI)",
+    "description": "Provides emergency assistance including food, utility help, and housing support to low-income residents of Henry and surrounding counties.",
+    "address": "2120 S 14th Street, Muncie, IN 47302",
+    "phone": "(765) 284-8143",
+    "url": "https://www.capeci.org",
+    "categorySlug": "community",
+    "zipCode": "47302"
+  },
+  {
+    "name": "Meridian Health Services",
+    "description": "Federally Qualified Health Center providing whole-person behavioral health, primary care, dental, addiction recovery, and children and family services to Muncie and East Central Indiana residents since 1975. Sliding fee scale available.",
+    "address": "240 N Tillotson Ave, Muncie, IN 47304",
+    "phone": "(765) 288-1928",
+    "url": "https://www.meridianhs.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "47304"
+  },
+  {
+    "name": "Muncie Mission Ministries",
+    "description": "Faith-based organization providing emergency homeless shelter, community meals, food pantry, clothing, addiction recovery, and life skills programs for men, women, and families in East Central Indiana.",
+    "address": "1725 S Liberty St, Muncie, IN 47302",
+    "phone": "(765) 288-9122",
+    "url": "https://munciemission.org/",
+    "categorySlug": "housing",
+    "zipCode": "47302"
+  },
+  {
+    "name": "Open Door Health Services",
+    "description": "Federally Qualified Health Center serving East Central Indiana since 1974. Provides primary care, urgent care, preventive care, dental, and specialty services on a sliding fee scale regardless of insurance or ability to pay.",
+    "address": "240 N Tillotson Ave, Muncie, IN 47304",
+    "phone": "(765) 286-7000",
+    "url": "https://www.opendoorhs.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "47304"
+  },
+  {
+    "name": "Second Harvest Food Bank of East Central Indiana",
+    "description": "The region's largest hunger-relief organization distributing over 7.6 million meals annually to partner pantries and programs across Blackford, Delaware, Grant, Henry, Jay, Madison, Randolph, and Wabash counties.",
+    "address": "6621 N Old State Rd 3, Muncie, IN 47303",
+    "phone": "(765) 287-8698",
+    "url": "https://curehunger.org/",
+    "categorySlug": "food",
+    "zipCode": "47303"
+  },
+  {
+    "name": "Second Harvest Food Bank of East Central Indiana",
+    "description": "Regional food bank serving Henry, Delaware, and surrounding counties. Distributes millions of pounds of food annually through a network of partner pantries and programs.",
+    "address": "1206 S 8th Street, Muncie, IN 47302",
+    "phone": "(765) 287-8698",
+    "url": "https://www.feeding.org",
+    "categorySlug": "food",
+    "zipCode": "47302"
+  },
+  {
+    "name": "Second Harvest Food Bank of East Central Indiana — Madison County",
+    "description": "Regional food bank serving Madison County with partner pantry network, mobile food distributions, and SNAP outreach to Anderson, Elwood, Pendleton, and Alexandria.",
+    "address": "1206 S 8th Street, Muncie, IN 47302",
+    "phone": "(765) 287-8698",
+    "url": "https://www.secondharvesteci.org",
+    "categorySlug": "food",
+    "zipCode": "47302"
+  },
+  {
+    "name": "Second Harvest Food Bank of East Central Indiana — Richmond Distribution",
+    "description": "Food bank distribution site serving Wayne County and eastern Indiana. Provides food to partner pantries and conducts SNAP enrollment assistance in the Richmond area.",
+    "address": "1206 S. 8th Street, Muncie, IN 47302",
+    "phone": "(765) 287-8698",
+    "url": "https://www.secondharvestindiana.org",
+    "categorySlug": "food",
+    "zipCode": "47302"
+  },
+  {
+    "name": "Community Food Bank – Dubois County",
+    "description": "Serves Dubois County residents experiencing food insecurity since 1987. Food pantry open Monday 1–3pm, Wednesday 6–8pm, and Saturday 10am–noon at the Jasper location.",
+    "address": "1404 Meridian Rd, Jasper, IN 47546",
+    "phone": "(812) 482-5050",
+    "url": "https://www.facebook.com/p/Community-Food-Bank-Inc-100064391515727/",
+    "categorySlug": "food",
+    "zipCode": "47546"
+  },
+  {
+    "name": "Church Community Services – Elkhart",
+    "description": "Food pantry serving income-eligible Elkhart County residents, open Monday, Wednesday, and Thursday 11am–3pm and Thursday evenings 4–7pm. Clients may shop for free groceries once per month.",
+    "address": "907 Oakland Ave, Elkhart, IN 46516",
+    "phone": "(574) 295-3673",
+    "url": "https://www.churchcommunityservices.org/",
+    "categorySlug": "food",
+    "zipCode": "46516"
+  },
+  {
+    "name": "Guidance Ministries – Elkhart",
+    "description": "Provides homeless services, a food pantry with non-perishable food boxes and hygiene items, and a soup kitchen to individuals in need in Elkhart and surrounding Elkhart County communities.",
+    "address": "216 N 2nd St, Elkhart, IN 46516",
+    "phone": "(574) 293-8502",
+    "url": "https://www.guidanceministries.com/",
+    "categorySlug": "housing",
+    "zipCode": "46516"
+  },
+  {
+    "name": "Oaklawn Psychiatric Center",
+    "description": "Leading behavioral health provider for St. Joseph County offering inpatient, outpatient, crisis, and community mental health and substance use treatment services.",
+    "address": "330 Lakeview Drive, Goshen, IN 46526",
+    "phone": "(574) 533-1234",
+    "url": "https://www.oaklawn.org",
+    "categorySlug": "healthcare",
+    "zipCode": "46526"
+  },
+  {
+    "name": "Oaklawn Psychiatric Center",
+    "description": "State-designated Community Mental Health Center for Elkhart and St. Joseph counties, providing inpatient and outpatient mental health, addiction treatment, and crisis services since 1962. Includes culturally sensitive services for the Amish community.",
+    "address": "330 Lakeview Dr, Goshen, IN 46526",
+    "phone": "(574) 533-1234",
+    "url": "https://oaklawn.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "46526"
+  },
+  {
+    "name": "The Shelter, Inc. – Connersville",
+    "description": "Nonprofit ministry dedicated to helping homeless and low-income individuals in Fayette County recover from poverty, offering food pantry, clothing, and emergency assistance.",
+    "address": "431 Western Ave W, Connersville, IN 47331",
+    "phone": "(765) 541-0071",
+    "url": "https://shelterconnersville.org/",
+    "categorySlug": "housing",
+    "zipCode": "47331"
+  },
+  {
+    "name": "LifeSpring Health Systems – New Albany",
+    "description": "Federally Qualified Health Center and Community Mental Health Center providing behavioral health, substance use disorder treatment, and primary care to residents of Clark, Floyd, and nine other southern Indiana counties since 1964.",
+    "address": "618 E Market St, New Albany, IN 47150",
+    "phone": "(812) 280-2080",
+    "url": "https://www.lifespringhealthsystems.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "47150"
+  },
+  {
+    "name": "River Valley Resources",
+    "description": "Nonprofit providing adult education, childcare development and family support services to low-income residents in southern Indiana including New Albany and surrounding counties.",
+    "address": "800 E 8th St, New Albany, IN 47150",
+    "phone": "(812) 949-4381",
+    "url": "https://www.rivervalleyresources.com/",
+    "categorySlug": "community",
+    "zipCode": "47150"
+  },
+  {
+    "name": "United Ministries of Fulton County",
+    "description": "Alleviates hunger in Fulton County by providing nutritious food to those in need. Food distribution held Monday, Wednesday, and Friday 1–3pm in Rochester.",
+    "address": "Rochester, IN 46975",
+    "phone": "(574) 223-4802",
+    "url": "https://www.facebook.com/UMFCI/",
+    "categorySlug": "food",
+    "zipCode": "46975"
+  },
+  {
+    "name": "Gibson County CAPE Food Pantry",
+    "description": "Community Action Program food pantry providing emergency non-perishable food to low-income individuals and families in Gibson County, open Monday, Wednesday, and Friday 9am–12:30pm and 1–5pm.",
+    "address": "115 N Prince St, Princeton, IN 47670",
+    "phone": "(812) 386-6576",
+    "url": "https://www.tristatefoodbank.org/find-help/more-resources",
+    "categorySlug": "food",
+    "zipCode": "47670"
+  },
+  {
+    "name": "Grant-Blackford Mental Health – Cornerstone Behavioral Health",
+    "description": "Not-for-profit Community Mental Health Center providing mental health and substance abuse services to individuals of all ages in Grant and Blackford counties since 1975. Includes inpatient, outpatient, and community support programs.",
+    "address": "505 Wabash Ave, Marion, IN 46952",
+    "phone": "(765) 662-3971",
+    "url": "https://www.in.gov/fssa/dmha/apply-for-services/mental-health-services/providers-for-adults/",
+    "categorySlug": "healthcare",
+    "zipCode": "46952"
+  },
+  {
+    "name": "Family Life Center Bloomfield",
+    "description": "Provides 24-hour accessible food pantry with refrigerators on the sidewalk, offering meat, dairy, eggs, produce, canned goods, and hygiene items to Greene County residents in Bloomfield.",
+    "address": "Bloomfield, IN 47424",
+    "phone": "(812) 384-4900",
+    "url": "https://www.familylifecenterbloomfield.com/",
+    "categorySlug": "food",
+    "zipCode": "47424"
+  },
+  {
+    "name": "Salvation Army – Greene County Service Extension",
+    "description": "Provides food pantry by appointment and emergency assistance to individuals and families in Greene County. Located in Bloomfield and serving Linton, Worthington, and surrounding communities.",
+    "address": "132 E Main St Ste 5, Bloomfield, IN 47424",
+    "phone": "(812) 325-1415",
+    "url": "https://www.salvationarmyusa.org/usn/",
+    "categorySlug": "food",
+    "zipCode": "47424"
+  },
+  {
+    "name": "Hamilton County Harvest Food Bank",
+    "description": "Serves as the central hub for hunger relief in Hamilton County, sourcing and distributing food to partner pantries throughout Noblesville, Carmel, Fishers, and Westfield.",
+    "address": "1605 N 10th St, Noblesville, IN 46060",
+    "phone": "(317) 439-9875",
+    "url": "https://hchfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "46060"
+  },
+  {
+    "name": "Prevail, Inc. of Hamilton County",
+    "description": "Independent nonprofit providing crisis intervention, shelter, court support, safety planning, and ongoing support to survivors of domestic violence, sexual assault, and crime in Hamilton, Hancock, Hendricks, Marion, and Tipton counties.",
+    "address": "1100 S 9th St Ste 100, Noblesville, IN 46060",
+    "phone": "(317) 773-6942",
+    "url": "https://prevailinc.org/",
+    "categorySlug": "housing",
+    "zipCode": "46060"
+  },
+  {
+    "name": "Hancock County Food Pantry",
+    "description": "Serves an average of 1,000 Hancock County households monthly with free groceries. Open Monday–Thursday at the Greenfield location; also operates a BackSack weekend meal program for schoolchildren.",
+    "address": "2040 W Main St, Greenfield, IN 46140",
+    "phone": "(317) 468-0273",
+    "url": "https://www.hancockcountyfoodpantry.net/",
+    "categorySlug": "food",
+    "zipCode": "46140"
+  },
+  {
+    "name": "Harrison County Community Services Inc. (HCCS)",
+    "description": "Point of entry for low-income human services in Harrison County since 1976. Provides a food pantry available to all county residents, clothing closet, and mobile food pantry outreach with Dare to Care Food Bank.",
+    "address": "101 Hwy 62 W, Corydon, IN 47112",
+    "phone": "(812) 738-8143",
+    "url": "https://www.hccsi.net/",
+    "categorySlug": "food",
+    "zipCode": "47112"
+  },
+  {
+    "name": "Family Promise of Hendricks County",
+    "description": "Nonprofit transforming the lives of families experiencing homelessness in Hendricks County through emergency shelter, homelessness prevention, childcare, rent/utility assistance, and stability services.",
+    "address": "238 N Vine St, Plainfield, IN 46168",
+    "phone": "(317) 839-5870",
+    "url": "https://familypromisehendrickscounty.org/",
+    "categorySlug": "housing",
+    "zipCode": "46168"
+  },
+  {
+    "name": "New Castle/Henry County Food Pantry",
+    "description": "Emergency food pantry operated by local churches serving Henry County residents in need. Distributes groceries and household items to qualifying families.",
+    "address": "430 Broad Street, New Castle, IN 47362",
+    "phone": "(765) 521-7002",
+    "url": "https://www.unitedwayhcin.org",
+    "categorySlug": "food",
+    "zipCode": "47362"
+  },
+  {
+    "name": "Salvation Army – Henry County",
+    "description": "Provides food pantry services and emergency assistance to individuals and families in Henry County and the New Castle area.",
+    "address": "New Castle, IN 47362",
+    "phone": "(765) 529-3030",
+    "url": "https://centralusa.salvationarmy.org/henrycounty/",
+    "categorySlug": "food",
+    "zipCode": "47362"
+  },
+  {
+    "name": "Community Howard Regional Health Foundation",
+    "description": "Supports community health initiatives in Howard County including access to care programs, wellness resources, and social determinants of health interventions.",
+    "address": "3500 S LaFountain Street, Kokomo, IN 46902",
+    "phone": "(765) 453-8444",
+    "url": "https://www.communityhoward.org",
+    "categorySlug": "healthcare",
+    "zipCode": "46902"
+  },
+  {
+    "name": "Family Service Association of Howard County",
+    "description": "Provides counseling, emergency assistance, housing case management, and family support services to residents of Howard County and surrounding areas.",
+    "address": "1614 W Sycamore Street, Kokomo, IN 46901",
+    "phone": "(765) 457-4479",
+    "url": "https://www.fsahc.org",
+    "categorySlug": "community",
+    "zipCode": "46901"
+  },
+  {
+    "name": "Kokomo Rescue Mission",
+    "description": "Faith-based nonprofit providing emergency shelter, meals, clothing, and recovery programs for homeless men in Howard County. Also operates a women and children's shelter.",
+    "address": "1316 N Buckeye Street, Kokomo, IN 46901",
+    "phone": "(765) 459-3838",
+    "url": "https://www.kokomorm.org",
+    "categorySlug": "housing",
+    "zipCode": "46901"
+  },
+  {
+    "name": "LifeSpring Health Systems — Kokomo",
+    "description": "Federally Qualified Health Center providing primary care, behavioral health, dental, and substance use treatment services on a sliding fee scale for Howard County residents.",
+    "address": "2200 S Washington Street, Kokomo, IN 46902",
+    "phone": "(765) 454-6074",
+    "url": "https://www.lifespring.org",
+    "categorySlug": "healthcare",
+    "zipCode": "46902"
+  },
+  {
+    "name": "Second Harvest Food Bank North Central Indiana — Kokomo Distribution",
+    "description": "One of Indiana's largest food banks, serving Howard County and 16 north-central counties. Operates food distribution, mobile pantry, and SNAP outreach programs from Kokomo.",
+    "address": "1613 N Armstrong Street, Kokomo, IN 46901",
+    "phone": "(765) 453-3513",
+    "url": "https://www.secondharvest.org",
+    "categorySlug": "food",
+    "zipCode": "46901"
+  },
+  {
+    "name": "Huntington County Community Services",
+    "description": "Provides emergency financial assistance, utility support, food pantry access, and referral services to Huntington County residents facing hardship.",
+    "address": "5 N Jefferson Street, Huntington, IN 46750",
+    "phone": "(260) 356-9600",
+    "url": "https://www.hccsonline.org",
+    "categorySlug": "community",
+    "zipCode": "46750"
+  },
+  {
+    "name": "Huntington County Food Pantry",
+    "description": "Emergency food pantry serving low-income Huntington County residents. Provides grocery distributions and supplemental food assistance to families in need.",
+    "address": "35 W Tipton Street, Huntington, IN 46750",
+    "phone": "(260) 356-5620",
+    "url": "https://www.unitedwayhuntington.org",
+    "categorySlug": "food",
+    "zipCode": "46750"
+  },
+  {
+    "name": "Jackson County CARES Food Pantry",
+    "description": "Faith-based emergency food assistance serving Seymour and Jackson County residents. Provides monthly grocery distributions and holiday food programs.",
+    "address": "1600 N O'Brien Street, Seymour, IN 47274",
+    "phone": "(812) 522-8223",
+    "url": "https://www.jacksoncountycares.org",
+    "categorySlug": "food",
+    "zipCode": "47274"
+  },
+  {
+    "name": "Schneck Medical Center Community Health",
+    "description": "Community health programs associated with Schneck Medical Center in Jackson County, offering wellness screenings, chronic disease management, and referrals to social services.",
+    "address": "411 W Tipton Street, Seymour, IN 47274",
+    "phone": "(812) 522-2349",
+    "url": "https://www.schneckmed.org",
+    "categorySlug": "healthcare",
+    "zipCode": "47274"
+  },
+  {
+    "name": "Seymour Community Services — Turning Point",
+    "description": "Provides shelter, transitional housing, and support services to homeless individuals and families in Jackson County. Also offers domestic violence intervention programs.",
+    "address": "217 N Chestnut Street, Seymour, IN 47274",
+    "phone": "(812) 523-4441",
+    "url": "https://www.turningpointjackson.org",
+    "categorySlug": "housing",
+    "zipCode": "47274"
+  },
+  {
+    "name": "Jasper County Community Services",
+    "description": "Provides emergency financial assistance, food pantry access, utility support, and social service referrals to low-income residents of Jasper County including Rensselaer.",
+    "address": "900 W Kellner Blvd, Rensselaer, IN 47978",
+    "phone": "(219) 866-4972",
+    "url": "https://www.jaspercountyindiana.gov",
+    "categorySlug": "community",
+    "zipCode": "47978"
+  },
+  {
+    "name": "Jasper County Food Pantry",
+    "description": "Emergency food pantry serving Jasper County families including Rensselaer and Wheatfield. Distributes monthly food boxes and holiday food baskets to qualifying households.",
+    "address": "114 N Van Rensselaer Street, Rensselaer, IN 47978",
+    "phone": "(219) 866-7855",
+    "url": "https://www.stjosephrensselaer.org",
+    "categorySlug": "food",
+    "zipCode": "47978"
+  },
+  {
+    "name": "Jay County Community Action Program",
+    "description": "Offers emergency assistance, weatherization, Head Start, and food pantry services to low-income Jay County residents in the Portland area.",
+    "address": "118 W Arch Street, Portland, IN 47371",
+    "phone": "(260) 726-9318",
+    "url": "https://www.jaycountycap.org",
+    "categorySlug": "community",
+    "zipCode": "47371"
+  },
+  {
+    "name": "Jay County Food Bank",
+    "description": "Distributes food to families and individuals in Portland and across Jay County. Partners with Feeding Indiana's Hungry member food banks to supplement local distributions.",
+    "address": "1005 E Arch Street, Portland, IN 47371",
+    "phone": "(260) 726-7907",
+    "url": "https://www.feedingindianashungry.org",
+    "categorySlug": "food",
+    "zipCode": "47371"
+  },
+  {
+    "name": "Jefferson County Community Action Program",
+    "description": "Provides utility assistance, emergency shelter, Head Start, and case management services to low-income families and individuals in Jefferson County including Madison.",
+    "address": "318 E Second Street, Madison, IN 47250",
+    "phone": "(812) 265-5858",
+    "url": "https://www.jeffersoncountycap.org",
+    "categorySlug": "community",
+    "zipCode": "47250"
+  },
+  {
+    "name": "King's Daughters' Health — Community Services",
+    "description": "Provides community benefit programs and charity care for Jefferson County residents, including health screenings, support groups, and social service coordination.",
+    "address": "One King's Daughters Drive, Madison, IN 47250",
+    "phone": "(812) 265-5211",
+    "url": "https://www.kingsdaughtershospital.org",
+    "categorySlug": "healthcare",
+    "zipCode": "47250"
+  },
+  {
+    "name": "Madison Area Food Bank",
+    "description": "Operates food distributions and partners with local pantries to reduce food insecurity across Jefferson County. Serves Madison, Hanover, and rural communities.",
+    "address": "315 W Second Street, Madison, IN 47250",
+    "phone": "(812) 265-3377",
+    "url": "https://www.kingsdaughtershospital.org/community",
+    "categorySlug": "food",
+    "zipCode": "47250"
+  },
+  {
+    "name": "Jennings County Community Services",
+    "description": "Provides emergency financial assistance, food distribution, utility help, and social service referrals to low-income residents of Jennings County in Vernon and North Vernon.",
+    "address": "100 N Wilson Avenue, North Vernon, IN 47265",
+    "phone": "(812) 346-2284",
+    "url": "https://www.jenningscountyin.gov",
+    "categorySlug": "community",
+    "zipCode": "47265"
+  },
+  {
+    "name": "Aspire Indiana Health — Johnson County",
+    "description": "Federally Qualified Health Center providing integrated primary care, behavioral health, and substance use treatment on a sliding fee scale in Johnson County.",
+    "address": "350 Woodard Street, Greenwood, IN 46142",
+    "phone": "(317) 574-1252",
+    "url": "https://www.aspireindiana.org",
+    "categorySlug": "healthcare",
+    "zipCode": "46142"
+  },
+  {
+    "name": "Johnson County Community Services",
+    "description": "Offers emergency financial assistance, housing support, food pantry referrals, and case management for low-income residents of Johnson County including Franklin.",
+    "address": "86 W Court Street, Franklin, IN 46131",
+    "phone": "(317) 738-7100",
+    "url": "https://www.co.johnson.in.us/community-services",
+    "categorySlug": "community",
+    "zipCode": "46131"
+  },
+  {
+    "name": "Good Samaritan Hospital — Knox County Community Health",
+    "description": "Provides community health programs, charity care, and social service referrals for Knox County residents through Good Samaritan Hospital in Vincennes.",
+    "address": "520 S 7th Street, Vincennes, IN 47591",
+    "phone": "(812) 882-5220",
+    "url": "https://www.gshvin.org",
+    "categorySlug": "healthcare",
+    "zipCode": "47591"
+  },
+  {
+    "name": "Knox County Food Pantry",
+    "description": "Emergency food assistance for families and individuals in Vincennes and Knox County. Distributes food boxes monthly and operates a holiday food program.",
+    "address": "826 Broadway Street, Vincennes, IN 47591",
+    "phone": "(812) 882-7700",
+    "url": "https://www.catholiccharitiesevansvilleregion.org",
+    "categorySlug": "food",
+    "zipCode": "47591"
+  },
+  {
+    "name": "Vincennes University Food Pantry — Patriot Pantry",
+    "description": "On-campus food pantry serving Vincennes University students facing food insecurity. Open to enrolled students during the academic year.",
+    "address": "1002 N First Street, Vincennes, IN 47591",
+    "phone": "(812) 888-5348",
+    "url": "https://www.vinu.edu/student-affairs/student-services",
+    "categorySlug": "food",
+    "zipCode": "47591"
+  },
+  {
+    "name": "Kosciusko Community Hospital — Community Wellness",
+    "description": "Provides community wellness programs, free health screenings, and social service navigation for Kosciusko County residents including Warsaw and Winona Lake.",
+    "address": "2101 E DuBois Drive, Warsaw, IN 46580",
+    "phone": "(574) 267-3200",
+    "url": "https://www.kchnow.com",
+    "categorySlug": "healthcare",
+    "zipCode": "46580"
+  },
+  {
+    "name": "Kosciusko County CARES Food Pantry",
+    "description": "Provides monthly food distributions and emergency food assistance to families in Warsaw and across Kosciusko County. Operated in partnership with local churches.",
+    "address": "1400 Provident Drive, Warsaw, IN 46580",
+    "phone": "(574) 267-8831",
+    "url": "https://www.koscap.org",
+    "categorySlug": "food",
+    "zipCode": "46580"
+  },
+  {
+    "name": "Warsaw Community Food Pantry",
+    "description": "Walk-in food pantry providing emergency groceries to Warsaw-area residents. Open three days per week and offers seasonal holiday food baskets.",
+    "address": "800 S Lake Street, Warsaw, IN 46580",
+    "phone": "(574) 267-5800",
+    "url": "https://www.warsawcommunity.org",
+    "categorySlug": "food",
+    "zipCode": "46580"
+  },
+  {
+    "name": "Dunebrook — La Porte County",
+    "description": "Provides domestic violence shelter, sexual assault services, prevention education, and crisis intervention for La Porte County and Michigan City-area residents.",
+    "address": "400 E Boyd Street, La Porte, IN 46350",
+    "phone": "(219) 879-4615",
+    "url": "https://www.dunebrook.org",
+    "categorySlug": "housing",
+    "zipCode": "46350"
+  },
+  {
+    "name": "La Porte County Community Pantry",
+    "description": "Emergency food pantry providing groceries and household supplies to low-income La Porte County residents. Distributes several times per month from the La Porte location.",
+    "address": "100 E Boyd Street, La Porte, IN 46350",
+    "phone": "(219) 362-7050",
+    "url": "https://www.laportecountycap.org",
+    "categorySlug": "food",
+    "zipCode": "46350"
+  },
+  {
+    "name": "Michigan City Area Schools Community Food Pantry",
+    "description": "Food pantry serving families with children in the Michigan City area school district, providing weekend food packs, holiday meals, and emergency grocery assistance.",
+    "address": "408 S Carroll Avenue, Michigan City, IN 46360",
+    "phone": "(219) 873-2000",
+    "url": "https://www.mcas.k12.in.us",
+    "categorySlug": "food",
+    "zipCode": "46360"
+  },
+  {
+    "name": "Salvation Army — Michigan City Corps",
+    "description": "Provides emergency food boxes, utility assistance, disaster relief, and seasonal programs including Thanksgiving meals and Christmas toy drives for Michigan City-area families.",
+    "address": "416 Franklin Street, Michigan City, IN 46360",
+    "phone": "(219) 872-1567",
+    "url": "https://centralusa.salvationarmy.org/michigan-city",
+    "categorySlug": "community",
+    "zipCode": "46360"
+  },
+  {
+    "name": "Trail Creek Health Center — HealthLinc",
+    "description": "Federally Qualified Health Center offering primary care, dental, behavioral health, and sliding-fee services to Michigan City and La Porte County residents regardless of insurance status.",
+    "address": "1207 E Michigan Boulevard, Michigan City, IN 46360",
+    "phone": "(219) 873-5000",
+    "url": "https://www.healthlinc.org",
+    "categorySlug": "healthcare",
+    "zipCode": "46360"
+  },
+  {
+    "name": "Lagrange County Community Services",
+    "description": "Provides emergency financial assistance, food pantry, utility help, and social service coordination for Lagrange County residents including Lagrange city and Shipshewana.",
+    "address": "109 N Detroit Street, Lagrange, IN 46761",
+    "phone": "(260) 463-7722",
+    "url": "https://www.lagrangecountyin.gov",
+    "categorySlug": "community",
+    "zipCode": "46761"
+  },
+  {
+    "name": "Food Bank of Northwest Indiana — La Porte Distribution",
+    "description": "Northwest Indiana's primary regional food bank, operating food distribution programs throughout La Porte County and serving partner pantries in La Porte and surrounding communities.",
+    "address": "6400 Broadway, Merrillville, IN 46410",
+    "phone": "(219) 980-1777",
+    "url": "https://www.foodbanknwi.org",
+    "categorySlug": "food",
+    "zipCode": "46410"
+  },
+  {
+    "name": "Gary Urban League",
+    "description": "Provides job training, housing counseling, youth programs, and economic empowerment services to African American and low-income residents of Gary and Lake County.",
+    "address": "3101 Broadway, Gary, IN 46408",
+    "phone": "(219) 887-9621",
+    "url": "https://www.garyurbanleague.org",
+    "categorySlug": "community",
+    "zipCode": "46408"
+  },
+  {
+    "name": "Hammond Community Food Pantry — Catholic Charities Lake County",
+    "description": "Operated by Catholic Charities Diocese of Gary, this pantry provides emergency food boxes, nutrition assistance, and referrals to other social services for Hammond residents.",
+    "address": "5246 Hohman Avenue, Hammond, IN 46320",
+    "phone": "(219) 938-1161",
+    "url": "https://www.catholiccharitiesgary.org",
+    "categorySlug": "food",
+    "zipCode": "46320"
+  },
+  {
+    "name": "Lakeshore Community Services",
+    "description": "Provides supportive housing, emergency shelter, mental health services, and case management for homeless and at-risk individuals and families across Lake County.",
+    "address": "5246 Hohman Avenue, Hammond, IN 46320",
+    "phone": "(219) 931-1900",
+    "url": "https://www.lakeshorecommservices.org",
+    "categorySlug": "housing",
+    "zipCode": "46320"
+  },
+  {
+    "name": "Methodist Hospital Southlake — Community Health",
+    "description": "Provides community benefit programs, health screenings, and social service navigation for residents of Merrillville, Dyer, and south Lake County communities.",
+    "address": "8701 Broadway, Merrillville, IN 46410",
+    "phone": "(219) 738-5500",
+    "url": "https://www.comhs.org/methodist-hospitals",
+    "categorySlug": "healthcare",
+    "zipCode": "46410"
+  },
+  {
+    "name": "North Shore Health Centers",
+    "description": "Federally Qualified Health Center providing primary care, dental, behavioral health, and HIV services on a sliding fee scale for East Chicago, Gary, and northwest Lake County residents.",
+    "address": "3801 Grand Boulevard, East Chicago, IN 46312",
+    "phone": "(219) 392-1400",
+    "url": "https://www.northshorehealthcenters.org",
+    "categorySlug": "healthcare",
+    "zipCode": "46312"
+  },
+  {
+    "name": "Salvation Army — Hammond Corps",
+    "description": "Provides emergency food, utility assistance, shelter referrals, disaster relief, and seasonal programs for Hammond residents and surrounding Lake County communities.",
+    "address": "5827 Columbia Avenue, Hammond, IN 46320",
+    "phone": "(219) 931-3232",
+    "url": "https://centralusa.salvationarmy.org/hammond",
+    "categorySlug": "community",
+    "zipCode": "46320"
+  },
+  {
+    "name": "Whiting Community Center",
+    "description": "Provides community programs, senior services, recreational activities, and social service referrals for residents of Whiting and surrounding Lake County communities.",
+    "address": "1938 Clark Street, Whiting, IN 46394",
+    "phone": "(219) 659-0860",
+    "url": "https://www.cityofwhiting.com/community-center",
+    "categorySlug": "community",
+    "zipCode": "46394"
+  },
+  {
+    "name": "Community Action Program of Western Indiana — Lawrence County",
+    "description": "Provides Head Start, energy assistance, emergency food, and housing support to low-income Lawrence County families in the Bedford area.",
+    "address": "1500 J Street, Bedford, IN 47421",
+    "phone": "(812) 275-3344",
+    "url": "https://www.capwi.org",
+    "categorySlug": "community",
+    "zipCode": "47421"
+  },
+  {
+    "name": "Lawrence County Community Breadbasket",
+    "description": "Food pantry and community resource center serving Bedford and Lawrence County residents. Provides grocery distributions, emergency food boxes, and referrals to additional services.",
+    "address": "1116 16th Street, Bedford, IN 47421",
+    "phone": "(812) 279-7531",
+    "url": "https://www.lcbreadbasket.org",
+    "categorySlug": "food",
+    "zipCode": "47421"
+  },
+  {
+    "name": "Community Table — Anderson",
+    "description": "Operates a food pantry and community meal program serving Anderson and Madison County residents. Provides daily meals and grocery assistance to individuals experiencing food insecurity.",
+    "address": "1615 Main Street, Anderson, IN 46016",
+    "phone": "(765) 642-3922",
+    "url": "https://www.communitytablein.org",
+    "categorySlug": "food",
+    "zipCode": "46016"
+  },
+  {
+    "name": "Madison County Community Shelter",
+    "description": "Operates emergency and transitional shelter for homeless men, women, and families in Anderson. Provides case management, housing support, and connections to community resources.",
+    "address": "1320 W 8th Street, Anderson, IN 46016",
+    "phone": "(765) 643-8161",
+    "url": "https://www.unitedwaymc.org",
+    "categorySlug": "housing",
+    "zipCode": "46016"
+  },
+  {
+    "name": "Salvation Army — Anderson Corps",
+    "description": "Provides emergency food, utility assistance, shelter referrals, and seasonal programs including Thanksgiving meals and Christmas assistance for Anderson and Madison County families.",
+    "address": "1326 E 8th Street, Anderson, IN 46012",
+    "phone": "(765) 642-5681",
+    "url": "https://centralusa.salvationarmy.org/anderson",
+    "categorySlug": "community",
+    "zipCode": "46012"
+  },
+  {
+    "name": "Beech Grove Community Food Pantry",
+    "description": "Emergency food pantry serving Beech Grove and southeast Marion County residents. Distributes grocery items and household staples to families in need on a walk-in basis.",
+    "address": "5012 Howard Street, Beech Grove, IN 46107",
+    "phone": "(317) 784-5700",
+    "url": "https://www.beechgrovecommunity.org",
+    "categorySlug": "food",
+    "zipCode": "46107"
+  },
+  {
+    "name": "Catholic Charities Indianapolis",
+    "description": "Provides immigration and refugee services, food pantry access, counseling, housing assistance, and emergency social services to Indianapolis and central Indiana residents regardless of faith.",
+    "address": "1430 N Meridian Street, Indianapolis, IN 46202",
+    "phone": "(317) 236-1500",
+    "url": "https://www.archindy.org/catholiccharities",
+    "categorySlug": "community",
+    "zipCode": "46202"
+  },
+  {
+    "name": "Christamore House",
+    "description": "Community settlement house serving the Haughville neighborhood on Indianapolis's west side since 1905. Provides youth programs, senior services, food assistance, job training, and community health programs.",
+    "address": "502 N Tremont Street, Indianapolis, IN 46222",
+    "phone": "(317) 635-7211",
+    "url": "https://www.christamorehouse.org",
+    "categorySlug": "community",
+    "zipCode": "46222"
+  },
+  {
+    "name": "Eskenazi Health — FQHC Indianapolis",
+    "description": "Marion County's primary safety-net health system and Federally Qualified Health Center, providing comprehensive primary care, specialty care, dental, mental health, and substance use services on a sliding fee scale.",
+    "address": "720 Eskenazi Avenue, Indianapolis, IN 46202",
+    "phone": "(317) 880-0000",
+    "url": "https://www.eskenazihealth.edu",
+    "categorySlug": "healthcare",
+    "zipCode": "46202"
+  },
+  {
+    "name": "Gleaners Food Bank of Indiana — Indianapolis",
+    "description": "One of Indiana's largest food banks, serving Marion and 21 surrounding counties. Distributes tens of millions of pounds of food annually through partner agencies, mobile pantry, and direct programs.",
+    "address": "3737 Waldemere Avenue, Indianapolis, IN 46241",
+    "phone": "(317) 925-0191",
+    "url": "https://www.gleaners.org",
+    "categorySlug": "food",
+    "zipCode": "46241"
+  },
+  {
+    "name": "Horizon House — Indianapolis",
+    "description": "Provides day shelter, case management, housing placement assistance, and social services to adults experiencing homelessness in downtown Indianapolis. Serves hundreds of guests daily.",
+    "address": "1033 E Washington Street, Indianapolis, IN 46202",
+    "phone": "(317) 637-4673",
+    "url": "https://www.horizonhouseindy.org",
+    "categorySlug": "housing",
+    "zipCode": "46202"
+  },
+  {
+    "name": "IU Health — Community Health Programs",
+    "description": "IU Health's community benefit programs in Indianapolis include mobile health clinics, chronic disease management, free screenings, and neighborhood-level health initiatives in underserved Marion County zip codes.",
+    "address": "1701 N Senate Avenue, Indianapolis, IN 46202",
+    "phone": "(317) 962-2000",
+    "url": "https://iuhealth.org/community-health",
+    "categorySlug": "healthcare",
+    "zipCode": "46202"
+  },
+  {
+    "name": "Lawrence Township Trustee Emergency Assistance",
+    "description": "Provides township-level emergency aid including rental assistance, utility payments, and food vouchers to Lawrence Township residents in northeastern Marion County facing acute hardship.",
+    "address": "8810 Woodfield Crossing Blvd, Indianapolis, IN 46240",
+    "phone": "(317) 545-9548",
+    "url": "https://www.lawrencetownship.org",
+    "categorySlug": "community",
+    "zipCode": "46240"
+  },
+  {
+    "name": "Neighborhood Christian Legal Clinic",
+    "description": "Provides free legal services to low-income Indianapolis residents including housing, family law, and immigration matters. Serves clients across Marion County from multiple neighborhood locations.",
+    "address": "625 E Washington Street, Indianapolis, IN 46204",
+    "phone": "(317) 429-4131",
+    "url": "https://www.nclclaw.org",
+    "categorySlug": "community",
+    "zipCode": "46204"
+  },
+  {
+    "name": "Northside Community Church Food Pantry",
+    "description": "Community food pantry serving Nora and north Indianapolis residents with weekly grocery distributions, fresh produce, and holiday food assistance.",
+    "address": "8450 N Payne Road, Indianapolis, IN 46268",
+    "phone": "(317) 251-9365",
+    "url": "https://www.northsidecommunity.org",
+    "categorySlug": "food",
+    "zipCode": "46268"
+  },
+  {
+    "name": "Partners in Housing — Indianapolis",
+    "description": "Provides transitional and permanent supportive housing with intensive case management for chronically homeless adults in Indianapolis, with a focus on Housing First principles.",
+    "address": "3220 N Meridian Street, Indianapolis, IN 46208",
+    "phone": "(317) 925-2834",
+    "url": "https://www.partnersinhousingindy.org",
+    "categorySlug": "housing",
+    "zipCode": "46208"
+  },
+  {
+    "name": "RecoveryWorks — Indianapolis",
+    "description": "Provides substance use disorder treatment, residential recovery, and outpatient services for adults in Indianapolis and Marion County. Accepts Medicaid and offers sliding fee options.",
+    "address": "1050 Wishard Boulevard, Indianapolis, IN 46202",
+    "phone": "(317) 880-0040",
+    "url": "https://www.eskenazihealth.edu/programs/recovery-works",
+    "categorySlug": "healthcare",
+    "zipCode": "46202"
+  },
+  {
+    "name": "Southside Community Center Food Pantry",
+    "description": "Serves low-income families in Southport and the south Indianapolis area (46227, 46217) with emergency food distributions and referrals to additional resources.",
+    "address": "1800 Churchman Avenue, Indianapolis, IN 46203",
+    "phone": "(317) 784-5857",
+    "url": "https://www.unitedwayci.org",
+    "categorySlug": "food",
+    "zipCode": "46203"
+  },
+  {
+    "name": "Wheeler Mission Ministries — Indianapolis",
+    "description": "Faith-based organization providing emergency shelter, meals, recovery programs, and job readiness for homeless men and women in Indianapolis. Operates multiple shelter campuses.",
+    "address": "245 N Delaware Street, Indianapolis, IN 46204",
+    "phone": "(317) 635-3575",
+    "url": "https://www.wheelermission.org",
+    "categorySlug": "housing",
+    "zipCode": "46204"
+  },
+  {
+    "name": "Marshall County Community Services",
+    "description": "Provides emergency financial assistance, housing support, utility help, and social service coordination for Plymouth, Culver, Bremen, and all Marshall County residents.",
+    "address": "112 W Jefferson Street, Plymouth, IN 46563",
+    "phone": "(574) 935-8582",
+    "url": "https://www.marshallcountyin.gov/community-services",
+    "categorySlug": "community",
+    "zipCode": "46563"
+  },
+  {
+    "name": "Martin County Community Services",
+    "description": "Provides emergency assistance, food pantry referrals, utility support, and social service coordination for Shoals and Martin County residents.",
+    "address": "129 N Main Street, Shoals, IN 47581",
+    "phone": "(812) 247-2215",
+    "url": "https://www.martincountyin.gov",
+    "categorySlug": "community",
+    "zipCode": "47581"
+  },
+  {
+    "name": "Miami County Community Services",
+    "description": "Provides emergency financial assistance, utility help, food pantry access, and social service referrals for Peru, Bunker Hill, Converse, and all Miami County residents.",
+    "address": "34 N Broadway, Peru, IN 46970",
+    "phone": "(765) 473-6657",
+    "url": "https://www.miamicountyin.gov",
+    "categorySlug": "community",
+    "zipCode": "46970"
+  },
+  {
+    "name": "Centerstone — Bloomington",
+    "description": "Provides outpatient and residential mental health, substance use disorder treatment, and crisis services for Monroe County and surrounding communities on a sliding fee scale.",
+    "address": "645 S Rogers Street, Bloomington, IN 47403",
+    "phone": "(812) 339-1691",
+    "url": "https://www.centerstone.org",
+    "categorySlug": "healthcare",
+    "zipCode": "47403"
+  },
+  {
+    "name": "Hoosier Hills Food Bank",
+    "description": "Regional food bank serving Monroe and seven surrounding counties in south-central Indiana. Distributes millions of pounds of food annually through partner agencies, mobile pantry, and direct programs in Bloomington.",
+    "address": "1345 W Industrial Park Drive, Bloomington, IN 47404",
+    "phone": "(812) 334-8374",
+    "url": "https://www.hhfoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "47404"
+  },
+  {
+    "name": "IU Health Bloomington — Community Health",
+    "description": "Community benefit programs through IU Health Bloomington Hospital, including free health screenings, chronic disease management, social needs navigation, and charity care for Monroe County residents.",
+    "address": "601 W Second Street, Bloomington, IN 47403",
+    "phone": "(812) 336-6821",
+    "url": "https://iuhealth.org/bloomington",
+    "categorySlug": "healthcare",
+    "zipCode": "47403"
+  },
+  {
+    "name": "Middle Way House — Bloomington",
+    "description": "Provides emergency shelter, transitional housing, legal advocacy, and support services for survivors of domestic violence and sexual assault in Monroe County.",
+    "address": "P.O. Box 85, Bloomington, IN 47402",
+    "phone": "(812) 336-0846",
+    "url": "https://www.middlewayhouse.org",
+    "categorySlug": "housing",
+    "zipCode": "47401"
+  },
+  {
+    "name": "Shalom Community Center — Bloomington",
+    "description": "Day shelter and resource center for people experiencing homelessness in Bloomington. Provides meals, case management, ID recovery, housing navigation, and community programs.",
+    "address": "304 S Washington Street, Bloomington, IN 47401",
+    "phone": "(812) 334-1400",
+    "url": "https://www.shalomcommunitycenter.org",
+    "categorySlug": "housing",
+    "zipCode": "47401"
+  },
+  {
+    "name": "South Central Community Action Program (SCCAP) — Bloomington",
+    "description": "Community action agency providing Head Start, energy assistance, housing support, and food access programs for low-income families in Bloomington and Monroe County.",
+    "address": "1500 W 15th Street, Bloomington, IN 47404",
+    "phone": "(812) 339-3447",
+    "url": "https://www.sccapin.org",
+    "categorySlug": "community",
+    "zipCode": "47404"
+  },
+  {
+    "name": "Montgomery County Community Services — Crawfordsville",
+    "description": "Provides emergency financial assistance, food pantry coordination, utility support, and social service referrals for Crawfordsville and Montgomery County residents.",
+    "address": "300 E Pike Street, Crawfordsville, IN 47933",
+    "phone": "(765) 362-6103",
+    "url": "https://www.montgomerycountyin.gov",
+    "categorySlug": "community",
+    "zipCode": "47933"
+  },
+  {
+    "name": "Mooresville Community Food Pantry",
+    "description": "Serves Mooresville and north Morgan County families with monthly grocery distributions and emergency food assistance. Managed by area churches and community volunteers.",
+    "address": "345 N Indiana Street, Mooresville, IN 46158",
+    "phone": "(317) 831-7676",
+    "url": "https://www.mooresvillepantry.org",
+    "categorySlug": "food",
+    "zipCode": "46158"
+  },
+  {
+    "name": "Morgan County Community Action Program",
+    "description": "Provides Head Start, housing assistance, energy aid, and emergency food access for low-income Morgan County families in Martinsville and Mooresville.",
+    "address": "180 S Main Street, Martinsville, IN 46151",
+    "phone": "(765) 342-3558",
+    "url": "https://www.morgancountycap.org",
+    "categorySlug": "community",
+    "zipCode": "46151"
+  },
+  {
+    "name": "Newton County Community Services",
+    "description": "Provides emergency assistance, food pantry referrals, utility support, and case management for low-income Newton County residents in Kentland and Morocco.",
+    "address": "201 N 3rd Street, Kentland, IN 47951",
+    "phone": "(219) 474-6651",
+    "url": "https://www.newtoncountyin.gov",
+    "categorySlug": "community",
+    "zipCode": "47951"
+  },
+  {
+    "name": "Noble County Community Services",
+    "description": "Provides emergency financial assistance, utility help, food pantry coordination, and social service referrals for Noble County residents including Albion, Kendallville, and Ligonier.",
+    "address": "101 N Orange Street, Albion, IN 46701",
+    "phone": "(260) 636-2116",
+    "url": "https://www.noblecountyin.gov",
+    "categorySlug": "community",
+    "zipCode": "46701"
+  },
+  {
+    "name": "Ohio County Community Services — Rising Sun",
+    "description": "Provides emergency assistance, food pantry referrals, and social service coordination for Ohio County residents in Rising Sun and surrounding rural communities.",
+    "address": "413 Main Street, Rising Sun, IN 47040",
+    "phone": "(812) 438-4080",
+    "url": "https://www.ohiocountyin.gov",
+    "categorySlug": "community",
+    "zipCode": "47040"
+  },
+  {
+    "name": "Orange County Community Services — Paoli",
+    "description": "Provides emergency financial assistance, utility support, food pantry access, and social service referrals for Orange County residents including Paoli, French Lick, and West Baden Springs.",
+    "address": "205 W Main Street, Paoli, IN 47454",
+    "phone": "(812) 723-3515",
+    "url": "https://www.orangecountyin.gov",
+    "categorySlug": "community",
+    "zipCode": "47454"
+  },
+  {
+    "name": "Owen County Community Services",
+    "description": "Provides emergency food assistance, utility help, and referral services to low-income residents of Owen County. Partners with area food banks and churches to serve Spencer and surrounding communities.",
+    "address": "100 W. Main Street, Spencer, IN 47460",
+    "phone": "(812) 829-2255",
+    "url": "https://www.co.owen.in.us",
+    "categorySlug": "community",
+    "zipCode": "47460"
+  },
+  {
+    "name": "Parke County Community Food Pantry",
+    "description": "Volunteer-operated emergency food pantry distributing groceries to Parke County households in need. Located in Rockville and serving residents throughout the county.",
+    "address": "215 N. Market Street, Rockville, IN 47872",
+    "phone": "(765) 569-5548",
+    "url": "https://www.unitedwayofparkecounty.org",
+    "categorySlug": "food",
+    "zipCode": "47872"
+  },
+  {
+    "name": "Parke County Youth and Family Resource Center",
+    "description": "Community services organization providing family support, youth programs, and referrals to emergency assistance including food and housing in Parke County.",
+    "address": "210 W. High Street, Rockville, IN 47872",
+    "phone": "(765) 569-3731",
+    "url": "https://www.pkyfc.org",
+    "categorySlug": "community",
+    "zipCode": "47872"
+  },
+  {
+    "name": "Perry County Community Services",
+    "description": "Local Community Action Agency offering emergency food assistance, utility payment help, weatherization, and other anti-poverty services to Perry County residents.",
+    "address": "1105 Broadway Street, Tell City, IN 47586",
+    "phone": "(812) 547-3826",
+    "url": "https://www.pccs-inc.org",
+    "categorySlug": "community",
+    "zipCode": "47586"
+  },
+  {
+    "name": "Perry County Council on Aging",
+    "description": "Provides meal programs, transportation, and supportive services to older adults in Perry County including Tell City and Cannelton. Operates senior nutrition sites and home-delivered meals.",
+    "address": "808 Thirteenth Street, Tell City, IN 47586",
+    "phone": "(812) 547-7094",
+    "url": "https://www.perrycountycouncilonaging.org",
+    "categorySlug": "community",
+    "zipCode": "47586"
+  },
+  {
+    "name": "St. Joseph Catholic Church Food Pantry — Tell City",
+    "description": "Parish-based food pantry providing monthly emergency grocery distributions to low-income families in Tell City and Perry County.",
+    "address": "429 Jefferson Street, Tell City, IN 47586",
+    "phone": "(812) 547-2595",
+    "url": "https://www.sjtelicity.org",
+    "categorySlug": "food",
+    "zipCode": "47586"
+  },
+  {
+    "name": "Troy Food Pantry",
+    "description": "Faith-based food pantry serving residents of Troy and southern Perry County. Distributes emergency groceries and household supplies to families in need.",
+    "address": "9945 Main Cross Street, Troy, IN 47588",
+    "phone": "(812) 547-7191",
+    "url": "https://www.stjoehospital.org/community",
+    "categorySlug": "food",
+    "zipCode": "47588"
+  },
+  {
+    "name": "Pike County Community Services",
+    "description": "Community Action Agency providing emergency assistance including food, utility help, housing support, and referrals to social services for Pike County residents in Petersburg.",
+    "address": "801 E. Walnut Street, Petersburg, IN 47567",
+    "phone": "(812) 354-6318",
+    "url": "https://www.pikecountyindiana.gov",
+    "categorySlug": "community",
+    "zipCode": "47567"
+  },
+  {
+    "name": "Chesterton Area Food Pantry",
+    "description": "Community food pantry serving Chesterton and western Porter County. Distributes food packages and connects clients with other social services in the region.",
+    "address": "418 Indiana Avenue, Chesterton, IN 46304",
+    "phone": "(219) 926-7012",
+    "url": "https://www.chestertonareafoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "46304"
+  },
+  {
+    "name": "Opportunity Enterprises — La Porte County",
+    "description": "Provides vocational training, employment support, and community integration services for adults with disabilities in La Porte County. Also offers residential support services.",
+    "address": "2801 Evans Avenue, Valparaiso, IN 46383",
+    "phone": "(219) 464-9621",
+    "url": "https://www.opportunityenterprises.org",
+    "categorySlug": "community",
+    "zipCode": "46383"
+  },
+  {
+    "name": "Portage Food Pantry",
+    "description": "Volunteer-run emergency food pantry serving residents of Portage and northern Porter County. Provides groceries, hygiene items, and referrals to additional social services.",
+    "address": "6490 US Highway 6, Portage, IN 46368",
+    "phone": "(219) 763-2373",
+    "url": "https://www.portagecommunityfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "46368"
+  },
+  {
+    "name": "Porter-Starke Services",
+    "description": "Behavioral health center providing mental health counseling, substance use treatment, and crisis services to adults and youth throughout Porter County.",
+    "address": "601 Wall Street, Valparaiso, IN 46383",
+    "phone": "(219) 531-3500",
+    "url": "https://www.porterstarke.org",
+    "categorySlug": "healthcare",
+    "zipCode": "46383"
+  },
+  {
+    "name": "Valparaiso Community Food Pantry",
+    "description": "Emergency food distribution serving Valparaiso and surrounding Porter County communities. Provides groceries, household supplies, and referrals to additional assistance programs.",
+    "address": "1005 Wall Street, Valparaiso, IN 46383",
+    "phone": "(219) 462-4677",
+    "url": "https://www.valpocommunityservices.org",
+    "categorySlug": "food",
+    "zipCode": "46383"
+  },
+  {
+    "name": "Mount Vernon Food Pantry",
+    "description": "Faith-based food pantry distributing emergency groceries to low-income individuals and families in Posey County. Serves Mount Vernon and surrounding rural communities.",
+    "address": "615 Main Street, Mount Vernon, IN 47620",
+    "phone": "(812) 838-2927",
+    "url": "https://www.unitedwayofposeycounty.org",
+    "categorySlug": "food",
+    "zipCode": "47620"
+  },
+  {
+    "name": "Posey County Community Services",
+    "description": "Community Action Agency serving Posey County residents in Mount Vernon with emergency food, utility assistance, housing support, and Head Start early education programs.",
+    "address": "420 E. Fourth Street, Mount Vernon, IN 47620",
+    "phone": "(812) 838-4331",
+    "url": "https://www.poseycountyindiana.gov",
+    "categorySlug": "community",
+    "zipCode": "47620"
+  },
+  {
+    "name": "Pulaski County Community Services",
+    "description": "Local human services agency providing emergency food assistance, utility help, and case management for low-income residents of Pulaski County including Winamac and Medaryville.",
+    "address": "120 N. Monticello Street, Winamac, IN 46996",
+    "phone": "(574) 946-6127",
+    "url": "https://www.pulaskicountyindiana.gov",
+    "categorySlug": "community",
+    "zipCode": "46996"
+  },
+  {
+    "name": "Winamac Food Pantry",
+    "description": "Volunteer food pantry serving Winamac and Pulaski County households facing food insecurity. Distributes donated groceries and connects clients with regional food bank resources.",
+    "address": "301 E. Main Street, Winamac, IN 46996",
+    "phone": "(574) 946-3823",
+    "url": "https://www.northernindianacap.org",
+    "categorySlug": "food",
+    "zipCode": "46996"
+  },
+  {
+    "name": "Greencastle Food Pantry",
+    "description": "Volunteer-operated emergency food pantry serving Greencastle and Putnam County. Distributes food packages weekly to households facing food insecurity.",
+    "address": "215 S. Indiana Street, Greencastle, IN 46135",
+    "phone": "(765) 653-9286",
+    "url": "https://www.unitedwayofputnamcounty.org",
+    "categorySlug": "food",
+    "zipCode": "46135"
+  },
+  {
+    "name": "Putnam County Community Services",
+    "description": "Community Action Agency providing emergency food assistance, utility help, housing support, and case management services to low-income Putnam County residents in Greencastle.",
+    "address": "210 N. Jackson Street, Greencastle, IN 46135",
+    "phone": "(765) 653-4063",
+    "url": "https://www.putnamcountyindiana.com",
+    "categorySlug": "community",
+    "zipCode": "46135"
+  },
+  {
+    "name": "Putnam County Hospital — Community Health",
+    "description": "Critical access hospital in Greencastle offering primary care, emergency services, and community health programs for Putnam County residents on sliding fee assistance.",
+    "address": "1542 Bloomington Street, Greencastle, IN 46135",
+    "phone": "(765) 653-5121",
+    "url": "https://www.pchosp.org",
+    "categorySlug": "healthcare",
+    "zipCode": "46135"
+  },
+  {
+    "name": "Randolph County Community Services",
+    "description": "Local Community Action Agency offering emergency assistance including food pantry, utility payment help, and referrals to housing services for Randolph County residents.",
+    "address": "107 N. Main Street, Winchester, IN 47394",
+    "phone": "(765) 584-0421",
+    "url": "https://www.randolphcountyindiana.gov",
+    "categorySlug": "community",
+    "zipCode": "47394"
+  },
+  {
+    "name": "Union City Food Pantry",
+    "description": "Community food distribution site serving Union City area residents in eastern Randolph County. Provides emergency groceries to families in need.",
+    "address": "410 N. Columbia Street, Union City, IN 47390",
+    "phone": "(765) 964-3434",
+    "url": "https://www.uccommunityfood.org",
+    "categorySlug": "food",
+    "zipCode": "47390"
+  },
+  {
+    "name": "Winchester Community Food Pantry",
+    "description": "Emergency food pantry serving Winchester and Randolph County residents. Provides monthly food distributions and referrals to additional social services.",
+    "address": "221 E. Washington Street, Winchester, IN 47394",
+    "phone": "(765) 584-1400",
+    "url": "https://www.randolphcountycommunity.org",
+    "categorySlug": "food",
+    "zipCode": "47394"
+  },
+  {
+    "name": "Batesville Area Food Pantry",
+    "description": "Community food pantry serving Batesville and southeastern Ripley County. Distributes food packages and connects residents with additional Southeastern Indiana social services.",
+    "address": "121 S. Park Avenue, Batesville, IN 47006",
+    "phone": "(812) 934-3491",
+    "url": "https://www.batesvillecommunityassistance.org",
+    "categorySlug": "food",
+    "zipCode": "47006"
+  },
+  {
+    "name": "Margaret Mary Health — Community Programs",
+    "description": "Regional hospital serving Ripley and surrounding counties, offering primary care, community health programs, and financial assistance for qualifying patients in Batesville.",
+    "address": "321 Mitchell Avenue, Batesville, IN 47006",
+    "phone": "(812) 934-6624",
+    "url": "https://www.mmhealth.org",
+    "categorySlug": "healthcare",
+    "zipCode": "47006"
+  },
+  {
+    "name": "Ripley County Community Services",
+    "description": "Community Action Agency providing emergency food, utility assistance, and housing support to low-income residents of Ripley County including Versailles, Osgood, and surrounding areas.",
+    "address": "109 E. Main Street, Versailles, IN 47042",
+    "phone": "(812) 689-5491",
+    "url": "https://www.ripleycountyindiana.gov",
+    "categorySlug": "community",
+    "zipCode": "47042"
+  },
+  {
+    "name": "Versailles Area Food Pantry",
+    "description": "Volunteer food pantry distributing emergency groceries to Ripley County households. Serves Versailles, Osgood, and surrounding rural communities on a regular basis.",
+    "address": "220 S. Adams Street, Versailles, IN 47042",
+    "phone": "(812) 689-6303",
+    "url": "https://www.unitedwayripley.org",
+    "categorySlug": "food",
+    "zipCode": "47042"
+  },
+  {
+    "name": "Rush County Community Services",
+    "description": "Local human services agency in Rushville providing emergency food assistance, utility help, housing case management, and referrals to social services for Rush County residents.",
+    "address": "315 N. Main Street, Rushville, IN 46173",
+    "phone": "(765) 938-2781",
+    "url": "https://www.rushcountyindiana.gov",
+    "categorySlug": "community",
+    "zipCode": "46173"
+  },
+  {
+    "name": "Rushville Food Pantry",
+    "description": "Volunteer-operated emergency food pantry serving Rushville and Rush County. Provides monthly food distributions to low-income families and individuals.",
+    "address": "138 E. First Street, Rushville, IN 46173",
+    "phone": "(765) 932-4110",
+    "url": "https://www.rushcountyfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "46173"
+  },
+  {
+    "name": "Scott County Community Action",
+    "description": "Community Action Agency serving Scott County with emergency food assistance, utility help, housing support, and Head Start programs for families in Scottsburg.",
+    "address": "91 N. First Street, Scottsburg, IN 47170",
+    "phone": "(812) 752-3949",
+    "url": "https://www.scottcountyindiana.gov",
+    "categorySlug": "community",
+    "zipCode": "47170"
+  },
+  {
+    "name": "Scottsburg Food Pantry",
+    "description": "Emergency food pantry operated by local churches serving Scott County residents. Distributes groceries and household items to low-income families on a monthly basis.",
+    "address": "35 S. Main Street, Scottsburg, IN 47170",
+    "phone": "(812) 752-5020",
+    "url": "https://www.scottsburgfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "47170"
+  },
+  {
+    "name": "Shelby County Community Services",
+    "description": "Local human services agency providing emergency food, utility assistance, housing support, and referrals for residents of Shelby County including Shelbyville and Morristown.",
+    "address": "1251 E. State Road 44, Shelbyville, IN 46176",
+    "phone": "(317) 392-3231",
+    "url": "https://www.shelbycountyindiana.gov",
+    "categorySlug": "community",
+    "zipCode": "46176"
+  },
+  {
+    "name": "Shelbyville Food Pantry",
+    "description": "Volunteer food pantry distributing emergency groceries to Shelby County households. Provides food packages and referrals to utility and housing assistance programs.",
+    "address": "618 E. Broadway Street, Shelbyville, IN 46176",
+    "phone": "(317) 398-0282",
+    "url": "https://www.shelbycountyfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "46176"
+  },
+  {
+    "name": "Rockport Food Pantry",
+    "description": "Community food pantry distributing emergency groceries to Spencer County families. Serves Rockport and surrounding communities including Dale and Gentryville.",
+    "address": "409 Walnut Street, Rockport, IN 47635",
+    "phone": "(812) 649-9178",
+    "url": "https://www.rockportfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "47635"
+  },
+  {
+    "name": "Spencer County Community Services",
+    "description": "Community Action Agency providing emergency food, utility assistance, and housing support to low-income residents of Spencer County including Dale, Rockport, and Gentryville.",
+    "address": "305 Main Street, Rockport, IN 47635",
+    "phone": "(812) 649-2345",
+    "url": "https://www.spencercountyindiana.gov",
+    "categorySlug": "community",
+    "zipCode": "47635"
+  },
+  {
+    "name": "Beacon Health System — Community Health",
+    "description": "Regional health system serving St. Joseph County with community health programs, free clinics, and financial assistance for uninsured and underinsured patients at Mishawaka campuses.",
+    "address": "615 N. Michigan Street, South Bend, IN 46601",
+    "phone": "(574) 647-1000",
+    "url": "https://www.beaconhealthsystem.org",
+    "categorySlug": "healthcare",
+    "zipCode": "46601"
+  },
+  {
+    "name": "Center for the Homeless",
+    "description": "South Bend's comprehensive homeless services provider offering emergency shelter, transitional housing, case management, employment training, and mental health services for adults and families.",
+    "address": "813 S. Michigan Street, South Bend, IN 46601",
+    "phone": "(574) 288-4842",
+    "url": "https://www.centerfortehomeless.org",
+    "categorySlug": "housing",
+    "zipCode": "46601"
+  },
+  {
+    "name": "Community Food Pantry of Mishawaka",
+    "description": "Emergency food distribution serving Mishawaka and surrounding St. Joseph County communities. Provides weekly food boxes and connects clients with additional social services.",
+    "address": "1212 E. Second Street, Mishawaka, IN 46544",
+    "phone": "(574) 255-3718",
+    "url": "https://www.mishawakacommunityfood.org",
+    "categorySlug": "food",
+    "zipCode": "46544"
+  },
+  {
+    "name": "Food Bank of Northern Indiana",
+    "description": "Regional food bank serving 16 counties across northern Indiana through a network of 200+ partner agencies. Distributes millions of pounds of food annually and operates SNAP outreach programs.",
+    "address": "702 Chapin Street, South Bend, IN 46601",
+    "phone": "(574) 232-9986",
+    "url": "https://www.feedingindiana.org",
+    "categorySlug": "food",
+    "zipCode": "46601"
+  },
+  {
+    "name": "LOGAN Center",
+    "description": "Provides residential, vocational, and community support services for people with developmental and intellectual disabilities in St. Joseph County and northern Indiana.",
+    "address": "2505 E. Jefferson Boulevard, South Bend, IN 46615",
+    "phone": "(574) 289-4831",
+    "url": "https://www.logancenter.org",
+    "categorySlug": "community",
+    "zipCode": "46615"
+  },
+  {
+    "name": "Monroe Circle Community Center",
+    "description": "Neighborhood community center in South Bend providing after-school programs, food assistance, workforce development, and social services to residents on the west side of the city.",
+    "address": "701 E. Monroe Street, South Bend, IN 46601",
+    "phone": "(574) 232-4200",
+    "url": "https://www.monroecircle.org",
+    "categorySlug": "community",
+    "zipCode": "46601"
+  },
+  {
+    "name": "New Carlisle Food Pantry",
+    "description": "Volunteer community food pantry serving New Carlisle and western St. Joseph County. Provides emergency food assistance to households in need.",
+    "address": "317 E. Michigan Street, New Carlisle, IN 46552",
+    "phone": "(574) 654-8221",
+    "url": "https://www.newcarlislechurches.org",
+    "categorySlug": "food",
+    "zipCode": "46552"
+  },
+  {
+    "name": "Saint Joseph County CAP (SJCAP)",
+    "description": "Community Action agency providing Head Start, housing assistance, energy programs, and emergency services to low-income residents of St. Joseph County.",
+    "address": "227 W. Jefferson Boulevard, South Bend, IN 46601",
+    "phone": "(574) 232-2734",
+    "url": "https://www.sjcap.org",
+    "categorySlug": "community",
+    "zipCode": "46601"
+  },
+  {
+    "name": "South Bend Catholic Worker House",
+    "description": "Faith-based hospitality house in South Bend providing meals, clothing, and emergency shelter to homeless and low-income individuals. Operates a daily soup kitchen and overnight accommodations.",
+    "address": "1311 Portage Avenue, South Bend, IN 46616",
+    "phone": "(574) 232-0711",
+    "url": "https://www.southbendcatholicworker.org",
+    "categorySlug": "housing",
+    "zipCode": "46616"
+  },
+  {
+    "name": "Unity Gardens",
+    "description": "Community garden network in South Bend growing fresh produce for food-insecure residents. Operates dozens of gardens throughout the city and provides free vegetables to neighbors.",
+    "address": "1038 W. Sample Street, South Bend, IN 46619",
+    "phone": "(574) 876-0033",
+    "url": "https://www.unitygardensofindiana.org",
+    "categorySlug": "food",
+    "zipCode": "46619"
+  },
+  {
+    "name": "Knox Area Food Pantry",
+    "description": "Community food pantry distributing emergency groceries to Starke County households in Knox and North Judson. Provides food packages and referrals to additional assistance.",
+    "address": "224 S. Main Street, Knox, IN 46534",
+    "phone": "(574) 772-5585",
+    "url": "https://www.knoxareafoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "46534"
+  },
+  {
+    "name": "Starke County Community Services",
+    "description": "Community Action Agency serving Knox and North Judson with emergency food assistance, utility help, housing support, and Head Start programs for Starke County residents.",
+    "address": "109 E. Mound Street, Knox, IN 46534",
+    "phone": "(574) 772-7430",
+    "url": "https://www.starkecountyindiana.gov",
+    "categorySlug": "community",
+    "zipCode": "46534"
+  },
+  {
+    "name": "Angola Food Pantry",
+    "description": "Emergency food pantry serving Angola and Steuben County. Distributes food packages to low-income families and connects them with northeast Indiana food bank resources.",
+    "address": "420 E. Maumee Street, Angola, IN 46703",
+    "phone": "(260) 665-9876",
+    "url": "https://www.angolaareafoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "46703"
+  },
+  {
+    "name": "Steuben County Community Services",
+    "description": "Local human services agency providing emergency food, utility assistance, and housing support for Steuben County residents in Angola and Hamilton.",
+    "address": "317 S. Wayne Street, Angola, IN 46703",
+    "phone": "(260) 665-3534",
+    "url": "https://www.steubencountyindiana.gov",
+    "categorySlug": "community",
+    "zipCode": "46703"
+  },
+  {
+    "name": "Sullivan County Community Services",
+    "description": "Community Action Agency providing emergency food, utility assistance, housing support, and case management for low-income residents of Sullivan County including Sullivan, Farmersburg, and Dugger.",
+    "address": "115 E. Washington Street, Sullivan, IN 47882",
+    "phone": "(812) 268-6311",
+    "url": "https://www.sullivancountyindiana.gov",
+    "categorySlug": "community",
+    "zipCode": "47882"
+  },
+  {
+    "name": "Sullivan Food Pantry",
+    "description": "Volunteer-operated emergency food pantry distributing groceries to Sullivan County households in need. Serves Sullivan, Farmersburg, Dugger, and surrounding rural communities.",
+    "address": "100 S. Court Street, Sullivan, IN 47882",
+    "phone": "(812) 268-4545",
+    "url": "https://www.sullivanareaministries.org",
+    "categorySlug": "food",
+    "zipCode": "47882"
+  },
+  {
+    "name": "Switzerland County Community Services",
+    "description": "Human services agency providing emergency food assistance, utility help, and social service referrals to Switzerland County residents in Vevay and surrounding rural areas.",
+    "address": "212 Ferry Street, Vevay, IN 47043",
+    "phone": "(812) 427-2353",
+    "url": "https://www.switzerlandcountyindiana.gov",
+    "categorySlug": "community",
+    "zipCode": "47043"
+  },
+  {
+    "name": "Vevay Food Pantry",
+    "description": "Emergency food distribution serving Vevay and Switzerland County. Provides grocery packages and connects residents with Southeast Indiana regional assistance programs.",
+    "address": "122 W. Main Street, Vevay, IN 47043",
+    "phone": "(812) 427-2744",
+    "url": "https://www.vevayunitedmethodist.org",
+    "categorySlug": "food",
+    "zipCode": "47043"
+  },
+  {
+    "name": "Food Finders Food Bank",
+    "description": "Regional food bank serving 18 counties in west-central Indiana from Lafayette. Distributes millions of pounds of food annually through partner pantries and operates SNAP outreach and mobile distribution programs.",
+    "address": "1204 Greenbush Street, Lafayette, IN 47904",
+    "phone": "(765) 471-0062",
+    "url": "https://www.foodfinders.org",
+    "categorySlug": "food",
+    "zipCode": "47904"
+  },
+  {
+    "name": "Lafayette Urban Ministry (LUM)",
+    "description": "Comprehensive anti-poverty organization in Lafayette offering food pantry, emergency shelter, utility assistance, transitional housing, and after-school programs for families in need.",
+    "address": "420 N. 4th Street, Lafayette, IN 47901",
+    "phone": "(765) 423-2691",
+    "url": "https://www.lumserve.org",
+    "categorySlug": "community",
+    "zipCode": "47901"
+  },
+  {
+    "name": "Riggs Community Health Center",
+    "description": "Federally Qualified Health Center providing comprehensive primary care, dental, behavioral health, and women's health services on a sliding fee scale to uninsured and low-income Tippecanoe County residents.",
+    "address": "2400 S. 18th Street, Lafayette, IN 47904",
+    "phone": "(765) 429-4484",
+    "url": "https://www.riggshealth.org",
+    "categorySlug": "healthcare",
+    "zipCode": "47904"
+  },
+  {
+    "name": "Sunrise Shelter",
+    "description": "Emergency homeless shelter in Lafayette providing temporary housing, case management, and supportive services to individuals and families experiencing homelessness in Tippecanoe County.",
+    "address": "1105 Ferry Street, Lafayette, IN 47901",
+    "phone": "(765) 742-5655",
+    "url": "https://www.sunriseshelter.org",
+    "categorySlug": "housing",
+    "zipCode": "47901"
+  },
+  {
+    "name": "Tippecanoe County YWCA",
+    "description": "Provides emergency shelter and comprehensive services for survivors of domestic violence in Lafayette, along with advocacy, counseling, and economic empowerment programs for women and families.",
+    "address": "605 N. 6th Street, Lafayette, IN 47901",
+    "phone": "(765) 742-0012",
+    "url": "https://www.ywcalafayette.org",
+    "categorySlug": "housing",
+    "zipCode": "47901"
+  },
+  {
+    "name": "Wabash Center",
+    "description": "Provides residential support, employment, and day programs for adults with developmental and intellectual disabilities in Tippecanoe County and the greater Lafayette area.",
+    "address": "2000 N. Salisbury Street, West Lafayette, IN 47906",
+    "phone": "(765) 463-4481",
+    "url": "https://www.wabashcenter.org",
+    "categorySlug": "community",
+    "zipCode": "47906"
+  },
+  {
+    "name": "Tipton County Community Services",
+    "description": "Local human services agency providing emergency food, utility assistance, housing support, and social service referrals to low-income residents of Tipton County.",
+    "address": "121 E. Jefferson Street, Tipton, IN 46072",
+    "phone": "(765) 675-7654",
+    "url": "https://www.tiptoncountyindiana.gov",
+    "categorySlug": "community",
+    "zipCode": "46072"
+  },
+  {
+    "name": "Tipton Food Pantry",
+    "description": "Emergency food pantry serving Tipton County residents. Distributes food packages and connects families with additional social service resources in the county.",
+    "address": "320 W. Jefferson Street, Tipton, IN 46072",
+    "phone": "(765) 675-2156",
+    "url": "https://www.tiptoncountyfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "46072"
+  },
+  {
+    "name": "Union County Community Services",
+    "description": "Human services organization providing emergency food assistance, utility help, and case management for Union County residents in Liberty and surrounding rural areas.",
+    "address": "26 W. Seminary Street, Liberty, IN 47353",
+    "phone": "(765) 458-5855",
+    "url": "https://www.unioncountyindiana.gov",
+    "categorySlug": "community",
+    "zipCode": "47353"
+  },
+  {
+    "name": "Albion Fellows Bacon Center",
+    "description": "Evansville-based organization providing services for survivors of domestic violence and sexual assault including emergency shelter, counseling, advocacy, and transitional housing throughout southwest Indiana.",
+    "address": "1902 Lynch Road, Evansville, IN 47711",
+    "phone": "(812) 422-5622",
+    "url": "https://www.albionbacon.org",
+    "categorySlug": "housing",
+    "zipCode": "47711"
+  },
+  {
+    "name": "Aurora Evansville",
+    "description": "Comprehensive homeless and housing services organization in Evansville providing emergency shelter, transitional housing, case management, and wraparound support for adults and families.",
+    "address": "311 N. 7th Avenue, Evansville, IN 47708",
+    "phone": "(812) 425-4241",
+    "url": "https://www.auroragoodwill.org",
+    "categorySlug": "housing",
+    "zipCode": "47708"
+  },
+  {
+    "name": "Health Centers of Southwest Indiana (HCSWI)",
+    "description": "Federally Qualified Health Center network providing primary care, dental, and behavioral health services on a sliding fee scale to uninsured and low-income residents of Vanderburgh County.",
+    "address": "1900 Lynch Road, Evansville, IN 47711",
+    "phone": "(812) 423-4291",
+    "url": "https://www.hcswi.org",
+    "categorySlug": "healthcare",
+    "zipCode": "47711"
+  },
+  {
+    "name": "Southwestern Behavioral Healthcare",
+    "description": "Major behavioral health center serving Vanderburgh and surrounding counties. Provides mental health counseling, crisis intervention, substance use treatment, and community integration services in Evansville.",
+    "address": "415 Mulberry Street, Evansville, IN 47713",
+    "phone": "(812) 436-4221",
+    "url": "https://www.southwestern.org",
+    "categorySlug": "healthcare",
+    "zipCode": "47713"
+  },
+  {
+    "name": "Tri-State Food Bank",
+    "description": "Regional food bank serving 32 counties in southern Indiana, Illinois, and Kentucky from its Evansville base. Distributes millions of pounds of food annually through 400+ partner agencies.",
+    "address": "4119 Bellemeade Avenue, Evansville, IN 47714",
+    "phone": "(812) 425-0775",
+    "url": "https://www.tristatefoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "47714"
+  },
+  {
+    "name": "Clinton Area Food Pantry",
+    "description": "Emergency food pantry serving Clinton and northern Vermillion County. Distributes food packages to low-income families and connects residents with additional social services.",
+    "address": "200 Vine Street, Clinton, IN 47842",
+    "phone": "(765) 832-3832",
+    "url": "https://www.clintonindiana.com",
+    "categorySlug": "food",
+    "zipCode": "47842"
+  },
+  {
+    "name": "Vermillion County Community Services",
+    "description": "Community Action Agency providing emergency food, utility assistance, housing support, and case management for low-income residents of Vermillion County including Clinton, Newport, and Cayuga.",
+    "address": "49 S. Main Street, Newport, IN 47966",
+    "phone": "(765) 492-3531",
+    "url": "https://www.vermillioncountyindiana.gov",
+    "categorySlug": "community",
+    "zipCode": "47966"
+  },
+  {
+    "name": "First Choice Community Health Centers — Terre Haute",
+    "description": "Federally Qualified Health Center providing primary care, behavioral health, and dental services on a sliding fee scale to uninsured and underinsured Vigo County residents.",
+    "address": "915 Ohio Street, Terre Haute, IN 47807",
+    "phone": "(812) 234-9491",
+    "url": "https://www.firstchoicehealthcenters.org",
+    "categorySlug": "healthcare",
+    "zipCode": "47807"
+  },
+  {
+    "name": "Hamilton Center",
+    "description": "Behavioral health center serving Vigo and surrounding counties providing mental health treatment, substance use programs, crisis services, and community support for adults and youth in Terre Haute.",
+    "address": "620 Eighth Avenue, Terre Haute, IN 47804",
+    "phone": "(812) 231-8323",
+    "url": "https://www.hamiltoncenter.org",
+    "categorySlug": "healthcare",
+    "zipCode": "47804"
+  },
+  {
+    "name": "Manna from Seven",
+    "description": "Faith-based food pantry and community resource center in Terre Haute providing emergency groceries, meals, clothing, and referrals to social services for Vigo County residents.",
+    "address": "401 N. 8th Street, Terre Haute, IN 47807",
+    "phone": "(812) 232-7363",
+    "url": "https://www.mannafromseven.org",
+    "categorySlug": "food",
+    "zipCode": "47807"
+  },
+  {
+    "name": "Second Harvest Food Bank of West Central Indiana",
+    "description": "Regional food bank serving 12 counties in west-central Indiana including Vigo County. Distributes food through partner pantries and mobile programs and operates SNAP enrollment assistance.",
+    "address": "2808 S. 7th Street, Terre Haute, IN 47802",
+    "phone": "(812) 232-3663",
+    "url": "https://www.secondharvestwci.org",
+    "categorySlug": "food",
+    "zipCode": "47802"
+  },
+  {
+    "name": "St. Ann's Shelter — Terre Haute",
+    "description": "Emergency shelter and supportive housing for homeless women and children in Terre Haute. Provides temporary housing, case management, and connections to permanent housing resources.",
+    "address": "200 S. 4th Street, Terre Haute, IN 47807",
+    "phone": "(812) 232-8590",
+    "url": "https://www.stannsshelter.org",
+    "categorySlug": "housing",
+    "zipCode": "47807"
+  },
+  {
+    "name": "Terre Haute Catholic Charities",
+    "description": "Provides food pantry, emergency financial assistance, immigration services, and social service referrals to residents of Vigo County and surrounding west-central Indiana communities.",
+    "address": "1 N. 6th Street, Terre Haute, IN 47807",
+    "phone": "(812) 232-1447",
+    "url": "https://www.catholiccharitiesindy.org",
+    "categorySlug": "community",
+    "zipCode": "47807"
+  },
+  {
+    "name": "Terre Haute Rescue Mission",
+    "description": "Emergency shelter and recovery program in Terre Haute providing overnight housing, meals, clothing, and faith-based rehabilitation programs for homeless men in Vigo County.",
+    "address": "600 N. 9th Street, Terre Haute, IN 47807",
+    "phone": "(812) 235-5517",
+    "url": "https://www.terrehavenmission.org",
+    "categorySlug": "housing",
+    "zipCode": "47807"
+  },
+  {
+    "name": "North Manchester Food Pantry",
+    "description": "Community food pantry serving North Manchester and northern Wabash County. Distributes emergency groceries and household supplies to qualifying families.",
+    "address": "300 E. Main Street, North Manchester, IN 46962",
+    "phone": "(260) 982-7100",
+    "url": "https://www.northmanchesterfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "46962"
+  },
+  {
+    "name": "Wabash Area Food Pantry",
+    "description": "Emergency food pantry distributing groceries to Wabash County households. Serves Wabash, North Manchester, and surrounding communities through regular food distributions.",
+    "address": "104 E. Canal Street, Wabash, IN 46992",
+    "phone": "(260) 563-1966",
+    "url": "https://www.wabashareafoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "46992"
+  },
+  {
+    "name": "Wabash County Community Services",
+    "description": "Community Action Agency providing emergency food, utility assistance, housing support, and Head Start programs for low-income residents of Wabash County.",
+    "address": "74 W. Canal Street, Wabash, IN 46992",
+    "phone": "(260) 563-8485",
+    "url": "https://www.wabashcountyindiana.gov",
+    "categorySlug": "community",
+    "zipCode": "46992"
+  },
+  {
+    "name": "Warren County Community Services",
+    "description": "Local human services agency providing emergency food, utility assistance, and social service referrals for Warren County residents in Williamsport.",
+    "address": "102 N. Monroe Street, Williamsport, IN 47993",
+    "phone": "(765) 762-3044",
+    "url": "https://www.warrencountyindiana.gov",
+    "categorySlug": "community",
+    "zipCode": "47993"
+  },
+  {
+    "name": "Boonville Food Pantry",
+    "description": "Emergency food pantry serving Boonville and central Warrick County. Distributes food packages to low-income individuals and families on a regular basis.",
+    "address": "203 W. Main Street, Boonville, IN 47601",
+    "phone": "(812) 897-1090",
+    "url": "https://www.boonvilleareafoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "47601"
+  },
+  {
+    "name": "Newburgh Food Pantry",
+    "description": "Community food distribution serving Newburgh and eastern Warrick County. Provides emergency grocery assistance and referrals to Tri-State Food Bank and other resources.",
+    "address": "4560 Indiana 261, Newburgh, IN 47630",
+    "phone": "(812) 858-2273",
+    "url": "https://www.newburghcommunitypantry.org",
+    "categorySlug": "food",
+    "zipCode": "47630"
+  },
+  {
+    "name": "Warrick County Community Services",
+    "description": "Community Action Agency serving Warrick County residents in Boonville, Newburgh, and Chandler with emergency food, utility assistance, housing support, and Head Start programs.",
+    "address": "501 W. Locust Street, Boonville, IN 47601",
+    "phone": "(812) 897-3930",
+    "url": "https://www.warrickcountyindiana.gov",
+    "categorySlug": "community",
+    "zipCode": "47601"
+  },
+  {
+    "name": "Salem Food Pantry",
+    "description": "Volunteer food pantry serving Salem and Washington County. Distributes emergency groceries to households in need and connects clients with additional social service resources.",
+    "address": "215 E. Market Street, Salem, IN 47167",
+    "phone": "(812) 883-1023",
+    "url": "https://www.salemareafoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "47167"
+  },
+  {
+    "name": "Washington County Community Services",
+    "description": "Community Action Agency providing emergency food, utility help, housing assistance, and case management for low-income residents of Washington County in Salem and Campbellsburg.",
+    "address": "1707 N. Shelby Street, Salem, IN 47167",
+    "phone": "(812) 883-4753",
+    "url": "https://www.washingtoncountyindiana.gov",
+    "categorySlug": "community",
+    "zipCode": "47167"
+  },
+  {
+    "name": "Reid Health — Community Health Programs",
+    "description": "Regional health system in Richmond offering charity care, community health programs, and a network of primary care clinics serving Wayne County and eastern Indiana.",
+    "address": "1100 Reid Parkway, Richmond, IN 47374",
+    "phone": "(765) 983-3000",
+    "url": "https://www.reidhealth.org",
+    "categorySlug": "healthcare",
+    "zipCode": "47374"
+  },
+  {
+    "name": "Richmond Area Food Pantry",
+    "description": "Emergency food pantry distributing groceries to Richmond and Wayne County households in need. Coordinates with area churches and Second Harvest Food Bank to serve families.",
+    "address": "717 Main Street, Richmond, IN 47374",
+    "phone": "(765) 966-8130",
+    "url": "https://www.richmondareafoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "47374"
+  },
+  {
+    "name": "Richmond Urban Ministries",
+    "description": "Faith-based community services organization in Richmond providing food pantry, emergency assistance, clothing, and referrals to additional social services for Wayne County residents.",
+    "address": "301 N. 10th Street, Richmond, IN 47374",
+    "phone": "(765) 962-6557",
+    "url": "https://www.richmondurbanministries.org",
+    "categorySlug": "community",
+    "zipCode": "47374"
+  },
+  {
+    "name": "Wayne County Community Services",
+    "description": "Community Action Agency providing emergency food, utility assistance, housing support, and case management for low-income Wayne County residents in Richmond.",
+    "address": "114 S. 6th Street, Richmond, IN 47374",
+    "phone": "(765) 962-0585",
+    "url": "https://www.waynecountyindiana.gov",
+    "categorySlug": "community",
+    "zipCode": "47374"
+  },
+  {
+    "name": "Bluffton Food Pantry",
+    "description": "Emergency food pantry serving Bluffton and Wells County. Distributes food packages and household items to low-income families on a monthly basis.",
+    "address": "213 E. Market Street, Bluffton, IN 46714",
+    "phone": "(260) 824-5503",
+    "url": "https://www.blufftonfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "46714"
+  },
+  {
+    "name": "Bluffton-Wells County Community Services",
+    "description": "Local human services organization providing emergency food assistance, utility help, and social service referrals to Wells County residents in Bluffton and Ossian.",
+    "address": "301 W. Market Street, Bluffton, IN 46714",
+    "phone": "(260) 824-1670",
+    "url": "https://www.wellscountyindiana.gov",
+    "categorySlug": "community",
+    "zipCode": "46714"
+  },
+  {
+    "name": "Wells Community Health Center",
+    "description": "Community health clinic providing primary care and preventive health services to Wells County residents. Offers sliding fee assistance for uninsured and underinsured patients.",
+    "address": "1325 Lincolnway, Bluffton, IN 46714",
+    "phone": "(260) 824-3510",
+    "url": "https://www.wellscommunityhealthcenter.org",
+    "categorySlug": "healthcare",
+    "zipCode": "46714"
+  },
+  {
+    "name": "Monon Food Pantry",
+    "description": "Community food pantry serving Monon and northern White County residents. Distributes emergency groceries and connects families with Food Finders Food Bank resources.",
+    "address": "107 N. Market Street, Monon, IN 47959",
+    "phone": "(219) 253-6411",
+    "url": "https://www.mononcommunitychurch.org",
+    "categorySlug": "food",
+    "zipCode": "47959"
+  },
+  {
+    "name": "Monticello Area Food Pantry",
+    "description": "Emergency food pantry serving Monticello and White County. Provides groceries and household supplies to low-income families and connects clients with additional social services.",
+    "address": "200 S. Main Street, Monticello, IN 47960",
+    "phone": "(574) 583-4241",
+    "url": "https://www.monticellocommunityfood.org",
+    "categorySlug": "food",
+    "zipCode": "47960"
+  },
+  {
+    "name": "White County Community Services",
+    "description": "Community Action Agency providing emergency food assistance, utility help, housing support, and case management for low-income residents of White County including Monon and Brookston.",
+    "address": "200 E. Main Street, Monticello, IN 47960",
+    "phone": "(574) 583-8284",
+    "url": "https://www.whitecountyindiana.gov",
+    "categorySlug": "community",
+    "zipCode": "47960"
+  },
+  {
+    "name": "Columbia City Area Food Pantry",
+    "description": "Emergency food pantry distributing groceries to Whitley County households. Serves Columbia City, South Whitley, Churubusco, and surrounding rural communities.",
+    "address": "418 N. Line Street, Columbia City, IN 46725",
+    "phone": "(260) 244-5525",
+    "url": "https://www.columbiacityareafoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "46725"
+  },
+  {
+    "name": "Parkview Whitley Hospital — Community Health",
+    "description": "Critical access hospital in Columbia City providing primary care, community health programs, and financial assistance for qualifying patients in Whitley County.",
+    "address": "1260 E. State Road 205, Columbia City, IN 46725",
+    "phone": "(260) 248-9000",
+    "url": "https://www.parkview.com/locations/whitley",
+    "categorySlug": "healthcare",
+    "zipCode": "46725"
+  },
+  {
+    "name": "Whitley County Community Services",
+    "description": "Local human services agency providing emergency food, utility assistance, housing support, and referrals for Whitley County residents in Columbia City, South Whitley, and Churubusco.",
+    "address": "101 W. Van Buren Street, Columbia City, IN 46725",
+    "phone": "(260) 244-6000",
+    "url": "https://www.whitleycountyindiana.gov",
+    "categorySlug": "community",
+    "zipCode": "46725"
+  }
+]

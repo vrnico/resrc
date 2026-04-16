@@ -1,0 +1,947 @@
+[
+  {
+    "name": "Southwest Dakota Human Service Zone (Hettinger)",
+    "description": "County human services office providing SNAP food assistance, Medicaid, Temporary Assistance for Needy Families (TANF), child welfare, and other social services to Adams County residents.",
+    "address": "609 2nd Ave N Suite 2, Hettinger, ND 58639",
+    "phone": "(701) 567-2967",
+    "url": "https://www.hhs.nd.gov/service-locations/southwest-0",
+    "categorySlug": "community",
+    "zipCode": "58639"
+  },
+  {
+    "name": "Community Action Program Region VI",
+    "description": "Community Action agency serving Barnes County with Head Start, energy assistance, housing support, food pantry, and other anti-poverty programs for low-income families.",
+    "address": "230 Viking Drive, Valley City, ND 58072",
+    "phone": "(701) 845-1108",
+    "url": "https://www.cap6.com/",
+    "categorySlug": "community",
+    "zipCode": "58072"
+  },
+  {
+    "name": "South Central Adult Services",
+    "description": "Operates the Barnes County Food Pantry and senior services including home-delivered meals, transportation, and adult day services for residents of Barnes and surrounding counties.",
+    "address": "139 2nd Ave SE, Valley City, ND 58072",
+    "phone": "(701) 845-4300",
+    "url": "https://southcentralseniors.org/",
+    "categorySlug": "food",
+    "zipCode": "58072"
+  },
+  {
+    "name": "Spirit Lake Health Center",
+    "description": "Tribally operated health clinic providing primary care, dental, and behavioral health services to Spirit Lake Nation tribal members and other eligible patients in the Fort Totten area.",
+    "address": "3883 74th Ave NE, Fort Totten, ND 58335",
+    "phone": "(701) 766-1600",
+    "url": "https://spiritlakehealthcenter.com/",
+    "categorySlug": "healthcare",
+    "zipCode": "58335"
+  },
+  {
+    "name": "Spirit Lake Tribal Social Services",
+    "description": "Tribal social services program on the Spirit Lake Nation reservation providing culturally responsive family services, child welfare, ICWA, and community support to Spirit Lake tribal members.",
+    "address": "7184 Hwy 57, Fort Totten, ND 58335",
+    "phone": "(701) 766-4404",
+    "url": "https://www.spiritlakenation.com/programs/spirit-lake-social-services/",
+    "categorySlug": "community",
+    "zipCode": "58335"
+  },
+  {
+    "name": "Bismarck Emergency Food Pantry",
+    "description": "Emergency food pantry providing food assistance to low-income individuals and families in the Bismarck area, open Monday and Tuesday afternoons.",
+    "address": "1012 South 12th Street, Bismarck, ND 58504",
+    "phone": "(701) 258-9188",
+    "url": "https://bismarckemergencyfoodpantry.webs.com/",
+    "categorySlug": "food",
+    "zipCode": "58504"
+  },
+  {
+    "name": "Bismarck-Burleigh Public Health — Standing Rock Outreach",
+    "description": "Public health outreach providing immunizations, WIC, maternal and child health services to Sioux County and Standing Rock communities.",
+    "address": "500 East Front Avenue, Bismarck, ND 58504",
+    "phone": "(701) 355-1540",
+    "url": "https://www.bismarckcity.org/departments/public-health",
+    "categorySlug": "healthcare",
+    "zipCode": "58504"
+  },
+  {
+    "name": "Burleigh County Human Service Zone",
+    "description": "County social services office providing SNAP, Medicaid, TANF, child welfare, housing assistance, and other social services to Burleigh County residents including Bismarck and surrounding areas.",
+    "address": "415 E Rosser Ave Suite 113, Bismarck, ND 58501",
+    "phone": "(701) 222-6670",
+    "url": "https://www.burleigh.gov/departments/human-service-zone-social-services/",
+    "categorySlug": "community",
+    "zipCode": "58501"
+  },
+  {
+    "name": "CHI St. Alexius Health Bismarck",
+    "description": "Regional healthcare system providing medical, surgical, behavioral health, and community health services to Bismarck-Mandan and surrounding communities in central North Dakota.",
+    "address": "900 E Broadway Ave, Bismarck, ND 58501",
+    "phone": "(701) 530-3000",
+    "url": "https://www.chistalexiushealth.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "58501"
+  },
+  {
+    "name": "Community Action Program Region VII",
+    "description": "Community Action agency serving Burleigh County with food pantry, clothing closet, emergency assistance, energy conservation, and self-sufficiency programs for low-income residents.",
+    "address": "2105 Lee Avenue, Bismarck, ND 58504",
+    "phone": "(701) 258-2240",
+    "url": "https://www.cap7.com/",
+    "categorySlug": "community",
+    "zipCode": "58504"
+  },
+  {
+    "name": "Missouri Valley Family YMCA",
+    "description": "Community YMCA offering fitness, youth programs, after-school care, aquatics, and social support programs serving Bismarck-Mandan families of all income levels.",
+    "address": "1608 N Washington St, Bismarck, ND 58501",
+    "phone": "(701) 255-1525",
+    "url": "https://www.bismarckymca.org/",
+    "categorySlug": "community",
+    "zipCode": "58501"
+  },
+  {
+    "name": "Cass County Human Service Zone",
+    "description": "County social services office providing SNAP, Medicaid, TANF, child care assistance, child welfare, and housing assistance to Cass County residents including Fargo.",
+    "address": "1010 2nd Ave S, Fargo, ND 58108",
+    "phone": "(701) 241-5765",
+    "url": "https://www.casscountynd.gov/our-county/human-services",
+    "categorySlug": "community",
+    "zipCode": "58102"
+  },
+  {
+    "name": "Churches United",
+    "description": "Provides safe shelter, stable housing, nutritious food, and supportive services across five locations in the Fargo-Moorhead area for individuals and families experiencing homelessness.",
+    "address": "4609 33rd Ave S Suite 304, Fargo, ND 58104",
+    "phone": "(701) 478-7768",
+    "url": "https://www.churches-united.org/",
+    "categorySlug": "housing",
+    "zipCode": "58104"
+  },
+  {
+    "name": "Family HealthCare",
+    "description": "Federally Qualified Health Center providing affordable medical, dental, pharmacy, and homeless health services regardless of ability to pay, with interpreter services available.",
+    "address": "301 NP Avenue, Fargo, ND 58102",
+    "phone": "(701) 271-3344",
+    "url": "https://famhealthcare.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "58102"
+  },
+  {
+    "name": "Fargo Cass Public Health",
+    "description": "Public health department offering immunizations, WIC nutrition services, family planning, STD testing, tobacco prevention, and adult home visits for Cass County residents.",
+    "address": "1240 25th Street South, Fargo, ND 58103",
+    "phone": "(701) 241-1360",
+    "url": "https://fargond.gov/city-government/departments/fargo-cass-public-health",
+    "categorySlug": "healthcare",
+    "zipCode": "58103"
+  },
+  {
+    "name": "FirstLink 2-1-1",
+    "description": "Statewide 24/7 helpline providing free, confidential referrals to social services, crisis intervention, and community resources throughout North Dakota; also operates the 988 Suicide & Crisis Lifeline.",
+    "address": "418 Davies Court, Fargo, ND 58103",
+    "phone": "(701) 235-7335",
+    "url": "https://myfirstlink.org/",
+    "categorySlug": "community",
+    "zipCode": "58103"
+  },
+  {
+    "name": "Great Plains Food Bank",
+    "description": "Regional food bank distributing millions of pounds of food annually through a network of partner pantries across North Dakota and Minnesota, headquartered in Fargo.",
+    "address": "1720 3rd Ave N, Fargo, ND 58102",
+    "phone": "(701) 232-6219",
+    "url": "https://greatplainsfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "58102"
+  },
+  {
+    "name": "Great Plains Food Bank — Sargent County Distribution",
+    "description": "Regional food bank serving North Dakota through partner agencies; distribution sites in Milnor and Gwinner serve Sargent County residents.",
+    "address": "1720 3rd Avenue N, Fargo, ND 58102",
+    "phone": "(701) 232-6219",
+    "url": "https://www.greatplainsfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "58102"
+  },
+  {
+    "name": "Presentation Partners in Housing",
+    "description": "Provides homeless prevention, diversion services, and permanent supportive housing to individuals and families at risk of or experiencing homelessness in Cass County.",
+    "address": "219 7th Street South, Fargo, ND 58103",
+    "phone": "(701) 235-6861",
+    "url": "https://www.fmppih.org/",
+    "categorySlug": "housing",
+    "zipCode": "58103"
+  },
+  {
+    "name": "Southeastern ND Community Action Agency (SENDCAA)",
+    "description": "Community Action agency serving Cass County with Head Start, energy assistance, housing support, and self-sufficiency programs for low-income families in the Fargo area.",
+    "address": "3233 S University Drive, Fargo, ND 58104",
+    "phone": "(701) 232-2452",
+    "url": "https://www.sendcaa.org/",
+    "categorySlug": "community",
+    "zipCode": "58104"
+  },
+  {
+    "name": "Cavalier County Senior Meals & Services",
+    "description": "Provides community dining, home-delivered meals, frozen meals, transportation, and outreach services to senior citizens in Cavalier County, serving residents since 1978.",
+    "address": "211 8th Avenue, Langdon, ND 58249",
+    "phone": "(701) 256-2828",
+    "url": "https://www.cavaliercountyseniormealsandservices.com/",
+    "categorySlug": "food",
+    "zipCode": "58249"
+  },
+  {
+    "name": "Dunn County Food Pantry",
+    "description": "Community food pantry serving Dunn County residents with free food distributions at two locations in Killdeer and Halliday on the first and third Wednesdays of each month.",
+    "address": "220 4th Ave SW Suite A, Killdeer, ND 58640",
+    "phone": "(701) 260-1967",
+    "url": "https://dunncountyfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "58640"
+  },
+  {
+    "name": "Foster County Public Health",
+    "description": "County public health department providing immunizations, disease prevention, maternal and child health services, and community health education to Foster County residents.",
+    "address": "1000 5th St N, Carrington, ND 58421",
+    "phone": "(701) 652-2742",
+    "url": "https://fostercountypublichealth.com/",
+    "categorySlug": "healthcare",
+    "zipCode": "58421"
+  },
+  {
+    "name": "Altru Health System",
+    "description": "Nonprofit regional health system serving over 230,000 residents in northeast North Dakota and northwest Minnesota, providing hospital, clinic, and specialty care services.",
+    "address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+    "phone": "(701) 780-5000",
+    "url": "https://www.altru.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "58201"
+  },
+  {
+    "name": "Community Violence Intervention Center (CVIC)",
+    "description": "Provides crisis intervention, counseling, crime victim advocacy, supervised visitation, and domestic violence intervention services to adults and children in the greater Grand Forks area.",
+    "address": "211 S 4th St, Grand Forks, ND 58201",
+    "phone": "(701) 746-0405",
+    "url": "https://www.cviconline.org/",
+    "categorySlug": "community",
+    "zipCode": "58201"
+  },
+  {
+    "name": "Grand Forks County Human Service Zone",
+    "description": "County social services office providing SNAP, Medicaid, TANF, child welfare, and adult services to Grand Forks County residents.",
+    "address": "151 S 4th St Suite 201, Grand Forks, ND 58201",
+    "phone": "(701) 787-8540",
+    "url": "https://www.gfcounty.nd.gov/government/human-service-zone",
+    "categorySlug": "community",
+    "zipCode": "58201"
+  },
+  {
+    "name": "HC Community Care Center & Food Pantry",
+    "description": "Free food pantry and life skills courses serving approximately 350 households per month in Grand Forks, open Monday through Thursday with extended evening hours on Thursdays.",
+    "address": "1726 S Washington St Suite S11, Grand Forks, ND 58201",
+    "phone": "(701) 757-3480",
+    "url": "https://www.gfcarecenter.org/",
+    "categorySlug": "food",
+    "zipCode": "58201"
+  },
+  {
+    "name": "Northeast Human Service Center — Towner County Outreach",
+    "description": "Provides mental health, substance use disorder treatment, and developmental disability services to Towner County residents through outreach from the northeast regional center.",
+    "address": "1407 24th Avenue S, Grand Forks, ND 58201",
+    "phone": "(701) 795-3000",
+    "url": "https://www.nd.gov/dhs/locations/regionalhsc/northeast/",
+    "categorySlug": "healthcare",
+    "zipCode": "58201"
+  },
+  {
+    "name": "St. Joseph's Social Care",
+    "description": "Catholic social services organization providing food assistance, clothing, and community resources to families in need in the Grand Forks area, also operates a thrift store.",
+    "address": "620 8th Ave S, Grand Forks, ND 58201",
+    "phone": "(701) 795-8614",
+    "url": "https://www.stjosephssocialcaregf.org/",
+    "categorySlug": "food",
+    "zipCode": "58201"
+  },
+  {
+    "name": "Griggs County Social Services",
+    "description": "County human services office providing SNAP, Medicaid, TANF, child care assistance, LIHEAP energy assistance, and child welfare programs to Griggs County residents.",
+    "address": "PO Box 567, Cooperstown, ND 58425",
+    "phone": "(701) 797-2127",
+    "url": "https://www.griggscountynd.gov/",
+    "categorySlug": "community",
+    "zipCode": "58425"
+  },
+  {
+    "name": "Griggs County Social Services (Cooperstown)",
+    "description": "County human services serving Cooperstown and all of Griggs County with public assistance, child welfare, Medicaid, and adult protective services.",
+    "address": "819 Rolette Avenue, Cooperstown, ND 58425",
+    "phone": "(701) 797-2546",
+    "url": "https://www.nd.gov/dhs/offices/griggco.html",
+    "categorySlug": "community",
+    "zipCode": "58425"
+  },
+  {
+    "name": "Hettinger County Social Services",
+    "description": "County human services office in Mott providing SNAP, Medicaid, TANF, LIHEAP heating assistance, and other economic support programs to Hettinger County residents.",
+    "address": "309 Millionaire Ave, Mott, ND 58646",
+    "phone": "(701) 824-3276",
+    "url": "https://hettingercountynd.com/nav/new_page/social_services.php",
+    "categorySlug": "community",
+    "zipCode": "58646"
+  },
+  {
+    "name": "LaMoure County Food Pantry",
+    "description": "Community food pantry serving LaMoure and surrounding county areas with emergency food assistance, with a branch location serving Edgeley and western parts of the county.",
+    "address": "19 3rd Ave SW, LaMoure, ND 58458",
+    "phone": "(701) 883-5677",
+    "url": "https://lamourecountyfoodpantry.wordpress.com/",
+    "categorySlug": "food",
+    "zipCode": "58458"
+  },
+  {
+    "name": "LaMoure County Human Services",
+    "description": "County human services office providing child welfare, SNAP food assistance, TANF, and Medicaid programs to LaMoure County residents.",
+    "address": "202 4th Avenue NE, LaMoure, ND 58458",
+    "phone": "(701) 883-5301",
+    "url": "https://lamourecountynd.com/social-services",
+    "categorySlug": "community",
+    "zipCode": "58458"
+  },
+  {
+    "name": "Logan County Human Services",
+    "description": "County human services office providing SNAP, TANF, Medicaid, child welfare, and economic assistance programs to Logan County residents.",
+    "address": "301 Broadway, Napoleon, ND 58561",
+    "phone": "(701) 754-2239",
+    "url": "https://logancountynd.com/social-services",
+    "categorySlug": "community",
+    "zipCode": "58561"
+  },
+  {
+    "name": "McHenry County Social Services",
+    "description": "Northern Prairie Human Service Zone office providing SNAP, TANF, Medicaid, heating assistance, and child welfare services to McHenry County residents.",
+    "address": "407 Main Street South, Room 106, Towner, ND 58788",
+    "phone": "(701) 537-5944",
+    "url": "https://mchenrycountynd.com/social-services/",
+    "categorySlug": "community",
+    "zipCode": "58788"
+  },
+  {
+    "name": "McIntosh County Human Services",
+    "description": "South Country Human Service Zone office in Ashley providing SNAP, TANF, Medicaid, child care assistance, heating assistance, and child welfare services to McIntosh County residents.",
+    "address": "112 NE 1st St, Ashley, ND 58413",
+    "phone": "(701) 288-5170",
+    "url": "https://www.mcintoshnd.com/county-offices/human-services/",
+    "categorySlug": "community",
+    "zipCode": "58413"
+  },
+  {
+    "name": "McKenzie Health",
+    "description": "Critical access hospital and rural health clinic serving Watford City and western North Dakota, offering emergency care, surgery, rehabilitation, and specialty clinic services.",
+    "address": "709 4th Ave NE, Watford City, ND 58854",
+    "phone": "(701) 842-3000",
+    "url": "https://mckenziehealth.com/",
+    "categorySlug": "healthcare",
+    "zipCode": "58854"
+  },
+  {
+    "name": "McLean County Social Services",
+    "description": "Dakota Central Human Service Zone office in Washburn providing SNAP, TANF, Medicaid, heating assistance, and child welfare services to McLean County residents.",
+    "address": "712 5th Ave, Washburn, ND 58577",
+    "phone": "(701) 462-3581",
+    "url": "https://www.mcleancountynd.gov/departments/social-services/",
+    "categorySlug": "community",
+    "zipCode": "58577"
+  },
+  {
+    "name": "McLean Family Resource Center",
+    "description": "Crisis center in Washburn providing domestic violence and sexual assault services, victim witness support, clothing outlet, and food pantry for McLean County residents.",
+    "address": "205 7th St, Washburn, ND 58577",
+    "phone": "(701) 462-8643",
+    "url": "https://mcleanfrc.weebly.com/",
+    "categorySlug": "community",
+    "zipCode": "58577"
+  },
+  {
+    "name": "Mercer County Social Services",
+    "description": "County social services office providing Medicaid eligibility, economic assistance programs, and referrals to community resources for Mercer County residents in the Hazen and Beulah area.",
+    "address": "PO Box 39, Stanton, ND 58571",
+    "phone": "(701) 745-3294",
+    "url": "https://www.mercercountynd.com/departments/social-services/",
+    "categorySlug": "community",
+    "zipCode": "58571"
+  },
+  {
+    "name": "Mercer County Housing Authority",
+    "description": "Public housing authority providing low-income public housing units and Housing Choice Voucher (Section 8) rental assistance to eligible families and seniors in Mercer County.",
+    "address": "1500 3rd Ave NW, Mandan, ND 58554",
+    "phone": "(701) 663-7494",
+    "url": "https://www.mercercountyhousingauthority.org/",
+    "categorySlug": "housing",
+    "zipCode": "58554"
+  },
+  {
+    "name": "Three Rivers Human Service Zone",
+    "description": "County human services zone serving Morton, Grant, and Sioux counties, providing SNAP, TANF, Medicaid, heating assistance, child welfare, and referrals to low-income residents.",
+    "address": "210 2nd Ave NW, Mandan, ND 58554",
+    "phone": "(701) 667-3395",
+    "url": "https://www.mortonnd.gov/trhsz",
+    "categorySlug": "community",
+    "zipCode": "58554"
+  },
+  {
+    "name": "Mountrail County Social Services",
+    "description": "Mountrail-McKenzie Human Service Zone office providing SNAP, TANF, Medicaid, heating assistance, and child welfare services to Mountrail County residents.",
+    "address": "18 2nd Ave SE, Stanley, ND 58784",
+    "phone": "(701) 628-2925",
+    "url": "https://www.co.mountrail.nd.us/pages/social-services",
+    "categorySlug": "community",
+    "zipCode": "58784"
+  },
+  {
+    "name": "Nelson County Health System",
+    "description": "Critical access hospital, rural health clinic, care center, and assisted living facility in McVille offering emergency care, lab, radiology, therapy, and skilled nursing services to Nelson County residents.",
+    "address": "200 N Main, McVille, ND 58254",
+    "phone": "(701) 322-4328",
+    "url": "https://nelsoncountyhealthsystem.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "58254"
+  },
+  {
+    "name": "Dakota Central Social Services",
+    "description": "County human services office in Center providing SNAP, TANF, Medicaid, heating assistance, child welfare, and other support programs to Oliver County residents.",
+    "address": "Center, ND 58530",
+    "phone": "(701) 794-3212",
+    "url": "https://olivercountynd.org/dakotacentralsocialservices",
+    "categorySlug": "community",
+    "zipCode": "58530"
+  },
+  {
+    "name": "Pembina County Emergency Food Pantry",
+    "description": "Emergency food pantry in Cavalier providing food assistance to residents of Pembina County, with distribution hours on Tuesdays.",
+    "address": "106 Main St W, Cavalier, ND 58220",
+    "phone": "(701) 265-8441",
+    "url": "https://www.pembinacountynd.gov/",
+    "categorySlug": "food",
+    "zipCode": "58220"
+  },
+  {
+    "name": "Heart of America Medical Center",
+    "description": "Faith-based nonprofit critical access hospital and medical clinic in Rugby offering emergency care, surgery, primary care, rehabilitation, hospice, and specialty services to Pierce County and the surrounding five-county area.",
+    "address": "2975 Highway 2 East, Rugby, ND 58368",
+    "phone": "(701) 776-5261",
+    "url": "https://www.hamc.com/",
+    "categorySlug": "healthcare",
+    "zipCode": "58368"
+  },
+  {
+    "name": "Pierce County Food Pantry",
+    "description": "Community food pantry in Rugby distributing groceries to families and individuals in Pierce County on a monthly basis.",
+    "address": "1011 S Main Street, Rugby, ND 58368",
+    "phone": "(701) 776-5597",
+    "url": "https://rugbynorthdakota.com/events/pierce-county-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "58368"
+  },
+  {
+    "name": "CHI St. Alexius Health Devils Lake Hospital",
+    "description": "25-bed critical access hospital in Devils Lake providing 24/7 emergency care, surgery, obstetrics, therapy services, and critical care to Ramsey County and the Lake Region area.",
+    "address": "1031 7th St NE, Devils Lake, ND 58301",
+    "phone": "(701) 662-2131",
+    "url": "https://www.chistalexiushealth.org/locations/devils-lake",
+    "categorySlug": "healthcare",
+    "zipCode": "58301"
+  },
+  {
+    "name": "Dakota Prairie Community Action Agency",
+    "description": "Community action agency serving Ramsey, Rolette, Towner, Benson, Cavalier, and Eddy counties with food pantry, energy assistance, housing, and other anti-poverty programs for low-income households.",
+    "address": "223 4th St NE, Devils Lake, ND 58301",
+    "phone": "(701) 662-6500",
+    "url": "https://www.dpcaa.org/",
+    "categorySlug": "community",
+    "zipCode": "58301"
+  },
+  {
+    "name": "The Hope Center",
+    "description": "Food pantry in Devils Lake providing free food assistance to individuals and families in Ramsey County and surrounding communities.",
+    "address": "313 3rd St NE, Devils Lake, ND 58301",
+    "phone": "(701) 662-7027",
+    "url": "https://www.hopecenterdevilslake.com",
+    "categorySlug": "food",
+    "zipCode": "58301"
+  },
+  {
+    "name": "Ransom County Social Services",
+    "description": "County human services office in Lisbon providing SNAP, TANF, Medicaid, heating assistance, and child welfare programs to Ransom County residents.",
+    "address": "204 5th Avenue West, Lisbon, ND 58054",
+    "phone": "(701) 683-6133",
+    "url": "https://www.ransomcountynd.net/social-services/",
+    "categorySlug": "community",
+    "zipCode": "58054"
+  },
+  {
+    "name": "Renville County Social Services",
+    "description": "North Star Human Service Zone office in Mohall providing SNAP, TANF, Medicaid, heating assistance, child care, and child welfare services to Renville County residents.",
+    "address": "205 Main Street East, Mohall, ND 58761",
+    "phone": "(701) 756-6374",
+    "url": "https://www.renvillecountynd.org/department/north-star-human-service-zone/",
+    "categorySlug": "community",
+    "zipCode": "58761"
+  },
+  {
+    "name": "Community Action Region IV (Wahpeton)",
+    "description": "Anti-poverty programs including energy assistance, emergency services, and housing support for southeast North Dakota communities.",
+    "address": "521 Dakota Avenue, Wahpeton, ND 58075",
+    "phone": "(701) 642-8174",
+    "url": "https://www.capriv.org/",
+    "categorySlug": "community",
+    "zipCode": "58075"
+  },
+  {
+    "name": "Richland County Health Department",
+    "description": "County public health department in Wahpeton providing WIC, immunizations, family planning, STI testing, home health nursing, and health screening services to Richland County residents.",
+    "address": "413 3rd Ave N, Wahpeton, ND 58075",
+    "phone": "(701) 642-7735",
+    "url": "https://richlandcountyhealth.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "58075"
+  },
+  {
+    "name": "Richland County Social Services",
+    "description": "County human services office providing financial assistance, food support, child welfare, and adult protective services to Richland County residents including rural communities.",
+    "address": "418 2nd Avenue N, Wahpeton, ND 58075",
+    "phone": "(701) 671-1500",
+    "url": "https://www.nd.gov/dhs/offices/richlco.html",
+    "categorySlug": "community",
+    "zipCode": "58075"
+  },
+  {
+    "name": "Richland Wilkin Food Pantry",
+    "description": "Emergency food pantry serving residents of Richland County, ND and Wilkin County, MN across 20 towns and rural areas, providing food assistance multiple days per week in Wahpeton.",
+    "address": "699 8th Ave S, Wahpeton, ND 58075",
+    "phone": "(701) 642-1921",
+    "url": "https://rwfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "58075"
+  },
+  {
+    "name": "RSR Social Services Zone",
+    "description": "Human service zone serving Richland, Sargent, and Ransom counties with SNAP, Medicaid, TANF, child care assistance, heating assistance, and child welfare programs.",
+    "address": "413 3rd Ave N, Wahpeton, ND 58075",
+    "phone": "(701) 642-7751",
+    "url": "https://www.co.richland.nd.us/rsr/",
+    "categorySlug": "community",
+    "zipCode": "58075"
+  },
+  {
+    "name": "Southeast Human Service Center",
+    "description": "State-operated behavioral health and social services center serving southeast North Dakota, offering mental health, substance use treatment, and case management.",
+    "address": "1033 N 3rd Street, Wahpeton, ND 58075",
+    "phone": "(701) 642-6000",
+    "url": "https://www.nd.gov/dhs/locations/regionalhsc/southeast/",
+    "categorySlug": "healthcare",
+    "zipCode": "58075"
+  },
+  {
+    "name": "St. Francis Food Pantry (Wahpeton)",
+    "description": "Catholic Charities-affiliated food pantry serving residents of Wahpeton and surrounding Richland County communities with emergency food assistance.",
+    "address": "602 Dakota Avenue, Wahpeton, ND 58075",
+    "phone": "(701) 642-2886",
+    "url": "https://www.catholiccharitiesnd.org/",
+    "categorySlug": "food",
+    "zipCode": "58075"
+  },
+  {
+    "name": "Rolette County Social Services",
+    "description": "County office providing public assistance, food stamps, child support, child welfare, and adult protective services to Rolette County residents.",
+    "address": "102 NE 2nd Street, Rolla, ND 58367",
+    "phone": "(701) 477-3131",
+    "url": "https://www.nd.gov/dhs/offices/rolettco.html",
+    "categorySlug": "community",
+    "zipCode": "58367"
+  },
+  {
+    "name": "Turtle Mountain Band of Chippewa — Social Services",
+    "description": "Tribal social services providing General Assistance, TANF, child welfare, elder services, and emergency assistance to members of the Turtle Mountain Band of Chippewa.",
+    "address": "Highway 5, Belcourt, ND 58316",
+    "phone": "(701) 477-0990",
+    "url": "https://www.tmbci.net/",
+    "categorySlug": "community",
+    "zipCode": "58316"
+  },
+  {
+    "name": "Turtle Mountain Community College — Student Support Services",
+    "description": "Provides academic support, emergency assistance, food pantry access, and wrap-around services for TMCC students and tribal community members in Belcourt.",
+    "address": "Box 340, Belcourt, ND 58316",
+    "phone": "(701) 477-7862",
+    "url": "https://www.tm.edu/",
+    "categorySlug": "community",
+    "zipCode": "58316"
+  },
+  {
+    "name": "Turtle Mountain Comprehensive Health Center",
+    "description": "Federally Qualified Health Center serving the Turtle Mountain Band of Chippewa, providing primary care, dental, behavioral health, and WIC services to tribal and area residents.",
+    "address": "229 Main Street, Belcourt, ND 58316",
+    "phone": "(701) 477-6111",
+    "url": "https://www.tmchc.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "58316"
+  },
+  {
+    "name": "Sargent County Social Services",
+    "description": "County human services providing public assistance, food support, child welfare, and social services to all Sargent County residents.",
+    "address": "355 Main Street, Forman, ND 58032",
+    "phone": "(701) 724-3321",
+    "url": "https://www.nd.gov/dhs/offices/sargentco.html",
+    "categorySlug": "community",
+    "zipCode": "58032"
+  },
+  {
+    "name": "Sheridan County Social Services",
+    "description": "County office providing public assistance, SNAP, Medicaid, child welfare, and adult protective services to all Sheridan County residents.",
+    "address": "215 2nd Street NE, McClusky, ND 58463",
+    "phone": "(701) 363-2240",
+    "url": "https://www.nd.gov/dhs/offices/sheridanc.html",
+    "categorySlug": "community",
+    "zipCode": "58463"
+  },
+  {
+    "name": "IHS Standing Rock Service Unit Health Center",
+    "description": "Indian Health Service facility providing primary care, dental, behavioral health, and community health services to Standing Rock Sioux Tribe members in Fort Yates.",
+    "address": "10 Sitting Bull Drive, Fort Yates, ND 58538",
+    "phone": "(701) 854-3831",
+    "url": "https://www.ihs.gov/bismarck/standingrockserviceunit/",
+    "categorySlug": "healthcare",
+    "zipCode": "58538"
+  },
+  {
+    "name": "Prairie View Health — Fort Yates Clinic",
+    "description": "Community behavioral health provider offering mental health and substance use disorder counseling to Standing Rock area residents.",
+    "address": "Fort Yates, ND 58538",
+    "phone": "(701) 854-3831",
+    "url": "https://www.pvhnd.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "58538"
+  },
+  {
+    "name": "Sioux County Social Services",
+    "description": "County human services office providing SNAP, TANF, Medicaid, child welfare, and adult protective services to Sioux County including Standing Rock communities.",
+    "address": "103 3rd Street, Fort Yates, ND 58538",
+    "phone": "(701) 854-3481",
+    "url": "https://www.nd.gov/dhs/offices/siouxco.html",
+    "categorySlug": "community",
+    "zipCode": "58538"
+  },
+  {
+    "name": "Standing Rock Sioux Tribe — Social Services Department",
+    "description": "Tribal social services providing General Assistance, TANF, child welfare, elder care, and emergency assistance to members of the Standing Rock Sioux Tribe.",
+    "address": "North Standing Rock Avenue, Fort Yates, ND 58538",
+    "phone": "(701) 854-8500",
+    "url": "https://www.standingrock.org/",
+    "categorySlug": "community",
+    "zipCode": "58538"
+  },
+  {
+    "name": "Slope County Social Services",
+    "description": "County human services office serving Amidon and all of Slope County with SNAP, Medicaid, child welfare, and emergency assistance referrals.",
+    "address": "206 S Main Street, Amidon, ND 58620",
+    "phone": "(701) 879-6275",
+    "url": "https://www.nd.gov/dhs/offices/slopeco.html",
+    "categorySlug": "community",
+    "zipCode": "58620"
+  },
+  {
+    "name": "Belfield-Medora Food Pantry",
+    "description": "Monthly food and personal hygiene distribution serving residents of Belfield, South Heart, Grassy Butte, Fairfield, Fryburg, Daglum, and Amidon in the Billings County area.",
+    "address": "506 2nd Ave NE, Belfield, ND 58622",
+    "phone": "(701) 559-5850",
+    "url": "https://www.belfieldlutheran.org/pantry",
+    "categorySlug": "food",
+    "zipCode": "58622"
+  },
+  {
+    "name": "CHI St. Alexius Health Dickinson Medical Center",
+    "description": "Regional hospital and health system serving southwest North Dakota, providing emergency care, primary care, and specialty services to Stark County and surrounding region.",
+    "address": "2500 Fairway Street, Dickinson, ND 58601",
+    "phone": "(701) 456-4000",
+    "url": "https://www.chistalexiushealth.org/dickinson",
+    "categorySlug": "healthcare",
+    "zipCode": "58601"
+  },
+  {
+    "name": "Community Action Dickinson (CAP Region VIII)",
+    "description": "Community Action agency serving Adams County residents with emergency assistance, housing support, energy assistance, and self-sufficiency programs for low-income individuals and families.",
+    "address": "202 E Villard, Dickinson, ND 58601",
+    "phone": "(701) 227-0131",
+    "url": "https://dickinsoncap.org/",
+    "categorySlug": "community",
+    "zipCode": "58601"
+  },
+  {
+    "name": "Domestic Violence and Rape Crisis Center (Dickinson)",
+    "description": "Provides emergency shelter, crisis counseling, legal advocacy, and support services to victims of domestic violence and sexual assault in southwest North Dakota.",
+    "address": "PO Box 983, Dickinson, ND 58601",
+    "phone": "(701) 225-4506",
+    "url": "https://www.dvrcc.com/",
+    "categorySlug": "housing",
+    "zipCode": "58601"
+  },
+  {
+    "name": "Prairie Harvest Mental Health (Dickinson)",
+    "description": "Community mental health center providing outpatient counseling, crisis services, and substance use disorder treatment to Dickinson and southwest North Dakota.",
+    "address": "50 W Museum Drive, Dickinson, ND 58601",
+    "phone": "(701) 483-5712",
+    "url": "https://www.prairieharvest.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "58601"
+  },
+  {
+    "name": "Southwest Community Action (Dickinson)",
+    "description": "Community action agency providing energy assistance, emergency food, housing support, and weatherization services to low-income residents of southwest North Dakota.",
+    "address": "51 3rd Street E, Dickinson, ND 58601",
+    "phone": "(701) 227-0131",
+    "url": "https://www.swcommunityaction.org/",
+    "categorySlug": "community",
+    "zipCode": "58601"
+  },
+  {
+    "name": "Southwest Human Service Center (Dickinson) — Slope County Outreach",
+    "description": "State behavioral health center providing mental health, substance use disorder, and case management services to Slope County through outreach from Dickinson.",
+    "address": "2021 3rd Avenue W, Dickinson, ND 58601",
+    "phone": "(701) 227-7500",
+    "url": "https://www.nd.gov/dhs/locations/regionalhsc/southwest/",
+    "categorySlug": "healthcare",
+    "zipCode": "58601"
+  },
+  {
+    "name": "Stark County Social Services",
+    "description": "County human services providing public assistance, SNAP, Medicaid, child welfare, and adult services to Dickinson and all Stark County residents.",
+    "address": "51 3rd Street E, Dickinson, ND 58601",
+    "phone": "(701) 227-3251",
+    "url": "https://www.nd.gov/dhs/offices/starkco.html",
+    "categorySlug": "community",
+    "zipCode": "58601"
+  },
+  {
+    "name": "Steele County Social Services",
+    "description": "County human services office providing SNAP, Medicaid, child welfare, and emergency assistance to Finley and all Steele County residents.",
+    "address": "101 Main Street, Finley, ND 58230",
+    "phone": "(701) 524-2152",
+    "url": "https://www.nd.gov/dhs/offices/steeleco.html",
+    "categorySlug": "community",
+    "zipCode": "58230"
+  },
+  {
+    "name": "Jamestown Regional Medical Center",
+    "description": "Regional hospital serving south-central North Dakota with emergency care, primary care, and specialty services; also coordinates community health programs.",
+    "address": "2422 20th Street SW, Jamestown, ND 58401",
+    "phone": "(701) 252-1050",
+    "url": "https://www.jamestownregional.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "58401"
+  },
+  {
+    "name": "Rescue Mission of Jamestown",
+    "description": "Provides emergency shelter, meals, and transitional housing for homeless and at-risk individuals in Jamestown and Stutsman County.",
+    "address": "110 3rd Street SE, Jamestown, ND 58401",
+    "phone": "(701) 252-4799",
+    "url": "https://www.rescuemissionjamestown.org/",
+    "categorySlug": "housing",
+    "zipCode": "58401"
+  },
+  {
+    "name": "Stutsman County Social Services",
+    "description": "County human services office providing SNAP, Medicaid, TANF, child welfare, and adult protective services to Jamestown and all Stutsman County residents.",
+    "address": "PO Box 1727, Jamestown, ND 58401",
+    "phone": "(701) 252-6540",
+    "url": "https://www.nd.gov/dhs/offices/stutsmanc.html",
+    "categorySlug": "community",
+    "zipCode": "58401"
+  },
+  {
+    "name": "Towner County Social Services",
+    "description": "County human services providing public assistance, SNAP, Medicaid, child welfare, and emergency assistance to Cando and all Towner County residents.",
+    "address": "315 2nd Street, Cando, ND 58324",
+    "phone": "(701) 968-4340",
+    "url": "https://www.nd.gov/dhs/offices/townerco.html",
+    "categorySlug": "community",
+    "zipCode": "58324"
+  },
+  {
+    "name": "Mayville State University — Student Services and Community Resources",
+    "description": "Provides emergency assistance referrals, basic needs support, and community resource connections to Mayville-area students and residents.",
+    "address": "330 3rd Street NE, Mayville, ND 58257",
+    "phone": "(701) 788-2301",
+    "url": "https://www.mayvillestate.edu/",
+    "categorySlug": "community",
+    "zipCode": "58257"
+  },
+  {
+    "name": "Traill County Social Services",
+    "description": "County human services providing SNAP, Medicaid, TANF, child welfare, and adult protective services to Hillsboro and all Traill County residents.",
+    "address": "114 W Caledonia Avenue, Hillsboro, ND 58045",
+    "phone": "(701) 636-4561",
+    "url": "https://www.nd.gov/dhs/offices/traill.html",
+    "categorySlug": "community",
+    "zipCode": "58045"
+  },
+  {
+    "name": "Unity Medical Center (Grafton)",
+    "description": "Critical access hospital serving Walsh County with emergency care, primary care, and outpatient services; coordinates community health programs.",
+    "address": "164 W 13th Street, Grafton, ND 58237",
+    "phone": "(701) 352-1620",
+    "url": "https://www.unitymedical.com/",
+    "categorySlug": "healthcare",
+    "zipCode": "58237"
+  },
+  {
+    "name": "Walsh County Social Services",
+    "description": "County human services office providing SNAP, Medicaid, TANF, child welfare, and adult protective services to Grafton and all Walsh County residents.",
+    "address": "600 Cooper Avenue, Grafton, ND 58237",
+    "phone": "(701) 352-2171",
+    "url": "https://www.nd.gov/dhs/offices/walshco.html",
+    "categorySlug": "community",
+    "zipCode": "58237"
+  },
+  {
+    "name": "Community Action Partnership - Minot Region",
+    "description": "Community Action agency serving Bottineau County with emergency assistance, food pantry, energy assistance, housing support, and self-sufficiency programs for low-income individuals and families.",
+    "address": "2020 8th Ave SE, Minot, ND 58701",
+    "phone": "(701) 839-7221",
+    "url": "https://capminotregion.org/",
+    "categorySlug": "community",
+    "zipCode": "58701"
+  },
+  {
+    "name": "Community Action Region VI (Minot)",
+    "description": "Anti-poverty agency providing LIHEAP energy assistance, emergency food, housing support, Head Start, and weatherization services for north-central North Dakota.",
+    "address": "30 1st Avenue SE, Minot, ND 58701",
+    "phone": "(701) 852-8251",
+    "url": "https://www.communityactionnd.org/",
+    "categorySlug": "community",
+    "zipCode": "58701"
+  },
+  {
+    "name": "Domestic Violence Crisis Center (Minot)",
+    "description": "Provides emergency shelter, crisis services, legal advocacy, and transitional housing for survivors of domestic violence in Ward County and surrounding areas.",
+    "address": "PO Box 881, Minot, ND 58702",
+    "phone": "(701) 857-2200",
+    "url": "https://www.dvccnd.com/",
+    "categorySlug": "housing",
+    "zipCode": "58701"
+  },
+  {
+    "name": "First District Health Unit (Minot)",
+    "description": "Public health agency serving north-central North Dakota with immunizations, WIC, maternal and child health, communicable disease control, and environmental health services.",
+    "address": "900 Overlook Drive, Minot, ND 58701",
+    "phone": "(701) 852-1376",
+    "url": "https://www.firstdistricthealth.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "58701"
+  },
+  {
+    "name": "Minot Area Homeless Coalition",
+    "description": "Coordinates emergency shelter, transitional housing, and wrap-around services for homeless individuals and families in Minot and Ward County.",
+    "address": "310 2nd Avenue NW, Minot, ND 58703",
+    "phone": "(701) 838-9512",
+    "url": "https://www.minothomelesscoalition.org/",
+    "categorySlug": "housing",
+    "zipCode": "58703"
+  },
+  {
+    "name": "North Central Human Service Center (Minot) — Rolette Outreach",
+    "description": "Provides mental health, substance use disorder treatment, and developmental disability services to residents of Rolette County through outreach and referral.",
+    "address": "400 22nd Avenue NW, Minot, ND 58703",
+    "phone": "(701) 857-8500",
+    "url": "https://www.nd.gov/dhs/locations/regionalhsc/northcentral/",
+    "categorySlug": "healthcare",
+    "zipCode": "58703"
+  },
+  {
+    "name": "Salvation Army Minot Corps",
+    "description": "Provides emergency food assistance, utility and rental assistance, holiday programs, and disaster relief for Ward County residents.",
+    "address": "415 4th Street NW, Minot, ND 58703",
+    "phone": "(701) 838-1532",
+    "url": "https://centralusa.salvationarmy.org/minot/",
+    "categorySlug": "food",
+    "zipCode": "58703"
+  },
+  {
+    "name": "Trinity Health (Minot)",
+    "description": "Regional health system operating Trinity Hospital and clinics serving north-central North Dakota with comprehensive medical care and community health programs.",
+    "address": "1 Burdick Expressway W, Minot, ND 58701",
+    "phone": "(701) 857-5000",
+    "url": "https://www.trinityhealth.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "58701"
+  },
+  {
+    "name": "Ward County Social Services",
+    "description": "County human services providing SNAP, Medicaid, TANF, child welfare, and adult protective services to Minot and all Ward County residents.",
+    "address": "225 3rd Street SE, Minot, ND 58701",
+    "phone": "(701) 857-6600",
+    "url": "https://www.nd.gov/dhs/offices/wardco.html",
+    "categorySlug": "community",
+    "zipCode": "58701"
+  },
+  {
+    "name": "Wells County Social Services",
+    "description": "County human services providing SNAP, Medicaid, TANF, child welfare, and adult protective services to Fessenden and all Wells County residents.",
+    "address": "700 Railway Street N, Fessenden, ND 58438",
+    "phone": "(701) 547-3361",
+    "url": "https://www.nd.gov/dhs/offices/wellsco.html",
+    "categorySlug": "community",
+    "zipCode": "58438"
+  },
+  {
+    "name": "Community Action Partnership of Northwest North Dakota (Williston)",
+    "description": "Anti-poverty agency providing LIHEAP energy assistance, emergency food, housing support, and weatherization for Williams County and northwest North Dakota.",
+    "address": "19 East Broadway, Williston, ND 58801",
+    "phone": "(701) 572-5533",
+    "url": "https://www.capnnd.org/",
+    "categorySlug": "community",
+    "zipCode": "58801"
+  },
+  {
+    "name": "Mercy Health (Williston) — CHI St. Alexius Williston",
+    "description": "Regional hospital providing emergency care, primary care, and specialty services to Williams County and northwest North Dakota communities.",
+    "address": "1301 15th Avenue W, Williston, ND 58801",
+    "phone": "(701) 774-7400",
+    "url": "https://www.chistalexiushealth.org/williston",
+    "categorySlug": "healthcare",
+    "zipCode": "58801"
+  },
+  {
+    "name": "Northwest Human Service Center (Williston)",
+    "description": "State-operated regional behavioral health center providing mental health, substance use disorder treatment, and developmental disability services for northwest North Dakota.",
+    "address": "316 2nd Avenue W, Williston, ND 58801",
+    "phone": "(701) 774-4600",
+    "url": "https://www.nd.gov/dhs/locations/regionalhsc/northwest/",
+    "categorySlug": "healthcare",
+    "zipCode": "58801"
+  },
+  {
+    "name": "Prairie Rose Health Center (Williston)",
+    "description": "Federally Qualified Health Center providing affordable primary care, dental, behavioral health, and WIC services to Williams County residents regardless of insurance status.",
+    "address": "3820 4th Avenue W, Williston, ND 58801",
+    "phone": "(701) 572-0707",
+    "url": "https://www.prairierosehealth.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "58801"
+  },
+  {
+    "name": "Salvation Army Williston Corps",
+    "description": "Provides emergency food assistance, utility and rental help, clothing, and holiday programs for Williams County residents in the Williston area.",
+    "address": "21 E Broadway, Williston, ND 58801",
+    "phone": "(701) 572-3003",
+    "url": "https://centralusa.salvationarmy.org/williston/",
+    "categorySlug": "food",
+    "zipCode": "58801"
+  },
+  {
+    "name": "Williams County Social Services",
+    "description": "County human services providing SNAP, Medicaid, TANF, child welfare, and adult protective services to Williston and all Williams County residents.",
+    "address": "206 E Broadway, Williston, ND 58801",
+    "phone": "(701) 577-4595",
+    "url": "https://www.nd.gov/dhs/offices/williamsc.html",
+    "categorySlug": "community",
+    "zipCode": "58801"
+  }
+]

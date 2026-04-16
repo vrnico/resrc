@@ -1,0 +1,2801 @@
+[
+  {
+    "name": "Barbour County Family Support Center Food Pantry",
+    "description": "Provides quality food items to households experiencing food insecurity in Barbour County. Open Tuesday, Thursday, and Friday at the Golden Rule location; Monday and Wednesday at the Junior Community Center.",
+    "address": "122 Crim Ave Suite 102, Belington, WV 26250",
+    "phone": "304-606-8087",
+    "url": "https://www.findhelp.org/barbour-county-family-support-center--belington-wv--food-pantry/5288101419024384",
+    "categorySlug": "food",
+    "zipCode": "26250"
+  },
+  {
+    "name": "Mountaineer Food Bank Mobile Pantry \u2013 Barbour County",
+    "description": "The largest emergency food provider in West Virginia operates mobile pantry distributions in Barbour County, providing free food to food-insecure residents. Distributions held at the Barbour County Fairgrounds on a scheduled basis.",
+    "address": "484 Enterprise Drive, Gassaway, WV 26624",
+    "phone": "304-364-5518",
+    "url": "https://www.mountaineerfoodbank.org/mobile-pantry",
+    "categorySlug": "food",
+    "zipCode": "26238"
+  },
+  {
+    "name": "Martinsburg Union Rescue Mission",
+    "description": "Provides emergency shelter, three meals daily, and long-term residential recovery programs for homeless individuals and families in the Eastern Panhandle. Open 24/7 and serves hundreds of individuals per day.",
+    "address": "608 W. King St, Martinsburg, WV 25401",
+    "phone": "304-263-6901",
+    "url": "https://martinsburgunionrescuemission.com/",
+    "categorySlug": "housing",
+    "zipCode": "25401"
+  },
+  {
+    "name": "CCAP / Loaves & Fishes Food Pantry",
+    "description": "Provides emergency food and financial assistance to low-income and underserved residents of Berkeley County. Located in the lower level of Otterbein Church, open Monday through Friday 10am to 1pm.",
+    "address": "549 N. Queen St, Martinsburg, WV 25404",
+    "phone": "304-263-3940",
+    "url": "https://ccaploavesandfishes.com/",
+    "categorySlug": "food",
+    "zipCode": "25401"
+  },
+  {
+    "name": "Eastern Panhandle Empowerment Center (EPEC)",
+    "description": "Provides crisis services, emergency shelter, and advocacy for survivors of domestic violence, sexual assault, and human trafficking in Berkeley, Jefferson, and Morgan counties. Services are free, confidential, and available 24/7.",
+    "address": "236 W Martin St, Martinsburg, WV 25401",
+    "phone": "304-263-8292",
+    "url": "https://epecwv.org/",
+    "categorySlug": "crisis",
+    "zipCode": "25401"
+  },
+  {
+    "name": "Salvation Army Martinsburg Food Pantry",
+    "description": "Operates a food pantry serving Berkeley, Jefferson, and Morgan county residents with hours Monday through Friday 9am to 12pm and 1pm to 3pm.",
+    "address": "Martinsburg, WV 25401",
+    "phone": "304-267-4612",
+    "url": "https://www.salvationarmyusa.org/wv/martinsburg/",
+    "categorySlug": "food",
+    "zipCode": "25401"
+  },
+  {
+    "name": "Faith Community Coalition for the Homeless",
+    "description": "Provides emergency shelter placements and motel vouchers when other housing resources are exhausted for individuals and families experiencing homelessness in Berkeley, Jefferson, and Morgan counties.",
+    "address": "Martinsburg, WV 25401",
+    "phone": "304-960-5535",
+    "url": "https://www.findhelp.org/faith-community-coalition-for-the-homeless--martinsburg-wv--emergency-shelter/5182785048412160",
+    "categorySlug": "housing",
+    "zipCode": "25401"
+  },
+  {
+    "name": "Martinsburg Housing Authority",
+    "description": "Provides affordable housing programs including public housing and rental assistance vouchers to low-income residents of the Martinsburg area.",
+    "address": "703 Porter Avenue, Martinsburg, WV 25401",
+    "phone": "304-263-8891",
+    "url": "https://www.shelterlistings.org/city/martinsburg-wv.html",
+    "categorySlug": "housing",
+    "zipCode": "25401"
+  },
+  {
+    "name": "Boone County Community Organization",
+    "description": "Nonprofit funded through WV Bureau of Senior Services offering nutritional centers across Boone County and in-home services including Meals on Wheels and personal care programs for seniors and disabled residents.",
+    "address": "Madison, WV 25130",
+    "phone": null,
+    "url": "https://boonecountycommunity.org/",
+    "categorySlug": "food",
+    "zipCode": "25130"
+  },
+  {
+    "name": "Facing Hunger Foodbank",
+    "description": "Regional food bank providing food assistance to nearly 130,000 people annually across 17 counties including Boone County. Offers mobile food pantry distributions, TEFAP, and CSFP commodity food programs.",
+    "address": "1327 7th Avenue, Huntington, WV 25701",
+    "phone": "304-523-6029",
+    "url": "https://facinghunger.org/",
+    "categorySlug": "food",
+    "zipCode": "25053"
+  },
+  {
+    "name": "WV Department of Human Services \u2013 Boone County",
+    "description": "State human services office providing SNAP food assistance, Medicaid, WV WORKS cash assistance, and emergency financial assistance to eligible Boone County residents.",
+    "address": "156 Resource Lane, Foster, WV 25081",
+    "phone": "304-369-7802",
+    "url": "https://dohs.wv.gov/",
+    "categorySlug": "community",
+    "zipCode": "25081"
+  },
+  {
+    "name": "Mission WV Boone County Resources",
+    "description": "Connects Boone County residents with local nonprofits, food pantries, housing assistance, and churches providing social services throughout the county.",
+    "address": "Madison, WV 25130",
+    "phone": null,
+    "url": "https://www.missionwv.org/boone-resources",
+    "categorySlug": "community",
+    "zipCode": "25130"
+  },
+  {
+    "name": "Mountaineer Food Bank Mobile Pantry \u2013 Boone County",
+    "description": "West Virginia's largest emergency food provider runs scheduled mobile pantry distributions in Boone County, offering free groceries to food-insecure households.",
+    "address": "484 Enterprise Drive, Gassaway, WV 26624",
+    "phone": "304-364-5518",
+    "url": "https://www.mountaineerfoodbank.org/mobile-pantry",
+    "categorySlug": "food",
+    "zipCode": "25130"
+  },
+  {
+    "name": "Facing Hunger Foodbank \u2013 Boone County Mobile Pantry",
+    "description": "Regional food bank serving Boone County with mobile food pantry distributions providing free groceries in a drive-thru format. Schedules posted on website and Facebook events page.",
+    "address": "1327 7th Avenue, Huntington, WV 25701",
+    "phone": "304-523-6029",
+    "url": "https://facinghunger.org/",
+    "categorySlug": "food",
+    "zipCode": "25169"
+  },
+  {
+    "name": "Mountaineer Food Bank",
+    "description": "West Virginia's largest emergency food provider distributing over 17 million pounds of food annually. Operates mobile pantry distributions in Boone and Braxton counties serving food-insecure households.",
+    "address": "484 Enterprise Drive, Gassaway, WV 26624",
+    "phone": "304-364-5518",
+    "url": "https://www.mountaineerfoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "25181"
+  },
+  {
+    "name": "WV Department of Human Services \u2013 Boone/Braxton",
+    "description": "State human services offices providing SNAP food assistance, Medicaid, and emergency financial assistance to eligible residents of Boone and Braxton counties.",
+    "address": "156 Resource Lane, Foster, WV 25081",
+    "phone": "304-369-7802",
+    "url": "https://dohs.wv.gov/",
+    "categorySlug": "community",
+    "zipCode": "26601"
+  },
+  {
+    "name": "Braxton County Family Resource Network",
+    "description": "Connects Braxton County residents to local services including food pantries, housing assistance, utility help, and other community resources through referrals and direct support.",
+    "address": "Sutton, WV 26601",
+    "phone": null,
+    "url": "https://wvfrn.org/braxton/",
+    "categorySlug": "community",
+    "zipCode": "26601"
+  },
+  {
+    "name": "Mountaineer Food Bank Mobile Pantry \u2013 Braxton County",
+    "description": "Scheduled mobile food distribution in Braxton County at Holly Gray Park, providing free groceries to residents experiencing food insecurity.",
+    "address": "484 Enterprise Drive, Gassaway, WV 26624",
+    "phone": "304-364-5518",
+    "url": "https://www.mountaineerfoodbank.org/mobile-pantry",
+    "categorySlug": "food",
+    "zipCode": "26623"
+  },
+  {
+    "name": "Mountaineer Food Bank",
+    "description": "West Virginia's largest emergency food provider based in Gassaway, Braxton County, distributing over 17 million pounds of food annually to food-insecure neighbors across 48 counties. Serves as the regional hub for TEFAP and CSFP commodity programs.",
+    "address": "484 Enterprise Drive, Gassaway, WV 26624",
+    "phone": "304-364-5518",
+    "url": "https://www.mountaineerfoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "26624"
+  },
+  {
+    "name": "Salvation Army \u2013 Wellsburg Corps Food Pantry",
+    "description": "Provides food pantry services to Brooke County residents Tuesday through Friday from 10am to 3pm. Appointments required; call ahead to schedule.",
+    "address": "401 Commerce St, Wellsburg, WV 26070",
+    "phone": "304-737-0071",
+    "url": "https://www.salvationarmyusa.org/wv/wellsburg/",
+    "categorySlug": "food",
+    "zipCode": "26070"
+  },
+  {
+    "name": "Holy Family Food Pantry \u2013 Wellsburg",
+    "description": "Church-operated food pantry open every Wednesday in Wellsburg. Requires ID and proof of address; clients may access services once per month.",
+    "address": "2200 Charles St, Wellsburg, WV 26070",
+    "phone": "304-919-7659",
+    "url": "https://www.cityofweirton.com/639/Brooke-County-Food-Pantries",
+    "categorySlug": "food",
+    "zipCode": "26070"
+  },
+  {
+    "name": "R.E.A.C.H. Food Pantry \u2013 Follansbee",
+    "description": "Community food pantry in Follansbee serving Brooke County residents. Requires ID and income verification; call by the third Wednesday of the month to place an order.",
+    "address": "901 Penn St, Follansbee, WV 26037",
+    "phone": "304-527-3663",
+    "url": "https://www.cityofweirton.com/639/Brooke-County-Food-Pantries",
+    "categorySlug": "food",
+    "zipCode": "26037"
+  },
+  {
+    "name": "Brooke Hancock Family Resource Network",
+    "description": "Connects residents of Brooke and Hancock counties to food, housing, utility assistance, and other community services through referrals and coordination.",
+    "address": "Wellsburg, WV 26070",
+    "phone": null,
+    "url": "https://www.brookehancockfrn.org/",
+    "categorySlug": "community",
+    "zipCode": "26070"
+  },
+  {
+    "name": "Facing Hunger Foodbank \u2013 Cabell County",
+    "description": "Regional food bank providing emergency food assistance to Cabell County through partner agencies, soup kitchens, and mobile pantry distributions. Serves nearly 130,000 individuals annually across 17 counties.",
+    "address": "1327 7th Avenue, Huntington, WV 25701",
+    "phone": "304-523-6029",
+    "url": "https://facinghunger.org/",
+    "categorySlug": "food",
+    "zipCode": "25504"
+  },
+  {
+    "name": "Facing Hunger Foodbank",
+    "description": "Regional food bank headquartered in Huntington providing emergency food assistance to nearly 130,000 people annually in Cabell and surrounding counties. Offers TEFAP, CSFP, and mobile food pantry distributions throughout the region.",
+    "address": "1327 7th Avenue, Huntington, WV 25701",
+    "phone": "304-523-6029",
+    "url": "https://facinghunger.org/",
+    "categorySlug": "food",
+    "zipCode": "25701"
+  },
+  {
+    "name": "Huntington City Mission Emergency Shelter",
+    "description": "The only full-service homeless shelter within 50 miles of Huntington, providing emergency shelter for an average of 143 individuals daily including families with children. Offers case management, basic education, and spiritual support.",
+    "address": "624 Tenth Street, Huntington, WV 25701",
+    "phone": "304-523-0293",
+    "url": "https://hcmwv.org/emergency-shelter/",
+    "categorySlug": "housing",
+    "zipCode": "25701"
+  },
+  {
+    "name": "Harmony House",
+    "description": "Provides essential resources and transitional housing to homeless and formerly homeless individuals in the Huntington area, supporting the path from homelessness to permanent housing.",
+    "address": "Huntington, WV 25701",
+    "phone": null,
+    "url": "https://harmonyhousewv.com/",
+    "categorySlug": "housing",
+    "zipCode": "25701"
+  },
+  {
+    "name": "Bread & Butter Community Food Pantry",
+    "description": "Community food pantry serving Huntington residents with food assistance. Located in the 25703 zip code area.",
+    "address": "836 18th St, Huntington, WV 25703",
+    "phone": "304-563-1699",
+    "url": "https://www.foodpantries.org/ci/wv-huntington",
+    "categorySlug": "food",
+    "zipCode": "25703"
+  },
+  {
+    "name": "Cabell County Family Resource Network",
+    "description": "Connects Cabell County residents to local services including emergency shelter resources, food assistance, and other community support programs through referrals and coordination.",
+    "address": "Huntington, WV 25701",
+    "phone": null,
+    "url": "https://www.cabellfrn.org/homeless-sheltersresources.html",
+    "categorySlug": "community",
+    "zipCode": "25701"
+  },
+  {
+    "name": "First Baptist Calhoun County Food Pantry",
+    "description": "Church-operated food pantry serving Calhoun County residents, open Tuesday and Thursday from 11am to 1pm. Located in Grantsville.",
+    "address": "1500 E. Little Kanawha Highway, Grantsville, WV 26147",
+    "phone": "304-354-6130",
+    "url": "https://www.findhelp.org/first-baptist-calhoun-county-food-pantry--grantsville-wv--food-pantry/5653852946825216",
+    "categorySlug": "food",
+    "zipCode": "26147"
+  },
+  {
+    "name": "Community Resources Inc. \u2013 Calhoun County",
+    "description": "Provides emergency food assistance, weatherization, and other support services to income-eligible Calhoun County residents.",
+    "address": "258 Court Street, Grantsville, WV 26147",
+    "phone": "304-354-9265",
+    "url": "https://cricap.org/",
+    "categorySlug": "community",
+    "zipCode": "26147"
+  },
+  {
+    "name": "Calhoun County Family Resource Network",
+    "description": "Local family support network connecting Calhoun County residents to food pantries, housing assistance, GED programs, health referrals, and other social services.",
+    "address": "364 Main Street, Grantsville, WV 26147",
+    "phone": "304-354-7177",
+    "url": "https://calhounfrn.org/",
+    "categorySlug": "community",
+    "zipCode": "26147"
+  },
+  {
+    "name": "First Baptist Calhoun County Food Pantry",
+    "description": "Church-operated food pantry in Grantsville serving Calhoun County residents, open Tuesday and Thursday from 11am to 1pm. Provides multi-day food supplies to households in need.",
+    "address": "1500 E. Little Kanawha Highway, Grantsville, WV 26147",
+    "phone": "304-354-6130",
+    "url": "https://www.findhelp.org/first-baptist-calhoun-county-food-pantry--grantsville-wv--food-pantry/5653852946825216",
+    "categorySlug": "food",
+    "zipCode": "26147"
+  },
+  {
+    "name": "Mobile Outreach and Wellness Works Food Pantry \u2013 Calhoun County",
+    "description": "Mobile food pantry visiting the West Fork Community Center in Calhoun County on the first Tuesday of each month from 1pm to 3:30pm. Provides 3-5 day food supplies with nutrition information.",
+    "address": "West Fork Community Center, Calhoun County, WV",
+    "phone": "304-636-4875",
+    "url": "https://wvfrn.org/wp-content/uploads/2019/01/resource_guide_calhoun.pdf",
+    "categorySlug": "food",
+    "zipCode": "26151"
+  },
+  {
+    "name": "Clay Family Support Center",
+    "description": "Provides family services and food pantry assistance to Clay County residents. Open Monday, Tuesday, Thursday, and Friday from 10am to 5pm.",
+    "address": "214 Main Street, Clay, WV 25043",
+    "phone": "304-587-4389",
+    "url": "https://www.findhelp.org/clay-family-support-center--clay-wv--family-services/6169340307963904",
+    "categorySlug": "food",
+    "zipCode": "25043"
+  },
+  {
+    "name": "Risen Lord Catholic Church Food Pantry",
+    "description": "Church-operated food pantry in Maysel serving Clay County residents with emergency food assistance.",
+    "address": "67 Wallback Road, Maysel, WV 25133",
+    "phone": "304-587-4740",
+    "url": "https://www.foodpantries.org/ci/wv-clay",
+    "categorySlug": "food",
+    "zipCode": "25133"
+  },
+  {
+    "name": "Dille Church of the Nazarene Food Pantry",
+    "description": "Church-operated food pantry serving Clay County residents in the Dille area.",
+    "address": "3542 Youngs Monument Rd, Dille, WV 26617",
+    "phone": "304-332-9988",
+    "url": "https://www.missionwv.org/clay-resources",
+    "categorySlug": "food",
+    "zipCode": "26617"
+  },
+  {
+    "name": "WV Department of Human Services \u2013 Clay County",
+    "description": "State human services office providing SNAP food assistance, Medicaid, WV WORKS cash assistance, and emergency financial assistance to eligible Clay County residents.",
+    "address": "94 Main Street, Clay, WV 25043",
+    "phone": "304-587-2567",
+    "url": "https://dohs.wv.gov/",
+    "categorySlug": "community",
+    "zipCode": "25043"
+  },
+  {
+    "name": "Mission WV Clay County Resources",
+    "description": "Connects Clay County residents to local nonprofits, food pantries, churches with social services, housing assistance programs, and other community resources.",
+    "address": "Clay, WV 25043",
+    "phone": null,
+    "url": "https://www.missionwv.org/clay-resources",
+    "categorySlug": "community",
+    "zipCode": "25043"
+  },
+  {
+    "name": "Clay Family Support Center",
+    "description": "Provides family services and food pantry assistance to Clay County residents in the Widen and Valley Fork areas. Open Monday, Tuesday, Thursday, and Friday 10am to 5pm.",
+    "address": "214 Main Street, Clay, WV 25043",
+    "phone": "304-587-4389",
+    "url": "https://www.findhelp.org/clay-family-support-center--clay-wv--family-services/6169340307963904",
+    "categorySlug": "food",
+    "zipCode": "25211"
+  },
+  {
+    "name": "Doddridge County Family Support Center Emergency Pantry",
+    "description": "Provides food, baby supplies, hygiene products, and household items to Doddridge County residents. Open Monday through Friday 8am to 4pm with services on alternating Tuesdays; clients may receive assistance once per month.",
+    "address": "1171 WV Route 18 Suite 3, West Union, WV 26456",
+    "phone": "304-873-3500",
+    "url": "https://www.findhelp.org/doddridge-county-family-support-center--west-union-wv-emergency-pantry/5442861689602048",
+    "categorySlug": "food",
+    "zipCode": "26456"
+  },
+  {
+    "name": "Doddridge Ecumenical Outlet (DEO) Food Pantry",
+    "description": "Faith-based community food pantry serving Doddridge County residents every Tuesday from 10am to 12pm in West Union.",
+    "address": "1163 WV Route 18, West Union, WV 26456",
+    "phone": "304-782-1099",
+    "url": "https://networks.whyhunger.org/organisation/22798",
+    "categorySlug": "food",
+    "zipCode": "26456"
+  },
+  {
+    "name": "United Way of Harrison and Doddridge Counties \u2013 Food Pantries",
+    "description": "Coordinates and supports food pantry resources in Doddridge County, connecting residents to emergency food assistance in the community.",
+    "address": "West Union, WV 26456",
+    "phone": null,
+    "url": "https://www.unitedwayhdc.org/food-pantries",
+    "categorySlug": "food",
+    "zipCode": "26456"
+  },
+  {
+    "name": "Fayette County Emergency Food Assistance Center",
+    "description": "Provides food pantry services to Fayette County residents on the fourth Thursday of each month from 10am to noon (except November and December). Located in Fayetteville.",
+    "address": "2582 Court Street, Fayetteville, WV 25840",
+    "phone": "304-574-3733",
+    "url": "https://www.facebook.com/fcefac/",
+    "categorySlug": "food",
+    "zipCode": "25840"
+  },
+  {
+    "name": "United Methodist Church of Fayetteville Food Pantry",
+    "description": "Church-operated food pantry serving low-income families, seniors, veterans, and anyone in need in Fayette County. Open Thursdays from 10am to 12pm.",
+    "address": "Fayetteville, WV 25840",
+    "phone": null,
+    "url": "https://westvirginiafoodpantry.org/food-bank/united-methodist-church-of-fayetteville-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "25840"
+  },
+  {
+    "name": "Ansted Ministry Center",
+    "description": "Provides clothing, food, and personal care and household cleaning items to residents in the Ansted area of Fayette County. Open Tuesday and Thursday from 10am to 2pm; requires proof of income and utility bill.",
+    "address": "Ansted, WV 25812",
+    "phone": null,
+    "url": "https://fayettefrn.com/get-help/food-assistance/",
+    "categorySlug": "food",
+    "zipCode": "25812"
+  },
+  {
+    "name": "Fayette Cares Emergency Shelter and Transitional Housing",
+    "description": "Provides emergency shelter and transitional housing to individuals and families facing homelessness in Fayette County when homelessness cannot be prevented through intervention services.",
+    "address": "Fayetteville, WV 25840",
+    "phone": null,
+    "url": "https://www.fayettecares.org/emergency-shelter-and-transitional-housing/",
+    "categorySlug": "housing",
+    "zipCode": "25002"
+  },
+  {
+    "name": "Fayette County Emergency Food Assistance Center",
+    "description": "Provides food pantry services to Fayette County residents on the fourth Thursday of each month from 10am to noon. Serves the Montgomery, Kincaid, and surrounding Fayette County communities.",
+    "address": "2582 Court Street, Fayetteville, WV 25840",
+    "phone": "304-574-3733",
+    "url": "https://www.facebook.com/fcefac/",
+    "categorySlug": "food",
+    "zipCode": "25136"
+  },
+  {
+    "name": "Fayette Resource Network \u2013 Food Assistance",
+    "description": "Coordinates food assistance resources across Fayette County, connecting residents in Clifftop, Ansted, Oak Hill, and other areas to local food pantries and emergency food programs.",
+    "address": "100 North Court Street, Fayetteville, WV 25840",
+    "phone": "304-574-4338",
+    "url": "https://fayettefrn.com/get-help/food-assistance/",
+    "categorySlug": "food",
+    "zipCode": "25831"
+  },
+  {
+    "name": "Fayette Cares Emergency Shelter and Transitional Housing",
+    "description": "Provides emergency shelter placement and transitional housing for individuals and families in Fayette County facing homelessness. Offers homelessness prevention and rapid re-housing support.",
+    "address": "Fayetteville, WV 25840",
+    "phone": null,
+    "url": "https://www.fayettecares.org/emergency-shelter-and-transitional-housing/",
+    "categorySlug": "housing",
+    "zipCode": "25837"
+  },
+  {
+    "name": "Fayette Resource Network \u2013 Housing Assistance",
+    "description": "Coordinates housing assistance resources for Fayette County residents including emergency financial help with rent, referrals to shelter, and homelessness prevention services.",
+    "address": "100 North Court Street, Fayetteville, WV 25840",
+    "phone": "304-574-4338",
+    "url": "https://fayettefrn.com/get-help/housing-assistance/",
+    "categorySlug": "housing",
+    "zipCode": "25812"
+  },
+  {
+    "name": "MountainHeart CSBG Assistance Program \u2013 Fayette County",
+    "description": "Community action agency offering emergency financial assistance with utility bills, rent or mortgage, education costs, and groceries for Fayette County residents based on family size and income.",
+    "address": "Oak Hill, WV 25901",
+    "phone": null,
+    "url": "https://www.missionwv.org/",
+    "categorySlug": "utilities",
+    "zipCode": "25186"
+  },
+  {
+    "name": "WV Department of Human Services \u2013 Fayette County",
+    "description": "State human services office in Oak Hill providing SNAP food assistance, Medicaid, WV WORKS cash assistance, and emergency financial assistance to eligible Fayette County residents.",
+    "address": "1400 Virginia Street, Oak Hill, WV 25901",
+    "phone": null,
+    "url": "https://dohs.wv.gov/node/2216",
+    "categorySlug": "community",
+    "zipCode": "25115"
+  },
+  {
+    "name": "Fayette County Emergency Food Assistance Center",
+    "description": "Nonprofit organization providing food and emergency assistance to those in need in Fayette County.",
+    "address": "PO Box 735, Fayetteville, WV 25840",
+    "phone": "(304) 574-3733",
+    "url": "https://www.facebook.com/fcefac/",
+    "categorySlug": "food",
+    "zipCode": "25840"
+  },
+  {
+    "name": "HOHS Food Pantry",
+    "description": "Community food pantry serving Oak Hill and surrounding Fayette County areas.",
+    "address": "Oak Hill, WV 25901",
+    "phone": "",
+    "url": "https://oakhillwv.gov/community/page/hohs-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "25901"
+  },
+  {
+    "name": "Warm Hands from Warm Hearts",
+    "description": "Nonprofit at 319 Main Street East in Oak Hill providing a food pantry and computer lab to residents.",
+    "address": "319 Main Street East, Oak Hill, WV 25901",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "25901"
+  },
+  {
+    "name": "Fayette Resource Network",
+    "description": "Community network coordinating food assistance, housing, and social services for Fayette County families.",
+    "address": "100 North Court Street, Fayetteville, WV 25840",
+    "phone": "(304) 574-4338",
+    "url": "https://fayettefrn.com/",
+    "categorySlug": "community",
+    "zipCode": "25840"
+  },
+  {
+    "name": "AWAY \u2013 Advocating A Way for Adults & Youth (Fayette County Outreach)",
+    "description": "Provides temporary emergency shelter, crisis intervention, counseling, and advocacy for survivors of domestic and sexual violence in Fayette County.",
+    "address": "206 Church Street, Fayetteville, WV 25840",
+    "phone": "(304) 574-0500",
+    "url": "https://www.awaywv.org/",
+    "categorySlug": "crisis",
+    "zipCode": "25840"
+  },
+  {
+    "name": "Fayette Plateau Ministerial Association Food Pantry",
+    "description": "Monthly food distribution hosted by the Fayette Plateau Ministerial Association serving communities in Fayette County.",
+    "address": "Fayette County, WV",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "25901"
+  },
+  {
+    "name": "Gilmer County Family Resource Network",
+    "description": "Nonprofit coordinating food pantry (second Friday of each month), clothing closet, and community services for Gilmer County residents.",
+    "address": "208 East Main St, Glenville, WV 26351",
+    "phone": "(304) 462-7545",
+    "url": "http://www.gilmercountyfrn.com/",
+    "categorySlug": "community",
+    "zipCode": "26351"
+  },
+  {
+    "name": "Gilmer Community Food Pantry",
+    "description": "All-volunteer nonprofit organization providing food assistance to those experiencing hunger in Gilmer County.",
+    "address": "Glenville, WV 26351",
+    "phone": "(304) 462-8698",
+    "url": "https://www.facebook.com/foodpantryvolunteer/",
+    "categorySlug": "food",
+    "zipCode": "26351"
+  },
+  {
+    "name": "Petersburg Interfaith Pantry",
+    "description": "Nonprofit providing emergency food relief to families in Grant County. Distributes food on multiple Wednesdays each month.",
+    "address": "4 Myrtle Ave, Petersburg, WV 26847",
+    "phone": "",
+    "url": "https://www.facebook.com/p/Petersburg-Interfaith-Pantry-100069042407726/",
+    "categorySlug": "food",
+    "zipCode": "26847"
+  },
+  {
+    "name": "Petersburg Interfaith Pantry",
+    "description": "Nonprofit providing emergency food relief to families in Grant County. Distributes food on multiple Wednesdays each month.",
+    "address": "4 Myrtle Ave, Petersburg, WV 26847",
+    "phone": "",
+    "url": "https://www.facebook.com/p/Petersburg-Interfaith-Pantry-100069042407726/",
+    "categorySlug": "food",
+    "zipCode": "26847"
+  },
+  {
+    "name": "United Way of Greenbrier Valley",
+    "description": "Connects Greenbrier County residents to food, housing, health, and social service resources throughout the valley.",
+    "address": "809 Jefferson St S, Lewisburg, WV 24901",
+    "phone": "(304) 647-3783",
+    "url": "https://www.unitedwaygbv.org/",
+    "categorySlug": "community",
+    "zipCode": "24901"
+  },
+  {
+    "name": "Lewisburg-Fairlea Food Bank",
+    "description": "Local food bank serving Greenbrier County residents in the Lewisburg area, partnered with Mountaineer Food Bank.",
+    "address": "Lewisburg, WV 24901",
+    "phone": "",
+    "url": "https://www.unitedwaygreenbrier.org/post/resource-list-in-response-to-increased-food-insecurities",
+    "categorySlug": "food",
+    "zipCode": "24901"
+  },
+  {
+    "name": "Wellspring of Greenbrier, Inc.",
+    "description": "Nonprofit providing food and essential supplies to underprivileged residents in Greenbrier County. Operates a food and essentials distribution pantry Monday\u2013Thursday.",
+    "address": "223 Main Street, Rainelle, WV 25962",
+    "phone": "(304) 438-1044",
+    "url": "https://www.facebook.com/p/Wellspring-of-Greenbrier-Inc-100090519793362/",
+    "categorySlug": "food",
+    "zipCode": "25962"
+  },
+  {
+    "name": "Wellspring of Greenbrier, Inc.",
+    "description": "Nonprofit providing food and essential supplies to underprivileged residents in Greenbrier County. Operates a food and essentials distribution pantry Monday\u2013Thursday.",
+    "address": "223 Main Street, Rainelle, WV 25962",
+    "phone": "(304) 438-1044",
+    "url": "https://www.facebook.com/p/Wellspring-of-Greenbrier-Inc-100090519793362/",
+    "categorySlug": "food",
+    "zipCode": "25962"
+  },
+  {
+    "name": "North Central WV Community Action (Greenbrier County)",
+    "description": "Community action agency operating a food pantry in Ronceverte and providing social services to Greenbrier County residents.",
+    "address": "Ronceverte, WV 24970",
+    "phone": "",
+    "url": "https://www.foodpantries.org/li/north_central_west_virginia_community_action_county_of_gre_24970",
+    "categorySlug": "food",
+    "zipCode": "24970"
+  },
+  {
+    "name": "Hampshire County Helping Hands",
+    "description": "Nonprofit providing food assistance, clothing, and community support to Hampshire County residents. Open Monday\u2013Saturday.",
+    "address": "24 W Main St, Romney, WV 26757",
+    "phone": "(304) 822-3023",
+    "url": "https://www.facebook.com/HCHelpingHands/",
+    "categorySlug": "food",
+    "zipCode": "26757"
+  },
+  {
+    "name": "Eastern West Virginia Community Foundation \u2013 Hampshire County",
+    "description": "Community foundation coordinating emergency response funds for food pantries and feeding programs in the 5-county eastern WV area including Hampshire County.",
+    "address": "PO Box 40, Romney, WV 26757",
+    "phone": "(304) 822-7200",
+    "url": "https://www.ewvcf.org/hampshireccf/",
+    "categorySlug": "community",
+    "zipCode": "26757"
+  },
+  {
+    "name": "Hampshire County Helping Hands",
+    "description": "Nonprofit providing food assistance, clothing, and community support to Hampshire County residents. Open Monday\u2013Saturday.",
+    "address": "24 W Main St, Romney, WV 26757",
+    "phone": "(304) 822-3023",
+    "url": "https://www.facebook.com/HCHelpingHands/",
+    "categorySlug": "food",
+    "zipCode": "26757"
+  },
+  {
+    "name": "Community Bread Basket",
+    "description": "Food pantry serving Weirton and Hancock County residents. Distribution every Friday by appointment; patrons may receive a food order once a month.",
+    "address": "3545 Pennsylvania Ave, Weirton, WV 26062",
+    "phone": "(304) 748-7595",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "26062"
+  },
+  {
+    "name": "Brooke Hancock Family Resource Network \u2013 Community Pantry",
+    "description": "Nonprofit serving Brooke and Hancock County residents with a community pantry, family support services, and referrals.",
+    "address": "1300 Potomac Street Suite C, Weirton, WV 26062",
+    "phone": "(304) 748-7850",
+    "url": "https://www.brookehancockfrn.org/",
+    "categorySlug": "food",
+    "zipCode": "26062"
+  },
+  {
+    "name": "Community Bread Basket",
+    "description": "Food pantry serving Weirton and Hancock County residents. Distribution every Friday by appointment; patrons may receive a food order once a month.",
+    "address": "3545 Pennsylvania Ave, Weirton, WV 26062",
+    "phone": "(304) 748-7595",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "26062"
+  },
+  {
+    "name": "Brooke Hancock Family Resource Network \u2013 Community Pantry",
+    "description": "Nonprofit serving Brooke and Hancock County residents with a community pantry, family support services, and referrals.",
+    "address": "1300 Potomac Street Suite C, Weirton, WV 26062",
+    "phone": "(304) 748-7850",
+    "url": "https://www.brookehancockfrn.org/",
+    "categorySlug": "food",
+    "zipCode": "26062"
+  },
+  {
+    "name": "Moorefield Church of God Food Pantry",
+    "description": "Food pantry providing free food to individuals and families in need in Hardy County.",
+    "address": "223 S. Elm St., Moorefield, WV 26836",
+    "phone": "(304) 538-7119",
+    "url": "http://moorefieldchurchofgod.org/moorefield-church-of-god-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "26836"
+  },
+  {
+    "name": "MAC House \u2013 Moorefield Active Caring",
+    "description": "Long-established community food pantry in Hardy County serving approximately 85\u201390 families per month.",
+    "address": "Moorefield, WV 26836",
+    "phone": "",
+    "url": "https://www.facebook.com/p/The-MAC-House-Moorefield-Active-Caring-100070373713542/",
+    "categorySlug": "food",
+    "zipCode": "26836"
+  },
+  {
+    "name": "Clarksburg Mission",
+    "description": "Provides food, shelter, clothing, recovery programs, life skills classes, and case management within a Christ-centered community in Clarksburg.",
+    "address": "312 N. 4th Street, Clarksburg, WV 26301",
+    "phone": "(304) 622-2451",
+    "url": "https://clarksburgmission.org/",
+    "categorySlug": "housing",
+    "zipCode": "26301"
+  },
+  {
+    "name": "Salvation Army \u2013 Harrison County",
+    "description": "Provides food pantry, utility assistance, and case management to residents of Clarksburg, Bridgeport, Anmoore, and surrounding Harrison County communities.",
+    "address": "1010 S Chestnut St, Clarksburg, WV 26301",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "26301"
+  },
+  {
+    "name": "Central WV Community Action",
+    "description": "Nonprofit serving Harrison and Lewis Counties with food assistance, housing repair, case management, and emergency services to help families stabilize.",
+    "address": "106 Frederick St, Clarksburg, WV 26301",
+    "phone": "(304) 622-1622",
+    "url": "https://centralwvaction.org/",
+    "categorySlug": "community",
+    "zipCode": "26301"
+  },
+  {
+    "name": "Clarksburg Mission",
+    "description": "Provides food, shelter, clothing, recovery programs, life skills classes, and case management within a Christ-centered community in Clarksburg.",
+    "address": "312 N. 4th Street, Clarksburg, WV 26301",
+    "phone": "(304) 622-2451",
+    "url": "https://clarksburgmission.org/",
+    "categorySlug": "housing",
+    "zipCode": "26301"
+  },
+  {
+    "name": "Shepherd's Corner",
+    "description": "Provides free food, clothing, personal hygiene products, and household items to anyone in need in Harrison County and surrounding areas. Staffed entirely by volunteers.",
+    "address": "119 Pennsylvania Ave, Bridgeport, WV 26330",
+    "phone": "(304) 842-6352",
+    "url": "https://www.shepherdscornerwv.org/",
+    "categorySlug": "food",
+    "zipCode": "26330"
+  },
+  {
+    "name": "Central WV Community Action",
+    "description": "Nonprofit serving Harrison and Lewis Counties with food assistance, housing repair, case management, and emergency services to help families stabilize.",
+    "address": "106 Frederick St, Clarksburg, WV 26301",
+    "phone": "(304) 622-1622",
+    "url": "https://centralwvaction.org/",
+    "categorySlug": "community",
+    "zipCode": "26301"
+  },
+  {
+    "name": "Clarksburg-Harrison Regional Housing Authority",
+    "description": "Provides public housing, Section 8 rental assistance, and homeownership programs to low-income residents of Clarksburg and Harrison County.",
+    "address": "433 Baltimore Ave, Clarksburg, WV 26301",
+    "phone": "(304) 623-3322",
+    "url": "https://chrha.net/",
+    "categorySlug": "housing",
+    "zipCode": "26301"
+  },
+  {
+    "name": "United Way of Harrison and Doddridge Counties \u2013 Resilience Collaborative",
+    "description": "Walk-in services every Friday at First United Methodist Church including housing search assistance, emergency shelter linkage, and benefit application support.",
+    "address": "117 N. 2nd Street, Clarksburg, WV 26301",
+    "phone": "",
+    "url": "https://unitedwayhdc.org/resilience-collaborative-1",
+    "categorySlug": "community",
+    "zipCode": "26301"
+  },
+  {
+    "name": "Community Resources, Inc. \u2013 Jackson County",
+    "description": "Nonprofit dedicated to collecting, storing, and distributing food to those in need. Operates a soup kitchen, choice pantry, clothing distribution, disaster relief, and on-site nurse services.",
+    "address": "106 Royal Street, Ravenswood, WV 26164",
+    "phone": "(304) 273-5539",
+    "url": "https://westvirginiafoodpantry.org/food-bank/community-resources-inc-jackson-county/",
+    "categorySlug": "food",
+    "zipCode": "26164"
+  },
+  {
+    "name": "Calvary United Methodist Church Food Pantry",
+    "description": "Food pantry open the 2nd and 4th Thursday of each month from 9:00\u201311:00 AM serving Jackson County residents.",
+    "address": "Ripley, WV 25271",
+    "phone": "(304) 372-3203",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "25271"
+  },
+  {
+    "name": "Jackson County Community Foundation",
+    "description": "Nonprofit foundation supporting local organizations and initiatives that strengthen the Jackson County community.",
+    "address": "108 North Church Street, Ripley, WV 25271",
+    "phone": "(304) 372-4500",
+    "url": "https://jccfinc.org/",
+    "categorySlug": "community",
+    "zipCode": "25271"
+  },
+  {
+    "name": "Jefferson County Community Ministries (JCCM)",
+    "description": "Cooperative ministry providing food pantry, cold weather shelter, clothing closet, life skills coaching, and emergency financial assistance to Jefferson County residents.",
+    "address": "238 West Washington Street, Charles Town, WV 25414",
+    "phone": "(304) 725-3186",
+    "url": "https://www.jccm.us/",
+    "categorySlug": "food",
+    "zipCode": "25414"
+  },
+  {
+    "name": "Shepherdstown Shares Food Pantry",
+    "description": "Community food pantry serving approximately 700 people per month in and around Shepherdstown. Open Mondays, Thursdays, and Saturdays.",
+    "address": "200 W. German St., Shepherdstown, WV 25443",
+    "phone": "(304) 876-2212",
+    "url": "https://www.shepherdstownshares.org/food-support",
+    "categorySlug": "food",
+    "zipCode": "25443"
+  },
+  {
+    "name": "Jefferson County Community Ministries (JCCM)",
+    "description": "Cooperative ministry providing food pantry, cold weather emergency shelter, clothing closet, life skills coaching, and emergency financial assistance to Jefferson County residents.",
+    "address": "238 West Washington Street, Charles Town, WV 25414",
+    "phone": "(304) 725-3186",
+    "url": "https://www.jccm.us/",
+    "categorySlug": "food",
+    "zipCode": "25414"
+  },
+  {
+    "name": "Shepherdstown Shares Food Pantry",
+    "description": "Community food pantry serving approximately 700 people per month in and around Shepherdstown. Open Mondays, Thursdays, and Saturdays.",
+    "address": "200 W. German St., Shepherdstown, WV 25443",
+    "phone": "(304) 876-2212",
+    "url": "https://www.shepherdstownshares.org/food-support",
+    "categorySlug": "food",
+    "zipCode": "25443"
+  },
+  {
+    "name": "Good Shepherd Food Pantry (EnAct, Inc.)",
+    "description": "Food pantry serving eastern Kanawha County communities including East Bank, Cabin Creek, Eskdale, and surrounding areas. Open 2nd and 4th Thursdays.",
+    "address": "1013 1st Avenue, East Bank, WV 25067",
+    "phone": "(304) 414-4475",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "25067"
+  },
+  {
+    "name": "Common Grounds Food Pantry",
+    "description": "Food pantry serving a broad area of eastern Kanawha County including Cedar Grove, Diamond, Dunbar, Dawes, Eskdale, East Bank, and dozens of surrounding communities. Open Tuesday and Thursday.",
+    "address": "Charleston, WV 25304",
+    "phone": "",
+    "url": "https://foodpantries.org/li/common_grounds_25304",
+    "categorySlug": "food",
+    "zipCode": "25064"
+  },
+  {
+    "name": "Heart and Hand Community Service Center",
+    "description": "Food pantry serving South Charleston, Dunbar, Alum Creek, and surrounding south Kanawha County communities. Open Monday\u2013Thursday.",
+    "address": "212 D Street, South Charleston, WV 25303",
+    "phone": "(304) 744-6741",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "25064"
+  },
+  {
+    "name": "Salvation Army \u2013 Kanawha Valley",
+    "description": "Provides food pantry, utility assistance, and case management serving Cedar Grove, Chesapeake, Dunbar, and surrounding Kanawha County communities.",
+    "address": "301 Tennessee Ave, Charleston, WV 25301",
+    "phone": "(304) 343-4548",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "25039"
+  },
+  {
+    "name": "Nitro Community Food Pantry (St. Paul's United Methodist Church)",
+    "description": "Food pantry serving Nitro and surrounding Kanawha County communities. Open Tuesday 9:30am\u201311am.",
+    "address": "108 Holly Street, Nitro, WV 25143",
+    "phone": "304-881-2015",
+    "url": "https://stpaulsnitro.org/?page_id=186",
+    "categorySlug": "food",
+    "zipCode": "25143"
+  },
+  {
+    "name": "St. Albans Community Food Pantry",
+    "description": "Food pantry at St. Mark's Episcopal Church serving Saint Albans and surrounding areas. Open Tuesday and Thursday 8:30am\u201310:30am.",
+    "address": "405 B Street, Saint Albans, WV 25177",
+    "phone": "304-722-4284",
+    "url": "https://westvirginiafoodpantry.org/food-bank/st-albans-community-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "25177"
+  },
+  {
+    "name": "Ten Up Ministries Food Pantry",
+    "description": "Faith-based food pantry in Saint Albans. Open the 1st Thursday of each month, 6:30\u20138:30 PM.",
+    "address": "12646 Coal River Road, Saint Albans, WV 25177",
+    "phone": "304-419-7252",
+    "url": "https://www.foodpantries.org/ci/wv-saint_albans",
+    "categorySlug": "food",
+    "zipCode": "25177"
+  },
+  {
+    "name": "Common Grounds Food Pantry",
+    "description": "Food pantry serving Kanawha County communities including Glasgow, Handley, Hansford, Hernshaw, Hugheston, London, Mammoth, Miami, Pratt, and Winifrede. Open Tuesday and Thursday 10am\u20132pm.",
+    "address": "6600 McCorkle Ave SE, Charleston, WV 25304",
+    "phone": "304-720-9690",
+    "url": "https://foodpantries.org/li/common_grounds_25304",
+    "categorySlug": "food",
+    "zipCode": "25086"
+  },
+  {
+    "name": "Christ Kitchen Food Pantry",
+    "description": "Faith-based food pantry providing food assistance to Saint Albans and surrounding Kanawha County communities.",
+    "address": "Saint Albans, WV 25177",
+    "phone": "",
+    "url": "https://www.yellowpages.com/saint-albans-wv/mip/christ-kitchen-food-pantry-inc-523719619",
+    "categorySlug": "food",
+    "zipCode": "25177"
+  },
+  {
+    "name": "Manna Meal",
+    "description": "Soup kitchen serving free meals 365 days a year inside St. John's Episcopal Church. Breakfast daily 8\u20139am, lunch Mon\u2013Sat 11:30am\u20131pm, Sunday 12:30pm\u20132pm. Serves up to 400 people per day.",
+    "address": "1105 Quarrier Street, Charleston, WV 25301",
+    "phone": "304-345-7121",
+    "url": "https://www.mannameal.org/",
+    "categorySlug": "food",
+    "zipCode": "25301"
+  },
+  {
+    "name": "Covenant House Food Pantry",
+    "description": "Food pantry providing food, diapers, and hygiene items to Kanawha County families. Open Monday\u2013Friday 9am\u201312pm, clients can visit twice per month.",
+    "address": "600 Shrewsbury Street, Charleston, WV 25301",
+    "phone": "304-344-8053",
+    "url": "https://www.foodpantries.org/li/covenant_house_food_pantry_25301",
+    "categorySlug": "food",
+    "zipCode": "25301"
+  },
+  {
+    "name": "Salvation Army Charleston",
+    "description": "Food pantry and emergency social services serving Kanawha and Putnam counties, including rental and utility assistance.",
+    "address": "301 Tennessee Avenue, Charleston, WV 25302",
+    "phone": "304-342-5851",
+    "url": "https://southernusa.salvationarmy.org/charlestonwv/",
+    "categorySlug": "food",
+    "zipCode": "25302"
+  },
+  {
+    "name": "YWCA Sojourner's Shelter for Homeless Women & Families",
+    "description": "Emergency shelter providing 75-bed capacity for homeless women, women with children, and families. Services 24/7, 365 days a year including crisis intervention, case management, and free USDA meals.",
+    "address": "1418 Washington Street East, Charleston, WV 25301",
+    "phone": "304-340-3562",
+    "url": "https://www.ywcacharleston.org/sojourners",
+    "categorySlug": "housing",
+    "zipCode": "25301"
+  },
+  {
+    "name": "Union Mission Ministries Crossroads Men's Shelter",
+    "description": "Emergency men's homeless shelter providing meals, lodging, hot showers, clean clothes, and toiletries year-round. Capacity of 76 beds, serving 150\u2013200 meals daily.",
+    "address": "503 Leon Sullivan Way, Charleston, WV 25301",
+    "phone": "304-343-4352",
+    "url": "https://unionmission.com/crossroads-mens-shelter/",
+    "categorySlug": "housing",
+    "zipCode": "25301"
+  },
+  {
+    "name": "Mountain Mission Food Pantry",
+    "description": "Food pantry serving Kanawha County including North Charleston, West Charleston, and Sissonville. Open Monday\u2013Friday 9am\u20133pm.",
+    "address": "1620 Seventh Avenue, Charleston, WV 25312",
+    "phone": "304-344-3407",
+    "url": "https://www.foodpantries.org/ci/wv-charleston",
+    "categorySlug": "food",
+    "zipCode": "25312"
+  },
+  {
+    "name": "YWCA Resolve Family Abuse Program",
+    "description": "24/7 shelter, crisis hotline, and emergency intervention for domestic violence victims. Offers case management, court advocacy, counseling, and children's programs serving Kanawha, Clay, and Boone counties.",
+    "address": "Charleston, WV 25301",
+    "phone": "800-681-8663",
+    "url": "https://www.ywcacharleston.org/resolve",
+    "categorySlug": "crisis",
+    "zipCode": "25301"
+  },
+  {
+    "name": "Tyler Mountain Cross Lanes Community Services",
+    "description": "Community services organization serving Cross Lanes and surrounding Kanawha County neighborhoods.",
+    "address": "5320 Frontier Drive, Cross Lanes, WV 25313",
+    "phone": "304-776-5813",
+    "url": "https://www.kanawhavalleycollective.org/food-and-meals",
+    "categorySlug": "community",
+    "zipCode": "25313"
+  },
+  {
+    "name": "Lewis County Family Resource Network Food & Hygiene Pantry",
+    "description": "Provides food, hygiene products, baby supplies, and personal care items. Fresh produce available Tuesday and Thursday. Full food orders by appointment once per month.",
+    "address": "126 East 2nd Street, Weston, WV 26452",
+    "phone": "304-269-4000",
+    "url": "https://lewiscountyfrn.org/",
+    "categorySlug": "food",
+    "zipCode": "26452"
+  },
+  {
+    "name": "Lewis County Food Pantry",
+    "description": "Community food pantry providing food assistance to residents of Lewis County.",
+    "address": "Weston, WV 26452",
+    "phone": "",
+    "url": "https://www.facebook.com/LewisCountyFoodPantry/",
+    "categorySlug": "food",
+    "zipCode": "26452"
+  },
+  {
+    "name": "Mountaineer Food Bank Mobile Pantry \u2013 Lewis County",
+    "description": "Mobile food pantry serving Lewis County, providing free food boxes including fresh produce, dairy, and baked goods to food-insecure residents.",
+    "address": "Jackson's Mill Airstrip, Jane Lew, WV 26378",
+    "phone": "304-364-5518",
+    "url": "https://www.mountaineerfoodbank.org/mobilepantry",
+    "categorySlug": "food",
+    "zipCode": "26378"
+  },
+  {
+    "name": "Lincoln County Opportunity Company",
+    "description": "Community action agency providing food assistance and social services to Lincoln County residents. Open Monday\u2013Friday 8am\u20134pm.",
+    "address": "360 Main Street, Hamlin, WV 25523",
+    "phone": "304-824-3448",
+    "url": "https://www.foodpantries.org/li/lincoln_county_opportunity_company_25523",
+    "categorySlug": "food",
+    "zipCode": "25523"
+  },
+  {
+    "name": "Bread From Heaven Food Pantry",
+    "description": "Community food pantry in Hamlin serving Lincoln County. Distribution on the fourth Tuesday of each month.",
+    "address": "Whites Plaza, Hamlin, WV 25523",
+    "phone": "",
+    "url": "http://breadfromheavenfoodpantry.com/",
+    "categorySlug": "food",
+    "zipCode": "25523"
+  },
+  {
+    "name": "Holy Spirit Food and Prayer Pantry",
+    "description": "Faith-based food pantry serving West Hamlin and Lincoln County. Open Wednesday, Thursday, and Friday 9am\u20132pm during the 2nd week of each month.",
+    "address": "6650 Sheridan Street, West Hamlin, WV 25571",
+    "phone": "304-778-7393",
+    "url": "https://www.foodpantries.org/ci/wv-hamlin",
+    "categorySlug": "food",
+    "zipCode": "25571"
+  },
+  {
+    "name": "Salvation Army Food Pantry \u2013 Logan",
+    "description": "Food pantry serving Logan County residents with emergency food assistance.",
+    "address": "544 Stratton Street, Logan, WV 25601",
+    "phone": "304-792-1147",
+    "url": "https://foodpantries.org/li/the-salvation-army-of-logan-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "25601"
+  },
+  {
+    "name": "Nighbert Memorial United Methodist Church Food Pantry",
+    "description": "Food pantry and soup kitchen serving Logan County. Pantry open 3rd Monday 10am\u20131pm; soup kitchen every Wednesday 4\u20136pm.",
+    "address": "302 Cole Street, Logan, WV 25601",
+    "phone": "304-752-7931",
+    "url": "https://www.foodpantries.org/ci/wv-logan",
+    "categorySlug": "food",
+    "zipCode": "25601"
+  },
+  {
+    "name": "Amazing Grace Food Pantry",
+    "description": "Faith-based food pantry in Chapmanville serving Logan County. Open 3rd Saturday 1\u20133pm.",
+    "address": "2478 Crawley Creek Road, Chapmanville, WV 25508",
+    "phone": "304-688-8295",
+    "url": "https://www.homelessshelterdirectory.org/foodbanks/city/wv-chapmanville.html",
+    "categorySlug": "food",
+    "zipCode": "25508"
+  },
+  {
+    "name": "Upper Crawley Creek Christian Center Food Pantry",
+    "description": "Faith-based food pantry in Chapmanville. Open 3rd Thursday 2\u20134pm.",
+    "address": "42 Robert Adam Drive, Chapmanville, WV 25508",
+    "phone": "304-855-7866",
+    "url": "https://www.homelessshelterdirectory.org/foodbanks/city/wv-chapmanville.html",
+    "categorySlug": "food",
+    "zipCode": "25508"
+  },
+  {
+    "name": "Hungry Lambs Food Pantry",
+    "description": "Community food pantry serving Logan County in Peach Creek. Open 2nd and 4th Wednesday 10am\u201312pm.",
+    "address": "100 Recovery Road, Peach Creek, WV 25639",
+    "phone": "304-896-4553",
+    "url": "https://www.foodpantries.org/ci/wv-logan",
+    "categorySlug": "food",
+    "zipCode": "25639"
+  },
+  {
+    "name": "Facing Hunger Foodbank \u2013 Logan County Distribution",
+    "description": "Regional food bank distributing food through partner agencies in Logan County. Contact for food pantry locations near Holden, Kistler, Mallory, and surrounding communities.",
+    "address": "1327 7th Avenue, Huntington, WV 25701",
+    "phone": "304-523-6029",
+    "url": "https://facinghunger.org/",
+    "categorySlug": "food",
+    "zipCode": "25625"
+  },
+  {
+    "name": "Monclo-Logan Food Pantry",
+    "description": "Community food pantry serving Sharples and southern Logan County. Open 3rd Saturday 9\u201311am.",
+    "address": "1331 Monclo Road, Sharples, WV 25183",
+    "phone": "304-369-5782",
+    "url": "https://www.facinghunger.org/wp-content/uploads/2020/07/Logan-County-Agencies.pdf",
+    "categorySlug": "food",
+    "zipCode": "25183"
+  },
+  {
+    "name": "Fairmont Marion County Food Pantry",
+    "description": "Nonprofit 501(c)(3) food pantry serving Marion County. Open every Wednesday 9am\u201312pm.",
+    "address": "107 Jefferson Street, Fairmont, WV 26554",
+    "phone": "304-363-7150",
+    "url": "https://westvirginiafoodpantry.org/food-bank/fairmont-marion-county-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "26554"
+  },
+  {
+    "name": "Union Rescue Mission of Fairmont",
+    "description": "Provides daily meals, emergency shelter, clothing distribution, showers, laundry facilities, and basic health care for the homeless and hungry of Marion County.",
+    "address": "Fairmont, WV 26554",
+    "phone": "304-363-0300",
+    "url": "https://urmwv.org/",
+    "categorySlug": "housing",
+    "zipCode": "26554"
+  },
+  {
+    "name": "Scott Place Homeless Shelter",
+    "description": "Emergency shelter for individuals and families operated by North Central WV Community Action Association (NCWVCAA). Provides safe, sanitary shelter for those with little or no means of support.",
+    "address": "215 Scott Place, Fairmont, WV 26554",
+    "phone": "304-366-6543",
+    "url": "https://ncwvcaacorp.net/programs/homeless-recovery/name/marion-county-office-2/",
+    "categorySlug": "housing",
+    "zipCode": "26554"
+  },
+  {
+    "name": "Marion County Family Resource & Support Network",
+    "description": "Provides essential needs pantry, baby needs pantry, and family support services. Open Tuesday and Thursday 9:30am\u20132pm.",
+    "address": "200 Fairmont Avenue, Suite 106, Fairmont, WV 26554",
+    "phone": "",
+    "url": "https://www.marioncountyfrn.com/",
+    "categorySlug": "food",
+    "zipCode": "26554"
+  },
+  {
+    "name": "Hillview Baptist Church Food Pantry",
+    "description": "Faith-based food pantry serving Monongah and Marion County communities.",
+    "address": "Monongah, WV 26554",
+    "phone": "",
+    "url": "https://www.foodpantries.org/li/hillview_baptist_church_food_pantry_26554",
+    "categorySlug": "food",
+    "zipCode": "26554"
+  },
+  {
+    "name": "Mannington Food Pantry and Clothes Closet",
+    "description": "Community food pantry and clothing closet serving Mannington, Farmington, Metz, and Hundred. Open Wednesday 9am\u201312pm. Soup kitchen at separate location on Wednesdays 10:30am\u20131pm.",
+    "address": "811 East Main Street, Mannington, WV 26582",
+    "phone": "304-986-2147",
+    "url": "https://www.foodpantries.org/li/wv_mannington_mannington-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "26582"
+  },
+  {
+    "name": "Shepherd's Pantry",
+    "description": "Community food pantry serving Moundsville and Marshall County. Open Wednesday 9am\u201311:30am.",
+    "address": "601 Jefferson Avenue, Moundsville, WV 26041",
+    "phone": "304-221-9510",
+    "url": "https://www.findhelp.org/shepherd's-pantry-in-marshall-county--moundsville-wv--food-pantry-/5794945709506560?postal=26041",
+    "categorySlug": "food",
+    "zipCode": "26041"
+  },
+  {
+    "name": "Mt. Olivet United Methodist Church \u2013 The Lord's Pantry",
+    "description": "Food pantry serving Moundsville and Marshall County. Open every Thursday 8:30am\u20134pm. Photo ID required, walk-ins welcome.",
+    "address": "248 Jefferson Avenue, Moundsville, WV 26041",
+    "phone": "304-845-0510",
+    "url": "https://www.findhelp.org/food/food-pantry--moundsville-wv",
+    "categorySlug": "food",
+    "zipCode": "26041"
+  },
+  {
+    "name": "Marshall County Family Resource Network",
+    "description": "Nonprofit providing food assistance, mobile food pantry events, and family services throughout Marshall County including Moundsville, Cameron, and surrounding communities.",
+    "address": "1501 Second Street, Moundsville, WV 26041",
+    "phone": "304-845-3300",
+    "url": "https://marshallcountyfrn.com/",
+    "categorySlug": "food",
+    "zipCode": "26041"
+  },
+  {
+    "name": "Blue & Gold Christian Center",
+    "description": "Provides hot meals after school Monday\u2013Friday for children and a community hot meal on the first Friday of each month at 12pm. No eligibility requirements.",
+    "address": "7 Church Street, Cameron, WV 26033",
+    "phone": "304-686-2210",
+    "url": "https://marshallcountyfrn.com/wp-content/uploads/2025/01/Food-Assistance-Guide-Updated-012925.pdf",
+    "categorySlug": "food",
+    "zipCode": "26033"
+  },
+  {
+    "name": "Temple Baptist Church Food Pantry",
+    "description": "Food pantry serving Moundsville open Monday\u2013Thursday 9am\u201312pm on an as-needed basis. Call ahead to make an appointment.",
+    "address": "1601 First Street, Moundsville, WV 26041",
+    "phone": "304-845-2732",
+    "url": "https://www.findhelp.org/food/food-pantry--moundsville-wv",
+    "categorySlug": "food",
+    "zipCode": "26041"
+  },
+  {
+    "name": "Mason County Homeless Shelter",
+    "description": "Emergency shelter serving Mason County residents experiencing homelessness.",
+    "address": "506 12th Street, Point Pleasant, WV 25550",
+    "phone": "304-675-1124",
+    "url": "https://www.missionwv.org/mason-resources",
+    "categorySlug": "housing",
+    "zipCode": "25550"
+  },
+  {
+    "name": "Mason County Baby Pantry",
+    "description": "Provides baby supplies and essential items for families with infants in Mason County.",
+    "address": "510 Burdette Street, Point Pleasant, WV 25550",
+    "phone": "304-807-5557",
+    "url": "https://www.missionwv.org/mason-resources",
+    "categorySlug": "food",
+    "zipCode": "25550"
+  },
+  {
+    "name": "Bend Area Food Pantry",
+    "description": "Community food pantry serving Mason, WV and surrounding Mason County communities.",
+    "address": "516 Adams Street, Mason, WV 25260",
+    "phone": "304-882-3570",
+    "url": "https://www.missionwv.org/mason-resources",
+    "categorySlug": "food",
+    "zipCode": "25260"
+  },
+  {
+    "name": "Kitchen of Blessing",
+    "description": "Food assistance program serving Henderson and Mason County communities.",
+    "address": "304 Holloway Street, Henderson, WV 25106",
+    "phone": "304-674-5718",
+    "url": "https://www.missionwv.org/mason-resources",
+    "categorySlug": "food",
+    "zipCode": "25106"
+  },
+  {
+    "name": "Mason County Family Support Center",
+    "description": "Family support organization providing community services and assistance to Mason County residents.",
+    "address": "624 Main Street, Point Pleasant, WV 25550",
+    "phone": "304-812-5102",
+    "url": "https://www.missionwv.org/mason-resources",
+    "categorySlug": "community",
+    "zipCode": "25550"
+  },
+  {
+    "name": "Prestera Center \u2013 Point Pleasant",
+    "description": "Behavioral health and crisis services center for Mason County. 24/7 crisis line available.",
+    "address": "710 Viand Street, Point Pleasant, WV 25550",
+    "phone": "304-675-2361",
+    "url": "https://www.missionwv.org/mason-resources",
+    "categorySlug": "crisis",
+    "zipCode": "25550"
+  },
+  {
+    "name": "Five Loaves & Two Fishes Food Bank",
+    "description": "Nonprofit food bank serving McDowell County families with monthly large-scale distribution of non-perishable food, hygiene products, and household goods. Major distribution on 3rd Saturday of each month. Also operates an emergency pantry and infant/children's needs program.",
+    "address": "171 Riverside Drive, Welch, WV 24801",
+    "phone": "304-436-6644",
+    "url": "https://fiveloavestwofishes.com/",
+    "categorySlug": "food",
+    "zipCode": "24801"
+  },
+  {
+    "name": "Council of the Southern Mountains Emergency Food Pantry",
+    "description": "Community action agency founded 1964 serving low-income McDowell County residents with food pantry, transportation, seasonal food allocations, clothing, energy assistance, and housing referrals. Income guidelines apply.",
+    "address": "148 McDowell Street, Welch, WV 24801",
+    "phone": "304-436-6800",
+    "url": "http://councilofthesouthernmountains.com/about_us",
+    "categorySlug": "food",
+    "zipCode": "24801"
+  },
+  {
+    "name": "God's Grace Ministry Food Pantry",
+    "description": "Faith-based food pantry serving Welch and southern McDowell County. Open Monday\u2013Friday 8am\u20135pm.",
+    "address": "21 McDowell Street, Coalwood, WV 24801",
+    "phone": "304-938-6072",
+    "url": "https://www.findhelp.org/gods-grace-ministry--coalwood-wv--food-pantry/6099376682434560?postal=24801",
+    "categorySlug": "food",
+    "zipCode": "24801"
+  },
+  {
+    "name": "Five Loaves & Two Fishes Food Bank",
+    "description": "Nonprofit food bank providing non-perishable food items, hygiene products, and household goods to McDowell County residents year-round. Large monthly distribution held on the third Saturday of each month serving 150+ families.",
+    "address": "Coal Heritage Road (US-52), Kimball, WV 24853",
+    "phone": "304-585-7295",
+    "url": "https://fiveloavestwofishes.com/",
+    "categorySlug": "food",
+    "zipCode": "24853"
+  },
+  {
+    "name": "Little Sparrow Food Pantry",
+    "description": "Food pantry in Iaeger offering a 'Pick 12' program every 3rd Saturday of the month from 11am-2pm. Participants select 12 items plus hygiene products, bottled water, and a bag of frozen meat.",
+    "address": "Iaeger, WV 24844",
+    "phone": "304-784-7659",
+    "url": "https://www.foodpantries.org/co/wv-mcdowell",
+    "categorySlug": "food",
+    "zipCode": "24844"
+  },
+  {
+    "name": "Council of the Southern Mountains - Emergency Food Pantry",
+    "description": "Community action agency providing emergency food pantry assistance to low-income McDowell County families every three months. Also offers emergency utility and no-heat emergency assistance.",
+    "address": "148 McDowell Street, Welch, WV 24801",
+    "phone": "304-436-6800",
+    "url": "https://www.councilofthesouthernmountains.com/",
+    "categorySlug": "food",
+    "zipCode": "24836"
+  },
+  {
+    "name": "SAFE Housing & Economic Development (SHED)",
+    "description": "HUD Certified housing counseling agency offering home buyers education, home repair, affordable rentals including The Oaks Apartments in Gary for elderly low-income residents age 62+, and The Payne Building Apartments in Welch.",
+    "address": "69 Wyoming Street, Welch, WV 24801",
+    "phone": "304-436-6367",
+    "url": "https://shedhousing.org/",
+    "categorySlug": "housing",
+    "zipCode": "24836"
+  },
+  {
+    "name": "McDowell County Commission on Aging",
+    "description": "Provides senior center, meals, respite care, in-home assistance (bathing, dressing, grooming, laundry, shopping), and caregiver support programs for seniors and disabled residents throughout McDowell County.",
+    "address": "725 Stewart Street, Welch, WV 24801",
+    "phone": "304-436-6588",
+    "url": "https://mcdowellcoa.org/",
+    "categorySlug": "community",
+    "zipCode": "24836"
+  },
+  {
+    "name": "Highland Education Project",
+    "description": "Ecumenical outreach ministry providing clothing distribution, emergency assistance with medical costs and heating bills, and other emergency services to McDowell County residents.",
+    "address": "Premier Park, Welch, WV 24801",
+    "phone": "304-436-2641",
+    "url": "https://facesfrn.org/resource-directory/",
+    "categorySlug": "community",
+    "zipCode": "24830"
+  },
+  {
+    "name": "Council of the Southern Mountains - Emergency Utility Assistance",
+    "description": "Emergency heating and utility assistance for low-income McDowell County households. Can repair or replace malfunctioning heating units or install new systems for those at the federal poverty income guideline.",
+    "address": "148 McDowell Street, Welch, WV 24801",
+    "phone": "304-436-6800",
+    "url": "https://www.councilofthesouthernmountains.com/emergency-assistance",
+    "categorySlug": "utilities",
+    "zipCode": "24815"
+  },
+  {
+    "name": "Five Loaves & Two Fishes Food Bank",
+    "description": "Nonprofit food bank serving McDowell County residents with non-perishable food items, hygiene products, and household goods. Monthly large distribution on the third Saturday serving 150+ families.",
+    "address": "Coal Heritage Road (US-52), Kimball, WV 24853",
+    "phone": "304-585-7295",
+    "url": "https://fiveloavestwofishes.com/",
+    "categorySlug": "food",
+    "zipCode": "24853"
+  },
+  {
+    "name": "Council of the Southern Mountains - Emergency Food Pantry",
+    "description": "Emergency food pantry assisting low-income families in McDowell County (including Jenkinjones, Jolo, Keystone area) with nutritional food items available every three months.",
+    "address": "148 McDowell Street, Welch, WV 24801",
+    "phone": "304-436-6800",
+    "url": "https://www.councilofthesouthernmountains.com/",
+    "categorySlug": "food",
+    "zipCode": "24850"
+  },
+  {
+    "name": "SAFE Housing & Economic Development (SHED)",
+    "description": "HUD Certified housing counseling agency providing home buyers education, home repair grants, and affordable rental housing for very low to low-income residents in McDowell County.",
+    "address": "69 Wyoming Street, Welch, WV 24801",
+    "phone": "304-436-6367",
+    "url": "https://shedhousing.org/",
+    "categorySlug": "housing",
+    "zipCode": "24852"
+  },
+  {
+    "name": "McDowell County Commission on Aging",
+    "description": "Senior services including center activities, meals, respite care, and in-home assistance for seniors and disabled residents throughout McDowell County including the Keystone and Roderfield areas.",
+    "address": "725 Stewart Street, Welch, WV 24801",
+    "phone": "304-436-6588",
+    "url": "https://mcdowellcoa.org/",
+    "categorySlug": "community",
+    "zipCode": "24868"
+  },
+  {
+    "name": "Council of the Southern Mountains - Emergency Utility Assistance",
+    "description": "Provides emergency heating assistance and can repair or replace malfunctioning heating units for low-income households in McDowell County at the federal poverty income guideline.",
+    "address": "148 McDowell Street, Welch, WV 24801",
+    "phone": "304-436-6800",
+    "url": "https://www.councilofthesouthernmountains.com/emergency-assistance",
+    "categorySlug": "utilities",
+    "zipCode": "24848"
+  },
+  {
+    "name": "Five Loaves & Two Fishes Food Bank",
+    "description": "Nonprofit food bank providing non-perishable food items, hygiene products, and household goods to McDowell County residents. Monthly distribution on the third Saturday of each month.",
+    "address": "Coal Heritage Road (US-52), Kimball, WV 24853",
+    "phone": "304-585-7295",
+    "url": "https://fiveloavestwofishes.com/",
+    "categorySlug": "food",
+    "zipCode": "24895"
+  },
+  {
+    "name": "Salvation Army - Princeton",
+    "description": "Food pantry serving Mercer County residents including low-income families, single parents, seniors, veterans, and working poor. Pantry hours Monday through Thursday.",
+    "address": "300 Princeton Avenue, Princeton, WV 24740",
+    "phone": "304-425-2971",
+    "url": "https://westvirginiafoodpantry.org/food-bank/salvation-army-princeton/",
+    "categorySlug": "food",
+    "zipCode": "24701"
+  },
+  {
+    "name": "Tender Mercies Ministries",
+    "description": "Nonprofit food pantry in Princeton serving Mercer County residents. Open Tuesday and Thursday 9:30am-12:30pm for food distribution.",
+    "address": "Princeton, WV 24740",
+    "phone": "304-425-4945",
+    "url": "https://www.foodpantries.org/li/tender_mercies_ministries_incorporated_24740",
+    "categorySlug": "food",
+    "zipCode": "24715"
+  },
+  {
+    "name": "Open Heart Ministries",
+    "description": "Provides food services, skills training, help finding work and housing, help securing identification, and short-term housing units for up to 6 people for 3-4 months. Open Thursday-Friday 8am-2pm.",
+    "address": "415 Federal St, Bluefield, WV 24701",
+    "phone": "304-323-2551",
+    "url": "https://www.openheartwv.org/",
+    "categorySlug": "crisis",
+    "zipCode": "24701"
+  },
+  {
+    "name": "Mercer County Fellowship Home",
+    "description": "Transitional housing and recovery services for adult males recovering from substance abuse. Residents may stay 3 months to 18 months while working on recovery and reintegration.",
+    "address": "421 Scott Street, Bluefield, WV 24701",
+    "phone": "304-362-8581",
+    "url": "http://mercercountyfellowshiphome.org/",
+    "categorySlug": "housing",
+    "zipCode": "24701"
+  },
+  {
+    "name": "SAFE Housing & Economic Development (SHED)",
+    "description": "HUD Certified housing counseling agency serving McDowell, Mercer, and Wyoming Counties. Provides home buyers education, home repair grants, and affordable rental housing.",
+    "address": "69 Wyoming Street, Welch, WV 24801",
+    "phone": "304-436-6367",
+    "url": "https://shedhousing.org/",
+    "categorySlug": "housing",
+    "zipCode": "24712"
+  },
+  {
+    "name": "Salvation Army - Princeton",
+    "description": "Food pantry serving Mercer County residents in Montcalm, Oakvale, Princeton and surrounding areas. Open Monday through Thursday for food distribution to those in need.",
+    "address": "300 Princeton Avenue, Princeton, WV 24740",
+    "phone": "304-425-2971",
+    "url": "https://westvirginiafoodpantry.org/food-bank/salvation-army-princeton/",
+    "categorySlug": "food",
+    "zipCode": "24740"
+  },
+  {
+    "name": "Tender Mercies Ministries",
+    "description": "Nonprofit food pantry in Princeton serving Mercer County including Spanishburg, Camp Creek, and Lerona areas. Open Tuesday and Thursday 9:30am-12:30pm.",
+    "address": "Princeton, WV 24740",
+    "phone": "304-425-4945",
+    "url": "https://www.foodpantries.org/li/tender_mercies_ministries_incorporated_24740",
+    "categorySlug": "food",
+    "zipCode": "25922"
+  },
+  {
+    "name": "Open Heart Ministries",
+    "description": "Provides food services, skills training, help finding work and housing, help securing identification, and short-term housing for people experiencing homelessness. Open Thursday-Friday 8am-2pm.",
+    "address": "415 Federal St, Bluefield, WV 24701",
+    "phone": "304-323-2551",
+    "url": "https://www.openheartwv.org/",
+    "categorySlug": "crisis",
+    "zipCode": "24737"
+  },
+  {
+    "name": "Faith in Action Food Pantry",
+    "description": "Nonprofit food pantry serving all of Mineral County including Burlington, Elk Garden, Fort Ashby, and Piedmont. Open Tuesday through Friday 1pm-3pm.",
+    "address": "71 James Street, Keyser, WV 26726",
+    "phone": "304-788-5331",
+    "url": "https://www.homelessshelterdirectory.org/foodbank/wv_faith-in-action-inc",
+    "categorySlug": "food",
+    "zipCode": "26719"
+  },
+  {
+    "name": "Mineral County Family Resource Network",
+    "description": "Nonprofit organization providing family programs, community enrichment, and referrals to local resources for Mineral County residents including Fort Ashby, New Creek, and Piedmont areas.",
+    "address": "30 Armstrong Street, Keyser, WV 26726",
+    "phone": "304-788-5331",
+    "url": "https://www.mineralcountyfrn.org/",
+    "categorySlug": "community",
+    "zipCode": "26750"
+  },
+  {
+    "name": "Faith in Action Food Pantry",
+    "description": "Nonprofit food pantry serving all of Mineral County. Open Tuesday through Friday 1pm-3pm for food distribution to residents of Wiley Ford and surrounding Mineral County communities.",
+    "address": "71 James Street, Keyser, WV 26726",
+    "phone": "304-788-5331",
+    "url": "https://www.homelessshelterdirectory.org/foodbank/wv_faith-in-action-inc",
+    "categorySlug": "food",
+    "zipCode": "26767"
+  },
+  {
+    "name": "Christian Help, Inc. of Mingo County",
+    "description": "Nondenominational charity serving Mingo County and Martin County, KY. Provides emergency food pantry (the only pantry in the tri-state region open Monday-Friday with no visit limits), free store, financial help, and on-demand transportation.",
+    "address": "100 Lincoln St, Kermit, WV 25674",
+    "phone": "304-393-4251",
+    "url": "https://www.christianhelpmingo.org/",
+    "categorySlug": "food",
+    "zipCode": "25661"
+  },
+  {
+    "name": "Tug Valley Recovery Shelter",
+    "description": "Domestic violence shelter providing emergency housing, 24-hour crisis line, counseling, advocacy, and sexual assault services for women and children in Mingo and Logan Counties.",
+    "address": "P.O. Box 677, Williamson, WV 25661",
+    "phone": "304-235-6121",
+    "url": "https://tvrs304.org/",
+    "categorySlug": "crisis",
+    "zipCode": "25661"
+  },
+  {
+    "name": "Housing Authority of Mingo County",
+    "description": "Public housing authority serving Mingo, McDowell, Logan, Wayne, and Wyoming Counties since 1977. Administers 1,500 Housing Choice Vouchers for low-income individuals, families, elderly, and disabled residents.",
+    "address": "5026 Helena Avenue, Delbarton, WV 25670",
+    "phone": "304-475-4663",
+    "url": "https://www.mingohousing.com/",
+    "categorySlug": "housing",
+    "zipCode": "25670"
+  },
+  {
+    "name": "Coalfield Community Action Partnership",
+    "description": "Nonprofit serving Mingo County with Head Start, weatherization, personal care, emergency rent and utility assistance, food assistance, and job training and placement programs.",
+    "address": "1626 West 3rd Ave., Williamson, WV 25661",
+    "phone": "304-235-1701",
+    "url": "https://coalfieldcap.org/",
+    "categorySlug": "community",
+    "zipCode": "25651"
+  },
+  {
+    "name": "Christian Help, Inc. of Mingo County",
+    "description": "Nondenominational charity serving Mingo County. Provides emergency food pantry open Monday-Friday with no visit limits, free store, financial help, and on-demand transportation for residents of Lobata, Meador, Naugatuck, and surrounding areas.",
+    "address": "100 Lincoln St, Kermit, WV 25674",
+    "phone": "304-393-4251",
+    "url": "https://www.christianhelpmingo.org/",
+    "categorySlug": "food",
+    "zipCode": "25678"
+  },
+  {
+    "name": "Tug Valley Recovery Shelter",
+    "description": "Domestic violence shelter providing emergency housing, 24-hour crisis line, counseling, advocacy, and sexual assault services for women and children in Mingo and Logan Counties.",
+    "address": "P.O. Box 677, Williamson, WV 25661",
+    "phone": "304-235-6121",
+    "url": "https://tvrs304.org/",
+    "categorySlug": "crisis",
+    "zipCode": "25688"
+  },
+  {
+    "name": "Coalfield Community Action Partnership",
+    "description": "Nonprofit serving Mingo County with Head Start, weatherization, personal care, emergency rent and utility assistance, food assistance, and job training for residents of Rawl, Red Jacket, Varney and surrounding areas.",
+    "address": "1626 West 3rd Ave., Williamson, WV 25661",
+    "phone": "304-235-1701",
+    "url": "https://coalfieldcap.org/",
+    "categorySlug": "community",
+    "zipCode": "25692"
+  },
+  {
+    "name": "Scott's Run Settlement House",
+    "description": "501(c)3 providing food pantry, baby pantry, and pet pantry services to Monongalia County residents. Two locations: Fairchance Road (Mon-Fri 8:30am-2:30pm) and Lady Bug Lane/Osage (Thursday 8:30am-2:30pm).",
+    "address": "750 Fairchance Road, Morgantown, WV 26508",
+    "phone": "304-435-5098",
+    "url": "https://www.srsh.org/",
+    "categorySlug": "food",
+    "zipCode": "26501"
+  },
+  {
+    "name": "Bartlett Housing Solutions - Emergency Triage Shelter",
+    "description": "Emergency, transitional, and permanent housing with food and life skills training for homeless individuals and families in Monongalia County. Emergency shelter at Scott Ave open 24 hours, first-come first-served after 8pm.",
+    "address": "1110 University Avenue, Morgantown, WV 26505",
+    "phone": "304-292-0101",
+    "url": "https://www.bartletthousingsolutions.org/",
+    "categorySlug": "housing",
+    "zipCode": "26505"
+  },
+  {
+    "name": "Scott's Run Settlement House",
+    "description": "501(c)3 providing food pantry, baby pantry, and pet pantry to Monongalia County residents. Lady Bug Lane/Osage location open Thursday 8:30am-2:30pm; main Fairchance Road location Mon-Fri 8:30am-2:30pm.",
+    "address": "41 Lady Bug Lane, Osage, WV 26543",
+    "phone": "304-435-5098",
+    "url": "https://www.srsh.org/",
+    "categorySlug": "food",
+    "zipCode": "26543"
+  },
+  {
+    "name": "Bartlett Housing Solutions",
+    "description": "Provides emergency, transitional, and permanent housing along with food, life skills training, and case management for homeless individuals and families in Monongalia County to promote self-sufficiency.",
+    "address": "1110 University Avenue, Morgantown, WV 26505",
+    "phone": "304-292-0101",
+    "url": "https://www.bartletthousingsolutions.org/",
+    "categorySlug": "housing",
+    "zipCode": "26544"
+  },
+  {
+    "name": "Monroe County Outreach Ministry",
+    "description": "Nonprofit providing basic needs assistance to Monroe County residents since 1980, including food, utilities, shelter, and clothing. Works in partnership with other local organizations for emergency situations.",
+    "address": "Union, WV 24983",
+    "phone": "304-772-5869",
+    "url": "https://www.monroecountywv.gov/contact/resources-and-links/112",
+    "categorySlug": "community",
+    "zipCode": "24983"
+  },
+  {
+    "name": "Monroe County Coalition for Children and Families",
+    "description": "Provides emergency assistance for basic food needs and other basic needs to families and students in Monroe County including Union, Peterstown, and Lindside areas.",
+    "address": "Union, WV 24983",
+    "phone": "304-772-5960",
+    "url": "https://dhhr.wv.gov/bcf/Services/Documents/Monroe%20resource%20directory.pdf",
+    "categorySlug": "food",
+    "zipCode": "24963"
+  },
+  {
+    "name": "Morgan County Interfaith Emergency Care",
+    "description": "Provides food, financial, and fuel assistance in emergency situations for Morgan County residents. Open Tuesday and Friday 10am-2pm in Berkeley Springs.",
+    "address": "44 Bath St, Berkeley Springs, WV 25411",
+    "phone": "304-258-2487",
+    "url": "https://www.findhelp.org/morgan-county-interfaith-emergency-care--berkeley-springs-wv--food-pantry-/5972089194151936?postal=25411",
+    "categorySlug": "food",
+    "zipCode": "25411"
+  },
+  {
+    "name": "Morgan County Interfaith Emergency Care",
+    "description": "Provides food, financial, and fuel emergency assistance for Morgan County residents including Great Cacapon. Open Tuesday and Friday 10am-2pm.",
+    "address": "44 Bath St, Berkeley Springs, WV 25411",
+    "phone": "304-258-2487",
+    "url": "https://www.findhelp.org/morgan-county-interfaith-emergency-care--berkeley-springs-wv--food-pantry-/5972089194151936?postal=25411",
+    "categorySlug": "food",
+    "zipCode": "25422"
+  },
+  {
+    "name": "The Richwood Pantry",
+    "description": "Community pantry providing food, clothing, baby pantry, emergency assistance, disaster shelter, and referral services to Nicholas County residents. Located in Richwood serving eastern Nicholas County.",
+    "address": "14 Cherry River Plaza, Richwood, WV 26261",
+    "phone": "304-846-4479",
+    "url": "https://richwoodpantry.org/home/",
+    "categorySlug": "food",
+    "zipCode": "26261"
+  },
+  {
+    "name": "Bread of Life Food Pantry",
+    "description": "Food pantry in Summersville open the first Tuesday and Thursday of every month from 9am to noon, serving Nicholas County residents.",
+    "address": "427 Water Street, Summersville, WV 26651",
+    "phone": "304-880-3576",
+    "url": "https://therealwv.com/2025/11/29/public-food-pantry-locations-in-nicholas-county/",
+    "categorySlug": "food",
+    "zipCode": "26651"
+  },
+  {
+    "name": "New Beginnings Resource Center",
+    "description": "Resource center in Summersville open Saturdays 11am-2pm providing food and community support to Nicholas County residents.",
+    "address": "50 Stonewall Drive, Summersville, WV 26651",
+    "phone": "304-222-3863",
+    "url": "https://therealwv.com/2025/11/29/public-food-pantry-locations-in-nicholas-county/",
+    "categorySlug": "food",
+    "zipCode": "26651"
+  },
+  {
+    "name": "Nicholas Community Action Partnership",
+    "description": "Community action agency serving senior citizens and low-income residents of Nicholas County. Provides Head Start, homemaker program, senior nutrition, emergency utility assistance, in-home respite care, and transportation.",
+    "address": "1205 Broad Street, Summersville, WV 26651",
+    "phone": "304-872-1162",
+    "url": "https://ncapwv.org/",
+    "categorySlug": "community",
+    "zipCode": "26651"
+  },
+  {
+    "name": "Holy Family Food Pantry",
+    "description": "Food pantry in Richwood open every Tuesday 9am-2pm serving Nicholas County residents including Fenwick, Craigsville, and Richwood areas.",
+    "address": "4 Maple Street, Richwood, WV 26261",
+    "phone": "304-846-4343",
+    "url": "https://therealwv.com/2025/11/29/public-food-pantry-locations-in-nicholas-county/",
+    "categorySlug": "food",
+    "zipCode": "26205"
+  },
+  {
+    "name": "The Richwood Pantry",
+    "description": "Community food pantry providing food and clothing distribution twice a week, emergency assistance, disaster shelter (FEMA location), and referral services for residents of eastern Nicholas County.",
+    "address": "Richwood, WV 26261",
+    "phone": "304-846-4479",
+    "url": "https://richwoodpantry.org/home/",
+    "categorySlug": "food",
+    "zipCode": "26261"
+  },
+  {
+    "name": "Nicholas County Family Resource Network",
+    "description": "County resource network connecting families to local services including food, emergency assistance, and community referrals in Nicholas County.",
+    "address": "Summersville, WV 26651",
+    "phone": "",
+    "url": "https://nicholascountystartingpoints.org/",
+    "categorySlug": "community",
+    "zipCode": "26651"
+  },
+  {
+    "name": "AWAY - Advocating A Way for Adults & Youth (Nicholas County Outreach)",
+    "description": "Provides temporary emergency shelter, counseling, crisis intervention, and advocacy for victims of domestic violence and sexual violence. Extension office serving Nicholas County.",
+    "address": "Summersville, WV 26651",
+    "phone": "304-255-4066",
+    "url": "https://www.awaywv.org/",
+    "categorySlug": "crisis",
+    "zipCode": "26651"
+  },
+  {
+    "name": "House of the Carpenter",
+    "description": "Christ-centered charity offering a food pantry with canned goods, fresh produce, dairy, and meat for residents of Brooke, Marshall, Ohio, and Wetzel counties. Clients may receive food once every 60 days.",
+    "address": "200 South Front Street, Wheeling, WV 26003",
+    "phone": "304-233-4640",
+    "url": "https://www.houseofthecarpenter.com/",
+    "categorySlug": "food",
+    "zipCode": "26003"
+  },
+  {
+    "name": "Catholic Charities Neighborhood Center - Wheeling",
+    "description": "Food pantry open Tuesday and Thursday 11:00am\u20131:00pm serving residents of Ohio County WV, Marshall County WV, and Belmont County OH.",
+    "address": "125 18th St, Wheeling, WV 26003",
+    "phone": "",
+    "url": "https://www.ccwva.org/programs/food-assistance/",
+    "categorySlug": "food",
+    "zipCode": "26003"
+  },
+  {
+    "name": "St. James Evangelical Lutheran Church Food Pantry",
+    "description": "Food pantry open the fourth Tuesday of each month from 10:00am to 12:00pm, distributing non-perishable and perishable food items to residents of Ohio County WV, Marshall County WV, and Belmont County OH.",
+    "address": "Wheeling, WV 26003",
+    "phone": "304-233-0133",
+    "url": "https://ampleharvest.org/food-pantries/st-james-food-pantry-4364/",
+    "categorySlug": "food",
+    "zipCode": "26003"
+  },
+  {
+    "name": "Greater Wheeling Coalition for the Homeless",
+    "description": "Full-scale supportive services including emergency shelter, transitional housing, permanent housing, diversion, outreach, rental assistance, and wrap-around supportive services for homeless individuals and families.",
+    "address": "84 Fifteenth Street, Wheeling, WV 26003",
+    "phone": "304-232-6105",
+    "url": "https://www.wheelinghomeless.org/",
+    "categorySlug": "housing",
+    "zipCode": "26003"
+  },
+  {
+    "name": "YWCA Wheeling - Women's Residence and Emergency Homeless Shelter",
+    "description": "One of only two emergency homeless shelters for women in the northern panhandle of West Virginia, providing an 18-bed residence for women in need.",
+    "address": "Wheeling, WV 26003",
+    "phone": "",
+    "url": "https://ywcawheeling.org/programs/womens-residence-and-emergency-homeless-shelter/",
+    "categorySlug": "housing",
+    "zipCode": "26003"
+  },
+  {
+    "name": "Christian Assistance Network - Franklin",
+    "description": "Local food pantry serving Pendleton County residents, open Tuesday and Thursday 9:30am\u20131:30pm.",
+    "address": "331 Maple Ave., Franklin, WV 26807",
+    "phone": "304-249-5526",
+    "url": "https://www.foodpantries.org/ci/wv-franklin",
+    "categorySlug": "food",
+    "zipCode": "26807"
+  },
+  {
+    "name": "Franklin Church of God Food Pantry",
+    "description": "Food pantry open the first Monday of each month 10:00am to 2:00pm, serving Pendleton County residents.",
+    "address": "North Main Street, Franklin, WV 26807",
+    "phone": "304-257-4941",
+    "url": "https://www.foodpantries.org/ci/wv-franklin",
+    "categorySlug": "food",
+    "zipCode": "26807"
+  },
+  {
+    "name": "Pendleton County Domestic Violence Program",
+    "description": "Licensed domestic violence program offering legal advocacy, safety planning, safe shelter, 24-hour emergency hotline, peer support counseling, and services for children in Pendleton County.",
+    "address": "Franklin, WV 26807",
+    "phone": "304-257-4606",
+    "url": "https://wvcadv.org/partners/",
+    "categorySlug": "crisis",
+    "zipCode": "26807"
+  },
+  {
+    "name": "Pleasants County Neighbor Network - Emergency Food Pantry",
+    "description": "Emergency food pantry available to Pleasants County residents up to 4 times per rolling 12-month period, open Monday\u2013Friday 8:00am\u20134:00pm and the first Saturday of each month. Also hosts monthly Mountaineer Food Bank distributions.",
+    "address": "411 2nd Street, Saint Marys, WV 26170",
+    "phone": "",
+    "url": "https://pleasantscountyneighbornetwork.org/about-us",
+    "categorySlug": "food",
+    "zipCode": "26170"
+  },
+  {
+    "name": "North Central WV Community Action - Pocahontas County",
+    "description": "Community action food pantry serving Pocahontas County residents Monday\u2013Friday 8:00am\u20134:00pm, providing emergency food assistance and other supportive services.",
+    "address": "806 9th Ave., Marlinton, WV 24954",
+    "phone": "304-799-4082",
+    "url": "https://www.foodpantries.org/li/north_central_wv_community_action_county_of_pocahontas_24954",
+    "categorySlug": "food",
+    "zipCode": "24954"
+  },
+  {
+    "name": "Harvest House Food Pantry - Pocahontas Family Resource Network",
+    "description": "Food pantry open Monday\u2013Friday 8:00am\u20135:00pm serving Pocahontas County families with emergency food supplies.",
+    "address": "821 3rd Avenue, Marlinton, WV 24954",
+    "phone": "304-799-6847",
+    "url": "https://www.findhelp.org/pocahontas-family-resource-network--marlinton-wv--harvest-house-food-pantry/5419495174438912?postal=24934",
+    "categorySlug": "food",
+    "zipCode": "24954"
+  },
+  {
+    "name": "Pocahontas Cooperative Parish Food Bank",
+    "description": "Local church-based food pantry providing critical food assistance to Pocahontas County residents facing food insecurity.",
+    "address": "Marlinton, WV 24954",
+    "phone": "304-799-4271",
+    "url": "https://westvirginiafoodpantry.org/food-bank/pocahontas-cooperative-parish/",
+    "categorySlug": "food",
+    "zipCode": "24954"
+  },
+  {
+    "name": "Pocahontas County Family Resource Network",
+    "description": "Family outreach and education center serving as a one-stop shop for information, resources, and referrals for children and families, including parenting classes, child development, recreation, emergency assistance, and monthly food pantry programs.",
+    "address": "Marlinton, WV 24954",
+    "phone": "304-799-6847",
+    "url": "https://wvfrn.org/pocahontas/",
+    "categorySlug": "community",
+    "zipCode": "24954"
+  },
+  {
+    "name": "Pocahontas Memorial Hospital",
+    "description": "Critical access hospital providing healthcare services to Pocahontas County and surrounding communities.",
+    "address": "150 Duncan Rd, Buckeye, WV 24924",
+    "phone": "304-799-7400",
+    "url": "https://www.pocahontasmemorial.com/",
+    "categorySlug": "healthcare",
+    "zipCode": "24924"
+  },
+  {
+    "name": "Family Resource Center - Preston County Starting Points",
+    "description": "Family resource center in Kingwood providing information, resources, and referrals for families in Preston County, including a food pantry, baby pantry, and hygiene kits.",
+    "address": "105 West High Street, Kingwood, WV 26537",
+    "phone": "",
+    "url": "https://prestoncountyfrn.com/",
+    "categorySlug": "community",
+    "zipCode": "26537"
+  },
+  {
+    "name": "Food for Preston",
+    "description": "Nonprofit securing food, funding, and volunteers for 11 food pantries across Preston County since 1985, also operating a backpack program and school stores program.",
+    "address": "Kingwood, WV 26537",
+    "phone": "304-379-3519",
+    "url": "https://foodforpreston.org/food-pantries",
+    "categorySlug": "food",
+    "zipCode": "26537"
+  },
+  {
+    "name": "Food for Preston - Tunnelton Food Pantry",
+    "description": "Local food pantry serving southwest Preston County, open the 2nd and 4th Wednesday of each month 10:00am\u20132:00pm.",
+    "address": "8902 S Preston Hwy, Tunnelton, WV 26444",
+    "phone": "",
+    "url": "https://foodforpreston.org/food-pantries",
+    "categorySlug": "food",
+    "zipCode": "26444"
+  },
+  {
+    "name": "Newburg Grows Food Pantry",
+    "description": "Community food pantry serving the Newburg area of southwest Preston County. Delivery assistance available by calling ahead.",
+    "address": "Newburg, WV 26410",
+    "phone": "304-641-0081",
+    "url": "https://foodforpreston.org/food-pantries",
+    "categorySlug": "food",
+    "zipCode": "26410"
+  },
+  {
+    "name": "Preston County Caring Council / Family Resource Network",
+    "description": "County resource network facilitating collaboration among community organizations and filling gaps in services for children and families in Preston County.",
+    "address": "Kingwood, WV 26537",
+    "phone": "",
+    "url": "https://prestoncountyfrn.com/",
+    "categorySlug": "community",
+    "zipCode": "26537"
+  },
+  {
+    "name": "Food for Preston - Kingwood Food Pantry",
+    "description": "Community food pantry serving Kingwood-area residents of Preston County.",
+    "address": "Kingwood, WV 26537",
+    "phone": "304-329-1028",
+    "url": "https://foodforpreston.org/food-pantries",
+    "categorySlug": "food",
+    "zipCode": "26537"
+  },
+  {
+    "name": "Christian Community Cupboard - Hurricane",
+    "description": "Food pantry serving Putnam County residents on the south side of the Kanawha River, open Tuesday and Friday 10:00am\u201312:00pm.",
+    "address": "2843 Putnam Ave., Hurricane, WV 25526",
+    "phone": "",
+    "url": "https://www.foodpantries.org/ci/wv-hurricane",
+    "categorySlug": "food",
+    "zipCode": "25526"
+  },
+  {
+    "name": "Capital Resource Agency - Putnam County",
+    "description": "Community resource agency providing food assistance and social services to Putnam County residents.",
+    "address": "Hurricane, WV 25526",
+    "phone": "",
+    "url": "https://www.foodpantries.org/li/capital_resource_agency_putnam_county_25526",
+    "categorySlug": "community",
+    "zipCode": "25526"
+  },
+  {
+    "name": "Putnam County Health Department",
+    "description": "Local health department providing public health services including immunizations, family planning, and preventive health programs for Putnam County residents.",
+    "address": "Hurricane, WV 25526",
+    "phone": "",
+    "url": "https://pchdwv.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "25526"
+  },
+  {
+    "name": "Salt and Light Food Pantry - Winfield",
+    "description": "Food pantry distributing food to Putnam County residents on the second Saturday of every month 9:00am\u201312:00pm, with special distributions at Thanksgiving and Christmas.",
+    "address": "10822 Winfield Rd, Winfield, WV 25213",
+    "phone": "",
+    "url": "https://www.foodpantries.org/ci/wv-winfield",
+    "categorySlug": "food",
+    "zipCode": "25213"
+  },
+  {
+    "name": "Christian Community Cupboard - Hurricane",
+    "description": "Food pantry serving Putnam County residents on the south side of the Kanawha River, open Tuesday and Friday 10:00am\u201312:00pm.",
+    "address": "2843 Putnam Ave., Hurricane, WV 25526",
+    "phone": "",
+    "url": "https://www.foodpantries.org/ci/wv-hurricane",
+    "categorySlug": "food",
+    "zipCode": "25526"
+  },
+  {
+    "name": "Prestera Center - Putnam County",
+    "description": "Behavioral health and adult day program center serving individuals with intellectual disabilities, developmental delays, and mental health needs in Putnam County.",
+    "address": "Hurricane, WV 25526",
+    "phone": "",
+    "url": "https://beaminghealth.com/providers/prestera-center-putnam-county-hurricane-wv",
+    "categorySlug": "healthcare",
+    "zipCode": "25526"
+  },
+  {
+    "name": "Putnam Aging Program",
+    "description": "Senior services organization providing transportation to nutrition sites and medical care appointments for senior citizens in Putnam County.",
+    "address": "Winfield, WV 25213",
+    "phone": "304-755-2385",
+    "url": "https://hurricanewv.com/community-programs/",
+    "categorySlug": "transportation",
+    "zipCode": "25213"
+  },
+  {
+    "name": "Salt and Light Food Pantry - Winfield",
+    "description": "Food pantry distributing food to Putnam County residents on the second Saturday of every month 9:00am\u201312:00pm, with special distributions at Thanksgiving and Christmas.",
+    "address": "10822 Winfield Rd, Winfield, WV 25213",
+    "phone": "",
+    "url": "https://www.foodpantries.org/ci/wv-winfield",
+    "categorySlug": "food",
+    "zipCode": "25213"
+  },
+  {
+    "name": "Raleigh County Community Action Association (RCCAA)",
+    "description": "Community action agency providing emergency housing, food assistance, rapid re-housing, and permanent supportive housing programs for individuals and families in Raleigh County.",
+    "address": "111 Willow Ln, Beckley, WV 25801",
+    "phone": "304-252-6396",
+    "url": "https://www.rccaa.org/",
+    "categorySlug": "community",
+    "zipCode": "25801"
+  },
+  {
+    "name": "RCCAA Emergency Housing Center",
+    "description": "Emergency homeless shelter offering shelter to up to 150 men, women, children, and families with case management, crisis intervention, and supportive services.",
+    "address": "103 S. Eisenhower Drive, Beckley, WV 25801",
+    "phone": "304-252-6396",
+    "url": "https://www.rccaa.org/emergency-housing-center",
+    "categorySlug": "housing",
+    "zipCode": "25801"
+  },
+  {
+    "name": "Mountaineer Food Bank - Beckley Distribution",
+    "description": "Regional food bank providing emergency food assistance through distributions at Linda K. Epling Stadium serving Raleigh County and surrounding areas.",
+    "address": "200 Stadium Drive, Beckley, WV 25801",
+    "phone": "304-364-5518",
+    "url": "https://www.mountaineerfoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "25801"
+  },
+  {
+    "name": "AWAY - Advocating A Way (Raleigh County Outreach)",
+    "description": "Provides temporary emergency shelter, counseling, crisis intervention, and advocacy free of charge 24/7 for survivors of domestic violence and sexual violence in Raleigh and surrounding counties.",
+    "address": "104 Wilson St., Beckley, WV 25801",
+    "phone": "304-255-2559",
+    "url": "https://www.awaywv.org/",
+    "categorySlug": "crisis",
+    "zipCode": "25801"
+  },
+  {
+    "name": "Raleigh County Family Support Center",
+    "description": "Family support center providing warm and inviting spaces for families to receive vital support, including food pantry, baby pantry, and hygiene kits.",
+    "address": "Beckley, WV 25801",
+    "phone": "",
+    "url": "https://rcfsc.org/family-services/",
+    "categorySlug": "community",
+    "zipCode": "25801"
+  },
+  {
+    "name": "Crab Orchard Baptist Church - Dream Center Fishes & Loaves Food Pantry",
+    "description": "Church-based food pantry serving the Crab Orchard and surrounding areas of Raleigh County.",
+    "address": "Crab Orchard, WV 25827",
+    "phone": "",
+    "url": "https://raleighcountyfrn.org/business-directory/694/the-dream-center-fishes-loaves-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "25827"
+  },
+  {
+    "name": "RCCAA Emergency Housing Center",
+    "description": "Emergency homeless shelter offering temporary shelter to up to 150 men, women, children, and families with case management, crisis intervention, and supportive services in Raleigh County.",
+    "address": "103 S. Eisenhower Drive, Beckley, WV 25801",
+    "phone": "304-252-6396",
+    "url": "https://www.rccaa.org/emergency-housing-center",
+    "categorySlug": "housing",
+    "zipCode": "25801"
+  },
+  {
+    "name": "AWAY - Advocating A Way for Adults & Youth",
+    "description": "Private nonprofit providing emergency shelter, counseling, crisis intervention, and advocacy for survivors of domestic violence and sexual violence in Raleigh County, available 24/7 at no cost.",
+    "address": "104 Wilson St., Beckley, WV 25801",
+    "phone": "304-255-2559",
+    "url": "https://www.awaywv.org/",
+    "categorySlug": "crisis",
+    "zipCode": "25801"
+  },
+  {
+    "name": "Raleigh County Community Action Association (RCCAA)",
+    "description": "Community action agency offering food assistance, emergency housing, rapid re-housing, and permanent supportive housing programs for individuals and families throughout Raleigh County.",
+    "address": "111 Willow Ln, Beckley, WV 25801",
+    "phone": "304-252-6396",
+    "url": "https://www.rccaa.org/",
+    "categorySlug": "community",
+    "zipCode": "25801"
+  },
+  {
+    "name": "Mountaineer Food Bank - Beckley Distribution",
+    "description": "Regional food bank hosting emergency food distributions in Raleigh County through the TEFAP and CSFP programs.",
+    "address": "200 Stadium Drive, Beckley, WV 25801",
+    "phone": "304-364-5518",
+    "url": "https://www.mountaineerfoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "25801"
+  },
+  {
+    "name": "United Methodist Church - Carpenter's Corner Feeding Ministry",
+    "description": "Offers warm meals Monday, Wednesday, Thursday, Friday, and Saturday from 11:00am to 1:00pm for anyone in need in the Beckley area.",
+    "address": "Beckley, WV 25801",
+    "phone": "304-252-8597",
+    "url": "https://www.foodpantries.org/ci/wv-beckley",
+    "categorySlug": "food",
+    "zipCode": "25801"
+  },
+  {
+    "name": "Baby Pantry at St. Stephen's Episcopal Church",
+    "description": "Free pantry for caregivers of children aged three years or younger, open Mondays 3:00pm\u20136:00pm and Thursdays 9:00am\u20133:00pm.",
+    "address": "200 Virginia Street, Beckley, WV 25801",
+    "phone": "",
+    "url": "https://www.foodpantries.org/ci/wv-beckley",
+    "categorySlug": "food",
+    "zipCode": "25801"
+  },
+  {
+    "name": "Raleigh County Family Resource Network",
+    "description": "County network connecting families to local services and resources including food, housing, family services, and employment assistance.",
+    "address": "Beckley, WV 25801",
+    "phone": "304-255-3764",
+    "url": "https://raleighcountyfrn.org/",
+    "categorySlug": "community",
+    "zipCode": "25801"
+  },
+  {
+    "name": "RCCAA Emergency Housing Center",
+    "description": "Emergency homeless shelter providing temporary shelter and supportive services including case management and crisis intervention to individuals and families experiencing homelessness in Raleigh County.",
+    "address": "103 S. Eisenhower Drive, Beckley, WV 25801",
+    "phone": "304-252-6396",
+    "url": "https://www.rccaa.org/emergency-housing-center",
+    "categorySlug": "housing",
+    "zipCode": "25801"
+  },
+  {
+    "name": "AWAY - Advocating A Way for Adults & Youth",
+    "description": "Private nonprofit providing emergency shelter, counseling, crisis intervention, and advocacy for survivors of domestic violence and sexual violence serving Raleigh County and surrounding areas, available 24/7 at no cost.",
+    "address": "104 Wilson St., Beckley, WV 25801",
+    "phone": "304-255-2559",
+    "url": "https://www.awaywv.org/",
+    "categorySlug": "crisis",
+    "zipCode": "25801"
+  },
+  {
+    "name": "Raleigh County Community Action Association (RCCAA)",
+    "description": "Community action agency providing food assistance, emergency housing, rapid re-housing, and wrap-around supportive services for individuals and families in the Mount Hope, Prosperity, and surrounding Raleigh County communities.",
+    "address": "111 Willow Ln, Beckley, WV 25801",
+    "phone": "304-252-6396",
+    "url": "https://www.rccaa.org/",
+    "categorySlug": "community",
+    "zipCode": "25801"
+  },
+  {
+    "name": "Raleigh County Family Resource Network",
+    "description": "Network connecting families to local resources covering food, housing, family services, and employment for all Raleigh County communities including Mount Hope, Mabscott, and surrounding rural areas.",
+    "address": "Beckley, WV 25801",
+    "phone": "304-255-3764",
+    "url": "https://raleighcountyfrn.org/",
+    "categorySlug": "community",
+    "zipCode": "25801"
+  },
+  {
+    "name": "Raleigh County Family Support Center",
+    "description": "Family support center providing emergency food, baby supplies, and vital support services for families in Raleigh County.",
+    "address": "Beckley, WV 25801",
+    "phone": "",
+    "url": "https://rcfsc.org/family-services/",
+    "categorySlug": "community",
+    "zipCode": "25801"
+  },
+  {
+    "name": "Randolph County Community Food Pantry",
+    "description": "Community food pantry providing food assistance to Randolph County residents including those in Elkins and surrounding rural communities.",
+    "address": "103 Randolph Ave., Elkins, WV 26241",
+    "phone": "304-636-0840",
+    "url": "https://homelessshelterdirectory.org/foodbanks/city/wv-elkins.html",
+    "categorySlug": "food",
+    "zipCode": "26241"
+  },
+  {
+    "name": "Catholic Charities West Virginia - Elkins",
+    "description": "Provides food pantry and community meals to residents of Randolph County and surrounding areas.",
+    "address": "1513 Harrison Ave., Elkins, WV 26241",
+    "phone": "304-636-4875",
+    "url": "https://www.ccwva.org/programs/food-assistance/",
+    "categorySlug": "food",
+    "zipCode": "26241"
+  },
+  {
+    "name": "Randolph County Office - NCWVCAA",
+    "description": "North Central WV Community Action office providing food assistance, energy bill help, and other social services to Randolph County residents Monday\u2013Friday.",
+    "address": "938 S Davis Ave., Elkins, WV 26241",
+    "phone": "304-636-5193",
+    "url": "https://ncwvcaacorp.net/",
+    "categorySlug": "community",
+    "zipCode": "26241"
+  },
+  {
+    "name": "Good Shepherd Ministries - Elkins",
+    "description": "Faith-based organization providing food pantry and emergency support services to Randolph County residents.",
+    "address": "312 Wilson St., Elkins, WV 26241",
+    "phone": "304-636-5449",
+    "url": "https://randolphresources.org/basics.php",
+    "categorySlug": "food",
+    "zipCode": "26241"
+  },
+  {
+    "name": "Randolph County Homeless Shelter - NCWVCAA",
+    "description": "Emergency homeless shelter providing safe, cost-effective sheltering and one-on-one case management services for individuals and families experiencing homelessness in Randolph County.",
+    "address": "938 S Davis Ave., Elkins, WV 26241",
+    "phone": "304-636-6800",
+    "url": "https://ncwvcaacorp.net/programs/homeless-recovery/name/randolph-county-homeless-shelter/",
+    "categorySlug": "housing",
+    "zipCode": "26241"
+  },
+  {
+    "name": "Centers Against Violence - Elkins",
+    "description": "Provides emergency shelter and counseling for survivors of sexual assault and domestic violence in Randolph County, with a 24/7 crisis hotline.",
+    "address": "503 N Randolph Ave., Elkins, WV 26241",
+    "phone": "304-636-8433",
+    "url": "https://rchawv.org/community-resources-quicklinks/support-for-victims-of-domestic-violence/",
+    "categorySlug": "crisis",
+    "zipCode": "26241"
+  },
+  {
+    "name": "Appalachian Community Health Center - Elkins",
+    "description": "Community health center offering comprehensive mental health services including intervention, counseling, and support for individuals and families in Randolph County.",
+    "address": "205 Davis Ave., Elkins, WV 26241",
+    "phone": "",
+    "url": "https://randolphresources.org/basics.php",
+    "categorySlug": "healthcare",
+    "zipCode": "26241"
+  },
+  {
+    "name": "Randolph County Housing Authority",
+    "description": "Public housing authority providing affordable housing and community resources including Section 8 rental assistance, food assistance links, and homeless support services in Randolph County.",
+    "address": "Elkins, WV 26241",
+    "phone": "",
+    "url": "https://rchawv.org/",
+    "categorySlug": "housing",
+    "zipCode": "26241"
+  },
+  {
+    "name": "Randolph County Community Food Pantry",
+    "description": "Community food pantry serving Randolph County residents including those in Montrose, Norton, Valley Bend, and other rural communities.",
+    "address": "103 Randolph Ave., Elkins, WV 26241",
+    "phone": "304-636-0840",
+    "url": "https://homelessshelterdirectory.org/foodbanks/city/wv-elkins.html",
+    "categorySlug": "food",
+    "zipCode": "26241"
+  },
+  {
+    "name": "Randolph County Office - NCWVCAA",
+    "description": "North Central WV Community Action office providing food assistance, energy bill help, and other social services to all Randolph County communities including Montrose, Norton, and Valley Bend.",
+    "address": "938 S Davis Ave., Elkins, WV 26241",
+    "phone": "304-636-5193",
+    "url": "https://ncwvcaacorp.net/",
+    "categorySlug": "community",
+    "zipCode": "26241"
+  },
+  {
+    "name": "Ritchie County Family Resource Network",
+    "description": "Family resource network providing a Personal Care Pantry, food assistance, transportation, substance abuse prevention, and child abuse prevention programs for Ritchie County families. Open Monday\u2013Friday 8:00am\u20134:00pm.",
+    "address": "888 E. Main Street, Harrisville, WV 26362",
+    "phone": "304-643-2332",
+    "url": "https://ritchiecountyfrn.org/",
+    "categorySlug": "community",
+    "zipCode": "26362"
+  },
+  {
+    "name": "Catholic Charities - Smithville Community Center Food Pantry",
+    "description": "Food pantry serving Ritchie County residents on the second Wednesday of each month from 10:00am\u201312:00pm.",
+    "address": "42273 Route 47 Stringtown, Smithville, WV 26178",
+    "phone": "",
+    "url": "https://www.ccwva.org/programs/food-assistance/",
+    "categorySlug": "food",
+    "zipCode": "26178"
+  },
+  {
+    "name": "Community Resources, Inc. - Harrisville",
+    "description": "Nonprofit providing community resources and social services to Ritchie County residents.",
+    "address": "633 South Spring Street, Harrisville, WV 26362",
+    "phone": "304-643-2332",
+    "url": "https://cricap.org/",
+    "categorySlug": "community",
+    "zipCode": "26362"
+  },
+  {
+    "name": "Ritchie County Senior Center",
+    "description": "Senior services providing a hot, nutritious daily meal five days a week at two county locations for persons age 60 and older, plus public transportation for medical appointments.",
+    "address": "Harrisville, WV 26362",
+    "phone": "",
+    "url": "https://www.ritchieseniorcenter.org/",
+    "categorySlug": "community",
+    "zipCode": "26362"
+  },
+  {
+    "name": "Mid-Ohio Valley Health Department - Harrisville",
+    "description": "Public health office providing breast and cervical screenings, family planning, and immunizations for adults and children in Ritchie County.",
+    "address": "2479 Ellenboro Rd Suite D, Harrisville, WV 26362",
+    "phone": "304-643-4187",
+    "url": "https://movresources.weebly.com/ritchie-community-services-organizations.html",
+    "categorySlug": "healthcare",
+    "zipCode": "26362"
+  },
+  {
+    "name": "Mountaineer Food Bank - Ritchie County Mobile Distribution",
+    "description": "Mobile food bank distribution serving Ritchie County residents at the Simonton Windows Plant, Pennsboro Industrial Park. Contact Mountaineer Food Bank for schedule.",
+    "address": "Pennsboro Industrial Park, Pennsboro, WV 26415",
+    "phone": "304-364-5518",
+    "url": "https://www.mountaineerfoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "26415"
+  },
+  {
+    "name": "Roane County Helping Hand, Inc.",
+    "description": "Food pantry open the second Wednesday of each month from 10am-3pm, serving Roane County residents.",
+    "address": "811 Madison Avenue, Spencer, WV 25276",
+    "phone": "304-741-2523",
+    "url": "https://www.facebook.com/roanecountyhelpinghand/",
+    "categorySlug": "food",
+    "zipCode": "25276"
+  },
+  {
+    "name": "Community Resources, Inc. - Roane County",
+    "description": "Community action agency providing food assistance and support services to Roane County residents, Monday-Friday 8am-4pm.",
+    "address": "811 Madison Ave Room 22, Spencer, WV 25276",
+    "phone": "304-927-4632",
+    "url": "https://cricap.org/",
+    "categorySlug": "food",
+    "zipCode": "25276"
+  },
+  {
+    "name": "Salvation Army Service Center - Spencer",
+    "description": "Emergency food assistance and other support services for Roane County residents.",
+    "address": "425-445 Main St, Spencer, WV 25276",
+    "phone": "304-519-2507",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "25276"
+  },
+  {
+    "name": "Roane County Family Support Center",
+    "description": "Family resource center offering family-focused classes, academic enrichment, literacy, health information, food pantries, and more for families with children up to age 18.",
+    "address": "201 Main Street, Spencer, WV 25276",
+    "phone": "304-519-2144",
+    "url": "https://www.facebook.com/p/Roane-County-Family-Support-Center-61567731101871/",
+    "categorySlug": "community",
+    "zipCode": "25276"
+  },
+  {
+    "name": "Roane County Family Health Care",
+    "description": "Healthcare provider serving Roane and surrounding counties since 1983, providing primary medical care.",
+    "address": "Spencer, WV 25276",
+    "phone": "",
+    "url": "https://www.rcfhc.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "25276"
+  },
+  {
+    "name": "Catholic Charities WV - Hinton Food Pantry",
+    "description": "Choice food pantry open Fridays 10am-1pm serving Summers County residents.",
+    "address": "207 Temple St, Hinton, WV 25951",
+    "phone": "",
+    "url": "https://www.ccwva.org/programs/food-assistance/",
+    "categorySlug": "food",
+    "zipCode": "25951"
+  },
+  {
+    "name": "First Presbyterian Church of Hinton Food Pantry",
+    "description": "Grocery distribution to disadvantaged residents in Hinton on the third Saturday of each month.",
+    "address": "Hinton, WV 25951",
+    "phone": "304-466-3966",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "25951"
+  },
+  {
+    "name": "Summers County Council on Aging",
+    "description": "Senior services and food assistance for Summers County elderly residents.",
+    "address": "120 2nd Ave, Hinton, WV 25951",
+    "phone": "304-466-4019",
+    "url": "",
+    "categorySlug": "community",
+    "zipCode": "25951"
+  },
+  {
+    "name": "Summers County ARH Hospital",
+    "description": "Appalachian Regional Healthcare hospital serving Summers County residents.",
+    "address": "Terrace Street, Hinton, WV 25951",
+    "phone": "304-466-1000",
+    "url": "",
+    "categorySlug": "healthcare",
+    "zipCode": "25951"
+  },
+  {
+    "name": "North Central WV Community Action - Taylor County",
+    "description": "Community action agency providing food assistance and support services to Taylor County residents, Monday-Friday 8am-4pm.",
+    "address": "20 E Main St, Grafton, WV 26354",
+    "phone": "304-265-3200",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "26354"
+  },
+  {
+    "name": "Taylor County Project HOP2E",
+    "description": "501c3 non-profit operating an emergency food pantry in Grafton open Monday-Friday 9am-5pm, and a mobile food pantry serving different parts of Taylor County.",
+    "address": "Grafton, WV 26354",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "26354"
+  },
+  {
+    "name": "Salvation Army - Grafton",
+    "description": "Emergency food assistance and other support services for Taylor County residents.",
+    "address": "111 Beech St, Grafton, WV 26354",
+    "phone": "304-265-3565",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "26354"
+  },
+  {
+    "name": "Hinkle House Food Pantry",
+    "description": "Food distribution Thursdays 1-2:30pm. Emergency food needs outside distribution hours available by calling ahead.",
+    "address": "101 First Street, Parsons, WV 26287",
+    "phone": "304-478-1114",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "26287"
+  },
+  {
+    "name": "North Central WV Community Action - Tucker County",
+    "description": "Community action agency providing food assistance to Tucker County residents, Monday-Wednesday 8am-4pm.",
+    "address": "513 Central Avenue, Parsons, WV 26287",
+    "phone": "304-478-3536",
+    "url": "https://ncwvcaacorp.net/counties/tucker-county-office/",
+    "categorySlug": "food",
+    "zipCode": "26287"
+  },
+  {
+    "name": "Tucker County Family Resource Network",
+    "description": "Family resource network providing Kids Corner Baby Pantry, Back Pack Buddies Feeding Program, emergency hygiene supplies, and other community services.",
+    "address": "100 Education Lane, Parsons, WV 26287",
+    "phone": "",
+    "url": "https://wvfrn.org/tucker/",
+    "categorySlug": "community",
+    "zipCode": "26287"
+  },
+  {
+    "name": "Salvation Army - Parsons",
+    "description": "Emergency food assistance and support services for Tucker County residents.",
+    "address": "9346 Seneca Trail, Parsons, WV 26287",
+    "phone": "304-478-3212",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "26287"
+  },
+  {
+    "name": "Blackwater Ministerial Association Food Pantry",
+    "description": "Food pantry serving Thomas and Davis area in Tucker County, supported by local churches and the Tucker Community Foundation.",
+    "address": "Thomas, WV 26292",
+    "phone": "",
+    "url": "https://tuckerfoundationwv.org/",
+    "categorySlug": "food",
+    "zipCode": "26292"
+  },
+  {
+    "name": "Community Resources, Inc. - Tyler County (Middlebourne)",
+    "description": "Community action agency providing food assistance and support services to Tyler County residents.",
+    "address": "Middlebourne, WV 26149",
+    "phone": "304-873-3439",
+    "url": "https://cricap.org/",
+    "categorySlug": "food",
+    "zipCode": "26149"
+  },
+  {
+    "name": "Adams House Ministry",
+    "description": "Ministry serving eastern Tyler County residents, established by the Middlebourne United Methodist Church, providing emergency assistance.",
+    "address": "Middlebourne, WV 26149",
+    "phone": "",
+    "url": "",
+    "categorySlug": "community",
+    "zipCode": "26149"
+  },
+  {
+    "name": "Sistersville Ministerial Association Food Pantry",
+    "description": "Food pantry at First Baptist Church open Wednesdays at 10am, plus utility, prescription, and emergency lodging and transportation assistance.",
+    "address": "First Baptist Church, Sistersville, WV 26175",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "26175"
+  },
+  {
+    "name": "Mountaineer Food Bank - Tyler County Distribution",
+    "description": "Regular food distribution at the Tyler County Senior Center in Middlebourne and First Baptist Church in Sistersville on scheduled dates.",
+    "address": "Tyler County Senior Center, Middlebourne, WV 26149",
+    "phone": "304-364-5518",
+    "url": "https://www.mountaineerfoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "26149"
+  },
+  {
+    "name": "Upshur Parish House",
+    "description": "Food pantry open Monday-Friday 9am-1pm in Buckhannon and Wednesdays noon-4pm in Rock Cave, providing food assistance to Upshur County residents.",
+    "address": "68 College Ave, Buckhannon, WV 26201",
+    "phone": "304-472-0743",
+    "url": "http://www.parishhouse.org/",
+    "categorySlug": "food",
+    "zipCode": "26201"
+  },
+  {
+    "name": "Cross Lines Information and Help Agency",
+    "description": "Community resource agency in Buckhannon providing food and support services, with a mobile soup kitchen every Monday 4-5pm at the Buckhannon Fire Department.",
+    "address": "Buckhannon, WV 26201",
+    "phone": "304-516-8534",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "26201"
+  },
+  {
+    "name": "Branches Domestic Violence Shelter - Upshur County",
+    "description": "Domestic violence shelter providing safe housing, 24-hour hotline, legal advocacy, safety planning, and support services for Upshur County residents.",
+    "address": "Upshur County, WV",
+    "phone": "304-473-0700",
+    "url": "https://www.branchesdvs.org/",
+    "categorySlug": "crisis",
+    "zipCode": "26201"
+  },
+  {
+    "name": "LoveKenova Food Pantry",
+    "description": "Food pantry at New Beginnings Church of God, open the 3rd Friday of each month 1-3pm. Emergency boxes available by calling.",
+    "address": "1616 Poplar Street, Kenova, WV 25530",
+    "phone": "304-908-1034",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "25530"
+  },
+  {
+    "name": "Wayne County Community Services Organization (WCCSO)",
+    "description": "Food pantry providing low-income, elderly, and emergency food assistance the 3rd Wednesday of each month 9am-3pm, using Facing Hunger Food Bank and USDA commodities.",
+    "address": "Fort Gay, WV 25514",
+    "phone": "304-429-0070",
+    "url": "https://www.wccso.org/",
+    "categorySlug": "food",
+    "zipCode": "25514"
+  },
+  {
+    "name": "Fort Gay Food Pantry",
+    "description": "Local food pantry serving Wayne County residents in the Fort Gay area.",
+    "address": "3235 Louisa Street, Fort Gay, WV 25514",
+    "phone": "304-429-0070",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "25514"
+  },
+  {
+    "name": "Prestera Center - Wayne",
+    "description": "Mental health and crisis services center serving Wayne County with a 24/7 crisis line available.",
+    "address": "146 Kenova Ave, Wayne, WV 25570",
+    "phone": "304-272-6418",
+    "url": "",
+    "categorySlug": "crisis",
+    "zipCode": "25570"
+  },
+  {
+    "name": "Branches Domestic Violence Services",
+    "description": "Emergency shelter and support services for domestic violence victims in the Wayne County / Huntington area.",
+    "address": "Huntington, WV 25704",
+    "phone": "304-529-2382",
+    "url": "https://www.branchesdvs.org/",
+    "categorySlug": "crisis",
+    "zipCode": "25704"
+  },
+  {
+    "name": "Catholic Charities WV - Webster Springs Food Pantry",
+    "description": "Food pantry in Webster Springs serving Webster County residents, open Monday-Thursday 9am-12pm and 1-4pm.",
+    "address": "113 North Main St, Webster Springs, WV 26288",
+    "phone": "",
+    "url": "https://www.ccwva.org/programs/food-assistance/",
+    "categorySlug": "food",
+    "zipCode": "26288"
+  },
+  {
+    "name": "Mountaineer Food Bank - Webster County Distribution",
+    "description": "Periodic food distribution serving Webster County residents at Hacker Valley School and other sites.",
+    "address": "Webster County, WV",
+    "phone": "304-364-5518",
+    "url": "https://www.mountaineerfoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "26206"
+  },
+  {
+    "name": "Community Resources, Inc. - Wetzel County",
+    "description": "Community action agency providing food pantry and support services to Wetzel County residents, Monday-Friday 8am-4:30pm.",
+    "address": "128 Main Street, New Martinsville, WV 26155",
+    "phone": "304-455-0120",
+    "url": "https://cricap.org/",
+    "categorySlug": "food",
+    "zipCode": "26155"
+  },
+  {
+    "name": "St. Ursula Food Pantry & Outreach - New Martinsville",
+    "description": "Food pantry open Monday and Tuesday 9am-1pm, serving Wetzel County residents.",
+    "address": "21 Rosary Rd Suite A, New Martinsville, WV 26155",
+    "phone": "304-599-3822",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "26155"
+  },
+  {
+    "name": "Mountaineer Food Bank Mobile Pantry - New Martinsville",
+    "description": "Mobile food pantry with scheduled distribution dates at 21 Rosary Road, New Martinsville, serving Wetzel County residents.",
+    "address": "21 Rosary Road, New Martinsville, WV 26155",
+    "phone": "304-364-5518",
+    "url": "https://www.mountaineerfoodbank.org/mobile-pantry",
+    "categorySlug": "food",
+    "zipCode": "26155"
+  },
+  {
+    "name": "Wetzel County YWCA - Madden House",
+    "description": "Emergency shelter for victims of domestic violence, sexual assault, stalking and human trafficking. Also offers transitional housing through Judy's Place.",
+    "address": "New Martinsville, WV 26155",
+    "phone": "",
+    "url": "",
+    "categorySlug": "crisis",
+    "zipCode": "26155"
+  },
+  {
+    "name": "Helping Hands Food Pantry - Wetzel County",
+    "description": "Provides emergency food and toiletry assistance to people throughout Wetzel County.",
+    "address": "Wetzel County, WV",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "26155"
+  },
+  {
+    "name": "We Care Food Pantry - Hundred",
+    "description": "Community food pantry serving the Hundred and Littleton area in Wetzel County.",
+    "address": "Hundred, WV 26575",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "26575"
+  },
+  {
+    "name": "Catholic Charities WV - St. Elizabeth of Hungary Mission",
+    "description": "Food pantry open the third Wednesday of each month 9am-12pm, serving Wirt County and surrounding counties.",
+    "address": "24 Butternut St, Elizabeth, WV 26143",
+    "phone": "304-905-9860",
+    "url": "https://www.ccwva.org/programs/food-assistance/",
+    "categorySlug": "food",
+    "zipCode": "26143"
+  },
+  {
+    "name": "Living Hope Ministry - Elizabeth",
+    "description": "Soup kitchen Saturdays 11am-1pm, Senior Boxes first Monday 3-5pm, and regular food distribution Monday-Friday 2-5pm.",
+    "address": "74 Pioneer Circle #505, Elizabeth, WV 26143",
+    "phone": "304-615-0408",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "26143"
+  },
+  {
+    "name": "Creston Community Food Pantry",
+    "description": "Community food pantry in Wirt County serving the Creston area, open weekday evenings 5-7pm and Saturdays 9-11am.",
+    "address": "8405B Little Kanawha Parkway, Creston, WV 26160",
+    "phone": "304-275-3202",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "26160"
+  },
+  {
+    "name": "Mid-Ohio Valley Community Action - Parkersburg",
+    "description": "Community action program providing a food pantry serving Wood, Pleasants, Ritchie, Wirt, Jackson, and Calhoun Counties, Monday-Friday 8:30am-4:30pm.",
+    "address": "Parkersburg, WV 26101",
+    "phone": "304-485-6748",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "26101"
+  },
+  {
+    "name": "Mid Town Family Resource Center",
+    "description": "Daily food pantry serving West Virginia residents in Parkersburg, open Monday-Friday 8:30am-4:30pm.",
+    "address": "Parkersburg, WV 26101",
+    "phone": "304-485-0650",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "26101"
+  },
+  {
+    "name": "Old Man Rivers Mission",
+    "description": "Weekend feeding program preparing and delivering 415 meals each Saturday and Sunday to those unable to prepare food for themselves in the Parkersburg and Vienna area.",
+    "address": "Parkersburg, WV 26101",
+    "phone": "",
+    "url": "https://oldmanriversmission.org/",
+    "categorySlug": "food",
+    "zipCode": "26101"
+  },
+  {
+    "name": "House to Home Parkersburg",
+    "description": "Provides basic needs (food, clothing, shelter, hygiene) for homeless individuals in Parkersburg with emergency shelter at 825 7th Street, plus housing assistance and expungement programs.",
+    "address": "825 7th Street, Parkersburg, WV 26101",
+    "phone": "304-893-5353",
+    "url": "https://www.housetohomepkb.com/",
+    "categorySlug": "housing",
+    "zipCode": "26101"
+  },
+  {
+    "name": "Salvation Army of Parkersburg - Emergency Shelter",
+    "description": "Temporary emergency shelter with evening meals and showers for individuals with nowhere to go in Wood County.",
+    "address": "Parkersburg, WV 26101",
+    "phone": "304-485-4529",
+    "url": "",
+    "categorySlug": "housing",
+    "zipCode": "26101"
+  },
+  {
+    "name": "North Parkersburg Baptist Church Food Pantry",
+    "description": "Choice food pantry by appointment serving individuals and families, open Tuesday-Thursday 9:30am-1pm.",
+    "address": "North Parkersburg, WV 26104",
+    "phone": "304-428-3293",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "26104"
+  },
+  {
+    "name": "Catholic Charities WV - Mobile Outreach Food Pantry",
+    "description": "Mobile outreach food pantry serving Wood County and surrounding area residents.",
+    "address": "532 Market St, Parkersburg, WV 26101",
+    "phone": "",
+    "url": "https://www.ccwva.org/programs/food-assistance/",
+    "categorySlug": "food",
+    "zipCode": "26101"
+  },
+  {
+    "name": "Williamstown Welfare League Food Pantry",
+    "description": "Monthly food distribution on the 3rd Saturday 8:30-9:30am for low-income and struggling families or children in the Williamstown School District.",
+    "address": "Williamstown, WV 26187",
+    "phone": "304-375-3995",
+    "url": "https://www.foodpantries.org/li/williamstown_welfare_league_food_pantry_26187",
+    "categorySlug": "food",
+    "zipCode": "26187"
+  },
+  {
+    "name": "Williamstown Welfare League Food Pantry",
+    "description": "Monthly food distribution on the 3rd Saturday 8:30-9:30am for low-income and struggling families or children in the Williamstown School District.",
+    "address": "Williamstown, WV 26187",
+    "phone": "304-375-3995",
+    "url": "https://www.foodpantries.org/li/williamstown_welfare_league_food_pantry_26187",
+    "categorySlug": "food",
+    "zipCode": "26187"
+  },
+  {
+    "name": "Wyoming County Food Pantry, Inc.",
+    "description": "Food pantry operating out of First Methodist Church in Pineville, open Tuesdays 4-6pm and Saturdays 11am-1pm. Currently feeding 1,200-1,500 people monthly.",
+    "address": "First Methodist Church, Pineville, WV 24874",
+    "phone": "304-923-8832",
+    "url": "https://www.facebook.com/groups/168672399360587/",
+    "categorySlug": "food",
+    "zipCode": "24874"
+  },
+  {
+    "name": "Southern Highlands CMHC - Pineville",
+    "description": "Community mental health center with food bank every fourth Sunday 6-9pm, serving Wyoming County residents.",
+    "address": "1207 Gulf Fork-Bear Hole Rd, Pineville, WV 24874",
+    "phone": "304-732-8050",
+    "url": "https://shcmhc.com/resources/",
+    "categorySlug": "healthcare",
+    "zipCode": "24874"
+  },
+  {
+    "name": "Mountaineer Food Bank - Baileysville Distribution",
+    "description": "Scheduled food distribution event at Baileysville Community Center serving Wyoming County residents.",
+    "address": "Baileysville Community Center, Wyoming County, WV",
+    "phone": "304-364-5518",
+    "url": "https://www.mountaineerfoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "24870"
+  },
+  {
+    "name": "Facing Hunger Foodbank - Wyoming County",
+    "description": "Regional food bank serving Wyoming County through TEFAP and CSFP programs, distributing food to local agencies.",
+    "address": "1327 7th Avenue, Huntington, WV 25701",
+    "phone": "304-523-6029",
+    "url": "https://facinghunger.org/",
+    "categorySlug": "food",
+    "zipCode": "24870"
+  },
+  {
+    "name": "Wyoming County Food Pantry, Inc.",
+    "description": "Food pantry serving Wyoming County residents, open Tuesdays 4-6pm and Saturdays 11am-1pm. Feeding 1,200-1,500 people monthly.",
+    "address": "First Methodist Church, Pineville, WV 24874",
+    "phone": "304-923-8832",
+    "url": "https://www.facebook.com/groups/168672399360587/",
+    "categorySlug": "food",
+    "zipCode": "24874"
+  },
+  {
+    "name": "Southern Highlands CMHC - Mullens",
+    "description": "Community mental health center serving Wyoming County with behavioral health services.",
+    "address": "300 Front St, Mullens, WV 25882",
+    "phone": "304-294-6188",
+    "url": "https://shcmhc.com/resources/",
+    "categorySlug": "healthcare",
+    "zipCode": "25882"
+  },
+  {
+    "name": "Local Union 7604 Food Pantry",
+    "description": "Food distribution the last Monday of each full week during the month and on the third Saturday 10am-2pm, serving Wyoming County residents.",
+    "address": "Wyoming County, WV",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "25882"
+  },
+  {
+    "name": "Mullens Community Food Bank",
+    "description": "Community food bank operating the 4th Saturday of the month, also providing home repairs and ramp building services for Wyoming County residents.",
+    "address": "Mullens, WV 25882",
+    "phone": "",
+    "url": "",
+    "categorySlug": "food",
+    "zipCode": "25882"
+  },
+  {
+    "name": "Wyoming County Emergency Shelter",
+    "description": "Homeless shelter for families and individuals providing emergency housing in Wyoming County.",
+    "address": "Wyoming County, WV",
+    "phone": "",
+    "url": "https://shcmhc.com/resources/",
+    "categorySlug": "housing",
+    "zipCode": "25882"
+  },
+  {
+    "name": "Mountaineer Food Bank - Wyoming County",
+    "description": "Regional food bank providing scheduled distributions throughout Wyoming County including Oceana and surrounding communities.",
+    "address": "Wyoming County, WV",
+    "phone": "304-364-5518",
+    "url": "https://www.mountaineerfoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "24870"
+  },
+  {
+    "name": "Facing Hunger Foodbank - Wyoming County",
+    "description": "Regional food bank serving Wyoming County through TEFAP and CSFP programs for food-insecure residents.",
+    "address": "1327 7th Avenue, Huntington, WV 25701",
+    "phone": "304-523-6029",
+    "url": "https://facinghunger.org/",
+    "categorySlug": "food",
+    "zipCode": "24874"
+  }
+]

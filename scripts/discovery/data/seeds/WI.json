@@ -1,0 +1,1163 @@
+[
+  {
+    "name": "Adams County Health and Human Services",
+    "description": "County agency providing FoodShare eligibility determination, Medicaid, and a broad range of social services to Adams County residents including the elderly and disabled.",
+    "address": "401 N Main St, Friendship, WI 53910",
+    "phone": "(608) 339-9559",
+    "url": "https://www.dhs.wisconsin.gov/em/adams.htm",
+    "categorySlug": "community",
+    "zipCode": "53910"
+  },
+  {
+    "name": "Central Wisconsin Community Action Council - Adams Food Pantry",
+    "description": "TEFAP food pantry providing emergency food for families and individuals in Adams County. Clients may use the pantry once a month; delivery available to homebound residents.",
+    "address": "1874 State Hwy 13, Friendship, WI 53934",
+    "phone": "(608) 393-2641",
+    "url": "https://www.cwcac.org/programs-services/food-pantry-tefap-foodshare/",
+    "categorySlug": "food",
+    "zipCode": "53934"
+  },
+  {
+    "name": "The BRICK",
+    "description": "Nonprofit serving Ashland and Bayfield County residents with food pantries, personal care items, emergency help with utilities, shelter assistance, rent assistance, and local transportation.",
+    "address": "420 Ellis Ave, Ashland, WI 54806",
+    "phone": "(715) 682-7425",
+    "url": "https://thebrickcares.org/",
+    "categorySlug": "community",
+    "zipCode": "54806"
+  },
+  {
+    "name": "Prairie Farm & Ridgeland Food Pantry",
+    "description": "Community food pantry serving Prairie Farm and Ridgeland area residents of all ages in Barron County, open multiple days per week for emergency food distribution.",
+    "address": "120 River Ave N, Prairie Farm, WI 54762",
+    "phone": "(715) 455-1454",
+    "url": "https://www.foodpantries.org/li/prairie-farmridgeland-food-pantry-american-legion-hall",
+    "categorySlug": "food",
+    "zipCode": "54762"
+  },
+  {
+    "name": "West CAP (West Central Wisconsin Community Action Agency)",
+    "description": "Community action agency serving Barron County and six other western Wisconsin counties, offering energy assistance, food access, housing programs, and services for low-income families.",
+    "address": "120 River Ave N, Prairie Farm, WI 54762",
+    "phone": "(715) 977-1167",
+    "url": "https://westcap.org/resources/barron-county/",
+    "categorySlug": "community",
+    "zipCode": "54762"
+  },
+  {
+    "name": "Bayfield County Human Services",
+    "description": "County agency administering economic support programs including BadgerCare Plus, FoodShare, and Medicaid for Bayfield County residents including those in the Grand View area.",
+    "address": "117 E 5th St, Washburn, WI 54891",
+    "phone": "(888) 794-5722",
+    "url": "https://www.bayfieldcounty.wi.gov/143/Human-Services",
+    "categorySlug": "community",
+    "zipCode": "54891"
+  },
+  {
+    "name": "Manna for Life Ministries",
+    "description": "Faith-based nonprofit at 1545 University Ave offering a food pantry, hot lunch program, job training, and thrift store to Green Bay families and individuals in need.",
+    "address": "1545 University Ave, Green Bay, WI 54302",
+    "phone": "(920) 437-3629",
+    "url": "https://mannaforlifegb.org/",
+    "categorySlug": "food",
+    "zipCode": "54302"
+  },
+  {
+    "name": "Paul's Pantry",
+    "description": "Large food pantry in Green Bay providing free groceries to low-income Brown County households weekly for as long as needed, with no time limit on assistance.",
+    "address": "1520 Leo Frigo Way, Green Bay, WI 54302",
+    "phone": "(920) 433-0343",
+    "url": "https://www.paulspantry.org/",
+    "categorySlug": "food",
+    "zipCode": "54302"
+  },
+  {
+    "name": "St. John's Ministries",
+    "description": "Provides emergency shelter for adults experiencing homelessness in Green Bay, along with daytime resource centers offering meals, case management, and supportive services year-round.",
+    "address": "411 St. John St, Green Bay, WI 54301",
+    "phone": "(920) 436-9344",
+    "url": "https://stjohnsgreenbay.org/",
+    "categorySlug": "housing",
+    "zipCode": "54301"
+  },
+  {
+    "name": "St. Vincent de Paul - Green Bay",
+    "description": "Catholic charitable organization providing food, clothing, and emergency assistance to individuals and families in need throughout Brown County.",
+    "address": "1529 Leo Frigo Way, Green Bay, WI 54302",
+    "phone": "(920) 435-4040",
+    "url": "https://svdpgreenbay.org/",
+    "categorySlug": "community",
+    "zipCode": "54302"
+  },
+  {
+    "name": "Calumet County Health and Human Services",
+    "description": "County agency providing FoodShare, Medicaid, child welfare, and a full range of social services to adults, children, and families in Calumet County.",
+    "address": "206 Court St, Chilton, WI 53014",
+    "phone": "(920) 849-1400",
+    "url": "https://www.co.calumet.wi.us/155/Health-and-Human-Services",
+    "categorySlug": "community",
+    "zipCode": "53014"
+  },
+  {
+    "name": "The Salvation Army of Calumet County - Bread of Life Assistance Center",
+    "description": "Food pantry distributing over 210,000 pounds of food and hygiene supplies annually to more than 7,200 individuals in Calumet County, also offering emergency assistance and budget education programs.",
+    "address": "16 W Main St, Chilton, WI 53014",
+    "phone": "(920) 849-7856",
+    "url": "https://centralusa.salvationarmy.org/calumetcounty/",
+    "categorySlug": "food",
+    "zipCode": "53014"
+  },
+  {
+    "name": "The Salvation Army of the Chippewa Valley",
+    "description": "Provides emergency food, financial assistance, and basic needs services to residents throughout the Chippewa Valley including Chippewa County communities.",
+    "address": "521 N Bridge St, Chippewa Falls, WI 54729",
+    "phone": "(715) 723-4467",
+    "url": "https://www.salvationarmyusa.org/wi/eau-claire/south-hastings-way-corps/",
+    "categorySlug": "community",
+    "zipCode": "54729"
+  },
+  {
+    "name": "Clark County Area Food Pantry & Resource Center",
+    "description": "Food pantry and resource center in Neillsville serving Clark County residents with food distribution and referrals to additional community services.",
+    "address": "140 W 5th St, Neillsville, WI 54456",
+    "phone": "",
+    "url": "https://www.foodpantries.org/li/clark-country-area-food-pantry-resource-center",
+    "categorySlug": "food",
+    "zipCode": "54456"
+  },
+  {
+    "name": "Clark County Department of Social Services",
+    "description": "County agency providing FoodShare, Medicaid, child welfare, aging and disability services, and other social services to Clark County residents.",
+    "address": "517 Court St Suite 502, Neillsville, WI 54456",
+    "phone": "(715) 743-5233",
+    "url": "https://www.clarkcountywi.gov/social-services",
+    "categorySlug": "community",
+    "zipCode": "54456"
+  },
+  {
+    "name": "Humbird Neighborhood Food Pantry",
+    "description": "Local food pantry serving the Humbird community in Clark County, open on the second and fourth Tuesday of each month for food distribution.",
+    "address": "N3049 King St, Humbird, WI 54746",
+    "phone": "(715) 299-0825",
+    "url": "https://www.foodpantries.org/co/wi-clark",
+    "categorySlug": "food",
+    "zipCode": "54746"
+  },
+  {
+    "name": "Community Hunger Solutions",
+    "description": "Southwest Wisconsin food network partnering with 20+ food pantries and meal sites across Crawford County and neighboring counties, serving 2,000+ elderly and low-income families monthly.",
+    "address": "",
+    "phone": "",
+    "url": "https://chs-wi.org/",
+    "categorySlug": "food",
+    "zipCode": "53821"
+  },
+  {
+    "name": "Couleecap Food Pantry & Bargain Boutique",
+    "description": "Community action agency food pantry and thrift store in Prairie du Chien serving Crawford County residents with free food distribution and affordable household goods.",
+    "address": "200 E Blackhawk Ave, Prairie du Chien, WI 53821",
+    "phone": "(608) 326-2463",
+    "url": "https://couleecap.org/need-help/food-and-food-assistance/",
+    "categorySlug": "food",
+    "zipCode": "53821"
+  },
+  {
+    "name": "Crawford County Health & Human Services",
+    "description": "County agency administering the Emergency Food and Shelter Program, FoodShare, Medicaid, child welfare, and community support programs for Crawford County residents.",
+    "address": "225 N Beaumont Rd Suite 326, Prairie du Chien, WI 53821",
+    "phone": "(888) 794-5780",
+    "url": "https://www.crawfordcountywi.gov/departments/healthandhumanservices",
+    "categorySlug": "community",
+    "zipCode": "53821"
+  },
+  {
+    "name": "Badger Prairie Needs Network",
+    "description": "One of the busiest food pantries in Dane County, offering food distribution, community meals, workforce development, legal advocacy, and an on-site social worker.",
+    "address": "710 West St, Verona, WI 53593",
+    "phone": "",
+    "url": "https://www.bpnn.org/",
+    "categorySlug": "food",
+    "zipCode": "53593"
+  },
+  {
+    "name": "DeForest Windsor Area Food Pantry",
+    "description": "Food pantry hosted at Windsor United Church serving residents within the DeForest Area School District boundaries, open Thursday evenings for food distribution.",
+    "address": "4434 Second St, Windsor, WI 53598",
+    "phone": "(608) 469-4415",
+    "url": "https://www.vi.deforest.wi.us/194/DeForest-Windsor-Area-Food-Pantry",
+    "categorySlug": "food",
+    "zipCode": "53598"
+  },
+  {
+    "name": "Heights Unlimited Community Resource Center",
+    "description": "Food pantry, clothing closet, and household essentials center serving residents of Cross Plains, Black Earth, Blue Mounds, Mazomanie, and Arena in western Dane County.",
+    "address": "1529 State St, Black Earth, WI 53515",
+    "phone": "(608) 767-3663",
+    "url": "https://www.heightsunlimited.net/",
+    "categorySlug": "food",
+    "zipCode": "53515"
+  },
+  {
+    "name": "Sunshine Place",
+    "description": "Community resource center in northeastern Dane County providing supplemental food, community meals, clothing, and personal care items to Sun Prairie, Burke, and Windsor area residents.",
+    "address": "18 Rickel Rd, Sun Prairie, WI 53590",
+    "phone": "(608) 825-3875",
+    "url": "https://sunshineplace.org/",
+    "categorySlug": "food",
+    "zipCode": "53590"
+  },
+  {
+    "name": "WayForward Resources",
+    "description": "Formerly Middleton Outreach Ministry, provides free food pantry access, housing assistance, and support services to Dane County residents including Cross Plains and west Madison communities.",
+    "address": "3502 Parmenter St, Middleton, WI 53562",
+    "phone": "(608) 836-7338",
+    "url": "https://www.wayforwardresources.org/",
+    "categorySlug": "food",
+    "zipCode": "53562"
+  },
+  {
+    "name": "Beaver Dam Community Food Pantry",
+    "description": "Community food pantry in Beaver Dam distributing supplemental food to Dodge County residents on a twice-weekly schedule.",
+    "address": "134 S Spring St, Beaver Dam, WI 53916",
+    "phone": "(920) 885-9559",
+    "url": "https://www.volunteerdodge.net/agency/detail/?agency_id=76950",
+    "categorySlug": "food",
+    "zipCode": "53916"
+  },
+  {
+    "name": "Dodge County Aging & Disability Resource Center (ADRC)",
+    "description": "County ADRC providing information, referrals, and programs including home meal delivery to seniors and adults with disabilities throughout Dodge County including the Clyman area.",
+    "address": "199 County Rd DF, Juneau, WI 53039",
+    "phone": "(920) 386-3580",
+    "url": "https://www.findhelp.org/provider/dodge-county---aging-&-disability-resource-center-(adrc)--juneau-wi/6205773539311616",
+    "categorySlug": "community",
+    "zipCode": "53039"
+  },
+  {
+    "name": "St. Vincent de Paul of Dodge County - Food Pantry",
+    "description": "Free food pantry open to Dodge County residents three days per week, providing monthly food assistance to individuals and families in need.",
+    "address": "125 Dodge Dr, Beaver Dam, WI 53916",
+    "phone": "(920) 885-3392",
+    "url": "https://www.svdpdodgecounty.org/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "53916"
+  },
+  {
+    "name": "The Gathering Source",
+    "description": "Food pantry serving Clyman, Lowell, Juneau, Reeseville, and the Dodgeland School District with twice-monthly client visits; also offers senior food delivery to zip codes including 53016.",
+    "address": "W7715 State Rd 60-16, Juneau, WI 53039",
+    "phone": "(920) 927-1702",
+    "url": "https://dodge.extension.wisc.edu/food-resources/",
+    "categorySlug": "food",
+    "zipCode": "53039"
+  },
+  {
+    "name": "Northwest Wisconsin Community Services Agency (NWCSA)",
+    "description": "Community action agency serving Douglas County with a food pantry providing 3-5 days of food, WIC, energy assistance, and other poverty-relief programs for low-income residents.",
+    "address": "1118 Tower Ave, Superior, WI 54880",
+    "phone": "(715) 392-5127",
+    "url": "http://www.northwest-csa.org/",
+    "categorySlug": "community",
+    "zipCode": "54880"
+  },
+  {
+    "name": "The Salvation Army of Superior",
+    "description": "Provides emergency food assistance, shelter referrals, and basic needs services to individuals and families in the Superior and Douglas County area.",
+    "address": "916 Hughitt Ave, Superior, WI 54880",
+    "phone": "(715) 394-7001",
+    "url": "https://www.salvationarmyusa.org/usn/",
+    "categorySlug": "food",
+    "zipCode": "54880"
+  },
+  {
+    "name": "Menomonie Free Clinic",
+    "description": "Free primary health care clinic for uninsured and underinsured residents of western Wisconsin, providing appointments on Tuesday evenings by phone registration.",
+    "address": "2321 Stout Rd, Menomonie, WI 54751",
+    "phone": "(715) 308-3808",
+    "url": "https://www.menomoniefreeclinic.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "54751"
+  },
+  {
+    "name": "Stepping Stones of Dunn County",
+    "description": "Comprehensive social services nonprofit in Menomonie providing a food pantry open four days per week, emergency shelter with furnished units for individuals and families, and housing assistance.",
+    "address": "1602 Stout Rd, Menomonie, WI 54751",
+    "phone": "(715) 235-2920",
+    "url": "https://www.steppingstonesdc.org/",
+    "categorySlug": "housing",
+    "zipCode": "54751"
+  },
+  {
+    "name": "West CAP - Dunn County",
+    "description": "West Central Wisconsin Community Action Agency serving Dunn County with energy assistance, housing programs, food access, and services for low-income individuals and families.",
+    "address": "823 Main St, Boyceville, WI 54725",
+    "phone": "(715) 643-7131",
+    "url": "https://westcap.org/resources/dunn-county/",
+    "categorySlug": "community",
+    "zipCode": "54725"
+  },
+  {
+    "name": "WestCAP – Polk County Resources",
+    "description": "Community action agency serving Polk County with food assistance through TEFAP, housing and rent assistance, Section 8 housing vouchers, energy assistance, and weatherization for low-income residents.",
+    "address": "823 Main Street, Boyceville, WI 54725",
+    "phone": "(800) 606-9227",
+    "url": "https://westcap.org/polk-county-resources/",
+    "categorySlug": "community",
+    "zipCode": "54725"
+  },
+  {
+    "name": "Feed My People Food Bank",
+    "description": "Regional food bank distributing food to 100+ hunger-relief agencies in 14 counties in west central Wisconsin including Chippewa County, operating pop-up pantries and emergency food programs.",
+    "address": "2610 Alpine Rd, Eau Claire, WI 54703",
+    "phone": "(715) 835-9415",
+    "url": "https://www.fmpfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "54703"
+  },
+  {
+    "name": "Fondy Food Pantry",
+    "description": "Free food pantry fighting hunger throughout Fond du Lac County, providing drive-thru distribution of nutritious food to families and individuals with no county residency restrictions.",
+    "address": "573 W Rolling Meadows Dr, Fond du Lac, WI 54937",
+    "phone": "(920) 322-0369",
+    "url": "https://www.fondyfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "54937"
+  },
+  {
+    "name": "The Salvation Army of Fond du Lac",
+    "description": "Provides a food pantry, seasonal warming shelter, emergency crisis assistance, and self-sufficiency programs to residents of Fond du Lac County.",
+    "address": "246 N Macy St, Fond du Lac, WI 54935",
+    "phone": "(920) 923-8220",
+    "url": "https://centralusa.salvationarmy.org/fonddulac/",
+    "categorySlug": "community",
+    "zipCode": "54935"
+  },
+  {
+    "name": "Forest County Human Services Department",
+    "description": "County agency in Crandon providing FoodShare, Medicaid, and a full range of social services including economic support and child and family programs for Forest County residents.",
+    "address": "200 E Madison St, Crandon, WI 54520",
+    "phone": "(833) 319-3091",
+    "url": "https://co.forest.wi.gov/human-services-depart",
+    "categorySlug": "community",
+    "zipCode": "54520"
+  },
+  {
+    "name": "Helping Hands of Forest County",
+    "description": "Local food and commodity distribution organization in Laona administering the CSFP Senior Stockbox program and providing food assistance to Forest County residents.",
+    "address": "4876 Mill St, Laona, WI 54541",
+    "phone": "(715) 889-5360",
+    "url": "https://feedingamericawi.org/government_programs/",
+    "categorySlug": "food",
+    "zipCode": "54541"
+  },
+  {
+    "name": "Midwest Indian Mission Food Pantry",
+    "description": "Food pantry in Crandon open to anyone regardless of income, distributing food to Forest County and surrounding area residents including the Laona community.",
+    "address": "601 N Summit Dr, Crandon, WI 54520",
+    "phone": "(715) 478-2730",
+    "url": "https://www.homelessshelterdirectory.org/foodbanks/city/wi-crandon",
+    "categorySlug": "food",
+    "zipCode": "54520"
+  },
+  {
+    "name": "Grant Regional Health Center Community Resources",
+    "description": "Regional health center in Lancaster serving Grant County with healthcare services and connections to community health resources for residents throughout the county.",
+    "address": "507 S Monroe St, Lancaster, WI 53813",
+    "phone": "(608) 723-2143",
+    "url": "https://www.grantregional.com/health-resources-and-events/community-resources/",
+    "categorySlug": "healthcare",
+    "zipCode": "53813"
+  },
+  {
+    "name": "Platteville Food Pantry",
+    "description": "Nonprofit food pantry assisting low-income individuals and families within the Platteville School District with supplemental nutritional food and nutrition education.",
+    "address": "1345 N Water St, Platteville, WI 53818",
+    "phone": "(608) 778-8572",
+    "url": "https://www.platteville.org/coronavirus/page/food-pantry-information",
+    "categorySlug": "food",
+    "zipCode": "53818"
+  },
+  {
+    "name": "SWCAP (Southwestern Wisconsin Community Action Program)",
+    "description": "Community action agency serving Grant County and four other southwest Wisconsin counties, offering food pantries, weatherization, affordable housing programs, and financial assistance for low-income households.",
+    "address": "65 S Elm St, Platteville, WI 53818",
+    "phone": "(608) 348-9766",
+    "url": "https://swcap.org/",
+    "categorySlug": "community",
+    "zipCode": "53818"
+  },
+  {
+    "name": "Green Lake County Food Pantry",
+    "description": "County-operated food pantry distributing food and USDA commodities to Green Lake County residents who meet federal poverty income guidelines. Open Tuesdays and the first Thursday of each month.",
+    "address": "500 Lake Steel Street, Green Lake, WI 54941",
+    "phone": "(920) 294-4070",
+    "url": "https://www.greenlakecountywi.gov/departments/health-human-services-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "54941"
+  },
+  {
+    "name": "Green Lake County Health & Human Services",
+    "description": "County human services department providing economic support, child welfare, disability services, and assistance connecting residents to food, housing, and financial aid programs.",
+    "address": "571 County Road A, Green Lake, WI 54941",
+    "phone": "(920) 294-4070",
+    "url": "https://www.greenlakecountywi.gov/departments/health-human-services/",
+    "categorySlug": "community",
+    "zipCode": "54941"
+  },
+  {
+    "name": "Iowa County Human Services",
+    "description": "County department providing social services including economic support, child welfare, mental health, and connections to FoodShare, Medicaid, and other benefit programs for Iowa County residents.",
+    "address": "303 W. Chapel Street Suite 2300, Dodgeville, WI 53533",
+    "phone": "(608) 935-0395",
+    "url": "https://www.iowacountywi.gov/departments/social-services",
+    "categorySlug": "community",
+    "zipCode": "53533"
+  },
+  {
+    "name": "SW-CAP Iowa County Food Pantry",
+    "description": "Southwestern Wisconsin Community Action Program food pantry providing free groceries to Iowa County residents facing food emergencies, open weekdays by appointment with no income or residency requirements beyond county membership.",
+    "address": "149 N Iowa Street, Dodgeville, WI 53533",
+    "phone": "(608) 935-2326",
+    "url": "https://swcap.org/community-services/swcap-food-pantries/",
+    "categorySlug": "food",
+    "zipCode": "53533"
+  },
+  {
+    "name": "Jefferson County Human Services",
+    "description": "County human services department providing income support, child welfare, disability services, and connections to FoodShare, Medicaid, and housing assistance for Jefferson County residents.",
+    "address": "1541 Annex Road, Jefferson, WI 53549",
+    "phone": "(920) 674-7520",
+    "url": "https://www.jeffersoncountywi.gov/human_services/",
+    "categorySlug": "community",
+    "zipCode": "53549"
+  },
+  {
+    "name": "Johnson Creek Food Pantry",
+    "description": "Community food pantry serving residents of the Johnson Creek School District with free groceries distributed on Monday and Thursday mornings and one evening session per month.",
+    "address": "Johnson Creek, WI 53038",
+    "phone": "(920) 699-2471",
+    "url": "https://www.cacscw.org/jefferson-county-food-pantry-coalition/",
+    "categorySlug": "food",
+    "zipCode": "53038"
+  },
+  {
+    "name": "Central Wisconsin Community Action Council (CWCAC)",
+    "description": "Community action agency serving Juneau County with food pantry programs, FoodShare enrollment assistance, emergency financial aid, housing support, and weatherization services for low-income residents.",
+    "address": "948 Herriot Drive, Mauston, WI 53948",
+    "phone": "(608) 847-1124",
+    "url": "https://www.cwcac.org/",
+    "categorySlug": "community",
+    "zipCode": "53948"
+  },
+  {
+    "name": "Juneau County Department of Human Services",
+    "description": "County agency providing economic support, child welfare, mental health, and disability services, and connecting Juneau County residents to FoodShare, Medicaid, and housing programs.",
+    "address": "200 Hickory Street, Mauston, WI 53948",
+    "phone": "(608) 847-9472",
+    "url": "https://www.co.juneau.wi.gov/departments/department_of_human_services/index.php",
+    "categorySlug": "community",
+    "zipCode": "53948"
+  },
+  {
+    "name": "Wonewoc Union Center Food Pantry",
+    "description": "Community food pantry serving residents of the Wonewoc-Center School District with free groceries distributed on the first Saturday of the month; call ahead to confirm hours.",
+    "address": "762 Bridge Street, Wonewoc, WI 53968",
+    "phone": "(608) 464-3998",
+    "url": "https://www.foodpantries.org/li/wi_53968_wonewoc-union-center-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "53968"
+  },
+  {
+    "name": "Kewaunee County Food Pantry",
+    "description": "County food pantry providing free food and essential items to low-income families in Kewaunee County, open Monday and Wednesday mornings and operating a community garden program in Algoma.",
+    "address": "1528 Sunset Avenue, Algoma, WI 54201",
+    "phone": "(920) 487-3663",
+    "url": "https://www.kcfpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "54201"
+  },
+  {
+    "name": "Kewaunee County Human Services",
+    "description": "County department administering economic assistance, mental health, child protection, substance abuse services, and connections to BadgerCare Plus, FoodShare, and other benefit programs for county residents.",
+    "address": "810 Lincoln Street, Kewaunee, WI 54216",
+    "phone": "(920) 388-7070",
+    "url": "https://www.kewauneeco.org/departments/human-services/",
+    "categorySlug": "community",
+    "zipCode": "54216"
+  },
+  {
+    "name": "St. Vincent de Paul – Algoma",
+    "description": "Local chapter providing emergency assistance including food vouchers, clothing, and other basic needs to individuals and families in the Algoma area of Kewaunee County.",
+    "address": "303 3rd Street, Algoma, WI 54201",
+    "phone": "(920) 487-2402",
+    "url": "https://www.kewauneeco.org/departments/public-health/family-health/resources-for-families/",
+    "categorySlug": "community",
+    "zipCode": "54201"
+  },
+  {
+    "name": "Lafayette County Human Services",
+    "description": "County department providing cost-effective social services and community-based support including economic assistance, child welfare, and connections to state benefit programs for Lafayette County residents.",
+    "address": "627 Washington Street, Darlington, WI 53530",
+    "phone": "(608) 776-4895",
+    "url": "https://www.lafayettecountywi.org/human-services",
+    "categorySlug": "community",
+    "zipCode": "53530"
+  },
+  {
+    "name": "Community Food Pantry of Merrill",
+    "description": "Free food pantry serving Merrill area residents in Lincoln County, open Wednesday and Friday afternoons; operates out of a shared services building alongside emergency assistance programs.",
+    "address": "503 S. Center Avenue Suite 3, Merrill, WI 54452",
+    "phone": "(715) 536-4505",
+    "url": "https://merrillfoodpantry.com/",
+    "categorySlug": "food",
+    "zipCode": "54452"
+  },
+  {
+    "name": "Lincoln County Food Pantries (County Resource)",
+    "description": "Lincoln County Health Department maintains a directory of food pantries serving county residents, including emergency food assistance through multiple community organizations in the Merrill and Tomahawk areas.",
+    "address": "607 N Sales Street Suite 202, Merrill, WI 54452",
+    "phone": "(715) 536-0316",
+    "url": "https://www.co.lincoln.wi.us/health/page/food-pantries",
+    "categorySlug": "food",
+    "zipCode": "54452"
+  },
+  {
+    "name": "North Central Community Action Program (NCCAP)",
+    "description": "Community action agency providing Lincoln County residents with housing assistance, emergency rent payments, Section 8 housing vouchers, weatherization, and emergency utility aid.",
+    "address": "503 S. Center Avenue Suite 1, Merrill, WI 54452",
+    "phone": "(715) 536-9581",
+    "url": "https://northcentralcap.org/",
+    "categorySlug": "housing",
+    "zipCode": "54452"
+  },
+  {
+    "name": "Lakeshore Community Action Program (Lakeshore CAP)",
+    "description": "Community action agency helping Manitowoc, Door, Sheboygan, and Kewaunee county residents achieve economic self-sufficiency through food assistance, housing support, energy aid, and financial empowerment programs.",
+    "address": "2117 Monroe Street, Two Rivers, WI 54241",
+    "phone": "(920) 793-1266",
+    "url": "https://lakeshorecap.org/",
+    "categorySlug": "community",
+    "zipCode": "54241"
+  },
+  {
+    "name": "The Haven of Manitowoc County",
+    "description": "Emergency homeless shelter for men in Manitowoc County providing temporary lodging and connections to housing resources, serving the broader county area including Two Rivers.",
+    "address": "1003 Marshall Street, Manitowoc, WI 54220",
+    "phone": "(920) 652-9110",
+    "url": "https://thehavenofmanitowoc.org/",
+    "categorySlug": "housing",
+    "zipCode": "54220"
+  },
+  {
+    "name": "Two Rivers Mishicot Ecumenical Pantry (TREP)",
+    "description": "Interfaith food pantry serving residents of the Two Rivers and Mishicot school districts with free groceries distributed Monday, Wednesday, and Friday; no appointment needed during open hours.",
+    "address": "1902 22nd Street, Two Rivers, WI 54241",
+    "phone": "(920) 793-5364",
+    "url": "https://www.causeiq.com/organizations/two-rivers-ecumenical-pantry,391436784/",
+    "categorySlug": "food",
+    "zipCode": "54241"
+  },
+  {
+    "name": "Community Partners Campus",
+    "description": "Shared-space facility in Wausau housing multiple nonprofits serving Marathon County residents with food, shelter, clothing, medical care, mental health services, and social well-being programs under one roof.",
+    "address": "360 Grand Avenue Suite 100, Wausau, WI 54403",
+    "phone": "(715) 845-4272",
+    "url": "https://cpcwausau.org/",
+    "categorySlug": "community",
+    "zipCode": "54403"
+  },
+  {
+    "name": "Marathon County Social Services",
+    "description": "County department offering comprehensive social services including economic support, child welfare, adult protective services, and connections to state benefit programs for Marathon County residents.",
+    "address": "1000 Lake View Drive Suite 400, Wausau, WI 54403",
+    "phone": "(715) 261-7500",
+    "url": "https://www.marathoncounty.gov/about-us/departments/social-services",
+    "categorySlug": "community",
+    "zipCode": "54403"
+  },
+  {
+    "name": "Wausau Free Clinic",
+    "description": "Free primary care clinic for low-income, uninsured residents of the Wausau and Marathon County area, providing no-cost medical care, prescriptions, and lab tests through volunteer healthcare professionals.",
+    "address": "360 Grand Avenue, Wausau, WI 54403",
+    "phone": "(715) 869-4922",
+    "url": "https://wausaufreeclinic.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "54403"
+  },
+  {
+    "name": "St. Vincent de Paul – Crivitz/Wausaukee/Amberg",
+    "description": "Local St. Vincent de Paul chapter providing emergency food assistance, a thrift store, and basic needs support to residents of Wausaukee and surrounding communities in northern Marinette County.",
+    "address": "515 Van Buren Avenue, Wausaukee, WI 54177",
+    "phone": "(715) 856-6020",
+    "url": "https://www.marinettecountywi.gov/departments/health-and-human-services/",
+    "categorySlug": "food",
+    "zipCode": "54177"
+  },
+  {
+    "name": "Hunger Task Force",
+    "description": "Milwaukee's free and local food bank providing emergency food through nearly 200 partner pantries, shelters, and meal programs serving hungry children, families, and seniors across Milwaukee County.",
+    "address": "2600 S. Second Street, Milwaukee, WI 53207",
+    "phone": "(414) 777-0483",
+    "url": "https://www.hungertaskforce.org/",
+    "categorySlug": "food",
+    "zipCode": "53207"
+  },
+  {
+    "name": "Milwaukee Health Services – Isaac Coggs Heritage Health Center",
+    "description": "Federally Qualified Health Center providing affordable primary care, prenatal care, behavioral health, and dental services on a sliding-fee scale to Milwaukee residents regardless of ability to pay.",
+    "address": "8200 W. Silver Spring Drive, Milwaukee, WI 53218",
+    "phone": "(414) 760-3900",
+    "url": "https://mhsi.org/isaac-coggs-heritage-health-center",
+    "categorySlug": "healthcare",
+    "zipCode": "53218"
+  },
+  {
+    "name": "NourishMKE – Fond du Lac Food Center",
+    "description": "Community food center providing free, fresh groceries including produce, meat, and dairy in a welcoming retail-style environment; one of four NourishMKE locations serving Milwaukee's north side.",
+    "address": "10230 W. Fond du Lac Avenue, Milwaukee, WI 53224",
+    "phone": "(414) 289-6030",
+    "url": "https://www.nourishmke.org/find-food/",
+    "categorySlug": "food",
+    "zipCode": "53216"
+  },
+  {
+    "name": "Salvation Army Milwaukee Citadel Corps – Villard Avenue",
+    "description": "Salvation Army food pantry and community center serving north Milwaukee zip codes including 53216, distributing free household food on Thursdays and Fridays to neighborhood residents.",
+    "address": "4129 W. Villard Avenue, Milwaukee, WI 53209",
+    "phone": "(414) 463-3300",
+    "url": "https://www.salvationarmyusa.org/wi/milwaukee/w-villard-ave-corps/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "53209"
+  },
+  {
+    "name": "Salvation Army of Milwaukee County – Oak Creek",
+    "description": "Salvation Army food pantry providing two to three days of emergency groceries to residents of South Milwaukee and surrounding zip codes, with food distributed on the same day as requested.",
+    "address": "8706 S Howell Avenue, Oak Creek, WI 53154",
+    "phone": "(414) 761-5710",
+    "url": "https://www.salvationarmyusa.org/usa-central-territory/wisconsin-and-upper-michigan/milwaukee-area-command/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "53154"
+  },
+  {
+    "name": "South Milwaukee Human Concerns",
+    "description": "Nonprofit food pantry and social services organization serving South Milwaukee residents since 1973, providing free groceries on a monthly basis to households with proof of South Milwaukee residency.",
+    "address": "1029 Milwaukee Avenue, South Milwaukee, WI 53172",
+    "phone": "(414) 762-5500",
+    "url": "https://smhumanconcerns.org/",
+    "categorySlug": "food",
+    "zipCode": "53172"
+  },
+  {
+    "name": "Cashton Cupboard & Closet Food Pantry",
+    "description": "Community food pantry serving Cashton area residents in western Monroe County, open Monday through Friday with drive-up car service available; ring bell at the pantry door.",
+    "address": "199 Front Street, Cashton, WI 54619",
+    "phone": "(608) 654-5770",
+    "url": "https://www.facebook.com/p/Cashton-Cupboard-and-Closet-100063715055478/",
+    "categorySlug": "food",
+    "zipCode": "54619"
+  },
+  {
+    "name": "Family Promise of the Great Rivers",
+    "description": "Nonprofit providing emergency shelter and support services to families with children experiencing homelessness in Monroe County; also offers eviction prevention, shelter diversion, and long-term case management.",
+    "address": "211 W. Oak Street, Sparta, WI 54656",
+    "phone": "(608) 487-2745",
+    "url": "https://www.fpgreatriverswi.org/",
+    "categorySlug": "housing",
+    "zipCode": "54656"
+  },
+  {
+    "name": "Monroe County Department of Human Services",
+    "description": "County agency providing economic support, child welfare, adult protective services, mental health, and connections to FoodShare, BadgerCare, and housing programs for Monroe County residents.",
+    "address": "14301 Co Hwy B, Sparta, WI 54656",
+    "phone": "(608) 269-8600",
+    "url": "https://www.familiesfirstmc.org/food-nutrition-resources",
+    "categorySlug": "community",
+    "zipCode": "54619"
+  },
+  {
+    "name": "Kingdom Come Food Pantry",
+    "description": "Oconto County food pantry serving hundreds of families per week with free groceries and fresh produce grown through a community garden partnership; serves Oconto County and surrounding areas.",
+    "address": "520 N Locust Avenue, Oconto Falls, WI 54154",
+    "phone": "(920) 604-2729",
+    "url": "https://www.kingdomcomefoodpantry.com/",
+    "categorySlug": "food",
+    "zipCode": "54154"
+  },
+  {
+    "name": "NEWCAP Inc. – Oconto County",
+    "description": "Community action agency providing Oconto County residents with free food, emergency rent and mortgage assistance, utility bill help, job training, and weatherization services to address poverty.",
+    "address": "1201 Main Street, Oconto, WI 54153",
+    "phone": "(800) 242-7334",
+    "url": "https://www.newcap.org/",
+    "categorySlug": "community",
+    "zipCode": "54153"
+  },
+  {
+    "name": "Fox Valley Food Pantry",
+    "description": "Community food pantry serving Kimberly and Fox Valley area residents with free groceries distributed twice monthly; proof of residence required, no income verification needed.",
+    "address": "1200 W. Kimberly Avenue, Kimberly, WI 54136",
+    "phone": "(920) 572-5329",
+    "url": "https://foxvalley.church/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "54136"
+  },
+  {
+    "name": "Outagamie County Health & Human Services",
+    "description": "County department providing comprehensive social services, economic support, mental health and substance abuse programs, and connections to FoodShare, BadgerCare, and housing assistance for Outagamie County residents.",
+    "address": "320 S. Walnut Street, Appleton, WI 54911",
+    "phone": "(920) 832-5121",
+    "url": "https://www.outagamie.org/government/f-through-m/health-human-services",
+    "categorySlug": "community",
+    "zipCode": "54911"
+  },
+  {
+    "name": "Salvation Army Fox Cities Food Pantry",
+    "description": "Salvation Army food pantry serving Fox Cities area residents with emergency groceries providing two to three days of meals for all household members on the day food is requested.",
+    "address": "235 E. Wisconsin Avenue, Appleton, WI 54911",
+    "phone": "(920) 734-6981",
+    "url": "https://centralusa.salvationarmy.org/outagamie/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "54911"
+  },
+  {
+    "name": "Family Promise of Ozaukee County",
+    "description": "Nonprofit providing emergency shelter, rental assistance, and case management for individuals and families facing homelessness in Ozaukee County; permanent shelter accommodates up to 20 guests for up to 90 days.",
+    "address": "136 W. Grand Avenue, Port Washington, WI 53074",
+    "phone": "(262) 268-2723",
+    "url": "https://www.familypromiseoz.org/",
+    "categorySlug": "housing",
+    "zipCode": "53074"
+  },
+  {
+    "name": "Family Sharing of Ozaukee County",
+    "description": "Food pantry providing two weeks of free groceries including meat, dairy, produce, and personal care items to Ozaukee County residents; also operates mobile pantry sites throughout the county.",
+    "address": "1002 Overland Court, Grafton, WI 53024",
+    "phone": "(262) 377-0634",
+    "url": "https://www.familysharingozaukee.org/",
+    "categorySlug": "food",
+    "zipCode": "53024"
+  },
+  {
+    "name": "Oasis Healthcare",
+    "description": "Cost-friendly primary and urgent care clinic in Grafton serving Ozaukee County residents with walk-in appointments, offering primary care, acute illness and injury treatment, vaccinations, and wellness exams.",
+    "address": "1505 Wisconsin Avenue Suite 150, Grafton, WI 53024",
+    "phone": "(262) 421-8961",
+    "url": "https://www.oasishealthcare.net/",
+    "categorySlug": "healthcare",
+    "zipCode": "53024"
+  },
+  {
+    "name": "Ozaukee Food Alliance",
+    "description": "Nonprofit providing warm meals, free groceries, school supplies, and mobile food pantry distributions to families in need across Ozaukee County.",
+    "address": "Grafton, WI 53024",
+    "phone": "",
+    "url": "https://ozaukeefoodalliance.org/",
+    "categorySlug": "food",
+    "zipCode": "53024"
+  },
+  {
+    "name": "Elmwood Food Pantry",
+    "description": "Community food pantry serving Elmwood and surrounding Pierce County residents with free groceries distributed twice monthly on Tuesdays and once monthly on Saturday; emergency food available by phone.",
+    "address": "108 S. Main Street, Elmwood, WI 54740",
+    "phone": "(715) 639-2307",
+    "url": "https://www.hungerpreventioncouncil.com/pages/find-a-pantry",
+    "categorySlug": "food",
+    "zipCode": "54740"
+  },
+  {
+    "name": "Hunger Prevention Council of Pierce County",
+    "description": "Pierce County network coordinating food pantry resources and hunger relief programs, connecting residents to food pantries across the county including locations in Ellsworth, Elmwood, and River Falls.",
+    "address": "440 N. Maple Street, Ellsworth, WI 54011",
+    "phone": "(715) 273-5949",
+    "url": "https://www.hungerpreventioncouncil.com/",
+    "categorySlug": "food",
+    "zipCode": "54011"
+  },
+  {
+    "name": "Our Neighbors' Place",
+    "description": "Nonprofit providing housing case management, food assistance, laundry and shower access, free clothing, and a backpack weekend meal program to individuals and families in Pierce and St. Croix counties.",
+    "address": "122 W. Johnson Street, River Falls, WI 54022",
+    "phone": "(715) 307-7750",
+    "url": "https://ourneighborsplace.org/",
+    "categorySlug": "community",
+    "zipCode": "54022"
+  },
+  {
+    "name": "Loaves & Fishes Interfaith Food Pantry – Luck",
+    "description": "Interfaith food pantry serving residents of the Luck and Unity School Districts with free groceries on Tuesdays and Thursdays; located in the rear of the DBS Hall building in Luck.",
+    "address": "300 N. 1st Street, Luck, WI 54853",
+    "phone": "(715) 472-2993",
+    "url": "https://www.polkcountywi.gov/polkcountycandf/services/economic_support_services/economic_support_resources/polk_county_food_shelves.php",
+    "categorySlug": "food",
+    "zipCode": "54853"
+  },
+  {
+    "name": "Price County Health and Human Services",
+    "description": "County agency administering FoodShare, Medicaid, BadgerCare, and other assistance programs for Price County residents, including those in the Kennan area.",
+    "address": "104 S Eyder Ave, Phillips, WI 54555",
+    "phone": "(715) 339-3174",
+    "url": "https://www.co.price.wi.us/185/Health-Human-Services",
+    "categorySlug": "community",
+    "zipCode": "54555"
+  },
+  {
+    "name": "St. Vincent de Paul Food Pantry - Phillips",
+    "description": "Faith-based food pantry serving low-income residents of Price County, providing free groceries and emergency food assistance. Call ahead to confirm current hours.",
+    "address": "134 S Avon Ave, Phillips, WI 54555",
+    "phone": "(715) 339-6992",
+    "url": "https://www.svdpwi.org/",
+    "categorySlug": "food",
+    "zipCode": "54555"
+  },
+  {
+    "name": "Racine County Food Bank",
+    "description": "Regional food bank distributing food through 16 partner pantries across Racine County, serving thousands of families and individuals facing food insecurity.",
+    "address": "2000 DeKoven Ave Unit 2, Racine, WI 53403",
+    "phone": "(262) 632-2307",
+    "url": "https://www.racinecountyfoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "53403"
+  },
+  {
+    "name": "SAFE Haven of Racine",
+    "description": "Crisis intervention shelter serving youth who have run away, are homeless, or have experienced abuse; provides food, clothing, shelter, and family reunification services.",
+    "address": "1901 Washington Ave, Racine, WI 53403",
+    "phone": "(262) 637-9654",
+    "url": "https://safehavenofracine.org",
+    "categorySlug": "housing",
+    "zipCode": "53403"
+  },
+  {
+    "name": "Society of St. Vincent de Paul - Racine County",
+    "description": "Provides a food pantry serving residents in the 53402, 53403, 53404, and 53405 zip codes with non-perishables, frozen meat, dairy, and fresh produce once per month.",
+    "address": "926 LaSalle St, Racine, WI 53402",
+    "phone": "(262) 632-8802",
+    "url": "https://www.svdpracine.org",
+    "categorySlug": "food",
+    "zipCode": "53402"
+  },
+  {
+    "name": "The Salvation Army of Racine",
+    "description": "Community center providing food assistance, emergency financial help, clothing, and other basic needs services to Racine area residents.",
+    "address": "1901 Washington Ave, Racine, WI 53403",
+    "phone": "(262) 632-3147",
+    "url": "https://centralusa.salvationarmy.org/racine/",
+    "categorySlug": "community",
+    "zipCode": "53403"
+  },
+  {
+    "name": "ECHO of Janesville",
+    "description": "Faith-community-sponsored nonprofit providing emergency housing, a food pantry, rental assistance, transportation help, and other basic needs services to low-income families in Rock County.",
+    "address": "32 S High St, Janesville, WI 53548",
+    "phone": "(608) 754-5333",
+    "url": "https://echojanesville.org",
+    "categorySlug": "food",
+    "zipCode": "53546"
+  },
+  {
+    "name": "HealthNet of Rock County",
+    "description": "The only free and charitable clinic in Rock County, providing medical, dental, and behavioral health services at no charge or reduced cost to uninsured and underinsured residents.",
+    "address": "113 S Franklin St, Janesville, WI 53548",
+    "phone": "(608) 756-4638",
+    "url": "https://healthnet-rock.org",
+    "categorySlug": "healthcare",
+    "zipCode": "53546"
+  },
+  {
+    "name": "The Salvation Army - Rock County Red Shield Center",
+    "description": "Community center offering food pantry services, emergency financial assistance, community meals, and other social services for individuals and families in need throughout Rock County.",
+    "address": "514 Sutherland Ave, Janesville, WI 53545",
+    "phone": "(608) 752-1511",
+    "url": "https://centralusa.salvationarmy.org/rockcounty/red-shield-center/",
+    "categorySlug": "community",
+    "zipCode": "53545"
+  },
+  {
+    "name": "Community Food Pantry of Spring Green",
+    "description": "Volunteer-run food pantry serving River Valley School District residents with free groceries distributed on the third Monday of each month; provides non-perishables and fresh items.",
+    "address": "151 E Bossard St, Spring Green, WI 53588",
+    "phone": "(608) 459-5512",
+    "url": "https://www.communityfoodpantryofspringgreen.org",
+    "categorySlug": "food",
+    "zipCode": "53588"
+  },
+  {
+    "name": "Hayward Community Food Shelf",
+    "description": "Nonprofit food pantry open to anyone living in Sawyer County, including Stone Lake and Springbrook areas, providing a three-day food supply on Mondays and the first Saturday of each month.",
+    "address": "16216W Highway 63, Hayward, WI 54843",
+    "phone": "(715) 634-4237",
+    "url": "https://haywardfoodshelf.net",
+    "categorySlug": "food",
+    "zipCode": "54843"
+  },
+  {
+    "name": "Indianhead Community Action Agency - Sawyer County",
+    "description": "Community action agency providing food pantry services, energy assistance, housing support, and other poverty-relief programs to low-income residents of Sawyer County.",
+    "address": "15918 5th St, Hayward, WI 54843",
+    "phone": "(715) 634-4571",
+    "url": "https://www.indianheadcaa.org/sawyer-county-resources/",
+    "categorySlug": "community",
+    "zipCode": "54876"
+  },
+  {
+    "name": "New Day Advocacy Center",
+    "description": "Provides 24/7 shelter and advocacy services to survivors of domestic abuse, sexual assault, and child abuse across Sawyer and surrounding counties; all services are free and confidential.",
+    "address": "15581 Railroad St, Hayward, WI 54843",
+    "phone": "(715) 682-9566",
+    "url": "https://www.ndshelter.org",
+    "categorySlug": "housing",
+    "zipCode": "54876"
+  },
+  {
+    "name": "Sheboygan County Food Bank - Adell Distribution Site",
+    "description": "Food distribution site serving the northwestern portion of Sheboygan County including Adell, Cascade, Waldo, Greenbush, and Glenbeulah; open Tuesdays with extended evening hours on the second Tuesday monthly.",
+    "address": "Adell, WI 53001",
+    "phone": "(920) 447-2293",
+    "url": "https://sheboygancountyfoodbank.com",
+    "categorySlug": "food",
+    "zipCode": "53001"
+  },
+  {
+    "name": "St. Croix Valley Food Bank",
+    "description": "Regional food bank distributing fresh, healthy food to 55 hunger relief partners including pantries, backpack programs, shelters, and mobile food distributions in Pierce, Polk, St. Croix, and Burnett counties.",
+    "address": "2310 Coulee Road, Hudson, WI 54016",
+    "phone": "(715) 386-9516",
+    "url": "https://www.stcroixvalleyfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "54016"
+  },
+  {
+    "name": "WestCAP - West Central Wisconsin Community Action Agency",
+    "description": "Community action agency serving St. Croix, Pierce, and five other western Wisconsin counties with energy assistance, housing programs, food support, and other anti-poverty services.",
+    "address": "525 2nd St, Glenwood City, WI 54013",
+    "phone": "(715) 265-4753",
+    "url": "https://westcap.org",
+    "categorySlug": "community",
+    "zipCode": "54013"
+  },
+  {
+    "name": "Indianhead Community Action Agency - Taylor County Food Pantry",
+    "description": "Food pantry providing emergency food and nutrition assistance at no cost to low-income households and elderly residents of Taylor County, including the Westboro area.",
+    "address": "508 S 8th St, Medford, WI 54451",
+    "phone": "(715) 748-3063",
+    "url": "https://www.indianheadcaa.org/food-pantries/",
+    "categorySlug": "food",
+    "zipCode": "54451"
+  },
+  {
+    "name": "Taylor County Human Services",
+    "description": "County agency providing social services to all Taylor County residents including children and family services, mental health, developmental disabilities support, and economic assistance programs.",
+    "address": "227 S 2nd St, Medford, WI 54451",
+    "phone": "(715) 748-1400",
+    "url": "https://co.taylor.wi.us/hs/",
+    "categorySlug": "community",
+    "zipCode": "54451"
+  },
+  {
+    "name": "Couleecap",
+    "description": "Community action program fighting poverty since 1966 in Crawford, La Crosse, Monroe, and Vernon counties; offers housing assistance, food support, weatherization, and other poverty-relief services.",
+    "address": "201 Melby St, Westby, WI 54667",
+    "phone": "(608) 634-3104",
+    "url": "https://couleecap.org",
+    "categorySlug": "community",
+    "zipCode": "54667"
+  },
+  {
+    "name": "Living Faith Food Pantry",
+    "description": "Community outreach ministry providing free groceries to residents in the Viroqua area, open Mondays and select other days; has served the local community for over 25 years.",
+    "address": "209 Sands Rd, Viroqua, WI 54665",
+    "phone": "(608) 637-7410",
+    "url": "https://livingfaithfoodpantry.com",
+    "categorySlug": "food",
+    "zipCode": "54665"
+  },
+  {
+    "name": "Vernon Memorial Healthcare",
+    "description": "Critical access hospital and clinic system serving Vernon County, providing inpatient, outpatient, and primary care services to rural residents including those in the Genoa area.",
+    "address": "507 S Main St, Viroqua, WI 54665",
+    "phone": "(608) 637-2101",
+    "url": "https://www.vmh.org",
+    "categorySlug": "healthcare",
+    "zipCode": "54665"
+  },
+  {
+    "name": "Vilas County Department of Human Services",
+    "description": "County agency providing social services, economic support, and connecting residents to assistance programs including FoodShare, Medicaid, and BadgerCare for individuals and families in Vilas County.",
+    "address": "330 Court St, Eagle River, WI 54521",
+    "phone": "(715) 479-3600",
+    "url": "https://www.vilascountywi.gov/departments/services/social_services/",
+    "categorySlug": "community",
+    "zipCode": "54521"
+  },
+  {
+    "name": "Vilas Food Pantry",
+    "description": "Food pantry serving Vilas County residents with regular food distributions on Wednesdays and the 1st and 3rd Tuesdays of each month; open to all county residents including those in the Winchester area.",
+    "address": "1013 N Railroad St, Eagle River, WI 54521",
+    "phone": "(715) 479-9581",
+    "url": "http://www.vilasfoodpantry.net",
+    "categorySlug": "food",
+    "zipCode": "54521"
+  },
+  {
+    "name": "Bethel House of Whitewater",
+    "description": "Provides transitional housing and intensive case management to families experiencing homelessness in Whitewater, utilizing seven homes in the city to support participants working toward self-sufficiency.",
+    "address": "130 S Church St, Whitewater, WI 53190",
+    "phone": "(262) 473-2715",
+    "url": "https://www.bethelhouseinc.org",
+    "categorySlug": "housing",
+    "zipCode": "53190"
+  },
+  {
+    "name": "The Community Space",
+    "description": "Community food pantry in Whitewater open to all with no documentation required, offering free groceries on Mondays, Wednesdays, and Saturdays with additional community programs.",
+    "address": "834 E Milwaukee St, Whitewater, WI 53190",
+    "phone": "(262) 379-0187",
+    "url": "https://www.communityspacewhitewater.com",
+    "categorySlug": "food",
+    "zipCode": "53190"
+  },
+  {
+    "name": "Walworth County Health and Human Services",
+    "description": "County agency offering crisis intervention, economic support, mental health services, and connections to assistance programs for residents of Walworth County including Whitewater.",
+    "address": "1910 County Rd NN, Elkhorn, WI 53121",
+    "phone": "(262) 741-3200",
+    "url": "https://co.walworth.wi.us/",
+    "categorySlug": "community",
+    "zipCode": "53121"
+  },
+  {
+    "name": "Family Promise of Washington County",
+    "description": "Provides shelter, case management, and support services to families with children experiencing homelessness or housing instability in Washington County.",
+    "address": "1135 S Main St, West Bend, WI 53095",
+    "phone": "(262) 391-5188",
+    "url": "https://familypromisewc.org",
+    "categorySlug": "housing",
+    "zipCode": "53095"
+  },
+  {
+    "name": "Full Shelf Food Pantry",
+    "description": "One of the largest food pantries in Wisconsin, serving Washington County residents since 1982 by supplementing food needs of over 450 low-income families monthly; distributes over one million pounds of groceries annually.",
+    "address": "231 Municipal Dr, West Bend, WI 53095",
+    "phone": "(262) 335-0685",
+    "url": "https://www.fullshelffoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "53095"
+  },
+  {
+    "name": "Family Promise of Waukesha County",
+    "description": "Community-based organization providing emergency shelter, transitional housing, and case management to families with children and single women experiencing homelessness in Waukesha County.",
+    "address": "139 E North St, Waukesha, WI 53188",
+    "phone": "(262) 968-2321",
+    "url": "https://www.familypromisewaukeshawi.org",
+    "categorySlug": "housing",
+    "zipCode": "53188"
+  },
+  {
+    "name": "Lake Area Free Clinic",
+    "description": "Free medical clinic serving uninsured and underinsured adults in the Oconomowoc and Lake Country area, providing primary care, chronic disease management, and referrals at no cost.",
+    "address": "856 Armour Rd Ste B, Oconomowoc, WI 53066",
+    "phone": "(262) 569-4990",
+    "url": "https://www.lakeareafreeclinic.org",
+    "categorySlug": "healthcare",
+    "zipCode": "53066"
+  },
+  {
+    "name": "Oconomowoc Food Pantry",
+    "description": "Volunteer-run nonprofit providing free groceries to individuals and families residing within the Oconomowoc Area School District, open Tuesdays, Thursdays, and Saturday mornings.",
+    "address": "W359N5848 Brown St Ste B, Oconomowoc, WI 53066",
+    "phone": "(262) 567-7054",
+    "url": "https://oconomowocfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "53066"
+  },
+  {
+    "name": "The Salvation Army of Waukesha",
+    "description": "Corps community center providing a food pantry, free community meals three evenings weekly, a bread room, summer lunch programs for kids, and emergency financial assistance to Waukesha County residents.",
+    "address": "445 Madison St, Waukesha, WI 53188",
+    "phone": "(262) 547-7367",
+    "url": "https://centralusa.salvationarmy.org/waukesha",
+    "categorySlug": "food",
+    "zipCode": "53188"
+  },
+  {
+    "name": "Waukesha Food Pantry (Friends With Food)",
+    "description": "Food pantry located in the 53188 zip code area providing free groceries and household staples to Waukesha County residents in need.",
+    "address": "713 N Grandview Blvd, Waukesha, WI 53188",
+    "phone": "(262) 424-0184",
+    "url": "https://www.waukeshafoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "53188"
+  },
+  {
+    "name": "Waushara County Economic Support",
+    "description": "County agency administering FoodShare, Medicaid, BadgerCare Plus, and other state and federal assistance programs to eligible Waushara County residents.",
+    "address": "209 S Saint Marie St, Wautoma, WI 54982",
+    "phone": "(920) 787-0400",
+    "url": "https://www.co.waushara.wi.us/13457",
+    "categorySlug": "community",
+    "zipCode": "54982"
+  },
+  {
+    "name": "Waushara County Food Pantry",
+    "description": "Nonprofit food pantry providing supplemental food assistance to over 1,100 people monthly across Waushara County, including residents of Pine River; operates mobile distribution sites in Coloma, Wautoma, and Wild Rose.",
+    "address": "220 N Oakridge Ct, Wautoma, WI 54982",
+    "phone": "(920) 787-0641",
+    "url": "https://wausharafoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "54982"
+  },
+  {
+    "name": "ADVOCAP",
+    "description": "Community action agency for Fond du Lac, Green Lake, and Winnebago Counties providing housing stability, food assistance, emergency aid, workforce opportunities, and senior meal programs including services to Omro and surrounding communities.",
+    "address": "2929 Harrison St, Oshkosh, WI 54901",
+    "phone": "(920) 426-0150",
+    "url": "https://www.advocap.org",
+    "categorySlug": "community",
+    "zipCode": "54901"
+  },
+  {
+    "name": "Omro Community Food Pantry",
+    "description": "Community food pantry serving Omro School District residents with free groceries every Tuesday and Thursday; requires a photo ID and proof of address for new clients.",
+    "address": "310 N Webster Ave, Omro, WI 54963",
+    "phone": "(920) 231-7546",
+    "url": "https://www.charitynavigator.org/ein/800517436",
+    "categorySlug": "food",
+    "zipCode": "54963"
+  },
+  {
+    "name": "The Salvation Army - Oshkosh Corps",
+    "description": "Provides food pantry services, emergency financial assistance, and community support programs to residents of Winnebago County including Oshkosh, Omro, Butte des Morts, and Winneconne.",
+    "address": "324 N Main St, Oshkosh, WI 54901",
+    "phone": "(920) 235-3528",
+    "url": "https://centralusa.salvationarmy.org/oshkosh/",
+    "categorySlug": "community",
+    "zipCode": "54901"
+  },
+  {
+    "name": "FOCUS - Feeding Our Communities with United Services",
+    "description": "Nonprofit formed from the merger of three organizations, operating a food pantry serving South Wood County residents (including Vesper) with groceries and hygiene products, plus weekly community meals and a family backpack program for schoolchildren.",
+    "address": "2321 W Grand Ave, Wisconsin Rapids, WI 54495",
+    "phone": "(715) 422-2050",
+    "url": "https://focusofswc.org",
+    "categorySlug": "food",
+    "zipCode": "54495"
+  },
+  {
+    "name": "United Way of South Wood & Adams Counties",
+    "description": "United Way chapter connecting Adams County residents to partner programs addressing basic needs including food, health, and financial stability.",
+    "address": "131 W 2nd St, Marshfield, WI 54449",
+    "phone": "",
+    "url": "https://www.uwswac.org/partner-programs",
+    "categorySlug": "community",
+    "zipCode": "54449"
+  },
+  {
+    "name": "Wood County Human Services",
+    "description": "County agency providing social services, economic support, mental health services, and connections to assistance programs including FoodShare, Medicaid, and BadgerCare for Wood County residents.",
+    "address": "400 Market St, Wisconsin Rapids, WI 54494",
+    "phone": "(715) 421-8600",
+    "url": "https://www.co.wood.wi.us/Departments/HumanServices/",
+    "categorySlug": "community",
+    "zipCode": "54494"
+  }
+]

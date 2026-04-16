@@ -115,8 +115,27 @@ export function ResourceCard({ resource: initialResource }: ResourceCardProps) {
             >
               <ExternalLink className="w-4 h-4" aria-hidden="true" />
             </a>
-            <Badge scope={resource.scope} />
+            {resource.distance_miles != null ? (
+              <span className="inline-flex items-center px-2 py-0.5 text-xs font-medium rounded-full bg-emerald-100 text-emerald-700">
+                {resource.distance_miles.toFixed(1)} mi
+              </span>
+            ) : (
+              <Badge scope={resource.scope} />
+            )}
           </div>
+
+          {/* URL preview */}
+          {resource.url && (() => {
+            try {
+              return (
+                <p className="text-xs text-muted truncate">
+                  {new URL(resource.url).hostname.replace(/^www\./, "")}
+                </p>
+              );
+            } catch {
+              return null;
+            }
+          })()}
 
           {/* Description */}
           <p className="text-foreground text-sm leading-relaxed line-clamp-2">
