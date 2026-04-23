@@ -30,10 +30,12 @@ export async function POST(request: NextRequest) {
     }
 
     // Sign up via Supabase Auth — the trigger creates the profile row
+    const siteUrl = process.env.NEXT_PUBLIC_SITE_URL ?? request.nextUrl.origin;
     const { data, error } = await supabase.auth.signUp({
       email,
       password,
       options: {
+        emailRedirectTo: `${siteUrl}/auth/callback`,
         data: {
           display_name: displayName,
           zip_code: zipCode,
