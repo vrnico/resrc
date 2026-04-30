@@ -1,0 +1,1613 @@
+[
+  {
+    "name": "Community Connection of Northeast Oregon - Baker County",
+    "description": "Community action agency offering housing assistance, rental assistance, emergency shelter vouchers, energy assistance, food bank, senior meals, and transportation for Baker County residents.",
+    "address": "2810 Cedar St, Baker City, OR 97814",
+    "phone": "541-523-6591",
+    "url": "https://ccno.org/baker-county-community-center/",
+    "categorySlug": "housing",
+    "zipCode": "97814"
+  },
+  {
+    "name": "Community Connection of Northeast Oregon - Regional Food Bank",
+    "description": "Regional food bank distributing food across Baker, Grant, and Wallowa counties through 18 food pantries and 11 Harvest Share sites.",
+    "address": "2810 Cedar St, Baker City, OR 97814",
+    "phone": "541-523-6591",
+    "url": "https://ccno.org/regional-food-bank/",
+    "categorySlug": "food",
+    "zipCode": "97814"
+  },
+  {
+    "name": "Northeast Oregon Compassion Center",
+    "description": "Food pantry, clothing, counseling, and community services for those in need. Food distributed by appointment on Thursdays.",
+    "address": "1250 Hughes Ln, Baker City, OR 97814",
+    "phone": "541-523-9845",
+    "url": "https://noccbaker.org",
+    "categorySlug": "food",
+    "zipCode": "97814"
+  },
+  {
+    "name": "The Salvation Army of Baker City",
+    "description": "Food pantry providing food boxes to households experiencing food insecurity. Also offers emergency financial assistance and disaster relief.",
+    "address": "2505 Broadway St, Baker City, OR 97814",
+    "phone": "541-523-5853",
+    "url": "https://www.salvationarmyusa.org/or/baker-city/",
+    "categorySlug": "food",
+    "zipCode": "97814"
+  },
+  {
+    "name": "Community Outreach Inc - Corvallis",
+    "description": "Provides shelter, healthcare clinics, behavioral health, food distribution, and support services for homeless individuals, families, and veterans.",
+    "address": "865 NW Reiman Ave, Corvallis, OR 97330",
+    "phone": "541-758-3000",
+    "url": "https://communityoutreachinc.org/",
+    "categorySlug": "community",
+    "zipCode": "97330"
+  },
+  {
+    "name": "Linn Benton Food Share",
+    "description": "Regional food share organization distributing food to eligible households in Benton and Linn counties, available once every 30 days.",
+    "address": "101 SW Western Blvd Suite 102, Corvallis, OR 97333",
+    "phone": "541-758-2609",
+    "url": "https://communityservices.us/linn-benton-food-share/",
+    "categorySlug": "food",
+    "zipCode": "97333"
+  },
+  {
+    "name": "Nancy's Food Pantry - Philomath Community Services",
+    "description": "Food pantry serving west Benton County residents, open Tuesday evenings, Thursday mornings, and the third Saturday of the month.",
+    "address": "360 S 9th St, Philomath, OR 97370",
+    "phone": "541-929-2499",
+    "url": "https://www.philomathcommunityservices.org/outreach-programs/food-bank/",
+    "categorySlug": "food",
+    "zipCode": "97370"
+  },
+  {
+    "name": "South Corvallis Food Bank",
+    "description": "Food bank providing free groceries to community members in need. Open Monday, Wednesday, Thursday, and Saturday.",
+    "address": "1800 SW 3rd St, Suite 110, Corvallis, OR 97333",
+    "phone": "541-753-4263",
+    "url": "https://www.southcorvallisfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "97333"
+  },
+  {
+    "name": "St. Vincent de Paul Food Pantry - Corvallis",
+    "description": "Emergency food and personal items provided at no cost once a month to individuals and families.",
+    "address": "101 SW Western Blvd Suite 102, Corvallis, OR 97333",
+    "phone": "541-928-6335",
+    "url": "https://www.stvincentdepaulcorvallis.com/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "97333"
+  },
+  {
+    "name": "Clackamas County Coordinated Housing Access",
+    "description": "One-stop call to connect with housing resources, shelter referrals, eviction prevention, and rapid rehousing assistance, seven days a week.",
+    "address": "2051 Kaen Rd #135, Oregon City, OR 97045",
+    "phone": "503-655-8575",
+    "url": "https://www.clackamas.us/communitydevelopment/cccha",
+    "categorySlug": "housing",
+    "zipCode": "97045"
+  },
+  {
+    "name": "Clackamas Service Center",
+    "description": "Largest food pantry in Clackamas County, also offering clothing, showers, mail receiving, and connections to housing and healthcare resources.",
+    "address": "8937 SE Jannsen Rd, Clackamas, OR 97015",
+    "phone": "503-794-0156",
+    "url": "https://cscoregon.org/",
+    "categorySlug": "food",
+    "zipCode": "97015"
+  },
+  {
+    "name": "Clackamas Women's Services",
+    "description": "Emergency and transitional housing, advocacy, and case management for women and children experiencing domestic violence. 24-hour crisis line.",
+    "address": "256 Warner Milne Rd, Oregon City, OR 97045",
+    "phone": "503-654-2288",
+    "url": "https://www.cwsor.org/",
+    "categorySlug": "housing",
+    "zipCode": "97045"
+  },
+  {
+    "name": "Estacada Food Bank",
+    "description": "Food bank serving Estacada area residents, open Tuesday and Friday mornings and afternoons.",
+    "address": "PO Box 1196, Estacada, OR 97023",
+    "phone": "503-630-7470",
+    "url": "https://www.foodpantries.org/ci/or-clackamas",
+    "categorySlug": "food",
+    "zipCode": "97023"
+  },
+  {
+    "name": "Foothills Community Church Food Pantry",
+    "description": "Supplemental food pantry serving the Molalla River School District, Mulino, and Colton areas. Open Tuesday and Thursday.",
+    "address": "122 Grange Ave, Molalla, OR 97038",
+    "phone": "503-759-0341",
+    "url": "https://foothillsonline.com/community-services",
+    "categorySlug": "food",
+    "zipCode": "97038"
+  },
+  {
+    "name": "Gleaners of Clackamas County",
+    "description": "Non-profit food share organization providing free groceries to low-income residents of Clackamas County.",
+    "address": "13821 Fir St, Oregon City, OR 97045",
+    "phone": "503-655-8740",
+    "url": "https://www.gleanerscc.org/",
+    "categorySlug": "food",
+    "zipCode": "97045"
+  },
+  {
+    "name": "Hunger Fighters Oregon - Lake Oswego",
+    "description": "No-barriers food pantry with no proof of income or residency required. Open Sunday, Wednesday, and Friday.",
+    "address": "4 Monroe Pkwy, Lake Oswego, OR 97034",
+    "phone": "503-635-3401",
+    "url": "https://www.hungerfightersoregon.org/",
+    "categorySlug": "food",
+    "zipCode": "97034"
+  },
+  {
+    "name": "Sandy Community Action Center",
+    "description": "Hunger-relief agency providing food pantry services for low-income families within the Oregon Trail School District. Also offers home delivery in the Hoodland area.",
+    "address": "38982 Pioneer Blvd, Sandy, OR 97055",
+    "phone": "503-668-4746",
+    "url": "https://sandyactioncenter.com/",
+    "categorySlug": "food",
+    "zipCode": "97055"
+  },
+  {
+    "name": "The Canby Center Food Pantry",
+    "description": "Food pantry serving Canby residents, open the first and third Saturday of each month from 9am-11am.",
+    "address": "681 SW 2nd Ave, Canby, OR 97013",
+    "phone": "503-266-2920",
+    "url": "https://www.foodpantries.org/li/canby_alliance_church_97013",
+    "categorySlug": "food",
+    "zipCode": "97013"
+  },
+  {
+    "name": "Wilsonville Community Sharing Food Bank",
+    "description": "Neighbors helping neighbors with food distribution on Tuesdays. Serves Wilsonville and surrounding areas.",
+    "address": "PO Box 205, Wilsonville, OR 97070",
+    "phone": "503-682-6939",
+    "url": "https://wilsonvillecommunitysharing.org/",
+    "categorySlug": "food",
+    "zipCode": "97070"
+  },
+  {
+    "name": "Clatsop Behavioral Healthcare",
+    "description": "Largest community-based behavioral health and substance use treatment provider in Clatsop County. Rapid Access Clinic serves urgent needs without appointments or insurance.",
+    "address": "2120 Exchange St, Astoria, OR 97103",
+    "phone": "503-325-5722",
+    "url": "https://www.clatsopbh.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "97103"
+  },
+  {
+    "name": "Clatsop Community Action",
+    "description": "Nonprofit providing food, housing assistance, emergency shelter, energy assistance, and information and referral services to Clatsop County residents.",
+    "address": "364 9th St, Astoria, OR 97103",
+    "phone": "503-325-1400",
+    "url": "https://ccaservices.org/",
+    "categorySlug": "community",
+    "zipCode": "97103"
+  },
+  {
+    "name": "Clatsop Community Action - Columbia Inn Emergency Shelter",
+    "description": "21-room emergency shelter serving families, domestic violence survivors, youth, veterans, and people with mobility issues in Clatsop County.",
+    "address": "364 9th St, Astoria, OR 97103",
+    "phone": "503-325-1400",
+    "url": "https://ccaservices.org/housing/shelter-and-housing-services/",
+    "categorySlug": "housing",
+    "zipCode": "97103"
+  },
+  {
+    "name": "Clatsop Emergency Food Bank Pantry",
+    "description": "Emergency food bank operating Monday through Friday in Astoria, serving Clatsop County residents.",
+    "address": "1103 Grand Ave, Astoria, OR 97103",
+    "phone": "503-325-1702",
+    "url": "https://ccaservices.org/food/food-pantries/",
+    "categorySlug": "food",
+    "zipCode": "97103"
+  },
+  {
+    "name": "Barbara Bullis Memorial HELP Food Pantry - Scappoose",
+    "description": "Food pantry affiliated with Columbia Pacific Food Bank, serving Scappoose area residents Monday through Thursday.",
+    "address": "33810 E Columbia Ave, Scappoose, OR 97056",
+    "phone": "503-543-3610",
+    "url": "https://cpfoodbank.org/food-pantries/",
+    "categorySlug": "food",
+    "zipCode": "97056"
+  },
+  {
+    "name": "Columbia Health Services",
+    "description": "Federally qualified health center providing primary care, health promotion, home visiting, WIC, and Oregon Health Plan application assistance in Columbia County.",
+    "address": "2370 Gable Rd, St. Helens, OR 97051",
+    "phone": "800-244-4870",
+    "url": "https://columbia-health.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "97051"
+  },
+  {
+    "name": "Columbia Pacific Food Bank",
+    "description": "Regional food bank serving Columbia County through a network of five food pantries, one community meal site, and 25 supplemental partners.",
+    "address": "1421 Columbia Blvd, St. Helens, OR 97051",
+    "phone": "503-397-9708",
+    "url": "https://cpfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "97051"
+  },
+  {
+    "name": "HOPE of Rainier - Food Pantry",
+    "description": "Food pantry affiliated with Columbia Pacific Food Bank. Open Monday, Wednesday, and last Saturday of the month.",
+    "address": "404 E A St, Rainier, OR 97048",
+    "phone": "503-556-0701",
+    "url": "https://www.hopeofrainier.com/",
+    "categorySlug": "food",
+    "zipCode": "97048"
+  },
+  {
+    "name": "Turning Point Clatskanie - Food Pantry",
+    "description": "3-5 day supply of fresh food including meat, dairy, produce, and shelf-stable staples for residents of the 97016 zip code, one box per month.",
+    "address": "PO Box 278, Clatskanie, OR 97016",
+    "phone": "503-728-3501",
+    "url": "https://turningpointclatskanie.org/",
+    "categorySlug": "food",
+    "zipCode": "97016"
+  },
+  {
+    "name": "Myrtle Point Bear Cupboard Food Pantry",
+    "description": "Food pantry serving Bandon, Coquille, and Myrtle Point area residents every Thursday.",
+    "address": "1320 Maryland Ave, Myrtle Point, OR 97458",
+    "phone": "541-290-0002",
+    "url": "https://www.facebook.com/BearCupboardFoodPantry/",
+    "categorySlug": "food",
+    "zipCode": "97458"
+  },
+  {
+    "name": "Oregon Coast Community Action (ORCCA)",
+    "description": "Non-profit providing housing assistance, deposit assistance, rental assistance, and housing retention services for Coos and Curry County residents.",
+    "address": "1855 Thomas Ave, Coos Bay, OR 97420",
+    "phone": "541-435-7080",
+    "url": "https://www.orcca.us/",
+    "categorySlug": "housing",
+    "zipCode": "97420"
+  },
+  {
+    "name": "South Coast Food Share - Oregon Coast Community Action",
+    "description": "Regional food bank for Coos and Curry counties, distributing food through a network of 34 partner agencies and programs.",
+    "address": "225 LaClair Ave, Coos Bay, OR 97420",
+    "phone": "541-435-7754",
+    "url": "https://www.orcca.us/scfs",
+    "categorySlug": "food",
+    "zipCode": "97420"
+  },
+  {
+    "name": "The Salvation Army - Coos Bay",
+    "description": "Community center providing food assistance, emergency financial aid, and social services to Coos Bay area residents.",
+    "address": "1155 Flanagan Ave, Coos Bay, OR 97420",
+    "phone": "541-888-5202",
+    "url": "https://coosbay.salvationarmy.org/",
+    "categorySlug": "food",
+    "zipCode": "97420"
+  },
+  {
+    "name": "St. Vincent de Paul Society of Crook County",
+    "description": "USDA food pantry in Prineville open Tuesday, Wednesday, and Thursday. Serves households meeting income guidelines or enrolled in SNAP/TANF/SSI.",
+    "address": "937 NW Madras Hwy, Prineville, OR 97754",
+    "phone": "541-447-7662",
+    "url": "https://www.svdpofcc.org/services/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "97754"
+  },
+  {
+    "name": "Brookings-Harbor Community Helpers Food Bank",
+    "description": "Monthly food box distribution using a shopping-style system. Open Monday, Wednesday, and Friday mornings. USDA income guidelines but no proof of income required.",
+    "address": "539 Hemlock St, Brookings, OR 97415",
+    "phone": "541-469-6988",
+    "url": "https://www.brookingsharborfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "97415"
+  },
+  {
+    "name": "Gold Beach Christian Help",
+    "description": "Food pantry serving Gold Beach area residents Monday, Wednesday, Thursday, and Friday mornings.",
+    "address": "29813 Colvin St, Gold Beach, OR 97444",
+    "phone": "541-247-4054",
+    "url": "https://www.foodpantries.org/li/gold-beach-christian-help",
+    "categorySlug": "food",
+    "zipCode": "97444"
+  },
+  {
+    "name": "NeighborImpact - Bend Office",
+    "description": "Community action agency providing food bank, housing assistance, rent/utility assistance, and weatherization services for Crook, Deschutes, and Jefferson counties.",
+    "address": "20310 Empire Ave Suite A100, Bend, OR 97703",
+    "phone": "541-318-7506",
+    "url": "https://www.neighborimpact.org/",
+    "categorySlug": "community",
+    "zipCode": "97701"
+  },
+  {
+    "name": "Shepherd's House Ministries - Bend Lighthouse Navigation Center",
+    "description": "24-hour emergency shelter with 100 beds, meals, case management, health services, showers, and pathways to permanent housing.",
+    "address": "1854 NE Division St, Bend, OR 97701",
+    "phone": "541-388-2096",
+    "url": "https://shepherdshouseministries.org/bend-lighthouse-navigation-center/",
+    "categorySlug": "housing",
+    "zipCode": "97701"
+  },
+  {
+    "name": "St. Vincent de Paul - Bend",
+    "description": "Food boxes twice per month, sack lunches twice per week, plus assistance with utilities, prescriptions, IDs, clothing, and transitional housing.",
+    "address": "950 SE 3rd St, Bend, OR 97702",
+    "phone": "541-389-6643",
+    "url": "https://stvincentdepaulbend.org/",
+    "categorySlug": "food",
+    "zipCode": "97702"
+  },
+  {
+    "name": "St. Vincent de Paul - La Pine / South Deschutes",
+    "description": "Food, clothing, energy assistance, and additional services for persons of southern Deschutes County, including homebound senior delivery.",
+    "address": "51340 Hwy 97, La Pine, OR 97739",
+    "phone": "541-536-6135",
+    "url": "https://lapinesvdp.org/",
+    "categorySlug": "food",
+    "zipCode": "97739"
+  },
+  {
+    "name": "The Giving Plate",
+    "description": "Free grocery program open to anyone in Central Oregon, twice a month. Operates a Community Store and Distribution Center.",
+    "address": "61470 S Hwy 97, Bend, OR 97702",
+    "phone": "541-797-6883",
+    "url": "https://www.thegivingplate.org/",
+    "categorySlug": "food",
+    "zipCode": "97702"
+  },
+  {
+    "name": "The Salvation Army - Bend",
+    "description": "Food pantry and hunger relief services for Deschutes County residents, plus emergency financial assistance.",
+    "address": "515 NE Dekalb St, Bend, OR 97701",
+    "phone": "541-389-8888",
+    "url": "https://bend.salvationarmy.org/",
+    "categorySlug": "food",
+    "zipCode": "97701"
+  },
+  {
+    "name": "FISH Food Pantry - Roseburg",
+    "description": "One of Oregon's first choice-model food banks, allowing Douglas County residents to choose their own groceries. Open Monday, Wednesday, Thursday, and Friday.",
+    "address": "405 NE Jerry's Dr, Roseburg, OR 97470",
+    "phone": "541-672-5242",
+    "url": "https://fishofroseburg.org/",
+    "categorySlug": "food",
+    "zipCode": "97470"
+  },
+  {
+    "name": "Glide Helping Hands Food Pantry",
+    "description": "Food pantry at Glide Seventh-day Adventist Church, open Wednesdays.",
+    "address": "174 Abbott St, Glide, OR 97443",
+    "phone": "541-496-3956",
+    "url": "https://www.ucancap.org/food-pantries/",
+    "categorySlug": "food",
+    "zipCode": "97443"
+  },
+  {
+    "name": "Reedsport Food Pantry",
+    "description": "Community food pantry serving Reedsport area residents Tuesday, Wednesday, and Friday.",
+    "address": "150 S 20th St, Reedsport, OR 97467",
+    "phone": "541-361-9277",
+    "url": "https://thereedsportcollective.org/reedsport-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "97467"
+  },
+  {
+    "name": "Roseburg Dream Center Food Pantry",
+    "description": "Free food pantry open Monday and Wednesday serving Roseburg area residents.",
+    "address": "2555 NE Diamond Lake Blvd, Roseburg, OR 97470",
+    "phone": "541-673-5918",
+    "url": "https://roseburgdreamcenter.org/",
+    "categorySlug": "food",
+    "zipCode": "97470"
+  },
+  {
+    "name": "Roseburg Rescue Mission",
+    "description": "Emergency shelter, transitional housing, meals, showers, laundry, and recovery programs for men, women, and children experiencing homelessness.",
+    "address": "752 SE Pine St, Roseburg, OR 97470",
+    "phone": "541-673-3004",
+    "url": "https://www.roseburgrescuemission.org/",
+    "categorySlug": "housing",
+    "zipCode": "97470"
+  },
+  {
+    "name": "Sutherlin-Oakland Emergency Food Pantry",
+    "description": "Emergency food pantry serving Sutherlin and Oakland area residents Monday and Wednesday mornings.",
+    "address": "183 E 1st St, Sutherlin, OR 97479",
+    "phone": "541-459-4082",
+    "url": "https://foodfinder.oregonfoodbank.org/locations/sutherlin-oakland-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "97479"
+  },
+  {
+    "name": "The Salvation Army - Roseburg",
+    "description": "Food pantry open Tuesday through Friday afternoons, plus emergency financial assistance for Douglas County residents.",
+    "address": "3130 NE Stephens St, Roseburg, OR 97470",
+    "phone": "541-672-6581",
+    "url": "https://roseburg.salvationarmy.org/",
+    "categorySlug": "food",
+    "zipCode": "97470"
+  },
+  {
+    "name": "United Community Action Network (UCAN) - Roseburg",
+    "description": "Community action agency providing housing assistance, emergency shelter, food pantries, affordable housing, energy assistance, and case management for Douglas County residents.",
+    "address": "280 Kenneth Ford Dr, Roseburg, OR 97470",
+    "phone": "541-440-3516",
+    "url": "https://www.ucancap.org/",
+    "categorySlug": "community",
+    "zipCode": "97470"
+  },
+  {
+    "name": "Condon Community Food Pantry",
+    "description": "Community food pantry serving Gilliam County residents on the first Tuesday and third Monday of each month.",
+    "address": "311 S Main St, Condon, OR 97823",
+    "phone": "541-384-2172",
+    "url": "https://www.condoncommunityfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "97823"
+  },
+  {
+    "name": "Gilliam County Senior and Family Services",
+    "description": "Coordinates government and nonprofit services to support families and seniors in Gilliam County, including referrals to food, housing, and social services.",
+    "address": "221 S Oregon St, Condon, OR 97823",
+    "phone": "541-351-9507",
+    "url": "https://www.gilliamcountyor.gov/government/family_services/index.php",
+    "categorySlug": "community",
+    "zipCode": "97823"
+  },
+  {
+    "name": "Community Connection of Northeast Oregon - Grant County",
+    "description": "Food resources and social services coordination for Grant County residents, including food pantries and Harvest Share distribution sites.",
+    "address": "530 E Main St, John Day, OR 97845",
+    "phone": "541-575-1696",
+    "url": "https://ccno.org/grant-county-food-resources/",
+    "categorySlug": "community",
+    "zipCode": "97845"
+  },
+  {
+    "name": "Grant County Food Bank",
+    "description": "Monthly food bank distributing free food the fourth Wednesday of every month for Grant County residents of all ages and incomes.",
+    "address": "530 E Main St Suite 9, John Day, OR 97845",
+    "phone": "541-575-0299",
+    "url": "https://foodfinder.oregonfoodbank.org/locations/john-day-helping-hands-pantry",
+    "categorySlug": "food",
+    "zipCode": "97845"
+  },
+  {
+    "name": "Grant County Health Department",
+    "description": "Rural health clinic providing primary care, accepts Oregon Health Plan, Medicare, Medicaid, and offers sliding-scale fees for self-pay patients.",
+    "address": "528 E Main Street Suite E, John Day, OR 97845",
+    "phone": "(541) 575-0527",
+    "url": "https://grantcountyoregon.net/242/Health-Department",
+    "categorySlug": "healthcare",
+    "zipCode": "97845"
+  },
+  {
+    "name": "Harney County Senior and Community Services Center (Harney Hub)",
+    "description": "County food bank, congregate meals, Meals-on-Wheels, and emergency shelter programs for low-income residents and seniors in Harney County.",
+    "address": "17 S Alder Ave, Burns, OR 97720",
+    "phone": "(541) 573-6024",
+    "url": "https://harneyhub.org/",
+    "categorySlug": "food",
+    "zipCode": "97720"
+  },
+  {
+    "name": "Harney District Hospital",
+    "description": "Critical Access Hospital serving all of Harney County with emergency care, primary care, behavioral health, surgery, and specialty services.",
+    "address": "557 W Washington St, Burns, OR 97720",
+    "phone": "(541) 573-7281",
+    "url": "https://harneydh.com/",
+    "categorySlug": "healthcare",
+    "zipCode": "97720"
+  },
+  {
+    "name": "Harney HOPE",
+    "description": "Provides emergency shelter and 24-hour crisis hotline, safety planning, advocacy, and support services for survivors of domestic violence, sexual assault, stalking, and human trafficking in Harney County.",
+    "address": "85 N Date St, Burns, OR 97720",
+    "phone": "(541) 573-7176",
+    "url": "https://harneyhope.org/",
+    "categorySlug": "crisis",
+    "zipCode": "97720"
+  },
+  {
+    "name": "FISH Food Bank - Hood River",
+    "description": "Nonprofit food bank providing 3-5 day emergency food supplies to any resident of Hood River County. No income or citizenship requirements.",
+    "address": "1130 Tucker Rd, Hood River, OR 97031",
+    "phone": "(541) 386-3474",
+    "url": "https://www.fish-food-bank.com/",
+    "categorySlug": "food",
+    "zipCode": "97031"
+  },
+  {
+    "name": "ACCESS - Community Action Agency of Jackson County",
+    "description": "Private nonprofit community action agency offering food pantries, utility assistance, housing support, and social services for low-income individuals throughout Jackson County.",
+    "address": "3630 Aviation Way, Medford, OR 97504",
+    "phone": "(541) 779-6691",
+    "url": "https://accesshelps.org/",
+    "categorySlug": "community",
+    "zipCode": "97504"
+  },
+  {
+    "name": "Ashland Community Food Bank",
+    "description": "Community food bank providing free food assistance to low-income individuals and families in the Ashland area.",
+    "address": "560 Clover Ln, Ashland, OR 97520",
+    "phone": "(541) 488-9544",
+    "url": "https://ashlandcfb.org/",
+    "categorySlug": "food",
+    "zipCode": "97520"
+  },
+  {
+    "name": "La Clinica Del Valle",
+    "description": "Nonprofit community health center providing primary care, dental, women's health, and behavioral health services with sliding-scale fees. Serves migrant and seasonal farmworkers and low-income residents.",
+    "address": "3617 S Pacific Hwy, Medford, OR 97501",
+    "phone": "(541) 535-6239",
+    "url": "https://laclinicahealth.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "97501"
+  },
+  {
+    "name": "Medford Gospel Mission",
+    "description": "Emergency shelter and free meals for men, women, and children. Provides emergency beds for up to 30 days and nightly free dinners open to the public.",
+    "address": "125 W Jackson St, Medford, OR 97501",
+    "phone": "(541) 779-1597",
+    "url": "https://medfordgospelmission.org/",
+    "categorySlug": "housing",
+    "zipCode": "97501"
+  },
+  {
+    "name": "OHRA - Opportunities for Housing, Resources & Assistance",
+    "description": "Human services hub operating a 24/7 low-barrier emergency shelter, walk-in resource center, laundry and shower services, and housing navigation for unhoused and low-income people in Jackson County.",
+    "address": "2350 Ashland St, Ashland, OR 97520",
+    "phone": "(541) 631-2235",
+    "url": "https://ohrahelps.org/",
+    "categorySlug": "housing",
+    "zipCode": "97520"
+  },
+  {
+    "name": "Rogue Community Health",
+    "description": "Nonprofit federally qualified health center providing affordable primary care, dental, and behavioral health services to the community on a sliding-scale basis.",
+    "address": "19 Myrtle St, Medford, OR 97504",
+    "phone": "(541) 773-3863",
+    "url": "https://roguecommunityhealth.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "97504"
+  },
+  {
+    "name": "Salvation Army - Medford Corps",
+    "description": "Food pantry and social services for low-income individuals and families in Jackson County. Provides emergency food boxes and financial assistance.",
+    "address": "304 Beatty St, Medford, OR 97501",
+    "phone": "(541) 773-6965",
+    "url": "https://jacksoncounty.salvationarmy.org/medford/",
+    "categorySlug": "food",
+    "zipCode": "97501"
+  },
+  {
+    "name": "Jefferson County Food Bank",
+    "description": "Local food bank providing emergency food to residents of Jefferson County. Open Tuesdays for pantry distribution.",
+    "address": "556 SE 7th St, Madras, OR 97741",
+    "phone": "(541) 475-3344",
+    "url": "https://www.foodpantries.org/li/jefferson_county_food_bank_97741",
+    "categorySlug": "food",
+    "zipCode": "97741"
+  },
+  {
+    "name": "Madras Community Food Pantry",
+    "description": "Independent 501(c)(3) nonprofit offering high-protein, nutrient-dense free food to any resident of Jefferson County or Warm Springs in need. No exclusions.",
+    "address": "370 SW Culver Hwy, Madras, OR 97741",
+    "phone": "(541) 475-2150",
+    "url": "https://www.madrascommunityfoodpantry.com/",
+    "categorySlug": "food",
+    "zipCode": "97741"
+  },
+  {
+    "name": "Warm Springs Commodities Food Bank",
+    "description": "Food Distribution Program on Indian Reservations (FDPIR) providing USDA foods to low-income households in Warm Springs. Serves tribal and community members.",
+    "address": "4217 Holliday St, Warm Springs, OR 97761",
+    "phone": "(541) 553-3422",
+    "url": "https://warmsprings-nsn.gov/program/tribal-commodity-program/",
+    "categorySlug": "food",
+    "zipCode": "97761"
+  },
+  {
+    "name": "Warm Springs Tribal Social Services",
+    "description": "Provides social services, LIHEAP energy assistance, food distribution, and referrals for low-income and no-income Warm Springs tribal members.",
+    "address": "Warm Springs, OR 97761",
+    "phone": "(541) 553-3241",
+    "url": "https://www.neighborimpact.org/providers/warm-springs-tribal-social-services/",
+    "categorySlug": "community",
+    "zipCode": "97761"
+  },
+  {
+    "name": "Cave Junction Adventist Community Services Pantry",
+    "description": "Food pantry distributing free food boxes to low and no-income individuals and families in Illinois Valley and surrounding communities of Josephine County.",
+    "address": "228 East Fork Rd, Cave Junction, OR 97523",
+    "phone": "(541) 472-8579",
+    "url": "https://josephinelibrary.org/josephine-link/doug-hoskins-resource-center/",
+    "categorySlug": "food",
+    "zipCode": "97523"
+  },
+  {
+    "name": "Grants Pass Gospel Rescue Mission",
+    "description": "Provides emergency shelter, meals, and transitional housing for homeless men, women, and children in Josephine County since 1983.",
+    "address": "540 SW Foundry St, Grants Pass, OR 97526",
+    "phone": "(541) 476-0082",
+    "url": "https://gospelrescuemissiongp.org/",
+    "categorySlug": "housing",
+    "zipCode": "97526"
+  },
+  {
+    "name": "Grants Pass Gospel Rescue Mission - Women and Children's Shelter",
+    "description": "Emergency shelter for women and children fleeing homelessness or domestic crisis in Josephine County. Provides meals, shelter, and support services.",
+    "address": "530 SW Foundry St, Grants Pass, OR 97526",
+    "phone": "(541) 200-6242",
+    "url": "https://gospelrescuemissiongp.org/services/",
+    "categorySlug": "housing",
+    "zipCode": "97526"
+  },
+  {
+    "name": "Josephine County Food Bank",
+    "description": "Dedicated to collecting and distributing emergency food throughout Josephine County, feeding approximately 22,000 neighbors monthly through a network of 30+ partner agencies.",
+    "address": "3658 Upper River Rd, Grants Pass, OR 97526",
+    "phone": "(541) 479-5556",
+    "url": "https://www.jocofoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "97526"
+  },
+  {
+    "name": "ROC Food Pantry (Reaching Our Community)",
+    "description": "Nonprofit food pantry serving Grants Pass and Josephine County, providing balanced meals to 4,000 clients monthly including home delivery to 200 homebound seniors.",
+    "address": "564 SW Foundry St, Grants Pass, OR 97526",
+    "phone": "(541) 476-3344",
+    "url": "https://rochome.org/",
+    "categorySlug": "food",
+    "zipCode": "97526"
+  },
+  {
+    "name": "Klamath Basin Behavioral Health",
+    "description": "24/7 mental health crisis services, mobile crisis team, outpatient behavioral health, and substance use treatment. Walk-in crisis center and Link Access Center available.",
+    "address": "2210 N Eldorado Ave, Klamath Falls, OR 97601",
+    "phone": "(541) 883-1030",
+    "url": "https://www.kbbh.org/",
+    "categorySlug": "crisis",
+    "zipCode": "97601"
+  },
+  {
+    "name": "Klamath Falls Gospel Mission",
+    "description": "Provides emergency shelter, daily meals three times a day, showers, clean clothing, and recovery programs for people in need in Klamath County.",
+    "address": "1931 Mission Ave, Klamath Falls, OR 97601",
+    "phone": "(541) 882-4895",
+    "url": "https://www.kfallsmission.org/",
+    "categorySlug": "housing",
+    "zipCode": "97601"
+  },
+  {
+    "name": "Klamath Housing Authority",
+    "description": "Administers Housing Choice Vouchers and public housing programs for very low-income families, elderly, and disabled residents throughout Klamath County.",
+    "address": "1445 Avalon St, Klamath Falls, OR 97603",
+    "phone": "(541) 884-0649",
+    "url": "https://www.klamathhousing.org/",
+    "categorySlug": "housing",
+    "zipCode": "97603"
+  },
+  {
+    "name": "Klamath Tribal Health and Family Services",
+    "description": "Tribal health clinic providing medical, dental, and behavioral health services to Klamath tribal members and eligible community members.",
+    "address": "330 Chiloquin Blvd, Chiloquin, OR 97624",
+    "phone": "(541) 882-1487",
+    "url": "https://www.klamathtribalhealth.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "97624"
+  },
+  {
+    "name": "Klamath Tribes Social Services Department",
+    "description": "Provides social services, LIHEAP energy assistance, and referrals for tribal members and community residents in Chiloquin and surrounding Klamath County areas.",
+    "address": "501 Chiloquin Blvd, Chiloquin, OR 97624",
+    "phone": "(541) 783-2219",
+    "url": "https://klamathtribes.org/community-services/",
+    "categorySlug": "community",
+    "zipCode": "97624"
+  },
+  {
+    "name": "Klamath-Lake Counties Food Bank",
+    "description": "Regional food bank distributing food to 19 hunger-relief agencies and 22 nonprofit programs across Klamath and Lake counties. Affiliate of Oregon Food Bank.",
+    "address": "3231 Maywood Dr, Klamath Falls, OR 97601",
+    "phone": "(541) 882-1223",
+    "url": "https://www.klamathfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "97601"
+  },
+  {
+    "name": "Salvation Army Service Center - Klamath Falls",
+    "description": "Food pantry providing free food boxes and emergency financial assistance to low-income residents of Klamath County.",
+    "address": "4243 Winter Ave, Klamath Falls, OR 97601",
+    "phone": "(541) 882-5280",
+    "url": "https://www.salvationarmyusa.org/or/klamath-falls/maywood-dr-units-12-13/",
+    "categorySlug": "food",
+    "zipCode": "97601"
+  },
+  {
+    "name": "Lake County Food Share",
+    "description": "Local food bank providing free food to low-income residents of Lakeview and all of Lake County, Oregon. Open Thursdays for distribution.",
+    "address": "247 N N St, Lakeview, OR 97630",
+    "phone": "(541) 219-6044",
+    "url": "https://foodfinder.oregonfoodbank.org/locations/lake-county-foodshare",
+    "categorySlug": "food",
+    "zipCode": "97630"
+  },
+  {
+    "name": "Burrito Brigade",
+    "description": "Nonprofit delivering free vegan meals to the hungry and unhoused, operating Little Free Pantries across Eugene, and distributing food boxes on weekends.",
+    "address": "Eugene, OR 97401",
+    "phone": "(541) 343-2822",
+    "url": "https://burritobrigade.org/",
+    "categorySlug": "food",
+    "zipCode": "97401"
+  },
+  {
+    "name": "Catholic Community Services of Lane County - Eugene",
+    "description": "Provides emergency food and social services to anyone in need, helping low-income Lane County families take positive steps out of poverty.",
+    "address": "1464 W 6th Ave, Eugene, OR 97402",
+    "phone": "(541) 345-8779",
+    "url": "https://www.ccslc.org/",
+    "categorySlug": "food",
+    "zipCode": "97402"
+  },
+  {
+    "name": "Community Sharing Program",
+    "description": "Nonprofit providing emergency food boxes, rental assistance, emergency shelter, utility assistance, and limited medical/dental/prescription assistance to low-income residents of south Lane County.",
+    "address": "1440 Birch Ave, Cottage Grove, OR 97424",
+    "phone": "(541) 942-2176",
+    "url": "https://communitysharing.org/",
+    "categorySlug": "community",
+    "zipCode": "97424"
+  },
+  {
+    "name": "Florence Food Share",
+    "description": "Nonprofit providing emergency food free of charge to low-income, disabled, senior, unemployed, and underemployed individuals and households in Florence and Dunes City.",
+    "address": "2190 Spruce St, Florence, OR 97439",
+    "phone": "(541) 997-9110",
+    "url": "https://www.foodforlanecounty.org/location/florence-food-share/",
+    "categorySlug": "food",
+    "zipCode": "97439"
+  },
+  {
+    "name": "FOOD for Lane County",
+    "description": "Largest food bank in Lane County, distributing food through 151+ partner agencies and programs. Operates emergency food boxes, The Dining Room free meal site, and the largest summer food program in Oregon.",
+    "address": "770 Bailey Hill Rd, Eugene, OR 97402",
+    "phone": "(541) 343-2822",
+    "url": "https://www.foodforlanecounty.org/",
+    "categorySlug": "food",
+    "zipCode": "97402"
+  },
+  {
+    "name": "Homes for Good Housing Agency",
+    "description": "Public housing authority for Eugene, Springfield, and Lane County providing affordable housing options, Section 8 vouchers, and rental assistance for low-income residents.",
+    "address": "100 W 13th Ave, Eugene, OR 97401",
+    "phone": "541-682-3755",
+    "url": "https://homesforgood.org/",
+    "categorySlug": "housing",
+    "zipCode": "97401"
+  },
+  {
+    "name": "Junction City Local Aid",
+    "description": "Nonprofit food pantry and assistance organization providing emergency food, free clothing, utility bill assistance, and prescription help to low-income residents of the Junction City area since 1945.",
+    "address": "210 E 6th Ave, Junction City, OR 97448",
+    "phone": "(541) 998-3992",
+    "url": "https://junctioncitylocalaid.org/",
+    "categorySlug": "food",
+    "zipCode": "97448"
+  },
+  {
+    "name": "Mapleton Food Share",
+    "description": "Community food pantry dedicated to alleviating hunger in western Lane County, serving Mapleton, Swisshome, and Deadwood residents.",
+    "address": "10718 OR-126, Mapleton, OR 97453",
+    "phone": "541-268-2919",
+    "url": "https://mapletonfoodshare.org/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "97453"
+  },
+  {
+    "name": "Salvation Army Springfield Food Pantry",
+    "description": "Food pantry serving low-income individuals and families in Springfield with groceries Monday through Friday.",
+    "address": "1275 Mill St, Springfield, OR 97477",
+    "phone": "541-747-6229",
+    "url": "https://springfield.salvationarmy.org/",
+    "categorySlug": "food",
+    "zipCode": "97477"
+  },
+  {
+    "name": "ShelterCare",
+    "description": "Nonprofit providing compassionate housing and behavioral health services for individuals and families who are homeless or at risk of homelessness in Lane County.",
+    "address": "499 W 4th Ave, Eugene, OR 97401",
+    "phone": "(541) 686-1262",
+    "url": "https://sheltercare.org/",
+    "categorySlug": "housing",
+    "zipCode": "97401"
+  },
+  {
+    "name": "Coast Vineyard - Lincoln City Food Pantry",
+    "description": "Community food pantry providing a 3-5 day supply of food for families once per month, serving Lincoln City and surrounding communities.",
+    "address": "1505 NE 6th Street, Lincoln City, OR 97367",
+    "phone": "541-994-3699",
+    "url": "https://coastvineyard.net/",
+    "categorySlug": "food",
+    "zipCode": "97367"
+  },
+  {
+    "name": "Community Shelter and Resource Center - Newport",
+    "description": "Emergency shelter providing 35 beds for individuals in need, along with housing assistance and support services in Lincoln County.",
+    "address": "Newport, OR 97365",
+    "phone": "541-265-5326",
+    "url": "https://www.co.lincoln.or.us/1109/Community-Shelter-and-Resource-Center",
+    "categorySlug": "housing",
+    "zipCode": "97365"
+  },
+  {
+    "name": "Food Share of Lincoln County - Central Pantry",
+    "description": "Regional food bank serving all of Lincoln County since 1982, providing emergency food boxes through affiliated pantries in Newport, Lincoln City, Depoe Bay, Waldport, Siletz, and Toledo.",
+    "address": "535 NE 1st Street, Newport, OR 97365",
+    "phone": "541-265-8578",
+    "url": "https://foodsharelc.org/",
+    "categorySlug": "food",
+    "zipCode": "97365"
+  },
+  {
+    "name": "My Safe Place - Lincoln County",
+    "description": "Provides services to victims of domestic violence, sexual assault, stalking, and teen dating violence throughout Lincoln County with a 24-hour crisis line.",
+    "address": "Newport, OR 97365",
+    "phone": "541-574-9424",
+    "url": "https://www.msplincolncounty.org/",
+    "categorySlug": "crisis",
+    "zipCode": "97365"
+  },
+  {
+    "name": "Salvation Army Newport - Food Pantry of Hope",
+    "description": "Food pantry allowing residents to receive a food box up to two times per month with no appointment needed.",
+    "address": "Newport, OR 97365",
+    "phone": "541-283-0659",
+    "url": "https://newport.salvationarmy.org/cs_newport/food-pantry-of-hope/",
+    "categorySlug": "food",
+    "zipCode": "97365"
+  },
+  {
+    "name": "Toledo Food Share Pantry",
+    "description": "Community food pantry serving Toledo and Lincoln County residents in need of food assistance, open Thursday evenings.",
+    "address": "383 NE Beech St, Toledo, OR 97391",
+    "phone": "541-336-2282",
+    "url": "https://toledofoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "97391"
+  },
+  {
+    "name": "Waldport Food Share",
+    "description": "Nonprofit food pantry serving residents in the southern communities of Lincoln County including Waldport, open Tuesdays and Thursdays.",
+    "address": "Waldport, OR 97394",
+    "phone": "541-563-3710",
+    "url": "https://southlincolnresources.org/food-share/",
+    "categorySlug": "food",
+    "zipCode": "97394"
+  },
+  {
+    "name": "Albany Helping Hands Emergency Shelter",
+    "description": "Emergency shelter for individuals and families experiencing a housing crisis in Linn County providing immediate shelter assistance.",
+    "address": "Albany, OR 97321",
+    "phone": "541-926-4036",
+    "url": "https://www.findhelp.org/albany-helping-hands--albany-or--emergency-shelter/5185114650968064",
+    "categorySlug": "housing",
+    "zipCode": "97321"
+  },
+  {
+    "name": "Fish of Albany",
+    "description": "Food assistance and emergency crisis intervention services for individuals and families including food pantry, propane vouchers, utility assistance, and transportation.",
+    "address": "1035 SE 2nd Ave, Albany, OR 97321",
+    "phone": "541-928-4460",
+    "url": "https://www.fishofalbany.org/",
+    "categorySlug": "food",
+    "zipCode": "97321"
+  },
+  {
+    "name": "FISH of Lebanon",
+    "description": "Community food pantry open Tuesdays and Fridays providing food by appointment at First Presbyterian Church in Lebanon.",
+    "address": "2nd and Ash St, Lebanon, OR 97355",
+    "phone": "541-259-3200",
+    "url": "https://fishoflebanon.org/",
+    "categorySlug": "food",
+    "zipCode": "97355"
+  },
+  {
+    "name": "Salvation Army Albany Food Pantry",
+    "description": "Food pantry serving low-income families, seniors, veterans, and unemployed individuals in Albany with Monday, Wednesday, and Friday distribution.",
+    "address": "345 Columbus St SE, Albany, OR 97321",
+    "phone": "541-928-4774",
+    "url": "https://albany.salvationarmy.org/albany/cure-hunger/",
+    "categorySlug": "food",
+    "zipCode": "97321"
+  },
+  {
+    "name": "Shem Food Bank - Sweet Home Emergency Ministries",
+    "description": "Community food bank and outreach organization providing emergency food boxes, fresh produce, and specialized dietary food items to Sweet Home area residents in need.",
+    "address": "1115 Long St, Sweet Home, OR 97386",
+    "phone": "541-367-6504",
+    "url": "https://foodfinder.oregonfoodbank.org/locations/shem-sweet-home-emergency-ministries",
+    "categorySlug": "food",
+    "zipCode": "97386"
+  },
+  {
+    "name": "St. Vincent de Paul Food Pantry - Lebanon",
+    "description": "Food pantry and clothing closet providing 3-day food supplies and rotating clothing, shoes, furniture, and household goods in Lebanon.",
+    "address": "100 S Main St, Lebanon, OR 97355",
+    "phone": "541-258-5333",
+    "url": "https://www.foodpantries.org/ci/or-lebanon",
+    "categorySlug": "food",
+    "zipCode": "97355"
+  },
+  {
+    "name": "Community in Action - Ontario",
+    "description": "Community action agency empowering low and moderate-income individuals and families of Harney and Malheur Counties with rental assistance, energy assistance, emergency housing, and weatherization services.",
+    "address": "49 NW 1st Street, Ontario, OR 97914",
+    "phone": "541-889-9555",
+    "url": "https://communityinaction.info/",
+    "categorySlug": "community",
+    "zipCode": "97914"
+  },
+  {
+    "name": "Next Chapter Food Pantry",
+    "description": "Local food pantry operating adjacent to St. Matthew's Church in Ontario providing drive-through and walk-up food box distribution on Tuesdays.",
+    "address": "762 SW 5th St, Ontario, OR 97914",
+    "phone": "541-889-9332",
+    "url": "https://www.foodpantries.org/li/next-chapter-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "97914"
+  },
+  {
+    "name": "Nyssa Community Food Pantry",
+    "description": "Community food pantry serving Nyssa and surrounding Malheur County residents with food distribution on Wednesday evenings and Thursday mornings.",
+    "address": "Corner of 5th and Main, Nyssa, OR 97913",
+    "phone": "541-372-5623",
+    "url": "https://www.foodpantries.org/co/or-malheur",
+    "categorySlug": "food",
+    "zipCode": "97913"
+  },
+  {
+    "name": "Oregon Food Bank - Southeast Oregon Services",
+    "description": "Regional food bank serving Malheur and Harney counties, providing food distribution and hunger relief programs for eastern Oregon communities.",
+    "address": "773 S Oregon St, Ontario, OR 97914",
+    "phone": "541-889-9206",
+    "url": "https://www.oregonfoodbank.org/about-us/locations/southeast-oregon-services",
+    "categorySlug": "food",
+    "zipCode": "97914"
+  },
+  {
+    "name": "Oregon Human Development Corporation - Malheur County",
+    "description": "Serves agricultural workers and families with emergency housing assistance, rental and utility assistance, job training, and transitional housing in Malheur County.",
+    "address": "106 SW 4th Ave Suite 8, Ontario, OR 97914",
+    "phone": "541-881-1491",
+    "url": "https://www.ohdc.org/",
+    "categorySlug": "housing",
+    "zipCode": "97914"
+  },
+  {
+    "name": "Project DOVE",
+    "description": "Nonprofit providing emergency shelter and services to victims of domestic and sexual violence in Malheur County including safety planning, advocacy, and crisis support.",
+    "address": "44 NW 5th Ave, Ontario, OR 97914",
+    "phone": "541-889-2000",
+    "url": "https://projectdoveor.org/",
+    "categorySlug": "crisis",
+    "zipCode": "97914"
+  },
+  {
+    "name": "The Vale Pantry",
+    "description": "Community food pantry in downtown Vale operating Tuesday and Thursday afternoons to serve low-income residents of Malheur County.",
+    "address": "252 B St, Vale, OR 97918",
+    "phone": "541-473-3136",
+    "url": "https://www.foodpantries.org/li/the-vale-pantry",
+    "categorySlug": "food",
+    "zipCode": "97918"
+  },
+  {
+    "name": "ARCHES Project - MWVCAA",
+    "description": "Day center and housing services for homeless and at-risk adults in Marion and Polk counties providing shelter navigation, meals, showers, hygiene supplies, case management, and housing placement.",
+    "address": "615 Commercial St SE, Salem, OR 97301",
+    "phone": "503-399-9080",
+    "url": "https://mwvcaa.org/programs/the-arches-project/",
+    "categorySlug": "housing",
+    "zipCode": "97301"
+  },
+  {
+    "name": "AWARE Food Bank - Woodburn",
+    "description": "Food bank collecting and distributing nutritious food for children, adults, and seniors in the Woodburn area, with bilingual English and Spanish services.",
+    "address": "152 Arthur St, Woodburn, OR 97071",
+    "phone": "503-981-5828",
+    "url": "https://awarefoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "97071"
+  },
+  {
+    "name": "Center for Hope and Safety",
+    "description": "Emergency shelter and advocacy for survivors of domestic violence, sexual assault, stalking, and human trafficking in Marion and Polk counties with 24-hour crisis line.",
+    "address": "605 Center St NE, Salem, OR 97301",
+    "phone": "503-399-7722",
+    "url": "https://hopeandsafety.org/",
+    "categorySlug": "crisis",
+    "zipCode": "97301"
+  },
+  {
+    "name": "Marion Polk Food Share",
+    "description": "Regional food bank providing food assistance to Marion and Polk County residents through emergency food boxes, mobile pantries, and a network of community partners.",
+    "address": "1660 Salem Industrial Dr NE, Salem, OR 97301",
+    "phone": "503-581-3855",
+    "url": "https://marionpolkfoodshare.org/",
+    "categorySlug": "food",
+    "zipCode": "97301"
+  },
+  {
+    "name": "People's Church Pantry - Salem",
+    "description": "Community food pantry in North Salem serving residents in the 97305 area on the 1st, 2nd, and 3rd Mondays and 4th Saturday of each month.",
+    "address": "4500 Lancaster Dr NE, Salem, OR 97305",
+    "phone": "503-304-4000",
+    "url": "https://marionpolkfoodshare.org/find-food/",
+    "categorySlug": "food",
+    "zipCode": "97305"
+  },
+  {
+    "name": "Salvation Army Salem Food Pantry",
+    "description": "Food pantry and emergency assistance serving Salem and Marion County residents Monday through Friday at the Family Services Office.",
+    "address": "1977 Front St NE, Salem, OR 97301",
+    "phone": "503-585-6688",
+    "url": "https://www.foodpantries.org/ci/or-salem",
+    "categorySlug": "food",
+    "zipCode": "97301"
+  },
+  {
+    "name": "Silverton Area Community Aid (SACA)",
+    "description": "Community food pantry providing fresh and frozen produce, dairy, bread, meat, canned goods, and personal care items to residents of the Silver Falls School District area.",
+    "address": "421 S Water St, Silverton, OR 97381",
+    "phone": "503-873-3446",
+    "url": "https://silvertonareacommunityaid.org/get-food/",
+    "categorySlug": "food",
+    "zipCode": "97381"
+  },
+  {
+    "name": "St. Joseph Shelter and Mission Benedict",
+    "description": "Shelter and community service ministry providing hot meals, temporary housing, clothing, food pantry, emergency financial assistance, and referrals in Mount Angel.",
+    "address": "925 S Main St, Mount Angel, OR 97362",
+    "phone": "503-845-6147",
+    "url": "https://www.shelterlistings.org/details/36015",
+    "categorySlug": "community",
+    "zipCode": "97362"
+  },
+  {
+    "name": "Stayton Community Food Bank",
+    "description": "Emergency food bank providing household food boxes containing 3-4 days of food supply to Marion and Polk County residents Monday through Friday.",
+    "address": "Stayton, OR 97383",
+    "phone": "503-769-4088",
+    "url": "https://www.foodpantries.org/li/stayton-community-food-bank",
+    "categorySlug": "food",
+    "zipCode": "97383"
+  },
+  {
+    "name": "Union Gospel Mission of Salem",
+    "description": "Men's emergency shelter open 24/7 providing meals, showers, and housing support to homeless men in Salem, with meals open to women and children.",
+    "address": "777 Commercial St NE, Salem, OR 97301",
+    "phone": "503-967-6388",
+    "url": "https://www.ugmsalem.org/",
+    "categorySlug": "housing",
+    "zipCode": "97301"
+  },
+  {
+    "name": "Columbia River Harvesters - Boardman",
+    "description": "Gleaning and food distribution group providing free groceries to Boardman and Morrow County residents on Mondays, Fridays, and Saturdays.",
+    "address": "206 N Main St, Boardman, OR 97818",
+    "phone": "541-481-2175",
+    "url": "https://www.capeco-works.org/food.html",
+    "categorySlug": "food",
+    "zipCode": "97818"
+  },
+  {
+    "name": "Neighborhood Center of South Morrow County",
+    "description": "Community resource center operated by CAPECO providing food assistance and social services to Heppner and south Morrow County residents.",
+    "address": "441 N Main, Heppner, OR 97836",
+    "phone": "541-676-5024",
+    "url": "https://www.capeco-works.org/pantries.html",
+    "categorySlug": "food",
+    "zipCode": "97836"
+  },
+  {
+    "name": "Blanchet House of Hospitality",
+    "description": "Largest feeder of Portland's poor since 1952, serving breakfast, lunch, and dinner six days a week plus residential recovery programs and clothing and hygiene items.",
+    "address": "310 NW Glisan St, Portland, OR 97209",
+    "phone": "503-241-4340",
+    "url": "https://blanchethouse.org/",
+    "categorySlug": "food",
+    "zipCode": "97209"
+  },
+  {
+    "name": "CityTeam Portland",
+    "description": "Nonprofit providing food boxes, emergency shelter for men, residential recovery programs, and drop-in services for women experiencing homelessness in Portland.",
+    "address": "526 SE Grand Ave, Portland, OR 97214",
+    "phone": "503-231-9334",
+    "url": "https://www.cityteam.org/get-help/portland",
+    "categorySlug": "housing",
+    "zipCode": "97214"
+  },
+  {
+    "name": "East County Food Pantry - Fairview",
+    "description": "Community food pantry serving about 100 families weekly from Gresham, Fairview, Portland, Troutdale, and Wood Village, open Saturdays at Smith Memorial Presbyterian Church.",
+    "address": "2420 NE Fairview Ave, Fairview, OR 97024",
+    "phone": "503-661-1242",
+    "url": "https://eastcountyfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "97024"
+  },
+  {
+    "name": "Hereford House",
+    "description": "Nonprofit food pantry and social services agency in North Portland providing nutritious food for about 900 neighbors monthly, plus transitional housing rooms for residents in need.",
+    "address": "7704 N Hereford Ave, Portland, OR 97203",
+    "phone": "503-444-7566",
+    "url": "https://www.herefordhousepdx.org/",
+    "categorySlug": "food",
+    "zipCode": "97203"
+  },
+  {
+    "name": "Impact NW - East Portland",
+    "description": "Nonprofit social services agency serving East Portland since 1966 with housing support, job and career assistance, family support, senior services, and education programs.",
+    "address": "10055 E Burnside St, Portland, OR 97216",
+    "phone": "503-721-1740",
+    "url": "https://impactnw.org/",
+    "categorySlug": "community",
+    "zipCode": "97216"
+  },
+  {
+    "name": "Lift Urban Portland - Preston's Pantry",
+    "description": "Free food pantry serving all of Portland near Goose Hollow, open Tuesday, Thursday, and Friday afternoons at First United Methodist Church.",
+    "address": "1838 SW Jefferson St, Portland, OR 97201",
+    "phone": "503-221-1224",
+    "url": "https://www.lifturbanportland.org/prestons-pantry-and-free-food-market",
+    "categorySlug": "food",
+    "zipCode": "97201"
+  },
+  {
+    "name": "Multnomah County Shelter and Homeless Services",
+    "description": "County-coordinated shelter and homeless services system connecting Portland residents to overnight emergency shelters, day shelters, and housing assistance programs.",
+    "address": "Portland, OR 97214",
+    "phone": "503-823-2102",
+    "url": "https://hsd.multco.us/emergency-shelters/",
+    "categorySlug": "housing",
+    "zipCode": "97214"
+  },
+  {
+    "name": "Neighborhood House Food Pantry",
+    "description": "Senior food pantry serving residents age 55 and up in multiple Portland zip codes, providing free groceries.",
+    "address": "3445 SW Moss St, Portland, OR 97219",
+    "phone": "503-246-1663",
+    "url": "https://nhpdx.org/food-security/",
+    "categorySlug": "food",
+    "zipCode": "97219"
+  },
+  {
+    "name": "Oregon Food Bank - Main Distribution",
+    "description": "State's largest food bank providing food distribution, hunger relief advocacy, and a network of 1,200 food assistance sites statewide from its Portland headquarters.",
+    "address": "7900 NE 33rd Dr, Portland, OR 97211",
+    "phone": "503-282-0555",
+    "url": "https://www.oregonfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "97211"
+  },
+  {
+    "name": "Our Just Future - Homeless Services",
+    "description": "Operates family shelter and shelters for adults in the Portland metro area, providing housing-focused services and rental assistance.",
+    "address": "Portland, OR 97220",
+    "phone": "503-548-0200",
+    "url": "https://ourjustfuture.org/services/homeless-services/",
+    "categorySlug": "housing",
+    "zipCode": "97220"
+  },
+  {
+    "name": "POBC Community Pantry (Nourish Oregon)",
+    "description": "Inclusive, free food pantry in SE Portland serving the entire city with no barriers or restrictions on who can receive food.",
+    "address": "3223 SE 92nd Ave, Portland, OR 97266",
+    "phone": "503-442-8228",
+    "url": "https://www.pobcpantry.com/",
+    "categorySlug": "food",
+    "zipCode": "97266"
+  },
+  {
+    "name": "Porch Light Shelter - Portland",
+    "description": "Portland's only 30-bed crisis shelter for homeless youth ages 14-24 providing nightly safe shelter, meals, showers, and laundry.",
+    "address": "1635 SW Alder St, Portland, OR 97205",
+    "phone": "503-223-6661",
+    "url": "https://www.tprojects.org/shelters",
+    "categorySlug": "housing",
+    "zipCode": "97205"
+  },
+  {
+    "name": "Portland Rescue Mission - Burnside Shelter",
+    "description": "Emergency shelter for men with 120 beds plus hot meals served to up to 700 people daily, open 24 hours and serving Portland's homeless population since 1949.",
+    "address": "111 W Burnside St, Portland, OR 97209",
+    "phone": "503-906-7690",
+    "url": "https://portlandrescuemission.org/",
+    "categorySlug": "housing",
+    "zipCode": "97209"
+  },
+  {
+    "name": "Rose Haven Day Shelter",
+    "description": "Trauma-informed day shelter and community center for women, children, and marginalized genders experiencing homelessness, providing meals, clothing, hygiene, and advocacy.",
+    "address": "627 NW 18th St, Portland, OR 97209",
+    "phone": "503-248-6364",
+    "url": "https://rosehaven.org/",
+    "categorySlug": "housing",
+    "zipCode": "97209"
+  },
+  {
+    "name": "Salvation Army Gresham Free Food Market",
+    "description": "Free food market with fresh produce and pantry staples serving Gresham and surrounding zip codes.",
+    "address": "Gresham, OR 97030",
+    "phone": "503-665-4721",
+    "url": "https://gresham.salvationarmy.org/gresham/family-services/",
+    "categorySlug": "food",
+    "zipCode": "97030"
+  },
+  {
+    "name": "Salvation Army North Portland - Moore Street Corps Food Pantry",
+    "description": "Food pantry distributing food boxes to residents in North Portland zip codes on Wednesdays and Fridays.",
+    "address": "5325 N Williams Ave, Portland, OR 97217",
+    "phone": "503-289-9202",
+    "url": "https://portland.salvationarmy.org/portland2/food-pantries-in-portland/",
+    "categorySlug": "food",
+    "zipCode": "97217"
+  },
+  {
+    "name": "SnowCap Community Charities",
+    "description": "East Multnomah County nonprofit providing food, clothing, advocacy, and other services to low-income people in Gresham and East Portland areas.",
+    "address": "17805 SE Stark St, Portland, OR 97233",
+    "phone": "503-674-8785",
+    "url": "https://www.snowcap.org/",
+    "categorySlug": "food",
+    "zipCode": "97233"
+  },
+  {
+    "name": "St. Johns Food Share",
+    "description": "Volunteer-powered food pantry using an open-door, no-barrier approach to distribute food without judgment or proof of need to North Portland residents.",
+    "address": "8100 N Lombard St, Portland, OR 97203",
+    "phone": "503-286-0750",
+    "url": "https://stjohnsfoodshare.org/",
+    "categorySlug": "food",
+    "zipCode": "97203"
+  },
+  {
+    "name": "Transition Projects Resource Center",
+    "description": "Housing-focused services helping Portland homeless residents with shelter navigation, case management, ID procurement, Oregon Health Plan enrollment, and direct housing placement.",
+    "address": "650 NW Irving St, Portland, OR 97209",
+    "phone": "503-280-4700",
+    "url": "https://www.tprojects.org/",
+    "categorySlug": "housing",
+    "zipCode": "97209"
+  },
+  {
+    "name": "Union Gospel Mission Portland",
+    "description": "Nonprofit providing meals, clothing, hygiene items, and emergency cold weather shelter for Portland homeless residents, plus residential recovery programs for men and women.",
+    "address": "3 NW 3rd Ave, Portland, OR 97209",
+    "phone": "503-274-4483",
+    "url": "https://www.ugmportland.org/",
+    "categorySlug": "housing",
+    "zipCode": "97209"
+  },
+  {
+    "name": "William Temple House",
+    "description": "Social services organization providing free groceries, low-cost counseling, clothing, and household items to Portland-area residents regardless of insurance or income.",
+    "address": "2230 NW Glisan St, Portland, OR 97209",
+    "phone": "503-222-3328",
+    "url": "https://www.williamtemple.org/",
+    "categorySlug": "community",
+    "zipCode": "97209"
+  },
+  {
+    "name": "Zarephath Kitchen and Pantry - Gresham",
+    "description": "Community outreach program providing food for low-income families and the homeless in Gresham and surrounding areas, with food boxes distributed on Thursdays.",
+    "address": "59 NW Ava Ave, Gresham, OR 97030",
+    "phone": "503-667-7932",
+    "url": "https://feedeastcounty.org/about-us",
+    "categorySlug": "food",
+    "zipCode": "97030"
+  },
+  {
+    "name": "Dallas Food Bank",
+    "description": "Food pantry serving Dallas residents only, income-based, open Monday-Friday 9-11 AM, one visit per month.",
+    "address": "322 Main St Suite 180, Dallas, OR 97338",
+    "phone": "(503) 623-3578",
+    "url": "https://www.dallasfoodbank.com/",
+    "categorySlug": "food",
+    "zipCode": "97338"
+  },
+  {
+    "name": "Ella Curran Food Bank",
+    "description": "Nonprofit food bank dedicated to providing food for people in need in Independence and Monmouth, run by volunteers.",
+    "address": "854 N Main St, Independence, OR 97351",
+    "phone": "",
+    "url": "https://www.ellacurranfoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "97351"
+  },
+  {
+    "name": "Western Oregon University Food Pantry",
+    "description": "Campus food pantry open to all community members regardless of income or residence; no eligibility requirements.",
+    "address": "345 Monmouth Ave N, Monmouth, OR 97361",
+    "phone": "",
+    "url": "https://wou.edu/foodpantry/",
+    "categorySlug": "food",
+    "zipCode": "97361"
+  },
+  {
+    "name": "Sherman County Food Bank",
+    "description": "Food bank open the 3rd Saturday each month 10 AM-2 PM, serving Sherman County residents.",
+    "address": "Moro, OR 97039",
+    "phone": "",
+    "url": "https://foodfinder.oregonfoodbank.org/locations/sherman-county-food-bank",
+    "categorySlug": "food",
+    "zipCode": "97039"
+  },
+  {
+    "name": "Covenant Community Church Food Pantry",
+    "description": "Shopping-style food pantry open Tuesday and Thursday 10 AM-2 PM in Tillamook.",
+    "address": "2710 First St, Tillamook, OR 97141",
+    "phone": "",
+    "url": "https://ourtillamook.org/meal-calendar-info-from-food-bank/",
+    "categorySlug": "food",
+    "zipCode": "97141"
+  },
+  {
+    "name": "Nehalem Bay Community Services",
+    "description": "Nonprofit offering food, clothing, pet pantries, summer and senior lunches, back-to-school resources, and exercise programs for the Nehalem Bay community.",
+    "address": "Nehalem, OR 97131",
+    "phone": "",
+    "url": "https://www.nehalembaycs.org",
+    "categorySlug": "community",
+    "zipCode": "97131"
+  },
+  {
+    "name": "North County Food Bank",
+    "description": "Food bank in Wheeler serving north Tillamook County residents every Tuesday 1-3 PM; no income or eligibility restrictions, accepts all who ask.",
+    "address": "278 Rowe St, Wheeler, OR 97147",
+    "phone": "(503) 368-7724",
+    "url": "https://www.northtillamookcountyfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "97147"
+  },
+  {
+    "name": "Oregon Food Bank - Tillamook County Services",
+    "description": "Regional food bank distributing food to hunger-relief agencies and programs throughout Tillamook County.",
+    "address": "1760 Wilson River Loop, Tillamook, OR 97141",
+    "phone": "(503) 842-3154",
+    "url": "https://www.oregonfoodbank.org/about-us/locations/oregon-food-bank-tillamook-county",
+    "categorySlug": "food",
+    "zipCode": "97141"
+  },
+  {
+    "name": "Agape House Food Bank - Hermiston",
+    "description": "Food bank serving Umatilla County residents with emergency food boxes and supplemental food assistance in Hermiston.",
+    "address": "740 W Orchard Ave, Hermiston, OR 97838",
+    "phone": "(541) 567-8405",
+    "url": "https://www.agapehousehermiston.org/",
+    "categorySlug": "food",
+    "zipCode": "97838"
+  },
+  {
+    "name": "CAPECO Emergency Services - Hermiston",
+    "description": "Community action agency providing emergency food, utility assistance, and social services to residents of Umatilla County in eastern Oregon.",
+    "address": "305 SE 4th St, Hermiston, OR 97838",
+    "phone": "(541) 567-4791",
+    "url": "https://www.capeco-works.org/",
+    "categorySlug": "community",
+    "zipCode": "97838"
+  },
+  {
+    "name": "Pendleton Community Care",
+    "description": "Federally qualified health center providing medical care, pharmacy, lab, and X-ray services to insured, uninsured, and under-insured patients in Umatilla County.",
+    "address": "2461 SW Perkins Ave, Pendleton, OR 97801",
+    "phone": "(541) 276-0250",
+    "url": "https://pccnfc.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "97801"
+  },
+  {
+    "name": "Community Connection of Northeast Oregon - La Grande",
+    "description": "Nonprofit providing senior services, transportation, adult day services, and community meals for Union County residents in La Grande.",
+    "address": "2006 4th St, La Grande, OR 97850",
+    "phone": "(541) 963-3186",
+    "url": "https://www.ccnebo.org/",
+    "categorySlug": "community",
+    "zipCode": "97850"
+  },
+  {
+    "name": "Elgin Food Bank",
+    "description": "Small community food pantry serving Elgin and surrounding Union County residents with free food assistance.",
+    "address": "Elgin, OR 97827",
+    "phone": "",
+    "url": "https://foodfinder.oregonfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "97827"
+  },
+  {
+    "name": "Neighbors Together of Union County - La Grande Food Bank",
+    "description": "Volunteer-run food bank providing groceries and food boxes to Union County residents in La Grande, open multiple days per week.",
+    "address": "La Grande, OR 97850",
+    "phone": "(541) 963-5599",
+    "url": "https://www.neighborstogether.org/",
+    "categorySlug": "food",
+    "zipCode": "97850"
+  },
+  {
+    "name": "Columbia Gorge Food Bank",
+    "description": "Regional food bank serving Hood River and Wasco counties with food distribution, mobile pantries, and hunger relief programs throughout the Columbia Gorge.",
+    "address": "The Dalles, OR 97058",
+    "phone": "(541) 296-7833",
+    "url": "https://www.cgfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "97058"
+  },
+  {
+    "name": "MCCAC - Gloria Center Emergency Shelter",
+    "description": "Emergency shelter and transitional housing program for homeless adults in The Dalles, operated by Mid-Columbia Community Action Council.",
+    "address": "The Dalles, OR 97058",
+    "phone": "(541) 298-5131",
+    "url": "https://www.mccac.org/housing",
+    "categorySlug": "housing",
+    "zipCode": "97058"
+  },
+  {
+    "name": "Mid-Columbia Community Action Council (MCCAC)",
+    "description": "Community action agency serving Hood River and Wasco counties with food assistance, housing support, energy assistance, and other anti-poverty programs.",
+    "address": "419 E 7th St, The Dalles, OR 97058",
+    "phone": "(541) 298-5131",
+    "url": "https://www.mccac.org/",
+    "categorySlug": "community",
+    "zipCode": "97058"
+  },
+  {
+    "name": "St. Vincent de Paul Food Pantry - The Dalles",
+    "description": "Food pantry providing free groceries to individuals and families in The Dalles and Wasco County, operated by volunteers.",
+    "address": "The Dalles, OR 97058",
+    "phone": "(541) 296-2994",
+    "url": "https://www.svdpusa.org/",
+    "categorySlug": "food",
+    "zipCode": "97058"
+  },
+  {
+    "name": "Beaverton Resource Center",
+    "description": "Community resource hub in Beaverton offering food pantry, clothing, rental assistance referrals, and social services navigation for Washington County residents.",
+    "address": "Beaverton, OR 97005",
+    "phone": "",
+    "url": "https://www.beavertonoregon.gov/",
+    "categorySlug": "community",
+    "zipCode": "97005"
+  },
+  {
+    "name": "Family Promise of Greater Washington County",
+    "description": "Interfaith network providing shelter, meals, case management, and housing stability services for homeless families with children in Washington County.",
+    "address": "Beaverton, OR 97006",
+    "phone": "(503) 924-1226",
+    "url": "https://www.familypromisewashco.org/",
+    "categorySlug": "housing",
+    "zipCode": "97006"
+  },
+  {
+    "name": "Planting Seeds Community Food Pantry - Beaverton",
+    "description": "Faith-based food pantry in Beaverton providing free groceries and household staples to Washington County residents regardless of income or residency.",
+    "address": "Beaverton, OR 97005",
+    "phone": "",
+    "url": "https://plantingseedsbeaverton.org/",
+    "categorySlug": "food",
+    "zipCode": "97005"
+  },
+  {
+    "name": "Sunset Presbyterian Church Helping Hands Pantry",
+    "description": "Community food pantry offering free groceries to Washington County residents, open weekly with no eligibility requirements.",
+    "address": "14986 NW Cornell Rd, Beaverton, OR 97006",
+    "phone": "(503) 644-8894",
+    "url": "https://www.sunsetpres.org/helpinghands",
+    "categorySlug": "food",
+    "zipCode": "97006"
+  },
+  {
+    "name": "Tualatin Food Pantry",
+    "description": "Volunteer-run food pantry providing free groceries to Tualatin and South Washington County residents, open weekly.",
+    "address": "Tualatin, OR 97062",
+    "phone": "",
+    "url": "https://tualatinfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "97062"
+  },
+  {
+    "name": "Virginia Garcia Memorial Health Center - Cornelius",
+    "description": "Federally qualified health center providing comprehensive medical, dental, and behavioral health care to Washington County residents regardless of insurance or ability to pay.",
+    "address": "Cornelius, OR 97113",
+    "phone": "(503) 359-5090",
+    "url": "https://www.virginiagarcia.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "97113"
+  },
+  {
+    "name": "Virginia Garcia Memorial Health Center - Hillsboro",
+    "description": "Federally qualified health center providing medical, dental, behavioral health, and pharmacy services to Hillsboro and Washington County residents regardless of insurance status.",
+    "address": "Hillsboro, OR 97123",
+    "phone": "(503) 359-5090",
+    "url": "https://www.virginiagarcia.org/hillsboro",
+    "categorySlug": "healthcare",
+    "zipCode": "97123"
+  },
+  {
+    "name": "Washington County HOPE Center - Salvation Army",
+    "description": "Salvation Army service center in Hillsboro providing food, utility assistance, emergency shelter referrals, and social services to Washington County residents.",
+    "address": "1865 NE 3rd Ave, Hillsboro, OR 97124",
+    "phone": "(503) 648-9458",
+    "url": "https://www.salvationarmyusa.org/",
+    "categorySlug": "community",
+    "zipCode": "97124"
+  },
+  {
+    "name": "Hope on the Hill",
+    "description": "Faith-based nonprofit in McMinnville providing free meals, food pantry, clothing, and community support to Yamhill County residents in need.",
+    "address": "McMinnville, OR 97128",
+    "phone": "",
+    "url": "https://hopeonthehill.org/",
+    "categorySlug": "community",
+    "zipCode": "97128"
+  },
+  {
+    "name": "Newberg Community Kitchen",
+    "description": "Volunteer-operated community kitchen providing free meals and food assistance to Newberg and Yamhill County residents in need.",
+    "address": "Newberg, OR 97132",
+    "phone": "",
+    "url": "https://www.newbergcommunitykitchen.org/",
+    "categorySlug": "food",
+    "zipCode": "97132"
+  },
+  {
+    "name": "Newberg FISH Emergency Service",
+    "description": "All-volunteer nonprofit providing emergency food, clothing, and financial assistance to Newberg and Yamhill County residents facing crisis situations.",
+    "address": "Newberg, OR 97132",
+    "phone": "(503) 538-7234",
+    "url": "https://newbergfish.org/",
+    "categorySlug": "community",
+    "zipCode": "97132"
+  },
+  {
+    "name": "St. Barnabas Soup Kitchen",
+    "description": "Community soup kitchen in McMinnville providing free hot meals to hungry residents of Yamhill County regardless of circumstances.",
+    "address": "McMinnville, OR 97128",
+    "phone": "(503) 472-4860",
+    "url": "https://www.stbarnabasonline.org/",
+    "categorySlug": "food",
+    "zipCode": "97128"
+  },
+  {
+    "name": "Yamhill County Gospel Rescue Mission",
+    "description": "Rescue mission in McMinnville providing emergency shelter, meals, recovery programs, and transitional housing for homeless men and women in Yamhill County.",
+    "address": "McMinnville, OR 97128",
+    "phone": "(503) 434-2728",
+    "url": "https://www.yamhillrescuemission.org/",
+    "categorySlug": "housing",
+    "zipCode": "97128"
+  },
+  {
+    "name": "YCAP Food Pantry Network - McMinnville",
+    "description": "Yamhill Community Action Partnership operating food pantries throughout Yamhill County including McMinnville, providing free groceries and emergency food assistance.",
+    "address": "McMinnville, OR 97128",
+    "phone": "(503) 472-0457",
+    "url": "https://www.ycap.org/food",
+    "categorySlug": "food",
+    "zipCode": "97128"
+  },
+  {
+    "name": "YCAP Housing Stabilization - AnyDoor Yamhill",
+    "description": "YCAP housing stabilization and homeless prevention program providing rental assistance, rapid rehousing, and case management for Yamhill County residents at risk of homelessness.",
+    "address": "McMinnville, OR 97128",
+    "phone": "(503) 472-0457",
+    "url": "https://www.ycap.org/housing",
+    "categorySlug": "housing",
+    "zipCode": "97128"
+  }
+]

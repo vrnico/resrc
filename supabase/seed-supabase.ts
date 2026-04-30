@@ -203,11 +203,114 @@ async function seedResources() {
   }
 }
 
+async function seedDiscoveryResources() {
+  console.log("Seeding discovery resources...");
+
+  const seedsDir = "scripts/discovery/data/seeds";
+  let seedFiles: string[];
+  try {
+    seedFiles = readdirSync(seedsDir).filter((f) => f.endsWith(".json"));
+  } catch {
+    console.log("  No discovery seeds directory found, skipping");
+    return;
+  }
+
+  const { data: cats } = await supabase.from("categories").select("id, slug");
+  const catMap = new Map((cats ?? []).map((c) => [c.slug, c.id]));
+
+  let totalInserted = 0;
+  let totalUpdated = 0;
+  let totalSkipped = 0;
+
+  for (const file of seedFiles) {
+    const state = file.replace(".json", "").toUpperCase();
+    const resources = JSON.parse(readFileSync(`${seedsDir}/${file}`, "utf-8"));
+
+    // Load zip→county map for this state
+    const { data: zipData } = await supabase
+      .from("zip_codes")
+      .select("zip, county")
+      .eq("state_code", state);
+    const zipCountyMap = new Map((zipData ?? []).map((z) => [z.zip, z.county]));
+
+    // Fetch existing resources by URL to determine insert vs update
+    const urls: string[] = resources.map((r: any) => r.url);
+    const CHUNK = 100;
+    const existingByUrl = new Map<string, string>();
+    for (let i = 0; i < urls.length; i += CHUNK) {
+      const { data } = await supabase
+        .from("resources")
+        .select("id, url")
+        .in("url", urls.slice(i, i + CHUNK));
+      for (const r of data ?? []) existingByUrl.set(r.url, r.id);
+    }
+
+    let inserted = 0, updated = 0, skipped = 0;
+
+    for (const r of resources) {
+      const catId = catMap.get(r.categorySlug);
+      const county = r.county ?? zipCountyMap.get(r.zipCode);
+      if (!catId || !r.zipCode || !county) { skipped++; continue; }
+
+      const existingId = existingByUrl.get(r.url);
+
+      if (existingId) {
+        await supabase.from("resources").update({
+          name: r.name,
+          description: r.description,
+          phone: r.phone ?? null,
+          address: r.address ?? null,
+          scope: "zip_specific",
+          county,
+          state_code: state,
+        }).eq("id", existingId);
+
+        await supabase.from("resource_zip_codes").upsert(
+          [{ resource_id: existingId, zip_code: r.zipCode }],
+          { onConflict: "resource_id,zip_code" }
+        );
+        updated++;
+      } else {
+        const { data: ins, error } = await supabase.from("resources").insert({
+          name: r.name,
+          description: r.description,
+          category_id: catId,
+          scope: "zip_specific",
+          url: r.url,
+          phone: r.phone ?? null,
+          address: r.address ?? null,
+          state_code: state,
+          county,
+          link_status: "ok",
+        }).select("id").single();
+
+        if (error) { skipped++; continue; }
+        inserted++;
+
+        if (ins) {
+          await supabase.from("resource_zip_codes").upsert(
+            [{ resource_id: ins.id, zip_code: r.zipCode }],
+            { onConflict: "resource_id,zip_code" }
+          );
+        }
+      }
+    }
+
+    console.log(`  ${state}: inserted=${inserted} updated=${updated} skipped=${skipped}`);
+    totalInserted += inserted;
+    totalUpdated += updated;
+    totalSkipped += skipped;
+  }
+
+  console.log(`  Total: inserted=${totalInserted} updated=${totalUpdated} skipped=${totalSkipped}`);
+}
+
 async function main() {
   console.log("Starting Supabase seed...\n");
   await seedCategories();
   await seedZipCodes();
   await seedResources();
+  await seedDiscoveryResources();
   console.log("\nSeed complete!");
 }
 

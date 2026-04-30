@@ -1,0 +1,1496 @@
+[
+  {
+    "name": "Greenfield Food Pantry",
+    "description": "Community food pantry serving Adair County residents with emergency food assistance and monthly distributions.",
+    "address": "201 SE Kent St, Greenfield, IA 50849",
+    "phone": "(641) 743-2500",
+    "url": "https://www.adaircountyiowa.org/",
+    "categorySlug": "food",
+    "zipCode": "50849"
+  },
+  {
+    "name": "Adams County Food Pantry",
+    "description": "Local food pantry distributing groceries and household staples to families in need in Corning and Adams County.",
+    "address": "613 Davis Ave, Corning, IA 50841",
+    "phone": "(641) 322-3327",
+    "url": "https://www.iowafoodbank.org/find-food",
+    "categorySlug": "food",
+    "zipCode": "50841"
+  },
+  {
+    "name": "Appanoose County Community Action Agency",
+    "description": "Provides food pantry services, utility assistance, and Head Start early childhood programs to Appanoose County families.",
+    "address": "26 N 12th St, Centerville, IA 52544",
+    "phone": "(641) 856-2220",
+    "url": "https://www.iowacommunityaction.org/",
+    "categorySlug": "community",
+    "zipCode": "52544"
+  },
+  {
+    "name": "Audubon County Memorial Hospital Community Health",
+    "description": "Critical access hospital offering healthcare services and community health programs for Audubon County residents.",
+    "address": "515 Pacific St, Audubon, IA 50025",
+    "phone": "(712) 563-2611",
+    "url": "https://www.auduboncountyhospital.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "50025"
+  },
+  {
+    "name": "Benton County Health Department",
+    "description": "Public health services including immunizations, home health, family planning, and WIC nutrition program for county residents.",
+    "address": "111 E 4th St, Vinton, IA 52349",
+    "phone": "(319) 472-2996",
+    "url": "https://www.bentoncountyiowa.gov/departments/public_health/index.php",
+    "categorySlug": "healthcare",
+    "zipCode": "52349"
+  },
+  {
+    "name": "Allen Hospital Community Clinic (UnityPoint Health)",
+    "description": "Community health clinic providing primary care, preventive services, and referrals to uninsured and underinsured patients in the Waterloo area.",
+    "address": "1825 Logan Ave, Waterloo, IA 50703",
+    "phone": "(319) 235-3941",
+    "url": "https://www.unitypoint.org/waterloo/",
+    "categorySlug": "healthcare",
+    "zipCode": "50703"
+  },
+  {
+    "name": "Black Hawk County Community Services",
+    "description": "County department offering case management, disability services, mental health referrals, and connection to community resources for county residents.",
+    "address": "316 E 5th St, Waterloo, IA 50703",
+    "phone": "(319) 833-3004",
+    "url": "https://www.blackhawkcounty.iowa.gov/",
+    "categorySlug": "community",
+    "zipCode": "50703"
+  },
+  {
+    "name": "East Central Iowa Community Action Agency (ECICAA)",
+    "description": "Community action agency serving Benton County with utility assistance, emergency aid, Head Start, and referral services.",
+    "address": "1725 E 6th St, Waterloo, IA 50702",
+    "phone": "(319) 232-6260",
+    "url": "https://www.ecicaa.org/",
+    "categorySlug": "community",
+    "zipCode": "50702"
+  },
+  {
+    "name": "Northeast Iowa Food Bank",
+    "description": "Regional food bank serving 16 northeast Iowa counties including Black Hawk County, distributing millions of pounds of food annually through a network of partner pantries.",
+    "address": "1605 Lafayette St, Waterloo, IA 50703",
+    "phone": "(319) 235-0507",
+    "url": "https://www.northeastiowafoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "50703"
+  },
+  {
+    "name": "Boone County Health Center",
+    "description": "Critical access hospital and community health services providing primary care, emergency services, and wellness programs to Boone County residents.",
+    "address": "1015 Union St, Madrid, IA 50156",
+    "phone": "(515) 795-2391",
+    "url": "https://www.boonecountyhospital.com/",
+    "categorySlug": "healthcare",
+    "zipCode": "50156"
+  },
+  {
+    "name": "Community and Family Resources (Boone)",
+    "description": "Substance use treatment, mental health counseling, and prevention services serving Boone County and surrounding central Iowa communities.",
+    "address": "623 Iowa Ave, Boone, IA 50036",
+    "phone": "(515) 432-3050",
+    "url": "https://www.cfriowa.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "50036"
+  },
+  {
+    "name": "Waverly Health Center",
+    "description": "Community hospital providing primary care, specialty clinics, and wellness services to Bremer County and surrounding communities.",
+    "address": "312 9th St SW, Waverly, IA 50677",
+    "phone": "(319) 352-4120",
+    "url": "https://www.waverlyhealthcenter.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "50677"
+  },
+  {
+    "name": "Buchanan County Health Center",
+    "description": "Critical access hospital providing essential medical care, rehabilitation services, and community health programs to Buchanan County.",
+    "address": "1600 1st St E, Independence, IA 50644",
+    "phone": "(319) 332-0999",
+    "url": "https://www.bchealth.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "50644"
+  },
+  {
+    "name": "Buena Vista County Public Health",
+    "description": "Offers immunizations, home health care, WIC, and community health education services throughout Buena Vista County.",
+    "address": "215 E 5th St, Storm Lake, IA 50588",
+    "phone": "(712) 732-3320",
+    "url": "https://www.bvcounty.org/departments/public-health",
+    "categorySlug": "healthcare",
+    "zipCode": "50588"
+  },
+  {
+    "name": "Buena Vista Regional Medical Center",
+    "description": "Community hospital in Storm Lake providing primary care, emergency services, and specialty clinics to residents of Buena Vista County.",
+    "address": "1525 W 5th St, Storm Lake, IA 50588",
+    "phone": "(712) 732-4030",
+    "url": "https://www.bvrmc.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "50588"
+  },
+  {
+    "name": "Proteus Inc. (Storm Lake)",
+    "description": "Provides employment services, English as a Second Language classes, and support services for farmworkers and immigrant families in Buena Vista County.",
+    "address": "601 Flindt Dr, Storm Lake, IA 50588",
+    "phone": "(712) 732-5612",
+    "url": "https://www.proteusinc.org/",
+    "categorySlug": "community",
+    "zipCode": "50588"
+  },
+  {
+    "name": "Butler County Public Health",
+    "description": "County health department offering immunizations, WIC, communicable disease prevention, and home health services to Butler County.",
+    "address": "428 6th St, Allison, IA 50602",
+    "phone": "(319) 267-2730",
+    "url": "https://www.butlercountyiowa.org/departments/public-health",
+    "categorySlug": "healthcare",
+    "zipCode": "50602"
+  },
+  {
+    "name": "Calhoun County Medical Center",
+    "description": "Critical access hospital serving Rockwell City and Calhoun County with inpatient, outpatient, and emergency medical services.",
+    "address": "904 3rd St, Rockwell City, IA 50579",
+    "phone": "(712) 297-7781",
+    "url": "https://www.calhouncountymedicalcenter.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "50579"
+  },
+  {
+    "name": "Catholic Charities of the Diocese of Des Moines (Carroll office)",
+    "description": "Provides emergency assistance, food programs, pregnancy support, immigration services, and counseling to Carroll County residents.",
+    "address": "408 N Adams St, Carroll, IA 51401",
+    "phone": "(712) 792-9597",
+    "url": "https://www.catholiccharitiesdesmoines.org/",
+    "categorySlug": "community",
+    "zipCode": "51401"
+  },
+  {
+    "name": "Manning Regional Healthcare Center",
+    "description": "Critical access hospital providing primary care and emergency services to Manning and western Carroll County residents.",
+    "address": "410 Main St, Manning, IA 51455",
+    "phone": "(712) 655-2072",
+    "url": "https://www.manningregional.com/",
+    "categorySlug": "healthcare",
+    "zipCode": "51455"
+  },
+  {
+    "name": "St. Anthony Regional Hospital Community Health",
+    "description": "Community hospital and outpatient clinic serving Carroll and west-central Iowa with comprehensive health services and community wellness programs.",
+    "address": "311 S Clark St, Carroll, IA 51401",
+    "phone": "(712) 792-3581",
+    "url": "https://www.stanthonyhospital.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "51401"
+  },
+  {
+    "name": "Cass County Memorial Hospital",
+    "description": "Full-service community hospital serving Atlantic and Cass County with emergency care, primary care, and specialty health services.",
+    "address": "1501 E 10th St, Atlantic, IA 50022",
+    "phone": "(712) 243-3250",
+    "url": "https://www.casshealth.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "50022"
+  },
+  {
+    "name": "Southwest Iowa Community Action Program (SWICA)",
+    "description": "Community action agency providing food assistance, utility help, and social services to residents of Adams and surrounding counties.",
+    "address": "304 Chestnut St, Atlantic, IA 50022",
+    "phone": "(712) 243-1065",
+    "url": "https://www.swica.org/",
+    "categorySlug": "community",
+    "zipCode": "50022"
+  },
+  {
+    "name": "Mercy Medical Center North Iowa",
+    "description": "Regional medical center providing comprehensive health services including primary care, behavioral health, and community wellness programs in Mason City.",
+    "address": "1000 4th St SW, Mason City, IA 50401",
+    "phone": "(641) 428-7000",
+    "url": "https://www.mercynorthiowa.com/",
+    "categorySlug": "healthcare",
+    "zipCode": "50401"
+  },
+  {
+    "name": "North Iowa Community Action Organization (NICAO)",
+    "description": "Community action agency offering utility assistance, emergency aid, Head Start, and food programs to Cerro Gordo and surrounding north Iowa counties.",
+    "address": "306 S Delaware Ave, Mason City, IA 50401",
+    "phone": "(641) 424-3544",
+    "url": "https://www.nicao.org/",
+    "categorySlug": "community",
+    "zipCode": "50401"
+  },
+  {
+    "name": "Cherokee Regional Medical Center",
+    "description": "Critical access hospital providing emergency care, primary care, and outpatient services to Cherokee County residents.",
+    "address": "300 Sioux Valley Dr, Cherokee, IA 51012",
+    "phone": "(712) 225-5101",
+    "url": "https://www.cherokeeregional.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "51012"
+  },
+  {
+    "name": "Chickasaw County Memorial Hospital",
+    "description": "Critical access hospital in New Hampton offering primary care, emergency services, and community health programs for Chickasaw County.",
+    "address": "500 N 8th St, New Hampton, IA 50659",
+    "phone": "(641) 394-4121",
+    "url": "https://www.chickasaw-health.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "50659"
+  },
+  {
+    "name": "Southern Iowa Economic Development Association",
+    "description": "Regional community development and social services organization supporting Clarke and surrounding southern Iowa counties with housing and assistance programs.",
+    "address": "115 W Washington St, Osceola, IA 50213",
+    "phone": "(641) 342-2944",
+    "url": "https://www.sieda.com/",
+    "categorySlug": "community",
+    "zipCode": "50213"
+  },
+  {
+    "name": "Northwest Iowa Community Action (NWICA)",
+    "description": "Provides utility assistance, food programs, Head Start, housing assistance, and other social services to Buena Vista and northwest Iowa counties.",
+    "address": "525 1st Ave, Spencer, IA 51301",
+    "phone": "(712) 262-8207",
+    "url": "https://www.nwica.org",
+    "categorySlug": "community",
+    "zipCode": "46307",
+    "additionalZipCodes": [
+      "51301"
+    ]
+  },
+  {
+    "name": "Spencer Hospital Community Health",
+    "description": "Regional hospital providing comprehensive healthcare services and community health programs to Clay County and surrounding northwest Iowa.",
+    "address": "1200 1st Ave E, Spencer, IA 51301",
+    "phone": "(712) 264-6111",
+    "url": "https://www.spencerhospital.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "51301"
+  },
+  {
+    "name": "Guttenberg Municipal Hospital",
+    "description": "Critical access hospital serving Guttenberg and Clayton County with emergency care, primary care, and rural health clinic services.",
+    "address": "200 Main St, Guttenberg, IA 52052",
+    "phone": "(563) 252-1121",
+    "url": "https://www.guttenberghospital.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "52052"
+  },
+  {
+    "name": "Clinton Community Action Agency",
+    "description": "Provides utility assistance, food programs, Head Start, transportation, and emergency assistance to Clinton County residents.",
+    "address": "418 8th Ave S, Clinton, IA 52732",
+    "phone": "(563) 242-7177",
+    "url": "https://www.clintonca.org/",
+    "categorySlug": "community",
+    "zipCode": "52732"
+  },
+  {
+    "name": "MercyOne Clinton Medical Center",
+    "description": "Regional hospital providing comprehensive medical services, primary care, behavioral health, and wellness programs to Clinton County.",
+    "address": "1410 N 4th St, Clinton, IA 52732",
+    "phone": "(563) 244-5555",
+    "url": "https://www.mercyone.org/clinton/",
+    "categorySlug": "healthcare",
+    "zipCode": "52732"
+  },
+  {
+    "name": "Crawford County Memorial Hospital",
+    "description": "Critical access hospital providing primary care, emergency services, and wellness clinics to Denison and Crawford County.",
+    "address": "100 Medical Pkwy, Denison, IA 51442",
+    "phone": "(712) 263-5021",
+    "url": "https://www.crawfordmh.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "51442"
+  },
+  {
+    "name": "UnityPoint Health - Dallas County Hospital",
+    "description": "Community hospital serving Perry and Dallas County with inpatient, emergency, and outpatient health services.",
+    "address": "610 10th St, Perry, IA 50220",
+    "phone": "(515) 465-3547",
+    "url": "https://www.unitypoint.org/desmoines/",
+    "categorySlug": "healthcare",
+    "zipCode": "50220"
+  },
+  {
+    "name": "Decatur County Hospital",
+    "description": "Critical access hospital in Leon providing emergency care, primary care, and outpatient services to Decatur County.",
+    "address": "1405 NW Church St, Leon, IA 50144",
+    "phone": "(641) 446-4871",
+    "url": "https://www.decaturcountyhospital.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "50144"
+  },
+  {
+    "name": "Regional Medical Center (Manchester)",
+    "description": "Critical access hospital providing primary care, emergency services, and specialty clinics to Delaware County.",
+    "address": "709 W Main St, Manchester, IA 52057",
+    "phone": "(563) 927-3232",
+    "url": "https://www.regmedctr.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "52057"
+  },
+  {
+    "name": "CASI (Burlington) - Center for Active Seniors",
+    "description": "Senior services center in Burlington providing meals, transportation, health screenings, food pantry, and social programs to Des Moines County seniors.",
+    "address": "1615 Plaza Dr, Burlington, IA 52601",
+    "phone": "(319) 753-0676",
+    "url": "https://www.casiburlington.org/",
+    "categorySlug": "community",
+    "zipCode": "52601"
+  },
+  {
+    "name": "Great River Medical Center Community Health",
+    "description": "Regional medical center in West Burlington offering comprehensive healthcare, community wellness programs, and charity care to Des Moines County residents.",
+    "address": "1221 S Gear Ave, West Burlington, IA 52655",
+    "phone": "(319) 768-1000",
+    "url": "https://www.greatriverhealth.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "52655"
+  },
+  {
+    "name": "Southeast Iowa Regional Planning Commission Community Action",
+    "description": "Regional organization providing housing assistance, community development, and social service coordination for Des Moines County and southeast Iowa.",
+    "address": "211 N Gear Ave, West Burlington, IA 52655",
+    "phone": "(319) 753-6947",
+    "url": "https://www.seirpc.com/",
+    "categorySlug": "community",
+    "zipCode": "52655"
+  },
+  {
+    "name": "Lakes Regional Healthcare",
+    "description": "Community hospital serving Spirit Lake and Dickinson County with full spectrum healthcare including emergency care and primary care.",
+    "address": "2301 Church Ave, Spirit Lake, IA 51360",
+    "phone": "(712) 336-1230",
+    "url": "https://www.lakesregional.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "51360"
+  },
+  {
+    "name": "Dubuque Food Pantry",
+    "description": "Faith-based food pantry providing food distributions and emergency grocery assistance to low-income residents throughout Dubuque County.",
+    "address": "2200 Dodge St, Dubuque, IA 52003",
+    "phone": "(563) 582-2729",
+    "url": "https://www.dbqfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "52003"
+  },
+  {
+    "name": "Hills & Dales Life Skills Center (Dubuque)",
+    "description": "Provides community-based support services for children and adults with disabilities and developmental needs in the Dubuque area.",
+    "address": "1011 Davis St, Dubuque, IA 52003",
+    "phone": "(563) 556-7878",
+    "url": "https://www.hillsdales.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "52003"
+  },
+  {
+    "name": "MercyOne Dubuque Medical Center",
+    "description": "Regional medical center providing comprehensive healthcare, behavioral health services, and community health programs to Dubuque County and surrounding area.",
+    "address": "250 Mercy Dr, Dubuque, IA 52001",
+    "phone": "(563) 589-8000",
+    "url": "https://www.mercyone.org/dubuque/",
+    "categorySlug": "healthcare",
+    "zipCode": "52001"
+  },
+  {
+    "name": "Opening Doors (Dubuque homeless shelter)",
+    "description": "Emergency homeless shelter and transitional housing program serving individuals and families experiencing homelessness in Dubuque and surrounding counties.",
+    "address": "1561 Central Ave, Dubuque, IA 52001",
+    "phone": "(563) 556-8020",
+    "url": "https://www.openingdoorsdbq.org/",
+    "categorySlug": "housing",
+    "zipCode": "52001"
+  },
+  {
+    "name": "Riverview Center (Dubuque)",
+    "description": "Provides support services for survivors of sexual abuse and domestic violence, including crisis counseling, advocacy, and community education in Dubuque and surrounding counties.",
+    "address": "1402 Central Ave, Dubuque, IA 52001",
+    "phone": "(563) 557-0310",
+    "url": "https://www.riverviewcenter.org/",
+    "categorySlug": "community",
+    "zipCode": "52001"
+  },
+  {
+    "name": "Avera Holy Family Hospital (Estherville)",
+    "description": "Critical access hospital providing emergency care, primary care, and outpatient health services to Emmet County and surrounding north Iowa.",
+    "address": "826 N 8th St, Estherville, IA 51334",
+    "phone": "(712) 362-2631",
+    "url": "https://www.avera.org/holy-family/",
+    "categorySlug": "healthcare",
+    "zipCode": "51334"
+  },
+  {
+    "name": "Palmer Lutheran Health Center (West Union)",
+    "description": "Critical access hospital providing primary care, emergency services, and community health programs to Fayette County.",
+    "address": "112 Jefferson St, West Union, IA 52175",
+    "phone": "(563) 422-3811",
+    "url": "https://www.palmerlutheran.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "52175"
+  },
+  {
+    "name": "Franklin General Hospital",
+    "description": "Critical access hospital serving Hampton and Franklin County with emergency care, primary care, and outpatient services.",
+    "address": "1720 Central Ave E, Hampton, IA 50441",
+    "phone": "(641) 456-5000",
+    "url": "https://www.franklingeneral.com/",
+    "categorySlug": "healthcare",
+    "zipCode": "50441"
+  },
+  {
+    "name": "West Central Community Action - Fremont County Food Pantry",
+    "description": "Emergency food pantry serving households in Fremont County with up to 6 visits per year, providing pre-packaged food boxes sized by household. Also offers LIHEAP energy assistance, Head Start, and weatherization.",
+    "address": "705 Indiana St, Sidney, IA 51652",
+    "phone": "(712) 374-3367",
+    "url": "https://www.westcentralca.org/",
+    "categorySlug": "community",
+    "zipCode": "51652"
+  },
+  {
+    "name": "Greene County Food Pantry",
+    "description": "Nonprofit food pantry serving Greene County families, seniors, and children in need with monthly distributions of 40–50 pounds of nutritious food.",
+    "address": "1401 N Elm St Suite A, Jefferson, IA 50129",
+    "phone": "(515) 386-2719",
+    "url": "https://www.gcfpantry.org",
+    "categorySlug": "food",
+    "zipCode": "12414",
+    "additionalZipCodes": [
+      "50129"
+    ]
+  },
+  {
+    "name": "New Opportunities - Greene County Family Development Center",
+    "description": "Community action agency offering food assistance, energy assistance, WIC, Head Start, and family development services to income-eligible residents of Greene County.",
+    "address": "1006 N Vine St, Jefferson, IA 50129",
+    "phone": "(515) 386-8262",
+    "url": "https://www.newopp.org/services/outreach/greene-county",
+    "categorySlug": "community",
+    "zipCode": "50129"
+  },
+  {
+    "name": "Operation Threshold - Grundy County Food Pantry",
+    "description": "Community action food pantry providing food boxes, grocery vouchers, fresh produce, and hygiene items to income-qualifying residents of Grundy County.",
+    "address": "1606 G Ave, Grundy Center, IA 50638",
+    "phone": "(319) 824-3460",
+    "url": "https://www.operationthreshold.org/programs/grundy/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "50638"
+  },
+  {
+    "name": "New Opportunities - Guthrie County Food Pantry",
+    "description": "Community action food pantry in Guthrie Center providing monthly food boxes with meats, canned goods, baking products, and toiletries to Guthrie County residents in need.",
+    "address": "400 State St, Guthrie Center, IA 50115",
+    "phone": "(641) 747-3845",
+    "url": "https://www.newopp.org/services/outreach/guthrie-county",
+    "categorySlug": "food",
+    "zipCode": "50115"
+  },
+  {
+    "name": "Upper Des Moines Opportunity (UDMO) - Hamilton County Outreach",
+    "description": "Community action agency food pantry open Wednesdays in Webster City, providing bread, produce, meat, and emergency food supplies to Hamilton County residents in need.",
+    "address": "1610 Collins St Suite 4, Webster City, IA 50595",
+    "phone": "(515) 832-6451",
+    "url": "https://www.udmo.com/counties/hamilton/",
+    "categorySlug": "community",
+    "zipCode": "50595"
+  },
+  {
+    "name": "Hardin County Family Services Food Pantry",
+    "description": "Food pantry serving Hardin County residents in Iowa Falls, open Monday, Thursday, and Friday with food distributions to low-income individuals and families.",
+    "address": "637 S Oak St, Iowa Falls, IA 50126",
+    "phone": "(641) 648-9152",
+    "url": "https://www.hardincountyia.gov/community-services",
+    "categorySlug": "food",
+    "zipCode": "50126"
+  },
+  {
+    "name": "Harrison County Food Pantry",
+    "description": "Local food pantry in Missouri Valley providing food assistance to Harrison County families in need.",
+    "address": "2102 Liberty Ave, Missouri Valley, IA 51555",
+    "phone": "(712) 642-2598",
+    "url": "https://www.swiamhds.com/resources/harrison_county_food_pantry/",
+    "categorySlug": "food",
+    "zipCode": "51555"
+  },
+  {
+    "name": "Community Action of Southeast Iowa - Henry County Food Pantry",
+    "description": "Emergency food pantry serving Henry County residents with quality food items to address food insecurity, plus family development, WIC, energy assistance, and Head Start services.",
+    "address": "1303 W Washington St, Mount Pleasant, IA 52641",
+    "phone": "(319) 385-2310",
+    "url": "https://caofseia.org/services/food-pantry/",
+    "categorySlug": "community",
+    "zipCode": "52641"
+  },
+  {
+    "name": "The Fellowship Cup",
+    "description": "Nonprofit food pantry in Mount Pleasant serving Henry County residents every Thursday, with delivery available to Hillsboro and Salem for those unable to travel.",
+    "address": "203 N Jefferson St, Mount Pleasant, IA 52641",
+    "phone": "(319) 385-3242",
+    "url": "https://thefellowshipcup.org/",
+    "categorySlug": "food",
+    "zipCode": "52641"
+  },
+  {
+    "name": "Northeast Iowa Community Action Corporation (NEICAC) - Howard County Food Pantry",
+    "description": "Food pantry in Cresco providing fresh, frozen, and non-perishable food items along with diapers, formula, and hygiene products to Howard County residents.",
+    "address": "204 2nd Ave E, Cresco, IA 52136",
+    "phone": "(563) 547-4413",
+    "url": "https://neicac.org/programs/food-bank/",
+    "categorySlug": "food",
+    "zipCode": "52136"
+  },
+  {
+    "name": "Upper Des Moines Opportunity (UDMO) - Humboldt County",
+    "description": "Community action agency serving Humboldt County with food pantry, emergency assistance, WIC, Head Start, energy assistance, and other support services for low-income residents.",
+    "address": "203 Main St, Dakota City, IA 50529",
+    "phone": "(515) 332-1571",
+    "url": "https://www.udmo.com/counties/humboldt/",
+    "categorySlug": "community",
+    "zipCode": "50529"
+  },
+  {
+    "name": "Ida County Community Basket Food Pantry",
+    "description": "Mobile and fixed-location food pantry serving seven communities in Ida County including Ida Grove, Holstein, Battle Creek, and Galva through a partnership with Food Bank of Siouxland.",
+    "address": "700 E 2nd St, Ida Grove, IA 51445",
+    "phone": "(712) 364-2175",
+    "url": "https://www.unitedbk.bank/ida-county-community-basket---ida-grove",
+    "categorySlug": "food",
+    "zipCode": "51445"
+  },
+  {
+    "name": "Mid-Sioux Opportunity - Ida County Outreach",
+    "description": "Community action agency offering food pantry, energy assistance (LIHEAP), WIC, weatherization, and family development services to Ida County residents from the county courthouse.",
+    "address": "401 Moorehead St, Ida Grove, IA 51445",
+    "phone": "(712) 364-2175",
+    "url": "https://midsioux.org/programs-services/outreach-services/",
+    "categorySlug": "community",
+    "zipCode": "51445"
+  },
+  {
+    "name": "Maquoketa Community Cupboard",
+    "description": "Food pantry serving Jackson County residents with client-choice grocery shopping, open Fridays with no proof of income required.",
+    "address": "903 W Platt St, Maquoketa, IA 52060",
+    "phone": "(563) 652-6777",
+    "url": "https://jacksoncounty.iowa.gov/general_assistance/food_pantries/",
+    "categorySlug": "food",
+    "zipCode": "52060"
+  },
+  {
+    "name": "Salvation Army of Newton - Emergency Food Pantry",
+    "description": "Food pantry serving Jasper County residents with a 5-7 day supply of food once per month, plus a Friday bread and produce giveaway and utility/rent assistance.",
+    "address": "301 N 2nd Ave E, Newton, IA 50208",
+    "phone": "(641) 792-6131",
+    "url": "https://centralusa.salvationarmy.org/newton/cure-hunger/",
+    "categorySlug": "food",
+    "zipCode": "50208"
+  },
+  {
+    "name": "United Way of Jasper County",
+    "description": "Coordinates community resources and funding for social services organizations in Jasper County including food, housing, and emergency assistance programs.",
+    "address": "Newton, IA 50208",
+    "phone": "(641) 792-3020",
+    "url": "https://www.unitedwayofjaspercounty.org/",
+    "categorySlug": "community",
+    "zipCode": "50208"
+  },
+  {
+    "name": "The Lord's Cupboard of Jefferson County",
+    "description": "Nonprofit emergency food pantry in Fairfield founded in 1982, serving over 100 low-income families monthly with food, paper goods, and other essentials; includes a summer LOAF program for food-insecure children.",
+    "address": "303 N 4th St, Fairfield, IA 52556",
+    "phone": "(641) 472-8457",
+    "url": "http://www.lordscupboard.org/",
+    "categorySlug": "food",
+    "zipCode": "52556"
+  },
+  {
+    "name": "Center for Disabilities and Development (Iowa)",
+    "description": "Provides evaluation, treatment, and support services for children and adults with disabilities through the University of Iowa Health Care system.",
+    "address": "100 Hawkins Dr, Iowa City, IA 52242",
+    "phone": "(319) 353-6900",
+    "url": "https://uihc.org/center-disabilities-and-development",
+    "categorySlug": "healthcare",
+    "zipCode": "52242"
+  },
+  {
+    "name": "CommUnity Crisis Services and Food Bank",
+    "description": "Iowa City's volunteer-driven crisis center offering a 24/7 crisis line, walk-in counseling, mobile crisis outreach, and a food bank where Johnson County residents can choose groceries once per week.",
+    "address": "1121 S Gilbert Ct, Iowa City, IA 52240",
+    "phone": "(855) 800-1239",
+    "url": "https://builtbycommunity.org/",
+    "categorySlug": "community",
+    "zipCode": "52240"
+  },
+  {
+    "name": "Coralville Community Food Pantry",
+    "description": "Client-choice food pantry in Coralville serving Johnson County residents multiple times per week with fresh produce, dairy, and non-perishable groceries.",
+    "address": "1002 5th St, Coralville, IA 52241",
+    "phone": "(319) 337-3663",
+    "url": "https://www.coralvillefoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "52241"
+  },
+  {
+    "name": "Iowa City Free Medical and Dental Clinic",
+    "description": "Nonprofit clinic providing free outpatient medical and dental care, lab testing, medications, and specialty referrals to uninsured and underinsured Johnson County residents since 1971.",
+    "address": "2440 Towncrest Dr, Iowa City, IA 52240",
+    "phone": "(319) 337-4459",
+    "url": "https://freemedicalclinic.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "52240"
+  },
+  {
+    "name": "MECCA Services (Mid-Eastern Iowa Community Mental Health)",
+    "description": "Substance abuse treatment center in Iowa City offering detoxification, residential and outpatient treatment, transitional housing, and counseling for adolescents and adults.",
+    "address": "430 Southgate Ave, Iowa City, IA 52240",
+    "phone": "(319) 351-4357",
+    "url": "https://www.meccaservices.com/",
+    "categorySlug": "healthcare",
+    "zipCode": "52240"
+  },
+  {
+    "name": "Mercyone Iowa City Medical Center (Cedar County access)",
+    "description": "Regional hospital system providing emergency care, specialty services, and community health programs accessible to Cedar County residents.",
+    "address": "500 E Market St, Iowa City, IA 52245",
+    "phone": "(319) 339-0300",
+    "url": "https://www.mercyone.org/iowa-city/",
+    "categorySlug": "healthcare",
+    "zipCode": "52245"
+  },
+  {
+    "name": "Midwest Food Bank - Quad Cities (Clinton distributions)",
+    "description": "Faith-based food bank providing disaster relief and food distributions to partner agencies serving Clinton and Quad Cities communities.",
+    "address": "2003 1st Ave, Iowa City, IA 52240",
+    "phone": "(309) 314-3663",
+    "url": "https://www.midwestfoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "52240",
+    "additionalZipCodes": [
+      "61604"
+    ]
+  },
+  {
+    "name": "North Liberty Community Pantry",
+    "description": "Food and clothing pantry in North Liberty serving rural Johnson County with no income requirements, offering weekly shopping visits plus delivery for those with transportation barriers.",
+    "address": "350 W Penn St, North Liberty, IA 52317",
+    "phone": "(319) 626-2427",
+    "url": "https://www.nlcpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "52317"
+  },
+  {
+    "name": "Shelter House Iowa City",
+    "description": "Provides emergency shelter, street outreach, permanent supportive housing, and eviction prevention services to individuals and families experiencing homelessness in Johnson County.",
+    "address": "429 Southgate Ave, Iowa City, IA 52240",
+    "phone": "(319) 351-0326",
+    "url": "https://shelterhouseiowa.org/",
+    "categorySlug": "housing",
+    "zipCode": "52240"
+  },
+  {
+    "name": "Lord's Pantry of Keokuk County",
+    "description": "Food pantry in Sigourney providing groceries to Keokuk County residents on Mondays and Fridays with no income documentation required.",
+    "address": "615 S Jefferson St, Sigourney, IA 52591",
+    "phone": "(319) 330-1612",
+    "url": "https://kcediowa.org/resources/other-resources/",
+    "categorySlug": "food",
+    "zipCode": "52591"
+  },
+  {
+    "name": "Kossuth County Food Pantry",
+    "description": "Food pantry in Algona serving approximately 450 families per month throughout Kossuth County, open three days a week with food boxes distributed to county residents.",
+    "address": "1426 E Commercial St, Algona, IA 50511",
+    "phone": "(515) 295-3435",
+    "url": "https://www.kossuthcountycareteam.org/",
+    "categorySlug": "food",
+    "zipCode": "50511"
+  },
+  {
+    "name": "Fort Madison Food Pantry",
+    "description": "All-volunteer nonprofit food pantry serving over 500 families and 1,600 individuals monthly in the Lee County area from its Fort Madison location.",
+    "address": "3421 Ave L, Fort Madison, IA 52627",
+    "phone": "(319) 372-8071",
+    "url": "https://fmpantry.com/",
+    "categorySlug": "food",
+    "zipCode": "52627"
+  },
+  {
+    "name": "Salvation Army of Keokuk/Lee County",
+    "description": "Provides emergency food pantry with a 5-7 day food supply once per month, plus utility assistance, rent help, and other social services to Lee County residents.",
+    "address": "31 S 30th St, Keokuk, IA 52632",
+    "phone": "(319) 524-6164",
+    "url": "https://centralusa.salvationarmy.org/keokuk/",
+    "categorySlug": "community",
+    "zipCode": "52632"
+  },
+  {
+    "name": "Four Oaks Family and Children Services",
+    "description": "Comprehensive youth and family services provider offering foster care, mental health counseling, family preservation, and community-based programs across Iowa.",
+    "address": "5400 Kirkwood Blvd SW, Cedar Rapids, IA 52404",
+    "phone": "(319) 364-0259",
+    "url": "https://www.fouroaks.org/",
+    "categorySlug": "community",
+    "zipCode": "52404"
+  },
+  {
+    "name": "HACAP (Hawkeye Area Community Action Program)",
+    "description": "Provides food reservoir services, housing assistance, Head Start, and community support across Linn and six other eastern Iowa counties, serving over 78,000 individuals annually.",
+    "address": "5560 6th St SW, Cedar Rapids, IA 52404",
+    "phone": "(319) 366-0776",
+    "url": "https://www.hacap.org/",
+    "categorySlug": "community",
+    "zipCode": "52404"
+  },
+  {
+    "name": "HACAP Food Reservoir - Iowa County",
+    "description": "Hawkeye Area Community Action Program provides mobile food pantry stops in Iowa County including Marengo and North English, offering fresh produce, bakery, dairy, and non-perishables.",
+    "address": "5560 6th St SW, Cedar Rapids, IA 52404",
+    "phone": "(319) 393-7811",
+    "url": "https://www.hacap.org/foodres",
+    "categorySlug": "food",
+    "zipCode": "52404"
+  },
+  {
+    "name": "HACAP Food Reservoir - Linn County Mobile Pantry",
+    "description": "Hawkeye Area Community Action Program mobile food pantry serving Marion, Hiawatha, and other Linn County communities with fresh produce, bakery items, dairy, and non-perishables.",
+    "address": "5560 6th St SW, Cedar Rapids, IA 52404",
+    "phone": "(319) 393-7811",
+    "url": "https://www.hacap.org/findfood",
+    "categorySlug": "food",
+    "zipCode": "52404"
+  },
+  {
+    "name": "Waypoint Services",
+    "description": "Cedar Rapids nonprofit offering housing services, domestic violence victim services, homeless prevention, rapid rehousing, and affordable child care to Linn County residents since 1894.",
+    "address": "318 5th St SE, Cedar Rapids, IA 52401",
+    "phone": "(319) 365-1458",
+    "url": "https://www.waypointservices.org/",
+    "categorySlug": "housing",
+    "zipCode": "52401"
+  },
+  {
+    "name": "Willis Dady Homeless Services",
+    "description": "Cedar Rapids emergency shelter providing overnight shelter, case management, street outreach, rapid rehousing, veteran services, and permanent supportive housing to adults and families.",
+    "address": "1247 4th Ave SE, Cedar Rapids, IA 52403",
+    "phone": "(319) 362-7555",
+    "url": "https://www.willisdady.org/",
+    "categorySlug": "housing",
+    "zipCode": "52403"
+  },
+  {
+    "name": "South Central Iowa Community Action Program (SCICAP)",
+    "description": "Community action agency providing food pantry, Head Start, family development, energy assistance, and shelter services to residents of Lucas, Monroe, and surrounding south-central Iowa counties.",
+    "address": "1711 Osceola Ave Suite 212, Chariton, IA 50049",
+    "phone": "(641) 774-8133",
+    "url": "https://scicap.org/",
+    "categorySlug": "community",
+    "zipCode": "50049"
+  },
+  {
+    "name": "ATLAS of Lyon County - Bread of Life",
+    "description": "Food ministry in Rock Rapids serving Lyon County residents meeting income guidelines with a client-choice grocery store model open Monday through Thursday, plus monthly food distribution events.",
+    "address": "112 1st Ave, Rock Rapids, IA 51246",
+    "phone": "(712) 472-9016",
+    "url": "https://food-banks.org/detail/atlas_of_lyon_county_bread_of_life_rock_rapids_ia.html",
+    "categorySlug": "food",
+    "zipCode": "51246"
+  },
+  {
+    "name": "MATURA Action Corporation - Madison County Outreach",
+    "description": "Community action agency in Winterset providing food pantry, WIC, Head Start, utility crisis assistance, weatherization, and thrift store services to Madison County residents.",
+    "address": "1724 N John Wayne Dr, Winterset, IA 50273",
+    "phone": "(515) 462-4704",
+    "url": "https://www.maturacommunityaction.com/",
+    "categorySlug": "community",
+    "zipCode": "50273"
+  },
+  {
+    "name": "Oskaloosa Food Pantry",
+    "description": "Nonprofit food pantry serving Mahaska County residents with food, hygiene products, and clothing, open Monday and Thursday mornings, select Fridays and Saturdays.",
+    "address": "1701 3rd Ave E Suite 9, Oskaloosa, IA 52577",
+    "phone": "(515) 835-5878",
+    "url": "https://www.mahaskachamber.org/directory/oskaloosa_food_pantry/",
+    "categorySlug": "food",
+    "zipCode": "52577"
+  },
+  {
+    "name": "IMPACT Community Action Partnership - Marion County",
+    "description": "Community action agency providing utility and rent assistance, emergency food cards, elder chore service, home maintenance, and a personal hygiene pantry to Marion County residents.",
+    "address": "Knoxville, IA 50138",
+    "phone": "(641) 842-6551",
+    "url": "https://www.impactcap.org/marion",
+    "categorySlug": "community",
+    "zipCode": "50138"
+  },
+  {
+    "name": "Mid-Iowa Community Action (MICA)",
+    "description": "Community action agency providing utility assistance, food programs, and case management to Calhoun and surrounding central Iowa counties.",
+    "address": "111 W 3rd St, Marshalltown, IA 50158",
+    "phone": "(641) 752-7162",
+    "url": "https://www.midiowaaction.org/",
+    "categorySlug": "community",
+    "zipCode": "50158"
+  },
+  {
+    "name": "Mid-Iowa Community Action (MICA) - Hardin County",
+    "description": "Community action agency providing emergency food, WIC, Head Start, energy assistance, and family development services to residents of Hardin and surrounding counties.",
+    "address": "1001 S 18th Ave, Marshalltown, IA 50158",
+    "phone": "(641) 752-7162",
+    "url": "https://micaonline.org/",
+    "categorySlug": "community",
+    "zipCode": "50158"
+  },
+  {
+    "name": "Mills County Storehouse Food Pantry",
+    "description": "Nonprofit food pantry and thrift store in Glenwood serving Mills County residents with perishable and non-perishable foods and toiletries based on USDA income guidelines.",
+    "address": "405 Nuckolls St, Glenwood, IA 51534",
+    "phone": "(712) 527-5141",
+    "url": "https://livemillscounty.com/business/mills-county-storehouse-inc/",
+    "categorySlug": "food",
+    "zipCode": "51534"
+  },
+  {
+    "name": "Mitchell County Food Bank",
+    "description": "Food bank in Osage open Tuesdays and Fridays serving Mitchell County residents with food distributions from the county general assistance office location.",
+    "address": "415 Pleasant St, Osage, IA 50461",
+    "phone": "(641) 832-2615",
+    "url": "https://mcpublichealth.com/general_assistance/",
+    "categorySlug": "food",
+    "zipCode": "50461"
+  },
+  {
+    "name": "South Central Iowa Community Action Program (SCICAP) - Monroe County",
+    "description": "Community action food pantry and social services in Albia serving Monroe County residents, with food distributions once monthly plus Head Start, family development, and energy assistance.",
+    "address": "221 S Clinton St, Albia, IA 52531",
+    "phone": "(641) 932-5107",
+    "url": "https://scicap.org/food-pantry/",
+    "categorySlug": "community",
+    "zipCode": "52531"
+  },
+  {
+    "name": "Muscatine Center for Social Action (MCSA)",
+    "description": "Community action agency providing food pantry, emergency financial assistance, utility help, and weatherization services to Muscatine County residents.",
+    "address": "1200 Spruce Hills Dr, Muscatine, IA 52761",
+    "phone": "(563) 263-0067",
+    "url": "https://www.muscatinecsa.org/",
+    "categorySlug": "community",
+    "zipCode": "52761"
+  },
+  {
+    "name": "UnityPoint Health – Trinity Muscatine",
+    "description": "Regional hospital and health system providing emergency care, primary care, and community health programs to Muscatine and surrounding areas.",
+    "address": "1518 Mulberry Ave, Muscatine, IA 52761",
+    "phone": "(563) 264-9100",
+    "url": "https://www.unitypoint.org/muscatine/",
+    "categorySlug": "healthcare",
+    "zipCode": "52761"
+  },
+  {
+    "name": "Northwest Iowa Community Action Agency (NWICAA)",
+    "description": "Community action agency serving O'Brien and surrounding counties with food assistance, energy aid, Head Start, and housing programs.",
+    "address": "400 Hawkeye Ave, Primghar, IA 51245",
+    "phone": "(712) 957-8159",
+    "url": "https://www.nwicaa.org",
+    "categorySlug": "community",
+    "zipCode": "51245",
+    "additionalZipCodes": [
+      "61064"
+    ]
+  },
+  {
+    "name": "Sheldon Regional Medical Center",
+    "description": "Critical access hospital serving O'Brien County and northwest Iowa with inpatient, outpatient, and emergency health services.",
+    "address": "118 N 7th Ave, Sheldon, IA 51201",
+    "phone": "(712) 324-5041",
+    "url": "https://www.sheldonregional.com/",
+    "categorySlug": "healthcare",
+    "zipCode": "51201"
+  },
+  {
+    "name": "Shenandoah Medical Center",
+    "description": "Critical access hospital providing emergency, surgical, and outpatient services to Page County and the greater southwest Iowa region.",
+    "address": "300 Pershing Ave, Shenandoah, IA 51601",
+    "phone": "(712) 246-1230",
+    "url": "https://www.smchospital.com/",
+    "categorySlug": "healthcare",
+    "zipCode": "51601"
+  },
+  {
+    "name": "North Iowa Community Action (MICA) – Palo Alto County",
+    "description": "Regional community action program providing food pantry access, utility assistance, and family support services to Palo Alto County residents.",
+    "address": "22 S 7th St, Emmetsburg, IA 50536",
+    "phone": "(712) 852-2201",
+    "url": "https://www.mica-online.org/",
+    "categorySlug": "community",
+    "zipCode": "50536"
+  },
+  {
+    "name": "Palo Alto County Health System",
+    "description": "Critical access hospital and rural health clinics serving Emmetsburg and Palo Alto County with primary and emergency medical care.",
+    "address": "3201 1st St, Emmetsburg, IA 50536",
+    "phone": "(712) 852-5500",
+    "url": "https://www.pach.net/",
+    "categorySlug": "healthcare",
+    "zipCode": "50536"
+  },
+  {
+    "name": "Floyd Valley Healthcare",
+    "description": "Critical access hospital and rural health clinics in Le Mars and Plymouth County, offering emergency care, primary care, and specialty services.",
+    "address": "714 Lincoln St NE, Le Mars, IA 51031",
+    "phone": "(712) 546-7871",
+    "url": "https://www.floydvalleyhealthcare.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "51031"
+  },
+  {
+    "name": "Pocahontas Community Hospital",
+    "description": "Critical access hospital serving Pocahontas County with emergency, inpatient, and outpatient health services.",
+    "address": "606 NW 7th St, Pocahontas, IA 50574",
+    "phone": "(712) 335-3501",
+    "url": "https://www.pocahontashospital.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "50574"
+  },
+  {
+    "name": "Broadlawns Medical Center",
+    "description": "Federally Qualified Health Center and county hospital providing primary care, behavioral health, dental, pharmacy, and emergency services to all Polk County residents regardless of ability to pay.",
+    "address": "1801 Hickman Rd, Des Moines, IA 50314",
+    "phone": "(515) 282-2200",
+    "url": "https://www.broadlawns.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "50314"
+  },
+  {
+    "name": "Catholic Charities Diocese of Des Moines",
+    "description": "Provides emergency food, housing assistance, refugee resettlement, immigration services, and counseling to individuals and families across Polk County.",
+    "address": "601 Grand Ave, Des Moines, IA 50309",
+    "phone": "(515) 237-5070",
+    "url": "https://www.catholiccharitiesdm.org/",
+    "categorySlug": "community",
+    "zipCode": "50309"
+  },
+  {
+    "name": "Central Iowa Shelter & Services",
+    "description": "Provides emergency shelter, transitional housing, and comprehensive case management to homeless adults in the Des Moines metro area.",
+    "address": "1420 Mulberry St, Des Moines, IA 50309",
+    "phone": "(515) 284-5719",
+    "url": "https://www.cisofiowa.org/",
+    "categorySlug": "housing",
+    "zipCode": "50309"
+  },
+  {
+    "name": "Clive Community Services",
+    "description": "Local nonprofit providing emergency financial assistance, food pantry access, and referrals to residents in Clive and western Polk County.",
+    "address": "1900 NW 114th St, Clive, IA 50325",
+    "phone": "(515) 221-9661",
+    "url": "https://www.cityofclive.com/",
+    "categorySlug": "community",
+    "zipCode": "50325"
+  },
+  {
+    "name": "Crisis Intervention Center of Iowa",
+    "description": "Provides 24/7 crisis intervention, safe shelter, and advocacy services to survivors of domestic violence and sexual assault in Polk County.",
+    "address": "2200 Ingersoll Ave, Des Moines, IA 50312",
+    "phone": "(515) 286-3600",
+    "url": "https://www.cicIowa.org/",
+    "categorySlug": "housing",
+    "zipCode": "50312"
+  },
+  {
+    "name": "Food Bank of Iowa (Mason City distribution)",
+    "description": "Regional food bank partner providing food distributions across Cerro Gordo County and connecting residents to local food assistance programs.",
+    "address": "2220 E Dean Ave, Des Moines, IA 50317",
+    "phone": "(515) 564-0330",
+    "url": "https://www.foodbankiowa.org/",
+    "categorySlug": "food",
+    "zipCode": "50317"
+  },
+  {
+    "name": "House of Mercy",
+    "description": "Provides shelter, transitional housing, and supportive services to women, children, and families experiencing homelessness in Des Moines.",
+    "address": "1409 Clark St, Des Moines, IA 50314",
+    "phone": "(515) 243-5931",
+    "url": "https://www.houseofmercydsm.org/",
+    "categorySlug": "housing",
+    "zipCode": "50314"
+  },
+  {
+    "name": "Iowa Legal Aid – Des Moines Office",
+    "description": "Provides free civil legal services to low-income Iowans in Polk and surrounding counties, including housing, benefits, family law, and consumer issues.",
+    "address": "1111 9th St Ste 230, Des Moines, IA 50314",
+    "phone": "(515) 243-2151",
+    "url": "https://www.iowalegalaid.org/",
+    "categorySlug": "community",
+    "zipCode": "50314"
+  },
+  {
+    "name": "Primary Health Care Inc.",
+    "description": "FQHC offering comprehensive primary care, behavioral health, dental, and pharmacy services at multiple sites across Des Moines and Polk County on a sliding-fee scale.",
+    "address": "1200 University Ave, Des Moines, IA 50314",
+    "phone": "(515) 248-1500",
+    "url": "https://www.primaryhealthcare.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "50314"
+  },
+  {
+    "name": "Urbandale Food Pantry",
+    "description": "Community food pantry serving Urbandale and surrounding Polk County suburbs with regular grocery distributions and emergency food assistance.",
+    "address": "7305 Aurora Ave, Urbandale, IA 50322",
+    "phone": "(515) 276-5701",
+    "url": "https://www.urbandalefoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "50322"
+  },
+  {
+    "name": "West Des Moines Human Services",
+    "description": "City-run program connecting West Des Moines residents with food assistance, utility help, and social service referrals.",
+    "address": "4200 Mills Civic Pkwy, West Des Moines, IA 50265",
+    "phone": "(515) 222-3636",
+    "url": "https://www.wdm.iowa.gov/humanservices",
+    "categorySlug": "community",
+    "zipCode": "50265"
+  },
+  {
+    "name": "Catholic Charities – Council Bluffs",
+    "description": "Offers emergency food, utility assistance, immigration services, and family counseling to individuals in need in Council Bluffs.",
+    "address": "623 6th Ave, Council Bluffs, IA 51501",
+    "phone": "(712) 328-1032",
+    "url": "https://www.catholiccharitiesomaha.org/",
+    "categorySlug": "community",
+    "zipCode": "51501"
+  },
+  {
+    "name": "Food Bank of the Heartland – Council Bluffs Distribution",
+    "description": "Regional food bank distributing food to partner agencies throughout Council Bluffs and Pottawattamie County.",
+    "address": "10025 J St, Omaha, NE 68127",
+    "phone": "(402) 331-1213",
+    "url": "https://www.foodbankheartland.org/",
+    "categorySlug": "food",
+    "zipCode": "51501"
+  },
+  {
+    "name": "Heartland Family Service – Council Bluffs",
+    "description": "Provides mental health counseling, family support, domestic violence services, and housing assistance to individuals and families in Council Bluffs and Pottawattamie County.",
+    "address": "115 N 6th St, Council Bluffs, IA 51501",
+    "phone": "(712) 322-3700",
+    "url": "https://www.heartlandfamilyservice.org/",
+    "categorySlug": "community",
+    "zipCode": "51501"
+  },
+  {
+    "name": "Jennie Edmundson Hospital Community Health",
+    "description": "Regional hospital serving Council Bluffs and Pottawattamie County with emergency, surgical, and outpatient care plus community health programs.",
+    "address": "933 E Pierce St, Council Bluffs, IA 51503",
+    "phone": "(712) 396-6000",
+    "url": "https://www.bestcare.org/jennie-edmundson/",
+    "categorySlug": "healthcare",
+    "zipCode": "51503"
+  },
+  {
+    "name": "LoessHills Community Mental Health Center",
+    "description": "Provides outpatient mental health counseling, substance use treatment, and crisis services to residents of Pottawattamie and surrounding counties.",
+    "address": "615 Willow Ave, Council Bluffs, IA 51503",
+    "phone": "(712) 328-1090",
+    "url": "https://www.loesshills.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "51503"
+  },
+  {
+    "name": "Western Iowa Community Action Agency",
+    "description": "Provides food assistance, energy assistance, weatherization, and Head Start programs to Carroll and neighboring western Iowa counties.",
+    "address": "502 Willow Ave, Council Bluffs, IA 51503",
+    "phone": "(712) 322-7700",
+    "url": "https://www.wicaa.org/",
+    "categorySlug": "community",
+    "zipCode": "51503"
+  },
+  {
+    "name": "Grinnell Area Community Food Pantry",
+    "description": "Serves Grinnell and Poweshiek County residents with emergency food boxes, fresh produce, and referrals to additional social services.",
+    "address": "927 4th Ave, Grinnell, IA 50112",
+    "phone": "(641) 236-5600",
+    "url": "https://www.poweshiekcountyiowa.gov/",
+    "categorySlug": "food",
+    "zipCode": "50112"
+  },
+  {
+    "name": "Ringgold County Public Health",
+    "description": "County health services offering WIC, immunizations, health screenings, and referrals to community resources in Mount Ayr and Ringgold County.",
+    "address": "109 N Iowa Ave, Mount Ayr, IA 50854",
+    "phone": "(641) 464-3737",
+    "url": "https://www.ringgoldcounty.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "50854"
+  },
+  {
+    "name": "Sac County Memorial Hospital",
+    "description": "Critical access hospital providing emergency, primary, and outpatient care to residents of Sac City and Sac County.",
+    "address": "1 1st St SE, Sac City, IA 50583",
+    "phone": "(712) 662-7105",
+    "url": "https://www.sacmh.com/",
+    "categorySlug": "healthcare",
+    "zipCode": "50583"
+  },
+  {
+    "name": "CASI (Community Action of Scott County / Eastern Iowa)",
+    "description": "Community action agency providing food pantry, energy assistance, Head Start, senior services, and housing programs to Scott County residents.",
+    "address": "1540 W 16th St, Davenport, IA 52804",
+    "phone": "(563) 322-7284",
+    "url": "https://www.easterniowacommunityaction.org/",
+    "categorySlug": "community",
+    "zipCode": "52804"
+  },
+  {
+    "name": "Genesis Health System – Community Health",
+    "description": "Quad Cities regional health system offering emergency care, primary care, and community wellness programs to residents of Bettendorf and Scott County.",
+    "address": "1227 E Rusholme St, Davenport, IA 52803",
+    "phone": "(563) 421-1000",
+    "url": "https://www.genesishealth.com/",
+    "categorySlug": "healthcare",
+    "zipCode": "52803"
+  },
+  {
+    "name": "Matthew 25 – Davenport Emergency Shelter",
+    "description": "Emergency shelter and transitional housing services for homeless individuals and families in Davenport and the Quad Cities area.",
+    "address": "1708 N Ripley St, Davenport, IA 52803",
+    "phone": "(563) 323-1282",
+    "url": "https://www.matthew25.org/",
+    "categorySlug": "housing",
+    "zipCode": "52803"
+  },
+  {
+    "name": "River Bend Food Bank",
+    "description": "Regional food bank serving 22 counties in eastern Iowa and western Illinois, distributing food through a network of pantries including Davenport and Scott County.",
+    "address": "4010 Kimmel Dr, Davenport, IA 52802",
+    "phone": "(563) 345-6490",
+    "url": "https://www.riverbendfoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "52802",
+    "additionalZipCodes": [
+      "61244"
+    ]
+  },
+  {
+    "name": "Scott County YWCA – Crisis Services",
+    "description": "Provides emergency shelter, counseling, and advocacy for survivors of domestic violence and sexual assault in Scott County and the Quad Cities.",
+    "address": "229 W 3rd St, Davenport, IA 52801",
+    "phone": "(563) 326-9233",
+    "url": "https://www.ywcaqc.org/",
+    "categorySlug": "housing",
+    "zipCode": "52801"
+  },
+  {
+    "name": "Vera French Community Mental Health Center",
+    "description": "Provides outpatient mental health, substance use treatment, crisis services, and residential programs to adults and children throughout the Quad Cities.",
+    "address": "1441 W Central Park Ave, Davenport, IA 52804",
+    "phone": "(563) 383-1900",
+    "url": "https://www.verafrench.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "52804"
+  },
+  {
+    "name": "Myrtue Medical Center",
+    "description": "Critical access hospital and rural health clinics serving Harlan and Shelby County with emergency, surgical, and primary care services.",
+    "address": "1213 Garfield Ave, Harlan, IA 51537",
+    "phone": "(712) 755-5161",
+    "url": "https://www.myrtue.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "51537"
+  },
+  {
+    "name": "Hawarden Regional Healthcare",
+    "description": "Critical access hospital and clinic serving Hawarden and western Sioux County with emergency, primary, and outpatient health services.",
+    "address": "1111 11th St, Hawarden, IA 51023",
+    "phone": "(712) 551-3100",
+    "url": "https://www.hawardenregionalhealthcare.com/",
+    "categorySlug": "healthcare",
+    "zipCode": "51023"
+  },
+  {
+    "name": "Orange City Area Health System",
+    "description": "Critical access hospital serving Sioux County with emergency care, primary care clinics, and specialty services.",
+    "address": "1000 Lincoln Circle SE, Orange City, IA 51041",
+    "phone": "(712) 737-4984",
+    "url": "https://www.ochealth.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "51041"
+  },
+  {
+    "name": "ACCESS (Ames Community Counseling Services Support)",
+    "description": "Community social services organization in Ames providing emergency assistance, food support, utility aid, and referrals to Story County residents.",
+    "address": "120 S Walnut Ave, Ames, IA 50010",
+    "phone": "(515) 292-5011",
+    "url": "https://www.accessamas.org/",
+    "categorySlug": "community",
+    "zipCode": "50010"
+  },
+  {
+    "name": "Ames Area Food Pantry",
+    "description": "Provides food distributions, fresh produce, and emergency grocery assistance to income-qualifying residents of Ames and Story County.",
+    "address": "122 S Walnut Ave, Ames, IA 50010",
+    "phone": "(515) 292-2240",
+    "url": "https://www.amesfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "50010"
+  },
+  {
+    "name": "Emergency Residence Project (ERP) – Ames",
+    "description": "Provides emergency shelter and transitional housing to homeless men, women, and families in Ames and Story County.",
+    "address": "1420 S Dayton Ave, Ames, IA 50010",
+    "phone": "(515) 232-2420",
+    "url": "https://www.emergenceresidenceproject.org/",
+    "categorySlug": "housing",
+    "zipCode": "50010"
+  },
+  {
+    "name": "Mary Greeley Medical Center",
+    "description": "Regional hospital serving Ames and Story County with emergency, surgical, maternity, and community health services.",
+    "address": "1111 Duff Ave, Ames, IA 50010",
+    "phone": "(515) 239-2011",
+    "url": "https://www.mgmc.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "50010"
+  },
+  {
+    "name": "Story County Community Services",
+    "description": "County-administered program connecting Gilbert, Huxley, Slater, and Story County residents with public assistance, emergency services, and social service referrals.",
+    "address": "900 6th St, Nevada, IA 50201",
+    "phone": "(515) 382-7200",
+    "url": "https://www.storycounty.com/",
+    "categorySlug": "community",
+    "zipCode": "50201"
+  },
+  {
+    "name": "Meskwaki Health Clinic",
+    "description": "Tribal health clinic on the Meskwaki Settlement providing primary care, dental, behavioral health, and community health services to tribal members and the surrounding Tama County area.",
+    "address": "3411 Meskwaki Rd, Tama, IA 52339",
+    "phone": "(641) 484-4094",
+    "url": "https://www.meskwaki.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "52339"
+  },
+  {
+    "name": "Tama County Food Pantry (Toledo)",
+    "description": "Local food pantry serving Toledo, Tama, and Tama County residents with emergency food distributions and household essentials.",
+    "address": "205 S Church St, Toledo, IA 52342",
+    "phone": "(641) 484-5555",
+    "url": "https://www.tamacounty.org/",
+    "categorySlug": "food",
+    "zipCode": "52342"
+  },
+  {
+    "name": "Taylor County Public Health",
+    "description": "County public health department offering WIC, immunizations, home health, and health screenings to residents of Taylor County.",
+    "address": "405 Jefferson St, Bedford, IA 50833",
+    "phone": "(712) 523-3351",
+    "url": "https://www.taylorcountyiowa.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "50833"
+  },
+  {
+    "name": "Alegent Creighton Health – Creston",
+    "description": "Critical access hospital and clinic serving Creston and Union County with emergency, primary, and outpatient health services.",
+    "address": "1200 W Taylor St, Creston, IA 50801",
+    "phone": "(641) 782-7091",
+    "url": "https://www.bestcare.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "50801"
+  },
+  {
+    "name": "Van Buren County Food Pantry (Keosauqua)",
+    "description": "Volunteer-operated food pantry serving Keosauqua, Bonaparte, and Van Buren County with monthly food distributions and emergency assistance.",
+    "address": "410 1st St, Keosauqua, IA 52565",
+    "phone": "(319) 293-3232",
+    "url": "https://www.vanburenicommunity.org/",
+    "categorySlug": "food",
+    "zipCode": "52565"
+  },
+  {
+    "name": "MercyOne Ottumwa Medical Center",
+    "description": "Regional hospital serving Wapello and surrounding counties with emergency, surgical, maternity, and community health services.",
+    "address": "1001 Pennsylvania Ave, Ottumwa, IA 52501",
+    "phone": "(641) 684-2300",
+    "url": "https://www.mercyone.org/ottumwa/",
+    "categorySlug": "healthcare",
+    "zipCode": "52501"
+  },
+  {
+    "name": "Ottumwa Food Pantry",
+    "description": "Local food pantry providing weekly food distributions, emergency groceries, and household items to low-income individuals and families in Ottumwa.",
+    "address": "301 N Jefferson St, Ottumwa, IA 52501",
+    "phone": "(641) 682-4990",
+    "url": "https://www.unitedwaywapello.org/",
+    "categorySlug": "food",
+    "zipCode": "52501"
+  },
+  {
+    "name": "Southeast Iowa Community Action (SEICAC)",
+    "description": "Community action agency serving Van Buren and adjacent southeast Iowa counties with food assistance, energy programs, and family services.",
+    "address": "211 N 4th St, Ottumwa, IA 52501",
+    "phone": "(641) 682-8741",
+    "url": "https://www.seicac.org/",
+    "categorySlug": "community",
+    "zipCode": "52501"
+  },
+  {
+    "name": "Warren County Food Pantry (Indianola)",
+    "description": "Local food pantry serving Indianola and Warren County with emergency food boxes, produce distributions, and household item assistance.",
+    "address": "112 N Buxton St, Indianola, IA 50125",
+    "phone": "(515) 961-5363",
+    "url": "https://www.warrenco.org/",
+    "categorySlug": "food",
+    "zipCode": "50125"
+  },
+  {
+    "name": "Washington County Food Pantry",
+    "description": "Provides emergency food distributions to income-qualifying residents of Washington and surrounding Iowa County communities.",
+    "address": "111 E Main St, Washington, IA 52353",
+    "phone": "(319) 653-7756",
+    "url": "https://www.washingtoncountyiowa.gov/",
+    "categorySlug": "food",
+    "zipCode": "52353"
+  },
+  {
+    "name": "Washington County Hospital and Clinics",
+    "description": "Critical access hospital serving Washington County with emergency care, primary care clinics, and community health programs.",
+    "address": "400 E Polk St, Washington, IA 52353",
+    "phone": "(319) 653-5481",
+    "url": "https://www.wchc.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "52353"
+  },
+  {
+    "name": "Wayne County Public Health",
+    "description": "County health department providing WIC, immunizations, health screenings, and social service referrals to Corydon and Wayne County residents.",
+    "address": "100 E Jefferson St, Corydon, IA 50060",
+    "phone": "(641) 872-2212",
+    "url": "https://www.waynecountyiowa.com/",
+    "categorySlug": "healthcare",
+    "zipCode": "50060"
+  },
+  {
+    "name": "North Central Community Action Program (NCCAP) – Fort Dodge",
+    "description": "Regional community action agency serving Webster County with food pantry, energy assistance, Head Start, and housing support programs.",
+    "address": "415 N 4th St, Fort Dodge, IA 50501",
+    "phone": "(515) 573-2193",
+    "url": "https://www.nccapiowa.org/",
+    "categorySlug": "community",
+    "zipCode": "50501"
+  },
+  {
+    "name": "UnityPoint Health – Trinity Regional Medical Center (Fort Dodge)",
+    "description": "Regional hospital serving Fort Dodge and Webster County with emergency, surgical, behavioral health, and community wellness programs.",
+    "address": "802 Kenyon Rd, Fort Dodge, IA 50501",
+    "phone": "(515) 573-3101",
+    "url": "https://www.unitypoint.org/fortdodge/",
+    "categorySlug": "healthcare",
+    "zipCode": "50501"
+  },
+  {
+    "name": "Winnebago County Hospital",
+    "description": "Critical access hospital serving Forest City and Winnebago County with emergency, primary care, and outpatient health services.",
+    "address": "2001 US Hwy 69, Forest City, IA 50436",
+    "phone": "(641) 585-2150",
+    "url": "https://www.winnebagohospital.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "50436"
+  },
+  {
+    "name": "Northeast Iowa Community Action Corporation (NEICAC)",
+    "description": "Regional community action agency offering food pantry, Head Start, housing counseling, and energy assistance to Allamakee and northeast Iowa counties.",
+    "address": "501 Oak St, Decorah, IA 52101",
+    "phone": "(563) 382-4208",
+    "url": "https://www.neicac.org/",
+    "categorySlug": "community",
+    "zipCode": "52101"
+  },
+  {
+    "name": "Winneshiek Medical Center",
+    "description": "Critical access hospital and rural health clinics serving Decorah and Winneshiek County with emergency, primary, and specialty health care.",
+    "address": "901 Montgomery St, Decorah, IA 52101",
+    "phone": "(563) 382-2911",
+    "url": "https://www.winmedical.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "52101"
+  },
+  {
+    "name": "Catholic Charities Diocese of Sioux City",
+    "description": "Provides emergency food, utility assistance, immigration and refugee services, and counseling to individuals and families in Sioux City and northwest Iowa.",
+    "address": "1825 Jackson St, Sioux City, IA 51105",
+    "phone": "(712) 252-4547",
+    "url": "https://www.catholiccharitiessc.org",
+    "categorySlug": "food",
+    "zipCode": "29526",
+    "additionalZipCodes": [
+      "51105"
+    ]
+  },
+  {
+    "name": "Food Bank of Siouxland",
+    "description": "Regional food bank distributing millions of pounds of food annually to partner agencies across Woodbury County and northwest Iowa.",
+    "address": "1313 11th St, Sioux City, IA 51105",
+    "phone": "(712) 255-9741",
+    "url": "https://www.foodbankofsiouxland.com/",
+    "categorySlug": "food",
+    "zipCode": "51105"
+  },
+  {
+    "name": "MercyOne Siouxland Medical Center",
+    "description": "Regional hospital serving Sioux City and Woodbury County with comprehensive emergency, surgical, oncology, and community health programs.",
+    "address": "801 5th St, Sioux City, IA 51101",
+    "phone": "(712) 279-2010",
+    "url": "https://www.mercyone.org/siouxland/",
+    "categorySlug": "healthcare",
+    "zipCode": "51101"
+  },
+  {
+    "name": "Sioux City Mission",
+    "description": "Emergency shelter, transitional housing, hot meals, and recovery programs for homeless and vulnerable individuals in Sioux City and Woodbury County.",
+    "address": "1118 Wesley Pkwy, Sioux City, IA 51103",
+    "phone": "(712) 258-0491",
+    "url": "https://www.siouxcitymission.org/",
+    "categorySlug": "housing",
+    "zipCode": "51103"
+  },
+  {
+    "name": "Siouxland Community Health Center",
+    "description": "Federally Qualified Health Center providing primary care, dental, behavioral health, and pharmacy services on a sliding-fee scale to underserved residents of Sioux City.",
+    "address": "1021 Nebraska St, Sioux City, IA 51105",
+    "phone": "(712) 234-4031",
+    "url": "https://www.siouxlandhealthcenter.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "51105"
+  },
+  {
+    "name": "Siouxland District Health Department",
+    "description": "Public health agency for Woodbury County providing immunizations, WIC, communicable disease prevention, and community health programs.",
+    "address": "1014 Nebraska St, Sioux City, IA 51105",
+    "phone": "(712) 279-6119",
+    "url": "https://www.siouxlanddistricthealth.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "51105"
+  },
+  {
+    "name": "Worth County Food Pantry (Northwood)",
+    "description": "Local food pantry distributing groceries and emergency food assistance to families in Northwood and Worth County.",
+    "address": "1200 Central Ave, Northwood, IA 50459",
+    "phone": "(641) 324-2012",
+    "url": "https://www.worthcountyiowa.gov/",
+    "categorySlug": "food",
+    "zipCode": "50459"
+  },
+  {
+    "name": "Belmond Medical Center",
+    "description": "Critical access hospital and rural health clinic serving Belmond, Rowan, and northern Wright County with primary and emergency health services.",
+    "address": "403 1st St SE, Belmond, IA 50421",
+    "phone": "(641) 444-4200",
+    "url": "https://www.belmondmedicalcenter.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "50421"
+  }
+]

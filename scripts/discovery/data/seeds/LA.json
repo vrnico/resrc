@@ -1,0 +1,776 @@
+[
+  {
+    "name": "Acadia Parish Office of Economic Stability (DCFS)",
+    "description": "State office providing SNAP food assistance, Medicaid, and family support programs to low-income residents of Acadia Parish.",
+    "address": "600 North Avenue G, Crowley, LA 70526",
+    "phone": "(888) 524-3578",
+    "url": "https://www.dcfs.louisiana.gov/directory/office/31",
+    "categorySlug": "community",
+    "zipCode": "70526"
+  },
+  {
+    "name": "Crowley Housing Authority",
+    "description": "Public housing authority providing affordable housing assistance to low-income residents of Crowley and Acadia Parish through public housing units and Housing Choice Voucher (Section 8) programs.",
+    "address": "200 Westwood Drive, Crowley, LA 70526",
+    "phone": "(337) 783-8521",
+    "url": "https://affordablehousingonline.com/housing-authority/Louisiana/Housing-Authority-of-Crowley/LA029",
+    "categorySlug": "housing",
+    "zipCode": "70526"
+  },
+  {
+    "name": "Ms. Helen's Soup Kitchen",
+    "description": "Free hot meals served to individuals and families experiencing hunger or homelessness in the Crowley area. Open Monday, Wednesday, and Friday.",
+    "address": "117 West 7th Street, Crowley, LA 70526",
+    "phone": "",
+    "url": "https://acadia.macaronikid.com/guides/625600f602c3101285382e0a/acadia-st-landry-food-pantry-guide",
+    "categorySlug": "food",
+    "zipCode": "70526"
+  },
+  {
+    "name": "Allen Action Agency, Inc.",
+    "description": "Community action agency serving low-income families in Allen Parish with programs including LIHEAP energy assistance, weatherization, Head Start, rent and utility assistance, and information and referral services.",
+    "address": "8838 US-165 S, Oberlin, LA 70655",
+    "phone": "(337) 362-9931",
+    "url": "https://allenactionagency.org/",
+    "categorySlug": "community",
+    "zipCode": "70655"
+  },
+  {
+    "name": "Assumption Parish Council on Aging",
+    "description": "Provides services to seniors in Assumption Parish including transportation, home-delivered meals, congregate meals, health screenings, and nutrition education.",
+    "address": "166 Highway 1008, Napoleonville, LA 70390",
+    "phone": "(985) 369-7961",
+    "url": "https://www.assumptionla.com/254/Assumption-Parish-Council-on-Aging",
+    "categorySlug": "community",
+    "zipCode": "70390"
+  },
+  {
+    "name": "Assumption Parish Department of Housing and Community Development",
+    "description": "Parish agency operating a food pantry providing quality food items to households experiencing food insecurity in Assumption Parish. Requires proof of residency and income guidelines. Distributes at multiple sites including Napoleonville Community Center.",
+    "address": "4813 Louisiana 1, Napoleonville, LA 70390",
+    "phone": "(985) 369-2026",
+    "url": "https://www.findhelp.org/provider/assumption-parish---department-of-housing-and-community-development--napoleonville-la/6694830909423616",
+    "categorySlug": "food",
+    "zipCode": "70390"
+  },
+  {
+    "name": "Beauregard Community Action Association, Inc.",
+    "description": "Community action agency providing utility assistance, food programs for seniors and low-income households, and various state and federal assistance programs to Beauregard Parish residents.",
+    "address": "2575 Hwy 190, DeRidder, LA 70634",
+    "phone": "(337) 463-7895",
+    "url": "https://communityactionpartnership.com/stores/beauregard-community-action-association-inc/",
+    "categorySlug": "community",
+    "zipCode": "70634"
+  },
+  {
+    "name": "Beauregard Parish Health Unit",
+    "description": "Louisiana Department of Health public health clinic providing WIC, immunizations, family planning, STI testing, and preventive health services to Beauregard Parish residents.",
+    "address": "216 Evangeline Street, DeRidder, LA 70634",
+    "phone": "(337) 463-4486",
+    "url": "https://ldh.la.gov/directory/beauregard-parish-health-unit",
+    "categorySlug": "healthcare",
+    "zipCode": "70634"
+  },
+  {
+    "name": "Imperial Calcasieu Human Services Authority - DeRidder",
+    "description": "Provides behavioral health, mental health, substance abuse treatment, and developmental disability services to residents of Beauregard Parish and surrounding Southwest Louisiana.",
+    "address": "106 W. Port, DeRidder, LA 70634",
+    "phone": "(337) 462-1641",
+    "url": "https://imcalhsa.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "70634"
+  },
+  {
+    "name": "Food Bank of Northwest Louisiana - Elm Grove Distribution",
+    "description": "Regional Feeding America food bank with a distribution site in Elm Grove serving Bossier Parish and surrounding communities. Fights hunger through food collection and distribution to provide universal access to food for those in need.",
+    "address": "451 Fairview Point Road, Elm Grove, LA 71051",
+    "phone": "(318) 675-2400",
+    "url": "https://www.foodbanknla.org/",
+    "categorySlug": "food",
+    "zipCode": "71051"
+  },
+  {
+    "name": "Caddo Council on Aging",
+    "description": "Provides senior services including food boxes, home-delivered meals, and support services to elderly residents of Caddo Parish, including the Oil City area.",
+    "address": "2700 Greenwood Road, Shreveport, LA 71109",
+    "phone": "(318) 676-7900",
+    "url": "https://caddocoa.org/",
+    "categorySlug": "community",
+    "zipCode": "71109"
+  },
+  {
+    "name": "Shreveport-Bossier Rescue Mission",
+    "description": "Emergency shelter and comprehensive social services for homeless men, women, and families in the Shreveport-Bossier area. Provides meals, shelter, addiction recovery, vocational training, and free medical and dental care.",
+    "address": "901 McNeil Street, Shreveport, LA 71101",
+    "phone": "(318) 227-2868",
+    "url": "https://www.sbrescuemission.com/",
+    "categorySlug": "housing",
+    "zipCode": "71101"
+  },
+  {
+    "name": "The Salvation Army of Northwest Louisiana",
+    "description": "Social services agency providing food pantry, emergency shelter through the Merkle Center of Hope, disaster services, and assistance to homeless and low-income residents of Bossier and Caddo parishes.",
+    "address": "200 E. Stoner Ave., Shreveport, LA 71101",
+    "phone": "(318) 424-3200",
+    "url": "https://southernusa.salvationarmy.org/ala-lou-mis/shreveport/",
+    "categorySlug": "community",
+    "zipCode": "71101"
+  },
+  {
+    "name": "Abraham's Tent",
+    "description": "Provides nutritious hot meals, clothing, bedding, baby supplies, personal hygiene items, and free laundry and shower facilities to homeless, unemployed, and low-income individuals and families in Calcasieu Parish. Serves over 93,000 meals per year.",
+    "address": "2424 Fruge Street, Lake Charles, LA 70601",
+    "phone": "(337) 439-9330",
+    "url": "https://www.homelessshelterdirectory.org/shelter/la_abrahams-tent",
+    "categorySlug": "food",
+    "zipCode": "70601"
+  },
+  {
+    "name": "Catholic Charities of Southwest Louisiana",
+    "description": "Provides food distribution, emergency rental and utility assistance, housing support, and homeless outreach to residents across southwest Louisiana including Allen Parish.",
+    "address": "1225 2nd Street, Lake Charles, LA 70601",
+    "phone": "(337) 438-6350",
+    "url": "https://catholiccharitiesswla.com/",
+    "categorySlug": "community",
+    "zipCode": "70601"
+  },
+  {
+    "name": "Manna Ministries Lake Charles",
+    "description": "Faith-based food pantry serving low-income residents of Lake Charles and surrounding zip codes. Provides free groceries each Wednesday, founded jointly by St. Luke Simpson United Methodist Church and St. Martin dePorres Catholic Church in 2003.",
+    "address": "1500 Country Club Road, Lake Charles, LA 70605",
+    "phone": "(337) 802-1166",
+    "url": "https://mannaministrieslakecharlesinc.com/",
+    "categorySlug": "food",
+    "zipCode": "70605"
+  },
+  {
+    "name": "Caldwell Council on Aging",
+    "description": "Provides elderly services to residents 60 and older in Caldwell Parish including home-delivered meals, transportation, and coordination of senior support services.",
+    "address": "307 Main Street, Columbia, LA 71418",
+    "phone": "(318) 649-2584",
+    "url": "https://caldwellcoa.org/",
+    "categorySlug": "community",
+    "zipCode": "71418"
+  },
+  {
+    "name": "First United Methodist Church of Columbia - Giving Spirit Food Pantry",
+    "description": "Community food pantry providing needy families with groceries, allowing clients to select food that meets their needs. Serves Caldwell Parish and surrounding northeast Louisiana parishes, open Monday through Friday.",
+    "address": "501 Church Street, Columbia, LA 71418",
+    "phone": "(318) 649-2173",
+    "url": "https://www.findhelp.org/first-united-methodist-church-of-columbia--columbia-la--giving-spirit-food-pantry/6441579144806400",
+    "categorySlug": "food",
+    "zipCode": "71418"
+  },
+  {
+    "name": "Claiborne Parish Council on Aging",
+    "description": "Provides programs and services to residents 60 and older in Claiborne Parish including congregate meals, home-delivered meals, transportation, and wellness activities promoting independence.",
+    "address": "608 E 4th St, Homer, LA 71040",
+    "phone": "(318) 927-6922",
+    "url": "https://claibornecoa.org/",
+    "categorySlug": "community",
+    "zipCode": "71040"
+  },
+  {
+    "name": "DeSoto Council on Aging",
+    "description": "Provides home-delivered meals, center-based meals, homemaker services, transportation, respite care, and legal consultation to elderly residents of De Soto Parish.",
+    "address": "404 Polk Street Suite A, Mansfield, LA 71052",
+    "phone": "(318) 872-3700",
+    "url": "http://www.desotocouncilonaging.com/",
+    "categorySlug": "community",
+    "zipCode": "71052"
+  },
+  {
+    "name": "DeSoto Parish Office of Community Services",
+    "description": "Parish government agency providing emergency food, shelter, utility and rent assistance, weatherization, clothing, counseling, Section 8 housing, and veterans' services to low-income households in De Soto Parish.",
+    "address": "404-B Polk Street, Mansfield, LA 71052",
+    "phone": "(318) 872-0880",
+    "url": "https://desotoppj.com/departments/office_of_community_services/index.php",
+    "categorySlug": "community",
+    "zipCode": "71052"
+  },
+  {
+    "name": "Capital Area Alliance for the Homeless - One Stop Services Center",
+    "description": "Comprehensive homeless services center in Baton Rouge providing case management, housing navigation, daily showers and laundry, legal aid, medical care, life skills classes, and veterans' services, open Monday through Friday.",
+    "address": "910 North 22nd Street, Baton Rouge, LA 70802",
+    "phone": "(225) 344-4232",
+    "url": "https://capital-area-alliance-for-the-homeless.com-place.com/",
+    "categorySlug": "housing",
+    "zipCode": "70802"
+  },
+  {
+    "name": "Capital Area Human Services District",
+    "description": "State agency providing outpatient mental health, substance abuse treatment, addictions recovery, and co-occurring disorder services to adults and youth in East Baton Rouge and surrounding parishes.",
+    "address": "4615 Government Street, Baton Rouge, LA 70806",
+    "phone": "(225) 925-1905",
+    "url": "https://cahsd.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "70806"
+  },
+  {
+    "name": "Greater Baton Rouge Food Bank",
+    "description": "Feeds 7,300 people daily through 100+ agency partners across East Baton Rouge and surrounding parishes. Distributes over 12.5 million pounds of food annually through faith-based and community partners including northeast Baton Rouge.",
+    "address": "10600 S. Choctaw Drive, Baton Rouge, LA 70815",
+    "phone": "(225) 359-9940",
+    "url": "https://brfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "70814"
+  },
+  {
+    "name": "Streams of Life",
+    "description": "Outreach ministry distributing food, clothing, and household items to nonprofits and directly to individuals in need across Baton Rouge, including single mothers, mentally handicapped adults, veterans, and inner-city school children.",
+    "address": "8852 Greenwell Springs Rd, Baton Rouge, LA 70814",
+    "phone": "(225) 771-8830",
+    "url": "https://www.foodpantries.org/li/streams-of-life",
+    "categorySlug": "food",
+    "zipCode": "70814"
+  },
+  {
+    "name": "East Feliciana Council on Aging",
+    "description": "Provides home-delivered meals, congregate meals, transportation to medical appointments, wellness programs, and emergency response services to seniors in East Feliciana Parish including the Slaughter area.",
+    "address": "11102 Bank Street, Clinton, LA 70722",
+    "phone": "(225) 683-9862",
+    "url": "https://cajunaaa.org/directories/east-feliciana-council-on-aging/",
+    "categorySlug": "community",
+    "zipCode": "70777"
+  },
+  {
+    "name": "Louisiana Department of Health - East Feliciana Parish Health Unit",
+    "description": "Public health clinic providing WIC, immunizations, family planning, STI testing, and other preventive health services to residents of East Feliciana Parish.",
+    "address": "12476 Feliciana Drive, Clinton, LA 70722",
+    "phone": "(225) 683-8355",
+    "url": "https://ldh.la.gov/index.cfm/directory/detail/14550/catid/413",
+    "categorySlug": "healthcare",
+    "zipCode": "70777"
+  },
+  {
+    "name": "Grant Parish Department of Social Services",
+    "description": "Louisiana state office providing public assistance programs including SNAP, Medicaid, and TANF to low-income residents of Grant Parish.",
+    "address": "300 Main St, Colfax, LA 71417",
+    "phone": "(318) 627-9920",
+    "url": "https://www.dcfs.louisiana.gov",
+    "categorySlug": "community",
+    "zipCode": "71417"
+  },
+  {
+    "name": "Iberville Parish Health Unit",
+    "description": "Louisiana Department of Health unit offering immunizations, family planning, WIC nutrition benefits, STD testing, and tuberculosis follow-up care for Iberville Parish residents.",
+    "address": "24705 Plaza Dr, Plaquemine, LA 70764",
+    "phone": "(225) 687-9021",
+    "url": "https://ldh.la.gov/directory/iberville-parish-health-unit",
+    "categorySlug": "healthcare",
+    "zipCode": "70772"
+  },
+  {
+    "name": "North Iberville Community Center Food Pantry",
+    "description": "Community center operating a monthly food distribution site serving low-income families in the Rosedale and north Iberville Parish area, partnering with Greater Baton Rouge Food Bank.",
+    "address": "75700 Rosedale Rd, Rosedale, LA 70772",
+    "phone": "(225) 648-3064",
+    "url": "https://ibervilleparish.com/community-services-2/",
+    "categorySlug": "food",
+    "zipCode": "70772"
+  },
+  {
+    "name": "Jefferson Parish Department of Community Development",
+    "description": "Jefferson Parish government office coordinating social services, housing assistance, and community development programs for low-income residents throughout the parish including River Ridge and Harahan.",
+    "address": "1221 Elmwood Park Blvd, Suite 402, Jefferson, LA 70123",
+    "phone": "(504) 349-5454",
+    "url": "https://www.jeffparish.gov/",
+    "categorySlug": "community",
+    "zipCode": "70123"
+  },
+  {
+    "name": "Jefferson Parish Health Unit – Metairie",
+    "description": "Louisiana Department of Health public health unit offering family planning, immunizations, WIC nutrition program, pregnancy testing, STD testing, and tuberculosis screening for Jefferson Parish residents.",
+    "address": "111 N Causeway Blvd, Metairie, LA 70001",
+    "phone": "(504) 838-5100",
+    "url": "https://ldh.la.gov/directory/jefferson-parish-health-unit-metairie",
+    "categorySlug": "healthcare",
+    "zipCode": "70001"
+  },
+  {
+    "name": "Jefferson Parish Human Services Authority (JPHSA)",
+    "description": "Provides behavioral health, developmental disabilities services, and primary care through the JeffCare Health Center to Jefferson Parish residents. Sliding-scale and low-cost health services available.",
+    "address": "3616 S I-10 Service Rd W, Suite 100, Metairie, LA 70001",
+    "phone": "(504) 838-5257",
+    "url": "https://www.jphsa.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "70001"
+  },
+  {
+    "name": "Second Harvest Food Bank of Greater New Orleans and Acadiana",
+    "description": "Largest anti-hunger network in south Louisiana, serving Assumption Parish through 700+ community partner agencies. Distributes over 32 million meals annually to 210,000+ people across 23 parishes.",
+    "address": "700 Edwards Ave., New Orleans, LA 70123",
+    "phone": "(504) 734-1322",
+    "url": "https://no-hunger.org/",
+    "categorySlug": "food",
+    "zipCode": "70123"
+  },
+  {
+    "name": "St. Edward the Confessor Society of St. Vincent de Paul Food Pantry",
+    "description": "Monthly food pantry serving Metairie residents, operated by the Society of St. Vincent de Paul and partnering with Second Harvest Food Bank of Greater New Orleans. Emergency food assistance also available weekdays.",
+    "address": "4921 W Metairie Ave, Metairie, LA 70001",
+    "phone": "(504) 888-0703",
+    "url": "https://www.steddy.org/st-vincent-de-paul-society",
+    "categorySlug": "food",
+    "zipCode": "70001"
+  },
+  {
+    "name": "St. Rita of Cascia Parish Food Pantry",
+    "description": "Weekly food pantry serving Harahan and the Elmwood area of Jefferson Parish, open each Thursday. Operated in partnership with Second Harvest Food Bank of Greater New Orleans.",
+    "address": "375 Oak St, Harahan, LA 70123",
+    "phone": "(504) 737-2915",
+    "url": "https://stritaharahan.com/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "70123"
+  },
+  {
+    "name": "Catholic Charities of Acadiana - FoodNet Food Bank",
+    "description": "Regional food bank and pantry network serving low-income individuals and families across Acadiana, including Acadia Parish. Provides emergency food assistance and referrals through partner pantries.",
+    "address": "600 N. Jefferson St., Lafayette, LA 70501",
+    "phone": "(337) 232-4353",
+    "url": "https://catholiccharitiesacadiana.org/foodnet",
+    "categorySlug": "food",
+    "zipCode": "70501"
+  },
+  {
+    "name": "Lafayette Parish Health Unit",
+    "description": "Louisiana Department of Health unit offering WIC nutrition program, immunizations, family planning, STD testing, and public health services for Lafayette Parish residents including those in the Milton area.",
+    "address": "220 W Willow St, Lafayette, LA 70501",
+    "phone": "(337) 262-5616",
+    "url": "https://ldh.la.gov/index.cfm/directory/detail/4807",
+    "categorySlug": "healthcare",
+    "zipCode": "70501"
+  },
+  {
+    "name": "SMILE Community Action Agency",
+    "description": "Community action agency serving Lafayette Parish with homeless shelter support, transportation, Medicaid enrollment, housing counseling, and emergency rent, mortgage, and utility assistance.",
+    "address": "600 Dulles Dr, Lafayette, LA 70506",
+    "phone": "(337) 235-6848",
+    "url": "https://www.smilecaa.org/",
+    "categorySlug": "housing",
+    "zipCode": "70506"
+  },
+  {
+    "name": "St. Bernadette's Free Medical Clinic",
+    "description": "Free clinic providing acute non-emergency medical care for uninsured and underinsured Lafayette Parish residents, with limited dental services available.",
+    "address": "1021 Camellia Blvd, Lafayette, LA 70508",
+    "phone": "(337) 470-3460",
+    "url": "https://www.findhelp.org/food/food-pantry--lafayette-la",
+    "categorySlug": "healthcare",
+    "zipCode": "70508"
+  },
+  {
+    "name": "Humanitarian Enterprises of Lincoln Parish (H.E.L.P.)",
+    "description": "Community action agency providing emergency utility assistance, food commodity boxes for seniors, rent and mortgage assistance, and social service referrals to low-income Lincoln Parish residents.",
+    "address": "307 N Homer St, 2nd Floor, Ruston, LA 71270",
+    "phone": "(318) 251-5136",
+    "url": "https://www.lincolnparish.org/help",
+    "categorySlug": "community",
+    "zipCode": "71270"
+  },
+  {
+    "name": "Lincoln Community Health Center",
+    "description": "Federally Qualified Health Center (FQHC) offering family medicine, dentistry, behavioral health, and sliding-scale primary care services to uninsured and underinsured Lincoln Parish residents.",
+    "address": "1140 S Vienna St, Ruston, LA 71270",
+    "phone": "(318) 224-7190",
+    "url": "https://ldh.la.gov/directory/detail/14795",
+    "categorySlug": "healthcare",
+    "zipCode": "71270"
+  },
+  {
+    "name": "Lincoln Parish Health Unit",
+    "description": "Louisiana Department of Health public health unit in Ruston providing WIC nutrition benefits, immunizations, family planning, and TB follow-up care for Lincoln Parish residents.",
+    "address": "316 Mills Ave, Suite B, Ruston, LA 71270",
+    "phone": "(318) 251-4120",
+    "url": "https://ldh.la.gov/directory/lincoln-parish-health-unit",
+    "categorySlug": "healthcare",
+    "zipCode": "71270"
+  },
+  {
+    "name": "Rolling Hills Ministries",
+    "description": "Faith-based nonprofit in Ruston providing food assistance, emergency aid, and community support services to individuals and families in Lincoln Parish.",
+    "address": "P.O. Box 1177, Ruston, LA 71270",
+    "phone": "(318) 251-0065",
+    "url": "https://rollinghillsministries.com/get-help/",
+    "categorySlug": "food",
+    "zipCode": "71270"
+  },
+  {
+    "name": "Care & Hope Ministry Food Pantry",
+    "description": "Food pantry serving low-income Morehouse Parish residents three days per week, requiring proof of residency. Operated out of Faith Baptist Church in Bastrop and partnering with the Food Bank of Northeast Louisiana.",
+    "address": "2038 E Madison Ave, Bastrop, LA 71220",
+    "phone": "(318) 239-3484",
+    "url": "https://foodbanknela.org/rural-hunger/",
+    "categorySlug": "food",
+    "zipCode": "71220"
+  },
+  {
+    "name": "Louisiana Department of Children and Family Services – Morehouse Parish",
+    "description": "State office administering SNAP food benefits, Medicaid, TANF cash assistance, and child welfare services for Morehouse Parish residents including the Jones area.",
+    "address": "1045 E Madison Ave, Bastrop, LA 71220",
+    "phone": "(318) 283-0820",
+    "url": "https://www.dcfs.louisiana.gov/directory/office/119",
+    "categorySlug": "community",
+    "zipCode": "71220"
+  },
+  {
+    "name": "Morehouse Parish Health Unit",
+    "description": "Louisiana Department of Health unit in Bastrop providing WIC nutrition counseling and food benefits, immunizations, and public health services to Morehouse Parish residents.",
+    "address": "650 School Rd, Bastrop, LA 71220",
+    "phone": "(318) 283-0806",
+    "url": "https://ldh.la.gov/",
+    "categorySlug": "healthcare",
+    "zipCode": "71220"
+  },
+  {
+    "name": "Cane River Food Pantry",
+    "description": "Community food pantry in Natchitoches distributing food boxes to Natchitoches Parish residents on the second Saturday of each month. Serves as a partner agency of the Food Bank of Central Louisiana.",
+    "address": "446 Martin Luther King Dr, Natchitoches, LA 71457",
+    "phone": "(318) 357-8296",
+    "url": "https://caneriverfoodpantry.weebly.com/",
+    "categorySlug": "food",
+    "zipCode": "71457"
+  },
+  {
+    "name": "Natchitoches Parish Health Unit",
+    "description": "Louisiana Department of Health unit offering WIC nutrition program, immunizations, family planning, and public health services to residents of Natchitoches Parish including the Robeline area.",
+    "address": "1118 Wellington Dr, Natchitoches, LA 71457",
+    "phone": "(318) 357-3132",
+    "url": "https://ldh.la.gov/directory/natchitoches-parish-health-unit",
+    "categorySlug": "healthcare",
+    "zipCode": "71457"
+  },
+  {
+    "name": "Natchitoches Parish Office of Community Services (OCS)",
+    "description": "Parish government office dedicated to improving quality of life for low-income and disadvantaged Natchitoches Parish residents, providing food assistance, utility help, and social service referrals.",
+    "address": "700 Trudeau St, Natchitoches, LA 71457",
+    "phone": "(318) 357-2220",
+    "url": "https://npgov.org/ocs/",
+    "categorySlug": "community",
+    "zipCode": "71457"
+  },
+  {
+    "name": "Catholic Charities Archdiocese of New Orleans",
+    "description": "Provides homeless services, permanent supportive housing, case management, and emergency assistance for individuals and families in Jefferson Parish and the greater New Orleans area.",
+    "address": "1000 Howard Ave, New Orleans, LA 70113",
+    "phone": "(504) 523-3755",
+    "url": "https://www.ccano.org/homeless-services/",
+    "categorySlug": "housing",
+    "zipCode": "70113"
+  },
+  {
+    "name": "Catholic Charities Archdiocese of New Orleans",
+    "description": "Provides homeless services, emergency shelter, permanent supportive housing, case management, and community assistance programs to individuals and families across Orleans Parish including New Orleans East.",
+    "address": "1000 Howard Ave, New Orleans, LA 70113",
+    "phone": "(504) 523-3755",
+    "url": "https://www.ccano.org/",
+    "categorySlug": "housing",
+    "zipCode": "70113"
+  },
+  {
+    "name": "NOELA Community Health Center",
+    "description": "New Orleans East's first Patient Centered Medical Home (FQHC), providing primary care, preventive services, and chronic disease management to uninsured and underinsured residents of eastern New Orleans.",
+    "address": "13085 Chef Menteur Hwy, New Orleans, LA 70129",
+    "phone": "(504) 255-8665",
+    "url": "https://www.noelachc.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "70129"
+  },
+  {
+    "name": "Food Bank of Northeast Louisiana",
+    "description": "Regional Feeding America food bank distributing food to nearly 30,000 people monthly through a network of 50+ partner agencies in 12 parishes including Caldwell. Mobile pantry and agency distribution serves Columbia-area residents.",
+    "address": "4600 Central Ave., Monroe, LA 71203",
+    "phone": "(318) 322-3567",
+    "url": "https://foodbanknela.org/",
+    "categorySlug": "food",
+    "zipCode": "71203"
+  },
+  {
+    "name": "Pilgrim Rest Community Development Agency",
+    "description": "Community food pantry in Buras serving lower Plaquemines Parish residents with regular food distribution Monday through Wednesday mornings and emergency food assistance.",
+    "address": "33800 Parish Road 11, Buras, LA 70041",
+    "phone": "(504) 394-1123",
+    "url": "https://www.findhelp.org/provider/plaquemines-parish-community-action-agency--belle-chasse-la/5152612984553472?postal=70041",
+    "categorySlug": "food",
+    "zipCode": "70041"
+  },
+  {
+    "name": "Plaquemines Parish Community Action Agency",
+    "description": "Parish community action agency providing emergency food boxes, LIHEAP utility assistance, and other anti-poverty services to income-eligible families throughout Plaquemines Parish including the Buras area.",
+    "address": "479 F. Edward Hebert Blvd, Belle Chasse, LA 70037",
+    "phone": "(504) 934-6940",
+    "url": "https://www.plaqueminesparish.gov/322/Community-Action-Agency",
+    "categorySlug": "community",
+    "zipCode": "70037"
+  },
+  {
+    "name": "Pointe Coupee Community Advancement, Inc.",
+    "description": "Community action agency in New Roads providing social services, utility assistance, emergency food referrals, and public assistance navigation to low-income Pointe Coupee Parish residents.",
+    "address": "128 Poydras St, Suite A, New Roads, LA 70760",
+    "phone": "(225) 638-6356",
+    "url": "https://ldh.la.gov/directory/pointe-coupee-community-advancement-inc",
+    "categorySlug": "community",
+    "zipCode": "70760"
+  },
+  {
+    "name": "Pointe Coupee Outreach Center",
+    "description": "Nonprofit outreach organization in New Roads providing food assistance, community support, and referrals to social services for Pointe Coupee Parish residents including those in the Lottie area.",
+    "address": "8404 Mandela Dr, New Roads, LA 70760",
+    "phone": "(225) 638-4663",
+    "url": "https://ldh.la.gov/directory/detail/18748",
+    "categorySlug": "community",
+    "zipCode": "70760"
+  },
+  {
+    "name": "Acadiana House",
+    "description": "Louisiana Department of Health intermediate care facility in Boyce providing residential support and services for individuals with intellectual disabilities in the Rapides Parish area.",
+    "address": "1801 Huie-Dellmon Ave, Boyce, LA 71409",
+    "phone": "(318) 445-6443",
+    "url": "https://ldh.la.gov/directory/detail/14700",
+    "categorySlug": "community",
+    "zipCode": "71409"
+  },
+  {
+    "name": "Rapides Parish Housing Authority",
+    "description": "Public housing authority providing affordable rental units and Section 8 Housing Choice Vouchers to very low-income families, elderly, and persons with disabilities in Rapides Parish, with offices in Boyce.",
+    "address": "119 Boyce Garden Dr, Boyce, LA 71409",
+    "phone": "(318) 793-4751",
+    "url": "https://rapidespha.org/",
+    "categorySlug": "housing",
+    "zipCode": "71409"
+  },
+  {
+    "name": "The Food Bank of Central Louisiana",
+    "description": "Feeding America member food bank distributing more than six million pounds of food annually across 11 central Louisiana parishes including Grant Parish. Connects residents to food pantries, senior programs, and emergency food assistance.",
+    "address": "3223 Baldwin Ave, Alexandria, LA 71301",
+    "phone": "(318) 445-2773",
+    "url": "https://www.fbcenla.org/agency/grant-parish",
+    "categorySlug": "food",
+    "zipCode": "71301"
+  },
+  {
+    "name": "The Food Bank of Central Louisiana",
+    "description": "Feeding America member food bank serving Rapides Parish and 10 other central Louisiana parishes. Connects Boyce-area residents to local food pantry partner agencies and emergency food assistance.",
+    "address": "3223 Baldwin Ave, Alexandria, LA 71301",
+    "phone": "(318) 445-2773",
+    "url": "https://www.fbcenla.org/agency/rapides-parish",
+    "categorySlug": "food",
+    "zipCode": "71301"
+  },
+  {
+    "name": "The Food Bank of Central Louisiana",
+    "description": "Regional food bank distributing food through partner agencies and a mobile pantry program across 11 parishes including Allen Parish. Brings food directly to communities lacking local pantry access.",
+    "address": "2329 N. Bolton Ave., Alexandria, LA 71303",
+    "phone": "(318) 445-2773",
+    "url": "https://www.fbcenla.org/",
+    "categorySlug": "food",
+    "zipCode": "71303"
+  },
+  {
+    "name": "The Food Bank of Central Louisiana",
+    "description": "Feeding America member food bank serving 11 central Louisiana parishes including Natchitoches Parish. Connects rural residents in Robeline and surrounding communities to food pantry resources.",
+    "address": "3223 Baldwin Ave, Alexandria, LA 71301",
+    "phone": "(318) 445-2773",
+    "url": "https://www.fbcenla.org/agency/natchitoches-parish",
+    "categorySlug": "food",
+    "zipCode": "71301"
+  },
+  {
+    "name": "Richland Voluntary Council on Aging",
+    "description": "Nonprofit providing congregate and home-delivered meals, transportation to medical appointments and errands, and social activities for seniors age 60 and older in Richland Parish.",
+    "address": "414 Harrison St, Rayville, LA 71269",
+    "phone": "(318) 728-2646",
+    "url": "https://www.richlandcoa.com/",
+    "categorySlug": "community",
+    "zipCode": "71269"
+  },
+  {
+    "name": "St. Charles Community Health Center – Luling",
+    "description": "Federally Qualified Health Center offering adult and pediatric primary care, behavioral health, dental care, and WIC services to patients of all ages, including those without insurance.",
+    "address": "843 Milling Ave, Luling, LA 70070",
+    "phone": "(985) 785-5800",
+    "url": "https://accesshealthla.org/location/st-charles-luling/",
+    "categorySlug": "healthcare",
+    "zipCode": "70070"
+  },
+  {
+    "name": "St. Charles Parish Department of Community Services",
+    "description": "Community action agency providing emergency assistance with food, medicine, clothing, and temporary shelter or rent for low-income and unemployed families, along with referrals to other social service agencies.",
+    "address": "1471 WPA Rd, Des Allemands, LA 70030",
+    "phone": "(985) 758-7427",
+    "url": "https://www.stcharlesparish.gov/departments/community-services/programs-and-services",
+    "categorySlug": "community",
+    "zipCode": "70030"
+  },
+  {
+    "name": "St. James Parish Health Unit",
+    "description": "Louisiana Department of Health facility providing public health services including immunizations, WIC, family planning, and communicable disease prevention to residents of St. James Parish.",
+    "address": "29170 Health Unit Street, Vacherie, LA 70090",
+    "phone": "(225) 265-2181",
+    "url": "https://ldh.la.gov/directory/st-james-parish-health-unit",
+    "categorySlug": "healthcare",
+    "zipCode": "70090"
+  },
+  {
+    "name": "St. James Parish Human Resources – Vacherie Senior Center",
+    "description": "Parish government senior center providing meals, recreation, and social services to older adults in the Vacherie area, with connections to emergency assistance programs through St. James Parish Human Resources.",
+    "address": "29166 Health Unit Street, Vacherie, LA 70090",
+    "phone": "(225) 315-9639",
+    "url": "https://www.findhelp.org/st-james-parish---human-resources,-community-action-agency--convent-la--emergency-assistance/6736539918532608?postal=70090",
+    "categorySlug": "community",
+    "zipCode": "70090"
+  },
+  {
+    "name": "St. Landry Parish Community Action Agency",
+    "description": "Community action agency serving St. Landry Parish residents with general assistance, food distribution, Low Income Home Energy Assistance (LIHEAP), and childcare assistance programs.",
+    "address": "1065 Highway 749, Suite E, Opelousas, LA 70570",
+    "phone": "(337) 948-3651",
+    "url": "https://stlandrypg.org/departments/community-action-agency/",
+    "categorySlug": "community",
+    "zipCode": "70570"
+  },
+  {
+    "name": "Bayou Bend Health System",
+    "description": "Critical Access Hospital providing a broad spectrum of medical services to St. Mary Parish residents, including emergency care, inpatient services, and outpatient care.",
+    "address": "1097 Northwest Blvd, Franklin, LA 70538",
+    "phone": "(337) 828-0760",
+    "url": "https://www.bayoubendhealth.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "70538"
+  },
+  {
+    "name": "St. Mary Community Action Agency",
+    "description": "Community action agency providing emergency assistance, food distribution, energy assistance, and weatherization services to low-income households throughout St. Mary Parish.",
+    "address": "1407 Barrow St, Franklin, LA 70538",
+    "phone": "(337) 828-5703",
+    "url": "https://stmarycaa.org/",
+    "categorySlug": "community",
+    "zipCode": "70538"
+  },
+  {
+    "name": "St. Mary Council on Aging",
+    "description": "Nonprofit serving adults age 60 and older in St. Mary Parish with home-delivered meals, meal site programs, transportation to medical appointments, homemaker services, and Medicaid enrollment assistance.",
+    "address": "302 Iberia St, Franklin, LA 70538",
+    "phone": "(337) 828-1210",
+    "url": "https://stmarycouncilonaging.org/",
+    "categorySlug": "community",
+    "zipCode": "70538"
+  },
+  {
+    "name": "Community Christian Concern of Slidell",
+    "description": "Centralized assistance nonprofit providing food, clothing, and shelter to individuals in crisis; operates the only transitional housing program for homeless men in St. Tammany Parish as well as a food pantry.",
+    "address": "2515 Carey St, Slidell, LA 70458",
+    "phone": "(985) 646-0357",
+    "url": "https://www.cccslidell.org/",
+    "categorySlug": "housing",
+    "zipCode": "70458"
+  },
+  {
+    "name": "North Shore Food Bank",
+    "description": "Nonprofit food bank serving St. Tammany and surrounding parishes, distributing food directly to families in need through its Covington facility and school-based feeding programs.",
+    "address": "125 W. 30th Ave, Covington, LA 70433",
+    "phone": "(985) 893-3003",
+    "url": "https://northshorefoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "70433"
+  },
+  {
+    "name": "St. Tammany Parish Community Action Agency",
+    "description": "Parish government agency offering emergency rental and mortgage assistance, utility bill assistance (LIHEAP), SNAP enrollment, childcare subsidy applications, and other social services to low-income St. Tammany residents.",
+    "address": "620 N. Tyler St, Covington, LA 70433",
+    "phone": "(985) 893-3923",
+    "url": "https://www.stpgov.org/departments/health___human_services/caa.php",
+    "categorySlug": "community",
+    "zipCode": "70433"
+  },
+  {
+    "name": "The Samaritan Center",
+    "description": "Christian nonprofit food bank and assistance center based in West St. Tammany Parish, partnering with Second Harvest Food Bank to provide groceries and emergency aid to families in need.",
+    "address": "402 Girod St, Mandeville, LA 70448",
+    "phone": "(985) 626-4457",
+    "url": "https://www.samcen.org/",
+    "categorySlug": "food",
+    "zipCode": "70448"
+  },
+  {
+    "name": "Our Daily Bread Food Bank",
+    "description": "Food bank serving Tangipahoa Parish with direct food distribution on Tuesdays and Thursdays and 27 satellite pantry locations from Kentwood to Ponchatoula where qualified clients can pick up food boxes.",
+    "address": "1006 West Coleman Ave, Hammond, LA 70403",
+    "phone": "(985) 542-4676",
+    "url": "https://www.ourdailybreadhammond.org/",
+    "categorySlug": "food",
+    "zipCode": "70403"
+  },
+  {
+    "name": "Quad Area Community Action Agency",
+    "description": "Multi-parish community action agency providing LIHEAP energy assistance, emergency financial aid for rent and utilities, Head Start, YouthBuild job training, and weatherization services to low-income residents of Tangipahoa and surrounding parishes.",
+    "address": "45300 N. Baptist Rd, Hammond, LA 70401",
+    "phone": "(225) 567-2350",
+    "url": "http://www.quadarea.org/",
+    "categorySlug": "community",
+    "zipCode": "70466"
+  },
+  {
+    "name": "Union Community Action Association",
+    "description": "Community action agency administering LIHEAP energy assistance, Community Services Block Grant programs, and emergency services to low-income households in Union and Morehouse Parishes.",
+    "address": "202 E Water St, Farmerville, LA 71241",
+    "phone": "(318) 368-9606",
+    "url": "https://www.ucaa.us/",
+    "categorySlug": "community",
+    "zipCode": "71241"
+  },
+  {
+    "name": "Vernon Community Action Council",
+    "description": "Community action agency providing emergency family services, energy assistance, and social support programs to low-income residents throughout Vernon Parish including the Rosepine area.",
+    "address": "12286 Lake Charles Hwy, Leesville, LA 71446",
+    "phone": "(337) 404-7710",
+    "url": "https://www.findhelp.org/vernon-community-action-council--leesville-la--family-services/5037909778628608",
+    "categorySlug": "community",
+    "zipCode": "70659"
+  },
+  {
+    "name": "Vernon Parish Community Health Center",
+    "description": "Federally Qualified Health Center providing primary care, preventive services, and other health services on a sliding-fee scale to all Vernon Parish residents regardless of ability to pay.",
+    "address": "298 Nolan Trace Pkwy, Leesville, LA 71446",
+    "phone": "(337) 365-4945",
+    "url": "https://ldh.la.gov/directory/detail/19450",
+    "categorySlug": "healthcare",
+    "zipCode": "71446"
+  },
+  {
+    "name": "Joe LeBlanc Food Pantry",
+    "description": "Food pantry providing monthly food assistance and emergency food to Webster Parish families living below USDA poverty guidelines, with regular distribution on the third Saturday of each month and weekday hours.",
+    "address": "814 Constable St, Minden, LA 71055",
+    "phone": "(318) 299-6375",
+    "url": "https://www.joeleblancfoodpantry.com/",
+    "categorySlug": "food",
+    "zipCode": "71055"
+  },
+  {
+    "name": "Webster Parish Council on Aging",
+    "description": "Nonprofit providing transportation, home-delivered meals, and social services to Webster Parish residents age 60 and older, helping seniors age in place with independence and dignity.",
+    "address": "316 McIntyre St, Minden, LA 71055",
+    "phone": "(318) 371-3056",
+    "url": "https://webstercoa.com/",
+    "categorySlug": "community",
+    "zipCode": "71055"
+  },
+  {
+    "name": "West Feliciana Food Pantry",
+    "description": "Food pantry affiliated with the Greater Baton Rouge Food Bank, serving approximately 375 families in West Feliciana Parish with food distribution on the first and third Thursday of each month.",
+    "address": "PO Box 1357, St. Francisville, LA 70775",
+    "phone": "",
+    "url": "https://www.facebook.com/p/West-Feliciana-Food-Pantry-100064627181990/",
+    "categorySlug": "food",
+    "zipCode": "70775"
+  },
+  {
+    "name": "West Feliciana Parish Hospital – Social Services",
+    "description": "Hospital-based social services department providing mental health assessments, discharge planning, referrals to community resources, prescription assistance, Medicaid enrollment, and crisis intervention for West Feliciana Parish residents.",
+    "address": "5266 Commerce St, Saint Francisville, LA 70775",
+    "phone": "(225) 635-3811",
+    "url": "https://www.wfph.org/resources/social-services/",
+    "categorySlug": "healthcare",
+    "zipCode": "70775"
+  }
+]

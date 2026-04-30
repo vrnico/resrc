@@ -1,0 +1,1554 @@
+[
+  {
+    "name": "Adams County Department of Job and Family Services",
+    "description": "County agency providing food assistance (SNAP), cash assistance, medical assistance, child care support, and child support enforcement for Adams County residents.",
+    "address": "215 N. Cross Street, West Union, OH 45693",
+    "phone": "(937) 544-2591",
+    "url": "https://adamscountyjfs.org/",
+    "categorySlug": "community",
+    "zipCode": "45144"
+  },
+  {
+    "name": "Catholic Charities Food for All – Adams County",
+    "description": "Food pantry serving low-income residents of Adams County, open the fourth Tuesday of each month. Part of Catholic Charities Southwestern Ohio's regional food assistance network.",
+    "address": "836 Boyd Avenue, West Union, OH 45693",
+    "phone": "(513) 672-3720",
+    "url": "https://www.ccswoh.org/food-assistance/",
+    "categorySlug": "food",
+    "zipCode": "45144"
+  },
+  {
+    "name": "Interfaith House Food Pantry",
+    "description": "Serves more than 400 Adams County families per month with food distribution Monday, Wednesday, and Friday. Open to anyone in Adams County with photo ID for each household member.",
+    "address": "5300 Chapparal Road, West Union, OH 45693",
+    "phone": "(937) 544-7141",
+    "url": "https://www.facebook.com/interfaithhouseohio/",
+    "categorySlug": "food",
+    "zipCode": "45144"
+  },
+  {
+    "name": "Ashtabula County Community Action Agency",
+    "description": "Community action agency helping Ashtabula County residents achieve self-sufficiency, offering basic needs assistance, housing counseling, educational opportunities, and utility assistance programs.",
+    "address": "4200 State Rd, Ashtabula, OH 44004",
+    "phone": "(440) 998-3244",
+    "url": "https://accaa.org/",
+    "categorySlug": "community",
+    "zipCode": "44004"
+  },
+  {
+    "name": "Country Neighbor Program",
+    "description": "Official food bank for Ashtabula County, distributing food to 26 partner pantries, shelters, and soup kitchens throughout the county. Offers a client-choice food pantry by appointment.",
+    "address": "39 S. Maple St., Orwell, OH 44076",
+    "phone": "(440) 437-6311",
+    "url": "https://countryneighbor.org/",
+    "categorySlug": "food",
+    "zipCode": "44076"
+  },
+  {
+    "name": "Geneva Food Pantry",
+    "description": "Community food pantry serving Geneva and surrounding Ashtabula County residents by appointment on Wednesdays and Fridays. Provides food boxes to households in need.",
+    "address": "505 W Main St, Geneva, OH 44041",
+    "phone": "(440) 466-5500",
+    "url": "https://www.facebook.com/genevaohiofoodpantry/",
+    "categorySlug": "food",
+    "zipCode": "44041"
+  },
+  {
+    "name": "Samaritan House Homeless Shelter",
+    "description": "The only homeless shelter in Ashtabula County, providing emergency overnight shelter for men, women, and families. Intakes begin at 4:00 PM daily.",
+    "address": "4125 Station Avenue, Ashtabula, OH 44004",
+    "phone": "(440) 992-3178",
+    "url": "https://ashtabulasamaritanhouse.weebly.com/",
+    "categorySlug": "housing",
+    "zipCode": "44004"
+  },
+  {
+    "name": "Belmont County Department of Job and Family Services",
+    "description": "County agency administering food assistance (SNAP), cash assistance, Medicaid, child care subsidies, and child support services for Belmont County residents.",
+    "address": "68094 Hammond Road, St. Clairsville, OH 43950",
+    "phone": "(740) 695-1075",
+    "url": "https://belmontcdjfs.com/",
+    "categorySlug": "community",
+    "zipCode": "43909"
+  },
+  {
+    "name": "Salvation Army – Bellaire (Belmont County)",
+    "description": "Provides a 24/7 emergency food and shelter program, soup kitchen serving hot lunch Monday–Friday, and produce distribution for Belmont County residents.",
+    "address": "315 37th Street, Bellaire, OH 43906",
+    "phone": "(740) 676-6225",
+    "url": "https://www.salvationarmyusa.org",
+    "categorySlug": "food",
+    "zipCode": "43906",
+    "additionalZipCodes": [
+      "59501",
+      "64024",
+      "66701",
+      "71635",
+      "74447",
+      "75702",
+      "87401",
+      "90302"
+    ]
+  },
+  {
+    "name": "Senior Services of Belmont County",
+    "description": "Provides congregate meal programs, home-delivered meals, and supportive services for older adults throughout Belmont County, including the St. Clairsville area.",
+    "address": "100 E. Market Street, St. Clairsville, OH 43950",
+    "phone": "(740) 695-6868",
+    "url": "https://www.ssobc.com/",
+    "categorySlug": "community",
+    "zipCode": "43950"
+  },
+  {
+    "name": "St. Vincent de Paul – Barnesville",
+    "description": "Food pantry serving Barnesville and surrounding Belmont County residents, open the first Thursday of each month from 10 AM to 1 PM. Provides food and household assistance.",
+    "address": "116 S. Gardner Street, Barnesville, OH 43713",
+    "phone": "(740) 425-9438",
+    "url": "https://www.svdpusa.org",
+    "categorySlug": "food",
+    "zipCode": "43713",
+    "additionalZipCodes": [
+      "75801"
+    ]
+  },
+  {
+    "name": "The Food Pantry of St. Clairsville",
+    "description": "Food pantry serving families within the St. Clairsville School District, open Thursdays from 1–3 PM. Provides food assistance to low-income Belmont County residents.",
+    "address": "102 St. Patrick's Alley, St. Clairsville, OH 43950",
+    "phone": "(740) 695-1734",
+    "url": "https://www.facebook.com/p/The-Food-Pantry-of-St-Clairsville-100085586328505/",
+    "categorySlug": "food",
+    "zipCode": "43950"
+  },
+  {
+    "name": "City of Middletown Health Department",
+    "description": "Municipal public health department providing preventive health services, environmental health programs, immunizations, and referrals to community health resources for Middletown residents.",
+    "address": "One Donham Plaza, Middletown, OH 45042",
+    "phone": "(513) 425-1818",
+    "url": "https://www.cityofmiddletown.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "45042"
+  },
+  {
+    "name": "Family Service of Middletown",
+    "description": "Full-scale food bank serving over 10,000 individuals annually in the Middletown area. Provides emergency food assistance, essential non-food items, temporary financial help, job readiness, and crisis counseling.",
+    "address": "555 N. Verity Parkway, Middletown, OH 45042",
+    "phone": "(513) 423-4637",
+    "url": "https://familyservicemiddletown.org/",
+    "categorySlug": "food",
+    "zipCode": "45042"
+  },
+  {
+    "name": "Salvation Army Middletown",
+    "description": "Provides a food pantry open Monday–Friday 9–11 AM and 1–3 PM, plus a wide range of social services including emergency assistance for families and individuals in need.",
+    "address": "1914 1st Avenue, Middletown, OH 45042",
+    "phone": "(513) 423-9452",
+    "url": "https://www.salvationarmyusa.org/oh/middletown/first-avenue-corps/",
+    "categorySlug": "food",
+    "zipCode": "45042"
+  },
+  {
+    "name": "Bridges Community Action Partnership",
+    "description": "Community action agency serving Champaign and Logan counties with HEAP utility assistance, Summer and Winter Crisis programs, and financial education services for low-income residents.",
+    "address": "40 Monument Square, Suite 204, Urbana, OH 43078",
+    "phone": "(937) 772-9164",
+    "url": "https://www.bridgescap.org/",
+    "categorySlug": "community",
+    "zipCode": "43078"
+  },
+  {
+    "name": "Caring Kitchen",
+    "description": "United Way agency providing 24/7 emergency shelter, a food pantry with weekday food boxes, a soup kitchen, tutoring, and a clothing and household goods pantry for Champaign County residents.",
+    "address": "300 Miami Street, Urbana, OH 43078",
+    "phone": "(937) 653-8443",
+    "url": "https://www.caringkitchen.org/",
+    "categorySlug": "housing",
+    "zipCode": "43078"
+  },
+  {
+    "name": "Champaign County Department of Job and Family Services",
+    "description": "County agency administering SNAP food assistance, Medicaid, cash assistance, and child care programs for income-eligible Champaign County households.",
+    "address": "1512 S. US Highway 68, Urbana, OH 43078",
+    "phone": "(937) 653-4122",
+    "url": "https://www.champaigndjfs.org/",
+    "categorySlug": "community",
+    "zipCode": "43078"
+  },
+  {
+    "name": "Salvation Army Springfield",
+    "description": "Provides a food pantry by appointment and a weekly hot meal drop-in program on Tuesdays. Offers emergency financial assistance and social services to Clark County residents.",
+    "address": "15 S. Plum Street, Springfield, OH 45502",
+    "phone": "(937) 322-3434",
+    "url": "https://www.salvationarmyusa.org/oh/springfield/so-plum-st-corps/",
+    "categorySlug": "food",
+    "zipCode": "45369"
+  },
+  {
+    "name": "Second Harvest Food Bank of Clark, Champaign & Logan Counties",
+    "description": "Regional food bank distributing food through 65 partner organizations across Clark, Champaign, and Logan counties. Serves as the primary food resource hub for the Springfield region.",
+    "address": "20 N. Murray Street, Springfield, OH 45503",
+    "phone": "(937) 325-8715",
+    "url": "https://www.theshfb.org/",
+    "categorySlug": "food",
+    "zipCode": "45369"
+  },
+  {
+    "name": "St. Vincent de Paul – Springfield",
+    "description": "Nonprofit operating a choice food pantry open Tuesday and Thursday 12–2 PM by appointment, plus assistance with rent, utilities, furniture, medical needs, and transitional shelter for Clark County residents.",
+    "address": "2417 E. High Street, Springfield, OH 45505",
+    "phone": "(937) 324-1511",
+    "url": "https://svdpspfld.org/",
+    "categorySlug": "food",
+    "zipCode": "45369"
+  },
+  {
+    "name": "Blanchester Community Food Pantry",
+    "description": "Community food pantry in Blanchester serving Clinton County residents with food distribution on Mondays and Thursdays. Provides non-perishable and perishable food items to households in need.",
+    "address": "318 E Main St, Blanchester, OH 45107",
+    "phone": "(937) 783-3504",
+    "url": "https://blanchestercommunitypantry.space/",
+    "categorySlug": "food",
+    "zipCode": "45107"
+  },
+  {
+    "name": "Clinton County Department of Job and Family Services",
+    "description": "County office providing SNAP food assistance, Medicaid, cash assistance, child care subsidies, and workforce development services to low-income Clinton County residents.",
+    "address": "111 S. Nelson Avenue, Wilmington, OH 45177",
+    "phone": "(937) 382-0963",
+    "url": "https://clintoncountyjfs.org/",
+    "categorySlug": "community",
+    "zipCode": "45177"
+  },
+  {
+    "name": "Clinton County Homeless Shelter",
+    "description": "Operates emergency shelters for men, women, and children in Wilmington, plus the Darleen Myers House with a 24-hour food pantry. Can shelter up to 38 people per night.",
+    "address": "390 W. Main Street, Wilmington, OH 45177",
+    "phone": "(937) 382-7058",
+    "url": "https://clintoncountyhomelessshelter.org/",
+    "categorySlug": "housing",
+    "zipCode": "45177"
+  },
+  {
+    "name": "Columbiana County Department of Job and Family Services – Food Pantry",
+    "description": "In partnership with Community Action Agency and Second Harvest Food Bank, provides supplemental food to families and individuals at the county government services building in Lisbon.",
+    "address": "7989 Dickey Drive, Suite 2, Lisbon, OH 44432",
+    "phone": "(330) 424-1471",
+    "url": "https://www.columbianacountyjfs.org/",
+    "categorySlug": "food",
+    "zipCode": "44432"
+  },
+  {
+    "name": "Community Action Agency of Columbiana County",
+    "description": "Community action agency in Lisbon providing energy assistance (HEAP), veteran supportive services, housing counseling, and emergency support programs for low-income Columbiana County residents.",
+    "address": "7880 Lincoln Place, Lisbon, OH 44432",
+    "phone": "(330) 424-6693",
+    "url": "https://caaofcc.org/",
+    "categorySlug": "community",
+    "zipCode": "44432"
+  },
+  {
+    "name": "Coshocton County Department of Job and Family Services",
+    "description": "County agency administering SNAP, Medicaid, Ohio Works First cash assistance, child care subsidies, and supportive services for low-income Coshocton County households.",
+    "address": "225 N. 4th Street, Coshocton, OH 43812",
+    "phone": "(740) 622-2354",
+    "url": "https://coshoctonjfs.com/",
+    "categorySlug": "community",
+    "zipCode": "43812"
+  },
+  {
+    "name": "Salvation Army – Coshocton Corps",
+    "description": "Provides food pantry services Monday–Friday 9 AM–3 PM for low-income families, seniors, veterans, and working poor in Coshocton County. Also offers financial and social service assistance.",
+    "address": "219 N. Fourth Street, Coshocton, OH 43812",
+    "phone": "(740) 622-0971",
+    "url": "https://easternusa.salvationarmy.org/northeast-ohio/coshocton/",
+    "categorySlug": "food",
+    "zipCode": "43812"
+  },
+  {
+    "name": "Catholic Charities Diocese of Cleveland",
+    "description": "Diocesan social service agency operating food pantries and family services throughout Cuyahoga County, including programs accessible to Broadview Heights and south Cuyahoga County residents.",
+    "address": "7911 Detroit Avenue, Cleveland, OH 44102",
+    "phone": "(216) 334-2900",
+    "url": "https://www.ccdocle.org/",
+    "categorySlug": "community",
+    "zipCode": "44102"
+  },
+  {
+    "name": "City of Broadview Heights Human Services",
+    "description": "Municipal human services department providing emergency food assistance, social service referrals, and connection to community resources for Broadview Heights residents in need.",
+    "address": "9543 Broadview Road, Broadview Heights, OH 44147",
+    "phone": "(440) 526-4074",
+    "url": "https://www.broadview-heights.org/1659/Social-Services",
+    "categorySlug": "community",
+    "zipCode": "44147"
+  },
+  {
+    "name": "City of Euclid Community Services",
+    "description": "Municipal social services department connecting Euclid residents to emergency assistance, SNAP resources, and local support programs for individuals and families facing economic hardship.",
+    "address": "585 E. 222nd Street, Euclid, OH 44123",
+    "phone": "(216) 289-2700",
+    "url": "https://www.cityofeuclid.gov/",
+    "categorySlug": "community",
+    "zipCode": "44123"
+  },
+  {
+    "name": "Euclid Hunger Center",
+    "description": "Food pantry serving Euclid residents every Wednesday and Saturday 10 AM–1 PM at the Shore Cultural Centre. Operated by the Euclid Hunger Task Force in partnership with the Greater Cleveland Food Bank.",
+    "address": "291 E. 222nd Street, Euclid, OH 44123",
+    "phone": "(216) 731-3329",
+    "url": "https://www.euclidhungercenter.com/",
+    "categorySlug": "food",
+    "zipCode": "44123"
+  },
+  {
+    "name": "Good Shepherd Family Center – Catholic Charities",
+    "description": "Catholic Charities family center operating a food pantry on Tuesdays, Thursdays, and Saturdays. Provides family support services, counseling, and basic needs assistance for Euclid-area residents.",
+    "address": "140 Richmond Road, Euclid, OH 44143",
+    "phone": "(440) 431-4280",
+    "url": "https://www.ccdocle.org/locations/good-shepherd-family-center",
+    "categorySlug": "community",
+    "zipCode": "44143"
+  },
+  {
+    "name": "Greater Cleveland Food Bank",
+    "description": "Regional food bank partnering with over 1,000 programs across northeast Ohio to connect residents to food pantries, hot meal sites, mobile pantries, and senior food programs.",
+    "address": "13815 Coit Road, Cleveland, OH 44110",
+    "phone": "(216) 738-2067",
+    "url": "https://www.greaterclevelandfoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "44102"
+  },
+  {
+    "name": "May Dugan Center",
+    "description": "Comprehensive community center on Cleveland's near west side serving 6,000 low-income people annually through food distribution, mental health counseling, trauma recovery, adult education, health and wellness, and MomsFirst programs.",
+    "address": "4115 Bridge Avenue, Cleveland, OH 44113",
+    "phone": "(216) 631-5800",
+    "url": "https://www.maydugancenter.org/",
+    "categorySlug": "community",
+    "zipCode": "44113"
+  },
+  {
+    "name": "St. Vincent de Paul – West Side Cleveland",
+    "description": "Operates food pantries at multiple west-side Cleveland locations serving zip codes 44102 and 44113, with distributions on alternating Wednesdays and Fridays plus hot meals on Tuesdays and Thursdays.",
+    "address": "3764 Pearl Road, Cleveland, OH 44109",
+    "phone": "(216) 749-0900",
+    "url": "https://svdpcle.org/",
+    "categorySlug": "food",
+    "zipCode": "44109"
+  },
+  {
+    "name": "West Side Catholic Center",
+    "description": "Established in 1977, provides meals, a free choice food pantry, showers, drug and alcohol services, legal aid, and a daily resource center for homeless and low-income residents of Cleveland's west side.",
+    "address": "3135 Lorain Avenue, Cleveland, OH 44113",
+    "phone": "(216) 631-4741",
+    "url": "https://www.wsccenter.org/",
+    "categorySlug": "community",
+    "zipCode": "44113"
+  },
+  {
+    "name": "Darke County United Way",
+    "description": "Coordinates funding and services for social service agencies throughout Darke County, connecting Union City and county residents to food, housing, and emergency assistance programs.",
+    "address": "1710 Lytle Road, Greenville, OH 45331",
+    "phone": "(937) 548-4877",
+    "url": "https://www.darkecountyunitedway.org/",
+    "categorySlug": "community",
+    "zipCode": "45331"
+  },
+  {
+    "name": "FISH Choice Pantry of Darke County",
+    "description": "Ecumenical food pantry offering a client-choice shopping model and home delivery for those unable to travel. Serves all Darke County residents including the Union City area, with distributions Monday, Wednesday, and Friday.",
+    "address": "400 Markwith Avenue, Greenville, OH 45331",
+    "phone": "(937) 548-2000",
+    "url": "https://www.fishofdarke.org/",
+    "categorySlug": "food",
+    "zipCode": "45331"
+  },
+  {
+    "name": "Miami Valley Community Action Partnership – Darke County",
+    "description": "Provides emergency and transitional shelter for homeless individuals and families in Darke County, along with a clothing bank and case management for permanent housing placement.",
+    "address": "1469 Sweitzer Street, Greenville, OH 45331",
+    "phone": "(937) 548-8143",
+    "url": "https://miamivalleycap.org/darke-county-services/",
+    "categorySlug": "housing",
+    "zipCode": "45331"
+  },
+  {
+    "name": "Delaware County Department of Job and Family Services",
+    "description": "County agency providing SNAP, Medicaid, Ohio Works First, child care assistance, and social services for low-income Delaware County residents including the Westerville area.",
+    "address": "140 N. Sandusky Street, Delaware, OH 43015",
+    "phone": "(740) 833-2000",
+    "url": "https://www.delawarecountyohio.gov/jfs/",
+    "categorySlug": "community",
+    "zipCode": "43015"
+  },
+  {
+    "name": "LSS Westerville Mobile Pantry (Lutheran Social Services)",
+    "description": "Monthly mobile food pantry at Westerville Estates serving Delaware County residents on the second Thursday of each month from noon to 2 PM, distributing food boxes.",
+    "address": "11050 Fancher Road, Westerville, OH 43082",
+    "phone": "(614) 855-9169",
+    "url": "https://lssnetworkofhope.org/foodpantries/",
+    "categorySlug": "food",
+    "zipCode": "43082"
+  },
+  {
+    "name": "People In Need, Inc. of Delaware County",
+    "description": "Nonprofit providing food pantry services to Delaware County households up to once per week, plus utility assistance, holiday programs, and emergency support. Open Monday–Friday.",
+    "address": "138 Johnson Drive, Delaware, OH 43015",
+    "phone": "(740) 363-6284",
+    "url": "https://www.delawarepeopleinneed.org/",
+    "categorySlug": "food",
+    "zipCode": "43015"
+  },
+  {
+    "name": "Fairfield County Health Department",
+    "description": "County public health agency providing immunizations, communicable disease control, WIC, environmental health, and connections to health resources for all Fairfield County residents.",
+    "address": "1550 Sheridan Drive, Suite 100, Lancaster, OH 43130",
+    "phone": "(740) 652-2800",
+    "url": "https://www.fairfieldhealth.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "43130"
+  },
+  {
+    "name": "Lancaster-Fairfield Community Action Agency",
+    "description": "Nonprofit serving low- and moderate-income Fairfield County residents with multiple food pantry locations, HEAP utility assistance, emergency financial help, and social services. Open Monday–Friday 8 AM–4 PM.",
+    "address": "1743 E. Main Street, Lancaster, OH 43130",
+    "phone": "(740) 653-4146",
+    "url": "https://www.faircaa.org/",
+    "categorySlug": "community",
+    "zipCode": "43130"
+  },
+  {
+    "name": "Maywood Mission",
+    "description": "Christian nonprofit offering an emergency food pantry open Monday, Wednesday, and Friday 10 AM–noon, affordable childcare, a thrift store, health clinic services, and pastoral care for Lancaster residents.",
+    "address": "1029 S. Broad Street, Lancaster, OH 43130",
+    "phone": "(740) 901-3027",
+    "url": "https://www.maywoodmission.org/",
+    "categorySlug": "community",
+    "zipCode": "43130"
+  },
+  {
+    "name": "Salvation Army – Fairfield County",
+    "description": "Provides a choice food pantry, emergency financial assistance, and social services for Lancaster and Fairfield County residents. Walk-ins accepted Monday–Friday for food and assistance.",
+    "address": "228 W. Hubert Avenue, Lancaster, OH 43130",
+    "phone": "(740) 687-1921",
+    "url": "https://easternusa.salvationarmy.org/southwest-ohio/fairfield-county/",
+    "categorySlug": "food",
+    "zipCode": "43130"
+  },
+  {
+    "name": "Dublin Food Pantry",
+    "description": "Choice food pantry serving Dublin City School District households (zip codes 43017, 43016, and others) with fresh produce and groceries. Open Monday evenings, and Tuesday and Thursday mornings.",
+    "address": "6608 Dublin Center Drive, Dublin, OH 43017",
+    "phone": "(614) 665-8181",
+    "url": "https://www.dublinfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "43017"
+  },
+  {
+    "name": "Franklin County Department of Job and Family Services",
+    "description": "County agency providing SNAP, Medicaid, child care, Ohio Works First, and emergency assistance programs to low-income Franklin County residents, including Dublin-area households.",
+    "address": "1721 Northland Park Avenue, Columbus, OH 43229",
+    "phone": "(614) 274-6000",
+    "url": "https://jfs.franklincountyohio.gov",
+    "categorySlug": "community",
+    "zipCode": "43229"
+  },
+  {
+    "name": "Gladden Community House",
+    "description": "Historic settlement house founded in 1905 serving Franklinton and near west Columbus (zip codes 43222, 43223, 43215) with a food pantry including home delivery for seniors, youth programs, senior outreach, and emergency rent and utility assistance.",
+    "address": "183 Hawkes Avenue, Columbus, OH 43223",
+    "phone": "(614) 227-1600",
+    "url": "https://www.gladdenhouse.org/",
+    "categorySlug": "community",
+    "zipCode": "43223"
+  },
+  {
+    "name": "Jordan's Crossing Resource Center",
+    "description": "Faith-based organization on Columbus's west side serving people experiencing homelessness or substance use, with daily lunches, a weekly community meal, Fresh Food Market access, housing specialists, and treatment referrals.",
+    "address": "342 N. Hague Avenue, Columbus, OH 43204",
+    "phone": "(614) 507-3246",
+    "url": "https://jordanscrossingcolumbus.org/",
+    "categorySlug": "community",
+    "zipCode": "43204"
+  },
+  {
+    "name": "Mid-Ohio Food Collective",
+    "description": "Central Ohio's primary food bank distributing food through a network of 700+ partner agencies, pantries, and meal programs across Franklin and surrounding counties, serving the entire west Columbus area.",
+    "address": "3960 Brookham Drive, Grove City, OH 43123",
+    "phone": "(614) 277-3663",
+    "url": "https://www.midohiofoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "43123"
+  },
+  {
+    "name": "MY Project USA – Hilltop Youth Empowerment Center",
+    "description": "Ohio's largest Muslim-led social services organization providing free weekly food for 100+ families, free healthcare screenings, youth mentoring, college prep, and vocational assistance for west Columbus residents.",
+    "address": "3275 Sullivant Avenue, Columbus, OH 43204",
+    "phone": "(614) 905-0977",
+    "url": "https://www.myprojectusa.org/",
+    "categorySlug": "community",
+    "zipCode": "43204"
+  },
+  {
+    "name": "WARM – Westerville Area Resource Ministry",
+    "description": "Food pantry serving households in the Westerville City School District, offering a client-choice market model with access to fresh produce and groceries. Open Monday–Friday 9 AM–4:30 PM.",
+    "address": "150 Heatherdown Drive, Westerville, OH 43081",
+    "phone": "(614) 341-2282",
+    "url": "https://www.warmwesterville.org/",
+    "categorySlug": "food",
+    "zipCode": "43081"
+  },
+  {
+    "name": "Westside CAP4Kids",
+    "description": "Community resource hub on the west side of Columbus connecting families to food, housing, health, and social services resources across the 43222 and surrounding zip codes.",
+    "address": "1186 W. Broad Street, Columbus, OH 43222",
+    "phone": "(614) 935-6375",
+    "url": "https://www.cap4kids.org/columbus/",
+    "categorySlug": "community",
+    "zipCode": "43222"
+  },
+  {
+    "name": "Fulton County Department of Job and Family Services",
+    "description": "County agency providing SNAP, Medicaid, Ohio Works First, child care subsidies, and transportation assistance to low-income Fulton County residents including Pettisville-area households.",
+    "address": "152 S. Shoop Avenue, Wauseon, OH 43567",
+    "phone": "(419) 337-0288",
+    "url": "https://www.fultoncountyjfs.com/",
+    "categorySlug": "community",
+    "zipCode": "43567"
+  },
+  {
+    "name": "Northwestern Ohio Community Action Commission (NOCAC) – Fulton County",
+    "description": "Community action agency providing utility assistance (HEAP), emergency shelter referrals, Head Start, and social services for low-income Fulton County residents including the Pettisville and Wauseon areas.",
+    "address": "604 S. Shoop Avenue, Wauseon, OH 43567",
+    "phone": "(419) 784-5136",
+    "url": "https://nocac.org/",
+    "categorySlug": "community",
+    "zipCode": "43567"
+  },
+  {
+    "name": "Bellbrook-Sugarcreek Community Support Center",
+    "description": "Nonprofit providing weekly individualized food pantry orders, emergency outdoor pantry access, household essentials, emergency clothing, and job-skill development for neighbors in need in the Bellbrook-Sugarcreek area.",
+    "address": "46 E. Franklin Street, #1, Bellbrook, OH 45305",
+    "phone": "(937) 848-3810",
+    "url": "https://bscsc.org/",
+    "categorySlug": "food",
+    "zipCode": "45305"
+  },
+  {
+    "name": "Byesville Assembly of God Food Pantry",
+    "description": "Food pantry serving residents of the Rolling Hills School District, open the first and third Thursday of each month from noon to 1 pm.",
+    "address": "102 S. 7th St., Byesville, OH 43723",
+    "phone": "(740) 685-2553",
+    "url": "https://www.findhelp.org/food/food-pantry--byesville-oh?postal=43723",
+    "categorySlug": "food",
+    "zipCode": "43723"
+  },
+  {
+    "name": "GMN Tri-County Community Action Agency",
+    "description": "Community action agency serving Guernsey, Morgan, and Noble counties with energy assistance programs (HEAP, PIPP), emergency utility help, and supportive services for low-income residents.",
+    "address": "185 S. 2nd St., Byesville, OH 43723",
+    "phone": "(740) 685-2422",
+    "url": "https://gmntrico.org/",
+    "categorySlug": "community",
+    "zipCode": "43723"
+  },
+  {
+    "name": "LSS Food Pantry – Guernsey County",
+    "description": "Food pantry operated by Lutheran Social Services providing food assistance to Guernsey County residents, open the first and third Wednesday of each month.",
+    "address": "60330 Southgate Rd, Byesville, OH 43723",
+    "phone": "(877) 704-3663",
+    "url": "https://lssnetworkofhope.org/foodpantries/locations/",
+    "categorySlug": "food",
+    "zipCode": "43723"
+  },
+  {
+    "name": "Community Matters – Community Market",
+    "description": "Free, low-barrier choice food pantry in Lower Price Hill offering non-perishables, fresh produce, bakery items, dairy, meats, and personal care products to approximately 2,000 families per year.",
+    "address": "2104 Saint Michael Street, Cincinnati, OH 45204",
+    "phone": "(513) 244-2214",
+    "url": "https://cmcincy.org/programs/family-sustainability/community-market/",
+    "categorySlug": "food",
+    "zipCode": "45204"
+  },
+  {
+    "name": "Freestore Foodbank – Dalton Avenue",
+    "description": "Regional food bank headquartered in Cincinnati providing emergency food assistance, pantry distributions, and hunger-relief programs to Hamilton County residents including the 45214 area.",
+    "address": "1805 Dalton Ave, Cincinnati, OH 45214",
+    "phone": "(513) 241-5525",
+    "url": "https://freestorefoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "45214"
+  },
+  {
+    "name": "Gray Road Food Pantry",
+    "description": "Community food pantry in the 45232 zip code area providing groceries to Cincinnati residents, open Monday, Tuesday, and Friday 10 am–1 pm; requires photo ID and proof of residence.",
+    "address": "4826 Gray Road, Cincinnati, OH 45232",
+    "phone": "(513) 541-4100",
+    "url": "https://www.needhelppayingbills.com/html/hamilton_county_food_pantries.html",
+    "categorySlug": "food",
+    "zipCode": "45232"
+  },
+  {
+    "name": "Mother of Christ Church Food Pantry",
+    "description": "Parish food pantry serving the Winton Hills neighborhood, open Saturdays 10–11:30 am; requires photo ID and proof of residence.",
+    "address": "5301 Winneste Ave, Cincinnati, OH 45232",
+    "phone": "(513) 242-0164",
+    "url": "https://www.foodpantries.org/ci/oh-cincinnati",
+    "categorySlug": "food",
+    "zipCode": "45232"
+  },
+  {
+    "name": "Society of St. Vincent de Paul – West End Pantry",
+    "description": "Food pantry serving Hamilton County residents with eligibility-based grocery assistance, open Monday, Tuesday, Thursday, Friday 8:30 am–4 pm and Wednesday 10 am–4 pm.",
+    "address": "1125 Bank Street, Cincinnati, OH 45214",
+    "phone": "",
+    "url": "https://www.svdpcincinnati.org/",
+    "categorySlug": "food",
+    "zipCode": "45214"
+  },
+  {
+    "name": "SON Ministries – Groesbeck United Methodist Church Food Pantry",
+    "description": "Food pantry offering non-perishables, meats, toiletries, and holiday boxes to financially eligible residents of the Northwest Local or North College Hill school districts, open Mondays and Wednesdays.",
+    "address": "8871 Colerain Avenue, Cincinnati, OH 45251",
+    "phone": "(513) 385-1793",
+    "url": "https://www.groesbeckchurch.org/son-ministries",
+    "categorySlug": "food",
+    "zipCode": "45251"
+  },
+  {
+    "name": "TRAM Ministry Food Pantry",
+    "description": "Faith-based food pantry serving families in the Three Rivers School District communities of Addyston, Cleves, and North Bend, open Mondays and Thursdays 1–3 pm.",
+    "address": "112 S. Miami Ave., Cleves, OH 45002",
+    "phone": "",
+    "url": "https://www.tramcleves.com/",
+    "categorySlug": "food",
+    "zipCode": "45002"
+  },
+  {
+    "name": "HARCATUS Tri-County Community Action Organization",
+    "description": "Community action agency serving Harrison, Carroll, and Tuscarawas counties with a food pantry, energy assistance (HEAP/PIPP), and other emergency support services for low-income residents.",
+    "address": "122 S. Main Street, Cadiz, OH 43907",
+    "phone": "(740) 942-8886",
+    "url": "https://www.harcatus.org/",
+    "categorySlug": "community",
+    "zipCode": "43907"
+  },
+  {
+    "name": "Harrison County Health Department – Food Pantry Resource",
+    "description": "Public health department coordinating local food pantry referrals and community health services for Harrison County residents including the Tippecanoe area.",
+    "address": "245 Alcyone Rd, Cadiz, OH 43907",
+    "phone": "(740) 942-4623",
+    "url": "https://www.harrisonpublichealth.org/local-food-pantry-information/",
+    "categorySlug": "community",
+    "zipCode": "43907"
+  },
+  {
+    "name": "Highland County Community Action Organization (HCCAO)",
+    "description": "Community action agency offering an emergency food pantry, energy assistance, housing support, and other social services to low-income Highland County residents, open Monday–Friday.",
+    "address": "1487 N. High St., Suite 500, Hillsboro, OH 45133",
+    "phone": "(937) 393-3458",
+    "url": "https://hccao.org/",
+    "categorySlug": "community",
+    "zipCode": "45133"
+  },
+  {
+    "name": "Samaritan Outreach Services",
+    "description": "Nonprofit food pantry and social services organization serving Highland County residents, offering groceries, monthly delivery to homebound seniors, free tax preparation, and a pet food pantry.",
+    "address": "537 N. East St., Hillsboro, OH 45133",
+    "phone": "(937) 393-2220",
+    "url": "https://samaritanoutreachservices.com/",
+    "categorySlug": "food",
+    "zipCode": "45133"
+  },
+  {
+    "name": "Glenmont Food Pantry",
+    "description": "Community food pantry in Glenmont serving Holmes County residents, open the fourth Tuesday of each month.",
+    "address": "108 Main St., Glenmont, OH 44628",
+    "phone": "",
+    "url": "https://www.govserv.org/US/Glenmont/517814048261881/Glenmont-Food-Pantry",
+    "categorySlug": "food",
+    "zipCode": "44628"
+  },
+  {
+    "name": "Love Center Food Pantry",
+    "description": "Longstanding Holmes County nonprofit providing free food to over 700 households annually; open Monday 1–5 pm and Wednesday and Friday 1–4:30 pm.",
+    "address": "1291 Massillon Rd Suite A, Millersburg, OH 44654",
+    "phone": "(330) 674-2504",
+    "url": "https://lovecenterholmescounty.org/",
+    "categorySlug": "food",
+    "zipCode": "44654"
+  },
+  {
+    "name": "Great Lakes Community Action Partnership – Huron County",
+    "description": "Community action agency offering housing assistance, energy assistance, and other social services to Huron County low-income residents including those in the Wakeman area.",
+    "address": "185 Shady Lane Dr., Norwalk, OH 44857",
+    "phone": "",
+    "url": "https://www.glcap.org/programs/housing-assistance/community-resources/huron-county-community-resources/",
+    "categorySlug": "community",
+    "zipCode": "44857"
+  },
+  {
+    "name": "Wakeman Caring Community Food Pantry",
+    "description": "Monthly food pantry at St. Mary's Church serving residents of zip codes 44889, 44826, 44857, and 44816 in Huron County with groceries and limited emergency financial assistance.",
+    "address": "46 E. Main St., Wakeman, OH 44889",
+    "phone": "(440) 839-2023",
+    "url": "https://www.norwalkareaunitedfund.org/food-assistance-",
+    "categorySlug": "food",
+    "zipCode": "44889"
+  },
+  {
+    "name": "Jefferson County Community Action – Emergency Food Pantry",
+    "description": "Community action agency providing emergency food assistance and other social services to Jefferson County residents by appointment, with income-based eligibility.",
+    "address": "114 N. 4th St., Steubenville, OH 43952",
+    "phone": "(740) 282-2612",
+    "url": "https://www.jcresourcenetwork.org/food-assistance",
+    "categorySlug": "community",
+    "zipCode": "43952"
+  },
+  {
+    "name": "Urban Mission Ministries",
+    "description": "Christian nonprofit in Steubenville providing an emergency food pantry, senior food distribution, daily hot meals, and social services to Jefferson County residents including the Richmond area.",
+    "address": "301 N. 5th Street, Steubenville, OH 43952",
+    "phone": "(740) 282-8010",
+    "url": "https://www.urbanmission.org/",
+    "categorySlug": "food",
+    "zipCode": "43952"
+  },
+  {
+    "name": "Interchurch Social Services of Knox County",
+    "description": "Faith-based nonprofit providing a food pantry, financial aid for rent and utilities, medical transportation, prescription assistance, and clothing to Knox County residents in crisis.",
+    "address": "306 W. Gambier Street, Mount Vernon, OH 43050",
+    "phone": "(740) 397-4825",
+    "url": "https://www.interchurchknox.org/",
+    "categorySlug": "food",
+    "zipCode": "43050"
+  },
+  {
+    "name": "Knox County Winter Sanctuary",
+    "description": "Seasonal emergency shelter open November through April providing overnight beds; April through October provides showers and laundry services to homeless individuals in Knox County.",
+    "address": "401 W. Vine Street, Mount Vernon, OH 43050",
+    "phone": "",
+    "url": "https://www.gethealthyknox.org/food-pantry-information.html",
+    "categorySlug": "housing",
+    "zipCode": "43050"
+  },
+  {
+    "name": "Food Pantry Network of Licking County",
+    "description": "Coordinating network operating two FPN Markets and 18 food pantries throughout Licking County, providing grocery assistance six days a week to residents including those in the Kirkersville area.",
+    "address": "1035 Brice St., Newark, OH 43055",
+    "phone": "(740) 273-0006",
+    "url": "https://www.foodpantrynetwork.net/",
+    "categorySlug": "food",
+    "zipCode": "43055"
+  },
+  {
+    "name": "Kirkersville United Methodist Food Pantry",
+    "description": "Small community food pantry serving Kirkersville-area residents, open Wednesday mornings from 9–9:30 am, seasonal March through November.",
+    "address": "180 E. Main St., Kirkersville, OH 43033",
+    "phone": "",
+    "url": "https://www.foodpantrynetwork.net/get-food",
+    "categorySlug": "food",
+    "zipCode": "43033"
+  },
+  {
+    "name": "Five Loaves Pantry – Quincy First United Methodist Church",
+    "description": "Community food pantry serving Quincy-area residents, open the second Wednesday of each month from 5–7 pm.",
+    "address": "111 South Street, Quincy, OH 43343",
+    "phone": "(937) 585-5114",
+    "url": "https://www.uwlogan.org/logan-county-food-pantries",
+    "categorySlug": "food",
+    "zipCode": "43343"
+  },
+  {
+    "name": "Logan County Homeless Shelter",
+    "description": "Faith-based emergency homeless shelter operating in Bellefontaine since 2008, providing overnight accommodation and supportive services to Logan County residents.",
+    "address": "820 W. Sandusky Ave., Bellefontaine, OH 43311",
+    "phone": "(937) 935-4292",
+    "url": "https://www.uwlogan.org/",
+    "categorySlug": "housing",
+    "zipCode": "43311"
+  },
+  {
+    "name": "Lutheran Community Services – Our Daily Bread",
+    "description": "Food pantry and hot meal program in Bellefontaine serving Logan County residents Monday–Friday, with dine-in meals, carry-out, and sack lunches available throughout the day.",
+    "address": "820 W. Sandusky Ave., Bellefontaine, OH 43311",
+    "phone": "(937) 592-9914",
+    "url": "https://www.becomebettertogether.org/food-pantry.html",
+    "categorySlug": "food",
+    "zipCode": "43311"
+  },
+  {
+    "name": "St. Elizabeth Center – Lorain",
+    "description": "Catholic Charities shelter and service center for vulnerable Lorain residents offering daily hot meals, a choice food pantry, rental and utility assistance, temporary overnight shelter for men, and case management.",
+    "address": "2726 Caroline Ave, Lorain, OH 44052",
+    "phone": "(440) 242-0056",
+    "url": "https://www.ccdocle.org/locations/st-elizabeth-center",
+    "categorySlug": "housing",
+    "zipCode": "44052"
+  },
+  {
+    "name": "The Salvation Army – Lorain Corps",
+    "description": "Salvation Army corps providing a food pantry, emergency financial assistance, and social support services to Lorain residents; food pantry open Monday, Tuesday, and Thursday 9–11 am.",
+    "address": "2506 Broadway, Lorain, OH 44052",
+    "phone": "(440) 244-1921",
+    "url": "https://easternusa.salvationarmy.org/northeast-ohio/lorain/",
+    "categorySlug": "food",
+    "zipCode": "44052"
+  },
+  {
+    "name": "Vine of Hope Food Pantry",
+    "description": "Community food pantry on Colorado Avenue in Lorain providing grocery assistance to local residents in need.",
+    "address": "1310 Colorado Ave, Lorain, OH 44052",
+    "phone": "(440) 277-1335",
+    "url": "https://www.211lorain.org/",
+    "categorySlug": "food",
+    "zipCode": "44052"
+  },
+  {
+    "name": "Cherry Street Mission Ministries",
+    "description": "Comprehensive homeless service provider in downtown Toledo operating a 24/7 emergency men's shelter, women's housing, three daily meals, and recovery programs for Lucas County residents.",
+    "address": "105 17th Street, Toledo, OH 43604",
+    "phone": "(419) 242-0068",
+    "url": "https://cherrystreetmission.org/",
+    "categorySlug": "housing",
+    "zipCode": "43604"
+  },
+  {
+    "name": "Helping Hands of St. Louis – Catholic Charities Diocese of Toledo",
+    "description": "Catholic Charities program offering a soup kitchen, food pantry, and clothing center to low-income and homeless families and individuals in the Toledo area.",
+    "address": "443 Sixth St., Toledo, OH 43605",
+    "phone": "(419) 691-0613",
+    "url": "https://catholiccharitiesnwo.org/what-we-do/feeding-the-hungry/helping-hands-of-st-louis.html",
+    "categorySlug": "food",
+    "zipCode": "43605"
+  },
+  {
+    "name": "Lutheran Social Services of Northwestern Ohio – Emergency Choice Food Pantry",
+    "description": "Emergency food pantry serving approximately 900 individuals monthly, providing a 5-day food supply with client choice; open to all Lucas County residents regardless of zip code.",
+    "address": "2149 Collingwood Blvd, Toledo, OH 43620",
+    "phone": "(419) 243-9178",
+    "url": "https://www.lssnwo.org/index.php/services/emergency-choice-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "43620"
+  },
+  {
+    "name": "St. Paul's Episcopal Church – Mobile Food Pantry",
+    "description": "Monthly mobile food pantry in Oregon, Ohio, partnering with Food for Thought to distribute fresh produce, meat, cereal, bread, and canned goods on the second Tuesday of each month, 3–5 pm.",
+    "address": "798 S. Coy Rd., Oregon, OH 43616",
+    "phone": "(419) 691-9400",
+    "url": "https://www.stpaulschurchoregon.org/mobile-food-pantry.html",
+    "categorySlug": "food",
+    "zipCode": "43616"
+  },
+  {
+    "name": "Rescue Mission of the Mahoning Valley",
+    "description": "Comprehensive homeless shelter and service provider in Youngstown offering 24/7 emergency shelter, three daily meals open to all, social work services, and recovery programs for Mahoning County residents.",
+    "address": "1300 Martin Luther King Jr. Blvd, Youngstown, OH 44510",
+    "phone": "(330) 744-5485",
+    "url": "https://rescuemissionmv.org/",
+    "categorySlug": "housing",
+    "zipCode": "44510"
+  },
+  {
+    "name": "Second Harvest Food Bank of the Mahoning Valley",
+    "description": "Regional food bank coordinating food distribution to pantries throughout Mahoning and Trumbull counties, serving residents in the Lowellville area through its partner network.",
+    "address": "2805 Salt Springs Rd, Youngstown, OH 44509",
+    "phone": "(330) 792-5522",
+    "url": "https://mahoningvalleysecondharvest.org",
+    "categorySlug": "food",
+    "zipCode": "44509"
+  },
+  {
+    "name": "Society of St. Vincent de Paul – Mahoning District",
+    "description": "All-volunteer food pantry serving grocery supplements to more than 30 Youngstown-area families every day of the week; voucher required to receive a food box.",
+    "address": "317 Via Mt. Carmel, Youngstown, OH 44505",
+    "phone": "",
+    "url": "https://svdpmahoning.org/",
+    "categorySlug": "food",
+    "zipCode": "44505"
+  },
+  {
+    "name": "Victory Christian Center Food Pantry",
+    "description": "Food pantry exclusively serving zip code 44436 residents, open the second Saturday of the month 8–9 am; requires photo ID, proof of income, and proof of residence.",
+    "address": "15 Bedford Rd, Lowellville, OH 44436",
+    "phone": "(330) 536-2127",
+    "url": "https://mahoningvalleysecondharvest.org/find-help/",
+    "categorySlug": "food",
+    "zipCode": "44436"
+  },
+  {
+    "name": "Brunswick Food Pantry",
+    "description": "Community food pantry serving Brunswick, Brunswick Hills, Valley City, and Hinckley residents; open every Thursday 9–11 am (closed holidays).",
+    "address": "1255 N. Carpenter Rd, Brunswick, OH 44212",
+    "phone": "(330) 220-8299",
+    "url": "http://brunswickfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "44212"
+  },
+  {
+    "name": "Care On The Square – Brunswick Campus Pantry",
+    "description": "Monthly food distribution in partnership with the Akron-Canton Foodbank, held on the third Saturday of each month 10 am–noon at Cuyahoga Valley Church's Brunswick campus.",
+    "address": "1226 Substation Rd, Brunswick, OH 44212",
+    "phone": "",
+    "url": "https://www.careonthesquare.org/brunswick-pantry/",
+    "categorySlug": "food",
+    "zipCode": "44212"
+  },
+  {
+    "name": "Feeding Medina County",
+    "description": "Regional food assistance nonprofit with a distribution site in Brunswick and an emergency pantry serving Medina County residents experiencing food insecurity.",
+    "address": "650 W. Smith St Rd, Medina, OH 44256",
+    "phone": "(330) 421-4816",
+    "url": "https://feedingmedinacounty.org/",
+    "categorySlug": "food",
+    "zipCode": "44256"
+  },
+  {
+    "name": "Bethany Center",
+    "description": "Nonprofit in Piqua providing free hot meals Tuesday–Friday 11:30 am–12:30 pm and a food pantry Wednesday and Thursday 1–3 pm to Miami County residents.",
+    "address": "339 South Street, Piqua, OH 45356",
+    "phone": "",
+    "url": "https://bethanycenterpiqua.wixsite.com/bethanycenter",
+    "categorySlug": "food",
+    "zipCode": "45356"
+  },
+  {
+    "name": "Fletcher United Methodist Church Food Pantry",
+    "description": "Small community food pantry in Fletcher serving Miami County residents, open the first and third Tuesday of each month with rotating hours of 3–5 pm and 5–7 pm.",
+    "address": "205 S. Walnut St., Fletcher, OH 45326",
+    "phone": "(937) 368-2470",
+    "url": "https://miamicountydd.org/miami-county-food-resources-updated-10-2025/",
+    "categorySlug": "food",
+    "zipCode": "45326"
+  },
+  {
+    "name": "The New Path – Piqua Food Pantry",
+    "description": "Food pantry at The Bistro in Piqua serving all Miami County residents with a photo ID and proof of residence; open Tuesday 3–4:30 pm and Wednesday 2–3:30 pm.",
+    "address": "1874 Commerce Dr., Piqua, OH 45356",
+    "phone": "(937) 669-1213",
+    "url": "https://www.newpathserves.org/",
+    "categorySlug": "food",
+    "zipCode": "45356"
+  },
+  {
+    "name": "Brookville Area Food Pantry",
+    "description": "Community food pantry in Brookville serving Montgomery County residents, open every Thursday 10 am–noon and 6:30–7:30 pm.",
+    "address": "963 Salem St., Brookville, OH 45309",
+    "phone": "",
+    "url": "https://brookvilleareafoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "45309"
+  },
+  {
+    "name": "Catholic Social Services of the Miami Valley – Choice Food Pantry",
+    "description": "One of Montgomery County's busiest food pantries serving residents of high-poverty west and northwest Dayton neighborhoods; open Monday–Friday mornings with case management linkages.",
+    "address": "922 W. Riverview Avenue, Dayton, OH 45402",
+    "phone": "(937) 223-7217",
+    "url": "https://cssmv.org/services/stabilization-success/choice-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "45402"
+  },
+  {
+    "name": "Community Health Centers of Greater Dayton",
+    "description": "Federally Qualified Health Center offering comprehensive primary care, dental, and pharmacy services to patients regardless of ability to pay, with a location serving the West Carrollton and south Dayton area.",
+    "address": "1323 West Third Street, Dayton, OH 45402",
+    "phone": "(937) 586-9733",
+    "url": "https://communityhealthdayton.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "45402"
+  },
+  {
+    "name": "East End Community Services",
+    "description": "Dayton nonprofit helping west-side residents achieve self-sufficiency through food access programs, affordable housing development, employment assistance, and community health resources.",
+    "address": "624 Xenia Ave, Dayton, OH 45410",
+    "phone": "",
+    "url": "https://daytonserves.org/listing-item/east-end-community-services/",
+    "categorySlug": "community",
+    "zipCode": "45410"
+  },
+  {
+    "name": "Homefull",
+    "description": "Dayton-based nonprofit working to end homelessness through emergency shelter, rapid rehousing, permanent supportive housing, behavioral health services, and advocacy for Montgomery County residents.",
+    "address": "33 W. 2nd St., Suite 100, Dayton, OH 45402",
+    "phone": "(937) 222-1981",
+    "url": "https://www.homefull.org/",
+    "categorySlug": "housing",
+    "zipCode": "45402"
+  },
+  {
+    "name": "Montgomery County Job and Family Services",
+    "description": "County agency providing social services including food assistance (SNAP), Medicaid, cash assistance, child care subsidies, and emergency services referrals to Montgomery County residents.",
+    "address": "1111 S Edwin C Moses Blvd, Dayton, OH 45422",
+    "phone": "(937) 225-4049",
+    "url": "https://www.mcohio.org/1252/Social-Services",
+    "categorySlug": "community",
+    "zipCode": "45439"
+  },
+  {
+    "name": "The Foodbank – Dayton (Montgomery County network)",
+    "description": "Regional food bank providing infrastructure for more than 110 member food pantries, community kitchens, and shelters serving Montgomery, Greene, and Preble counties including the Brookville area.",
+    "address": "56 Armor Place, Dayton, OH 45417",
+    "phone": "(937) 461-0265",
+    "url": "https://thefoodbankdayton.org/",
+    "categorySlug": "food",
+    "zipCode": "45417"
+  },
+  {
+    "name": "Morrow County Food Pantry",
+    "description": "County food pantry operated in partnership with Morrow County Health District, providing a three-day food supply once per month to Morrow County individuals and families in need.",
+    "address": "619 W Marion Rd, Entrance C, Mount Gilead, OH 43338",
+    "phone": "(419) 949-2620",
+    "url": "https://jfs.morrowcountyohio.gov/how_do_i/morrow_county_food_pantry.php",
+    "categorySlug": "food",
+    "zipCode": "43338"
+  },
+  {
+    "name": "Southeast Healthcare – Morrow County",
+    "description": "Provides behavioral health counseling and mental health services to Morrow County residents, with expanded evening hours to improve access for adults and families in the community.",
+    "address": "950 Meadow Drive, Suite A, Mount Gilead, OH 43338",
+    "phone": "(419) 949-2000",
+    "url": "https://southeasthc.org/locations/morrow-county/",
+    "categorySlug": "healthcare",
+    "zipCode": "43338"
+  },
+  {
+    "name": "United Way of Morrow County",
+    "description": "Local United Way chapter supporting community health, education, and financial stability programs throughout Morrow County through funded partnerships and 2-1-1 referral services.",
+    "address": "21 W High St, Mount Gilead, OH 43338",
+    "phone": "(419) 947-2416",
+    "url": "https://www.unitedwayofmorrowcounty.org/",
+    "categorySlug": "community",
+    "zipCode": "43338"
+  },
+  {
+    "name": "Eastside Community Ministry",
+    "description": "Ecumenical ministry in Zanesville offering a choice-model food pantry providing a three-day food supply monthly, plus clothing assistance and emergency relief to Muskingum County residents.",
+    "address": "221 Stillwell St, Zanesville, OH 43701",
+    "phone": "(740) 452-7519",
+    "url": "https://www.eastsideministry.org/",
+    "categorySlug": "food",
+    "zipCode": "43701"
+  },
+  {
+    "name": "Muskingum County Hunger Network",
+    "description": "Network coordinating 15 food pantries, four hot meal programs, and two special needs pantries across Muskingum County to address food insecurity for all county residents.",
+    "address": "Zanesville, OH 43701",
+    "phone": "(800) 544-1601",
+    "url": "https://www.gudsy.org/nonprofits/muskingum-county-hunger-network-inc-zanesville-oh",
+    "categorySlug": "food",
+    "zipCode": "43701"
+  },
+  {
+    "name": "Muskingum Valley Health Centers (MVHC)",
+    "description": "Federally Qualified Health Center providing quality, affordable primary and dental healthcare to Coshocton, Guernsey, Morgan, and Muskingum County residents regardless of ability to pay.",
+    "address": "915 Putnam Avenue, Zanesville, OH 43701",
+    "phone": "(888) 454-5157",
+    "url": "https://www.mvhccares.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "43701"
+  },
+  {
+    "name": "Zanesville-Muskingum County Health Department",
+    "description": "Public health agency serving Muskingum County with immunizations, disease prevention, environmental health, family health services, and community wellness programs.",
+    "address": "205 N Fifth St, Zanesville, OH 43701",
+    "phone": "(740) 454-9741",
+    "url": "https://www.zmchd.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "43701"
+  },
+  {
+    "name": "BCS Food Pantry – St. Paul United Church of Christ",
+    "description": "Community food pantry serving Oak Harbor and Ottawa County residents, open Monday and Thursday mornings to provide groceries to households in need.",
+    "address": "165 Toussaint St, Oak Harbor, OH 43449",
+    "phone": "(419) 898-0852",
+    "url": "https://www.foodpantries.org/co/oh-ottawa",
+    "categorySlug": "food",
+    "zipCode": "43449"
+  },
+  {
+    "name": "Ottawa County Department of Job and Family Services",
+    "description": "County agency providing food assistance (SNAP), health insurance (Medicaid), cash assistance, child care, and family planning services to Ottawa County residents.",
+    "address": "8043 W State Route 163, Suite 200, Oak Harbor, OH 43449",
+    "phone": "(419) 898-3688",
+    "url": "https://ottawacountyjfs.org/",
+    "categorySlug": "community",
+    "zipCode": "43449"
+  },
+  {
+    "name": "Ottawa County Health Center",
+    "description": "Community health center providing primary care and preventive health services to Ottawa County residents regardless of income or insurance status.",
+    "address": "8180 W State Route 163, Oak Harbor, OH 43449",
+    "phone": "(419) 898-6459",
+    "url": "https://www.ottawacountyhealthcenter.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "43449"
+  },
+  {
+    "name": "Ashville Food Pantry",
+    "description": "Local food pantry serving residents of the Teays Valley school district, including Ashville, on the second and fourth Thursdays of each month.",
+    "address": "20 Church St, Ashville, OH 43103",
+    "phone": "",
+    "url": "https://www.facebook.com/ashvillefoodpantry/",
+    "categorySlug": "food",
+    "zipCode": "43103"
+  },
+  {
+    "name": "Columbus Neighborhood Health Center – Circleville",
+    "description": "Federally Qualified Health Center providing comprehensive primary care and preventive services to underserved populations in Pickaway County.",
+    "address": "1021 S Court St, Circleville, OH 43113",
+    "phone": "(740) 477-4161",
+    "url": "https://cortico.health/clinics/circleville-oh/columbus-neighborhood-health-center-inc-115215/",
+    "categorySlug": "healthcare",
+    "zipCode": "43113"
+  },
+  {
+    "name": "PICCA – Pickaway County Community Action",
+    "description": "Community action agency operating the Ashville Neighborhood Center, providing transportation assistance, energy assistance (HEAP/PIPP), weatherization, Head Start, food pantry referrals, and empowerment services to Pickaway County residents.",
+    "address": "97 Miller Ave, Ashville, OH 43103",
+    "phone": "(740) 983-2530",
+    "url": "https://www.picca.info/",
+    "categorySlug": "community",
+    "zipCode": "43103"
+  },
+  {
+    "name": "Community Action Council of Portage County",
+    "description": "Designated anti-poverty agency for Portage County offering energy assistance (HEAP), emergency food and shelter program, weatherization, and youth and senior support programs.",
+    "address": "1036 W Main St, Ravenna, OH 44266",
+    "phone": "(330) 297-1456",
+    "url": "https://www.cacportage.net/",
+    "categorySlug": "community",
+    "zipCode": "44266"
+  },
+  {
+    "name": "Family & Community Services – Center of Hope",
+    "description": "Provides hot meals six days a week to Portage County residents in need, along with a choice-model Christian Cupboard food pantry serving households once per month.",
+    "address": "1081 W Main St, Ravenna, OH 44266",
+    "phone": "(330) 297-5454",
+    "url": "https://fcsserves.org/program/center-of-hope/",
+    "categorySlug": "food",
+    "zipCode": "44266"
+  },
+  {
+    "name": "Family & Community Services – Housing and Emergency Support Services",
+    "description": "Provides emergency shelter and supportive services to individuals and families experiencing a housing crisis in Portage County, with on-site case management and 24/7 support.",
+    "address": "1066 S Water St, Kent, OH 44240",
+    "phone": "(330) 673-6963",
+    "url": "https://fcsserves.org/",
+    "categorySlug": "housing",
+    "zipCode": "44240"
+  },
+  {
+    "name": "Safer Futures – Portage County Domestic Violence Shelter",
+    "description": "The only domestic violence shelter and resource center in Portage County, offering confidential emergency shelter, case management, and legal advocacy services for survivors of domestic violence.",
+    "address": "143 Gougler Ave, Kent, OH 44240",
+    "phone": "(330) 673-2500",
+    "url": "https://fcsserves.org/program/safer-futures/",
+    "categorySlug": "housing",
+    "zipCode": "44240"
+  },
+  {
+    "name": "Miami Valley Community Action Partnership – Preble County",
+    "description": "Community action agency serving Preble County residents with emergency food pantry, energy assistance programs (HEAP/PIPP), housing crisis response, Section 8 housing, and home weatherization.",
+    "address": "308 Eaton-Lewisburg Road, Eaton, OH 45320",
+    "phone": "(937) 456-2800",
+    "url": "https://miamivalleycap.org/preble-county-services/",
+    "categorySlug": "community",
+    "zipCode": "45320"
+  },
+  {
+    "name": "Preble County Public Health",
+    "description": "County health department providing immunizations, environmental health, family health, and community wellness services to all Preble County residents including those in rural areas.",
+    "address": "615 Hillcrest Dr, Eaton, OH 45320",
+    "phone": "(937) 472-0087",
+    "url": "https://www.preblecountyhealth.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "45320"
+  },
+  {
+    "name": "The Common Good of Preble County",
+    "description": "Nonprofit providing emergency food pantry, clothing assistance, financial assistance for utilities and rent, back-to-school supplies, and case coordination to Preble County residents in need.",
+    "address": "Eaton, OH 45320",
+    "phone": "(937) 456-6560",
+    "url": "https://www.commongoodpreble.com/",
+    "categorySlug": "food",
+    "zipCode": "45320"
+  },
+  {
+    "name": "Good Samaritan Network of Ross County – Food Bank",
+    "description": "Provides free food pantry services to all Ross County residents, including those in Clarksburg, offering shelf-stable and fresh food during weekday hours.",
+    "address": "603 Central Ave, Chillicothe, OH 45601",
+    "phone": "(740) 774-6303",
+    "url": "https://www.rossccac.org/services/good-samaritan-food-bank.html",
+    "categorySlug": "food",
+    "zipCode": "43115"
+  },
+  {
+    "name": "Ross County Community Action Commission",
+    "description": "Community action organization helping reduce poverty in Ross County through utility assistance, weatherization, early childhood programs, food programs, housing assistance, and community health programs.",
+    "address": "250 N Woodbridge Ave, Chillicothe, OH 45601",
+    "phone": "(740) 702-7222",
+    "url": "https://www.rossccac.org/",
+    "categorySlug": "community",
+    "zipCode": "43115"
+  },
+  {
+    "name": "FISH of Tiffin Food Pantry",
+    "description": "Faith-based food pantry operating out of First Lutheran Church, providing monthly food distributions to income-eligible Seneca County residents including those in Flat Rock.",
+    "address": "300 Melmore St, Tiffin, OH 44883",
+    "phone": "(419) 448-0690",
+    "url": "https://www.senecacountyfcfc.org/listing/fish-of-tiffin-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "44883"
+  },
+  {
+    "name": "Great Lakes Community Action Partnership (GLCAP)",
+    "description": "Community action agency headquartered in Bellevue serving Seneca and surrounding counties with housing assistance, utility aid, Head Start, senior programs, and rural community development.",
+    "address": "7353 CR 29, Flat Rock, OH 44828",
+    "phone": "(419) 483-7330",
+    "url": "https://www.glcap.org/",
+    "categorySlug": "community",
+    "zipCode": "44828"
+  },
+  {
+    "name": "Great Lakes Community Action Partnership (GLCAP)",
+    "description": "Community action agency serving Ottawa County with housing assistance, utility bill payment aid, Head Start, senior meals, weatherization, veterans assistance, and workforce development.",
+    "address": "7353 CR 29, Flat Rock, OH 44828",
+    "phone": "(419) 483-7330",
+    "url": "https://www.glcap.org/programs/housing-assistance/community-resources/ottawa-county-community-resources/",
+    "categorySlug": "community",
+    "zipCode": "44828"
+  },
+  {
+    "name": "The Salvation Army – Tiffin Citadel",
+    "description": "Provides emergency food pantry, utility assistance, rent assistance, and prescription help to individuals and families in Seneca County including those in Flat Rock and surrounding rural areas.",
+    "address": "505 E Market St, Tiffin, OH 44883",
+    "phone": "(419) 447-2252",
+    "url": "https://easternusa.salvationarmy.org/southwest-ohio/tiffin/",
+    "categorySlug": "food",
+    "zipCode": "44883"
+  },
+  {
+    "name": "Agape Distribution – Port Jefferson Mobile Pantry",
+    "description": "Community food pantry hosted at Port Jefferson United Methodist Church, offering free groceries on a choice-model basis twice monthly to Shelby County residents meeting income guidelines.",
+    "address": "101 Spring St, Port Jefferson, OH 45360",
+    "phone": "(937) 726-1566",
+    "url": "https://www.agapedistribution.org/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "45360"
+  },
+  {
+    "name": "F.I.S.H. of Shelby County",
+    "description": "Emergency assistance organization providing food, clothing, medicine, and other necessities to residents of Shelby County experiencing hardship.",
+    "address": "Sidney, OH 45365",
+    "phone": "",
+    "url": "https://fishofshelbycounty.wordpress.com/",
+    "categorySlug": "food",
+    "zipCode": "45365"
+  },
+  {
+    "name": "Shelby County United Way",
+    "description": "Local United Way chapter funding and coordinating health, education, and financial stability programs throughout Shelby County, with referrals to emergency assistance providers.",
+    "address": "2 Courthouse Square, Sidney, OH 45365",
+    "phone": "(937) 498-2343",
+    "url": "https://shelbycountyunitedway.org/",
+    "categorySlug": "community",
+    "zipCode": "45365"
+  },
+  {
+    "name": "Akron-Canton Regional Foodbank",
+    "description": "Regional food bank distributing food to more than 500 hunger-relief programs across eight Northeast Ohio counties, with direct distribution sites including locations serving the Navarre and southern Stark County area.",
+    "address": "1365 Cherry Ave NE, Canton, OH 44714",
+    "phone": "(330) 535-6900",
+    "url": "https://www.akroncantonfoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "44714"
+  },
+  {
+    "name": "CommQuest – Community Services of Stark County",
+    "description": "Provides behavioral health, employment, residential, and social services to Stark County residents including psychiatric services, case management, outpatient counseling, and substance use disorder treatment.",
+    "address": "1320 Mercy Dr NW, Canton, OH 44708",
+    "phone": "(330) 454-7066",
+    "url": "https://www.commquest.org/",
+    "categorySlug": "community",
+    "zipCode": "44708"
+  },
+  {
+    "name": "Refuge of Hope",
+    "description": "Men's shelter and meal ministry serving hot meals to hungry men, women, and children in Canton nine times per week, with dormitory shelter and access to counseling and support services for homeless men.",
+    "address": "715 Second St NE, Canton, OH 44704",
+    "phone": "(330) 453-1785",
+    "url": "https://refugeofhope.org/",
+    "categorySlug": "housing",
+    "zipCode": "44704"
+  },
+  {
+    "name": "Stark County Hunger Task Force",
+    "description": "Coordinates food assistance resources across Stark County including a walk-in food pantry, referrals to community partner pantries, and hunger relief programs serving Navarre and surrounding communities.",
+    "address": "408 9th St SW, Canton, OH 44707",
+    "phone": "(330) 455-6667",
+    "url": "http://starkhunger.org/",
+    "categorySlug": "food",
+    "zipCode": "44707"
+  },
+  {
+    "name": "United Way Services of Northern Columbiana County",
+    "description": "Coordinates and funds social service agencies serving northern Columbiana County, connecting residents to food, utility, housing, and other emergency assistance programs.",
+    "address": "420 W. State Street, Alliance, OH 44601",
+    "phone": "(330) 823-0700",
+    "url": "http://www.unitedwayofncc.org/",
+    "categorySlug": "community",
+    "zipCode": "44601"
+  },
+  {
+    "name": "Good Neighbors – Cuyahoga Falls",
+    "description": "Food and clothing assistance organization serving residents of Munroe Falls, Cuyahoga Falls, Stow, Hudson, Silver Lake, and surrounding Summit County communities with free food and clothing twice weekly.",
+    "address": "1742 2nd St, Cuyahoga Falls, OH 44221",
+    "phone": "(330) 928-8057",
+    "url": "https://cfgoodneighbors.org/",
+    "categorySlug": "food",
+    "zipCode": "44221"
+  },
+  {
+    "name": "Good Samaritan Hunger Center",
+    "description": "Faith-based hunger relief organization in Akron providing hot meals and food assistance to individuals and families experiencing food insecurity throughout Summit County.",
+    "address": "Akron, OH 44302",
+    "phone": "(330) 864-8520",
+    "url": "https://www.goodsamaritanhungercenter.org/",
+    "categorySlug": "food",
+    "zipCode": "44302"
+  },
+  {
+    "name": "OPEN M – Opportunity Parish Ecumenical Neighborhood Ministry",
+    "description": "Christian nonprofit serving over 67,000 individuals annually with emergency food pantry, grab-and-go lunches, health services, and employment programs for Akron-area residents in need.",
+    "address": "941 Princeton St, Akron, OH 44311",
+    "phone": "(330) 434-0110",
+    "url": "https://www.openm.org/",
+    "categorySlug": "food",
+    "zipCode": "44311"
+  },
+  {
+    "name": "Summit County Public Health",
+    "description": "County public health agency providing WIC, clinical services, dental services, environmental health, and community wellness programs at locations across Summit County.",
+    "address": "1867 W Market St, Akron, OH 44313",
+    "phone": "(330) 923-4891",
+    "url": "https://www.scph.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "44313"
+  },
+  {
+    "name": "The Salvation Army – Summit County",
+    "description": "Provides food pantry assistance, emergency financial help, shelter referrals, and family services to Summit County residents including those in west Akron ZIP codes.",
+    "address": "1033 Bellows St, Akron, OH 44311",
+    "phone": "(330) 762-8481",
+    "url": "https://easternusa.salvationarmy.org/northeast-ohio/summit-county/",
+    "categorySlug": "food",
+    "zipCode": "44311"
+  },
+  {
+    "name": "Society of St. Vincent de Paul – Trumbull County Food Pantries",
+    "description": "Network of parish-based food pantries throughout Trumbull County providing groceries and emergency assistance to households in need, including rural communities in the western county area.",
+    "address": "Warren, OH 44483",
+    "phone": "(330) 372-2215",
+    "url": "https://svdpneo.org/food/",
+    "categorySlug": "food",
+    "zipCode": "44483"
+  },
+  {
+    "name": "The Salvation Army – Hubbard Service Unit",
+    "description": "Provides food pantry services, emergency financial assistance, and social services to residents of Hubbard and Brookfield Township in Trumbull County.",
+    "address": "22 Westview Ave, Hubbard, OH 44425",
+    "phone": "(330) 534-4299",
+    "url": "https://easternusa.salvationarmy.org/northeast-ohio/northwest-ohio/",
+    "categorySlug": "food",
+    "zipCode": "44425"
+  },
+  {
+    "name": "Trumbull County Job and Family Services",
+    "description": "County agency providing SNAP food assistance, Medicaid, cash assistance, child care subsidies, and child support services to Trumbull County residents including those in Hubbard.",
+    "address": "280 N Park Ave, Warren, OH 44481",
+    "phone": "(330) 675-2000",
+    "url": "https://www.co.trumbull.oh.us/JFS/",
+    "categorySlug": "community",
+    "zipCode": "44481"
+  },
+  {
+    "name": "United Way of Trumbull County",
+    "description": "Local United Way chapter coordinating 2-1-1 referral services and funding community programs addressing food, housing, health, and education needs across Trumbull County.",
+    "address": "330 N Park Ave, Warren, OH 44481",
+    "phone": "(330) 394-4251",
+    "url": "https://www.unitedwaytrumbull.org/",
+    "categorySlug": "community",
+    "zipCode": "44481"
+  },
+  {
+    "name": "Warren Family Mission",
+    "description": "Christ-centered rescue mission providing free homeless shelter, hot meals, clothing, addiction recovery services, and emergency assistance to Trumbull County residents and surrounding communities.",
+    "address": "155 Tod Ave NW, Warren, OH 44485",
+    "phone": "(330) 394-5437",
+    "url": "https://warrenfamilymission.org/",
+    "categorySlug": "housing",
+    "zipCode": "44485"
+  },
+  {
+    "name": "Friends of the Homeless of Tuscarawas County",
+    "description": "Homeless shelter in New Philadelphia offering emergency and transitional housing, meals, case management, housing referrals, transport, and support meetings to homeless individuals in Tuscarawas County.",
+    "address": "211 E High Ave, New Philadelphia, OH 44663",
+    "phone": "(330) 602-6100",
+    "url": "https://fothtusc.org/",
+    "categorySlug": "housing",
+    "zipCode": "44663"
+  },
+  {
+    "name": "Greater Dover–New Philadelphia Food Pantry",
+    "description": "Community food pantry providing food assistance to households at or below 200% of the federal poverty level in Tuscarawas County, open Thursday evenings and Friday mornings.",
+    "address": "422 W Third St, Dover, OH 44622",
+    "phone": "(234) 801-8198",
+    "url": "https://dovernpfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "44622"
+  },
+  {
+    "name": "The Salvation Army – Dover/New Philadelphia",
+    "description": "Provides emergency food pantry assistance, utility help, and social services to Tuscarawas County residents including those in Tuscarawas village and surrounding areas.",
+    "address": "New Philadelphia, OH 44663",
+    "phone": "(330) 364-6537",
+    "url": "https://easternusa.salvationarmy.org/northeast-ohio/dover-new-philadelphia/",
+    "categorySlug": "food",
+    "zipCode": "44663"
+  },
+  {
+    "name": "United Way of Tuscarawas County",
+    "description": "Local United Way providing rent assistance, physical health, meal programs, education, and counseling services to Tuscarawas County residents through funded agency partnerships.",
+    "address": "1458 Fifth St NW, New Philadelphia, OH 44663",
+    "phone": "(330) 343-5176",
+    "url": "https://www.unitedwaytusc.org/",
+    "categorySlug": "community",
+    "zipCode": "44663"
+  },
+  {
+    "name": "Kings Local Food Pantry",
+    "description": "Community food pantry serving Warren County residents with free groceries three days per week on a choice-model basis, open Monday, Wednesday, and Friday mornings.",
+    "address": "83 N Section St, South Lebanon, OH 45065",
+    "phone": "(513) 494-2692",
+    "url": "https://www.kingslocalfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "45065"
+  },
+  {
+    "name": "Warren County Community Services, Inc.",
+    "description": "Community services organization providing emergency financial assistance for utilities and rent, food pantry referrals, and care management for elderly and low-income Warren County residents.",
+    "address": "645 Oak St, Lebanon, OH 45036",
+    "phone": "(513) 695-2100",
+    "url": "https://www.wccsi.org/",
+    "categorySlug": "community",
+    "zipCode": "45036"
+  },
+  {
+    "name": "People to People Ministries",
+    "description": "Wayne County nonprofit providing emergency food assistance, clothing, and utility assistance to individuals and families in need throughout the county including rural areas near Marshallville.",
+    "address": "220 W South St, Wooster, OH 44691",
+    "phone": "(330) 264-8839",
+    "url": "https://www.ptpm.net/",
+    "categorySlug": "community",
+    "zipCode": "44691"
+  },
+  {
+    "name": "The Salvation Army – Orrville Service Center",
+    "description": "Food pantry serving residents of Marshallville, Dalton, Kidron, North Lawrence, and Orrville whose household income is below 150% of the federal poverty guidelines, open Monday through Friday.",
+    "address": "Orrville, OH 44667",
+    "phone": "(330) 682-2832",
+    "url": "https://easternusa.salvationarmy.org/northeast-ohio/",
+    "categorySlug": "food",
+    "zipCode": "44667"
+  },
+  {
+    "name": "Wooster Hope Center",
+    "description": "Wayne County food pantry providing groceries to all county residents with picture ID who fall within 200% of the Federal Poverty Level, open Wednesday afternoons, Thursday evenings, and Friday mornings.",
+    "address": "807 S Spruce St, Wooster, OH 44691",
+    "phone": "(330) 683-2242",
+    "url": "https://woosterhopecenter.org/",
+    "categorySlug": "food",
+    "zipCode": "44691"
+  },
+  {
+    "name": "Brown Bag Food Project",
+    "description": "Community food assistance program providing a 5–7 day supply of food, hygiene items, and pet food once monthly to any Wood County resident experiencing hardship, with drive-through pick-up.",
+    "address": "530 Sandridge Rd, Bowling Green, OH 43402",
+    "phone": "(419) 960-5345",
+    "url": "https://www.brownbagfoodproject.org/",
+    "categorySlug": "food",
+    "zipCode": "43402"
+  },
+  {
+    "name": "Great Lakes Community Action Partnership (GLCAP) – Wood County",
+    "description": "Community action agency serving Wood County residents with utility assistance, housing support, Head Start, senior meals, weatherization, veterans assistance, and workforce development programs.",
+    "address": "1301 E Wooster St, Suite 100, Bowling Green, OH 43402",
+    "phone": "(800) 775-9767",
+    "url": "https://www.glcap.org/programs/housing-assistance/community-resources/wood-county-community-resources/",
+    "categorySlug": "community",
+    "zipCode": "43402"
+  },
+  {
+    "name": "Harbor Behavioral Health – Bowling Green",
+    "description": "Provides alcohol and drug treatment, mental health counseling, and behavioral health services to Wood County and surrounding area residents.",
+    "address": "1010 N Prospect St, Bowling Green, OH 43402",
+    "phone": "(419) 352-5387",
+    "url": "https://www.harbornetwork.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "43402"
+  },
+  {
+    "name": "Otsego Food Pantry – First Presbyterian Church",
+    "description": "Community food pantry by appointment serving residents of the Otsego school district in Grand Rapids and surrounding Wood County areas, requiring proof of residency.",
+    "address": "17700 Beaver St, Grand Rapids, OH 43522",
+    "phone": "(419) 830-1051",
+    "url": "https://www.needhelppayingbills.com/html/wood_county_food_pantries1.html",
+    "categorySlug": "food",
+    "zipCode": "43522"
+  },
+  {
+    "name": "The Salvation Army – Bowling Green",
+    "description": "Provides shelter, utility assistance, prescription assistance, emergency food, and social services to Wood County residents in need, open Monday through Friday.",
+    "address": "1045 N Main St, Suite 8, Bowling Green, OH 43402",
+    "phone": "(419) 352-5918",
+    "url": "https://easternusa.salvationarmy.org/",
+    "categorySlug": "housing",
+    "zipCode": "43402"
+  },
+  {
+    "name": "Wood County Community Health Center",
+    "description": "Division of the Wood County Health Department offering high-quality primary and preventive care to all community members regardless of income or insurance status, including dental services.",
+    "address": "1840 E Gypsy Lane Rd, Bowling Green, OH 43402",
+    "phone": "(419) 354-9049",
+    "url": "https://woodcountyhealth.org/health-center/",
+    "categorySlug": "healthcare",
+    "zipCode": "43402"
+  },
+  {
+    "name": "HHWP Community Action Commission",
+    "description": "Community action agency serving Wyandot County with utility assistance, prescription help, homeless prevention, weatherization, Head Start/child care options, and emergency housing assistance.",
+    "address": "559 S Warpole St, Upper Sandusky, OH 43351",
+    "phone": "(419) 294-3857",
+    "url": "https://www.glcap.org/programs/housing-assistance/community-resources/wyandot-county-community-resources/",
+    "categorySlug": "community",
+    "zipCode": "43351"
+  },
+  {
+    "name": "Open Door Food Pantry – Upper Sandusky",
+    "description": "Community food pantry housed at Trinity Evangelical Church providing food assistance to Wyandot County residents including those in Sycamore and surrounding rural areas.",
+    "address": "108 Malabar Ave, Upper Sandusky, OH 43351",
+    "phone": "(419) 209-6736",
+    "url": "https://wyandothelps.org/food-security/",
+    "categorySlug": "food",
+    "zipCode": "43351"
+  },
+  {
+    "name": "Sycamore Community Food Pantry",
+    "description": "Local food pantry serving residents of the Mohawk School District in Sycamore and Wyandot County, open on the second and fourth Thursday of each month.",
+    "address": "300 S Sycamore St, Sycamore, OH 44882",
+    "phone": "(419) 927-9707",
+    "url": "https://wyandothelps.org/directory/sycamore-community-food-pantry-at-sycamore-ucc/",
+    "categorySlug": "food",
+    "zipCode": "44882"
+  }
+]

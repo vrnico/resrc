@@ -1,0 +1,362 @@
+[
+  {
+    "name": "HOPE Services Hawaii",
+    "description": "Hawaii County's leading provider of shelter and homeless services, operating seven emergency shelters and 155 permanent housing units across the Big Island. Services include case management, street medicine, and housing assistance.",
+    "address": "357 Waianuenue Ave, Hilo, HI 96720",
+    "phone": "808-935-3050",
+    "url": "https://hopeserviceshawaii.org",
+    "categorySlug": "housing",
+    "zipCode": "96720"
+  },
+  {
+    "name": "Neighborhood Place of Kona",
+    "description": "Community-based nonprofit serving West Hawaii families since 1997, providing social service navigation, housing assistance referrals, and family strengthening programs.",
+    "address": "75-166 Kalani St #104, Kailua-Kona, HI 96740",
+    "phone": "808-331-8777",
+    "url": "https://npkona.org",
+    "categorySlug": "community",
+    "zipCode": "96740"
+  },
+  {
+    "name": "O Ka'u Kakou Pantry",
+    "description": "Community food pantry serving the Ka'u district, distributing food on the last Thursday of each month at the Kau District Gym.",
+    "address": "96-1149 Kamani St, Naalehu, HI 96772",
+    "phone": "808-928-8208",
+    "url": "https://www.hawaiifoodbasket.org/find-food-now",
+    "categorySlug": "food",
+    "zipCode": "96772"
+  },
+  {
+    "name": "Pahoa Pantry & Soup Kitchen",
+    "description": "Community food pantry and soup kitchen serving the lower Puna district, providing free meals and groceries to those in need.",
+    "address": "15-2710 Kauhale St, Pahoa, HI 96778",
+    "phone": "808-443-4598",
+    "url": "https://www.facebook.com/p/Pahoa-Pantry-Soup-Kitchen-100076163917188/",
+    "categorySlug": "food",
+    "zipCode": "96778"
+  },
+  {
+    "name": "Salvation Army Kailua-Kona Corps",
+    "description": "Provides emergency food bags by appointment and food pantry distributions on Tuesdays and Thursdays to individuals and families in need in West Hawaii.",
+    "address": "75-223 Kalani St, Kailua-Kona, HI 96740",
+    "phone": "808-326-2330",
+    "url": "https://hawaii.salvationarmy.org",
+    "categorySlug": "food",
+    "zipCode": "96740"
+  },
+  {
+    "name": "The Food Basket - Hawaii Island's Food Bank",
+    "description": "Hawaii Island's primary food bank certified by Feeding America and USDA, distributing perishable and non-perishable goods to Hawaii County residents. Emergency food service available Monday-Friday 1pm-3pm.",
+    "address": "40 Holomua St, Hilo, HI 96720",
+    "phone": "808-933-6030",
+    "url": "https://www.hawaiifoodbasket.org",
+    "categorySlug": "food",
+    "zipCode": "96720"
+  },
+  {
+    "name": "Angel Network Charities Food Bank",
+    "description": "Oahu's second largest food bank serving the Aina Haina and Hawaii Kai communities, providing perishable and non-perishable food items to elderly, families, and individuals in financial need.",
+    "address": "5339 Kalanianaole Hwy, Honolulu, HI 96821",
+    "phone": "808-466-3273",
+    "url": "https://www.angelnetworkcharities.org",
+    "categorySlug": "food",
+    "zipCode": "96821"
+  },
+  {
+    "name": "Calvary Chapel Pearl Harbor - Kokua Ministry",
+    "description": "Monthly food pantry distributing non-perishable groceries on the first Saturday of each month to families facing financial hardship.",
+    "address": "98-939 Moanalua Rd, Aiea, HI 96701",
+    "phone": "808-933-6030",
+    "url": "https://calvarychapelpearlharbor.com/kokua-ministry-food-distribution",
+    "categorySlug": "food",
+    "zipCode": "96701"
+  },
+  {
+    "name": "Central Union Church Windward Food Distribution",
+    "description": "Weekly food distribution site in Kailua serving the Windward Oahu community, held every Wednesday 9:00am-10:00am.",
+    "address": "38 Kaneohe Bay Dr, Kailua, HI 96734",
+    "phone": "808-941-0957",
+    "url": "https://centralunionchurch.org/serving-aloha/",
+    "categorySlug": "food",
+    "zipCode": "96734"
+  },
+  {
+    "name": "Community People Ministries - Aiea High School",
+    "description": "Free walk-up and drive-thru food distribution held at Aiea High School, open to all community members from 10am to noon.",
+    "address": "98-1276 Ulune St, Aiea, HI 96701",
+    "phone": "808-933-6030",
+    "url": "https://hawaiifoodbank.org/get-help/",
+    "categorySlug": "food",
+    "zipCode": "96701"
+  },
+  {
+    "name": "Hawaii Foodbank - Oahu Branch",
+    "description": "Oahu's primary food bank providing food assistance through more than 200 agency partners. Distributes to anyone facing hunger and maintains updated food assistance handouts with current pantry locations.",
+    "address": "2611 Kilihau St, Honolulu, HI 96819",
+    "phone": "808-836-3600",
+    "url": "https://hawaiifoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "96819"
+  },
+  {
+    "name": "Institute for Human Services (IHS)",
+    "description": "Hawaii's oldest and largest comprehensive homeless services agency, providing emergency shelter, housing, meals, employment assistance, case management, and outreach. Open 24 hours.",
+    "address": "546 Kaaahi St, Honolulu, HI 96817",
+    "phone": "808-447-2800",
+    "url": "https://ihshawaii.org",
+    "categorySlug": "housing",
+    "zipCode": "96817"
+  },
+  {
+    "name": "Kealahou West Oahu Emergency Shelter",
+    "description": "Emergency and transitional shelter program for families and individuals in West Oahu, providing housing support and case management services.",
+    "address": "50 Belleau Woods St, Kapolei, HI 96707",
+    "phone": "808-782-4342",
+    "url": "https://kealahouwestoahu.com/emergency-shelter-program/",
+    "categorySlug": "housing",
+    "zipCode": "96707"
+  },
+  {
+    "name": "KEY Project Food Pantry",
+    "description": "Food pantry in Kaneohe operating Monday through Friday 9am-3pm, with a limit of two pick-ups per month per household. Hosts two Hawaii Foodbank distributions monthly.",
+    "address": "47-200 Waihee Rd, Kaneohe, HI 96744",
+    "phone": "808-236-0350",
+    "url": "https://www.keyproject.org/community-development",
+    "categorySlug": "food",
+    "zipCode": "96744"
+  },
+  {
+    "name": "Kumuhonua Transitional Living Center",
+    "description": "Transitional living center serving single adults and couples (18+) who are homeless or at-risk, located at Kalaeloa/Barbers Point in Kapolei.",
+    "address": "91-1096 Yorktown St, Building 36, Kapolei, HI 96707",
+    "phone": "808-682-5494",
+    "url": "https://www.hcapweb.org/kumuhonua-transitional-living-center/",
+    "categorySlug": "housing",
+    "zipCode": "96707"
+  },
+  {
+    "name": "River of Life Mission",
+    "description": "Provides daily hot meals, food boxes, job training, clothing, shower facilities, and support services to the homeless community across Oahu. Meals served Monday-Friday with food box distribution the last two Fridays of the month.",
+    "address": "101 N Pauahi St, Honolulu, HI 96817",
+    "phone": "808-524-7656",
+    "url": "https://www.riveroflifemission.org",
+    "categorySlug": "food",
+    "zipCode": "96817"
+  },
+  {
+    "name": "The Pantry - Feeding Hawaii Together",
+    "description": "Online grocery-style food pantry allowing clients to shop 24/7 for emergency food items at no cost, with convenient pickup times available for Honolulu residents.",
+    "address": "2522 Rose St, Honolulu, HI 96819",
+    "phone": "808-536-7234",
+    "url": "https://thepantry.org",
+    "categorySlug": "food",
+    "zipCode": "96819"
+  },
+  {
+    "name": "Waianae Coast Comprehensive Health Center",
+    "description": "Federally Qualified Health Center providing comprehensive primary care to West Oahu communities including Waianae, Nanakuli, Kapolei, Ewa, and Waipahu. Walk-in clinics available.",
+    "address": "86-260 Farrington Hwy, Waianae, HI 96792",
+    "phone": "808-697-3300",
+    "url": "https://www.wcchc.com",
+    "categorySlug": "healthcare",
+    "zipCode": "96792"
+  },
+  {
+    "name": "Waikiki Community Center Emergency Food Pantry",
+    "description": "Emergency food pantry providing non-perishable food to over 800 individuals and families annually. Open Tuesdays 1:00pm-2:45pm; photo ID required.",
+    "address": "310 Paoakalani Ave, Honolulu, HI 96815",
+    "phone": "808-923-1802",
+    "url": "https://www.waikikicommunitycenter.org/services",
+    "categorySlug": "food",
+    "zipCode": "96815"
+  },
+  {
+    "name": "Catholic Charities Hawaii - Kauai Office",
+    "description": "Provides social services including housing assistance, immigration services, and family support programs to Kauai residents in need.",
+    "address": "4373 Rice St Suite 1, Lihue, HI 96766",
+    "phone": "808-245-3970",
+    "url": "https://www.catholiccharitieshawaii.org/kauai-programs-and-services/",
+    "categorySlug": "community",
+    "zipCode": "96766"
+  },
+  {
+    "name": "Church of the Pacific Mobile Pantry - Anahola",
+    "description": "Weekly mobile food pantry at Anahola Beach Park serving the Anahola community every Wednesday from 10:30am-11:30am.",
+    "address": "Anahola Beach Park, Anahola, HI 96703",
+    "phone": "808-826-6481",
+    "url": "https://www.churchofthepacific.org/hookipa-kauai-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "96703"
+  },
+  {
+    "name": "Eleele Baptist Church Food Pantry",
+    "description": "Monthly food pantry serving the Eleele community on the 2nd Saturday from 7:30am-8:00am, with emergency food available by calling first.",
+    "address": "339 Mehana Rd, Eleele, HI 96705",
+    "phone": "808-335-6154",
+    "url": "https://kauaifoodbank.org/get-help/",
+    "categorySlug": "food",
+    "zipCode": "96705"
+  },
+  {
+    "name": "Hawaii Foodbank - Kauai Branch",
+    "description": "Kauai branch of the statewide Hawaii Foodbank network, providing food assistance and coordinating pantry distribution across the island.",
+    "address": "4241 Hanahao Pl Ste 101, Lihue, HI 96766",
+    "phone": "808-482-2224",
+    "url": "https://kauai.hawaiifoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "96766"
+  },
+  {
+    "name": "Kauai Economic Opportunity (KEO) Emergency Shelter",
+    "description": "24/7 year-round emergency shelter and transitional housing for chronically homeless individuals, with rental assistance and case management services.",
+    "address": "2808 Wehe Rd, Lihue, HI 96766",
+    "phone": "808-245-7692",
+    "url": "https://keoinc.org",
+    "categorySlug": "housing",
+    "zipCode": "96766"
+  },
+  {
+    "name": "Kauai Independent Food Bank",
+    "description": "Distributes more than 30,000 pounds of food monthly to families in crisis and those experiencing food insecurity. Free community distributions on 2nd and 4th Wednesdays at 10am until supplies run out.",
+    "address": "3285 Waapa Rd, Lihue, HI 96766",
+    "phone": "808-246-3809",
+    "url": "https://kauaifoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "96766"
+  },
+  {
+    "name": "Kauai United Way",
+    "description": "Nonprofit dedicated to serving social service needs on Kauai since 1943, connecting residents to food, housing, health, and crisis resources across the island.",
+    "address": "4374 Kukui Grove St Ste 201, Lihue, HI 96766",
+    "phone": "808-245-2043",
+    "url": "https://kauaiunitedway.org",
+    "categorySlug": "community",
+    "zipCode": "96766"
+  },
+  {
+    "name": "North Shore Food Pantry - Anaina Hou",
+    "description": "Weekly food pantry serving North Shore Kauai every Saturday from 12:30pm-2:00pm at Anaina Hou Community Park in Kilauea.",
+    "address": "5-2723 Kuhio Hwy, Kilauea, HI 96754",
+    "phone": "808-212-1868",
+    "url": "https://www.kauaifoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "96754"
+  },
+  {
+    "name": "St. William Church Hall Food Pantry - Hanalei",
+    "description": "Weekly food pantry serving the Hanalei and North Shore community every Thursday from 4:00pm-5:00pm.",
+    "address": "5292-A Kuhio Hwy, Hanalei, HI 96714",
+    "phone": "808-346-2850",
+    "url": "https://malamakauai.org/kauai-emergency-food-resources/",
+    "categorySlug": "food",
+    "zipCode": "96714"
+  },
+  {
+    "name": "Women in Need (WIN) Hawaii",
+    "description": "Provides transitional housing and supportive services for women and their families, serving Hawaii's community since 1996.",
+    "address": "3136 Elua St, Lihue, HI 96766",
+    "phone": "808-245-3590",
+    "url": "https://winhi.org",
+    "categorySlug": "housing",
+    "zipCode": "96766"
+  },
+  {
+    "name": "Aunty Jan's House of Blessings - Molokai",
+    "description": "Weekly food distribution on Molokai serving the Maunaloa and Kaunakakai community every Tuesday from 10am-2pm.",
+    "address": "200 Maunaloa Hwy Suite B, Kaunakakai, HI 96748",
+    "phone": "808-552-2807",
+    "url": "https://mauifoodbank.org/food-distribution-sites/",
+    "categorySlug": "food",
+    "zipCode": "96748"
+  },
+  {
+    "name": "Calvary Chapel South Maui Food Pantry",
+    "description": "Free food pantry open Monday-Thursday 9:00am-2:00pm in Kihei, partnering with Maui Food Bank. No appointment needed; clients may visit twice per month.",
+    "address": "320 Ohukai Rd Ste 416, Kihei, HI 96753",
+    "phone": "808-463-2099",
+    "url": "https://www.calvarymaui.org/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "96753"
+  },
+  {
+    "name": "Ka Hale A Ke Ola Homeless Resource Centers (KHAKO)",
+    "description": "Comprehensive homeless resource center providing emergency shelter, life skills training, case management, medical clinic, and rental assistance to break the cycle of homelessness on Maui for over 30 years.",
+    "address": "670 Waiale Rd, Wailuku, HI 96793",
+    "phone": "808-242-7600",
+    "url": "https://www.khako.org",
+    "categorySlug": "housing",
+    "zipCode": "96793"
+  },
+  {
+    "name": "Maui Family Support Services",
+    "description": "Provides family strengthening, child abuse prevention, and social services to Maui County families including on Molokai. Offers case management and referrals to community resources.",
+    "address": "1761 Wili Pa Loop, Wailuku, HI 96793",
+    "phone": "808-242-0900",
+    "url": "https://www.mfss.org",
+    "categorySlug": "community",
+    "zipCode": "96793"
+  },
+  {
+    "name": "Maui Family Support Services - Molokai Office",
+    "description": "Provides family support, child welfare services, and social service referrals to Molokai families in Kaunakakai and surrounding areas.",
+    "address": "107 B Ala Malama Ave, Kaunakakai, HI 96748",
+    "phone": "808-553-8114",
+    "url": "https://www.mfss.org/contact-us/",
+    "categorySlug": "community",
+    "zipCode": "96748"
+  },
+  {
+    "name": "Maui Food Bank",
+    "description": "Maui County's primary food bank collecting and distributing food to over 124 partner agencies throughout Maui, Molokai, and Lanai. Programs include senior mobile pantry, BackPack Buddies, and fresh food delivery.",
+    "address": "760 Kolu St, Wailuku, HI 96793",
+    "phone": "808-243-9500",
+    "url": "https://mauifoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "96793"
+  },
+  {
+    "name": "Mental Health Kokua - Maui",
+    "description": "Provides community mental health services, crisis support, and behavioral health care to Maui County residents including those experiencing homelessness.",
+    "address": "133 N Market St A, Wailuku, HI 96793",
+    "phone": "808-244-7405",
+    "url": "https://www.mhkokua.org",
+    "categorySlug": "healthcare",
+    "zipCode": "96793"
+  },
+  {
+    "name": "Molokai Community Health Center",
+    "description": "The only Federally Qualified Health Center on Molokai, providing primary care, dental, behavioral health, women's health, and family planning on a sliding fee scale.",
+    "address": "30 Oki Pl, Kaunakakai, HI 96748",
+    "phone": "808-553-5038",
+    "url": "https://www.molokaichc.org",
+    "categorySlug": "healthcare",
+    "zipCode": "96748"
+  },
+  {
+    "name": "Molokai Community Service Council",
+    "description": "Community nonprofit providing social services coordination, emergency assistance, and community support programs across Molokai.",
+    "address": "25 Kamehameha V Hwy, Kaunakakai, HI 96748",
+    "phone": "808-553-3244",
+    "url": "https://www.molokai.org",
+    "categorySlug": "community",
+    "zipCode": "96748"
+  },
+  {
+    "name": "Sacred Hearts Church Food Pantry - Lanai City",
+    "description": "Long-running food pantry on Lanai operated out of Sacred Hearts Church, serving Lanai City residents for nearly 20 years.",
+    "address": "641 Houston St, Lanai City, HI 96763",
+    "phone": "808-565-6580",
+    "url": "https://www.lanai96763.com/lanai_cares/feeding-our-community/",
+    "categorySlug": "food",
+    "zipCode": "96763"
+  },
+  {
+    "name": "Salvation Army Lahaina Lighthouse Corps",
+    "description": "Provides food pantry distributions and homeless drop-in services (Hale Palekana) to the Lahaina community. Food pantry open Thursdays 9am-1:30pm.",
+    "address": "131 Shaw St, Lahaina, HI 96761",
+    "phone": "808-661-5335",
+    "url": "https://lahaina.salvationarmy.org",
+    "categorySlug": "food",
+    "zipCode": "96761"
+  }
+]

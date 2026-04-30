@@ -1,0 +1,694 @@
+[
+  {
+    "name": "Ashley County Medical Center",
+    "description": "A licensed 25-bed Critical Access Hospital in Crossett offering primary care, emergency services, and social services support for Ashley County residents.",
+    "address": "1015 Unity Rd, Crossett, AR 71635",
+    "phone": "(870) 639-6038",
+    "url": "https://www.acmconline.org",
+    "categorySlug": "healthcare",
+    "zipCode": "71635"
+  },
+  {
+    "name": "Hamburg Helping Hands Food Pantry",
+    "description": "Provides food and clothing assistance to residents of Ashley County. Food pantry open Tuesdays and Fridays with a clothes closet also available.",
+    "address": "1153 Ashley 73 North, Hamburg, AR 71646",
+    "phone": "(870) 853-9819",
+    "url": "https://www.homelessshelterdirectory.org/foodbank/ar_hamburg-helping-hands-food-pantry-and-clothes-closet",
+    "categorySlug": "food",
+    "zipCode": "71646"
+  },
+  {
+    "name": "Salvation Army Crossett",
+    "description": "Provides emergency food, utility assistance, clothing, and limited shelter referrals to individuals and families in need in Ashley County.",
+    "address": "1302 Chestnut Street, Crossett, AR 71635",
+    "phone": "(870) 364-3731",
+    "url": "https://www.salvationarmyusa.org",
+    "categorySlug": "food",
+    "zipCode": "59501",
+    "additionalZipCodes": [
+      "71635",
+      "87401",
+      "90302"
+    ]
+  },
+  {
+    "name": "Food Bank of North Central Arkansas",
+    "description": "Regional food bank fighting hunger in north-central Arkansas, serving Van Buren County and surrounding communities through food distribution programs.",
+    "address": "1042 Highland Circle, Mountain Home, AR 72653",
+    "phone": "(870) 499-7565",
+    "url": "https://foodbanknca.org",
+    "categorySlug": "food",
+    "zipCode": "72653"
+  },
+  {
+    "name": "Hope For All",
+    "description": "An all-volunteer 501(c)(3) organization serving homeless individuals in the Mountain Home area, providing food, toiletries, tents, sleeping bags, and temporary shelter assistance.",
+    "address": "421 West Wade Ave, Mountain Home, AR 72653",
+    "phone": "(870) 741-6107",
+    "url": "https://www.hopeforallmh.org",
+    "categorySlug": "housing",
+    "zipCode": "72653"
+  },
+  {
+    "name": "Unified Community Resource Council – Baxter & Marion Counties",
+    "description": "Coordinates food, clothing, housing, and utility assistance resources across Baxter and Marion Counties. Maintains a directory of local social services for Mountain Home area residents.",
+    "address": "Mountain Home, AR 72653",
+    "phone": "(870) 425-6685",
+    "url": "https://www.twinlakescommunity.org",
+    "categorySlug": "community",
+    "zipCode": "72653"
+  },
+  {
+    "name": "CARE Community Center",
+    "description": "Provides inclusive, no-cost community services to Rogers and Benton County residents including food support through the Root Cellar Pantry, tax preparation, and connection to other resources.",
+    "address": "2510 N 17th St, Ste 203, Rogers, AR 72756",
+    "phone": "(479) 246-0104",
+    "url": "https://carecc.org",
+    "categorySlug": "community",
+    "zipCode": "72756"
+  },
+  {
+    "name": "Community Clinic NWA – Rogers Medical",
+    "description": "A Federally Qualified Health Center (FQHC) offering primary care, preventive services, STI testing, vaccines, and family planning to uninsured and underinsured patients in Rogers.",
+    "address": "1233 W Poplar St, Rogers, AR 72756",
+    "phone": "(479) 636-9235",
+    "url": "https://www.communityclinicnwa.org",
+    "categorySlug": "healthcare",
+    "zipCode": "72756"
+  },
+  {
+    "name": "Helping Hands NWA",
+    "description": "One of the largest food pantries in Northwest Arkansas, providing food to more than 900 families each month along with utility assistance, rent assistance, and prescription medication help.",
+    "address": "2602 SW D St, Bentonville, AR 72712",
+    "phone": "(479) 273-2511",
+    "url": "https://helpinghandsnwa.org",
+    "categorySlug": "food",
+    "zipCode": "72712"
+  },
+  {
+    "name": "Northwest Arkansas Food Bank – Feed Rogers",
+    "description": "A community food distribution site in Rogers operated by the NWA Food Bank, providing free groceries to families in need in Benton County.",
+    "address": "216 S 13th St, Rogers, AR 72756",
+    "phone": "(479) 872-8774",
+    "url": "https://www.nwafoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "72756"
+  },
+  {
+    "name": "Samaritan Community Center",
+    "description": "Serves the hurting and hungry of Northwest Arkansas with a free food pantry, hot meals, dental care, counseling, and social work services at locations in Rogers and Springdale.",
+    "address": "2910 S 8th St, Rogers, AR 72758",
+    "phone": "(479) 636-4198",
+    "url": "https://www.samcc.org",
+    "categorySlug": "community",
+    "zipCode": "72758"
+  },
+  {
+    "name": "The Manna Center",
+    "description": "Provides free food pantry services to families in Siloam Springs and the surrounding southwest Benton County area, offering nutritionally balanced food packages to sustain households for up to a week.",
+    "address": "670 Heritage Court, Siloam Springs, AR 72761",
+    "phone": "(479) 524-9825",
+    "url": "https://themannacenter.org",
+    "categorySlug": "food",
+    "zipCode": "72761"
+  },
+  {
+    "name": "Ozark Share & Care",
+    "description": "A community-sponsored nonprofit providing emergency food pantry, hot meals, clothing, and household items to residents of Boone and Newton Counties in the Harrison area since 1987.",
+    "address": "102 Hwy 62/65 Bypass, Harrison, AR 72601",
+    "phone": "(870) 741-3130",
+    "url": "https://www.ozarkshareandcare.org",
+    "categorySlug": "food",
+    "zipCode": "72601"
+  },
+  {
+    "name": "Bradley County Medical Center Rural Health Clinic",
+    "description": "A rural health clinic affiliated with Bradley County Medical Center, providing primary care and walk-in services to residents of Warren and Bradley County.",
+    "address": "304 E Central St, Warren, AR 71671",
+    "phone": "(870) 226-8636",
+    "url": "https://www.bradleycountymedicalcenter.com",
+    "categorySlug": "healthcare",
+    "zipCode": "71671"
+  },
+  {
+    "name": "Healthy Connections Community Health Network – Arkadelphia",
+    "description": "A Federally Qualified Health Center (FQHC) providing primary care, women's health, pharmacy, and preventive services to uninsured and underinsured patients in Arkadelphia and Clark County.",
+    "address": "301 Professional Park Dr, Arkadelphia, AR 71923",
+    "phone": "(888) 710-8220",
+    "url": "https://healthy-connections.org",
+    "categorySlug": "healthcare",
+    "zipCode": "71923"
+  },
+  {
+    "name": "Cleburne County Cares Food Pantry and Crisis Center",
+    "description": "A nonprofit organization in Heber Springs created to provide food assistance and crisis support to residents of Cleburne County.",
+    "address": "Heber Springs, AR 72543",
+    "phone": "(501) 362-3635",
+    "url": "https://www.facebook.com/CleburneCoCares",
+    "categorySlug": "food",
+    "zipCode": "72543"
+  },
+  {
+    "name": "Conway County Care Center",
+    "description": "A 501(c)(3) nonprofit in Morrilton operating a drive-through food pantry and thrift store, providing food assistance to Conway County residents twice weekly.",
+    "address": "108 West Broadway, Morrilton, AR 72110",
+    "phone": "(501) 354-1454",
+    "url": "https://www.conwaycountycarecenter.com",
+    "categorySlug": "food",
+    "zipCode": "72110"
+  },
+  {
+    "name": "Food Bank of Northeast Arkansas",
+    "description": "Regional food bank distributing food through USDA commodity programs and partner agencies across Poinsett County and surrounding northeast Arkansas counties.",
+    "address": "3414 One Pl, Jonesboro, AR 72404",
+    "phone": "(870) 932-3663",
+    "url": "https://foodbankofnea.org",
+    "categorySlug": "food",
+    "zipCode": "72404"
+  },
+  {
+    "name": "Food Bank of Northeast Arkansas – Clay County",
+    "description": "Provides USDA food distributions and supports a network of partner food pantries in Clay County, including sites in Piggott and Corning serving low-income residents.",
+    "address": "3414 One Place, Jonesboro, AR 72404",
+    "phone": "(870) 932-3663",
+    "url": "https://www.foodbankofnea.org",
+    "categorySlug": "food",
+    "zipCode": "72404"
+  },
+  {
+    "name": "Food Bank of Northeast Arkansas – Lawrence County",
+    "description": "Distributes USDA commodity food and operates mobile pantry programs in Lawrence County, serving Walnut Ridge, Hoxie, and surrounding communities through partner agencies.",
+    "address": "3414 One Place, Jonesboro, AR 72404",
+    "phone": "(870) 932-3663",
+    "url": "https://www.foodbankofnea.org/county/lawrence",
+    "categorySlug": "food",
+    "zipCode": "72404"
+  },
+  {
+    "name": "Food Bank of Northeast Arkansas – Mississippi County",
+    "description": "Distributes USDA commodity food and operates mobile pantry programs in Mississippi County, serving Blytheville, Osceola, and surrounding communities through partner agencies.",
+    "address": "3414 One Place, Jonesboro, AR 72404",
+    "phone": "(870) 932-3663",
+    "url": "https://www.foodbankofnea.org/county/mississippi",
+    "categorySlug": "food",
+    "zipCode": "72404"
+  },
+  {
+    "name": "8th Street Mission for Jesus Christ",
+    "description": "Emergency shelter and food mission in West Memphis providing three meals daily, emergency housing, clothing, hygiene items, addiction recovery support, and GED and life skills training.",
+    "address": "717 East Broadway, West Memphis, AR 72301",
+    "phone": "(870) 735-6010",
+    "url": "https://8thstreetmission.org",
+    "categorySlug": "housing",
+    "zipCode": "72301"
+  },
+  {
+    "name": "Mid-South Food Bank",
+    "description": "Regional food bank serving 31 counties across Arkansas, Tennessee, and Mississippi including Crittenden County, operating mobile pantries and meal distributions in West Memphis, Earle, and Turrell.",
+    "address": "West Memphis, AR 72301",
+    "phone": "(901) 527-0841",
+    "url": "https://www.midsouthfoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "72301"
+  },
+  {
+    "name": "Community Action Program for Central Arkansas (CAPCA)",
+    "description": "A private nonprofit community action agency providing emergency shelter, food pantry, utility assistance, and Head Start programs to residents of Conway, Faulkner, Perry, Searcy, and Van Buren counties.",
+    "address": "707 Robins St, Ste 118, Conway, AR 72032",
+    "phone": "(501) 329-0977",
+    "url": "https://capcainc.org",
+    "categorySlug": "community",
+    "zipCode": "72032"
+  },
+  {
+    "name": "Cooperative Christian Ministries and Clinic (CCMC)",
+    "description": "A nonprofit in Hot Springs providing charitable medical, dental, pharmacy, and vision clinic services to the uninsured and underinsured, plus food assistance, poverty relief programs, and community support.",
+    "address": "133 Arbor Street, Hot Springs, AR 71901",
+    "phone": "(501) 318-1153",
+    "url": "https://ccmchs.org",
+    "categorySlug": "healthcare",
+    "zipCode": "71901"
+  },
+  {
+    "name": "Ouachita Children, Youth, and Family Services",
+    "description": "Provides 24-hour emergency shelter for children, domestic violence shelter and advocacy for families, and youth counseling and life skills services across Garland, Clark, Pike, Montgomery, and Hot Spring counties.",
+    "address": "339 Charteroak Street, Hot Springs, AR 71901",
+    "phone": "(501) 623-5591",
+    "url": "https://occnet.org",
+    "categorySlug": "housing",
+    "zipCode": "71901"
+  },
+  {
+    "name": "United Way of the Ouachitas",
+    "description": "Nonprofit connecting Pike County residents to health, education, and financial stability resources through community partnerships.",
+    "address": "P.O. Box 7, Hot Springs, AR 71902",
+    "phone": "(501) 623-2505",
+    "url": "https://unitedwayouachitas.org",
+    "categorySlug": "community",
+    "zipCode": "71901"
+  },
+  {
+    "name": "United Way of the Ouachitas – Project HOPE Food Bank",
+    "description": "Collaborates with 45 nonprofit partners in Garland County to ensure food is accessible throughout the county, providing food boxes, emergency food, and shelter assistance.",
+    "address": "233 Hobson Ave, Hot Springs, AR 71913",
+    "phone": "(501) 623-2505",
+    "url": "https://www.unitedwayouachitas.org",
+    "categorySlug": "food",
+    "zipCode": "71913"
+  },
+  {
+    "name": "Grant County Unified Community Resource Council",
+    "description": "Provides community resource coordination, clothing assistance through Kathy's Closet, and connects Sheridan and Grant County residents to local social services.",
+    "address": "106 Center Street, Sheridan, AR 72150",
+    "phone": "(870) 942-7373",
+    "url": "https://www.gcucrc.com",
+    "categorySlug": "community",
+    "zipCode": "72150"
+  },
+  {
+    "name": "Crowley's Ridge Development Council (CRDC)",
+    "description": "A community action agency serving northeast Arkansas, offering family enrichment programs, Head Start, LIHEAP utility assistance, and social services to low-income residents in Greene and surrounding counties.",
+    "address": "901 E Lake St, Paragould, AR 72450",
+    "phone": "(870) 239-3531",
+    "url": "https://crdcnea.org",
+    "categorySlug": "community",
+    "zipCode": "72450"
+  },
+  {
+    "name": "Mission Outreach of Northeast Arkansas",
+    "description": "A nonprofit in Paragould serving the community since 1982, providing emergency shelter, food pantry, utility assistance, medication assistance, and mental health services to Greene County residents.",
+    "address": "901 E Lake St, Paragould, AR 72450",
+    "phone": "(870) 236-8080",
+    "url": "https://www.missionoutreachnea.com",
+    "categorySlug": "housing",
+    "zipCode": "72450"
+  },
+  {
+    "name": "Hope In Action Food Pantry",
+    "description": "Provides supplemental food, temporary shelter, meals, and basic needs to individuals and families facing food insecurity and homelessness in Hempstead County.",
+    "address": "606 West 3rd Street, Hope, AR 71801",
+    "phone": "(870) 777-8227",
+    "url": "https://www.facebook.com/HopeArkInAction",
+    "categorySlug": "food",
+    "zipCode": "71801"
+  },
+  {
+    "name": "Finding Hope Arkansas",
+    "description": "Nonprofit serving Hot Spring County with a downtown Malvern Blessing Box stocked with food and hygiene items, a mobile free store, and crisis assistance for veterans, families, children, and seniors.",
+    "address": "P.O. Box 1511, Malvern, AR 72104",
+    "phone": "(501) 467-4322",
+    "url": "https://findinghopearkansas.org",
+    "categorySlug": "community",
+    "zipCode": "72104"
+  },
+  {
+    "name": "Batesville Help and Hope",
+    "description": "Nonprofit providing supplemental food and clothing to income-limited residents of Independence County; food pantry open Monday, Wednesday, and Friday mornings.",
+    "address": "2622 E Main St, Batesville, AR 72501",
+    "phone": "(870) 793-4437",
+    "url": "https://www.facebook.com/Batesvillehelpandhope",
+    "categorySlug": "food",
+    "zipCode": "72501"
+  },
+  {
+    "name": "Family Violence Prevention, Inc.",
+    "description": "Operates a 24-hour women's shelter and the Taylor House men's shelter in Batesville, providing safe housing, court advocacy, crisis intervention, and support services for domestic violence survivors in Independence County.",
+    "address": "P.O. Box 1131, Batesville, AR 72503",
+    "phone": "(870) 793-8111",
+    "url": "https://www.batesvillefamilyviolence.com",
+    "categorySlug": "housing",
+    "zipCode": "72501"
+  },
+  {
+    "name": "Manna House Food Pantry",
+    "description": "Community food pantry in Melbourne serving Izard County residents on Mondays and Saturdays, distributing food at no cost to households in need.",
+    "address": "147 Lunen Street, Melbourne, AR 72556",
+    "phone": "(870) 368-7111",
+    "url": "https://www.homelessshelterdirectory.org/foodbank/ar_newton-county-extension-office",
+    "categorySlug": "food",
+    "zipCode": "72556"
+  },
+  {
+    "name": "Food Bank of Northeast Arkansas – Jackson County Distribution",
+    "description": "Provides regular USDA commodity food distributions and senior food pantry programs to Jackson County residents through the Jackson County Senior Center in Newport.",
+    "address": "400 North Pecan Street, Newport, AR 72112",
+    "phone": "(870) 932-3663",
+    "url": "https://www.foodbankofnea.org/county/jackson",
+    "categorySlug": "food",
+    "zipCode": "72112"
+  },
+  {
+    "name": "Mid-South Health Systems",
+    "description": "Community mental health center providing behavioral health, substance use treatment, and crisis services to residents of Northeast Arkansas including Jackson County.",
+    "address": "P.O. Box 6028, Jonesboro, AR 72403",
+    "phone": "(870) 935-0941",
+    "url": "https://www.midsouthhealthsystems.org",
+    "categorySlug": "healthcare",
+    "zipCode": "72112"
+  },
+  {
+    "name": "Pine Bluff Mission",
+    "description": "Nonprofit organization in Pine Bluff providing food bank and soup kitchen services, home repair assistance, and referrals to legal aid and other community resources.",
+    "address": "P.O. Box 7855, Pine Bluff, AR 71611",
+    "phone": "(870) 534-1272",
+    "url": "https://www.pinebluffmission.net",
+    "categorySlug": "food",
+    "zipCode": "71601"
+  },
+  {
+    "name": "The Salvation Army – Pine Bluff",
+    "description": "Provides emergency shelter, meals (breakfast, lunch, dinner), food pantry, emergency financial assistance, and case management to Jefferson County and surrounding area residents.",
+    "address": "501 E 12th Avenue, Pine Bluff, AR 71601",
+    "phone": "(870) 534-0504",
+    "url": "https://www.salvationarmyusa.org/ar/pine-bluff/",
+    "categorySlug": "housing",
+    "zipCode": "71601"
+  },
+  {
+    "name": "Johnson County Helping Hands",
+    "description": "All-volunteer organization in Clarksville providing a women's shelter, emergency food vouchers, utility bill assistance, rent assistance, and referrals to other resources for Johnson County residents.",
+    "address": "805 W Cherry Street, Clarksville, AR 72830",
+    "phone": "(479) 754-3392",
+    "url": "https://www.clarksvillejocochamber.com/helpinghands.html",
+    "categorySlug": "housing",
+    "zipCode": "72830"
+  },
+  {
+    "name": "ARVAC, Inc. – Logan County Outreach (Paris)",
+    "description": "Arkansas River Valley Area Council community action agency providing low-income assistance including senior food boxes (CSFP), clothing, and referrals to a nine-county service area including Logan County.",
+    "address": "124 North Elm Street, Paris, AR 72855",
+    "phone": "(479) 963-6325",
+    "url": "https://www.arvacinc.org",
+    "categorySlug": "community",
+    "zipCode": "72855"
+  },
+  {
+    "name": "Lonoke County Safe Haven",
+    "description": "Domestic violence shelter in Cabot providing 30-day emergency shelter, 24-hour crisis hotline, legal advocacy, support groups, and services for survivors of domestic violence, sexual assault, and human trafficking in Lonoke County.",
+    "address": "P.O. Box 414, Cabot, AR 72023",
+    "phone": "(501) 941-4357",
+    "url": "https://lcsh.org",
+    "categorySlug": "housing",
+    "zipCode": "72023"
+  },
+  {
+    "name": "Bull Shoals Food Pantry",
+    "description": "Community food pantry operated by Bull Shoals United Methodist Church serving Marion County and surrounding areas, open Wednesdays, Fridays, and the third Saturday of each month.",
+    "address": "1013 Lakeshore Rd, Bull Shoals, AR 72619",
+    "phone": "(870) 405-9468",
+    "url": "https://bullshoalsfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "72619"
+  },
+  {
+    "name": "Marion County Community Services",
+    "description": "County-level nonprofit coordinating social services and community programs for Marion County residents, including referrals to housing, food, and emergency assistance in the Yellville area.",
+    "address": "P.O. Box 948, Yellville, AR 72687",
+    "phone": "(870) 449-4209",
+    "url": "https://www.marioncountycommunityservices.org",
+    "categorySlug": "community",
+    "zipCode": "72687"
+  },
+  {
+    "name": "Marion County Food Bank",
+    "description": "Nonprofit food bank dedicated to alleviating hunger among Marion County families, distributing food to those in need in and around Yellville.",
+    "address": "Yellville, AR 72687",
+    "phone": "(870) 449-4209",
+    "url": "https://marioncountyfoodbank.com",
+    "categorySlug": "food",
+    "zipCode": "29571",
+    "additionalZipCodes": [
+      "72687"
+    ]
+  },
+  {
+    "name": "Harvest Regional Food Bank",
+    "description": "A regional Feeding America food bank based in Texarkana serving Columbia, Howard, Lafayette, Pike, and Sevier counties in Arkansas with food distributions and partner pantry support.",
+    "address": "3120 E 19th St, Texarkana, AR 71854",
+    "phone": "(870) 774-1398",
+    "url": "https://harvestregionalfoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "71854"
+  },
+  {
+    "name": "Harvest Regional Food Bank – Little River County",
+    "description": "Provides food distribution and partners with a senior center soup kitchen (Monday–Thursday) in Ashdown, serving Little River County residents through the regional food bank network.",
+    "address": "3120 E 19th St, Texarkana, AR 71854",
+    "phone": "(870) 774-1398",
+    "url": "https://harvestregionalfoodbank.org/little-river",
+    "categorySlug": "food",
+    "zipCode": "71854"
+  },
+  {
+    "name": "Harvest Regional Food Bank – Nevada County",
+    "description": "Partners with local agencies to distribute food across Nevada County, providing food assistance to Prescott-area residents through the regional Feeding America network.",
+    "address": "3120 E 19th St, Texarkana, AR 71854",
+    "phone": "(870) 774-1398",
+    "url": "https://harvestregionalfoodbank.org/nevada",
+    "categorySlug": "food",
+    "zipCode": "71854"
+  },
+  {
+    "name": "Mission Texarkana",
+    "description": "For over 50 years has served indigent and homeless residents of the Texarkana metro area with daily hot meals, food pantry items, clothing, hygiene products, and vocational assistance.",
+    "address": "620 W Fourth St, Texarkana, TX 75501",
+    "phone": "(903) 793-1600",
+    "url": "https://missiontexarkana.org",
+    "categorySlug": "housing",
+    "zipCode": "71854"
+  },
+  {
+    "name": "Mississippi County Union Mission",
+    "description": "Provides 24/7 emergency shelter for men, women, and children in Blytheville, along with a food pantry (Mon/Wed/Fri), daily sack lunches, and free clothing in Mississippi County.",
+    "address": "400 E Walnut St, Blytheville, AR 72315",
+    "phone": "(870) 763-8380",
+    "url": "https://misscomission.org",
+    "categorySlug": "housing",
+    "zipCode": "72315"
+  },
+  {
+    "name": "Montgomery County Food Pantry",
+    "description": "Nonprofit food pantry providing emergency food assistance to families in Montgomery County, open Monday, Wednesday, and Friday from 10am to noon in Mount Ida.",
+    "address": "117 Ray Drive, Mount Ida, AR 71957",
+    "phone": "(870) 867-7168",
+    "url": "https://www.facebook.com/MontgomeryCountyFoodPantry",
+    "categorySlug": "food",
+    "zipCode": "71957"
+  },
+  {
+    "name": "FoodShare Arkansas",
+    "description": "Community food pantry serving Nevada County and surrounding areas including Gurdon, Emmet, and Blevins; open Tuesdays and Wednesdays with a well-stocked pantry operating as a safety net for food insecurity.",
+    "address": "229 East Main Street, Prescott, AR 71857",
+    "phone": "(870) 887-3663",
+    "url": "https://www.facebook.com/FoodShareArkansas",
+    "categorySlug": "food",
+    "zipCode": "71857"
+  },
+  {
+    "name": "Women's Crisis Center of South Arkansas",
+    "description": "Provides confidential emergency shelter (17 beds), crisis intervention, case management, safety planning, transportation, and domestic violence education to Ouachita County and surrounding area survivors.",
+    "address": "P.O. Box 1149, Camden, AR 71701",
+    "phone": "(870) 836-0375",
+    "url": "https://www.wccsaempowers.com",
+    "categorySlug": "housing",
+    "zipCode": "71701"
+  },
+  {
+    "name": "Partners for Progress of Perry County",
+    "description": "Small independent food pantry in Perryville serving Perry County families with emergency food, a clothes closet, Thanksgiving and Christmas food baskets, and a Samaritan emergency fund for prescriptions and utilities.",
+    "address": "1115 Aplin Avenue, Perryville, AR 72126",
+    "phone": "(501) 889-2422",
+    "url": "https://partnersforprogress.dudaone.com",
+    "categorySlug": "food",
+    "zipCode": "72126"
+  },
+  {
+    "name": "Mid-Delta Community Services, Inc.",
+    "description": "Community action agency established in 1966 serving Phillips, Monroe, Prairie, and Lee counties with employment, transportation, education, emergency services, food and rent assistance, and community programs.",
+    "address": "1125 Springdale Rd, Helena, AR 72342",
+    "phone": "(870) 338-3411",
+    "url": "https://middeltacs.com",
+    "categorySlug": "community",
+    "zipCode": "72342"
+  },
+  {
+    "name": "Arkansas River Valley Area Council (ARVAC) Food Bank",
+    "description": "Community action agency food bank providing TEFAP and CSFP food distribution to income-eligible individuals and families in Pope County and eight surrounding counties.",
+    "address": "3001 E H St, Russellville, AR 72801",
+    "phone": "(479) 968-1100",
+    "url": "https://www.arvacinc.org/services/food-bank",
+    "categorySlug": "food",
+    "zipCode": "72801"
+  },
+  {
+    "name": "Community Services Clearinghouse",
+    "description": "Hunger-relief organization allevating food insecurity across seven counties in the Arkansas River Valley region.",
+    "address": "Russellville, AR 72801",
+    "phone": "(479) 968-2901",
+    "url": "https://csclearinghouse.org",
+    "categorySlug": "food",
+    "zipCode": "72801"
+  },
+  {
+    "name": "Main Street Mission",
+    "description": "Food pantry and soup kitchen distributing weekly food boxes and meals to struggling families in the Russellville River Valley area.",
+    "address": "1110 E 2nd St, Russellville, AR 72801",
+    "phone": "(479) 968-8303",
+    "url": "http://mainstreetmission.org",
+    "categorySlug": "food",
+    "zipCode": "72801"
+  },
+  {
+    "name": "River Valley Food 4 Kids",
+    "description": "Nonprofit providing meals, backpack pantry support, and nutrition programs to food-insecure children in Pope County and the Arkansas River Valley.",
+    "address": "3001 E H St, Russellville, AR 72801",
+    "phone": "(479) 223-1544",
+    "url": "https://www.rivervalleyfood4kids.org",
+    "categorySlug": "food",
+    "zipCode": "72801"
+  },
+  {
+    "name": "12th Street Health and Wellness Center (UAMS)",
+    "description": "Student-run free health clinic operated by UAMS providing primary care and wellness services to uninsured and underserved residents in the Little Rock area.",
+    "address": "4010 W 12th St, Little Rock, AR 72204",
+    "phone": "(501) 614-2492",
+    "url": "https://uamshealth.com/health-on-12th/",
+    "categorySlug": "healthcare",
+    "zipCode": "72204"
+  },
+  {
+    "name": "Arkansas Foodbank",
+    "description": "The largest hunger-relief organization in Arkansas, serving 33 counties in central and southern Arkansas including Arkansas County. Distributes food through partner pantries, soup kitchens, and shelters.",
+    "address": "4301 W 65th Street, Little Rock, AR 72209",
+    "phone": "(501) 565-8121",
+    "url": "https://arkansasfoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "72209"
+  },
+  {
+    "name": "Central Arkansas Development Council (CADC)",
+    "description": "Private nonprofit community action agency providing LIHEAP energy assistance, USDA commodity food distribution, Head Start, and financial support services across 19 Arkansas counties.",
+    "address": "5401 S University Ave, Little Rock, AR 72209",
+    "phone": "(501) 603-0909",
+    "url": "https://www.cadc.com",
+    "categorySlug": "community",
+    "zipCode": "72209"
+  },
+  {
+    "name": "Community Health Centers of Arkansas",
+    "description": "Statewide network of Federally Qualified Health Centers with 230+ locations providing affordable primary care, dental, and behavioral health services across Arkansas including Independence County.",
+    "address": "1200 Commerce Drive, Little Rock, AR 72202",
+    "phone": "(501) 372-5504",
+    "url": "https://www.chc-ar.org",
+    "categorySlug": "healthcare",
+    "zipCode": "72202"
+  },
+  {
+    "name": "Our House",
+    "description": "Shelter and transitional housing program in Little Rock providing emergency shelter, job training, and housing stability services for individuals and families experiencing homelessness.",
+    "address": "302 E Roosevelt Rd, Little Rock, AR 72206",
+    "phone": "(501) 374-7383",
+    "url": "https://ourhouseshelter.org",
+    "categorySlug": "housing",
+    "zipCode": "72206"
+  },
+  {
+    "name": "CJCOHN (Churches Joint Council on Human Needs)",
+    "description": "Coalition of 15 Saline County churches providing food, clothing, toiletries, rent, utility, and emergency assistance to low-income residents in the Benton area.",
+    "address": "103 E Elm St, Benton, AR 72015",
+    "phone": "(501) 776-2912",
+    "url": "http://www.fumcbenton.org/CJCOHN",
+    "categorySlug": "community",
+    "zipCode": "72015"
+  },
+  {
+    "name": "Antioch for Youth & Family",
+    "description": "Food pantry and community service organization providing groceries, mobile pantry services for veterans, seniors, and people with disabilities in the Fort Smith area.",
+    "address": "1420 N 32nd St, Fort Smith, AR 72904",
+    "phone": "(479) 459-0669",
+    "url": "https://antiochyouthfamily.org",
+    "categorySlug": "food",
+    "zipCode": "72904"
+  },
+  {
+    "name": "River Valley Regional Food Bank",
+    "description": "Feeding America food bank serving eight counties in West Central Arkansas including Crawford County, distributing over 9.5 million pounds of food annually through 190 nonprofit partner agencies.",
+    "address": "1617 S Zero St, Fort Smith, AR 72901",
+    "phone": "(479) 785-0582",
+    "url": "https://www.rvrfoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "72901"
+  },
+  {
+    "name": "The Guidance Center (Western Arkansas Counseling & Guidance Center)",
+    "description": "Nonprofit community behavioral healthcare provider offering mental health, substance use disorder treatment, and counseling services across Sebastian and five other western Arkansas counties.",
+    "address": "3111 S 70th St, Fort Smith, AR 72903",
+    "phone": "(479) 452-6650",
+    "url": "https://www.wacgc.org",
+    "categorySlug": "healthcare",
+    "zipCode": "72903"
+  },
+  {
+    "name": "Sevier County Housing Authority",
+    "description": "Public housing authority established in 1962 providing affordable housing and on-site food pantry services for low-income residents across De Queen, Horatio, and Lockesburg.",
+    "address": "304 S 13th St, De Queen, AR 71832",
+    "phone": "(870) 642-2960",
+    "url": "https://www.sevierhousing.org",
+    "categorySlug": "housing",
+    "zipCode": "71832"
+  },
+  {
+    "name": "SFC Food Pantry",
+    "description": "Community food pantry in Forrest City empowering seniors and families by providing food boxes, meals, clothing, and hygiene products to those in need in St. Francis County.",
+    "address": "128 S Water St, Forrest City, AR 72335",
+    "phone": "(870) 630-1823",
+    "url": "https://www.sfcfoodpantry.com",
+    "categorySlug": "food",
+    "zipCode": "72335"
+  },
+  {
+    "name": "Stone County Community Food Ministry",
+    "description": "Local food pantry distributing food to residents of Stone County on a monthly basis, with emergency food available for families in crisis.",
+    "address": "310 School Ave, Mountain View, AR 72560",
+    "phone": "(870) 615-4500",
+    "url": "https://www.facebook.com/stonecofoodministry",
+    "categorySlug": "food",
+    "zipCode": "72560"
+  },
+  {
+    "name": "Interfaith Health Clinic (SHARE Foundation)",
+    "description": "Nonprofit free clinic providing primary medical care, lab work, medication assistance, and diabetes education on a sliding fee scale for uninsured low-income patients in Union County.",
+    "address": "403 W Oak St Ste 200, El Dorado, AR 71730",
+    "phone": "(870) 864-8010",
+    "url": "https://sharefoundation.com",
+    "categorySlug": "healthcare",
+    "zipCode": "71730"
+  },
+  {
+    "name": "Interfaith Help Services",
+    "description": "Multi-agency nonprofit food pantry and emergency assistance program providing food, prescription assistance, and gas assistance for medical appointments to Union County residents.",
+    "address": "512 Champagnolle Rd, El Dorado, AR 71730",
+    "phone": "(870) 862-2294",
+    "url": "https://www.facebook.com/p/Interfaith-Help-Services-100064834082964/",
+    "categorySlug": "food",
+    "zipCode": "71730"
+  },
+  {
+    "name": "7Hills Homeless Center",
+    "description": "Provides day shelter, hot meals, showers, laundry, clothing, job resources, phone and internet access, and case management to homeless individuals in the Fayetteville and NWA area.",
+    "address": "1555 W Martin Luther King Blvd, Fayetteville, AR 72701",
+    "phone": "(479) 966-4644",
+    "url": "https://www.7hillscenter.org",
+    "categorySlug": "housing",
+    "zipCode": "72701"
+  },
+  {
+    "name": "Good Samaritan Center of White County",
+    "description": "Nonprofit food pantry providing free groceries to low-income individuals and households in White County, operating twice weekly out of Searcy.",
+    "address": "1512 W Park St, Searcy, AR 72143",
+    "phone": "(501) 279-3642",
+    "url": "https://www.searcychamber.com/list/member/good-samaritan-center-5012342",
+    "categorySlug": "food",
+    "zipCode": "72143"
+  }
+]

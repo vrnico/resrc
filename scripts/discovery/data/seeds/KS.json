@@ -1,0 +1,1835 @@
+[
+  {
+    "name": "Allen County Hospital",
+    "description": "Critical access hospital serving Allen County and surrounding rural communities. Provides emergency care, primary care, and community health services.",
+    "address": "101 S 1st St, Iola, KS 66749",
+    "phone": "(620) 365-1000",
+    "url": "https://www.allencountyhospital.com",
+    "categorySlug": "healthcare",
+    "zipCode": "66749"
+  },
+  {
+    "name": "Community Food Pantry of Iola",
+    "description": "Provides emergency food assistance to residents of Allen County. Distributes groceries and shelf-stable items to individuals and families in need.",
+    "address": "2 S Cottonwood St, Iola, KS 66749",
+    "phone": "(620) 365-5181",
+    "url": "https://www.ucc-iola.org/community-outreach",
+    "categorySlug": "food",
+    "zipCode": "66749"
+  },
+  {
+    "name": "SEK Multi-County Community Action Agency",
+    "description": "Provides comprehensive social services including food assistance, utility assistance, weatherization, and Head Start programs across Southeast Kansas counties including Allen and Anderson.",
+    "address": "1 S Washington Ave, Iola, KS 66749",
+    "phone": "(620) 365-8128",
+    "url": "https://www.sekmulticounty.org",
+    "categorySlug": "community",
+    "zipCode": "66749"
+  },
+  {
+    "name": "Anderson County Food Pantry",
+    "description": "Emergency food pantry serving residents of Anderson County. Provides supplemental groceries and personal care items to qualifying households.",
+    "address": "115 W 5th Ave, Garnett, KS 66032",
+    "phone": "(785) 448-6767",
+    "url": "https://www.ks.gov/dcf/programs/esa",
+    "categorySlug": "food",
+    "zipCode": "66032"
+  },
+  {
+    "name": "Anderson County Hospital",
+    "description": "Critical access hospital providing inpatient, emergency, and outpatient services to Anderson County residents. Offers a range of primary and specialty care services.",
+    "address": "421 S Maple St, Garnett, KS 66032",
+    "phone": "(785) 448-3131",
+    "url": "https://www.andersoncountyhospital.com",
+    "categorySlug": "healthcare",
+    "zipCode": "66032"
+  },
+  {
+    "name": "Atchison Food Pantry",
+    "description": "Community food pantry providing emergency food assistance to low-income residents of Atchison County. Offers groceries, produce, and household staples.",
+    "address": "306 Commercial St, Atchison, KS 66002",
+    "phone": "(913) 367-2726",
+    "url": "https://www.catholiccharitiesks.org",
+    "categorySlug": "food",
+    "zipCode": "66002"
+  },
+  {
+    "name": "Atchison Hospital",
+    "description": "Community hospital serving Atchison County and the tri-state area. Provides emergency care, surgical services, primary and specialty care, and community health programs.",
+    "address": "800 Raven Hill Dr, Atchison, KS 66002",
+    "phone": "(913) 367-2131",
+    "url": "https://www.atchisonhospital.org",
+    "categorySlug": "healthcare",
+    "zipCode": "66002"
+  },
+  {
+    "name": "Benedictine College Campus Ministry Food Pantry",
+    "description": "Food pantry operated through Benedictine College serving students and community members in Atchison. Provides groceries and basic necessities to those in need.",
+    "address": "1020 N 2nd St, Atchison, KS 66002",
+    "phone": "(913) 360-7500",
+    "url": "https://www.benedictine.edu/campus-life/campus-ministry",
+    "categorySlug": "food",
+    "zipCode": "66002"
+  },
+  {
+    "name": "Barber County Health Department",
+    "description": "Provides public health services including immunizations, family planning, WIC, and health screenings for residents of Barber County and Medicine Lodge area.",
+    "address": "118 E Washington Ave, Medicine Lodge, KS 67104",
+    "phone": "(620) 886-3294",
+    "url": "https://www.barbercohealth.org",
+    "categorySlug": "healthcare",
+    "zipCode": "67104"
+  },
+  {
+    "name": "Medicine Lodge Food Pantry",
+    "description": "Emergency food assistance program serving low-income residents of Barber County. Distributes shelf-stable food, produce, and personal care items on a regular basis.",
+    "address": "210 S Main St, Medicine Lodge, KS 67104",
+    "phone": "(620) 886-5686",
+    "url": "https://www.ks.gov/dcf",
+    "categorySlug": "food",
+    "zipCode": "67104"
+  },
+  {
+    "name": "Barton County Community College — Student Support Services",
+    "description": "Offers emergency assistance, food pantry access, and wraparound support services for students and community members in the Great Bend area experiencing hardship.",
+    "address": "245 NE 30 Rd, Great Bend, KS 67530",
+    "phone": "(620) 792-2701",
+    "url": "https://www.bartonccc.edu/studentservices",
+    "categorySlug": "community",
+    "zipCode": "67530"
+  },
+  {
+    "name": "Central Kansas Community Action Program (CKCAP)",
+    "description": "Anti-poverty agency providing energy assistance, weatherization, Head Start, and emergency services to low-income households in Barton and surrounding counties.",
+    "address": "P.O. Box 673, Great Bend, KS 67530",
+    "phone": "(620) 792-2858",
+    "url": "https://www.ckcap.org",
+    "categorySlug": "community",
+    "zipCode": "67530"
+  },
+  {
+    "name": "Central Kansas Medical Center",
+    "description": "Community hospital serving Barton County and surrounding central Kansas communities. Provides emergency, surgical, and outpatient services along with community health programs.",
+    "address": "3515 Broadway Ave, Great Bend, KS 67530",
+    "phone": "(620) 792-2511",
+    "url": "https://www.ckmcgb.com",
+    "categorySlug": "healthcare",
+    "zipCode": "67530"
+  },
+  {
+    "name": "Great Bend Community Food Pantry",
+    "description": "Serves Barton County residents with emergency food distributions, providing fresh produce, dairy, and shelf-stable groceries to families experiencing food insecurity.",
+    "address": "2306 10th St, Great Bend, KS 67530",
+    "phone": "(620) 793-7234",
+    "url": "https://www.catholiccharitiesks.org/great-bend",
+    "categorySlug": "food",
+    "zipCode": "67530"
+  },
+  {
+    "name": "Prairie View Mental Health Services",
+    "description": "Community mental health center providing outpatient therapy, crisis intervention, psychiatric services, and substance use treatment for Barton County and surrounding areas.",
+    "address": "1901 E 1st St, Great Bend, KS 67530",
+    "phone": "(620) 792-2544",
+    "url": "https://www.prairieview.org",
+    "categorySlug": "healthcare",
+    "zipCode": "67530"
+  },
+  {
+    "name": "Mercy Hospital Fort Scott",
+    "description": "Critical access hospital serving Bourbon County and Southeast Kansas communities. Provides emergency care, primary and specialty care, and community health services.",
+    "address": "401 Woodland Hills Blvd, Fort Scott, KS 66701",
+    "phone": "(620) 223-2200",
+    "url": "https://www.mercy.net/practice/mercy-hospital-fort-scott",
+    "categorySlug": "healthcare",
+    "zipCode": "66701"
+  },
+  {
+    "name": "Salvation Army — Fort Scott",
+    "description": "Offers emergency assistance with food, utilities, rent, and shelter. Also provides disaster relief and community programming for Fort Scott and Bourbon County residents.",
+    "address": "12 S Lowman St, Fort Scott, KS 66701",
+    "phone": "(620) 223-1450",
+    "url": "https://www.salvationarmyusa.org",
+    "categorySlug": "food",
+    "zipCode": "59501",
+    "additionalZipCodes": [
+      "66701",
+      "71635",
+      "87401",
+      "90302"
+    ]
+  },
+  {
+    "name": "Horton Community Hospital",
+    "description": "Critical access hospital serving Brown County residents in Horton and surrounding areas. Offers emergency care, outpatient services, and community health programs.",
+    "address": "240 W 18th St, Horton, KS 66439",
+    "phone": "(785) 486-2642",
+    "url": "https://www.hortoncommunityhealth.com",
+    "categorySlug": "healthcare",
+    "zipCode": "66439"
+  },
+  {
+    "name": "Northeast Kansas Community Action Program (NEKCAP)",
+    "description": "Provides energy assistance, weatherization, Head Start, food assistance, and emergency services to low-income households in Brown, Doniphan, and surrounding northeast Kansas counties.",
+    "address": "1260 220th Rd, Hiawatha, KS 66434",
+    "phone": "(785) 742-2222",
+    "url": "https://www.nekcap.org",
+    "categorySlug": "community",
+    "zipCode": "66434"
+  },
+  {
+    "name": "Andover Area Community Pantry",
+    "description": "Volunteer-operated food pantry serving Andover and surrounding Butler County communities. Provides emergency groceries and household supplies to qualifying residents.",
+    "address": "1425 E 1st St, Andover, KS 67002",
+    "phone": "(316) 733-4880",
+    "url": "https://www.andoverpantry.org",
+    "categorySlug": "food",
+    "zipCode": "67002"
+  },
+  {
+    "name": "Butler County Health Department",
+    "description": "Provides public health services including immunizations, WIC, family planning, and disease prevention programs for residents of Butler County.",
+    "address": "700 E Central Ave, El Dorado, KS 67042",
+    "phone": "(316) 322-4160",
+    "url": "https://www.bucoks.com/departments/health_department",
+    "categorySlug": "healthcare",
+    "zipCode": "67042"
+  },
+  {
+    "name": "El Dorado Food Pantry — First United Methodist Church",
+    "description": "Community food pantry serving Butler County residents in El Dorado. Distributes groceries, canned goods, and fresh produce to individuals and families in need.",
+    "address": "300 W Central Ave, El Dorado, KS 67042",
+    "phone": "(316) 321-2060",
+    "url": "https://www.fumcel.org",
+    "categorySlug": "food",
+    "zipCode": "67042"
+  },
+  {
+    "name": "Flint Hills Breadbasket — Butler County",
+    "description": "Food pantry network serving the Flint Hills region of Butler County. Provides emergency food assistance including fresh produce, dairy, and shelf-stable items.",
+    "address": "1 Pioneer Dr, Rose Hill, KS 67133",
+    "phone": "(316) 776-2000",
+    "url": "https://www.flinthillsbreadbasket.org",
+    "categorySlug": "food",
+    "zipCode": "67133"
+  },
+  {
+    "name": "Southeast Kansas Mental Health Center — El Dorado",
+    "description": "Outpatient mental health services including individual therapy, psychiatric evaluation, and crisis support for Butler County residents.",
+    "address": "1106 Madison St, El Dorado, KS 67042",
+    "phone": "(316) 321-6500",
+    "url": "https://www.sekmhc.org",
+    "categorySlug": "healthcare",
+    "zipCode": "67042"
+  },
+  {
+    "name": "Susan B. Allen Memorial Hospital",
+    "description": "Full-service community hospital serving Butler County. Provides emergency care, surgical services, primary and specialty care, and community health programming.",
+    "address": "720 W Central Ave, El Dorado, KS 67042",
+    "phone": "(316) 321-3300",
+    "url": "https://www.sbahealth.com",
+    "categorySlug": "healthcare",
+    "zipCode": "67042"
+  },
+  {
+    "name": "Chase County Hospital",
+    "description": "Critical access hospital serving Chase County residents in Cottonwood Falls and Strong City area. Provides emergency care, inpatient, and primary care services.",
+    "address": "508 W 2nd St, Cottonwood Falls, KS 66845",
+    "phone": "(620) 273-2151",
+    "url": "https://www.chasecountyhospital.com",
+    "categorySlug": "healthcare",
+    "zipCode": "66845"
+  },
+  {
+    "name": "Chautauqua County Health Department",
+    "description": "Public health services including immunizations, WIC, family planning, and environmental health services for Chautauqua County residents.",
+    "address": "107 N Chautauqua St, Sedan, KS 67361",
+    "phone": "(620) 725-3105",
+    "url": "https://www.kdheks.gov",
+    "categorySlug": "healthcare",
+    "zipCode": "67361"
+  },
+  {
+    "name": "Community Health Center of Southeast Kansas (CHC/SEK) — Galena",
+    "description": "Federally Qualified Health Center providing primary care, dental, mental health, and pharmacy services on a sliding fee scale to uninsured and underserved residents of Cherokee County.",
+    "address": "408 S Main St, Galena, KS 66739",
+    "phone": "(620) 783-1212",
+    "url": "https://www.chcsek.org",
+    "categorySlug": "healthcare",
+    "zipCode": "66739"
+  },
+  {
+    "name": "Clay County Medical Center",
+    "description": "Critical access hospital serving Clay County residents in Clay Center and surrounding communities. Provides emergency, inpatient, and outpatient services.",
+    "address": "617 Liberty St, Clay Center, KS 67432",
+    "phone": "(785) 632-2144",
+    "url": "https://www.ccmcks.org",
+    "categorySlug": "healthcare",
+    "zipCode": "67432"
+  },
+  {
+    "name": "Cloud County Health Center",
+    "description": "Critical access hospital and clinic serving Cloud County. Provides emergency care, primary care, specialty clinics, and community health programs for north-central Kansas.",
+    "address": "1100 Highland Dr, Concordia, KS 66901",
+    "phone": "(785) 243-1234",
+    "url": "https://www.cloudcountyhealthcenter.com",
+    "categorySlug": "healthcare",
+    "zipCode": "66901"
+  },
+  {
+    "name": "Pawnee Mental Health Services — Concordia",
+    "description": "Community mental health center providing outpatient therapy, crisis services, psychiatric care, and substance use treatment for Cloud County and north-central Kansas.",
+    "address": "115 E 6th St, Concordia, KS 66901",
+    "phone": "(785) 243-1818",
+    "url": "https://www.pawnee.org",
+    "categorySlug": "healthcare",
+    "zipCode": "66901"
+  },
+  {
+    "name": "Coffey County Hospital",
+    "description": "Critical access hospital serving Coffey County. Provides emergency care, inpatient, and outpatient services to Burlington and surrounding rural communities.",
+    "address": "801 N 4th St, Burlington, KS 66839",
+    "phone": "(620) 364-2116",
+    "url": "https://www.coffeycountyhospital.com",
+    "categorySlug": "healthcare",
+    "zipCode": "66839"
+  },
+  {
+    "name": "Cowley County Community Action Partnership (COWCAP)",
+    "description": "Anti-poverty organization serving Cowley County with programs including food pantry, utility assistance, housing assistance, and Head Start for Winfield and Arkansas City residents.",
+    "address": "413 E 9th Ave, Winfield, KS 67156",
+    "phone": "(620) 221-4600",
+    "url": "https://www.cowcap.org",
+    "categorySlug": "community",
+    "zipCode": "67156"
+  },
+  {
+    "name": "South Central Mental Health Counseling Center — Winfield",
+    "description": "Outpatient mental health and substance use services for Cowley County and surrounding areas. Provides individual therapy, psychiatric services, and crisis intervention.",
+    "address": "613 Main St, Winfield, KS 67156",
+    "phone": "(620) 221-4500",
+    "url": "https://www.southcentralmhcc.org",
+    "categorySlug": "healthcare",
+    "zipCode": "67156"
+  },
+  {
+    "name": "William Newton Hospital",
+    "description": "Community hospital serving Winfield and Cowley County. Provides emergency care, surgical services, primary care, and behavioral health services to south-central Kansas.",
+    "address": "1300 E 5th Ave, Winfield, KS 67156",
+    "phone": "(620) 221-2300",
+    "url": "https://www.wnh.org",
+    "categorySlug": "healthcare",
+    "zipCode": "67156"
+  },
+  {
+    "name": "Via Christi Hospital — Pittsburg",
+    "description": "Full-service hospital serving Crawford County and the four-state area. Provides emergency care, surgical services, cancer care, and specialty services.",
+    "address": "1 Mt Carmel Way, Pittsburg, KS 66762",
+    "phone": "(620) 231-6100",
+    "url": "https://www.ascension.org/via-christi",
+    "categorySlug": "healthcare",
+    "zipCode": "66762"
+  },
+  {
+    "name": "Decatur Health Systems",
+    "description": "Critical access hospital and clinic serving Decatur County. Provides emergency care, primary care, and outpatient services to residents of Oberlin and northwest Kansas.",
+    "address": "810 W Columbia St, Oberlin, KS 67749",
+    "phone": "(785) 475-2208",
+    "url": "https://www.decaturhealthsystems.org",
+    "categorySlug": "healthcare",
+    "zipCode": "67749"
+  },
+  {
+    "name": "Dickinson County Community Connections",
+    "description": "Provides social service navigation, emergency assistance referrals, food pantry coordination, and community outreach programs for Dickinson County residents.",
+    "address": "109 SE 14th St, Abilene, KS 67410",
+    "phone": "(785) 263-2550",
+    "url": "https://www.dickinsonco.org",
+    "categorySlug": "community",
+    "zipCode": "67410"
+  },
+  {
+    "name": "Herington Municipal Hospital",
+    "description": "Critical access hospital serving southern Dickinson County in Herington and surrounding communities. Provides emergency care, inpatient, and primary care services.",
+    "address": "100 E Helen St, Herington, KS 67449",
+    "phone": "(785) 258-2207",
+    "url": "https://www.heringtonhospital.org",
+    "categorySlug": "healthcare",
+    "zipCode": "67449"
+  },
+  {
+    "name": "Memorial Health System — Abilene",
+    "description": "Critical access hospital serving Dickinson County. Provides emergency care, primary care, specialty clinics, and community health services for central Kansas.",
+    "address": "511 NE 10th St, Abilene, KS 67410",
+    "phone": "(785) 263-2100",
+    "url": "https://www.mhsks.org",
+    "categorySlug": "healthcare",
+    "zipCode": "67410"
+  },
+  {
+    "name": "Bert Nash Community Mental Health Center",
+    "description": "Community mental health center serving Douglas County. Provides outpatient therapy, psychiatric services, crisis intervention, substance use treatment, and case management.",
+    "address": "200 Maine St, Lawrence, KS 66044",
+    "phone": "(785) 843-9192",
+    "url": "https://www.bertnash.org",
+    "categorySlug": "healthcare",
+    "zipCode": "66044"
+  },
+  {
+    "name": "DCCCA — Lawrence",
+    "description": "Prevention, treatment, and recovery services for substance use disorders for Douglas County and Kansas communities. Also offers family services, youth programs, and community prevention.",
+    "address": "2619 E 23rd St, Lawrence, KS 66046",
+    "phone": "(785) 842-2088",
+    "url": "https://www.dccca.org",
+    "categorySlug": "healthcare",
+    "zipCode": "66046"
+  },
+  {
+    "name": "Douglas County AIDS Project",
+    "description": "Provides HIV/AIDS prevention education, testing, case management, and support services for people living with HIV/AIDS in Douglas County and eastern Kansas.",
+    "address": "2518 Ridge Court Suite 117, Lawrence, KS 66046",
+    "phone": "(785) 843-0040",
+    "url": "https://www.dougco.org",
+    "categorySlug": "healthcare",
+    "zipCode": "66046"
+  },
+  {
+    "name": "Health Care Access — Lawrence",
+    "description": "Provides access to affordable medical care for uninsured and underinsured adults in Douglas County. Operates a volunteer clinic and pharmaceutical assistance programs.",
+    "address": "330 Maine St, Lawrence, KS 66044",
+    "phone": "(785) 841-7297",
+    "url": "https://www.hcaofdk.org",
+    "categorySlug": "healthcare",
+    "zipCode": "66044"
+  },
+  {
+    "name": "Just Food — Lawrence",
+    "description": "Douglas County's primary food bank serving Lawrence and surrounding areas. Provides emergency food distributions, a mobile food pantry, and nutrition programs serving over 10,000 households annually.",
+    "address": "2901 Dg Dr, Lawrence, KS 66046",
+    "phone": "(785) 843-1982",
+    "url": "https://www.justfoodks.org",
+    "categorySlug": "food",
+    "zipCode": "66046"
+  },
+  {
+    "name": "Lawrence Community Shelter",
+    "description": "Provides emergency shelter, meals, case management, and transitional housing support services for homeless adults and families in Lawrence and Douglas County.",
+    "address": "214 W 10th St, Lawrence, KS 66044",
+    "phone": "(785) 865-5200",
+    "url": "https://www.lawrencecommunityshelter.org",
+    "categorySlug": "housing",
+    "zipCode": "66044"
+  },
+  {
+    "name": "Willow Domestic Violence Center",
+    "description": "Provides emergency shelter, legal advocacy, counseling, and support services to survivors of domestic violence and sexual assault in Douglas County and surrounding areas.",
+    "address": "P.O. Box 1714, Lawrence, KS 66044",
+    "phone": "(785) 843-3333",
+    "url": "https://www.willowdvcenter.org",
+    "categorySlug": "housing",
+    "zipCode": "66044"
+  },
+  {
+    "name": "Edwards County Hospital",
+    "description": "Critical access hospital serving Edwards County. Provides emergency care, inpatient, and primary care services for Kinsley and surrounding southwest-central Kansas communities.",
+    "address": "620 W 8th St, Kinsley, KS 67547",
+    "phone": "(620) 659-3621",
+    "url": "https://www.edwardscountyhospital.com",
+    "categorySlug": "healthcare",
+    "zipCode": "67547"
+  },
+  {
+    "name": "High Plains Mental Health Center — Hays",
+    "description": "Community mental health center serving northwest Kansas including Ellis County. Provides outpatient therapy, psychiatric services, crisis intervention, and substance use treatment.",
+    "address": "208 E 7th St, Hays, KS 67601",
+    "phone": "(785) 628-2871",
+    "url": "https://www.highplainsmentalhealth.com",
+    "categorySlug": "healthcare",
+    "zipCode": "67601"
+  },
+  {
+    "name": "Northwest Kansas Family Shelter — Hays",
+    "description": "Provides emergency shelter, transitional housing, advocacy, and support services for survivors of domestic violence and sexual assault in Ellis County and northwest Kansas.",
+    "address": "P.O. Box 1006, Hays, KS 67601",
+    "phone": "(785) 628-8885",
+    "url": "https://www.nwkfamilyshelter.org",
+    "categorySlug": "housing",
+    "zipCode": "67601"
+  },
+  {
+    "name": "Western Plains Medical Complex",
+    "description": "Full-service community hospital serving Hays and Ellis County. Provides emergency care, surgical services, primary and specialty care, and community health programs.",
+    "address": "3001 Ave A, Hays, KS 67601",
+    "phone": "(785) 625-2814",
+    "url": "https://www.westernplainsmc.com",
+    "categorySlug": "healthcare",
+    "zipCode": "67601"
+  },
+  {
+    "name": "Ellsworth County Medical Center",
+    "description": "Critical access hospital serving Ellsworth County. Provides emergency care, inpatient, and outpatient services to Ellsworth and surrounding central Kansas communities.",
+    "address": "1604 Aylward Ave, Ellsworth, KS 67439",
+    "phone": "(785) 472-3111",
+    "url": "https://www.ellsworthcountymedical.com",
+    "categorySlug": "healthcare",
+    "zipCode": "67439"
+  },
+  {
+    "name": "Emmaus House — Garden City",
+    "description": "Provides emergency shelter, transitional housing, and support services for homeless individuals and families in Finney County and southwest Kansas.",
+    "address": "505 N 8th St, Garden City, KS 67846",
+    "phone": "(620) 276-3220",
+    "url": "https://www.emmausks.org",
+    "categorySlug": "housing",
+    "zipCode": "67846"
+  },
+  {
+    "name": "Southwest Kansas Community Action (SWKCA) — Garden City",
+    "description": "Provides Head Start, food assistance, utility assistance, weatherization, and emergency services for low-income residents of Finney County and southwest Kansas.",
+    "address": "130 E Laurel Ave, Garden City, KS 67846",
+    "phone": "(620) 272-3534",
+    "url": "https://www.swkca.org",
+    "categorySlug": "community",
+    "zipCode": "67846"
+  },
+  {
+    "name": "Western Plains Health Consortium",
+    "description": "Regional health network coordinating healthcare access and community health programs for southwest Kansas counties including Ford County and Dodge City.",
+    "address": "1800 Trail St, Dodge City, KS 67801",
+    "phone": "(620) 225-9640",
+    "url": "https://www.westernplainshealthconsortium.org",
+    "categorySlug": "healthcare",
+    "zipCode": "67801"
+  },
+  {
+    "name": "Geary Community Hospital",
+    "description": "Community hospital serving Geary County and Junction City area. Provides emergency care, surgical services, primary and specialty care, and behavioral health services.",
+    "address": "1102 St Mary's Rd, Junction City, KS 66441",
+    "phone": "(785) 238-4131",
+    "url": "https://www.gchks.org",
+    "categorySlug": "healthcare",
+    "zipCode": "66441"
+  },
+  {
+    "name": "Gove County Medical Center",
+    "description": "Critical access hospital serving Gove County residents in Quinter and surrounding communities. Provides emergency care, inpatient, and primary care services for northwest Kansas.",
+    "address": "520 W 5th St, Quinter, KS 67752",
+    "phone": "(785) 754-3341",
+    "url": "https://www.gcmcks.org",
+    "categorySlug": "healthcare",
+    "zipCode": "67752"
+  },
+  {
+    "name": "Graham County Health Center",
+    "description": "Critical access hospital serving Graham County residents in Hill City and surrounding communities. Provides emergency care, primary care, and outpatient services.",
+    "address": "304 W Prout St, Hill City, KS 67642",
+    "phone": "(785) 421-2121",
+    "url": "https://www.grahamcountyhealthcenter.org",
+    "categorySlug": "healthcare",
+    "zipCode": "67642"
+  },
+  {
+    "name": "Grant County Hospital",
+    "description": "Critical access hospital serving Grant County in Ulysses and surrounding southwest Kansas communities. Provides emergency care, inpatient, and outpatient services.",
+    "address": "415 N Main St, Ulysses, KS 67880",
+    "phone": "(620) 356-1266",
+    "url": "https://www.grantcountyhospital.com",
+    "categorySlug": "healthcare",
+    "zipCode": "67880"
+  },
+  {
+    "name": "Greenwood County Hospital",
+    "description": "Critical access hospital serving Greenwood County. Provides emergency care, inpatient, and primary care services for Eureka and surrounding southeast-central Kansas communities.",
+    "address": "100 W 16th St, Eureka, KS 67045",
+    "phone": "(620) 583-7451",
+    "url": "https://www.greenwoodcountyhospital.com",
+    "categorySlug": "healthcare",
+    "zipCode": "67045"
+  },
+  {
+    "name": "Hamilton County Hospital",
+    "description": "Critical access hospital serving Hamilton County. Provides emergency care, inpatient, and primary care services for Syracuse and surrounding southwest Kansas communities.",
+    "address": "700 NE Huser St, Syracuse, KS 67878",
+    "phone": "(620) 384-7461",
+    "url": "https://www.hamiltoncountyhospital.org",
+    "categorySlug": "healthcare",
+    "zipCode": "67878"
+  },
+  {
+    "name": "Anthony Medical Center",
+    "description": "Critical access hospital serving Harper County. Provides emergency care, primary care, and outpatient services for Anthony and south-central Kansas communities.",
+    "address": "1101 E Spring St, Anthony, KS 67003",
+    "phone": "(620) 842-5111",
+    "url": "https://www.anthonymedicalcenter.com",
+    "categorySlug": "healthcare",
+    "zipCode": "67003"
+  },
+  {
+    "name": "Hesston College Student Services",
+    "description": "Student support services and emergency assistance programs serving Hesston College students and the broader Hesston community in Harvey County.",
+    "address": "325 S College Dr, Hesston, KS 67062",
+    "phone": "(620) 327-8000",
+    "url": "https://www.hesston.edu/student-life",
+    "categorySlug": "community",
+    "zipCode": "67062"
+  },
+  {
+    "name": "Newton Medical Center",
+    "description": "Full-service community hospital serving Harvey County. Provides emergency care, surgical services, primary and specialty care, and behavioral health services.",
+    "address": "600 Medical Center Dr, Newton, KS 67114",
+    "phone": "(316) 283-2700",
+    "url": "https://www.newtonmedicalcenter.com",
+    "categorySlug": "healthcare",
+    "zipCode": "67114"
+  },
+  {
+    "name": "Jefferson County Service Organization",
+    "description": "Provides mobile food pantry distributions and emergency assistance to Jefferson County residents. Partners with Harvesters Community Food Network for monthly food truck distributions in Oskaloosa.",
+    "address": "400 Liberty St, Oskaloosa, KS 66066",
+    "phone": "(785) 863-2637",
+    "url": "https://www.harvesters.org/location/jefferson-county-service-organization-oskaloosa",
+    "categorySlug": "food",
+    "zipCode": "66066"
+  },
+  {
+    "name": "Christian Church of Mankato Food Pantry",
+    "description": "Food pantry operated by the Christian Church of Mankato providing emergency food assistance to Jewell County residents in need.",
+    "address": "Mankato, KS 66956",
+    "phone": "(785) 378-3159",
+    "url": "https://kansasfoodsource.org/help-agency/jewell-county/christian-church-of-mankato/",
+    "categorySlug": "food",
+    "zipCode": "66956"
+  },
+  {
+    "name": "Jewell County Helping Hands Food Pantry",
+    "description": "Non-profit Christian food pantry serving Jewell County residents with monthly food assistance. Open Fridays and the first Tuesday of each month at the Mankato location.",
+    "address": "206 S Commercial St, Mankato, KS 66956",
+    "phone": "(785) 378-3830",
+    "url": "https://kansasfoodsource.org/help-agency/jewell-county/jewell-county-helping-hands-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "66956"
+  },
+  {
+    "name": "Catholic Charities of Northeast Kansas — Olathe",
+    "description": "Provides food pantry, housing assistance, utility payments, and case management services to low-income individuals and families in Johnson County regardless of faith background.",
+    "address": "20600 W 119th St, Olathe, KS 66061",
+    "phone": "(913) 782-4077",
+    "url": "https://catholiccharitiesks.org",
+    "categorySlug": "community",
+    "zipCode": "66061"
+  },
+  {
+    "name": "Harvesters Community Food Network — Olathe Distribution",
+    "description": "Regional food bank partnering with local sites to distribute food to families experiencing food insecurity in Johnson County. Mobile pantry distributions available at multiple Johnson County locations.",
+    "address": "Olathe, KS 66061",
+    "phone": "(816) 929-3000",
+    "url": "https://www.harvesters.org",
+    "categorySlug": "food",
+    "zipCode": "66061"
+  },
+  {
+    "name": "Johnson County Human Services Food Pantry — Mission",
+    "description": "Johnson County government-operated food pantry providing food assistance by appointment to income-eligible county residents. Serves individuals and families meeting federal poverty guidelines.",
+    "address": "6000 Lamar Ave, Mission, KS 66202",
+    "phone": "(913) 715-6800",
+    "url": "https://www.jocogov.org/department/aging-and-human-services/human-services/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "66202"
+  },
+  {
+    "name": "Pathway to Hope",
+    "description": "Provides housing support, mental health recovery services through the Reclamation Clubhouse, and supportive housing for adults living with mental illness in Johnson County.",
+    "address": "Olathe, KS 66061",
+    "phone": "(913) 782-5990",
+    "url": "https://pathwaytohope.org",
+    "categorySlug": "housing",
+    "zipCode": "66061"
+  },
+  {
+    "name": "reStart, Inc.",
+    "description": "Provides emergency and permanent housing services for individuals, youth, families, and veterans experiencing homelessness in the Kansas City metro, including Johnson County shelter and transitional housing programs.",
+    "address": "Lenexa, KS 66219",
+    "phone": "(816) 472-5664",
+    "url": "https://www.restartinc.org",
+    "categorySlug": "housing",
+    "zipCode": "66219"
+  },
+  {
+    "name": "SAFEHOME",
+    "description": "The only intimate partner abuse shelter in Johnson County and one of the largest in Kansas, providing shelter, counseling, court and legal support, and community programs to approximately 8,000 individuals each year. All services are free.",
+    "address": "Confidential Location, Johnson County, KS 66202",
+    "phone": "(913) 262-2868",
+    "url": "https://safehome-ks.org",
+    "categorySlug": "housing",
+    "zipCode": "66202"
+  },
+  {
+    "name": "Synergy Services",
+    "description": "Provides crisis hotlines, emergency shelter, transitional housing, therapeutic services, and violence prevention programs for youth and families across the greater Kansas City area including Johnson County.",
+    "address": "Shawnee, KS 66216",
+    "phone": "(816) 741-8700",
+    "url": "https://www.synergyservices.org",
+    "categorySlug": "housing",
+    "zipCode": "66216"
+  },
+  {
+    "name": "United Community Services of Johnson County",
+    "description": "Leads collaborative planning and mobilizes resources to enhance health and human services in Johnson County, including 211 service coordination, data analysis, and community resource navigation.",
+    "address": "8527 Bluejacket St, Lenexa, KS 66214",
+    "phone": "(913) 631-5999",
+    "url": "https://ucsjoco.org",
+    "categorySlug": "community",
+    "zipCode": "66214"
+  },
+  {
+    "name": "Kingman Area Ministries Food Bank (KAMI)",
+    "description": "Food bank operated by area ministries providing monthly food assistance to Kingman County residents. Distributes groceries twice weekly with proof of county residency required.",
+    "address": "201 E D Ave, Kingman, KS 67068",
+    "phone": "(620) 532-2277",
+    "url": "https://kansasfoodsource.org/help-agency/kingman-county/kingman-area-ministries-inc-kami-foodbank/",
+    "categorySlug": "food",
+    "zipCode": "67068"
+  },
+  {
+    "name": "Kingman Healthcare Center",
+    "description": "Community hospital and healthcare facility serving Kingman County and surrounding communities with emergency care, primary care, and specialty services.",
+    "address": "750 W D Ave, Kingman, KS 67068",
+    "phone": "(620) 532-3147",
+    "url": "https://www.kingmanhc.com",
+    "categorySlug": "healthcare",
+    "zipCode": "67068"
+  },
+  {
+    "name": "Kingman Senior Center",
+    "description": "Senior center in Kingman serving as a USDA commodity food distribution site and providing nutrition programs and social services to older adults in Kingman County.",
+    "address": "Kingman, KS 67068",
+    "phone": "(620) 532-5534",
+    "url": "https://kansasfoodsource.org/help-agency/kingman-county/kingman-senior-center/",
+    "categorySlug": "community",
+    "zipCode": "67068"
+  },
+  {
+    "name": "Kiowa County Food Bank",
+    "description": "Combined food bank and senior center serving Greensburg and Kiowa County residents with monthly food distributions. Provides USDA commodity and TEFAP food programs.",
+    "address": "207 S Main St, Greensburg, KS 67054",
+    "phone": "(620) 723-2158",
+    "url": "https://kansasfoodsource.org/help-agency/kiowa-county/kiowa-county-food-bank/",
+    "categorySlug": "food",
+    "zipCode": "67054"
+  },
+  {
+    "name": "Coffeyville Food Pantry",
+    "description": "Food pantry serving Coffeyville, Dearing, and Liberty area residents with weekday food distribution and an extended evening distribution one Tuesday per month.",
+    "address": "1312 W 8th St, Coffeyville, KS 67336",
+    "phone": "(620) 251-3004",
+    "url": "https://kansasfoodsource.org/category/help-agency/montgomery-county/",
+    "categorySlug": "food",
+    "zipCode": "67336"
+  },
+  {
+    "name": "Community Health Center of Southeast Kansas — Parsons",
+    "description": "Federally qualified health center providing comprehensive affordable healthcare including walk-in care, behavioral health, family medicine, dental, and lab services to all patients regardless of income or insurance.",
+    "address": "2100 Commerce Dr, Parsons, KS 67357",
+    "phone": "(620) 717-4450",
+    "url": "https://chcsek.org/communities/parsons/",
+    "categorySlug": "healthcare",
+    "zipCode": "67357"
+  },
+  {
+    "name": "Labette Center for Mental Health Services",
+    "description": "Licensed community mental health center and certified community behavioral health center providing mental health and substance use disorder services to Labette County residents.",
+    "address": "1 Prospect Circle, Parsons, KS 67357",
+    "phone": "(620) 421-3990",
+    "url": "https://www.lcmhs.com",
+    "categorySlug": "healthcare",
+    "zipCode": "67357"
+  },
+  {
+    "name": "Labette County Emergency Assistance",
+    "description": "Provides emergency food and financial assistance to low-income residents of Labette County, coordinating with area churches and social service agencies to address basic needs.",
+    "address": "301 N 30th St, Parsons, KS 67357",
+    "phone": "(620) 421-0700",
+    "url": "https://www.labettecounty.com",
+    "categorySlug": "food",
+    "zipCode": "67357"
+  },
+  {
+    "name": "Labette Health",
+    "description": "99-bed regional hospital serving a six-county area in southeast Kansas with acute care, intensive care, inpatient rehabilitation, and a network of over 30 clinics in Parsons, Independence, Chanute, and Oswego.",
+    "address": "1902 S US Hwy 59, Parsons, KS 67357",
+    "phone": "(620) 421-4880",
+    "url": "https://www.labettehealth.com",
+    "categorySlug": "healthcare",
+    "zipCode": "67357"
+  },
+  {
+    "name": "Lane County Community Foundation",
+    "description": "Community foundation serving Lane County (Dighton) providing grants and coordination of community resources including food assistance through the Lane County Health Department food bank.",
+    "address": "Dighton, KS 67839",
+    "phone": "(620) 397-5327",
+    "url": "https://www.lanecountycf.org",
+    "categorySlug": "community",
+    "zipCode": "67839"
+  },
+  {
+    "name": "Basehor-Linwood Assistance Services",
+    "description": "Community assistance program providing monthly food distributions to residents of the Basehor/Linwood School District area in southern Leavenworth County.",
+    "address": "18660 158th St, Basehor, KS 66007",
+    "phone": "(913) 406-9856",
+    "url": "https://kansasfoodsource.org/category/help-agency/leavenworth-county/",
+    "categorySlug": "food",
+    "zipCode": "66007"
+  },
+  {
+    "name": "Catholic Charities of Northeast Kansas — Leavenworth Family Support Center",
+    "description": "Provides food pantry, utility assistance, housing help, and case management services to low-income individuals and families in Leavenworth County, with daily free bread distribution.",
+    "address": "716 N 5th St, Leavenworth, KS 66048",
+    "phone": "(913) 651-8060",
+    "url": "https://catholiccharitiesks.org/locations/leavenworth/",
+    "categorySlug": "community",
+    "zipCode": "66048"
+  },
+  {
+    "name": "The Leavenworth Mission Food Pantry",
+    "description": "One of the largest food distribution centers in Leavenworth County, assisting over 550 families monthly with free food, toiletries, and community outreach through a food pantry and community store.",
+    "address": "1140 Spruce St, Leavenworth, KS 66048",
+    "phone": "(913) 683-2452",
+    "url": "https://lvmission.org",
+    "categorySlug": "food",
+    "zipCode": "66048"
+  },
+  {
+    "name": "Lincoln County Food Pantry",
+    "description": "Community food pantry serving Lincoln County residents with emergency food assistance through local church partnerships in Lincoln Center.",
+    "address": "Lincoln Center, KS 67455",
+    "phone": "(785) 531-1211",
+    "url": "https://kansasfoodsource.org/category/help-agency/lincoln-county/",
+    "categorySlug": "food",
+    "zipCode": "67455"
+  },
+  {
+    "name": "CONCERN Food Pantry — Mound City",
+    "description": "Food and utility assistance program serving Linn County residents in Mound City and surrounding communities. Open Monday through Saturday mornings with monthly food assistance available.",
+    "address": "516 W Main St, Mound City, KS 66056",
+    "phone": "(913) 795-2092",
+    "url": "https://kansasfoodsource.org/category/help-agency/linn-county/",
+    "categorySlug": "food",
+    "zipCode": "66056"
+  },
+  {
+    "name": "Linn County Nutrition Office",
+    "description": "Senior nutrition program providing weekday congregate meals and nutrition support services for older adults in Linn County through the East Central Kansas Area Agency on Aging.",
+    "address": "306 Main St, Mound City, KS 66056",
+    "phone": "(913) 795-2279",
+    "url": "https://www.linncountyks.com/departments/nutrition",
+    "categorySlug": "community",
+    "zipCode": "66056"
+  },
+  {
+    "name": "Oakley Food Pantry",
+    "description": "Community food pantry in Oakley serving Logan County residents with monthly emergency food assistance. Operated through local community partnerships with support from the Logan County Community Foundation.",
+    "address": "611 Maple St, Oakley, KS 67748",
+    "phone": "(785) 671-3275",
+    "url": "https://www.loganccf.org/other-organizations/oakley-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "67748"
+  },
+  {
+    "name": "Emporia Rescue Mission — Abundant Harvest",
+    "description": "Provides curbside evening meals, a monthly food pantry for families, and community outreach serving Lyon County residents experiencing hunger and homelessness in Emporia.",
+    "address": "1119 Merchant St, Emporia, KS 66801",
+    "phone": "(620) 342-1510",
+    "url": "https://emporiamission.org",
+    "categorySlug": "food",
+    "zipCode": "66801"
+  },
+  {
+    "name": "Salvation Army of Lyon County",
+    "description": "Provides food pantry services, USDA TEFAP commodity distribution, and emergency assistance to residents of Lyon County and Emporia area. Food distribution available by appointment.",
+    "address": "501 Mechanic St, Emporia, KS 66801",
+    "phone": "(620) 342-5304",
+    "url": "https://centralusa.salvationarmy.org",
+    "categorySlug": "food",
+    "zipCode": "66801"
+  },
+  {
+    "name": "Main Street Ministries Food Pantry — Hillsboro",
+    "description": "Food pantry in Hillsboro serving Marion County residents with monthly emergency food assistance. Open Saturday mornings with no ID required.",
+    "address": "415 S Main St, Hillsboro, KS 67063",
+    "phone": "(620) 947-2501",
+    "url": "https://kansasfoodsource.org/help-agency/marion-county/main-street-ministries-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "67063"
+  },
+  {
+    "name": "Marion County Department on Aging",
+    "description": "Distributes USDA commodity foods monthly to communities across Marion County including Burns, Florence, Goessel, Hillsboro, Marion, and Peabody, and provides senior nutrition and support services.",
+    "address": "200 S 3rd St, Marion, KS 66861",
+    "phone": "(620) 382-3580",
+    "url": "https://www.marioncoks.net/marion-co-dept-aging",
+    "categorySlug": "community",
+    "zipCode": "66861"
+  },
+  {
+    "name": "Marion County Hospital",
+    "description": "Critical access hospital providing emergency and inpatient care, primary care, and outpatient services to Marion County and surrounding rural communities.",
+    "address": "123 S Maryland Ave, Marion, KS 66861",
+    "phone": "(620) 382-2177",
+    "url": "https://www.mchosp.com",
+    "categorySlug": "healthcare",
+    "zipCode": "66861"
+  },
+  {
+    "name": "Families First Food For All",
+    "description": "Drive-through mobile food pantry in Marysville providing free groceries to Marshall County families one Monday each month in partnership with Harvesters Community Food Network.",
+    "address": "400 Hendrix Ave, Marysville, KS 66508",
+    "phone": "(785) 268-1190",
+    "url": "https://kansasfoodsource.org/help-agency/marshall-county/families-first-food-for-all/",
+    "categorySlug": "food",
+    "zipCode": "66508"
+  },
+  {
+    "name": "Nemaha Valley Community Hospital",
+    "description": "Community hospital serving Marshall County and surrounding northeast Kansas communities with emergency care, surgical services, primary and specialty care, and home health.",
+    "address": "1600 Community Dr, Marysville, KS 66508",
+    "phone": "(785) 562-2311",
+    "url": "https://nemvch.com",
+    "categorySlug": "healthcare",
+    "zipCode": "66508"
+  },
+  {
+    "name": "SOS Marysville Food Pantry",
+    "description": "Community food pantry serving Marysville and Marshall County residents by providing a shopping-style experience for food assistance, helping families bridge food gaps throughout the month.",
+    "address": "Marysville, KS 66508",
+    "phone": "(785) 562-5555",
+    "url": "https://www.sosmarysville.org",
+    "categorySlug": "food",
+    "zipCode": "66508"
+  },
+  {
+    "name": "Churches United in Ministry Food Bank — McPherson",
+    "description": "McPherson area food bank operated by Churches United in Ministry providing vouchers for monthly grocery assistance to McPherson County residents experiencing food insecurity.",
+    "address": "707 S Main St, McPherson, KS 67460",
+    "phone": "(620) 241-8331",
+    "url": "https://kansasfoodsource.org/category/help-agency/mcpherson-county/",
+    "categorySlug": "food",
+    "zipCode": "67460"
+  },
+  {
+    "name": "Inman Food Pantry",
+    "description": "Food pantry operated by the Inman Ministerial Alliance serving Inman and USD 448 school district residents. Open Tuesday evenings and Thursday mornings with monthly food assistance.",
+    "address": "107 N Pine St, Inman, KS 67546",
+    "phone": "(620) 585-2338",
+    "url": "https://kansasfoodsource.org/help-agency/mcpherson-county/inman-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "67546"
+  },
+  {
+    "name": "McPherson Hospital",
+    "description": "Community hospital serving McPherson County and surrounding central Kansas communities with emergency care, surgical services, primary care, and specialty clinics.",
+    "address": "1000 Hospital Dr, McPherson, KS 67460",
+    "phone": "(620) 241-2250",
+    "url": "https://www.mcphersonhospital.org",
+    "categorySlug": "healthcare",
+    "zipCode": "67460"
+  },
+  {
+    "name": "Plains/Kismet Ministerial Alliance Food Pantry — Meade",
+    "description": "Food pantry serving Meade County residents with twice-weekly distributions in Meade and Plains. Provides monthly food assistance with no ID required.",
+    "address": "407 E Naughton St, Meade, KS 67864",
+    "phone": "(620) 873-2731",
+    "url": "https://kansasfoodsource.org/category/help-agency/meade-county/",
+    "categorySlug": "food",
+    "zipCode": "67864"
+  },
+  {
+    "name": "Miami County Health Department",
+    "description": "Public health services for Miami County including immunizations, women's health, disease prevention, WIC, and referrals to community social service programs.",
+    "address": "1201 Lakemary Dr, Paola, KS 66071",
+    "phone": "(913) 294-3696",
+    "url": "https://www.miamicountyks.org",
+    "categorySlug": "healthcare",
+    "zipCode": "66071"
+  },
+  {
+    "name": "PACA Food Pantry — Paola",
+    "description": "Food pantry serving Paola and Miami County residents with weekly food assistance. Also operates a 24/7 emergency pantry through My Father's House for immediate food needs.",
+    "address": "110 E Peoria St, Paola, KS 66071",
+    "phone": "(913) 294-5337",
+    "url": "https://kansasfoodsource.org/help-agency/miami-county/paca-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "66071"
+  },
+  {
+    "name": "Beloit Senior Center",
+    "description": "Senior center serving Mitchell County residents as a USDA Commodity Supplemental Food Program (CSFP) distribution site for adults age 60 and older.",
+    "address": "220 N Hershey Ave, Beloit, KS 67420",
+    "phone": "(785) 738-5802",
+    "url": "https://kansasfoodsource.org/help-agency/mitchell-county/beloit-senior-center/",
+    "categorySlug": "community",
+    "zipCode": "67420"
+  },
+  {
+    "name": "Coffeyville Regional Medical Center",
+    "description": "The only hospital in Montgomery County, providing emergency, inpatient, surgical, rehabilitation, and outpatient services to Coffeyville and surrounding southeast Kansas and northeast Oklahoma communities for over 75 years.",
+    "address": "1400 W 4th St, Coffeyville, KS 67337",
+    "phone": "(620) 251-1200",
+    "url": "https://www.crmcinc.org",
+    "categorySlug": "healthcare",
+    "zipCode": "67337"
+  },
+  {
+    "name": "Community Health Center of Southeast Kansas — Coffeyville",
+    "description": "Federally qualified health center providing affordable comprehensive healthcare including primary care, behavioral health, and dental services to all patients regardless of income or insurance status.",
+    "address": "Coffeyville, KS 67337",
+    "phone": "(620) 717-4450",
+    "url": "https://chcsek.org/communities/coffeyville/",
+    "categorySlug": "healthcare",
+    "zipCode": "67337"
+  },
+  {
+    "name": "Interfaith Food Pantry — Council Grove",
+    "description": "Food pantry network serving Morris County families in need with food, education, and resources. Provides distribution and support services to low-income households in Council Grove and surrounding communities.",
+    "address": "Council Grove, KS 66846",
+    "phone": "(620) 767-6531",
+    "url": "https://kansasfoodsource.org/category/help-agency/morris-county/",
+    "categorySlug": "food",
+    "zipCode": "66846"
+  },
+  {
+    "name": "Nemaha County Community Health Services",
+    "description": "Non-profit public health organization providing well-child visits, immunizations, WIC nutrition support, and health services to all Nemaha County residents regardless of income or insurance status.",
+    "address": "402 Main St Suite B, Seneca, KS 66538",
+    "phone": "(785) 284-2152",
+    "url": "https://www.ncchsks.org",
+    "categorySlug": "healthcare",
+    "zipCode": "66538"
+  },
+  {
+    "name": "Sabetha Community Hospital",
+    "description": "Critical access hospital serving northern Brown County and Sabetha area. Provides emergency, inpatient, and outpatient services along with community wellness programs.",
+    "address": "14th & Oregon St, Sabetha, KS 66534",
+    "phone": "(785) 284-2121",
+    "url": "https://www.sabethacommunity.com",
+    "categorySlug": "healthcare",
+    "zipCode": "66534"
+  },
+  {
+    "name": "Sabetha Community Pantry",
+    "description": "Indoor food pantry in Sabetha allowing clients to select groceries and household items to take home, serving Nemaha County residents in the Sabetha area.",
+    "address": "316 Lincoln St, Sabetha, KS 66534",
+    "phone": "(785) 285-8132",
+    "url": "https://kansasfoodsource.org/help-agency/nemaha-county/sabetha-community-pantry/",
+    "categorySlug": "food",
+    "zipCode": "66534"
+  },
+  {
+    "name": "Community Health Center of Southeast Kansas — Chanute",
+    "description": "Federally qualified health center providing comprehensive affordable primary care, behavioral health, and dental services in Chanute to Neosho County residents regardless of ability to pay.",
+    "address": "Chanute, KS 66720",
+    "phone": "(620) 717-4450",
+    "url": "https://chcsek.org/our-communities/",
+    "categorySlug": "healthcare",
+    "zipCode": "66720"
+  },
+  {
+    "name": "First Christian Church Food Pantry — Chanute",
+    "description": "Food pantry in Chanute providing free groceries to Neosho County residents twice weekly. No ID required and clients can receive food assistance every four weeks.",
+    "address": "102 N Grant St, Chanute, KS 66720",
+    "phone": "(620) 431-3758",
+    "url": "https://kansasfoodsource.org/category/help-agency/neosho-county/",
+    "categorySlug": "food",
+    "zipCode": "66720"
+  },
+  {
+    "name": "Ness County Mobile Pantry",
+    "description": "Mobile food pantry serving Ness City and Ness County residents with periodic food distributions. Coordinates with the Kansas Food Bank to deliver food to rural Ness County communities.",
+    "address": "Ness City, KS 67560",
+    "phone": "(785) 798-2211",
+    "url": "https://kansasfoodsource.org/help-agency/ness-county/mobile-pantry-ness-county/",
+    "categorySlug": "food",
+    "zipCode": "67560"
+  },
+  {
+    "name": "Norton Food Pantry",
+    "description": "Community food pantry in Norton serving Norton County residents with emergency food assistance. Open Sundays with food assistance available three times in six months.",
+    "address": "317 N State St, Norton, KS 67654",
+    "phone": "(785) 877-2589",
+    "url": "https://kansasfoodsource.org/category/help-agency/norton-county/",
+    "categorySlug": "food",
+    "zipCode": "67654"
+  },
+  {
+    "name": "Catholic Charities Resource Bus — Osage County",
+    "description": "Mobile case management service providing rent and utility assistance and connecting residents of Osage County and Lyndon area with social services through Catholic Charities of Northeast Kansas.",
+    "address": "Lyndon, KS 66451",
+    "phone": "(913) 433-2039",
+    "url": "https://catholiccharitiesks.org/our-locations/resource-bus/",
+    "categorySlug": "community",
+    "zipCode": "66451"
+  },
+  {
+    "name": "Osage County Extension Office",
+    "description": "Kansas State University Extension office in Lyndon providing nutrition education, community food resource referrals, and family support services throughout Osage County.",
+    "address": "Lyndon, KS 66451",
+    "phone": "(785) 828-4438",
+    "url": "https://www.osage.k-state.edu",
+    "categorySlug": "community",
+    "zipCode": "66451"
+  },
+  {
+    "name": "Mitchell County Resource Information — Osborne Area",
+    "description": "County health department and social service coordination for north-central Kansas including Osborne area, providing referrals to food, health, and community assistance programs.",
+    "address": "Osborne, KS 67473",
+    "phone": "(785) 738-3832",
+    "url": "https://www.mitchellcountykansas.com/resource-information.html",
+    "categorySlug": "community",
+    "zipCode": "67473"
+  },
+  {
+    "name": "Osborne County Food Pantry",
+    "description": "Food pantry serving Osborne County residents with monthly grocery assistance. Provides a grocery voucher for milk, bread, and eggs, open on the last Wednesday of each month.",
+    "address": "105 N 3rd St, Osborne, KS 67473",
+    "phone": "(785) 346-2333",
+    "url": "https://kansasfoodsource.org/category/help-agency/osborne-county/",
+    "categorySlug": "food",
+    "zipCode": "67473"
+  },
+  {
+    "name": "Delphos Mobile Food Pantry",
+    "description": "Mobile food pantry serving Ottawa County residents in the Delphos area with periodic food distributions coordinated through the Kansas Food Bank network.",
+    "address": "Delphos, KS 67436",
+    "phone": "(785) 523-4261",
+    "url": "https://kansasfoodsource.org/help-agency/ottawa-county/mobile-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "67436"
+  },
+  {
+    "name": "Ottawa County Food Resources — Minneapolis KS",
+    "description": "Community food assistance programs serving Minneapolis and Ottawa County residents, coordinated through local churches and the Kansas Food Source network.",
+    "address": "Minneapolis, KS 67467",
+    "phone": "(785) 392-3052",
+    "url": "https://kansasfoodsource.org/category/help-agency/ottawa-county/",
+    "categorySlug": "food",
+    "zipCode": "67467"
+  },
+  {
+    "name": "Pawnee County Food Pantry",
+    "description": "Food pantry in Larned providing emergency food assistance to Pawnee County residents twice weekly. Photo ID and proof of current residence required; clients assisted every six months.",
+    "address": "501 Main St, Larned, KS 67550",
+    "phone": "(620) 285-6931",
+    "url": "https://kansasfoodsource.org/help-agency/pawnee-county/pawnee-county-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "67550"
+  },
+  {
+    "name": "Pawnee Valley Community Hospital",
+    "description": "Critical access hospital serving Pawnee County and surrounding rural communities with emergency care, inpatient services, and a range of outpatient and specialty health services.",
+    "address": "923 Carroll Ave, Larned, KS 67550",
+    "phone": "(620) 285-3161",
+    "url": "https://www.pvch.org",
+    "categorySlug": "healthcare",
+    "zipCode": "67550"
+  },
+  {
+    "name": "Phillipsburg Food Pantry",
+    "description": "Food pantry serving Phillips County residents since the early 2000s with monthly distributions on the third Sunday. No income cutoff — any family needing supplemental food support is welcome.",
+    "address": "Phillipsburg, KS 67661",
+    "phone": "(785) 543-5531",
+    "url": "https://www.pburgfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "67661"
+  },
+  {
+    "name": "Pottawatomie County Community Resources",
+    "description": "Official Pottawatomie County community resource list connecting residents to food, health, housing, and social service programs available throughout the county.",
+    "address": "Westmoreland, KS 66549",
+    "phone": "(785) 457-3314",
+    "url": "https://www.pottcounty.org/399/Community-Resource-List",
+    "categorySlug": "community",
+    "zipCode": "66549"
+  },
+  {
+    "name": "Pottawatomie County Food Pantry — St. George",
+    "description": "Community food pantry in St. George serving Pottawatomie County residents with twice-weekly food distributions and monthly drive-through mobile pantry events.",
+    "address": "308 Lincoln St, Saint George, KS 66535",
+    "phone": "(785) 494-2450",
+    "url": "https://kansasfoodsource.org/category/help-agency/pottawatomie-county/",
+    "categorySlug": "food",
+    "zipCode": "66535"
+  },
+  {
+    "name": "Catholic Charities Southwest Kansas — Pratt Area",
+    "description": "Provides food and emergency assistance to residents of southwest Kansas including Pratt County, with referrals to local food pantries and community support programs.",
+    "address": "Pratt, KS 67124",
+    "phone": "(620) 227-1500",
+    "url": "https://catholiccharitiesswks.org/services/economic-assistance/food",
+    "categorySlug": "community",
+    "zipCode": "67124"
+  },
+  {
+    "name": "Pratt County Food Bank",
+    "description": "Food bank in Pratt providing monthly grocery assistance to Pratt County residents. Open multiple times per week with ID required; clients can receive food six times per year.",
+    "address": "111 W 4th St, Pratt, KS 67124",
+    "phone": "(620) 672-5150",
+    "url": "https://kansasfoodsource.org/help-agency/pratt-county/pratt-county-food-bank-inc/",
+    "categorySlug": "food",
+    "zipCode": "67124"
+  },
+  {
+    "name": "Pratt Regional Medical Center",
+    "description": "Community hospital serving Pratt County and surrounding south-central Kansas with emergency care, surgery, primary and specialty care, and outpatient services.",
+    "address": "200 Commodore St, Pratt, KS 67124",
+    "phone": "(620) 672-7451",
+    "url": "https://www.prmc.org",
+    "categorySlug": "healthcare",
+    "zipCode": "67124"
+  },
+  {
+    "name": "Atwood Food Bank",
+    "description": "Community food bank in Atwood providing free food assistance to Rawlins County residents on Thursdays. Located in the alley entrance at 510 Main Street.",
+    "address": "510 Main St, Atwood, KS 67730",
+    "phone": "(785) 626-3331",
+    "url": "https://nwkaaa.com/rawlins-county",
+    "categorySlug": "food",
+    "zipCode": "67730"
+  },
+  {
+    "name": "Rawlins County Health Center",
+    "description": "Critical access hospital and clinic serving Rawlins County and surrounding northwest Kansas communities with emergency care, primary care, and long-term care services in Atwood.",
+    "address": "707 Grant St, Atwood, KS 67730",
+    "phone": "(785) 626-3211",
+    "url": "https://www.rchc.us",
+    "categorySlug": "healthcare",
+    "zipCode": "67730"
+  },
+  {
+    "name": "Horizons Mental Health Center",
+    "description": "Community mental health center serving Reno County with outpatient therapy, crisis services, case management, and psychiatric evaluations for adults and children.",
+    "address": "1715 E 23rd Ave, Hutchinson, KS 67502",
+    "phone": "(620) 663-7125",
+    "url": "https://www.horizonsmentalhealthcenter.org",
+    "categorySlug": "healthcare",
+    "zipCode": "67502"
+  },
+  {
+    "name": "Hutchinson Community Foundation — Social Services",
+    "description": "Funds and coordinates a range of community social services in Reno County including food assistance, youth programs, and family support services.",
+    "address": "1 N Main St, Hutchinson, KS 67501",
+    "phone": "(620) 663-5293",
+    "url": "https://www.hutchcf.org",
+    "categorySlug": "community",
+    "zipCode": "67501"
+  },
+  {
+    "name": "Interfaith Housing Services",
+    "description": "Provides emergency shelter, transitional housing, and rental assistance to homeless and at-risk individuals and families in Reno County. Also operates a food pantry and utility assistance programs.",
+    "address": "619 N Main St, Hutchinson, KS 67501",
+    "phone": "(620) 669-0291",
+    "url": "https://www.ihs-ks.org",
+    "categorySlug": "housing",
+    "zipCode": "67501"
+  },
+  {
+    "name": "North Central Kansas Community Action Program (NCK CAP) — Republic County",
+    "description": "Provides Head Start, energy assistance, food pantry referrals, and other anti-poverty services to low-income residents of Republic and surrounding north-central Kansas counties.",
+    "address": "119 I St, Belleville, KS 66935",
+    "phone": "(785) 527-2282",
+    "url": "https://www.nckcap.org",
+    "categorySlug": "community",
+    "zipCode": "66935"
+  },
+  {
+    "name": "Republic County Hospital",
+    "description": "Critical access hospital providing emergency care, primary care, and inpatient services to residents of Republic County and surrounding rural communities.",
+    "address": "2420 G St, Belleville, KS 66935",
+    "phone": "(785) 527-2254",
+    "url": "https://www.republiccountyhospital.org",
+    "categorySlug": "healthcare",
+    "zipCode": "66935"
+  },
+  {
+    "name": "Rice County Health Department",
+    "description": "Provides public health services including immunizations, WIC nutrition program, family planning, and health screenings for Rice County residents in Lyons and the surrounding area.",
+    "address": "105 W Lyon St, Lyons, KS 67554",
+    "phone": "(620) 257-5112",
+    "url": "https://www.ricecounty.us/health",
+    "categorySlug": "healthcare",
+    "zipCode": "67554"
+  },
+  {
+    "name": "CASA (College Area Share Association)",
+    "description": "Peer-to-peer food sharing cooperative near Kansas State University that provides low-cost groceries and emergency food to students, staff, and Manhattan community members.",
+    "address": "1800 Claflin Rd, Manhattan, KS 66502",
+    "phone": "(785) 537-2272",
+    "url": "https://www.casacoop.com",
+    "categorySlug": "food",
+    "zipCode": "66502"
+  },
+  {
+    "name": "Domestic Violence Association of Central Kansas (DVACK)",
+    "description": "Provides emergency shelter, 24-hour crisis hotline, legal advocacy, and support services for survivors of domestic violence and sexual assault in Riley and Pottawatomie counties.",
+    "address": "P.O. Box 1526, Manhattan, KS 66505",
+    "phone": "(785) 539-2785",
+    "url": "https://www.dvack.org",
+    "categorySlug": "housing",
+    "zipCode": "66502"
+  },
+  {
+    "name": "Emergency Aid Foundation of Manhattan",
+    "description": "Provides emergency financial assistance for rent, utilities, and food to residents of Riley County facing unexpected crises. Also refers to other community resources.",
+    "address": "530 Humboldt St, Manhattan, KS 66502",
+    "phone": "(785) 776-2066",
+    "url": "https://www.eafmanhattan.org",
+    "categorySlug": "community",
+    "zipCode": "66502"
+  },
+  {
+    "name": "Lafene Health Center — KSU",
+    "description": "Student health center at Kansas State University offering primary care, mental health counseling, immunizations, and wellness services to Manhattan's university community.",
+    "address": "1105 Sunset Ave, Manhattan, KS 66506",
+    "phone": "(785) 532-6544",
+    "url": "https://www.k-state.edu/lafene",
+    "categorySlug": "healthcare",
+    "zipCode": "66506"
+  },
+  {
+    "name": "Rooks County Health Department",
+    "description": "Provides public health services including WIC, immunizations, health screenings, and communicable disease prevention for Rooks County residents in Stockton and surrounding communities.",
+    "address": "115 N Walnut St, Stockton, KS 67669",
+    "phone": "(785) 425-6271",
+    "url": "https://www.rooks-county.net/health-department",
+    "categorySlug": "healthcare",
+    "zipCode": "67669"
+  },
+  {
+    "name": "Rush County Health Department",
+    "description": "Provides public health nursing, WIC nutrition program, immunizations, and home health services for residents of Rush County.",
+    "address": "109 W 1st St, La Crosse, KS 67548",
+    "phone": "(785) 222-2599",
+    "url": "https://www.rushcounty.org/health-department",
+    "categorySlug": "healthcare",
+    "zipCode": "67548"
+  },
+  {
+    "name": "Rush County Services",
+    "description": "County-administered social services hub in La Crosse connecting Rush County residents with food assistance, Medicaid enrollment, and referrals to regional community resources.",
+    "address": "109 W 1st St, La Crosse, KS 67548",
+    "phone": "(785) 222-2731",
+    "url": "https://www.rushcounty.org",
+    "categorySlug": "community",
+    "zipCode": "67548"
+  },
+  {
+    "name": "Russell County Food Pantry",
+    "description": "Volunteer food pantry providing emergency grocery boxes and supplemental food assistance to low-income residents of Russell County.",
+    "address": "301 W 8th St, Russell, KS 67665",
+    "phone": "(785) 483-3116",
+    "url": "https://www.russellcountyfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "67665"
+  },
+  {
+    "name": "Russell Regional Hospital",
+    "description": "Critical access hospital serving Russell County with emergency care, primary care, swing-bed rehabilitation, and outpatient services.",
+    "address": "200 S Main St, Russell, KS 67665",
+    "phone": "(785) 483-3131",
+    "url": "https://www.russellregional.org",
+    "categorySlug": "healthcare",
+    "zipCode": "67665"
+  },
+  {
+    "name": "Asbury Park Memorial Food Pantry",
+    "description": "Church-based food pantry providing groceries, produce, and household staples to food-insecure families and individuals in the Salina area.",
+    "address": "1919 E Crawford St, Salina, KS 67401",
+    "phone": "(785) 825-8643",
+    "url": "https://www.asburyparkmemorial.org",
+    "categorySlug": "food",
+    "zipCode": "67401"
+  },
+  {
+    "name": "Ashby House (Domestic Violence Shelter)",
+    "description": "Provides emergency shelter, 24-hour crisis hotline, safety planning, and advocacy services for survivors of domestic violence and their children in Saline County.",
+    "address": "P.O. Box 1383, Salina, KS 67402",
+    "phone": "(785) 823-2803",
+    "url": "https://www.ashbyhouse.org",
+    "categorySlug": "housing",
+    "zipCode": "67401"
+  },
+  {
+    "name": "Catholic Charities of Central and Western Kansas — Salina",
+    "description": "Provides emergency financial assistance for rent, utilities, and food, plus immigration services and refugee resettlement support to Saline County residents.",
+    "address": "215 N 11th St, Salina, KS 67401",
+    "phone": "(785) 825-0208",
+    "url": "https://www.catholiccharitieswichita.org",
+    "categorySlug": "community",
+    "zipCode": "67401"
+  },
+  {
+    "name": "Central Kansas Mental Health Center",
+    "description": "Provides comprehensive outpatient mental health and substance use disorder treatment, crisis services, and community support programs for Saline County residents.",
+    "address": "809 N Ninth St, Salina, KS 67401",
+    "phone": "(785) 823-6322",
+    "url": "https://www.ckmhc.org",
+    "categorySlug": "healthcare",
+    "zipCode": "67401"
+  },
+  {
+    "name": "Salina Area United Way",
+    "description": "Coordinates funding and volunteers for social service programs across Saline County, supporting food banks, mental health services, youth development, and emergency assistance.",
+    "address": "336 S Santa Fe Ave, Salina, KS 67401",
+    "phone": "(785) 827-2004",
+    "url": "https://www.salinaunitedway.org",
+    "categorySlug": "community",
+    "zipCode": "67401"
+  },
+  {
+    "name": "Salina Emergency Aid Food Bank",
+    "description": "Distributes emergency food assistance and supplemental grocery boxes to low-income residents of Salina and Saline County. Partners with Harvesters and Kansas Food Bank networks.",
+    "address": "130 N 7th St, Salina, KS 67401",
+    "phone": "(785) 825-0541",
+    "url": "https://www.salinaemergencyaid.org",
+    "categorySlug": "food",
+    "zipCode": "67401"
+  },
+  {
+    "name": "Prairie Land Electric Food Pantry (Scott City)",
+    "description": "Community food pantry serving Scott City and Scott County residents with monthly grocery distributions and emergency food boxes.",
+    "address": "105 W 5th St, Scott City, KS 67871",
+    "phone": "(620) 872-2157",
+    "url": "https://www.scottcityfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "67871"
+  },
+  {
+    "name": "Scott County Health Department",
+    "description": "Public health agency providing WIC, immunizations, communicable disease investigation, and environmental health services for Scott County residents.",
+    "address": "303 Court St, Scott City, KS 67871",
+    "phone": "(620) 872-7470",
+    "url": "https://www.scottcountyks.org/health",
+    "categorySlug": "healthcare",
+    "zipCode": "67871"
+  },
+  {
+    "name": "Ascension Via Christi Health — Wichita",
+    "description": "Major health system operating multiple Wichita hospitals including St. Francis and St. Joseph, providing emergency care, specialty medicine, and community health programs.",
+    "address": "929 N St Francis St, Wichita, KS 67214",
+    "phone": "(316) 268-5000",
+    "url": "https://www.ascension.org/kansas",
+    "categorySlug": "healthcare",
+    "zipCode": "67214"
+  },
+  {
+    "name": "Botanica Wichita / Heartspring (Wichita West)",
+    "description": "Heartspring provides special education, therapy, and residential programs for children and adults with disabilities in west Wichita, serving families across south-central Kansas.",
+    "address": "8700 E 29th St N, Wichita, KS 67226",
+    "phone": "(316) 634-8700",
+    "url": "https://www.heartspring.org",
+    "categorySlug": "community",
+    "zipCode": "67226"
+  },
+  {
+    "name": "Breakthrough Club",
+    "description": "Psychiatric rehabilitation clubhouse providing vocational support, social programming, and community integration services for adults living with serious mental illness in Wichita.",
+    "address": "4050 E 21st St N, Wichita, KS 67208",
+    "phone": "(316) 685-1821",
+    "url": "https://www.breakthroughclub.org",
+    "categorySlug": "healthcare",
+    "zipCode": "67208"
+  },
+  {
+    "name": "Derby Community Food Pantry",
+    "description": "Volunteer-run food pantry offering supplemental groceries, fresh produce, and household items to food-insecure families in Derby and nearby Sedgwick County suburbs.",
+    "address": "700 N Woodlawn St, Derby, KS 67037",
+    "phone": "(316) 788-0400",
+    "url": "https://www.derbyfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "67037"
+  },
+  {
+    "name": "Guadalupe Clinic",
+    "description": "Federally Qualified Health Center providing primary and preventive medical care, dental, and behavioral health services to uninsured and underinsured patients in Wichita on a sliding-fee scale.",
+    "address": "2414 S Osage St, Wichita, KS 67213",
+    "phone": "(316) 264-7539",
+    "url": "https://www.guadalupeclinic.org",
+    "categorySlug": "healthcare",
+    "zipCode": "67213"
+  },
+  {
+    "name": "Haysville Community Food Pantry",
+    "description": "Provides emergency food boxes and supplemental grocery assistance to low-income residents of Haysville and surrounding south Sedgwick County communities.",
+    "address": "132 S Abilene St, Haysville, KS 67060",
+    "phone": "(316) 524-3278",
+    "url": "https://www.haysvillefoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "67060"
+  },
+  {
+    "name": "Interfaith Ministries Wichita",
+    "description": "Coordinates refugee resettlement, emergency food and financial assistance, Meals on Wheels, and community volunteer programs across Sedgwick County.",
+    "address": "829 N Market St, Wichita, KS 67214",
+    "phone": "(316) 264-9303",
+    "url": "https://www.interfaithwichita.org",
+    "categorySlug": "community",
+    "zipCode": "67214"
+  },
+  {
+    "name": "Kansas Food Bank",
+    "description": "Largest food bank in Kansas, serving 86 counties. Distributes millions of pounds of food annually through a network of 400+ partner agencies and mobile pantries across the state.",
+    "address": "1765 S Hillside St, Wichita, KS 67211",
+    "phone": "(316) 265-3663",
+    "url": "https://www.kansasfoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "67211"
+  },
+  {
+    "name": "Lord's Diner",
+    "description": "Free hot meal program serving dinner 365 days a year to anyone in need in Wichita. No eligibility requirements; also provides weekend sack lunches and holiday meals.",
+    "address": "1145 N Topeka St, Wichita, KS 67214",
+    "phone": "(316) 267-2450",
+    "url": "https://www.lordsdiner.org",
+    "categorySlug": "food",
+    "zipCode": "67214"
+  },
+  {
+    "name": "Sedgwick County Crisis Center (COMCARE)",
+    "description": "24-hour mental health crisis intervention, psychiatric emergency services, and community outreach for Sedgwick County residents experiencing acute mental health crises.",
+    "address": "635 N Main St, Wichita, KS 67203",
+    "phone": "(316) 660-7500",
+    "url": "https://www.sedgwickcounty.org/comcare",
+    "categorySlug": "healthcare",
+    "zipCode": "67203"
+  },
+  {
+    "name": "United Methodist Open Door (Wichita)",
+    "description": "Day shelter and social services hub providing meals, showers, laundry, mail services, and case management for homeless and at-risk adults in downtown Wichita.",
+    "address": "2850 E Douglas Ave, Wichita, KS 67214",
+    "phone": "(316) 265-4163",
+    "url": "https://www.umodwichita.org",
+    "categorySlug": "housing",
+    "zipCode": "67214"
+  },
+  {
+    "name": "Wichita Rescue Mission",
+    "description": "Provides emergency shelter, meals, and long-term residential recovery programs for homeless men and women in Wichita, with a focus on addiction recovery and life skills.",
+    "address": "520 N Market St, Wichita, KS 67214",
+    "phone": "(316) 263-2769",
+    "url": "https://www.wichitatrescuemission.net",
+    "categorySlug": "housing",
+    "zipCode": "67214"
+  },
+  {
+    "name": "Liberal Area Food Pantry",
+    "description": "Provides emergency food boxes and monthly grocery assistance to low-income families and individuals in Liberal and Seward County.",
+    "address": "302 N Lincoln Ave, Liberal, KS 67901",
+    "phone": "(620) 624-3773",
+    "url": "https://www.liberalfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "67901"
+  },
+  {
+    "name": "Liberal Good Samaritan Center",
+    "description": "Offers emergency shelter, transitional housing, and support services for homeless individuals and families in Liberal and surrounding Seward County communities.",
+    "address": "502 N Lincoln Ave, Liberal, KS 67901",
+    "phone": "(620) 624-3840",
+    "url": "https://www.liberalgoodsam.org",
+    "categorySlug": "housing",
+    "zipCode": "67901"
+  },
+  {
+    "name": "Seward County Health Department",
+    "description": "Public health agency offering WIC, immunizations, family planning, HIV testing, and chronic disease prevention programs to Seward County residents.",
+    "address": "515 N Washington Ave, Liberal, KS 67901",
+    "phone": "(620) 626-3369",
+    "url": "https://www.sewardcounty.org/health-department",
+    "categorySlug": "healthcare",
+    "zipCode": "67901"
+  },
+  {
+    "name": "Southwest Kansas Community Action Program — Liberal Office",
+    "description": "Provides Head Start early childhood education, LIEAP energy assistance, weatherization, food pantry referrals, and other anti-poverty services to Seward County residents.",
+    "address": "1106 N Western Ave, Liberal, KS 67901",
+    "phone": "(620) 626-3081",
+    "url": "https://www.swkcap.org",
+    "categorySlug": "community",
+    "zipCode": "67901"
+  },
+  {
+    "name": "Cross-Lines Community Outreach",
+    "description": "Provides emergency food, clothing, utility assistance, and social services to low-income residents of Topeka and Shawnee County. One of the largest emergency assistance providers in the area.",
+    "address": "736 Shawnee Ave, Topeka, KS 66603",
+    "phone": "(785) 296-0222",
+    "url": "https://www.cross-lines.org",
+    "categorySlug": "community",
+    "zipCode": "66603"
+  },
+  {
+    "name": "Doorstep (Food Pantry — Topeka)",
+    "description": "Neighborhood food pantry operated by a coalition of Topeka churches, distributing groceries, fresh produce, and essential household items to Shawnee County residents in need.",
+    "address": "1740 NW Gage Blvd, Topeka, KS 66618",
+    "phone": "(785) 232-5531",
+    "url": "https://www.doorsteptopeka.org",
+    "categorySlug": "food",
+    "zipCode": "66618"
+  },
+  {
+    "name": "Heartland RADAC (Regional Alcohol and Drug Assessment Center)",
+    "description": "Coordinates substance use disorder assessments and treatment referrals for Topeka-area residents, serving as the intake hub for publicly funded addiction treatment in northeast Kansas.",
+    "address": "1654 SW Westport Dr, Topeka, KS 66604",
+    "phone": "(785) 234-3448",
+    "url": "https://www.heartlandradac.org",
+    "categorySlug": "healthcare",
+    "zipCode": "66604"
+  },
+  {
+    "name": "IMPACT (Innovative Mental Health Programs in Action — Topeka)",
+    "description": "Provides outpatient mental health and substance use disorder services, case management, and peer support for adults in Shawnee County.",
+    "address": "3706 NW Topeka Blvd, Topeka, KS 66617",
+    "phone": "(785) 274-1700",
+    "url": "https://www.impacttopeka.org",
+    "categorySlug": "healthcare",
+    "zipCode": "66617"
+  },
+  {
+    "name": "Shawnee County Health Department",
+    "description": "Public health services including WIC, immunizations, family planning, TB screening, and communicable disease control for Shawnee County residents.",
+    "address": "2115 SW 10th Ave, Topeka, KS 66604",
+    "phone": "(785) 251-5000",
+    "url": "https://www.snco.us/henv",
+    "categorySlug": "healthcare",
+    "zipCode": "66604"
+  },
+  {
+    "name": "Stormont Vail Health — Community Benefit",
+    "description": "Regional health system providing charity care, community health programs, and free/reduced-cost clinic services to uninsured and underinsured Topeka-area residents.",
+    "address": "1500 SW 10th Ave, Topeka, KS 66604",
+    "phone": "(785) 354-6000",
+    "url": "https://www.stormontvail.org",
+    "categorySlug": "healthcare",
+    "zipCode": "66604"
+  },
+  {
+    "name": "Topeka Rescue Mission",
+    "description": "Provides emergency shelter, hot meals, addiction recovery programs, and transitional housing for homeless adults in Topeka. Serves hundreds of individuals nightly.",
+    "address": "605 N Kansas Ave, Topeka, KS 66608",
+    "phone": "(785) 354-1744",
+    "url": "https://www.toprescue.org",
+    "categorySlug": "housing",
+    "zipCode": "66608"
+  },
+  {
+    "name": "YWCA of Topeka — Women's Resource Center",
+    "description": "Provides emergency domestic violence shelter, transitional housing, crisis hotline, and advocacy services for survivors of domestic violence in Shawnee County.",
+    "address": "225 W 12th St, Topeka, KS 66612",
+    "phone": "(785) 843-3636",
+    "url": "https://www.ywcatopeka.org",
+    "categorySlug": "housing",
+    "zipCode": "66612"
+  },
+  {
+    "name": "Hoxie Health Clinic (Sheridan County Health Department)",
+    "description": "Provides public health nursing, WIC, immunizations, and health screenings to rural residents of Sheridan County in northwest Kansas.",
+    "address": "925 Campbell St, Hoxie, KS 67740",
+    "phone": "(785) 675-3481",
+    "url": "https://www.sheridancountyks.org/health-department",
+    "categorySlug": "healthcare",
+    "zipCode": "67740"
+  },
+  {
+    "name": "Goodland Regional Medical Center",
+    "description": "Critical access hospital serving Sherman County and surrounding northwest Kansas communities with emergency care, primary care, and outpatient services.",
+    "address": "220 W 2nd St, Goodland, KS 67735",
+    "phone": "(785) 890-3625",
+    "url": "https://www.goodlandregional.com",
+    "categorySlug": "healthcare",
+    "zipCode": "67735"
+  },
+  {
+    "name": "Northwest Kansas Community Action Program — Sherman County",
+    "description": "Provides LIEAP energy assistance, food pantry referrals, Head Start, weatherization, and transportation assistance to low-income residents of Sherman County.",
+    "address": "208 W 13th St, Goodland, KS 67735",
+    "phone": "(785) 899-3022",
+    "url": "https://www.nwkcap.org",
+    "categorySlug": "community",
+    "zipCode": "67735"
+  },
+  {
+    "name": "Smith County Memorial Hospital",
+    "description": "Critical access hospital providing emergency care, primary care, and limited specialty services to Smith County and surrounding rural north-central Kansas communities.",
+    "address": "614 S Main St, Smith Center, KS 66967",
+    "phone": "(785) 282-6845",
+    "url": "https://www.scmhks.org",
+    "categorySlug": "healthcare",
+    "zipCode": "66967"
+  },
+  {
+    "name": "Stafford County Food Pantry",
+    "description": "Volunteer food pantry distributing groceries and household staples to low-income families and individuals in St. John and throughout Stafford County.",
+    "address": "209 N Broadway St, St. John, KS 67576",
+    "phone": "(620) 549-3600",
+    "url": "https://www.staffordcountyks.org",
+    "categorySlug": "food",
+    "zipCode": "67576"
+  },
+  {
+    "name": "Stanton County Food Pantry",
+    "description": "Community food pantry serving Johnson City and Stanton County residents with monthly grocery distributions and emergency food assistance.",
+    "address": "700 N Main St, Johnson City, KS 67855",
+    "phone": "(620) 492-6200",
+    "url": "https://www.stantoncounty.com",
+    "categorySlug": "food",
+    "zipCode": "67855"
+  },
+  {
+    "name": "Sumner County Food Pantry (Wellington)",
+    "description": "Provides emergency food boxes and monthly grocery assistance to low-income residents of Wellington and Sumner County through a network of faith-community volunteers.",
+    "address": "115 W Harvey Ave, Wellington, KS 67152",
+    "phone": "(620) 326-5501",
+    "url": "https://www.sumnercountyks.org",
+    "categorySlug": "food",
+    "zipCode": "67152"
+  },
+  {
+    "name": "Sumner County Health Department",
+    "description": "Public health services including WIC nutrition program, immunizations, family planning, and communicable disease prevention for Sumner County residents.",
+    "address": "500 N Washington Ave, Wellington, KS 67152",
+    "phone": "(620) 326-8416",
+    "url": "https://www.sumnercountyks.org/health-department",
+    "categorySlug": "healthcare",
+    "zipCode": "67152"
+  },
+  {
+    "name": "Citizens Medical Center (Colby)",
+    "description": "Critical access hospital serving Thomas County and northwest Kansas with emergency care, primary and specialty care, outpatient services, and rural health clinics.",
+    "address": "100 E College Dr, Colby, KS 67701",
+    "phone": "(785) 462-7511",
+    "url": "https://www.citizensmedical.org",
+    "categorySlug": "healthcare",
+    "zipCode": "67701"
+  },
+  {
+    "name": "Trego County Food Pantry (WaKeeney)",
+    "description": "Volunteer food pantry providing emergency grocery boxes and supplemental food assistance to low-income residents of WaKeeney and Trego County.",
+    "address": "316 Russell Ave, WaKeeney, KS 67672",
+    "phone": "(785) 743-5572",
+    "url": "https://www.tregocountyks.com",
+    "categorySlug": "food",
+    "zipCode": "67672"
+  },
+  {
+    "name": "Trego County Lemke Memorial Hospital",
+    "description": "Critical access hospital providing emergency care, primary care, and outpatient services to residents of Trego County and surrounding west-central Kansas communities.",
+    "address": "320 N 13th St, WaKeeney, KS 67672",
+    "phone": "(785) 743-2182",
+    "url": "https://www.tregocountyhospital.org",
+    "categorySlug": "healthcare",
+    "zipCode": "67672"
+  },
+  {
+    "name": "Wabaunsee County Health Department",
+    "description": "Provides public health nursing, WIC nutrition services, immunizations, and health education for Wabaunsee County residents in Alma and surrounding communities.",
+    "address": "215 Kansas Ave, Alma, KS 66401",
+    "phone": "(785) 765-3404",
+    "url": "https://www.wabaunseecountyks.gov/health",
+    "categorySlug": "healthcare",
+    "zipCode": "66401"
+  },
+  {
+    "name": "Wallace County Health Center",
+    "description": "Critical access hospital and rural health clinic providing emergency care, primary care, and long-term care services to Wallace County and far northwest Kansas.",
+    "address": "312 Hospital Dr, Sharon Springs, KS 67758",
+    "phone": "(785) 852-4375",
+    "url": "https://www.wallacecountyhealthcenter.com",
+    "categorySlug": "healthcare",
+    "zipCode": "67758"
+  },
+  {
+    "name": "Washington County Health Department",
+    "description": "Public health agency serving Washington County with WIC, immunizations, family planning, and disease prevention programs.",
+    "address": "215 E 3rd St, Washington, KS 66968",
+    "phone": "(785) 325-2351",
+    "url": "https://www.washingtoncountyks.org/health-department",
+    "categorySlug": "healthcare",
+    "zipCode": "66968"
+  },
+  {
+    "name": "Wichita County Health Department (Leoti)",
+    "description": "Public health agency providing WIC, immunizations, home health, and disease prevention services to residents of Wichita County in far southwest Kansas.",
+    "address": "206 S 4th St, Leoti, KS 67861",
+    "phone": "(620) 375-4432",
+    "url": "https://www.wichitacountyks.org/health-department",
+    "categorySlug": "healthcare",
+    "zipCode": "67861"
+  },
+  {
+    "name": "Wilson Medical Center",
+    "description": "Critical access hospital providing emergency care, primary care, and outpatient services to Wilson County and surrounding southeast Kansas communities.",
+    "address": "2600 Ottawa Rd, Neodesha, KS 66757",
+    "phone": "(620) 325-2611",
+    "url": "https://www.wilsonmedical.org",
+    "categorySlug": "healthcare",
+    "zipCode": "66757"
+  },
+  {
+    "name": "Bonner Springs Food Pantry",
+    "description": "Community food pantry serving Bonner Springs and Edwardsville residents in northwest Wyandotte County with weekly grocery distributions.",
+    "address": "201 N Nettleton St, Bonner Springs, KS 66012",
+    "phone": "(913) 422-1015",
+    "url": "https://www.bonnerspringsfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "66012"
+  },
+  {
+    "name": "El Centro Community Services",
+    "description": "Provides bilingual social services, employment assistance, health navigation, youth programs, and emergency financial assistance to Latino and immigrant communities in Wyandotte County.",
+    "address": "650 Minnesota Ave, Kansas City, KS 66101",
+    "phone": "(913) 677-0100",
+    "url": "https://www.elcentro.org",
+    "categorySlug": "community",
+    "zipCode": "66101"
+  },
+  {
+    "name": "Kansas City Kansas Community College — WrapAround Services",
+    "description": "Student support services including emergency food pantry, housing referrals, childcare assistance, and wraparound case management for KCKCC students facing basic needs insecurity.",
+    "address": "7250 State Ave, Kansas City, KS 66112",
+    "phone": "(913) 334-1100",
+    "url": "https://www.kckcc.edu/wraparound",
+    "categorySlug": "community",
+    "zipCode": "66112"
+  },
+  {
+    "name": "KCK Community Food Pantry Network (Salvation Army KCK)",
+    "description": "Provides emergency food boxes, hot meals, and seasonal holiday food programs to low-income residents of Kansas City, KS and Wyandotte County.",
+    "address": "1000 N 5th St, Kansas City, KS 66101",
+    "phone": "(913) 371-2020",
+    "url": "https://www.salvationarmyusa.org/usn/kansas-city-ks",
+    "categorySlug": "food",
+    "zipCode": "66101"
+  },
+  {
+    "name": "Mattie Rhodes Center",
+    "description": "Provides mental health counseling, art therapy, and social services to low-income and Latino families in Kansas City. Serves both the Kansas City, KS and Missouri sides.",
+    "address": "1740 Parallel Pkwy, Kansas City, KS 66102",
+    "phone": "(816) 471-2536",
+    "url": "https://www.mattierhodes.org",
+    "categorySlug": "healthcare",
+    "zipCode": "66102"
+  },
+  {
+    "name": "Turn the Page KC",
+    "description": "Literacy and workforce development nonprofit serving Kansas City, KS providing adult education, job training, family literacy, and digital skills programs to low-income residents.",
+    "address": "1020 N 6th St, Kansas City, KS 66101",
+    "phone": "(913) 202-7087",
+    "url": "https://www.turnthepagekc.org",
+    "categorySlug": "community",
+    "zipCode": "66101"
+  },
+  {
+    "name": "Wyandot Center for Community Behavioral Healthcare",
+    "description": "Community mental health center offering outpatient therapy, psychiatric services, crisis intervention, and substance use treatment to Wyandotte County residents on a sliding-fee scale.",
+    "address": "500 State Ave, Kansas City, KS 66101",
+    "phone": "(913) 328-4600",
+    "url": "https://www.wyandotcenter.org",
+    "categorySlug": "healthcare",
+    "zipCode": "66101"
+  }
+]

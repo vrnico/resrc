@@ -1,0 +1,882 @@
+[
+  {
+    "name": "Anderson County Community Aid Coalition (ACCAC)",
+    "description": "Non-profit community action agency providing food, clothing, and emergency assistance to Anderson County families in crisis. Operates a bread program distributing food from Second Harvest Food Bank of East Tennessee.",
+    "address": "149 N Main St, Clinton, TN 37716",
+    "phone": "(865) 457-5500",
+    "url": "https://andersoncac.org/",
+    "categorySlug": "community",
+    "zipCode": "37716"
+  },
+  {
+    "name": "East Tennessee Human Resource Agency (ETHRA)",
+    "description": "Regional human resource agency serving Anderson and surrounding counties with transportation, senior nutrition programs, HUD housing assistance, home weatherization, and employment development services.",
+    "address": "500 N Charles G. Seivers Blvd, Clinton, TN 37716",
+    "phone": "(865) 457-2559",
+    "url": "https://www.ethra.org/",
+    "categorySlug": "community",
+    "zipCode": "37716"
+  },
+  {
+    "name": "United Way of Anderson County",
+    "description": "Coordinates community resources addressing basic needs including food, shelter, and financial stability for residents of Anderson County and surrounding communities.",
+    "address": "Clinton, TN 37716",
+    "phone": "",
+    "url": "https://uwayac.org/",
+    "categorySlug": "community",
+    "zipCode": "37716"
+  },
+  {
+    "name": "Bledsoe County Community Food Bank",
+    "description": "Community food bank serving Bledsoe County residents with weekly food distribution in Pikeville and two satellite sites. Open every Thursday for distribution with special hours for those with disabilities.",
+    "address": "384 Cumberland St, Pikeville, TN 37367",
+    "phone": "(423) 447-3325",
+    "url": "https://www.bledsoefoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "37367"
+  },
+  {
+    "name": "Southeast Tennessee Human Resource Agency (SETHRA) - Bledsoe County",
+    "description": "Regional human resource agency providing elderly support, financial assistance for employment and education, prescription medication assistance, and public transportation services for Bledsoe County residents.",
+    "address": "Pikeville, TN 37367",
+    "phone": "(423) 447-2444",
+    "url": "https://sethra.us/locations/bledsoe",
+    "categorySlug": "community",
+    "zipCode": "37367"
+  },
+  {
+    "name": "Bradley-Cleveland Community Services Agency (BCCSA)",
+    "description": "Community action agency serving Bradley County for over 40 years with programs addressing poverty, including utility assistance, senior services, and community support programs.",
+    "address": "155 6th St SE, Cleveland, TN 37311",
+    "phone": "(423) 479-4111",
+    "url": "https://bccsagency.org/",
+    "categorySlug": "community",
+    "zipCode": "37311"
+  },
+  {
+    "name": "The Caring Place",
+    "description": "Non-profit resource market providing free food and clothing to individuals and families in the Bradley County area. Offers a client-choice shopping model and supportive shopping assistance on Wednesdays.",
+    "address": "2400 Bower Lane SE, Cleveland, TN 37311",
+    "phone": "(423) 472-4414",
+    "url": "https://thecaringplaceonline.org/",
+    "categorySlug": "food",
+    "zipCode": "37311"
+  },
+  {
+    "name": "The Salvation Army of Cleveland",
+    "description": "Provides emergency food assistance, utility help, and social services to individuals and families in the Cleveland and Bradley County area.",
+    "address": "437 Inman St W, Cleveland, TN 37311",
+    "phone": "",
+    "url": "https://www.salvationarmyusa.org/usn/",
+    "categorySlug": "food",
+    "zipCode": "37311"
+  },
+  {
+    "name": "Carroll County Family Assistance Office",
+    "description": "State office providing SNAP food stamps, Families First/TANF, child care certificates, Medicaid, and TennCare services to Carroll County residents.",
+    "address": "20810 Main Street East, Huntingdon, TN 38344",
+    "phone": "(833) 772-8347",
+    "url": "https://www.tn.gov/humanservices/for-families/supplemental-nutrition-assistance-program-snap.html",
+    "categorySlug": "food",
+    "zipCode": "38258"
+  },
+  {
+    "name": "Northwest Tennessee Human Resource Agency (NWTHRA) - Carroll County",
+    "description": "Regional human resource agency serving Carroll County with community services, TEFAP food distribution, utility assistance, and social services programs for low-income residents.",
+    "address": "13355 Paris St, Huntingdon, TN 38344",
+    "phone": "(731) 209-4458",
+    "url": "https://nwtdd.org/nwthra",
+    "categorySlug": "community",
+    "zipCode": "38258"
+  },
+  {
+    "name": "The Ark Community Resource Center",
+    "description": "Non-profit serving south Cheatham County since 2001 with a weekly food pantry, utility assistance, Meals on Wheels for homebound seniors, school supply giveaway, Christmas Angel Tree, and a thrift store.",
+    "address": "Kingston Springs, TN 37082",
+    "phone": "",
+    "url": "https://tn211.myresourcedirectory.com/index.php?option=com_cpx&task=resource.view&id=3232413",
+    "categorySlug": "food",
+    "zipCode": "37082"
+  },
+  {
+    "name": "Clay County Department of Human Services",
+    "description": "State office in Celina providing SNAP food stamps, Families First/TANF workforce development, child support, disability services, adult protective services, and Medicaid/TennCare enrollment.",
+    "address": "141 East Lake Ave, Celina, TN 38551",
+    "phone": "(833) 772-8347",
+    "url": "https://www.tn.gov/humanservices/",
+    "categorySlug": "community",
+    "zipCode": "38551"
+  },
+  {
+    "name": "Crockett Cares Food Pantry",
+    "description": "Community food pantry dedicated to feeding hungry people in Crockett County, Tennessee. Provides food assistance to residents of the Alamo and greater Crockett County area.",
+    "address": "151 Conley Rd, Alamo, TN 38001",
+    "phone": "(731) 696-4067",
+    "url": "https://www.facebook.com/crockettcares/",
+    "categorySlug": "food",
+    "zipCode": "38001"
+  },
+  {
+    "name": "Northwest Tennessee Economic Development Council (NWTEDC) - TEFAP",
+    "description": "Distributes USDA commodity foods through the Emergency Food Assistance Program (TEFAP) to low-income residents of Crockett County and surrounding northwest Tennessee counties at no cost.",
+    "address": "Alamo, TN 38001",
+    "phone": "",
+    "url": "https://nwcommunityaction.org/",
+    "categorySlug": "food",
+    "zipCode": "38001"
+  },
+  {
+    "name": "Conexión Américas",
+    "description": "Community organization supporting Latino families in Nashville with workforce development, English language classes, business support, digital literacy, and navigation of social services. Serves more than 15,000 individuals annually.",
+    "address": "2195 Nolensville Pike, Nashville, TN 37211",
+    "phone": "(615) 270-9252",
+    "url": "https://www.conexionamericas.org/",
+    "categorySlug": "community",
+    "zipCode": "37211"
+  },
+  {
+    "name": "Metropolitan Action Commission (Nashville)",
+    "description": "City agency providing comprehensive social services to Nashville residents in poverty including energy assistance, Head Start, weatherization, senior programs, and community development initiatives.",
+    "address": "800 2nd Ave N, Nashville, TN 37201",
+    "phone": "(615) 862-8860",
+    "url": "https://www.nashville.gov/departments/metro-action",
+    "categorySlug": "community",
+    "zipCode": "37201"
+  },
+  {
+    "name": "Nashville Rescue Mission",
+    "description": "Emergency homeless shelter providing meals, overnight shelter, recovery programs, and transitional housing services to men experiencing homelessness in Nashville.",
+    "address": "639 Lafayette St, Nashville, TN 37219",
+    "phone": "(615) 255-2475",
+    "url": "https://nashvillerescuemission.org/",
+    "categorySlug": "housing",
+    "zipCode": "37219"
+  },
+  {
+    "name": "Room In The Inn",
+    "description": "Nashville non-profit providing transitional housing, permanent housing support, winter emergency shelter, and meals for people experiencing homelessness. Operates the Campus for Human Development.",
+    "address": "705 Drexel St, Nashville, TN 37203",
+    "phone": "(615) 251-9791",
+    "url": "https://www.roomintheinn.org/",
+    "categorySlug": "housing",
+    "zipCode": "37203"
+  },
+  {
+    "name": "Second Harvest Food Bank of Middle Tennessee",
+    "description": "Regional food bank serving Middle and West Tennessee with emergency food boxes, mobile pantry distributions, and commodity food programs for individuals and families facing hunger.",
+    "address": "331 Great Circle Rd, Nashville, TN 37228",
+    "phone": "(615) 329-3491",
+    "url": "https://www.secondharvestmidtn.org/",
+    "categorySlug": "food",
+    "zipCode": "37228"
+  },
+  {
+    "name": "The HELP Center",
+    "description": "Non-profit providing emergency food pantry services to low-income residents of Davidson County including the 37204 zip code. Also offers educational resources and supports families awaiting SNAP benefits.",
+    "address": "213 W Maplewood Lane, Suite 400, Nashville, TN 37207",
+    "phone": "(615) 750-2145",
+    "url": "https://www.thehelpcentertn.org/",
+    "categorySlug": "food",
+    "zipCode": "37207"
+  },
+  {
+    "name": "Dickson County Help Center",
+    "description": "Non-profit serving Dickson County since 1978 with a client-choice food pantry, emergency financial assistance for rent and utilities, prescription medication help, clothing, and short-term homeless assistance.",
+    "address": "103 W College St, Dickson, TN 37055",
+    "phone": "(615) 441-0076",
+    "url": "https://www.dicksoncountyhelpcenter.org/",
+    "categorySlug": "food",
+    "zipCode": "37055"
+  },
+  {
+    "name": "Highland Rim Economic Corporation (HREC)",
+    "description": "Community action agency providing USDA surplus commodity food distributions, utility assistance, and other social services to low-income residents of Dickson County and surrounding counties.",
+    "address": "Dickson, TN 37055",
+    "phone": "",
+    "url": "https://www.highlandrimec.org/",
+    "categorySlug": "community",
+    "zipCode": "37055"
+  },
+  {
+    "name": "Fentress County Health Department",
+    "description": "Federally Qualified Health Center providing primary care, immunizations, family planning, prenatal care, WIC, nutrition services, and children's special services to Fentress County residents on a sliding fee scale.",
+    "address": "240 Colonial Cir Suite A, Jamestown, TN 38556",
+    "phone": "(931) 879-9936",
+    "url": "https://www.tn.gov/health/health-program-areas/localdepartments/lidl/fentress.html",
+    "categorySlug": "healthcare",
+    "zipCode": "38556"
+  },
+  {
+    "name": "Helping Hand of Humboldt",
+    "description": "Long-established community organization founded in 1955 serving Gibson County with a food pantry and on-site meal program for individuals and families experiencing food insecurity.",
+    "address": "609 N 9th Ave, Humboldt, TN 38343",
+    "phone": "(731) 824-1757",
+    "url": "http://www.helpinghandhumboldt.com/",
+    "categorySlug": "food",
+    "zipCode": "38343"
+  },
+  {
+    "name": "Humboldt Family Service Center",
+    "description": "Local family services organization in Humboldt providing resources and referrals to social services for families in the Gibson County area.",
+    "address": "Humboldt, TN 38343",
+    "phone": "",
+    "url": "https://www.humboldtfamily.org/",
+    "categorySlug": "community",
+    "zipCode": "38343"
+  },
+  {
+    "name": "East Tennessee Human Resource Agency (ETHRA) - Grainger County",
+    "description": "Regional human resource agency serving Grainger County with senior services, transportation, Area Agency on Aging programs, and information and assistance for residents in need.",
+    "address": "PO Box 243, Rutledge, TN 37861",
+    "phone": "(865) 691-2551",
+    "url": "https://www.ethra.org/locations/11/grainger-county",
+    "categorySlug": "community",
+    "zipCode": "37861"
+  },
+  {
+    "name": "Grundy County Food Bank",
+    "description": "Non-profit food bank dedicated to helping households experiencing food insecurity in Grundy County, Tennessee. Distributes quality food items on Tuesday mornings to eligible county residents.",
+    "address": "861 Main St, Tracy City, TN 37387",
+    "phone": "(931) 592-3631",
+    "url": "https://grundycotnfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "37387"
+  },
+  {
+    "name": "Grundy County Health Department",
+    "description": "Public health department serving Grundy County residents with clinical health services, immunizations, family planning, WIC nutrition services, and preventive health programs.",
+    "address": "Altamont, TN 37301",
+    "phone": "",
+    "url": "https://www.grundycountytn.net/health_dept/index.html",
+    "categorySlug": "healthcare",
+    "zipCode": "37301"
+  },
+  {
+    "name": "We Care of Grundy County",
+    "description": "Community assistance organization serving Grundy County residents with food pantry access twice monthly, clothing, one-time rent/mortgage assistance, utility help, and holiday assistance programs.",
+    "address": "Grundy County, TN",
+    "phone": "(931) 692-3635",
+    "url": "https://www.wecareofgrundy.com/",
+    "categorySlug": "community",
+    "zipCode": "37365"
+  },
+  {
+    "name": "Chattanooga Area Food Bank",
+    "description": "Regional food bank partnering with 200+ organizations to provide emergency food, mobile pantries, school feeding programs, and senior grocery support throughout Hamilton County and surrounding areas.",
+    "address": "3402 N Hawthorne St, Chattanooga, TN 37406",
+    "phone": "(423) 622-1216",
+    "url": "https://www.chattfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "37406"
+  },
+  {
+    "name": "Community Food Pantry at St. Thaddaeus",
+    "description": "Weekly food pantry serving East Chattanooga residents, providing free non-perishable food, household necessities, and clothing on Saturday afternoons.",
+    "address": "4300 Locksley Lane, Chattanooga, TN 37416",
+    "phone": "(423) 400-0826",
+    "url": "https://www.foodpantries.org/li/tn_37416_community-food-pantry-at-st-thaddaeus",
+    "categorySlug": "food",
+    "zipCode": "37416"
+  },
+  {
+    "name": "Good Samaritan Network of Hamilton County",
+    "description": "Collaborative network of nonprofits, social services, government, and pantries providing emergency or crisis intervention for housing, utilities, food insecurity, medical, and other basic needs to at-risk Hamilton County residents.",
+    "address": "Chattanooga, TN 37401",
+    "phone": "",
+    "url": "https://www.gsnlive.org/",
+    "categorySlug": "community",
+    "zipCode": "37373"
+  },
+  {
+    "name": "Hope for the Inner City",
+    "description": "Nonprofit serving East Chattanooga through neighborhood outreach, economic empowerment, affordable housing, educational support, and a vision and dental clinic for uninsured residents.",
+    "address": "1800 Roanoke Ave, Chattanooga, TN 37406",
+    "phone": "",
+    "url": "https://www.wearehfic.org",
+    "categorySlug": "community",
+    "zipCode": "37406"
+  },
+  {
+    "name": "The Samaritan Center",
+    "description": "Hamilton County's second largest food pantry, distributing over 45,000 food items annually and providing emergency and long-term food assistance to residents of East Hamilton County.",
+    "address": "9231 Lee Hwy, Chattanooga, TN 37421",
+    "phone": "(423) 238-7777",
+    "url": "https://thesamaritancenter.net/",
+    "categorySlug": "food",
+    "zipCode": "37421"
+  },
+  {
+    "name": "Hardin County Jesus Cares",
+    "description": "Nonprofit providing emergency food assistance, rent and utility help, and transitional shelter referrals for low-income families in Hardin County, with walk-in hours Monday–Friday.",
+    "address": "230 Eureka St, Savannah, TN 38372",
+    "phone": "",
+    "url": "https://www.hcjesuscares.com/",
+    "categorySlug": "food",
+    "zipCode": "38372"
+  },
+  {
+    "name": "Lifespan Health (Hardin County Regional Health Center)",
+    "description": "Federally Qualified Health Center serving Hardin, McNairy, and Wayne counties with affordable primary care on a sliding fee scale, including family medicine, pediatrics, women's health, diabetes care, and immunizations.",
+    "address": "175 Enoch Blvd, Savannah, TN 38372",
+    "phone": "(731) 925-2300",
+    "url": "https://www.lifespanhealth.com/",
+    "categorySlug": "healthcare",
+    "zipCode": "38372"
+  },
+  {
+    "name": "First United Methodist Church Lexington Food Pantry",
+    "description": "Emergency food pantry providing free food boxes to Henderson County residents in need, open Monday, Tuesday, and Thursday mornings by appointment with photo ID required.",
+    "address": "27 E Church St, Lexington, TN 38351",
+    "phone": "(731) 968-2116",
+    "url": "https://www.fumclexington.org/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "38351"
+  },
+  {
+    "name": "United Way of Henderson County",
+    "description": "Local United Way chapter connecting Henderson County residents to food resources, financial assistance, health programs, and other social services through a network of partner agencies.",
+    "address": "Lexington, TN 38351",
+    "phone": "",
+    "url": "https://www.liveunitedhc.org/resources",
+    "categorySlug": "community",
+    "zipCode": "38351"
+  },
+  {
+    "name": "Helping Hands of Hickman County",
+    "description": "Nonprofit serving all of Hickman County with bimonthly food boxes, weekly produce giveaways, utility and clothing assistance, and low-cost furniture to families in need.",
+    "address": "10515 Ligon Love Rd, Bon Aqua, TN 37025",
+    "phone": "(931) 670-1008",
+    "url": "https://www.helpinghandshickmancounty.org",
+    "categorySlug": "food",
+    "zipCode": "37098"
+  },
+  {
+    "name": "South Central Human Resource Agency – Hickman County",
+    "description": "Community action agency providing low-income Hickman County residents with utility assistance, USDA commodity food distribution, Head Start early childhood education, and employment services.",
+    "address": "820 Hwy 100, Centerville, TN 37033",
+    "phone": "(931) 729-5921",
+    "url": "https://schra.us/service-centers/hickman/",
+    "categorySlug": "community",
+    "zipCode": "37033"
+  },
+  {
+    "name": "Jackson County Department of Human Services",
+    "description": "State DHS office providing Gainesboro-area residents with SNAP food assistance, Families First employment support, child support services, Medicaid, and adult protective services.",
+    "address": "307 S Murray St, Gainesboro, TN 38562",
+    "phone": "(833) 772-8347",
+    "url": "https://www.help4tn.org/node/869/jackson-county-department-human-services",
+    "categorySlug": "community",
+    "zipCode": "38562"
+  },
+  {
+    "name": "New Hope Baptist Church Care Center Food Bank",
+    "description": "Emergency food bank serving Clay, Jackson, and Putnam county residents with free food boxes, open Thursday and Friday each week.",
+    "address": "311 N Murray St, Gainesboro, TN 38562",
+    "phone": "(931) 268-2172",
+    "url": "https://tn211.myresourcedirectory.com/index.php/component/cpx/?id=625820&task=resource.view",
+    "categorySlug": "food",
+    "zipCode": "38562"
+  },
+  {
+    "name": "Appalachian Ministries of the Smokies (AMOS)",
+    "description": "Non-profit ministry providing free food and clothing to families in Cocke, Grainger, and Jefferson Counties of East Tennessee. Families may visit the food pantry once per month after completing an application.",
+    "address": "511 Municipal Dr, Jefferson City, TN 37760",
+    "phone": "(865) 475-5611",
+    "url": "https://www.aoministry.org/",
+    "categorySlug": "food",
+    "zipCode": "37760"
+  },
+  {
+    "name": "Fountain City Ministry Center",
+    "description": "Food pantry and community resource center serving north Knoxville zip codes including 37938, offering free food distributions multiple times per week to households experiencing food insecurity.",
+    "address": "5364 N Broadway St, Knoxville, TN 37918",
+    "phone": "(865) 688-5000",
+    "url": "https://www.fcministry.org/",
+    "categorySlug": "food",
+    "zipCode": "37918"
+  },
+  {
+    "name": "Knox Area Rescue Ministries (KARM)",
+    "description": "Knoxville's largest emergency shelter and recovery organization, providing overnight shelter, daily meals, residential recovery, job training, and case management to homeless and hurting individuals every day of the year.",
+    "address": "418 N Broadway, Knoxville, TN 37917",
+    "phone": "(865) 673-6540",
+    "url": "https://karm.org/",
+    "categorySlug": "housing",
+    "zipCode": "37917"
+  },
+  {
+    "name": "Knox Haven Bread of Life Food Pantry",
+    "description": "Faith-based nonprofit operating a food pantry on Middlebrook Pike in West Knox County, providing free groceries and fresh produce to food-insecure households in the west Knoxville area.",
+    "address": "Middlebrook Pike, Knoxville, TN 37909",
+    "phone": "(865) 421-5428",
+    "url": "https://knoxhaven.org/bread-of-life-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "37909"
+  },
+  {
+    "name": "Knoxville Knox County CAC",
+    "description": "Community action agency providing low-income Knox County residents with food resources, SNAP assistance, senior nutrition, adult education, Head Start, and other anti-poverty services.",
+    "address": "2247 Western Ave, Knoxville, TN 37921",
+    "phone": "(865) 544-5200",
+    "url": "https://www.knoxcac.org/",
+    "categorySlug": "community",
+    "zipCode": "37921"
+  },
+  {
+    "name": "West Knox FISH Pantry",
+    "description": "Network of West Knoxville churches delivering 3-day emergency food supplies to the doorsteps of homebound and in-need residents in the west Knoxville area, with no questions asked.",
+    "address": "934 N Weisgarber Rd, Knoxville, TN 37909",
+    "phone": "(865) 523-7900",
+    "url": "https://www.westknoxfishpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "37909"
+  },
+  {
+    "name": "Hope Hohenwald Food Distribution",
+    "description": "Biweekly food distribution program partnered with Second Harvest Food Bank of Middle Tennessee, providing free food boxes to Lewis County residents and delivering to disabled and homebound individuals.",
+    "address": "243 Forrest Ave, Hohenwald, TN 38462",
+    "phone": "(931) 796-2722",
+    "url": "https://www.hopehohenwald.org/food",
+    "categorySlug": "food",
+    "zipCode": "38462"
+  },
+  {
+    "name": "Lewis County Food & Clothing Bank",
+    "description": "Community food and clothing bank providing free groceries and clothing to low-income Lewis County residents multiple days per week throughout the year.",
+    "address": "131 Hankins Ln, Hohenwald, TN 38462",
+    "phone": "(931) 796-2588",
+    "url": "https://www.help4tn.org/node/926/lewis-county-food-bank",
+    "categorySlug": "food",
+    "zipCode": "38462"
+  },
+  {
+    "name": "South Central Human Resource Agency – Lewis County",
+    "description": "Community action agency serving Lewis County with USDA commodity food distribution, energy assistance, Head Start early childhood programs, and employment services for low-income residents.",
+    "address": "Hohenwald, TN 38462",
+    "phone": "(931) 433-7182",
+    "url": "https://schra.us/service-centers/lewis/",
+    "categorySlug": "community",
+    "zipCode": "38462"
+  },
+  {
+    "name": "Macon County Department of Human Services",
+    "description": "State DHS office in Lafayette providing Macon County residents with SNAP food benefits, Families First employment assistance, Medicaid, child support, and other social services.",
+    "address": "315 Hwy 52 E Bypass, Lafayette, TN 37083",
+    "phone": "(833) 772-8347",
+    "url": "https://www.help4tn.org/node/951/macon-county-department-human-services",
+    "categorySlug": "community",
+    "zipCode": "37083"
+  },
+  {
+    "name": "Macon Helps",
+    "description": "Community help center, thrift store, and food pantry in Lafayette providing free groceries to food-insecure Macon County households, open most weekdays.",
+    "address": "111 Main St, Lafayette, TN 37083",
+    "phone": "(615) 666-6607",
+    "url": "https://www.foodpantries.org/li/tn_lafayette_macon-helps-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "37083"
+  },
+  {
+    "name": "Erlanger Primary Care – Marion County",
+    "description": "Erlanger Health System primary care clinic providing full-range family medical services to South Pittsburg and Marion County residents, as well as patients from neighboring North Alabama communities.",
+    "address": "South Pittsburg, TN 37380",
+    "phone": "",
+    "url": "https://cm.erlanger.org/medical-services/primary-care/primary-care-marion-county",
+    "categorySlug": "healthcare",
+    "zipCode": "37380"
+  },
+  {
+    "name": "Marion County Community Ministry (MCCM)",
+    "description": "Nonprofit food pantry and assistance organization serving all Marion County residents with free groceries on Tuesdays and Saturdays, requiring photo ID and proof of county residency.",
+    "address": "141 Alabama Ave, Jasper, TN 37347",
+    "phone": "(423) 942-9556",
+    "url": "https://mccmfbgn.org/",
+    "categorySlug": "food",
+    "zipCode": "37347"
+  },
+  {
+    "name": "Athens Neighborhood Health Center",
+    "description": "Community health clinic providing accessible, high-quality primary care with a culture of caring and service to residents of McMinn County and surrounding areas.",
+    "address": "Athens, TN 37303",
+    "phone": "",
+    "url": "https://www.anhc.clinic/",
+    "categorySlug": "healthcare",
+    "zipCode": "37303"
+  },
+  {
+    "name": "Coordinated Charities of Athens",
+    "description": "Nonprofit Christian organization providing free groceries, utility assistance, and rent help to McMinn County residents by appointment Monday–Thursday, serving the Calhoun area and all of McMinn County.",
+    "address": "109 Rocky Mount Rd, Athens, TN 37303",
+    "phone": "(423) 745-9625",
+    "url": "https://www.foodpantries.org/li/coordinated-charities-of-athens",
+    "categorySlug": "food",
+    "zipCode": "37303"
+  },
+  {
+    "name": "United Way of McMinn and Meigs Counties",
+    "description": "Local United Way serving McMinn and Meigs county residents by funding and coordinating partner agencies that address food insecurity, education, financial stability, and health in the region.",
+    "address": "313 Maple St, Athens, TN 37303",
+    "phone": "(423) 745-9606",
+    "url": "https://www.uwmcminn-meigs.com/",
+    "categorySlug": "community",
+    "zipCode": "37303"
+  },
+  {
+    "name": "Meigs County Ministries",
+    "description": "Nonprofit providing free food, clothing, and emergency financial assistance for utilities, rent, and medications to low-income residents of Meigs County and the Ten Mile area.",
+    "address": "18364 State Hwy 58 N, Decatur, TN 37322",
+    "phone": "(423) 334-1071",
+    "url": "https://www.foodbanksearch.com/foodbank-profile.php?id=3251&name=meigs-county-ministries",
+    "categorySlug": "food",
+    "zipCode": "37880"
+  },
+  {
+    "name": "East Tennessee Human Resource Agency – Morgan County",
+    "description": "Community action agency providing Morgan County residents with emergency food (USDA commodities), utility and rent assistance, health services, job assistance, and education support through CSBG funding.",
+    "address": "1111 Knoxville Hwy, Wartburg, TN 37887",
+    "phone": "(423) 346-6651",
+    "url": "https://www.ethra.org/locations/8/morgan-county",
+    "categorySlug": "community",
+    "zipCode": "37887"
+  },
+  {
+    "name": "Morgan-Scott Project for Cooperative Christian Concerns",
+    "description": "Rural social services and community development organization serving low-income families in Morgan and Scott counties since 1972, offering emergency aid, food and clothing, home repair, healthcare clinics, education, job training, and a thrift store.",
+    "address": "1022 Old Deer Lodge Pike, Deer Lodge, TN 37726",
+    "phone": "(423) 965-3131",
+    "url": "https://morganscottproject.org/",
+    "categorySlug": "community",
+    "zipCode": "37726"
+  },
+  {
+    "name": "Storehouse Ministry",
+    "description": "Free food pantry and resource center in Wartburg providing non-perishable food boxes, maternity and baby clothing, household items, and spiritual counseling to Morgan County residents on Wednesdays and Saturdays.",
+    "address": "710 Main St, Wartburg, TN 37887",
+    "phone": "(423) 346-5267",
+    "url": "https://www.foodpantries.org/li/tn_37887_storehouse-ministry-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "37887"
+  },
+  {
+    "name": "Overton County Department of Human Services",
+    "description": "State DHS office providing SNAP food assistance, Families First workforce program, child care certificates, Medicaid, and TennCare financial help to Overton County residents.",
+    "address": "411 W. Main Street, Livingston, TN 38570",
+    "phone": "(833) 772-8347",
+    "url": "https://www.tn.gov/humanservices.html",
+    "categorySlug": "community",
+    "zipCode": "38570"
+  },
+  {
+    "name": "Upper Cumberland Human Resource Agency (UCHRA) - Overton County",
+    "description": "Community action agency serving Overton County residents with food pantry boxes, energy assistance, Head Start, and other social services programs for low-income individuals and families.",
+    "address": "106 W. Henson St., Livingston, TN 38570",
+    "phone": "(931) 823-7323",
+    "url": "https://uchra.org/",
+    "categorySlug": "community",
+    "zipCode": "38570"
+  },
+  {
+    "name": "People Helping People",
+    "description": "Nonprofit organization in Polk County providing food distribution and community assistance to residents in need, operating a thrift store and regular food distribution events.",
+    "address": "184 Mull Rd, Benton, TN 37307",
+    "phone": "(423) 299-9062",
+    "url": "https://peoplehelpingpeopletn.org/",
+    "categorySlug": "food",
+    "zipCode": "37307"
+  },
+  {
+    "name": "Polk County Government - Community Outreach",
+    "description": "County government outreach services connecting Polk County residents to social services, community resources, and assistance programs including food, health, and emergency services.",
+    "address": "P.O. Box 156, Benton, TN 37307",
+    "phone": "(423) 338-4526",
+    "url": "https://www.polkgovernment.com/comm-outreach.php",
+    "categorySlug": "community",
+    "zipCode": "37307"
+  },
+  {
+    "name": "Southeast Tennessee Human Resource Agency (SETHRA) - Polk County",
+    "description": "Community action agency offering commodities food distribution, energy assistance, and social services programs to help low-income residents of Polk County achieve self-sufficiency.",
+    "address": "4867 US 411, Benton, TN 37307",
+    "phone": "(423) 338-2335",
+    "url": "https://www.sethra.us/locations/polk",
+    "categorySlug": "community",
+    "zipCode": "37307"
+  },
+  {
+    "name": "Rhea of Hope Food Distribution - Dayton Church of God",
+    "description": "Faith-based food distribution ministry serving those experiencing hunger in Rhea County, providing groceries alongside community support and encouragement.",
+    "address": "1000 Church St, Dayton, TN 37321",
+    "phone": "(423) 775-1804",
+    "url": "https://www.daytonchurchofgod.com/ministries/rhea-of-hope-food-distribution",
+    "categorySlug": "food",
+    "zipCode": "37321"
+  },
+  {
+    "name": "We Care Community Services, Inc.",
+    "description": "Nonprofit serving Rhea County residents in Dayton, Evensville, and Graysville with a food pantry, emergency financial assistance, and a thrift center; food box assistance available every three months.",
+    "address": "1273 Dayton Mountain Hwy, Dayton, TN 37321",
+    "phone": "(423) 775-4333",
+    "url": "https://www.wecaredayton.com/",
+    "categorySlug": "food",
+    "zipCode": "37321"
+  },
+  {
+    "name": "Community Quick Care of La Vergne",
+    "description": "Walk-in primary care clinic providing affordable urgent and routine healthcare services to La Vergne residents, with accessible fees for uninsured and underinsured patients.",
+    "address": "5148-A Murfreesboro Rd, La Vergne, TN 37086",
+    "phone": "(615) 213-2273",
+    "url": "https://communityquickcare.com/",
+    "categorySlug": "healthcare",
+    "zipCode": "37086"
+  },
+  {
+    "name": "LaVergne Church of Christ Food Pantry",
+    "description": "Food pantry serving La Vergne residents every Monday morning, distributing groceries to community members in need through a partnership with Second Harvest Food Bank of Middle Tennessee.",
+    "address": "244 Old Nashville Hwy, La Vergne, TN 37086",
+    "phone": "(615) 793-6312",
+    "url": "https://lavergnecoc.org/",
+    "categorySlug": "food",
+    "zipCode": "37086"
+  },
+  {
+    "name": "Nourish Food Bank",
+    "description": "Regional food bank serving Rutherford County and surrounding Middle Tennessee counties, providing food pantry services and supplemental groceries to individuals and families facing food insecurity.",
+    "address": "1809 Memorial Blvd, Murfreesboro, TN 37129",
+    "phone": "(615) 896-0979",
+    "url": "https://www.nourishfoodbanks.org/",
+    "categorySlug": "food",
+    "zipCode": "37129"
+  },
+  {
+    "name": "Sequatchie County Fellowship of Churches and Food Bank",
+    "description": "Association of churches operating a county food bank in Dunlap, providing free groceries to Sequatchie County residents who lack resources to purchase sufficient food.",
+    "address": "103 Heard St, Dunlap, TN 37327",
+    "phone": "(423) 949-7716",
+    "url": "https://sequatchiecountytn.gov/directory/food-bank/",
+    "categorySlug": "food",
+    "zipCode": "37327"
+  },
+  {
+    "name": "Southeast Tennessee Human Resource Agency (SETHRA) - Sequatchie County",
+    "description": "Community action agency serving Sequatchie County with anti-poverty programs including energy assistance, weatherization, Head Start, senior services, and social services referrals.",
+    "address": "312 Resource Rd., Dunlap, TN 37327",
+    "phone": "(423) 949-2191",
+    "url": "https://www.sethra.us/locations/sequatchie",
+    "categorySlug": "community",
+    "zipCode": "37327"
+  },
+  {
+    "name": "Catholic Charities of West Tennessee - Food Pantry",
+    "description": "Food pantry and drive-thru mobile food distribution at St. Patrick Catholic Church in downtown Memphis, providing food boxes with fresh produce, meats, breads, and dairy to residents in need.",
+    "address": "277 S 4th St, Memphis, TN 38126",
+    "phone": "(901) 527-2542",
+    "url": "https://ccwtn.org/our-services/hungry/",
+    "categorySlug": "food",
+    "zipCode": "38126"
+  },
+  {
+    "name": "Church Health",
+    "description": "Nonprofit clinic providing quality, affordable medical and dental care on a sliding-scale fee basis for working uninsured people and their families in the Memphis area.",
+    "address": "1350 Concourse Ave, Suite 142, Memphis, TN 38104",
+    "phone": "(901) 272-0003",
+    "url": "https://churchhealth.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "38104"
+  },
+  {
+    "name": "Hospitality Hub",
+    "description": "Memphis nonprofit working to end homelessness by operating the Hub Hotel (barrier-free emergency shelter for women), providing housing navigation, and connecting individuals experiencing homelessness to services.",
+    "address": "590 Washington Ave, Memphis, TN 38105",
+    "phone": "(901) 730-1736",
+    "url": "https://www.hospitalityhub.org/",
+    "categorySlug": "housing",
+    "zipCode": "38105"
+  },
+  {
+    "name": "Mid-South Food Bank",
+    "description": "Regional food bank distributing wholesome food to partner agencies across 31 counties in west Tennessee, northern Mississippi, and eastern Arkansas, including mobile pantry sites in south Memphis neighborhoods.",
+    "address": "3865 S. Perkins Rd, Memphis, TN 38118",
+    "phone": "(901) 527-0841",
+    "url": "https://www.midsouthfoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "38118",
+    "additionalZipCodes": [
+      "38671",
+      "72301"
+    ]
+  },
+  {
+    "name": "MIFA (Metropolitan Inter-Faith Association)",
+    "description": "Social service nonprofit providing emergency financial assistance for rent, utilities, and mortgages, as well as Meals on Wheels for seniors and support programs for families in crisis across Memphis and Shelby County.",
+    "address": "910 Vance Ave, Memphis, TN 38126",
+    "phone": "(901) 527-0208",
+    "url": "https://www.mifa.org/",
+    "categorySlug": "community",
+    "zipCode": "38126"
+  },
+  {
+    "name": "St. Luke's United Methodist Church Food Pantry",
+    "description": "Weekly food pantry serving residents of the 38106 and 38126 zip codes in south Memphis, providing food assistance to families and individuals in need in the community.",
+    "address": "480 South Parkway East, Memphis, TN 38106",
+    "phone": "(901) 948-3441",
+    "url": "https://www.stlukesmemphis.org/",
+    "categorySlug": "food",
+    "zipCode": "38106"
+  },
+  {
+    "name": "Carthage Community Food Pantry - Carthage Church of God",
+    "description": "Food pantry operated by Carthage Church of God serving Smith County residents, open Tuesday and Thursday afternoons and distributing groceries to individuals and families in need.",
+    "address": "382 Main St. South, Brush Creek, TN 38547",
+    "phone": "(615) 281-8258",
+    "url": "https://www.facebook.com/carthagecommunityfoodpantry/",
+    "categorySlug": "food",
+    "zipCode": "38547"
+  },
+  {
+    "name": "Eternal Harvest Food Pantry",
+    "description": "Nonprofit food pantry serving anyone in need of food assistance in the Carthage and Smith County area, open multiple days per week for walk-in service.",
+    "address": "212 Ward Ave East, Carthage, TN 37030",
+    "phone": "(615) 486-9775",
+    "url": "https://ramonadenney-eternal-harvest-food-pantry.ueniweb.com/",
+    "categorySlug": "food",
+    "zipCode": "37030"
+  },
+  {
+    "name": "Smith County Help Center",
+    "description": "Nonprofit providing emergency assistance with food, utility bills, lodging, and clothing for Smith County residents, operating a thrift store with proceeds funding the utility and food assistance programs.",
+    "address": "318 Main St N, Carthage, TN 37030",
+    "phone": "(615) 735-8090",
+    "url": "https://smithcountychamber.org/assisting-organizations/",
+    "categorySlug": "community",
+    "zipCode": "37030"
+  },
+  {
+    "name": "Colonial Heights Baptist Church Food Pantry",
+    "description": "Food pantry open to 37663 zip code residents on Tuesday and Thursday mornings, providing food boxes to applicants with photo ID; operated by Colonial Heights Baptist Church in Kingsport.",
+    "address": "108 Colonial Heights Rd, Kingsport, TN 37663",
+    "phone": "(423) 239-5123",
+    "url": "https://www.chbckpt.com/",
+    "categorySlug": "food",
+    "zipCode": "37663"
+  },
+  {
+    "name": "Colonial Heights Christian Church - The Pantry",
+    "description": "Food pantry serving Sullivan County residents who are SSI recipients, households at or below the Federal Poverty Guidelines, or recently unemployed, operating by appointment on Monday mornings.",
+    "address": "105 Meadow Lane, Kingsport, TN 37663",
+    "phone": "(423) 239-2500",
+    "url": "https://www.chcckpt.org/food-ministry",
+    "categorySlug": "food",
+    "zipCode": "37663"
+  },
+  {
+    "name": "Oasis of Kingsport",
+    "description": "Multi-denominational ministry providing basic needs support to women in the Kingsport area, offering a safe and supportive environment to aid in personal growth and connect women with community resources.",
+    "address": "Kingsport, TN 37663",
+    "phone": "(423) 392-1137",
+    "url": "https://oasiskpt.org/",
+    "categorySlug": "community",
+    "zipCode": "37663"
+  },
+  {
+    "name": "Second Harvest Food Bank of Northeast Tennessee",
+    "description": "Regional food bank serving eight northeast Tennessee counties including Sullivan County, distributing food through partner pantries and operating mobile food distributions throughout the Kingsport and Bristol area.",
+    "address": "1020 Jericho Dr, Kingsport, TN 37663",
+    "phone": "(423) 279-0430",
+    "url": "https://netfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "37663"
+  },
+  {
+    "name": "Bread of Life Food Pantry - Covington First United Methodist Church",
+    "description": "Community food pantry operating since 2010 as an outreach ministry of First United Methodist Church, distributing food to eligible Tipton County residents on the first and third Saturdays of each month.",
+    "address": "145 W. Church Ave, Covington, TN 38019",
+    "phone": "(901) 476-9694",
+    "url": "https://covingtonfumc.com/mission/bread-of-life",
+    "categorySlug": "food",
+    "zipCode": "38019"
+  },
+  {
+    "name": "The Luke at Covington",
+    "description": "Once-a-month food pantry and clothes closet serving eligible Tipton County residents receiving public assistance or meeting income requirements, operated by a local church organization in Covington.",
+    "address": "632 St Luke Rd, Covington, TN 38019",
+    "phone": "(901) 476-5771",
+    "url": "https://www.tiptonco.com/",
+    "categorySlug": "food",
+    "zipCode": "38019"
+  },
+  {
+    "name": "Tipton County Health Department",
+    "description": "Public health department providing WIC nutrition program, immunizations, maternal and child health services, and referrals to community health resources for Tipton County residents.",
+    "address": "4700 Mueller Brass Rd, Covington, TN 38019",
+    "phone": "(901) 476-0235",
+    "url": "https://www.tiptonco.com/health_department/",
+    "categorySlug": "healthcare",
+    "zipCode": "38019"
+  },
+  {
+    "name": "Helping Hands of Warren County - Food Distribution Center",
+    "description": "Nonprofit food distribution center partnered with Second Harvest Food Bank, providing free food to all Warren County residents with no income guidelines, available once per month per household.",
+    "address": "220 E Main St, McMinnville, TN 37110",
+    "phone": "(931) 818-9070",
+    "url": "https://www.warrentn.com/list/member/helping-hands-ministry-436",
+    "categorySlug": "food",
+    "zipCode": "37110"
+  },
+  {
+    "name": "The Helping Hand of Warren County",
+    "description": "Food pantry and clothing closet serving Warren County residents, providing supplemental groceries and clothing assistance to individuals and families experiencing hardship.",
+    "address": "McMinnville, TN 37110",
+    "phone": "(931) 473-2513",
+    "url": "https://www.warrencountyhelpinghand.com/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "16365",
+    "additionalZipCodes": [
+      "37110"
+    ]
+  },
+  {
+    "name": "South Central Human Resource Agency (SCHRA) - Wayne County",
+    "description": "Community action agency serving Wayne County with LIHEAP energy assistance, employment services, Head Start, senior services including Meals on Wheels, and homemaker assistance for low-income residents.",
+    "address": "525 Hwy 64 East, Waynesboro, TN 38485",
+    "phone": "(931) 722-3717",
+    "url": "https://schra.us/service-centers/wayne/",
+    "categorySlug": "community",
+    "zipCode": "38485"
+  },
+  {
+    "name": "Wayne Church Food Pantry",
+    "description": "Food pantry operated by Wayne United Methodist Church providing food box assistance to Waynesboro and Wayne County residents by appointment, open Monday through Thursday.",
+    "address": "Waynesboro, TN 38485",
+    "phone": "(931) 722-5828",
+    "url": "https://wayneumc.org/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "38485"
+  },
+  {
+    "name": "GraceWorks Ministries - Franklin Food Bank",
+    "description": "Williamson County nonprofit operating a food bank and mobile food pantry with distribution sites in Franklin, Fairview, and surrounding communities; also provides rent, utility, and emergency assistance.",
+    "address": "104 Southeast Pkwy, Suite 100, Franklin, TN 37064",
+    "phone": "(615) 794-9055",
+    "url": "https://www.graceworkstn.org/services/food/",
+    "categorySlug": "food",
+    "zipCode": "37064"
+  },
+  {
+    "name": "Second Harvest Food Bank of Middle Tennessee - Mobile Pantry (Fairview)",
+    "description": "Mobile food pantry operated by Second Harvest distributing free groceries at Fairview Middle School on a monthly schedule, open to anyone regardless of county residency.",
+    "address": "7200 Cumberland Dr, Fairview, TN 37062",
+    "phone": "(615) 329-3491",
+    "url": "https://www.secondharvestmidtn.org/find-resources/find-food/mobile-pantry-schedule/",
+    "categorySlug": "food",
+    "zipCode": "37062"
+  },
+  {
+    "name": "Williamson County Community Services",
+    "description": "County-operated program providing veterans services, senior programs, public health referrals, and emergency assistance for residents of Williamson County including the Fairview area.",
+    "address": "1320 West Main St, Franklin, TN 37064",
+    "phone": "(615) 790-5718",
+    "url": "https://www.williamsoncounty-tn.gov/1818/Organizations-and-Resources",
+    "categorySlug": "community",
+    "zipCode": "37064"
+  }
+]

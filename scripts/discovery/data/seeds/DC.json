@@ -1,0 +1,335 @@
+[
+  {
+    "name": "Bread for the City - Northwest Center",
+    "description": "Provides nutritious groceries to more than 8,400 neighbors each month who are living near the federal poverty line. Also offers clothing, medical care, legal services, and case management.",
+    "address": "1525 7th St NW, Washington, DC 20001",
+    "phone": "(202) 265-2400",
+    "url": "https://breadforthecity.org/food/",
+    "categorySlug": "food",
+    "zipCode": "20001"
+  },
+  {
+    "name": "SOME (So Others Might Eat)",
+    "description": "Provides meals, food pantry services, housing, employment, and healthcare to vulnerable DC residents. Emergency food distributed on Wednesdays and Fridays from 9-11am.",
+    "address": "71 O St NW, Washington, DC 20001",
+    "phone": "(202) 797-8806",
+    "url": "https://some.org/get-help/",
+    "categorySlug": "food",
+    "zipCode": "20001"
+  },
+  {
+    "name": "Father McKenna Center",
+    "description": "Operates a daily food pantry for low-income families and seniors who are DC residents, offering both non-perishable and fresh goods within TEFAP income requirements.",
+    "address": "19 Eye St NW, Washington, DC 20001",
+    "phone": "(202) 842-1112",
+    "url": "https://fathermckennacenter.org/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "20001"
+  },
+  {
+    "name": "DC Central Kitchen",
+    "description": "Recovers unserved food from area businesses to feed hungry children and adults at social service agencies throughout DC, and provides culinary job training to unemployed individuals.",
+    "address": "425 2nd St NW, Washington, DC 20001",
+    "phone": "(202) 234-0707",
+    "url": "https://dccentralkitchen.org/",
+    "categorySlug": "food",
+    "zipCode": "20001"
+  },
+  {
+    "name": "Capital Area Food Bank",
+    "description": "The DC region's largest hunger relief organization, providing meals to thousands daily and operating a network of partner pantries and food distribution sites across the metro area.",
+    "address": "4900 Puerto Rico Ave NE, Washington, DC 20017",
+    "phone": "(202) 644-9800",
+    "url": "https://www.capitalareafoodbank.org/find-food-assistance/",
+    "categorySlug": "food",
+    "zipCode": "20002"
+  },
+  {
+    "name": "Catholic Charities - New York Avenue Men's Shelter",
+    "description": "Emergency overnight shelter for men ages 18 and older, operating nightly from 7pm to 7am, providing safe refuge and access to supportive services.",
+    "address": "1355 New York Ave NE, Washington, DC 20002",
+    "phone": "(202) 832-2359",
+    "url": "https://www.catholiccharitiesdc.org/get-help/housing-and-shelter/",
+    "categorySlug": "housing",
+    "zipCode": "20002"
+  },
+  {
+    "name": "DC Coalition for the Homeless - Emery Low Barrier Shelter",
+    "description": "Emergency shelter providing 130 nightly beds for men 18 and older experiencing homelessness, with access to case management, showers, and food.",
+    "address": "1725 Lincoln Rd NE, Washington, DC 20002",
+    "phone": "(202) 599-1116",
+    "url": "https://dccfh.org/emery-low-barrier-shelter/",
+    "categorySlug": "housing",
+    "zipCode": "20002"
+  },
+  {
+    "name": "Lutheran Church of the Reformation - Food Pantry",
+    "description": "Food pantry serving Capitol Hill neighbors for over 30 years, distributing pre-packaged bags of non-perishable items sufficient to sustain a family of four for two days.",
+    "address": "212 East Capitol St NE, Washington, DC 20003",
+    "phone": "(202) 543-4200",
+    "url": "https://www.reformationdc.org/dc-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "20003"
+  },
+  {
+    "name": "St. Vincent de Paul Food Pantry - Navy Yard",
+    "description": "Community food pantry offering food distribution one Saturday per month, serving residents in the Navy Yard and Capitol Hill area of Washington, DC.",
+    "address": "14 M St SE, Washington, DC 20003",
+    "phone": "(202) 615-7862",
+    "url": "https://svdpdc.org/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "20003"
+  },
+  {
+    "name": "National City Christian Church Food Pantry",
+    "description": "Weekly food pantry at Thomas Circle distributing over 100 bags of supplemental food each Wednesday to individuals and families in the neighborhood who do not have enough to eat.",
+    "address": "5 Thomas Circle NW, Washington, DC 20005",
+    "phone": "(202) 232-0323",
+    "url": "https://nationalcitycc.org/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "20005"
+  },
+  {
+    "name": "N Street Village",
+    "description": "Comprehensive community for women experiencing homelessness, offering emergency shelter, transitional and permanent supportive housing, meals, case management, and employment and wellness services.",
+    "address": "1333 N St NW, Washington, DC 20005",
+    "phone": "(202) 939-2076",
+    "url": "https://www.nstreetvillage.org/get-help/",
+    "categorySlug": "housing",
+    "zipCode": "20005"
+  },
+  {
+    "name": "Community of Hope",
+    "description": "Provides housing assistance, homelessness prevention, and rapid re-housing services for families and individuals across Washington, DC, coordinating referrals through the Virginia Williams Family Resource Center.",
+    "address": "655 15th St NW, Washington, DC 20005",
+    "phone": "(202) 715-3800",
+    "url": "https://www.communityofhopedc.org/housing/",
+    "categorySlug": "housing",
+    "zipCode": "20005"
+  },
+  {
+    "name": "DC Coalition for the Homeless",
+    "description": "Nonprofit providing specialized transitional and permanent housing assistance, emergency shelter, and supportive services for individuals and families experiencing homelessness in DC.",
+    "address": "1234 Massachusetts Ave NW, Washington, DC 20005",
+    "phone": "(202) 347-8870",
+    "url": "https://dccfh.org/programs/",
+    "categorySlug": "housing",
+    "zipCode": "20005"
+  },
+  {
+    "name": "Woodley House Food Pantry",
+    "description": "Open to any DC resident in need, providing food staples, fresh produce when available, and household essentials every Tuesday afternoon at the rear of the Woodley Park building.",
+    "address": "2711 Connecticut Ave NW, Washington, DC 20008",
+    "phone": "(202) 830-3508",
+    "url": "https://woodleyhouse.org/what-we-do/",
+    "categorySlug": "food",
+    "zipCode": "20008"
+  },
+  {
+    "name": "NW Community Food",
+    "description": "Community food pantry serving Northwest DC residents with free grocery distributions on Sundays, providing shelf-stable foods, fresh produce, and household essentials.",
+    "address": "4340 Connecticut Ave NW, Washington, DC 20008",
+    "phone": "(202) 743-5770",
+    "url": "https://nwcommunityfood.net/",
+    "categorySlug": "food",
+    "zipCode": "20008"
+  },
+  {
+    "name": "Hope and a Home",
+    "description": "Transitional housing organization providing 19 housing units and comprehensive programming to empower homeless families with children to achieve independent, stable living.",
+    "address": "1439 R St NW, Washington, DC 20009",
+    "phone": "(202) 387-7091",
+    "url": "https://hopeandahome.org/",
+    "categorySlug": "housing",
+    "zipCode": "20009"
+  },
+  {
+    "name": "Latin American Youth Center (LAYC)",
+    "description": "Provides over 50 programs to youth ages 12-21 including emergency shelter for homeless or runaway youth, housing referrals, mental health counseling, education support, and workforce readiness.",
+    "address": "1419 Columbia Rd NW, Washington, DC 20009",
+    "phone": "(202) 319-2225",
+    "url": "https://www.layc-dc.org/",
+    "categorySlug": "housing",
+    "zipCode": "20009"
+  },
+  {
+    "name": "Housing Counseling Services (HCS)",
+    "description": "Nonprofit providing comprehensive housing counseling, advocacy, and support for low-income homebuyers, tenants, and the homeless, including specialized services for persons living with HIV/AIDS.",
+    "address": "2410 17th St NW Suite 100, Washington, DC 20009",
+    "phone": "(202) 667-7006",
+    "url": "https://housingetc.org/",
+    "categorySlug": "housing",
+    "zipCode": "20009"
+  },
+  {
+    "name": "Thrive DC",
+    "description": "Works to end homelessness by providing meals, emergency groceries, showers, laundry, substance abuse counseling, and case management services primarily for low-income and homeless individuals.",
+    "address": "1525 Newton St NW Suite G1, Washington, DC 20010",
+    "phone": "(202) 360-9772",
+    "url": "https://www.thrivedc.org/forclients/",
+    "categorySlug": "food",
+    "zipCode": "20010"
+  },
+  {
+    "name": "Spanish Catholic Center Food Pantry",
+    "description": "Catholic Charities food pantry distributing grocery packages twice monthly to low-income DC residents, with a focus on serving the Latino community in Columbia Heights and surrounding neighborhoods.",
+    "address": "1618 Monroe St NW, Washington, DC 20010",
+    "phone": "(202) 939-2400",
+    "url": "https://www.catholiccharitiesdc.org/about-us/our-locations/spanish-catholic-center/",
+    "categorySlug": "food",
+    "zipCode": "20010"
+  },
+  {
+    "name": "Nineteenth Street Baptist Church Food Pantry",
+    "description": "Food pantry and clothes closet open twice weekly providing sustenance and assistance to those in need, supporting single mothers, disabled families, and anyone requiring food help.",
+    "address": "4606 16th St NW, Washington, DC 20011",
+    "phone": "(202) 829-2773",
+    "url": "https://www.19thstreetbc.org/",
+    "categorySlug": "food",
+    "zipCode": "20011"
+  },
+  {
+    "name": "Plymouth Congregational UCC Food Pantry",
+    "description": "Saturday food pantry serving residents within a defined parish boundary in northeast DC, distributing food packages to families with demonstrated need and a referral.",
+    "address": "5301 North Capitol St NE, Washington, DC 20011",
+    "phone": "(202) 723-5330",
+    "url": "https://www.uccplymouth.org/mission-outreach",
+    "categorySlug": "food",
+    "zipCode": "20011"
+  },
+  {
+    "name": "Housing Up",
+    "description": "Provides permanent supportive and rapid re-housing services for homeless and low-income families, offering case management, life skills, employment services, and youth enrichment programs.",
+    "address": "1322 Main Dr NW, Washington, DC 20012",
+    "phone": "(202) 291-5535",
+    "url": "https://housingup.org/get-help/",
+    "categorySlug": "housing",
+    "zipCode": "20012"
+  },
+  {
+    "name": "Virginia Williams Family Resource Center",
+    "description": "DC's centralized intake and referral hub for families experiencing homelessness, connecting families to emergency shelter, transitional housing, and rapid re-housing programs across the city.",
+    "address": "920 Rhode Island Ave NE, Washington, DC 20017",
+    "phone": "(202) 526-0017",
+    "url": "https://dhs.dc.gov/page/services-individuals-experiencing-homelessness",
+    "categorySlug": "housing",
+    "zipCode": "20017"
+  },
+  {
+    "name": "Central Union Mission - Comprehensive Family Resource Center",
+    "description": "Provides free food, clothing, and basic supplies to women, children, and families in need. Food distribution available Thursdays with walk-in hours.",
+    "address": "3194 Bladensburg Rd NE, Suite B, Washington, DC 20018",
+    "phone": "(202) 745-7118",
+    "url": "https://www.missiondc.org/family-services/comprehensive-family-resource-center-cfrc/",
+    "categorySlug": "food",
+    "zipCode": "20018"
+  },
+  {
+    "name": "Adam's Place Emergency Shelter",
+    "description": "Low-barrier emergency shelter for men age 18 and older, operated by Catholic Charities. Open 24 hours with shuttle service to downtown Washington.",
+    "address": "2210 Adams Place NE, Washington, DC 20018",
+    "phone": "(202) 832-8317",
+    "url": "https://www.catholiccharitiesdc.org/program/adams-place-emergency-shelter/",
+    "categorySlug": "housing",
+    "zipCode": "20018"
+  },
+  {
+    "name": "Virginia Williams Family Resource Center",
+    "description": "Central intake point for DC families experiencing homelessness or at immediate risk of homelessness; screens families for emergency and transitional housing assistance.",
+    "address": "920-A Rhode Island Ave NE, Washington, DC 20018",
+    "phone": "(202) 526-0017",
+    "url": "https://community-partnership.org/i-need-help/virginia-williams-family-resource-center-family-central-intake/",
+    "categorySlug": "housing",
+    "zipCode": "20018"
+  },
+  {
+    "name": "Damien Ministries Restoration Station Food Bank",
+    "description": "Community food bank open Tuesday through Friday providing groceries to DC residents; also offers rapid HIV testing and Narcan distribution.",
+    "address": "4063 Minnesota Ave NE, Washington, DC 20019",
+    "phone": "(202) 526-3020",
+    "url": "https://www.restorationstationdc.com/",
+    "categorySlug": "food",
+    "zipCode": "20019"
+  },
+  {
+    "name": "Hughes Memorial United Methodist Church Food Pantry",
+    "description": "Distributes free groceries on the last Saturday of each month from 11am to 1pm; no sign-up required.",
+    "address": "25 53rd St NE, Washington, DC 20019",
+    "phone": "(202) 398-3411",
+    "url": "https://www.hughesmemorial.org/ministries.aspx",
+    "categorySlug": "food",
+    "zipCode": "20019"
+  },
+  {
+    "name": "Dupont Park Seventh-day Adventist Church Community Services Pantry",
+    "description": "Food pantry and clothing closet serving low-income individuals; open multiple Tuesdays each month and the third Sunday from 10am to noon. ID required.",
+    "address": "3942 Alabama Ave SE, Washington, DC 20019",
+    "phone": "(202) 583-7416",
+    "url": "https://www.dpcsda.org/",
+    "categorySlug": "food",
+    "zipCode": "20019"
+  },
+  {
+    "name": "Covenant House Greater Washington",
+    "description": "Provides emergency shelter, transitional housing, and wraparound supportive services for young people ages 18\u201324 experiencing homelessness or exploitation.",
+    "address": "2001 Mississippi Ave SE, Washington, DC 20020",
+    "phone": "(202) 610-9600",
+    "url": "https://www.covenanthousegw.org/",
+    "categorySlug": "housing",
+    "zipCode": "20020"
+  },
+  {
+    "name": "Calvary Women's Services",
+    "description": "Emergency shelter and supportive services for women experiencing homelessness in Washington, DC; focused on ending women's homelessness through housing and recovery programs.",
+    "address": "1217 Marion Barry Ave SE, Washington, DC 20020",
+    "phone": "(202) 678-2341",
+    "url": "https://www.calvaryservices.org/",
+    "categorySlug": "housing",
+    "zipCode": "20020"
+  },
+  {
+    "name": "Paramount Baptist Church Emergency Food Pantry",
+    "description": "Emergency food pantry open on Wednesdays from 11:30am to 1pm once per month; referral accepted but not required.",
+    "address": "3924 4th St SE, Washington, DC 20032",
+    "phone": "(202) 562-6339",
+    "url": "https://paramountbaptistchurch.org/ministries/",
+    "categorySlug": "food",
+    "zipCode": "20032"
+  },
+  {
+    "name": "801 East Men's Shelter - Catholic Charities",
+    "description": "Large emergency shelter providing 396 beds for men 18 and older on the St. Elizabeths East campus; offers hot dinner, showers, and case management nightly.",
+    "address": "2700 Martin Luther King Jr Ave SE, Washington, DC 20032",
+    "phone": "(202) 561-4014",
+    "url": "https://www.catholiccharitiesdc.org/program/801-east-mens-shelter/",
+    "categorySlug": "housing",
+    "zipCode": "20032"
+  },
+  {
+    "name": "Missionaries of Charity - Queen of Peace Shelter",
+    "description": "Emergency shelter for pregnant women and their children under age 3 experiencing homelessness in Washington, DC.",
+    "address": "3310 Wheeler Rd SE, Washington, DC 20032",
+    "phone": "(202) 562-6890",
+    "url": "https://www.findhelp.org/missionaries-of-charity--washington-dc-queen-of-peace-shelter/4845867271979008",
+    "categorySlug": "housing",
+    "zipCode": "20032"
+  },
+  {
+    "name": "Community of Hope - Bridge at Hope",
+    "description": "Transitional housing program for individual adults experiencing homelessness who are eligible for a permanent housing subsidy and need stable interim housing to complete rental applications.",
+    "address": "3715 2nd St SE, Washington, DC 20032",
+    "phone": "(202) 563-1060",
+    "url": "https://www.communityofhopedc.org/housing/temporary-housing/",
+    "categorySlug": "housing",
+    "zipCode": "20032"
+  },
+  {
+    "name": "Miriam's Kitchen",
+    "description": "Provides healthy meals and high-quality social services to individuals experiencing homelessness, working to end chronic homelessness in Washington, DC through case management and supportive housing.",
+    "address": "2401 Virginia Ave NW, Washington, DC 20037",
+    "phone": "(202) 452-8926",
+    "url": "https://www.miriamskitchen.org/",
+    "categorySlug": "food",
+    "zipCode": "20037"
+  }
+]

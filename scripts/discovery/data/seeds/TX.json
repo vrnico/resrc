@@ -1,0 +1,1249 @@
+[
+  {
+    "name": "East Texas Food Bank – Frankston Mobile Pantry",
+    "description": "East Texas Food Bank partner agency operating a monthly mobile food pantry in Frankston serving Anderson County households with groceries and supplemental food boxes.",
+    "address": "111 E. Main St, Frankston, TX 75763",
+    "phone": "(903) 597-3663",
+    "url": "https://www.easttexasfoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "75763"
+  },
+  {
+    "name": "Hope Station",
+    "description": "Nonprofit in Palestine providing crisis assistance, a day room, hygiene kits, food bags, job readiness training, and transitional support services to individuals experiencing poverty or homelessness.",
+    "address": "919 S Magnolia St, Palestine, TX 75801",
+    "phone": "(903) 723-2930",
+    "url": "https://hopestationptx.org",
+    "categorySlug": "community",
+    "zipCode": "75801"
+  },
+  {
+    "name": "St. Vincent de Paul – Palestine Food Pantry",
+    "description": "Society of St. Vincent de Paul conference operating a food pantry in Palestine open four days a week, distributing groceries to Anderson County residents in need.",
+    "address": "503 N. Queen St, Palestine, TX 75801",
+    "phone": "",
+    "url": "https://www.svdpusa.org",
+    "categorySlug": "food",
+    "zipCode": "75801"
+  },
+  {
+    "name": "St. Mary & St. Boniface Parish Food Pantry",
+    "description": "Catholic parish food pantry serving Windthorst and surrounding Archer County residents on the first Thursday of each month with free groceries.",
+    "address": "101 Church St, Windthorst, TX 76389",
+    "phone": "(940) 423-6687",
+    "url": "https://www.stbonifacewindthorst.org",
+    "categorySlug": "food",
+    "zipCode": "76389"
+  },
+  {
+    "name": "Families in Crisis – Friends in Crisis Shelter",
+    "description": "Emergency shelter serving homeless individuals and families in Killeen and the greater Bell County area with transitional housing and supportive services.",
+    "address": "412 E Sprott St, Killeen, TX 76541",
+    "phone": "(254) 634-1184",
+    "url": "https://familiesincrisis.net",
+    "categorySlug": "housing",
+    "zipCode": "76541"
+  },
+  {
+    "name": "Food Care Center",
+    "description": "Killeen-based nonprofit providing no-cost groceries including fresh produce, meat, and pantry staples to neighbors in need in Bell County.",
+    "address": "210 N 16th St, Killeen, TX 76541",
+    "phone": "(254) 554-3400",
+    "url": "https://www.foodcare.org",
+    "categorySlug": "food",
+    "zipCode": "76541"
+  },
+  {
+    "name": "Killeen Empowerment Center",
+    "description": "501(c)(3) nonprofit operating a food pantry and clothing closet, partnering with community agencies to provide holistic assistance to Killeen-area residents.",
+    "address": "3629 E Veterans Memorial Blvd, Killeen, TX 76543",
+    "phone": "(254) 554-0973",
+    "url": "https://killeenempower.org",
+    "categorySlug": "community",
+    "zipCode": "76543"
+  },
+  {
+    "name": "East Texas Food Bank – Texarkana Resource Center",
+    "description": "One-stop food pantry and resource hub opened in 2024 providing groceries, benefits enrollment assistance, and referrals to healthcare and housing partners for Texarkana-area residents.",
+    "address": "3019 S Lake Dr, Texarkana, TX 75501",
+    "phone": "(903) 270-0182",
+    "url": "https://www.easttexasfoodbank.org/texarkana",
+    "categorySlug": "food",
+    "zipCode": "75501"
+  },
+  {
+    "name": "Harvest Regional Food Bank",
+    "description": "Feeding America member food bank serving the Texarkana bi-state region, distributing food through partner agencies and direct programs to low-income households across Bowie County.",
+    "address": "3120 E 19th St, Texarkana, AR 71854",
+    "phone": "(870) 774-1398",
+    "url": "https://harvestregionalfoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "71854",
+    "additionalZipCodes": [
+      "75503"
+    ]
+  },
+  {
+    "name": "Harvest Regional Food Bank – Bowie Mobile Pantry",
+    "description": "Regional food bank operating mobile food distributions in Bowie and throughout Montague County, serving households facing food insecurity at no cost.",
+    "address": "3120 E 19th St, Texarkana, TX 75501",
+    "phone": "(870) 774-1398",
+    "url": "https://harvestregionalfoodbank.org/bowie",
+    "categorySlug": "food",
+    "zipCode": "75501"
+  },
+  {
+    "name": "Mission Texarkana",
+    "description": "Nonprofit serving the indigent and distressed in the Texarkana metro area with daily hot meals, clothing, hygiene products, vocational training, and emergency assistance with utilities and lodging.",
+    "address": "620 W 4th St, Texarkana, TX 75504",
+    "phone": "(903) 792-1301",
+    "url": "https://missiontexarkana.org",
+    "categorySlug": "housing",
+    "zipCode": "71854",
+    "additionalZipCodes": [
+      "75503"
+    ]
+  },
+  {
+    "name": "Bangs Food Pantry",
+    "description": "Local food pantry in Bangs open Monday through Thursday providing free groceries to Brown County residents experiencing food insecurity.",
+    "address": "105 County Road 183, Bangs, TX 76823",
+    "phone": "(325) 752-6748",
+    "url": "https://www.foodpantries.org/li/bangs_food_pantry_76823",
+    "categorySlug": "food",
+    "zipCode": "76823"
+  },
+  {
+    "name": "Good Samaritan Ministries",
+    "description": "Brownwood nonprofit providing food pantry services five days a week to over 800 Brown County families monthly, offering both perishable and non-perishable food items.",
+    "address": "305 Clark St, Brownwood, TX 76801",
+    "phone": "(325) 643-2273",
+    "url": "https://goodsambwd.org",
+    "categorySlug": "food",
+    "zipCode": "76801"
+  },
+  {
+    "name": "Community Services of Northeast Texas (CSNT)",
+    "description": "Community action agency providing food pantry services, utility assistance, fan and coat drives, and referrals to low-income households across Cass County and seven neighboring Northeast Texas counties.",
+    "address": "304 E Houston St, Linden, TX 75563",
+    "phone": "(903) 717-7400",
+    "url": "https://www.csntexas.org",
+    "categorySlug": "community",
+    "zipCode": "75563"
+  },
+  {
+    "name": "Coke County Food Pantry",
+    "description": "Volunteer-run food pantry in Robert Lee serving approximately 45 families countywide each week with groceries sourced from the Concho Valley Regional Food Bank and local donations.",
+    "address": "Washington St, Robert Lee, TX 76945",
+    "phone": "(325) 453-2492",
+    "url": "http://www.robertleetexas.com/volunteer.html",
+    "categorySlug": "food",
+    "zipCode": "76945"
+  },
+  {
+    "name": "Concho Valley Regional Food Bank",
+    "description": "Regional food bank covering Coke County and surrounding West Texas counties, supplying partner food pantries and distributing food directly to households in need.",
+    "address": "1313 S Hill St, San Angelo, TX 76902",
+    "phone": "(325) 655-3231",
+    "url": "https://cvfoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "76949"
+  },
+  {
+    "name": "Amazing Grace Food Pantry",
+    "description": "Volunteer-run nonprofit food pantry in Wylie providing free groceries to families in need across Collin and Rockwall counties, open three days per week including evenings and Saturday mornings.",
+    "address": "1711 Parker Rd, Wylie, TX 75098",
+    "phone": "(972) 292-7241",
+    "url": "https://www.amazinggracepantry.org",
+    "categorySlug": "food",
+    "zipCode": "75098"
+  },
+  {
+    "name": "Feed McKinney",
+    "description": "Collin County nonprofit working to eliminate food insecurity in McKinney and surrounding communities through food distributions, mobile pantries, and referral services.",
+    "address": "1600 N. Tennessee St, McKinney, TX 75069",
+    "phone": "(972) 369-3378",
+    "url": "https://feedmckinney.org",
+    "categorySlug": "food",
+    "zipCode": "75069"
+  },
+  {
+    "name": "Minnie's Food Pantry",
+    "description": "One of the largest food pantries in North Texas, providing weekly groceries including fresh produce, dairy, and non-perishables to families and individuals in the Plano area.",
+    "address": "661 18th St, Plano, TX 75074",
+    "phone": "(972) 596-0253",
+    "url": "https://minniesfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "75074"
+  },
+  {
+    "name": "North Texas Food Bank",
+    "description": "Regional food bank operating a network of nearly 500 partner agencies across North Texas including Collin County, providing food assistance programs, SNAP enrollment help, and senior and children's nutrition initiatives.",
+    "address": "3677 Mapleshade Ln, Plano, TX 75075",
+    "phone": "(214) 341-6328",
+    "url": "https://ntfb.org",
+    "categorySlug": "food",
+    "zipCode": "75075"
+  },
+  {
+    "name": "The Salvation Army – Plano",
+    "description": "Salvation Army corps offering food pantry services, emergency financial assistance, utility help, and social services to low-income residents of Plano and northern Collin County.",
+    "address": "3400 Central Expy, Plano, TX 75023",
+    "phone": "(972) 423-1661",
+    "url": "https://salvationarmyntx.org/north-texas/plano",
+    "categorySlug": "community",
+    "zipCode": "75023"
+  },
+  {
+    "name": "Comanche County Medical Center",
+    "description": "Community hospital in Comanche providing inpatient, emergency, and outpatient medical services to residents of Comanche County, with a social worker on staff to connect patients with community resources.",
+    "address": "10201 US-67, Comanche, TX 76442",
+    "phone": "(254) 879-4900",
+    "url": "https://comanchecmc.org",
+    "categorySlug": "healthcare",
+    "zipCode": "76444"
+  },
+  {
+    "name": "DeLeon Ministerial Alliance Food Pantry",
+    "description": "Faith-based food pantry operated by the De Leon ministerial alliance serving residents of De Leon and Comanche County with free groceries.",
+    "address": "De Leon, TX 76444",
+    "phone": "",
+    "url": "https://foreverywoman.org/service/DeLeon-Ministerial-Alliance-Food-Pantry/RwJZksvAgF",
+    "categorySlug": "food",
+    "zipCode": "76444"
+  },
+  {
+    "name": "Food Bank of West Central Texas",
+    "description": "Regional food bank covering Comanche County and surrounding West Texas counties, operating mobile food pantry distributions and supporting local food assistance programs.",
+    "address": "5505 N First St, Abilene, TX 79603",
+    "phone": "(325) 695-6311",
+    "url": "https://fbwct.org",
+    "categorySlug": "food",
+    "zipCode": "76444"
+  },
+  {
+    "name": "Central Texas Food Bank",
+    "description": "Regional food bank serving Coryell County and 21 surrounding Central Texas counties through a network of partner pantries, mobile distributions, and direct food assistance programs.",
+    "address": "6500 Metropolis Dr, Austin, TX 78744",
+    "phone": "(512) 282-2111",
+    "url": "https://www.centraltexasfoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "76522"
+  },
+  {
+    "name": "Brother Bill's Helping Hand",
+    "description": "West Dallas food pantry and community center providing free groceries, free clinical health services, after-school programming, job training, and ESL classes to West Dallas and Oak Cliff residents.",
+    "address": "3906 N Westmoreland Rd, Dallas, TX 75212",
+    "phone": "(214) 638-2196",
+    "url": "https://bbhh.org",
+    "categorySlug": "community",
+    "zipCode": "75212"
+  },
+  {
+    "name": "Catholic Charities Dallas – Food Pantry Services",
+    "description": "Diocesan social services agency operating multiple food pantry sites across Dallas County, providing groceries and emergency assistance to low-income families regardless of faith background.",
+    "address": "1421 W Mockingbird Ln, Dallas, TX 75247",
+    "phone": "(214) 528-4870",
+    "url": "https://www.ccdallas.org/services/food-services",
+    "categorySlug": "food",
+    "zipCode": "75247"
+  },
+  {
+    "name": "Crossroads Community Services",
+    "description": "Southwest Dallas food bank providing free groceries to low-income families in zip codes 75224, 75232, 75233, 75236, 75237, and 75249, open Tuesday through Thursday and the first and third Saturdays of each month.",
+    "address": "4500 S Cockrell Hill Rd, Dallas, TX 75236",
+    "phone": "(469) 860-6090",
+    "url": "https://ccsdallas.org",
+    "categorySlug": "food",
+    "zipCode": "75236"
+  },
+  {
+    "name": "DeSoto Food Pantry, Inc.",
+    "description": "Nonprofit food pantry serving DeSoto and Dallas County residents with free groceries by appointment on Mondays and Thursdays.",
+    "address": "106 N Lyndalyn Ave, DeSoto, TX 75115",
+    "phone": "(972) 223-4050",
+    "url": "https://desotofoodpantryinc.com",
+    "categorySlug": "food",
+    "zipCode": "75115"
+  },
+  {
+    "name": "Good Samaritans of Garland",
+    "description": "Established Garland nonprofit providing supplemental food assistance to low-income families in the 75040, 75041, 75043, 75088, and 75089 zip codes, open Monday through Friday.",
+    "address": "214 N 12th St, Garland, TX 75040",
+    "phone": "(972) 276-2263",
+    "url": "https://www.goodsamofgarland.org",
+    "categorySlug": "food",
+    "zipCode": "75040"
+  },
+  {
+    "name": "Hope Clinic of Garland",
+    "description": "Free nonprofit medical clinic providing primary, urgent, chronic, behavioral, and preventive healthcare to uninsured and low-income residents of Garland and surrounding Dallas County communities.",
+    "address": "800 S 6th St, Suite 100, Garland, TX 75040",
+    "phone": "(469) 800-2500",
+    "url": "https://hopeclinic-garland.org",
+    "categorySlug": "healthcare",
+    "zipCode": "75040"
+  },
+  {
+    "name": "Mission Oak Cliff",
+    "description": "Dallas nonprofit operating a client-choice food pantry Monday through Friday and a Homeless Welcome Center providing meals, hygiene packs, and community referrals to residents of Oak Cliff and south Dallas.",
+    "address": "111 S Beckley Ave, Dallas, TX 75203",
+    "phone": "(214) 942-6407",
+    "url": "https://www.missionoakcliff.org",
+    "categorySlug": "food",
+    "zipCode": "75203"
+  },
+  {
+    "name": "Now-Forward (formerly North Dallas Shared Ministries)",
+    "description": "Dallas nonprofit providing a food pantry, emergency financial assistance with rent and utilities, and free medical clinic services to low-income residents of the Dallas Uptown and surrounding zip codes.",
+    "address": "2875 Merrell Rd, Dallas, TX 75229",
+    "phone": "(214) 358-8700",
+    "url": "https://now-forward.org",
+    "categorySlug": "community",
+    "zipCode": "75229"
+  },
+  {
+    "name": "Resource Center",
+    "description": "Dallas LGBTQ+ community center providing a food pantry, mental health services, HIV/STI testing, and social support programs open to all community members in the Oak Lawn area.",
+    "address": "5750 Cedar Springs Rd, Dallas, TX 75235",
+    "phone": "(214) 528-0144",
+    "url": "https://myresourcecenter.org",
+    "categorySlug": "community",
+    "zipCode": "75235"
+  },
+  {
+    "name": "Serve Southern Dallas",
+    "description": "Nonprofit coalition operating food pantries and connecting south Dallas residents to social services including housing assistance, emergency aid, and community resources.",
+    "address": "2959 W Ledbetter Dr, Dallas, TX 75233",
+    "phone": "(214) 467-5200",
+    "url": "https://servesouthdallas.org",
+    "categorySlug": "community",
+    "zipCode": "75233"
+  },
+  {
+    "name": "The Salvation Army – Garland",
+    "description": "Salvation Army corps providing food pantry services, utility bill assistance, and referrals to emergency shelter for residents of Garland, Sachse, Rowlett, and Rockwall.",
+    "address": "451 W Avenue D, Garland, TX 75040",
+    "phone": "(972) 272-4531",
+    "url": "https://salvationarmyntx.org/north-texas/garland",
+    "categorySlug": "community",
+    "zipCode": "75040"
+  },
+  {
+    "name": "The Salvation Army – Oak Cliff",
+    "description": "Salvation Army corps in south Dallas providing emergency food assistance, utility and rent help, and social services to low-income households in DeSoto and surrounding Dallas County communities.",
+    "address": "1617 Buckner Blvd, Dallas, TX 75217",
+    "phone": "(214) 275-5300",
+    "url": "https://salvationarmyntx.org/north-texas/oak-cliff",
+    "categorySlug": "community",
+    "zipCode": "75217"
+  },
+  {
+    "name": "Delta Hope House",
+    "description": "IRS-recognized nonprofit food pantry in Cooper run by community volunteers, distributing groceries sourced from the North Texas Food Bank to Delta County residents every Thursday.",
+    "address": "440 SW 3rd St, Cooper, TX 75432",
+    "phone": "(903) 300-3303",
+    "url": "http://www.deltahopehouse.org",
+    "categorySlug": "food",
+    "zipCode": "75432"
+  },
+  {
+    "name": "Denton Community Food Center",
+    "description": "Denton nonprofit operating a client-choice food pantry providing free groceries, perishables, and produce to Denton County residents by monthly appointment.",
+    "address": "306 N Loop 288, Suite 400, Denton, TX 76201",
+    "phone": "(940) 382-0807",
+    "url": "https://www.dentoncfc.org",
+    "categorySlug": "food",
+    "zipCode": "76201"
+  },
+  {
+    "name": "Our Daily Bread",
+    "description": "The only low-barrier 24/7 homeless shelter in Denton County, providing overnight and day shelter, meals, showers, laundry, clothing, and wraparound case management services for adults experiencing homelessness.",
+    "address": "909 N Loop 288, Denton, TX 76209",
+    "phone": "(940) 566-1308",
+    "url": "https://www.ourdailybreaddenton.org",
+    "categorySlug": "housing",
+    "zipCode": "76201"
+  },
+  {
+    "name": "The Salvation Army – Denton",
+    "description": "Denton Salvation Army corps offering an emergency night shelter, twice-daily meals, a food pantry open twice per week, and comprehensive social services for homeless and food-insecure Denton County residents.",
+    "address": "1508 E McKinney St, Denton, TX 76209",
+    "phone": "(940) 566-3800",
+    "url": "https://salvationarmyntx.org/north-texas/denton",
+    "categorySlug": "housing",
+    "zipCode": "76201"
+  },
+  {
+    "name": "Eastland County Food Pantry",
+    "description": "Community food pantry in Eastland providing free food and clothing to Eastland County residents on Wednesdays and Fridays, with additional church-affiliated distribution options throughout the county.",
+    "address": "105 E Olive St, Eastland, TX 76448",
+    "phone": "(254) 629-2132",
+    "url": "https://networks.whyhunger.org/organisation/45562",
+    "categorySlug": "food",
+    "zipCode": "76448"
+  },
+  {
+    "name": "Ellis County Homeless Coalition",
+    "description": "Coalition of organizations addressing homelessness and food insecurity across Ellis County, coordinating shelter resources, food programs, and wraparound services for at-risk residents.",
+    "address": "Waxahachie, TX 75165",
+    "phone": "",
+    "url": "https://www.elliscountyhomelesscoalition.org",
+    "categorySlug": "housing",
+    "zipCode": "75165"
+  },
+  {
+    "name": "Waxahachie C.A.R.E. Services",
+    "description": "Ellis County nonprofit providing food assistance including curbside grocery pickup and senior home delivery, along with emergency utility aid, job training, and community referrals to residents of Waxahachie, Italy, Milford, Maypearl, and surrounding towns.",
+    "address": "1208 Ferris Ave, Waxahachie, TX 75165",
+    "phone": "(972) 937-8740",
+    "url": "https://www.careservicestx.org",
+    "categorySlug": "food",
+    "zipCode": "75165"
+  },
+  {
+    "name": "Feeding Fannin (Fannin County Community Ministries)",
+    "description": "The largest food pantry in Fannin County, providing groceries to over 1,400 families per month at its Bonham location Wednesday through Friday, plus mobile distributions in Ladonia and Bonham.",
+    "address": "1022 FM 273, Bonham, TX 75418",
+    "phone": "(903) 583-3663",
+    "url": "https://feedingfannin.org",
+    "categorySlug": "food",
+    "zipCode": "75418"
+  },
+  {
+    "name": "Manna House Pantry – Calvary Baptist Church",
+    "description": "Faith-based food pantry operated by Calvary Baptist Church in Bonham serving Fannin County residents with free groceries and emergency food assistance.",
+    "address": "Bonham, TX 75418",
+    "phone": "",
+    "url": "https://www.cbcbonham.org/manna-house",
+    "categorySlug": "food",
+    "zipCode": "75418"
+  },
+  {
+    "name": "Freestone County Indigent Health Care",
+    "description": "County-administered program providing basic medical services to Freestone County residents who cannot access other health coverage.",
+    "address": "118 E. Commerce Room 102, Fairfield, TX 75840",
+    "phone": "(903) 389-2180",
+    "url": "https://www.co.freestone.tx.us/page/freestone.county.services",
+    "categorySlug": "healthcare",
+    "zipCode": "75840"
+  },
+  {
+    "name": "Heart of Texas Behavioral Health Network",
+    "description": "Provides mental health and behavioral health services to residents of Freestone County and surrounding areas.",
+    "address": "622 W. Main St., Fairfield, TX 75840",
+    "phone": "(903) 389-4521",
+    "url": "https://www.hotbhn.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "75840"
+  },
+  {
+    "name": "River of Life Community Food Pantry",
+    "description": "Community food pantry serving residents of Freestone County with free groceries and emergency food assistance.",
+    "address": "Fairfield, TX 75840",
+    "phone": "",
+    "url": "https://www.findhelp.org/food/emergency-food--fairfield-tx",
+    "categorySlug": "food",
+    "zipCode": "75840"
+  },
+  {
+    "name": "Collinsville Food Pantry",
+    "description": "Community food pantry serving Collinsville and Grayson County residents with free groceries; clients choose their own food items and may visit twice per month.",
+    "address": "2009 Mall Street, Collinsville, TX 76233",
+    "phone": "",
+    "url": "https://collinsvillefoodpantry.org/about-us",
+    "categorySlug": "food",
+    "zipCode": "76233"
+  },
+  {
+    "name": "East Texas Food Bank – Longview Resource Center",
+    "description": "Full-service food resource center offering food pantry access, benefits assistance, and additional support services to East Texas residents including Rusk County.",
+    "address": "2900 Signal Hill Dr, Longview, TX 75605",
+    "phone": "(903) 204-4400",
+    "url": "https://www.easttexasfoodbank.org/resource-centers/",
+    "categorySlug": "food",
+    "zipCode": "75605"
+  },
+  {
+    "name": "Brazos Valley Food Bank",
+    "description": "Regional food bank serving Brazos, Burleson, Grimes, Madison, Robertson, and Washington counties; operates mobile pantry distributions at Grimes County Expo Fairgrounds in Navasota.",
+    "address": "1501 Independence Avenue, Bryan, TX 77803",
+    "phone": "(979) 779-3663",
+    "url": "https://www.bvfb.org/",
+    "categorySlug": "food",
+    "zipCode": "77363"
+  },
+  {
+    "name": "Christian Community Services of Navasota",
+    "description": "Faith-based food pantry serving Grimes County residents with free groceries on weekday mornings and select Saturdays.",
+    "address": "814 N. LaSalle St., Navasota, TX 77868",
+    "phone": "(936) 825-7454",
+    "url": "https://www.bvfb.org/find-food",
+    "categorySlug": "food",
+    "zipCode": "77868"
+  },
+  {
+    "name": "Christian Community Service Center - Southwest",
+    "description": "Provides free food, clothing, and emergency financial assistance for rent and utilities to low-income residents of southwest Houston including the Alief area.",
+    "address": "6856 Bellaire Blvd, Houston, TX 77074",
+    "phone": "(713) 871-9741",
+    "url": "https://ccschouston.org/",
+    "categorySlug": "food",
+    "zipCode": "77074"
+  },
+  {
+    "name": "Cy-Fair Helping Hands",
+    "description": "Nonprofit food pantry serving northwest Houston and the Cy-Fair ISD area with free groceries by appointment; serves over 30 zip codes in Harris County.",
+    "address": "9204 Emmott Road, Houston, TX 77040",
+    "phone": "(281) 858-1222",
+    "url": "https://www.cyfairhelpinghands.org/",
+    "categorySlug": "food",
+    "zipCode": "77040"
+  },
+  {
+    "name": "HOPE Clinic",
+    "description": "Federally Qualified Health Center providing affordable primary care, behavioral health, dental, and pharmacy services to underserved communities in southwest Houston.",
+    "address": "7001 Corporate Dr, Houston, TX 77036",
+    "phone": "(713) 773-0803",
+    "url": "https://www.hopechc.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "77036"
+  },
+  {
+    "name": "House of Amos Food Pantry",
+    "description": "Faith-based nonprofit providing emergency food pantry services and wraparound support to help residents of southwest Houston achieve self-sufficiency.",
+    "address": "8030 Boone Road, Houston, TX 77072",
+    "phone": "(281) 495-9061",
+    "url": "https://www.findhelp.org/food/food-pantry--alief-tx",
+    "categorySlug": "food",
+    "zipCode": "77072"
+  },
+  {
+    "name": "Houston Food Bank",
+    "description": "Largest food bank in the U.S. by volume, serving Harris County and surrounding areas through over 1,500 community partner agencies; provides food, SNAP application assistance, and social services referrals.",
+    "address": "535 Portwall St, Houston, TX 77029",
+    "phone": "(832) 369-9390",
+    "url": "https://www.houstonfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "77029"
+  },
+  {
+    "name": "Humble Area Assistance Ministries (HAAM)",
+    "description": "Comprehensive social services nonprofit serving northeast Harris County with food pantry, emergency financial assistance for rent and utilities, homeless assistance, employment services, and behavioral health counseling.",
+    "address": "1302 First Street, Humble, TX 77338",
+    "phone": "(281) 446-3663",
+    "url": "https://haamministries.org/",
+    "categorySlug": "community",
+    "zipCode": "77338"
+  },
+  {
+    "name": "Joy Mission Center",
+    "description": "Community mission center offering food pantry services twice weekly to residents of the southeast Houston 77087 area.",
+    "address": "Houston, TX 77087",
+    "phone": "(713) 921-0197",
+    "url": "https://www.foodpantries.org/ci/tx-houston",
+    "categorySlug": "food",
+    "zipCode": "77087"
+  },
+  {
+    "name": "Legacy Community Health - South Main",
+    "description": "Federally Qualified Health Center offering comprehensive primary and preventive care on a sliding-fee scale for uninsured and low-income patients in south Houston.",
+    "address": "10021 Main St, Suite B3, Houston, TX 77025",
+    "phone": "(832) 548-5000",
+    "url": "https://www.legacycommunityhealth.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "77025"
+  },
+  {
+    "name": "MANNA Ministry Assistance Near Northwest Alliance",
+    "description": "Nonprofit providing food pantry services to low-income residents across northwest Houston zip codes including 77040, open Monday, Tuesday, and Thursday mornings.",
+    "address": "1806 W 43rd St, Houston, TX 77018",
+    "phone": "(713) 686-6440",
+    "url": "https://www.findhelp.org/food/food-pantry--houston-tx",
+    "categorySlug": "food",
+    "zipCode": "77018"
+  },
+  {
+    "name": "Salvation Army - Cook Road Community Care Center",
+    "description": "Salvation Army community care center providing weekly food pantry, emergency financial assistance, and social services to southwest Houston residents.",
+    "address": "7920 Cook Road, Houston, TX 77072",
+    "phone": "(713) 988-5201",
+    "url": "https://www.salvationarmyusa.org/usn/houston/",
+    "categorySlug": "food",
+    "zipCode": "77072"
+  },
+  {
+    "name": "Society of St. Vincent de Paul - Vincentian Services Center",
+    "description": "Operates a food pantry and network of 21 pantries serving southeast Houston, providing groceries, household items, and emergency assistance on select Saturdays.",
+    "address": "6654 Gulf Freeway, Houston, TX 77087",
+    "phone": "(713) 741-8234",
+    "url": "https://www.svdphouston.org/",
+    "categorySlug": "food",
+    "zipCode": "77087"
+  },
+  {
+    "name": "Southeast Area Ministries (SeAM)",
+    "description": "Provides food, clothing, household items, and financial assistance for housing, utilities, and medical expenses to low-income families in southeast Houston and South Houston.",
+    "address": "2102 Houston Blvd, South Houston, TX 77587",
+    "phone": "(713) 944-0093",
+    "url": "https://southeastareaministries.com/",
+    "categorySlug": "community",
+    "zipCode": "77087"
+  },
+  {
+    "name": "Spring Branch Community Health Center",
+    "description": "Federally Qualified Health Center providing affordable primary care, dental, and behavioral health services to uninsured and low-income patients in the Houston area.",
+    "address": "8850 Long Point Rd, Houston, TX 77055",
+    "phone": "(713) 462-4290",
+    "url": "https://sbchc.net/",
+    "categorySlug": "healthcare",
+    "zipCode": "77055"
+  },
+  {
+    "name": "Star of Hope Women & Family Emergency Shelter",
+    "description": "Christian-based emergency shelter providing housing, meals, childcare, and comprehensive social services for women and families experiencing homelessness.",
+    "address": "419 Dowling St, Houston, TX 77003",
+    "phone": "(713) 222-2220",
+    "url": "https://www.sohmission.org/",
+    "categorySlug": "housing",
+    "zipCode": "77003"
+  },
+  {
+    "name": "The Beacon",
+    "description": "Downtown Houston day center providing hot meals, showers, laundry, mailbox services, civil legal aid, and housing case management to people experiencing homelessness.",
+    "address": "1212 Prairie St, Houston, TX 77002",
+    "phone": "(713) 220-9737",
+    "url": "https://www.beaconhomeless.org/",
+    "categorySlug": "housing",
+    "zipCode": "77002"
+  },
+  {
+    "name": "Mission Marshall Food Pantry",
+    "description": "Christian nonprofit providing free groceries to residents of Harrison and Marion counties once per month in partnership with the East Texas Food Bank.",
+    "address": "401 S. Alamo Blvd., Marshall, TX 75670",
+    "phone": "(903) 472-4944",
+    "url": "https://missionmarshall.org/strengthening-families-in-our-community/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "75670"
+  },
+  {
+    "name": "Henderson County Food Pantry",
+    "description": "County-wide food pantry serving individuals and families experiencing food insecurity in Henderson County; open Tuesday through Thursday mornings.",
+    "address": "715 E. Corsicana St., Athens, TX 75751",
+    "phone": "(903) 677-1600",
+    "url": "https://www.hcfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "75751"
+  },
+  {
+    "name": "Hillsboro Interfaith Ministries",
+    "description": "Community food pantry and clothing closet serving Hill County residents with free groceries on Tuesday evenings, Thursday mornings, and Friday afternoons.",
+    "address": "214 E Elm Street, Hillsboro, TX 76645",
+    "phone": "(254) 580-2717",
+    "url": "https://www.hillsborointerfaithministries.com/",
+    "categorySlug": "food",
+    "zipCode": "76645"
+  },
+  {
+    "name": "Houston County Share, Inc.",
+    "description": "Nonprofit providing emergency food pantry, clothing closet, emergency dental and pharmacy assistance, and utility aid to Houston County residents in Crockett and surrounding areas including Grapeland.",
+    "address": "Crockett, TX 75835",
+    "phone": "(936) 544-5600",
+    "url": "https://www.findhelp.org/provider/houston-county-share,-inc.--crockett-tx/1314469?postal=75844",
+    "categorySlug": "food",
+    "zipCode": "75835"
+  },
+  {
+    "name": "Concho Valley Regional Food Bank",
+    "description": "Regional food bank serving Irion County and surrounding West Texas counties, coordinating food distributions through partner agencies in the San Angelo area.",
+    "address": "1313 S. Hill St., San Angelo, TX 76902",
+    "phone": "(325) 655-3231",
+    "url": "https://www.feedingtexas.org/food-banks/",
+    "categorySlug": "food",
+    "zipCode": "76941"
+  },
+  {
+    "name": "First United Methodist Church of Mertzon - Irion County Food Pantry",
+    "description": "Monthly community food pantry coordinated by First United Methodist Church serving low-income residents of Irion County.",
+    "address": "209 N. Park View St., Mertzon, TX 76941",
+    "phone": "(325) 835-2711",
+    "url": "https://www.fumcmertzon.org/ministries.html",
+    "categorySlug": "food",
+    "zipCode": "76941"
+  },
+  {
+    "name": "Operation Blessing Johnson County",
+    "description": "Community food pantry in Cleburne serving Johnson County residents with free groceries Monday through Thursday mornings.",
+    "address": "105 George Street, Cleburne, TX 76031",
+    "phone": "(817) 645-8511",
+    "url": "https://www.ob-jc.com/",
+    "categorySlug": "food",
+    "zipCode": "76031"
+  },
+  {
+    "name": "Your Harvest House",
+    "description": "Nonprofit food pantry and community resource center serving Johnson County residents including Lillian, Burleson, Cleburne, and surrounding communities with free groceries and one-time emergency financial assistance.",
+    "address": "349 Northwest Renfro Street, Burleson, TX 76028",
+    "phone": "(817) 295-6252",
+    "url": "https://yourharvesthouse.org/",
+    "categorySlug": "food",
+    "zipCode": "76028"
+  },
+  {
+    "name": "Downtown Food Pantry",
+    "description": "Lamar County nonprofit providing free groceries to county residents including satellite pantry locations in Blossom, Powderly, and Roxton; open Tuesday afternoons and Thursday mornings.",
+    "address": "124 W. Cherry St., Paris, TX 75460",
+    "phone": "(903) 737-8870",
+    "url": "https://downtownfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "75460"
+  },
+  {
+    "name": "HealthPoint Centerville Clinic",
+    "description": "Federally Qualified Health Center operated by Brazos Valley Community Action Agency providing family medicine and preventive care on a sliding-fee scale to Leon County residents.",
+    "address": "607 W. Lassater, Centerville, TX 75833",
+    "phone": "(903) 536-3687",
+    "url": "https://www.healthpoint-tx.com/healthpoint-locations/centerville/",
+    "categorySlug": "healthcare",
+    "zipCode": "75833"
+  },
+  {
+    "name": "Leon County Health Resource Center",
+    "description": "County resource center in Centerville offering senior programs, transportation assistance, volunteer programs, indigent health care coordination, and WIC services.",
+    "address": "607 W. Lassater, Centerville, TX 75833",
+    "phone": "(903) 536-3687",
+    "url": "https://www.co.leon.tx.us/page/leon.healthresourcecenter",
+    "categorySlug": "community",
+    "zipCode": "75833"
+  },
+  {
+    "name": "Llano Food Pantry",
+    "description": "Community food pantry serving Llano County residents in partnership with the Central Texas Food Bank; distributes groceries twice per month on select Fridays and Tuesdays.",
+    "address": "1110 Berry Street, Llano, TX 78643",
+    "phone": "(325) 248-3225",
+    "url": "https://www.centraltexasfoodbank.org/location/llano-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "76831"
+  },
+  {
+    "name": "Sharing the Harvest",
+    "description": "Nonprofit food pantry serving residents of both Burnet and Llano counties with free groceries including produce, meat, and canned goods every Thursday morning.",
+    "address": "2480 Rose Hill Drive, Kingsland, TX 78639",
+    "phone": "(325) 388-0620",
+    "url": "https://sharingtheharvesttx.com/",
+    "categorySlug": "food",
+    "zipCode": "76831"
+  },
+  {
+    "name": "Caritas of Waco",
+    "description": "Nonprofit providing client-choice food pantry, emergency financial assistance, case management, veterans services, and workforce development to McLennan County residents.",
+    "address": "300 S. 15th Street, Waco, TX 76701",
+    "phone": "(254) 753-4593",
+    "url": "https://www.caritas-waco.org/",
+    "categorySlug": "food",
+    "zipCode": "76701"
+  },
+  {
+    "name": "Meals on Wheels Waco",
+    "description": "Delivers nutritious meals and supportive services to homebound seniors and individuals in McLennan, Falls, and Hill counties.",
+    "address": "4224 Cobbs Dr, Waco, TX 76710",
+    "phone": "(254) 753-0251",
+    "url": "https://mowwaco.org/",
+    "categorySlug": "community",
+    "zipCode": "76710"
+  },
+  {
+    "name": "Shepherd's Heart Food Pantry",
+    "description": "Faith-based pantry serving residents of the greater Waco and Woodway area with free groceries and household food staples on a regular schedule.",
+    "address": "6500 Woodway Dr, Waco, TX 76712",
+    "phone": "(254) 776-0711",
+    "url": "https://shepherdsheartpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "76712"
+  },
+  {
+    "name": "Shepherd's Heart Food Pantry - Elm Mott",
+    "description": "Community food pantry serving residents of Elm Mott, West, Ross, Axtell, Leroy, Gholson, and Chalk Bluff with free groceries on the 1st and 3rd Monday evenings.",
+    "address": "4701 Old Dallas Road, Elm Mott, TX 76640",
+    "phone": "(254) 227-0251",
+    "url": "https://www.centraltexasfoodbank.org/location/shepherds-heart-elm-mott-0",
+    "categorySlug": "food",
+    "zipCode": "76640"
+  },
+  {
+    "name": "United Way of Waco-McLennan County",
+    "description": "Coordinates community health, education, and financial stability programs throughout McLennan County, connecting residents to social services and nonprofit partners.",
+    "address": "701 Franklin Ave, Waco, TX 76701",
+    "phone": "(254) 752-6475",
+    "url": "https://unitedwaywaco.org/",
+    "categorySlug": "community",
+    "zipCode": "76701"
+  },
+  {
+    "name": "Bowie Mission Food Pantry",
+    "description": "Community food pantry providing free groceries to residents of Montague County and surrounding areas, open every Thursday.",
+    "address": "201 E Greenwood Ave, Bowie, TX 76230",
+    "phone": "(940) 872-4678",
+    "url": "https://www.facebook.com/BowieMission/",
+    "categorySlug": "food",
+    "zipCode": "76230"
+  },
+  {
+    "name": "Community Assistance Center (CAC)",
+    "description": "Comprehensive social services nonprofit offering a food pantry, resale shop, and emergency financial assistance to residents of Montgomery County.",
+    "address": "1015 Longmire Rd, Conroe, TX 77304",
+    "phone": "(936) 756-4646",
+    "url": "https://cac-mctx.org/",
+    "categorySlug": "community",
+    "zipCode": "77304"
+  },
+  {
+    "name": "Family Promise of Montgomery County",
+    "description": "Provides shelter, case management, and graduate support services for families experiencing homelessness in Montgomery County.",
+    "address": "3401 College Park Dr, The Woodlands, TX 77384",
+    "phone": "(936) 231-0809",
+    "url": "https://www.familypromiseofmc.org/",
+    "categorySlug": "housing",
+    "zipCode": "77384"
+  },
+  {
+    "name": "Montgomery County Food Bank",
+    "description": "County-wide food bank distributing nutritious food to children, seniors, and families in need throughout Montgomery County via partner agencies and direct programs.",
+    "address": "1 Food For Life Way, Conroe, TX 77385",
+    "phone": "(936) 271-8800",
+    "url": "https://mcfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "77385"
+  },
+  {
+    "name": "Society of Samaritans",
+    "description": "Nonprofit serving the Greater Magnolia area since 1986 with food, clothing, emergency financial assistance, and rent support for low-income neighbors in Montgomery County.",
+    "address": "31355 Friendship Dr, Suite 500, Magnolia, TX 77355",
+    "phone": "(281) 259-8452",
+    "url": "https://societyofsamaritans.org/",
+    "categorySlug": "community",
+    "zipCode": "77354"
+  },
+  {
+    "name": "TOMAGWA HealthCare Ministries – Magnolia",
+    "description": "Federally qualified-style free and low-cost health clinic providing medical, dental, vision, lab, and pharmacy services to uninsured and underinsured residents of Montgomery County.",
+    "address": "18230 FM 1488, Suite 203, Magnolia, TX 77354",
+    "phone": "(281) 357-0747",
+    "url": "https://www.tomagwa.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "77354"
+  },
+  {
+    "name": "Child & Family Guidance Center – Corsicana",
+    "description": "Outpatient behavioral health clinic offering counseling, mental health services, and substance use treatment to children and families in Navarro County.",
+    "address": "319 N 12th St, Corsicana, TX 75110",
+    "phone": "(903) 872-3343",
+    "url": "https://www.childrenandfamilies.org/about-us/locations/corsicana",
+    "categorySlug": "healthcare",
+    "zipCode": "75110"
+  },
+  {
+    "name": "Compassion Corsicana",
+    "description": "Resource hub providing a drive-through food pantry, temporary financial assistance, and transitional housing (House of Refuge) for women and children in Navarro County.",
+    "address": "111 E First Ave, Corsicana, TX 75110",
+    "phone": "(903) 874-4971",
+    "url": "https://www.compassioncorsicana.org/",
+    "categorySlug": "housing",
+    "zipCode": "75110"
+  },
+  {
+    "name": "CSI Community Services, Inc.",
+    "description": "Community action agency offering home-delivered meals, demand-response transportation, housing assistance, utility help, and employment support for low-income Navarro County residents.",
+    "address": "302 Hospital Dr, Corsicana, TX 75110",
+    "phone": "(903) 872-2401",
+    "url": "https://www.csicorsicana.org/",
+    "categorySlug": "community",
+    "zipCode": "75110"
+  },
+  {
+    "name": "The Salvation Army Corsicana",
+    "description": "Provides a community food pantry, emergency hotel vouchers, and rental assistance to residents of Navarro County facing crisis situations.",
+    "address": "400 E 5th Ave, Corsicana, TX 75110",
+    "phone": "(903) 874-6621",
+    "url": "https://southernusa.salvationarmy.org/corsicana/",
+    "categorySlug": "food",
+    "zipCode": "75110"
+  },
+  {
+    "name": "Meals on Wheels of Palo Pinto County",
+    "description": "Delivers nutritious meals to homebound seniors and disabled individuals throughout Palo Pinto County, including the Graford area.",
+    "address": "2803 SE 1st Ave, Mineral Wells, TX 76067",
+    "phone": "(940) 325-4438",
+    "url": "https://www.mealsonwheelsofppc.org/",
+    "categorySlug": "community",
+    "zipCode": "76067"
+  },
+  {
+    "name": "Mineral Wells Center of Life",
+    "description": "Faith-based nonprofit providing emergency groceries, utility assistance, and benevolence services to individuals and families throughout Palo Pinto County.",
+    "address": "200 SW 5th St, Mineral Wells, TX 76067",
+    "phone": "(940) 327-8700",
+    "url": "https://mwcol.org/",
+    "categorySlug": "food",
+    "zipCode": "76067"
+  },
+  {
+    "name": "New Haven Ministries – Graford Mobile Food Bank",
+    "description": "Operates a mobile food bank visiting Graford and other northern Palo Pinto County communities on the fourth Saturday of each month, distributing groceries at no cost.",
+    "address": "2900 SE 1st Ave, Mineral Wells, TX 76067",
+    "phone": "(940) 325-6638",
+    "url": "https://business.mineralwellstx.com/list/member/new-haven-ministries-mineral-wells-1163",
+    "categorySlug": "food",
+    "zipCode": "76067"
+  },
+  {
+    "name": "United Way of Palo Pinto County",
+    "description": "Funds and coordinates health, education, and financial stability initiatives for residents of Palo Pinto County, including referrals to local social service organizations.",
+    "address": "100 SW 6th Ave, Mineral Wells, TX 76067",
+    "phone": "(940) 325-6641",
+    "url": "https://unitedwaypalopintocounty.org/",
+    "categorySlug": "community",
+    "zipCode": "76067"
+  },
+  {
+    "name": "Manna Storehouse",
+    "description": "All-volunteer nonprofit distributing food, clothing, furniture, and household goods free of charge to families in need within Parker County.",
+    "address": "407 Palo Pinto St, Weatherford, TX 76086",
+    "phone": "(817) 598-6885",
+    "url": "https://www.mannastorehouse.org/",
+    "categorySlug": "food",
+    "zipCode": "76086"
+  },
+  {
+    "name": "Parker County Center of Hope",
+    "description": "Provides crisis relief including food pantry, emergency financial assistance, and basic needs support to Parker County residents in Weatherford and Aledo.",
+    "address": "1318 Clear Lake Rd, Weatherford, TX 76086",
+    "phone": "(817) 594-0266",
+    "url": "https://centerofhopetx.com/",
+    "categorySlug": "food",
+    "zipCode": "76086"
+  },
+  {
+    "name": "Tarrant Area Food Bank West",
+    "description": "Climate-controlled regional food distribution warehouse serving Parker County partner agencies and conducting onsite mobile food distributions for area residents.",
+    "address": "112 Winners Cir, Weatherford, TX 76087",
+    "phone": "(817) 332-9177",
+    "url": "https://tafb.org/west/",
+    "categorySlug": "food",
+    "zipCode": "76087"
+  },
+  {
+    "name": "Clarksville Food Pantry",
+    "description": "Community food pantry serving Red River County residents with free groceries, open weekly with ID verification required for eligibility.",
+    "address": "946 Farm Road 1159, Clarksville, TX 75426",
+    "phone": "(903) 517-4010",
+    "url": "https://ampleharvest.org/food-pantries/clarksville-food-pantry-2283/",
+    "categorySlug": "food",
+    "zipCode": "75426"
+  },
+  {
+    "name": "Henderson Food Pantry of Rusk County (PALS)",
+    "description": "Community food pantry serving Rusk County residents since 1997, providing free groceries Tuesday through Friday with proof of county residency required.",
+    "address": "1708 Jacksonville Dr, Henderson, TX 75654",
+    "phone": "(903) 657-8495",
+    "url": "https://www.facebook.com/p/Henderson-Food-Pantry-of-Rusk-County-PALs-Re-Sale-Shop-100064852832126/",
+    "categorySlug": "food",
+    "zipCode": "75654"
+  },
+  {
+    "name": "Care/Share Mission",
+    "description": "Nonprofit food pantry providing free groceries to households in San Jacinto County on Mondays and Thursdays, with a mission of reducing food insecurity among community neighbors.",
+    "address": "21 Butler St, Coldspring, TX 77331",
+    "phone": "(936) 653-2001",
+    "url": "https://www.caresharefoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "77331"
+  },
+  {
+    "name": "Andrews Center – Smith County Resources",
+    "description": "Community mental health center providing outpatient psychiatric services, crisis intervention, substance use treatment, and case management across Smith County.",
+    "address": "2323 W Front St, Tyler, TX 75702",
+    "phone": "(903) 597-1351",
+    "url": "https://www.andrewscenter.com/",
+    "categorySlug": "healthcare",
+    "zipCode": "75702"
+  },
+  {
+    "name": "East Texas Cares Resource Center",
+    "description": "Connects Smith County residents to local social service agencies, health care, food assistance, housing help, and other community resources through a centralized referral system.",
+    "address": "315 N Broadway Ave, Tyler, TX 75702",
+    "phone": "(903) 531-9139",
+    "url": "https://easttexascares.org/",
+    "categorySlug": "community",
+    "zipCode": "75702"
+  },
+  {
+    "name": "East Texas Food Bank – Tyler Resource Center",
+    "description": "Regional food bank distribution and resource center offering food pantry access, benefits assistance enrollment, and partner agency coordination for Smith County residents.",
+    "address": "3201 Robertson Rd, Tyler, TX 75701",
+    "phone": "(903) 597-3663",
+    "url": "https://www.easttexasfoodbank.org/tyler/",
+    "categorySlug": "food",
+    "zipCode": "75701"
+  },
+  {
+    "name": "The Salvation Army of Tyler",
+    "description": "Provides emergency and transitional shelter for men, women, and children, plus a food pantry, hot meals, and social services to residents of Smith County.",
+    "address": "633 N Broadway Ave, Tyler, TX 75702",
+    "phone": "(903) 592-4361",
+    "url": "https://www.salvationarmyusa.org",
+    "categorySlug": "food",
+    "zipCode": "59501",
+    "additionalZipCodes": [
+      "66701",
+      "71635",
+      "74447",
+      "75702",
+      "87401",
+      "90302"
+    ]
+  },
+  {
+    "name": "Glen Rose First Methodist Church – Nourish Food Pantry",
+    "description": "Church-operated food pantry serving Glen Rose and Somervell County residents with free groceries; distributions coordinated via text-alert sign-up.",
+    "address": "301 SW Barnard St, Glen Rose, TX 76043",
+    "phone": "(254) 897-2373",
+    "url": "https://www.glenrosefmc.org/foodpantry",
+    "categorySlug": "food",
+    "zipCode": "76043"
+  },
+  {
+    "name": "Somervell County Food Bank \"PaPa's Pantry\"",
+    "description": "County food bank distributing free groceries to Somervell County residents on the first four Tuesdays of each month, requiring proof of residency and photo ID.",
+    "address": "753 E Gibbs Blvd, Glen Rose, TX 76043",
+    "phone": "(682) 936-5663",
+    "url": "https://somervellcountyfoodbank.com/",
+    "categorySlug": "food",
+    "zipCode": "76043"
+  },
+  {
+    "name": "Arlington Charities",
+    "description": "Arlington's largest supplemental food provider, offering free groceries and supportive services to residents in all Arlington zip codes including 76016, by appointment Monday–Friday.",
+    "address": "305 W Abram St, Arlington, TX 76010",
+    "phone": "(817) 275-1511",
+    "url": "https://www.arlingtoncharities.org/",
+    "categorySlug": "food",
+    "zipCode": "76010"
+  },
+  {
+    "name": "Arlington Life Shelter",
+    "description": "Emergency and transitional shelter promoting self-sufficiency through shelter, employment programs, and transitional services for North Texans experiencing homelessness.",
+    "address": "325 W Division St, Arlington, TX 76011",
+    "phone": "(817) 548-9885",
+    "url": "https://arlingtonlifeshelter.org/",
+    "categorySlug": "housing",
+    "zipCode": "76011"
+  },
+  {
+    "name": "Community Enrichment Center (CEC)",
+    "description": "Provides free grocery assistance, case management, and financial wellness services to households in Tarrant County and surrounding counties at or below 180% of the federal poverty level.",
+    "address": "7500 Glenview Dr, North Richland Hills, TX 76180",
+    "phone": "(817) 281-1164",
+    "url": "https://cechope.org/",
+    "categorySlug": "food",
+    "zipCode": "76180"
+  },
+  {
+    "name": "Fort Worth HOPE Center",
+    "description": "Nonprofit fighting hunger and empowering families across Tarrant County through food distributions, pantry programs, and wraparound social services.",
+    "address": "2700 Decatur Ave, Fort Worth, TX 76106",
+    "phone": "(817) 624-4673",
+    "url": "https://www.fwhope.org/",
+    "categorySlug": "food",
+    "zipCode": "76106"
+  },
+  {
+    "name": "HIM Food Bank (Harvesting in Mansfield)",
+    "description": "Christian independent food bank offering short-term grocery assistance to individuals and families in need in the Mansfield, Burleson, and Alvarado areas.",
+    "address": "150 S 6th Ave, Mansfield, TX 76063",
+    "phone": "(817) 453-3663",
+    "url": "https://himfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "76063"
+  },
+  {
+    "name": "LVTRise Food Pantry",
+    "description": "Community pantry serving the Lake Como and west Fort Worth neighborhoods with free groceries every Tuesday while supplies last.",
+    "address": "8201 Calmont Ave, Fort Worth, TX 76116",
+    "phone": "(817) 420-0741",
+    "url": "https://www.lvtrise.org/available-food-pantries",
+    "categorySlug": "food",
+    "zipCode": "76116"
+  },
+  {
+    "name": "Mansfield Mission Center",
+    "description": "Nonprofit providing a free food market, a free health clinic for uninsured adults, financial coaching, and employment support to residents of Mansfield and surrounding Tarrant County zip codes.",
+    "address": "78 Regency Pkwy, Mansfield, TX 76063",
+    "phone": "(817) 473-2242",
+    "url": "https://mansfieldmission.org/",
+    "categorySlug": "food",
+    "zipCode": "76063"
+  },
+  {
+    "name": "Open Arms Health Clinic – Arlington",
+    "description": "Free healthcare clinic offering treatment for chronic and non-emergency acute illnesses to uninsured Arlington-area adults, with no pain medication prescriptions.",
+    "address": "802 W Randol Mill Rd, Arlington, TX 76012",
+    "phone": "(817) 375-5727",
+    "url": "https://www.openarmshealthclinic.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "76012"
+  },
+  {
+    "name": "Tarrant Area Food Bank",
+    "description": "Regional food bank serving Tarrant County and surrounding areas through a network of partner agencies, mobile pantries, and direct food distributions throughout west Fort Worth.",
+    "address": "2600 Cullen St, Fort Worth, TX 76107",
+    "phone": "(817) 332-9177",
+    "url": "https://tafb.org/",
+    "categorySlug": "food",
+    "zipCode": "76107"
+  },
+  {
+    "name": "Tarrant County Public Health – Watauga Clinic",
+    "description": "Public health clinic offering immunizations, WIC services, and preventive health programs to Watauga and north Tarrant County residents.",
+    "address": "6601 Watauga Rd, Suite 122, Watauga, TX 76148",
+    "phone": "(817) 413-4200",
+    "url": "https://www.tarrantcountytx.gov/en/public-health/public-health-locations.html",
+    "categorySlug": "healthcare",
+    "zipCode": "76148"
+  },
+  {
+    "name": "The Salvation Army – Arlington",
+    "description": "Provides emergency shelter for families, an overnight warming shelter in cold weather, food pantry services, and social case management for Arlington residents.",
+    "address": "1015 Division St, Arlington, TX 76011",
+    "phone": "(817) 265-0821",
+    "url": "https://salvationarmyntx.org/north-texas/arlington/",
+    "categorySlug": "housing",
+    "zipCode": "76011"
+  },
+  {
+    "name": "WestAid",
+    "description": "Provides monthly food assistance to low-income seniors and disabled adults on fixed incomes living in the west Fort Worth area, open Monday–Friday with ID and address verification.",
+    "address": "7940 Camp Bowie W, Fort Worth, TX 76116",
+    "phone": "(817) 737-9338",
+    "url": "https://www.westaid.org/",
+    "categorySlug": "food",
+    "zipCode": "76116"
+  },
+  {
+    "name": "City of San Angelo – Neighborhood & Family Services",
+    "description": "City department connecting San Angelo residents to social services, emergency assistance programs, and community resources including housing, utilities, and food support.",
+    "address": "401 E Beauregard Ave, San Angelo, TX 76903",
+    "phone": "(325) 657-4257",
+    "url": "https://www.cosatx.us/departments-services/neighborhood-family-services",
+    "categorySlug": "community",
+    "zipCode": "76903"
+  },
+  {
+    "name": "Concho Valley Regional Food Bank",
+    "description": "Regional food bank distributing food to partner agencies and direct clients throughout the Concho Valley and Tom Green County, open weekdays for community access.",
+    "address": "1313 S Hill St, San Angelo, TX 76903",
+    "phone": "(325) 655-3231",
+    "url": "https://www.conchovalleyfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "76903"
+  },
+  {
+    "name": "Rust Street Ministries",
+    "description": "Community outreach ministry providing free food, clothing, furniture, durable medical equipment, and nursing support to neighbors in need in San Angelo and Tom Green County.",
+    "address": "803 Rust St, San Angelo, TX 76903",
+    "phone": "(325) 486-1004",
+    "url": "http://ruststreetministries.org/",
+    "categorySlug": "food",
+    "zipCode": "76903"
+  },
+  {
+    "name": "Tri-County Community Action – Gilmer",
+    "description": "Community action agency providing social services, utility assistance, and emergency support programs for low-income residents in Upshur and surrounding counties.",
+    "address": "1561 US Hwy 271 N, Gilmer, TX 75644",
+    "phone": "(903) 843-0604",
+    "url": "https://www.firstgilmer.org/community/",
+    "categorySlug": "community",
+    "zipCode": "75644"
+  },
+  {
+    "name": "Upshur County Shares",
+    "description": "Community food pantry offering free groceries to residents of Upshur County every Monday and Wednesday morning, located behind the county courthouse in Gilmer.",
+    "address": "210 Buffalo St, Gilmer, TX 75644",
+    "phone": "(903) 843-2572",
+    "url": "https://ampleharvest.org/food-pantries/upshur-county-shares-2250/",
+    "categorySlug": "food",
+    "zipCode": "75644"
+  },
+  {
+    "name": "Riverside Baptist Church Crisis Closet",
+    "description": "Outreach food ministry providing free groceries to Walker County residents every Friday morning, with distribution amounts based on household size per Houston Food Bank USDA guidelines.",
+    "address": "18475 TX-150, Riverside, TX 77367",
+    "phone": "(936) 594-6992",
+    "url": "https://www.foodpantries.org/ci/tx-huntsville",
+    "categorySlug": "food",
+    "zipCode": "77367"
+  },
+  {
+    "name": "North Texas ADRC – Montague County Resources",
+    "description": "Aging and Disability Resource Center connecting Montague County residents to local social services, benefits enrollment, and caregiver support programs.",
+    "address": "1121 Midwestern Pkwy, Wichita Falls, TX 76302",
+    "phone": "(940) 766-5353",
+    "url": "https://northtexasadrc.org/resources/montague-county-resources/",
+    "categorySlug": "community",
+    "zipCode": "76302"
+  },
+  {
+    "name": "Wichita Falls Area Food Bank",
+    "description": "Regional food bank serving Archer County and surrounding areas, operating mobile pantry distributions and supporting local partner agencies with food assistance.",
+    "address": "1230 Midwestern Pkwy, Wichita Falls, TX 76302",
+    "phone": "(940) 766-2322",
+    "url": "https://www.wfafb.org",
+    "categorySlug": "food",
+    "zipCode": "76302"
+  },
+  {
+    "name": "Wichita Falls Faith Mission – Faith Mission Shelter",
+    "description": "Emergency homeless shelter for men in Wichita Falls providing beds, showers, meals, and an addiction recovery program 365 days a year.",
+    "address": "1300 Travis St, Wichita Falls, TX 76301",
+    "phone": "(940) 723-5663",
+    "url": "https://faithmissionwf.org/",
+    "categorySlug": "housing",
+    "zipCode": "76301"
+  },
+  {
+    "name": "Wichita Falls Faith Mission – Faith Refuge",
+    "description": "Emergency shelter for women and children in Wichita Falls providing safe lodging, meals, showers, and addiction recovery programs year-round.",
+    "address": "710 E Hatton Rd, Wichita Falls, TX 76302",
+    "phone": "(940) 322-4673",
+    "url": "https://faithmissionwf.org/homeless-shelters/",
+    "categorySlug": "housing",
+    "zipCode": "76302"
+  },
+  {
+    "name": "The Caring Place – Georgetown",
+    "description": "Comprehensive safety-net nonprofit serving Florence, Georgetown, and northern Williamson County with a food pantry, Fresh Food for Families produce program, and emergency financial assistance.",
+    "address": "2000 Railroad Ave, Georgetown, TX 78626",
+    "phone": "(512) 943-0700",
+    "url": "https://www.caringplacetx.org/",
+    "categorySlug": "food",
+    "zipCode": "76527"
+  },
+  {
+    "name": "Mineola Bread of Life Food Pantry",
+    "description": "Open-access food pantry with no geographic restrictions serving Wood County residents on the first and third Tuesday afternoons each month.",
+    "address": "1001 E McDonald St, Mineola, TX 75773",
+    "phone": "(903) 569-3241",
+    "url": "https://woodcountymonitor.com/stories/from-tiny-rural-church-food-pantry-meets-growing-needs-for-area-families,160657",
+    "categorySlug": "food",
+    "zipCode": "75773"
+  },
+  {
+    "name": "Quitman Mercy Mall",
+    "description": "Nonprofit food distribution center in Quitman serving Wood County families every second Friday and every Saturday, distributing free groceries to 60–120 households weekly.",
+    "address": "305 E Goode St, Quitman, TX 75783",
+    "phone": "(903) 763-2885",
+    "url": "https://woodcountymonitor.com/stories/multiple-organizations-step-into-the-gap-in-fight-against-hunger-in-wood-county,156232",
+    "categorySlug": "food",
+    "zipCode": "75783"
+  }
+]

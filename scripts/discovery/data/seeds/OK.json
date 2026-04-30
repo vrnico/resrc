@@ -1,0 +1,936 @@
+[
+  {
+    "name": "Adair County Human Services Center",
+    "description": "Oklahoma DHS office providing SNAP food assistance, Medicaid, TANF cash assistance, and child welfare programs to Adair County residents.",
+    "address": "Section Line Rd, Stilwell, OK 74960",
+    "phone": "(800) 225-0049",
+    "url": "https://oklahoma.gov/okdhs.html",
+    "categorySlug": "community",
+    "zipCode": "74960"
+  },
+  {
+    "name": "Adair County Resource Center",
+    "description": "A food pantry serving Adair County residents, distributing food on the 2nd, 3rd, and 4th Thursday of each month to income-eligible households.",
+    "address": "302 B W. Locust, Stilwell, OK 74960",
+    "phone": "(918) 696-4470",
+    "url": "https://www.homelessshelterdirectory.org/foodbank/ok_adair-county-resource-center",
+    "categorySlug": "food",
+    "zipCode": "74960"
+  },
+  {
+    "name": "Daystar Mission",
+    "description": "A community mission in Stilwell providing food assistance and social services to residents of Adair County.",
+    "address": "110 South 2nd St, Stilwell, OK 74960",
+    "phone": "(918) 237-0249",
+    "url": "https://www.findhelp.org/food/food-pantry--stilwell-ok",
+    "categorySlug": "food",
+    "zipCode": "74960"
+  },
+  {
+    "name": "Atoka-Coal Food Storehouse",
+    "description": "A 501(c)(3) nonprofit partnered with the Regional Food Bank of Oklahoma, providing free food to income-eligible residents of Atoka and Coal counties.",
+    "address": "4911 S. Bentley Road, Atoka, OK 74525",
+    "phone": "(580) 258-0361",
+    "url": "https://atokafoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "74525"
+  },
+  {
+    "name": "Blaine County Health Department",
+    "description": "County health department offering WIC, immunizations, family planning, and other public health services to Blaine County residents including the Geary area.",
+    "address": "215 N. Weaver St, Watonga, OK 73772",
+    "phone": "(580) 623-5594",
+    "url": "https://www.findhelp.org/provider/blaine-county-health-department--watonga-ok/5797900005277696?postal=73040",
+    "categorySlug": "healthcare",
+    "zipCode": "73772"
+  },
+  {
+    "name": "Opportunities, Inc. - Watonga Resource Center",
+    "description": "A community action agency and Regional Food Bank affiliate operating a client-choice food pantry serving Blaine County residents, including mobile delivery to seniors in Geary and surrounding towns.",
+    "address": "117 W. Russworm, Watonga, OK 73772",
+    "phone": "(580) 623-7283",
+    "url": "https://oppincok.org/programs/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "73772"
+  },
+  {
+    "name": "Crisis Control Center",
+    "description": "A nonprofit providing support services for victims of domestic violence and sexual assault, including a safe house, 24-hour crisis line, and emergency assistance for Bryan County residents.",
+    "address": "50 West Live Oak, Durant, OK 74701",
+    "phone": "(580) 924-3056",
+    "url": "https://www.crisiscenterdurant.org/",
+    "categorySlug": "housing",
+    "zipCode": "74701"
+  },
+  {
+    "name": "Hands of Hope Food and Resource Center",
+    "description": "A food bank providing free groceries to individuals and households in need throughout Bryan County, operating multiple days per week.",
+    "address": "724 W Main, Durant, OK 74701",
+    "phone": "(580) 920-2574",
+    "url": "https://handsofhopeok.org/",
+    "categorySlug": "food",
+    "zipCode": "74701"
+  },
+  {
+    "name": "Hinton Ministerial Alliance Food Pantry",
+    "description": "A community food pantry operated by local churches serving Hinton and surrounding Caddo County residents who meet Regional Food Bank income guidelines.",
+    "address": "501 West Main Street, Hinton, OK 73047",
+    "phone": "(405) 542-6203",
+    "url": "https://www.findhelp.org/provider/hinton-ministerial-alliance-food-pantry--hinton-ok/5174460257009664?postal=73047",
+    "categorySlug": "food",
+    "zipCode": "73047"
+  },
+  {
+    "name": "Carter County Health Department",
+    "description": "County public health department in Ardmore providing immunizations, WIC, family planning, and other health services to Carter County residents including the Springer area.",
+    "address": "405 S. Washington, Ardmore, OK 73401",
+    "phone": "(580) 223-9705",
+    "url": "https://oklahoma.gov/health/locations/county-health-departments/carter-county-health-department.html",
+    "categorySlug": "healthcare",
+    "zipCode": "73401"
+  },
+  {
+    "name": "Food and Resource Center of South Central Oklahoma",
+    "description": "A Regional Food Bank of Oklahoma affiliate fighting hunger in Carter, Johnston, Murray, and Love counties, offering a client-choice pantry for income-eligible residents.",
+    "address": "801 Hailey Street SW, Ardmore, OK 73401",
+    "phone": "(580) 798-2293",
+    "url": "https://feedingsouthcentralok.org/",
+    "categorySlug": "food",
+    "zipCode": "73401"
+  },
+  {
+    "name": "Choctaw Nation Food Distribution Program",
+    "description": "A federally funded FDPIR program jointly administered by the Choctaw Nation and USDA, providing nutritious food boxes to income-eligible households within Choctaw Nation boundaries.",
+    "address": "208 Choctaw Industrial Dr, Hugo, OK 74743",
+    "phone": "(580) 642-6029",
+    "url": "https://www.choctawnation.com/services/food-distribution/",
+    "categorySlug": "food",
+    "zipCode": "74743"
+  },
+  {
+    "name": "LIFT Community Action Agency",
+    "description": "The primary social services provider for Choctaw, McCurtain, and Pushmataha counties offering housing assistance, Head Start, transportation, weatherization, and emergency services.",
+    "address": "209 North 4th, Hugo, OK 74743",
+    "phone": "(580) 326-3351",
+    "url": "https://liftca.org/",
+    "categorySlug": "community",
+    "zipCode": "74743"
+  },
+  {
+    "name": "Sharing Hope",
+    "description": "A nonprofit food bank collecting, storing, and distributing food to individuals and families in need throughout Choctaw County.",
+    "address": "400 W Bissell St, Hugo, OK 74743",
+    "phone": "(580) 326-6125",
+    "url": "https://oklahomafoodbanks.org/food-bank/sharing-hope-in-hugo/",
+    "categorySlug": "food",
+    "zipCode": "74743"
+  },
+  {
+    "name": "Food and Shelter, Inc.",
+    "description": "A Cleveland County nonprofit providing emergency shelter (32 units for individuals and families), daily meals, a client-choice food pantry, and case management for people experiencing homelessness.",
+    "address": "201 Reed Ave, Norman, OK 73071",
+    "phone": "(405) 360-4954",
+    "url": "http://www.foodandshelterinc.org/",
+    "categorySlug": "housing",
+    "zipCode": "73071"
+  },
+  {
+    "name": "The Mission Norman",
+    "description": "A publicly supported nonprofit providing food bank services, transitional housing, clothing, counseling, and job skills training to hungry and homeless residents of Norman and Cleveland County.",
+    "address": "2525 E Lindsey, Norman, OK 73071",
+    "phone": "(405) 321-8880",
+    "url": "https://www.missionnorman.org/",
+    "categorySlug": "food",
+    "zipCode": "73071"
+  },
+  {
+    "name": "Variety Care Norman - FQHC",
+    "description": "A Federally Qualified Health Center offering primary care, pediatrics, OB/GYN, and behavioral health services on a sliding-fee scale regardless of ability to pay.",
+    "address": "317 E Himes, Norman, OK 73069",
+    "phone": "(405) 632-6688",
+    "url": "https://varietycare.org/locations/locations-details/norman-himes",
+    "categorySlug": "healthcare",
+    "zipCode": "73069"
+  },
+  {
+    "name": "Hungry Hearts Lawton",
+    "description": "A 501(c)(3) non-profit feeding ministry in Lawton providing free food assistance to individuals and families experiencing food insecurity in Comanche County.",
+    "address": "605 SW 11th Street, Lawton, OK 73501",
+    "phone": "(580) 704-9224",
+    "url": "https://hungryheartslawton.com/",
+    "categorySlug": "food",
+    "zipCode": "73501"
+  },
+  {
+    "name": "Lawton Food Bank",
+    "description": "A 501(c)(3) nonprofit food bank founded in 1985, fighting hunger in southwest Oklahoma by distributing food to individuals and families in Comanche County and surrounding areas.",
+    "address": "1819 SW Sheridan Rd, Lawton, OK 73501",
+    "phone": "(580) 353-7994",
+    "url": "https://www.lawtonfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "73501"
+  },
+  {
+    "name": "The Salvation Army of Lawton",
+    "description": "Provides food boxes, nightly meals, and emergency shelter for men, women, and families in Comanche, Stephens, Cotton, Jefferson, and Tillman counties.",
+    "address": "1306 SW E Avenue, Lawton, OK 73501",
+    "phone": "(580) 355-1802",
+    "url": "https://southernusa.salvationarmy.org/lawton",
+    "categorySlug": "food",
+    "zipCode": "73501"
+  },
+  {
+    "name": "Craig County Health Department",
+    "description": "County public health department providing immunizations, WIC, family planning, and community health worker referrals for food and social services throughout Craig County.",
+    "address": "Vinita, OK 74301",
+    "phone": "(918) 256-7531",
+    "url": "https://oklahoma.gov/health/locations/county-health-departments/craig-county-health-department/county-services.html",
+    "categorySlug": "healthcare",
+    "zipCode": "74301"
+  },
+  {
+    "name": "Craig County Neighbors Helping Neighbors (CCNHN)",
+    "description": "A food pantry serving Craig County residents including the Bluejacket area, open Monday, Wednesday, and Friday for food distribution.",
+    "address": "224 West Sequoyah Avenue, Vinita, OK 74301",
+    "phone": "(918) 713-8088",
+    "url": "https://www.findhelp.org/craig-county-neighbors-helping-neighbors-(ccnhn)--vinita-ok--food-pantry/4526484886781952?postal=74333",
+    "categorySlug": "food",
+    "zipCode": "74301"
+  },
+  {
+    "name": "Craig County Salvation Army - Home of Hope Food Pantry",
+    "description": "A Salvation Army food pantry and family services center in Vinita providing food assistance and emergency services to Craig County residents.",
+    "address": "222 W Sequoyah, Vinita, OK 74301",
+    "phone": "(918) 256-2037",
+    "url": "https://www.findhelp.org/food/food-pantry--vinita-ok",
+    "categorySlug": "food",
+    "zipCode": "74301"
+  },
+  {
+    "name": "Connections Food & Resource Center",
+    "description": "A Regional Food Bank of Oklahoma affiliate in Weatherford offering a client-choice pantry with fresh produce, refrigerated, and shelf-stable foods to residents of Weatherford, Geary, Hinton, and 15 western Oklahoma communities.",
+    "address": "122 S. 8th Street, Weatherford, OK 73096",
+    "phone": "(580) 774-5377",
+    "url": "https://www.connectionscenter.org/",
+    "categorySlug": "food",
+    "zipCode": "73096"
+  },
+  {
+    "name": "Custer County Health Department - Weatherford",
+    "description": "County public health department providing WIC, immunizations, family planning, and other health services to Custer County residents.",
+    "address": "301 N. 13th Street, Weatherford, OK 73096",
+    "phone": "(580) 772-6417",
+    "url": "https://oklahoma.gov/health/locations/county-health-departments.html",
+    "categorySlug": "healthcare",
+    "zipCode": "73096"
+  },
+  {
+    "name": "Catholic Charities of the Archdiocese of Oklahoma City - Enid",
+    "description": "Provides emergency assistance, food, and social services to individuals and families in Garfield County regardless of faith background.",
+    "address": "Enid, OK 73701",
+    "phone": "(580) 234-6633",
+    "url": "https://catholiccharitiesok.org/enid",
+    "categorySlug": "community",
+    "zipCode": "73701"
+  },
+  {
+    "name": "Loaves & Fishes of Northwest Oklahoma",
+    "description": "A client-choice food pantry in Enid serving Garfield County and surrounding areas, allowing clients to select their own food items once per month.",
+    "address": "701 E. Maine, Enid, OK 73701",
+    "phone": "(580) 540-9830",
+    "url": "http://www.loavesandfishesnwok.org/",
+    "categorySlug": "food",
+    "zipCode": "73701"
+  },
+  {
+    "name": "The Salvation Army of Enid",
+    "description": "Provides food pantry services, emergency assistance, and social services to Garfield County residents including those in the Covington area.",
+    "address": "220 West Pine Avenue, Enid, OK 73701",
+    "phone": "(580) 237-1910",
+    "url": "https://www.salvationarmyusa.org/ok/enid/",
+    "categorySlug": "food",
+    "zipCode": "73701"
+  },
+  {
+    "name": "Delta Community Action Foundation",
+    "description": "A community action agency serving Garvin, McClain, and Stephens counties with Head Start, utility assistance, transportation, and emergency services for low-income residents.",
+    "address": "225 W. McClure, Pauls Valley, OK 73075",
+    "phone": "(405) 238-3838",
+    "url": "https://www.deltacaf.com/",
+    "categorySlug": "community",
+    "zipCode": "73075"
+  },
+  {
+    "name": "Samaritans of Pauls Valley",
+    "description": "A food pantry serving Garvin County residents with free groceries available on Tuesdays and Thursdays to income-eligible households.",
+    "address": "1000 N. Ash Street, Pauls Valley, OK 73075",
+    "phone": "(405) 207-9077",
+    "url": "https://www.samaritansofpaulsvalley.com/",
+    "categorySlug": "food",
+    "zipCode": "73075"
+  },
+  {
+    "name": "First Christian Church Food Pantry - Medford",
+    "description": "A church-operated food pantry providing free food assistance to residents of Medford and Grant County.",
+    "address": "123 W Pawnee St, Medford, OK 73759",
+    "phone": "(580) 395-2046",
+    "url": "https://www.findhelp.org/food/food-pantry--medford-ok?postal=73759",
+    "categorySlug": "food",
+    "zipCode": "73759"
+  },
+  {
+    "name": "Grant County Health Department",
+    "description": "County public health department in Medford providing immunizations, WIC, family planning, and other health services to Grant County residents.",
+    "address": "103 South 2nd Street, Medford, OK 73759",
+    "phone": "(580) 395-2906",
+    "url": "https://oklahoma.gov/health/locations/county-health-departments/grant-county-health-department.html",
+    "categorySlug": "healthcare",
+    "zipCode": "73759"
+  },
+  {
+    "name": "Harper County Health Department",
+    "description": "County health department providing public health services, immunizations, and health screenings to Harper County residents at low or no cost.",
+    "address": "311 W Elm St, Buffalo, OK 73834",
+    "phone": "(580) 735-2293",
+    "url": "https://oklahoma.gov/health/locations/county-health-departments/harper-county-health-department/county-services.html",
+    "categorySlug": "healthcare",
+    "zipCode": "73834"
+  },
+  {
+    "name": "Laverne Food Pantry Association",
+    "description": "Provides emergency food assistance to residents of Harper County. Operates as a community food pantry serving the local area.",
+    "address": "7th and Oklahoma Suite 1, Laverne, OK 73848",
+    "phone": "(580) 243-7887",
+    "url": "https://sites.vivery.org/laverne-food-pantry-association/laverne-ok/8901",
+    "categorySlug": "food",
+    "zipCode": "73848"
+  },
+  {
+    "name": "Operation C.A.R.E. Ministries",
+    "description": "A nonprofit providing Jackson County residents with a central clearing-house for charitable services including food, clothing, utility assistance, emergency travel funds, medical prescriptions, and lodging.",
+    "address": "221 W Walnut St, Altus, OK 73521",
+    "phone": "(580) 318-2490",
+    "url": "http://www.opcarehelps.com/",
+    "categorySlug": "community",
+    "zipCode": "73521"
+  },
+  {
+    "name": "Southwest Oklahoma Community Action Group (SOCAG)",
+    "description": "Community action agency serving southwest Oklahoma that operates the Community Cupboard food pantry, provides senior meals, housing assistance, and other anti-poverty programs for Jackson County residents.",
+    "address": "900 S Carver Rd, Altus, OK 73521",
+    "phone": "(580) 482-5040",
+    "url": "https://www.socag.org/",
+    "categorySlug": "community",
+    "zipCode": "73521"
+  },
+  {
+    "name": "INCA Community Services",
+    "description": "Community action agency serving Johnston, Atoka, Marshall, and Murray counties with emergency food pantries, clothing banks, transportation, housing support, and Head Start programs to help families in need.",
+    "address": "202 S Capital Ave, Tishomingo, OK 73460",
+    "phone": "(580) 371-2352",
+    "url": "https://incacaa.org/",
+    "categorySlug": "community",
+    "zipCode": "73460"
+  },
+  {
+    "name": "Johnston County DHS Office",
+    "description": "State human services office serving Johnston County residents with SNAP food benefits, Medicaid, child welfare, and temporary cash assistance programs.",
+    "address": "302 W Main St, Tishomingo, OK 73460",
+    "phone": "(580) 371-9510",
+    "url": "https://www.dcfoffices.org/office/johnston-county-dhs-office",
+    "categorySlug": "community",
+    "zipCode": "73460"
+  },
+  {
+    "name": "Our Neighbor's Cupboard",
+    "description": "Local food pantry serving Johnston County residents, providing emergency food assistance to families in need.",
+    "address": "406 Neill Armstrong Place, Tishomingo, OK 73460",
+    "phone": "(580) 219-0665",
+    "url": "https://www.findhelp.org/food/food-pantry--tishomingo-ok",
+    "categorySlug": "food",
+    "zipCode": "73460"
+  },
+  {
+    "name": "Kay County Health Department",
+    "description": "County health department with locations in Ponca City and Blackwell providing public health services, immunizations, WIC, and health screenings at low or no cost to Kay County residents.",
+    "address": "433 Fairview Ave, Ponca City, OK 74601",
+    "phone": "(580) 762-1641",
+    "url": "https://oklahoma.gov/health/locations/county-health-departments/kay-county-health-department/county-services.html",
+    "categorySlug": "healthcare",
+    "zipCode": "74601"
+  },
+  {
+    "name": "New Emergency Resource Agency (NERA)",
+    "description": "A state-of-the-art Food and Resource Center affiliated with the Regional Food Bank of Oklahoma serving Kay County zip codes including 74647. Provides grocery assistance, rent/utility aid, and other emergency resources.",
+    "address": "112 S 1st St, Ponca City, OK 74601",
+    "phone": "(580) 765-5372",
+    "url": "https://www.neraok.org/",
+    "categorySlug": "food",
+    "zipCode": "74601"
+  },
+  {
+    "name": "Wheatheart Nutrition Project",
+    "description": "Food pantry serving Blackwell and Kay County residents, providing groceries and food assistance to households in need.",
+    "address": "114 N Main St, Blackwell, OK 74631",
+    "phone": "(580) 262-0303",
+    "url": "https://www.neraok.org/let-us-help-435413.html",
+    "categorySlug": "food",
+    "zipCode": "74631"
+  },
+  {
+    "name": "Hobart Area Ministerial Alliance Food Pantry",
+    "description": "Interfaith food pantry serving Kiowa County residents including areas around Lone Wolf, providing groceries and utility assistance to families in need.",
+    "address": "1021 W Iris Ave, Hobart, OK 73651",
+    "phone": "(580) 726-3678",
+    "url": "https://heartline.ok.networkofcare.org/211/services/agency.aspx?pid=hobartareaministerialalliancefoodpantryfoodpantry_4_1753_1",
+    "categorySlug": "food",
+    "zipCode": "73651"
+  },
+  {
+    "name": "Ki Bois Community Action Foundation – Le Flore County",
+    "description": "Community action agency serving Le Flore County with an emergency food pantry open weekdays, plus assistance with substance use treatment, housing, and other anti-poverty services.",
+    "address": "108 Witte St, Poteau, OK 74953",
+    "phone": "(918) 647-3267",
+    "url": "https://kibois.org/",
+    "categorySlug": "community",
+    "zipCode": "74953"
+  },
+  {
+    "name": "LeFlore County Health Department",
+    "description": "County public health department providing immunizations, WIC, health screenings, and community health worker services to help connect Le Flore County residents to food, housing, and medical resources.",
+    "address": "1204 Dewey Ave, Poteau, OK 74953",
+    "phone": "(918) 647-8601",
+    "url": "https://oklahoma.gov/health/locations/county-health-departments/leflore-county-health-department/county-services.html",
+    "categorySlug": "healthcare",
+    "zipCode": "74953"
+  },
+  {
+    "name": "LeFlore County Youth Services",
+    "description": "Nonprofit providing shelter services and youth-focused social services to families in Le Flore County, including the Monroe area.",
+    "address": "113 N Witteville Rd, Poteau, OK 74953",
+    "phone": "(918) 647-4196",
+    "url": "http://www.lcys.org/",
+    "categorySlug": "housing",
+    "zipCode": "74953"
+  },
+  {
+    "name": "Central Oklahoma Community Action Agency – Lincoln County",
+    "description": "Community action agency serving Lincoln County residents with food pantry, temporary housing assistance, home buyer education, and family budget counseling from the Prague office.",
+    "address": "820 N Jim Thorpe Blvd, Prague, OK 74864",
+    "phone": "(405) 695-1630",
+    "url": "https://cocaa.org/lincoln-county/",
+    "categorySlug": "community",
+    "zipCode": "74864"
+  },
+  {
+    "name": "Chandler Friends Church – God and People's Pantry",
+    "description": "Food pantry serving Lincoln County residents including the Tryon area, providing groceries to households in need on a regular schedule.",
+    "address": "215 N Blaine Ave, Chandler, OK 74834",
+    "phone": "(405) 258-0722",
+    "url": "https://www.foodpantries.org/ci/ok-chandler",
+    "categorySlug": "food",
+    "zipCode": "74834"
+  },
+  {
+    "name": "Serving Christ Outreach",
+    "description": "Food pantry and thrift store serving Major, Dewey, and Blaine counties, providing free groceries to households in need on Wednesdays and Thursdays.",
+    "address": "124 E Railroad St, Fairview, OK 73737",
+    "phone": "(580) 227-3590",
+    "url": "https://www.foodpantries.org/ci/ok-fairview",
+    "categorySlug": "food",
+    "zipCode": "73737"
+  },
+  {
+    "name": "Mayes County Health Department",
+    "description": "County public health department providing immunizations, WIC, health screenings, and community health workers who connect residents to food, housing, and medical resources.",
+    "address": "111 NE 1st St, Pryor, OK 74361",
+    "phone": "(918) 825-4224",
+    "url": "https://oklahoma.gov/health/locations/county-health-departments/mayes-county-health-department/county-services.html",
+    "categorySlug": "healthcare",
+    "zipCode": "74361"
+  },
+  {
+    "name": "Pryor Home Rescue Mission",
+    "description": "Homeless shelter, food pantry, and clothing and thrift store serving Mayes County residents facing housing instability and food insecurity.",
+    "address": "640 W Graham Ave, Pryor, OK 74361",
+    "phone": "(918) 825-1650",
+    "url": "https://pryorhomerescuemission.com/",
+    "categorySlug": "housing",
+    "zipCode": "74361"
+  },
+  {
+    "name": "Pryor Ministry Center",
+    "description": "Provides food, clothing, and toiletry items to Mayes County residents in need, including those in the Salina area. Open Monday, Wednesday, and Friday noon to 3 p.m.",
+    "address": "15 SW 3rd St, Pryor, OK 74361",
+    "phone": "(918) 824-1128",
+    "url": "https://www.pryorministrycenter.com/",
+    "categorySlug": "food",
+    "zipCode": "74361"
+  },
+  {
+    "name": "Hand to Hand Inc.",
+    "description": "Food pantry serving McCurtain County residents including the Golden area, providing grocery assistance to households experiencing food insecurity.",
+    "address": "18 SE Jefferson St, Idabel, OK 74745",
+    "phone": "(580) 286-6383",
+    "url": "https://www.foodpantries.org/ci/ok-idabel",
+    "categorySlug": "food",
+    "zipCode": "74745"
+  },
+  {
+    "name": "McCurtain County Health Department",
+    "description": "County public health department providing immunizations, WIC, disease prevention, and health services to McCurtain County residents at low or no cost.",
+    "address": "1400 Lynn Ln, Idabel, OK 74745",
+    "phone": "(580) 286-6628",
+    "url": "https://oklahoma.gov/health/locations/county-health-departments/mccurtain-county-health-department/county-services.html",
+    "categorySlug": "healthcare",
+    "zipCode": "74745"
+  },
+  {
+    "name": "SOS for Families",
+    "description": "Domestic violence advocacy and shelter services organization serving McCurtain County, providing safety planning, crisis intervention, and emergency housing for survivors of domestic violence.",
+    "address": "2 W Martin Luther King Dr, Idabel, OK 74745",
+    "phone": "(580) 286-7533",
+    "url": "https://www.findhelp.org/sos-for-families--idabel-ok--advocacy-and-shelter-services/6205744655499264",
+    "categorySlug": "housing",
+    "zipCode": "74745"
+  },
+  {
+    "name": "God's Helping Hands",
+    "description": "Nonprofit Christian ministry providing free food, clothing, utility assistance, and a Saturday soup kitchen to families in need throughout McIntosh County and the Lake Eufaula area.",
+    "address": "107 McKinley Ave, Eufaula, OK 74432",
+    "phone": "(918) 689-1800",
+    "url": "https://www.ghheufaula.org/",
+    "categorySlug": "food",
+    "zipCode": "74432"
+  },
+  {
+    "name": "McIntosh County DHS Office",
+    "description": "State human services office serving McIntosh County residents with SNAP food benefits, Medicaid, child welfare programs, and temporary cash assistance.",
+    "address": "25 Hospital Rd, Eufaula, OK 74432",
+    "phone": "(918) 913-9582",
+    "url": "https://www.dcfoffices.org/office/mcintosh-county-dhs-office",
+    "categorySlug": "community",
+    "zipCode": "74432"
+  },
+  {
+    "name": "Catholic Charities of Eastern Oklahoma – Muskogee",
+    "description": "Food pantry and infant supply closet serving Muskogee County, providing groceries, baby supplies, and limited financial assistance for rent, utilities, and prescriptions.",
+    "address": "1220 W Broadway St, Muskogee, OK 74401",
+    "phone": "(918) 681-6115",
+    "url": "https://www.healthymuskogee.com/food-pantries",
+    "categorySlug": "food",
+    "zipCode": "74401"
+  },
+  {
+    "name": "Muskogee Community Food Pantry",
+    "description": "Community food pantry serving Muskogee County residents, including Warner area, with groceries distributed multiple times per week. Requires photo ID and proof of Muskogee County residency.",
+    "address": "601 E Broadway St, Muskogee, OK 74403",
+    "phone": "(918) 682-3368",
+    "url": "https://muskogee-community-food-pantry-0731.mailchimpsites.com/",
+    "categorySlug": "food",
+    "zipCode": "74403"
+  },
+  {
+    "name": "The Salvation Army – Muskogee",
+    "description": "Provides client-choice food pantry, emergency assistance, and social services to Muskogee County residents, including those in Warner and surrounding rural communities.",
+    "address": "700 Independence Ave, Muskogee, OK 74401",
+    "phone": "(918) 682-3384",
+    "url": "https://www.salvationarmyusa.org/usn/",
+    "categorySlug": "food",
+    "zipCode": "74401"
+  },
+  {
+    "name": "Okfuskee Community Cupboard",
+    "description": "Food pantry at St. Paul UMC serving Okfuskee County residents including the Bearden area, providing emergency groceries to households in need on Tuesday mornings.",
+    "address": "202 N 3rd St, Okemah, OK 74859",
+    "phone": "(918) 623-0265",
+    "url": "https://www.foodpantries.org/li/community_cupboard_st_paul_umc_74859",
+    "categorySlug": "food",
+    "zipCode": "74859"
+  },
+  {
+    "name": "Okfuskee County Health Department",
+    "description": "County public health department providing immunizations, WIC, disease prevention, and health services to Okfuskee County residents at low or no cost.",
+    "address": "Okemah, OK 74859",
+    "phone": "(918) 623-1800",
+    "url": "https://oklahomafoodbanks.org/food-bank/okfuskee-county-health-department/",
+    "categorySlug": "healthcare",
+    "zipCode": "74859"
+  },
+  {
+    "name": "CareForOKC – First Baptist Church Oklahoma City",
+    "description": "Food pantry and clothing distribution ministry at First Baptist Church serving zip codes 73102–73108 and 73118, open Monday evenings. Requires ID and proof of residency.",
+    "address": "1201 N Robinson Ave, Oklahoma City, OK 73103",
+    "phone": "(405) 232-4255",
+    "url": "https://fbcokc.org/careforokc",
+    "categorySlug": "food",
+    "zipCode": "73103"
+  },
+  {
+    "name": "City Rescue Mission",
+    "description": "Faith-based nonprofit providing emergency shelter, meals, recovery programs, and comprehensive case management for people experiencing homelessness in the Oklahoma City metro, serving men, women, and children 24/7.",
+    "address": "800 W California Ave, Oklahoma City, OK 73106",
+    "phone": "(405) 232-2709",
+    "url": "https://cityrescue.org/",
+    "categorySlug": "housing",
+    "zipCode": "73106"
+  },
+  {
+    "name": "Community Action Agency of Oklahoma City & OK/CN Counties",
+    "description": "Community action agency serving Oklahoma and Canadian counties for over 60 years, providing food pantry, rental/mortgage assistance, Head Start, emergency home repairs, and job placement services.",
+    "address": "319 SW 25th St, Oklahoma City, OK 73109",
+    "phone": "(405) 232-0199",
+    "url": "https://www.caaofokc.org/",
+    "categorySlug": "community",
+    "zipCode": "73109"
+  },
+  {
+    "name": "Good Shepherd Ministries",
+    "description": "Free medical and dental clinic serving uninsured, low-income Oklahoma City residents since 1977, providing primary care, specialty referrals, dental services, diabetic eye exams, and free prescription medications.",
+    "address": "222 NW 12th St, Oklahoma City, OK 73103",
+    "phone": "(405) 232-8631",
+    "url": "https://www.buildinghealthypeople.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "73103"
+  },
+  {
+    "name": "Homeless Alliance – WestTown Campus",
+    "description": "Day shelter and resource campus co-locating multiple service providers to help people experiencing homelessness access food, showers, healthcare, legal aid, mental health services, and job programs.",
+    "address": "1724 NW 4th St, Oklahoma City, OK 73106",
+    "phone": "(405) 415-8410",
+    "url": "https://www.homelessalliance.org/",
+    "categorySlug": "housing",
+    "zipCode": "73106"
+  },
+  {
+    "name": "Mental Health Association Oklahoma",
+    "description": "Provides Housing First services, emergency shelter coordination, mental health support, peer counseling, and eviction prevention for individuals experiencing homelessness or mental illness in Oklahoma City.",
+    "address": "400 N Walker Ave, Suite 190, Oklahoma City, OK 73102",
+    "phone": "(405) 943-3700",
+    "url": "https://mhaok.org/",
+    "categorySlug": "housing",
+    "zipCode": "73102"
+  },
+  {
+    "name": "Neighborhood Services Organization (NSO)",
+    "description": "Hundred-year-old nonprofit serving at-risk and homeless Oklahoma City residents with permanent and transitional housing, a dental clinic, WIC services, and eviction prevention advocacy.",
+    "address": "431 SW 11th St, Oklahoma City, OK 73109",
+    "phone": "(405) 236-0452",
+    "url": "https://www.nsookc.org/",
+    "categorySlug": "housing",
+    "zipCode": "73109"
+  },
+  {
+    "name": "Other Options, Inc. Friends Food Pantry",
+    "description": "Client-choice food pantry serving northwest Oklahoma City and surrounding zip codes including 73142, providing groceries and household essentials to individuals and families in need.",
+    "address": "3636 NW 51st St, Oklahoma City, OK 73112",
+    "phone": "(405) 605-8020",
+    "url": "https://www.otheroptionsokc.org/",
+    "categorySlug": "food",
+    "zipCode": "73112"
+  },
+  {
+    "name": "Regional Food Bank of Oklahoma",
+    "description": "Oklahoma's largest hunger-relief organization, distributing food through 1,300+ partner agencies statewide. The main warehouse and food resource center serve Oklahoma City metro area residents.",
+    "address": "3355 S Purdue Ave, Oklahoma City, OK 73179",
+    "phone": "(405) 972-1111",
+    "url": "https://www.regionalfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "73179"
+  },
+  {
+    "name": "Regional Food Bank of Oklahoma - Dewey County Distribution",
+    "description": "The Regional Food Bank of Oklahoma serves Dewey County through partner agencies and mobile distribution; residents of Leedey can call to locate the nearest distribution site.",
+    "address": "3355 S Purdue Ave, Oklahoma City, OK 73179",
+    "phone": "(405) 972-1111",
+    "url": "https://www.regionalfoodbank.org/get-help/",
+    "categorySlug": "food",
+    "zipCode": "73179"
+  },
+  {
+    "name": "Skyline Urban Ministry – Food Resource Center",
+    "description": "United Methodist mission agency founded in 1968 operating a client-choice food resource center and mobile pantry serving food-insecure residents of Oklahoma City and Oklahoma County, including the 73118 area.",
+    "address": "500 SE 15th St, Oklahoma City, OK 73129",
+    "phone": "(405) 632-2644",
+    "url": "https://www.okcskyline.org/frc",
+    "categorySlug": "food",
+    "zipCode": "73129"
+  },
+  {
+    "name": "Variety Care Northwest",
+    "description": "Federally Qualified Health Center offering comprehensive primary care on a sliding fee scale for uninsured and underinsured patients in northwest Oklahoma City.",
+    "address": "2208 W Hefner Rd, Oklahoma City, OK 73120",
+    "phone": "(405) 632-6688",
+    "url": "https://varietycare.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "73120"
+  },
+  {
+    "name": "Deep Fork Community Action Foundation",
+    "description": "Community action agency serving Okfuskee and Okmulgee counties with emergency food, TANF, heating and cooling assistance, self-help housing programs, and other social services.",
+    "address": "223 W 6th St, Okmulgee, OK 74447",
+    "phone": "(918) 756-2826",
+    "url": "https://dfcaf.org/",
+    "categorySlug": "community",
+    "zipCode": "74447"
+  },
+  {
+    "name": "Salvation Army Food Pantry – Okmulgee",
+    "description": "Provides food pantry services to individuals and families in Okmulgee County, including the Preston area, with regular distribution hours throughout the week.",
+    "address": "301 W 6th St, Okmulgee, OK 74447",
+    "phone": "(918) 756-9224",
+    "url": "https://www.salvationarmyusa.org",
+    "categorySlug": "food",
+    "zipCode": "59501",
+    "additionalZipCodes": [
+      "66701",
+      "71635",
+      "74447",
+      "87401",
+      "90302"
+    ]
+  },
+  {
+    "name": "Community Crisis Center",
+    "description": "Provides emergency shelter, crisis intervention, individual and group counseling, legal advocacy, and transitional living for domestic violence survivors in Ottawa County and surrounding areas.",
+    "address": "17 N Main St, Miami, OK 74354",
+    "phone": "(918) 542-3333",
+    "url": "https://www.crisiscenter.org/",
+    "categorySlug": "housing",
+    "zipCode": "74354"
+  },
+  {
+    "name": "Northeast Oklahoma Community Action Agency (NEOCAA) – Miami Office",
+    "description": "Community action agency serving Ottawa County residents with emergency assistance, food resources, housing support, and referrals for low-income individuals and families.",
+    "address": "409 B St SE, Miami, OK 74354",
+    "phone": "(918) 542-6335",
+    "url": "https://www.neocaa.org/",
+    "categorySlug": "community",
+    "zipCode": "74354"
+  },
+  {
+    "name": "Our Daily Bread Food & Resource Center",
+    "description": "Client-choice food pantry modeled as a small grocery store serving Stillwater and Payne County including Perkins, allowing guests to self-select groceries at no cost and connect with other social services.",
+    "address": "701 E 12th Ave, Stillwater, OK 74074",
+    "phone": "(405) 533-2555",
+    "url": "https://www.ourdailybreadstillwater.org/",
+    "categorySlug": "food",
+    "zipCode": "74074"
+  },
+  {
+    "name": "United Way of Payne County",
+    "description": "Connects Payne County residents including those in Perkins to food assistance, social services, and community resources through partner agencies and direct referral programs.",
+    "address": "115 W 8th Ave, Stillwater, OK 74074",
+    "phone": "(405) 372-3810",
+    "url": "https://www.unitedwaypaynecounty.org/",
+    "categorySlug": "community",
+    "zipCode": "74074"
+  },
+  {
+    "name": "KI BOIS Community Action Foundation – McAlester",
+    "description": "Community action agency providing emergency rental and utility assistance, domestic violence shelter, senior housing, and social services for residents of Pittsburg County.",
+    "address": "609 E Peoria Ave, McAlester, OK 74501",
+    "phone": "(918) 423-3525",
+    "url": "https://www.kibois.org/",
+    "categorySlug": "community",
+    "zipCode": "74501"
+  },
+  {
+    "name": "Pittsburg County Health Department",
+    "description": "County health department offering clinical services including WIC, immunizations, family planning, and preventive health care at little to no cost to Pittsburg County residents.",
+    "address": "1400 E College Ave, McAlester, OK 74501",
+    "phone": "(918) 423-1267",
+    "url": "https://oklahoma.gov/health/locations/county-health-departments/pittsburg-county-health-department.html",
+    "categorySlug": "healthcare",
+    "zipCode": "74501"
+  },
+  {
+    "name": "Shared Blessings Food Pantry",
+    "description": "Free food pantry affiliated with Catholic Charities of Eastern Oklahoma, serving Pittsburg County residents five days a week with groceries and basic food assistance.",
+    "address": "1558 S Main St, McAlester, OK 74501",
+    "phone": "(918) 423-8624",
+    "url": "https://sharedblessings.tv/",
+    "categorySlug": "food",
+    "zipCode": "74501"
+  },
+  {
+    "name": "Central Oklahoma Community Action Agency (COCAA)",
+    "description": "Community action agency offering food pantry, temporary housing, utility assistance, homebuyer education, transportation, and Meals on Wheels for low-income residents of Pottawatomie County.",
+    "address": "429 N Union Ave, Shawnee, OK 74801",
+    "phone": "(405) 275-6060",
+    "url": "https://cocaa.org/",
+    "categorySlug": "community",
+    "zipCode": "74801"
+  },
+  {
+    "name": "Community Market of Pottawatomie County",
+    "description": "Client-choice food pantry using a market model, serving residents of Pottawatomie, Seminole, and South Lincoln counties including the Macomb area with free groceries multiple days per week.",
+    "address": "120 S Center St, Shawnee, OK 74801",
+    "phone": "(405) 788-4957",
+    "url": "https://ourcommunitymarket.org/",
+    "categorySlug": "food",
+    "zipCode": "74801"
+  },
+  {
+    "name": "Shawnee Rescue Mission",
+    "description": "Nonprofit rescue mission providing food pantry, emergency assistance, and services for homeless and low-income individuals and families in Pottawatomie County.",
+    "address": "506 S Beard St, Shawnee, OK 74801",
+    "phone": "(405) 878-8700",
+    "url": "https://www.shawneerescuemission.com/",
+    "categorySlug": "housing",
+    "zipCode": "74801"
+  },
+  {
+    "name": "Roger Mills Memorial Hospital",
+    "description": "Critical access hospital serving Roger Mills County with 24/7 emergency care, outpatient laboratory, radiology, physical therapy, and primary care services.",
+    "address": "501 S L L Males Ave, Cheyenne, OK 73628",
+    "phone": "(580) 497-3336",
+    "url": "https://www.rmmhonline.com/",
+    "categorySlug": "healthcare",
+    "zipCode": "73628"
+  },
+  {
+    "name": "Interfaith Social Ministries Food Pantry",
+    "description": "Ecumenical food pantry serving any Seminole County resident once per month with free groceries, operating weekday afternoons out of Seminole.",
+    "address": "813 N Main St, Seminole, OK 74868",
+    "phone": "(405) 382-3640",
+    "url": "https://oklahomafoodbanks.org/food-bank/interfaith-social-ministry/",
+    "categorySlug": "food",
+    "zipCode": "74868"
+  },
+  {
+    "name": "Seminole Nation Food & Nutrition Services",
+    "description": "Tribal commodity food distribution program providing monthly food packages to low-income households with at least one enrolled tribal member in Seminole County.",
+    "address": "11832 NS 3600, Seminole, OK 74868",
+    "phone": "(405) 445-3028",
+    "url": "https://www.sno-nsn.org/getpage.php?name=Food_and_Nutrition",
+    "categorySlug": "food",
+    "zipCode": "74867"
+  },
+  {
+    "name": "Chickasaw Nation Duncan Tribal Health",
+    "description": "Tribal health clinic offering primary care, preventive services, and holistic health care for Chickasaw Nation citizens and eligible patients in the Duncan and Stephens County area.",
+    "address": "45 N 9th St, Suite 307, Duncan, OK 73533",
+    "phone": "(580) 470-2115",
+    "url": "https://chickasaw.net/Our-Nation/Locations/Duncan-Tribal-Health",
+    "categorySlug": "healthcare",
+    "zipCode": "73533"
+  },
+  {
+    "name": "Christian Helping Hands of Comanche",
+    "description": "Monthly client-choice food pantry and clothing closet serving the Comanche School District area and Stephens and Jefferson counties, providing groceries plus fresh produce when available.",
+    "address": "608 Oak Main Ave, Comanche, OK 73529",
+    "phone": "(580) 439-5712",
+    "url": "https://chh-cares.com/",
+    "categorySlug": "food",
+    "zipCode": "73529"
+  },
+  {
+    "name": "Tillman County Food Bank",
+    "description": "Local food bank dedicated to feeding residents of Tillman County including the Manitou area, distributing food on a weekly basis from its Frederick location.",
+    "address": "901 N 15th St, Frederick, OK 73542",
+    "phone": "(580) 335-1901",
+    "url": "https://www.facebook.com/tillmancountyfoodbank/",
+    "categorySlug": "food",
+    "zipCode": "73542"
+  },
+  {
+    "name": "CAP Tulsa",
+    "description": "Community Action Project providing early childhood education, food assistance referrals, and comprehensive family support services for low-income families across the Tulsa metro area.",
+    "address": "717 S Houston Ave, Tulsa, OK 74127",
+    "phone": "(918) 382-3200",
+    "url": "https://captulsa.org/",
+    "categorySlug": "community",
+    "zipCode": "74127"
+  },
+  {
+    "name": "Family & Children's Services",
+    "description": "Comprehensive social services agency in Tulsa offering mental health counseling, crisis intervention, substance abuse treatment, and community resource referrals for low-income individuals and families.",
+    "address": "650 S Peoria Ave, Tulsa, OK 74120",
+    "phone": "(918) 587-9471",
+    "url": "https://www.fcsok.org/",
+    "categorySlug": "community",
+    "zipCode": "74120"
+  },
+  {
+    "name": "Food Bank of Eastern Oklahoma",
+    "description": "Regional food bank supporting 15 pantries and feeding programs in Okmulgee County, with Rural Delivery Service reaching outlying communities like Preston.",
+    "address": "1304 N Kenosha Ave, Tulsa, OK 74106",
+    "phone": "(918) 585-2800",
+    "url": "https://okfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "74106"
+  },
+  {
+    "name": "Iron Gate",
+    "description": "Tulsa's largest stand-alone soup kitchen and grocery pantry, serving daily hot meals and an emergency self-select food pantry to the hungry and homeless of the Tulsa metro area.",
+    "address": "501 W Archer St, Tulsa, OK 74103",
+    "phone": "(918) 879-1702",
+    "url": "https://www.irongatetulsa.org/",
+    "categorySlug": "food",
+    "zipCode": "74103"
+  },
+  {
+    "name": "South Tulsa Community House",
+    "description": "Neighborhood nonprofit near south Tulsa providing emergency food pantry, financial assistance, and community support services to low-income residents in the 61st and Peoria corridor.",
+    "address": "5780 S Peoria Ave, Tulsa, OK 74105",
+    "phone": "(918) 742-5597",
+    "url": "https://southtulsacommunityhouse.org/",
+    "categorySlug": "food",
+    "zipCode": "74105"
+  },
+  {
+    "name": "Western Neighbors, Inc.",
+    "description": "Southwest Tulsa nonprofit serving zip codes 74107, 74131, and 74132 with free groceries, financial assistance, clothing, and help with rent and utilities for low-income households.",
+    "address": "4981 S Union Ave, Tulsa, OK 74107",
+    "phone": "(918) 445-8840",
+    "url": "https://www.okdrs.gov/guide/western-neighbors-inc",
+    "categorySlug": "food",
+    "zipCode": "74107"
+  },
+  {
+    "name": "Catholic Charities Mary Martha Outreach – Bartlesville",
+    "description": "Weekly food pantry serving Washington County residents with groceries and basic needs assistance, open Monday through Thursday mornings.",
+    "address": "615 SE Frank Phillips Blvd, Bartlesville, OK 74003",
+    "phone": "(918) 337-3703",
+    "url": "https://cceok.org/",
+    "categorySlug": "food",
+    "zipCode": "74003"
+  },
+  {
+    "name": "Concern Center",
+    "description": "Emergency food pantry and financial assistance organization serving Washington County residents including those in the Copan area, operating four days per week in Bartlesville.",
+    "address": "333 S Penn Ave, Bartlesville, OK 74003",
+    "phone": "(918) 336-4693",
+    "url": "https://concerncares.com/",
+    "categorySlug": "food",
+    "zipCode": "74003"
+  },
+  {
+    "name": "Salvation Army of Bartlesville",
+    "description": "Salvation Army corps serving Washington, Nowata, and Osage counties with emergency food assistance, financial aid, holiday programs, and community services.",
+    "address": "101 N Bucy Ave, Bartlesville, OK 74003",
+    "phone": "(918) 336-0371",
+    "url": "https://southernusa.salvationarmy.org/bartlesville/",
+    "categorySlug": "food",
+    "zipCode": "74003"
+  },
+  {
+    "name": "Alva Wesleyan Food Bank",
+    "description": "Food bank operated by Alva Wesleyan Church serving Woods County residents including those in outlying Dacoma area, with weekly distribution on Thursday afternoons.",
+    "address": "818 Lane St, Alva, OK 73717",
+    "phone": "(580) 327-2636",
+    "url": "https://alva-wesleyan-food-bank.square.site/",
+    "categorySlug": "food",
+    "zipCode": "73717"
+  },
+  {
+    "name": "Woods County Health Department",
+    "description": "County health department providing clinical services, WIC, immunizations, and community health worker assistance connecting Woods County residents to food resources, housing, Medicaid, and other social services.",
+    "address": "511 Barnes Ave, Alva, OK 73717",
+    "phone": "(580) 327-3192",
+    "url": "https://oklahoma.gov/health/locations/county-health-departments/woods-county-health-department/county-services.html",
+    "categorySlug": "healthcare",
+    "zipCode": "73717"
+  }
+]

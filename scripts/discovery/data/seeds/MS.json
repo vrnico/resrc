@@ -1,0 +1,941 @@
+[
+  {
+    "name": "Extra Table",
+    "description": "Food pantry providing free groceries, fresh produce, and household supplies to families in need in the Natchez area.",
+    "address": "25 Homochitto St, Natchez, MS 39120",
+    "phone": "(601) 304-0033",
+    "url": "https://extratable.org/",
+    "categorySlug": "food",
+    "zipCode": "39120"
+  },
+  {
+    "name": "Life Help - Natchez (FQHC)",
+    "description": "Federally qualified health center providing primary medical care, behavioral health, and pharmacy services on a sliding-fee scale for Adams County residents.",
+    "address": "1302 N Union St, Natchez, MS 39120",
+    "phone": "(601) 442-1271",
+    "url": "https://www.lifehelp.com/",
+    "categorySlug": "healthcare",
+    "zipCode": "39120"
+  },
+  {
+    "name": "Natchez-Adams County Habitat for Humanity",
+    "description": "Builds and rehabilitates affordable homes for low-income families in Adams County through volunteer labor and partnering homeowner sweat equity.",
+    "address": "202 N Wall St, Natchez, MS 39120",
+    "phone": "(601) 446-9043",
+    "url": "https://natchezhabitat.org/",
+    "categorySlug": "housing",
+    "zipCode": "39120"
+  },
+  {
+    "name": "Open Doors of Natchez",
+    "description": "Emergency shelter and transitional housing for homeless individuals and families, providing meals, case management, and resource referrals in Natchez.",
+    "address": "13 Homochitto St, Natchez, MS 39120",
+    "phone": "(601) 445-8313",
+    "url": "https://www.opendoorsofnatchez.org/",
+    "categorySlug": "housing",
+    "zipCode": "39120"
+  },
+  {
+    "name": "Salvation Army - Natchez",
+    "description": "Provides emergency financial assistance for rent, utilities, and food, as well as disaster relief and holiday programs to families in Natchez.",
+    "address": "313 N Commerce St, Natchez, MS 39120",
+    "phone": "(601) 442-3660",
+    "url": "https://centralusa.salvationarmy.org/",
+    "categorySlug": "community",
+    "zipCode": "39120"
+  },
+  {
+    "name": "Corinth Area Ministries Food Pantry",
+    "description": "Faith-based food pantry distributing groceries and emergency food boxes to low-income residents of Alcorn County.",
+    "address": "601 Cruise St, Corinth, MS 38834",
+    "phone": "(662) 287-4727",
+    "url": "https://www.corinthministries.org/",
+    "categorySlug": "food",
+    "zipCode": "38834"
+  },
+  {
+    "name": "Community Action Agency of Central Mississippi",
+    "description": "Head Start, home weatherization, emergency utility assistance, and social services for low-income residents of Attala and surrounding central Mississippi counties.",
+    "address": "414 N Jackson St, Kosciusko, MS 39090",
+    "phone": "(662) 289-1781",
+    "url": "https://www.caacms.org/",
+    "categorySlug": "community",
+    "zipCode": "39090"
+  },
+  {
+    "name": "Bolivar County Community Action Agency",
+    "description": "Community action agency providing Head Start, emergency assistance, housing counseling, and utility help for low-income residents of Bolivar County.",
+    "address": "308 Court St, Cleveland, MS 38732",
+    "phone": "(662) 843-2573",
+    "url": "https://www.bolivarcaa.org/",
+    "categorySlug": "community",
+    "zipCode": "38732"
+  },
+  {
+    "name": "Cleveland Housing Authority",
+    "description": "Administers public housing and Section 8 Housing Choice Vouchers for eligible low-income families and elderly residents in Cleveland and Bolivar County.",
+    "address": "301 Deering St, Cleveland, MS 38732",
+    "phone": "(662) 843-6411",
+    "url": "https://www.clevelandms.org/",
+    "categorySlug": "housing",
+    "zipCode": "38732"
+  },
+  {
+    "name": "Delta Health Center - Cleveland (FQHC)",
+    "description": "Federally qualified health center offering primary care, dental, behavioral health, and enabling services on a sliding-fee scale to Mississippi Delta residents.",
+    "address": "109 Martin Luther King Dr, Cleveland, MS 38732",
+    "phone": "(662) 843-9861",
+    "url": "https://www.deltahealthcenter.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "38732"
+  },
+  {
+    "name": "Mississippi Delta Community Action Agency (MDCAA) - Cleveland",
+    "description": "Multi-county community action agency serving the Mississippi Delta with Head Start, emergency assistance, senior services, and affordable housing programs.",
+    "address": "715 S Court St, Cleveland, MS 38732",
+    "phone": "(662) 843-5944",
+    "url": "https://www.mdcaa.org/",
+    "categorySlug": "community",
+    "zipCode": "38732"
+  },
+  {
+    "name": "Carroll County Cooperative Extension - SNAP-Ed",
+    "description": "Mississippi State University Extension provides nutrition education, SNAP enrollment assistance, and food access programming in Carroll County.",
+    "address": "108 Lexington Ave, Carrollton, MS 38917",
+    "phone": "(662) 237-9351",
+    "url": "https://extension.msstate.edu/",
+    "categorySlug": "food",
+    "zipCode": "38917"
+  },
+  {
+    "name": "Chickasaw County Family Resource Center",
+    "description": "Provides family support services, emergency food assistance, and referrals to social services for low-income residents of Chickasaw County.",
+    "address": "1 Court Sq, Houston, MS 38851",
+    "phone": "(662) 456-3526",
+    "url": "https://www.mdhs.ms.gov/",
+    "categorySlug": "community",
+    "zipCode": "38851"
+  },
+  {
+    "name": "Okolona Area Food Pantry",
+    "description": "Community food pantry serving families in Okolona and southern Chickasaw County with monthly distributions of groceries and household essentials.",
+    "address": "200 Church St, Okolona, MS 38860",
+    "phone": "(662) 447-5481",
+    "url": "https://www.ms211.org/",
+    "categorySlug": "food",
+    "zipCode": "38860"
+  },
+  {
+    "name": "French Camp Academy Community Ministries",
+    "description": "Faith-based residential school and community outreach in French Camp offering food assistance, clothing, and support services to families in Choctaw County.",
+    "address": "1 Pine Ridge Dr, French Camp, MS 39745",
+    "phone": "(662) 547-6482",
+    "url": "https://www.frenchcamp.org/",
+    "categorySlug": "community",
+    "zipCode": "39745"
+  },
+  {
+    "name": "Grand Gulf Medical Center",
+    "description": "Rural health clinic providing primary and urgent care services to residents of Claiborne County on a sliding-fee scale.",
+    "address": "2001 Grand Gulf Rd, Port Gibson, MS 39150",
+    "phone": "(601) 437-4611",
+    "url": "https://www.umc.edu/",
+    "categorySlug": "healthcare",
+    "zipCode": "39150"
+  },
+  {
+    "name": "Clarksdale Housing Authority",
+    "description": "Administers public housing and Housing Choice Vouchers for low-income families, elderly, and disabled residents of Clarksdale and Coahoma County.",
+    "address": "750 E Third St, Clarksdale, MS 38614",
+    "phone": "(662) 627-7661",
+    "url": "https://www.clarksdalems.org/",
+    "categorySlug": "housing",
+    "zipCode": "38614"
+  },
+  {
+    "name": "Copiah-Lincoln Medical Center Community Health",
+    "description": "Hospital-based community health services offering primary care, wellness programs, and referrals for uninsured and underinsured residents of Copiah County.",
+    "address": "501 S Ragsdale St, Hazlehurst, MS 39083",
+    "phone": "(601) 894-4541",
+    "url": "https://www.clmc.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "39083"
+  },
+  {
+    "name": "DeSoto County Community Services",
+    "description": "County-administered social services office providing emergency assistance, utility help, and referrals to community programs for low-income DeSoto County residents.",
+    "address": "365 Losher St, Hernando, MS 38632",
+    "phone": "(662) 469-8100",
+    "url": "https://www.desotocountyms.gov/",
+    "categorySlug": "community",
+    "zipCode": "38632"
+  },
+  {
+    "name": "Mid-South Food Bank - DeSoto County Distribution",
+    "description": "Feeding America affiliate operating food distributions and partner pantry network serving DeSoto County residents in the Memphis metro area.",
+    "address": "2600 Getwell Rd, Memphis, TN 38118",
+    "phone": "(901) 527-0841",
+    "url": "https://www.midsouthfoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "38671",
+    "additionalZipCodes": [
+      "72301"
+    ]
+  },
+  {
+    "name": "Olive Branch Care Center",
+    "description": "Faith-based food pantry and emergency assistance ministry in Olive Branch providing groceries, clothing, and financial assistance to DeSoto County families.",
+    "address": "7215 Cockrum Rd, Olive Branch, MS 38654",
+    "phone": "(662) 895-9855",
+    "url": "https://www.olivebranchemc.org/",
+    "categorySlug": "food",
+    "zipCode": "38654"
+  },
+  {
+    "name": "Catholic Social Services - Hattiesburg",
+    "description": "Provides emergency financial assistance, refugee resettlement, pregnancy services, and case management for individuals and families in the Hattiesburg area.",
+    "address": "308 Bouie St, Hattiesburg, MS 39401",
+    "phone": "(601) 544-6861",
+    "url": "https://www.catholiccharitiesjackson.org/",
+    "categorySlug": "community",
+    "zipCode": "39401"
+  },
+  {
+    "name": "Hattiesburg Housing Authority",
+    "description": "Administers public housing developments and Housing Choice Vouchers for low-income families, elderly, and disabled residents in Hattiesburg.",
+    "address": "100 West Pine St, Hattiesburg, MS 39401",
+    "phone": "(601) 545-4570",
+    "url": "https://www.hattiesburgha.com/",
+    "categorySlug": "housing",
+    "zipCode": "39401"
+  },
+  {
+    "name": "Hub City Food Pantry",
+    "description": "Free food pantry distributing fresh produce, groceries, and household essentials to food-insecure residents of Hattiesburg and the Hub City region.",
+    "address": "208 N Main St, Hattiesburg, MS 39401",
+    "phone": "(601) 583-8500",
+    "url": "https://www.hubcityfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "39401"
+  },
+  {
+    "name": "Pine Belt Mental Healthcare Resources",
+    "description": "Community mental health center providing outpatient behavioral health, crisis intervention, substance use treatment, and psychiatric services across the Pine Belt region including Forrest County.",
+    "address": "4 Medical Park Dr, Hattiesburg, MS 39401",
+    "phone": "(601) 544-4860",
+    "url": "https://www.pbmhr.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "39401"
+  },
+  {
+    "name": "George County Health Department",
+    "description": "Mississippi State Department of Health clinic in Lucedale offering immunizations, family planning, WIC, and communicable disease services for George County residents.",
+    "address": "100 E Craig St, Lucedale, MS 39452",
+    "phone": "(601) 947-4811",
+    "url": "https://msdh.ms.gov/",
+    "categorySlug": "healthcare",
+    "zipCode": "39452"
+  },
+  {
+    "name": "Singing River Health System - George County",
+    "description": "Community health services and primary care clinic affiliated with Singing River Health serving residents of George County and the surrounding tri-county region.",
+    "address": "859 Winter St, Lucedale, MS 39452",
+    "phone": "(601) 947-3161",
+    "url": "https://www.singingriverhealthsystem.com/",
+    "categorySlug": "healthcare",
+    "zipCode": "39452"
+  },
+  {
+    "name": "Biloxi Housing Authority",
+    "description": "Provides affordable public housing and rental assistance vouchers to low-income families, elderly, and disabled residents in Biloxi.",
+    "address": "676 Dr Martin Luther King Jr Blvd, Biloxi, MS 39530",
+    "phone": "(228) 435-1101",
+    "url": "https://www.biloxiha.org/",
+    "categorySlug": "housing",
+    "zipCode": "39530"
+  },
+  {
+    "name": "Coast Family Health Center (FQHC)",
+    "description": "Federally qualified health center with multiple sites in Harrison County offering primary care, dental, behavioral health, and HIV services on a sliding-fee scale.",
+    "address": "1513 27th Ave, Gulfport, MS 39501",
+    "phone": "(228) 863-1160",
+    "url": "https://www.coastfamilyhealth.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "39501"
+  },
+  {
+    "name": "Gulf Coast Center for Nonviolence",
+    "description": "Provides emergency shelter, transitional housing, legal advocacy, and support services for survivors of domestic violence and sexual assault in Harrison County.",
+    "address": "P.O. Box 333, Biloxi, MS 39533",
+    "phone": "(228) 435-3510",
+    "url": "https://www.gulfcoastcenter.org/",
+    "categorySlug": "housing",
+    "zipCode": "39530"
+  },
+  {
+    "name": "Gulf Coast Community Services Association",
+    "description": "Community action agency providing Head Start, emergency utility and rental assistance, weatherization, and financial coaching to low-income families on the Mississippi Gulf Coast.",
+    "address": "3408 Magnolia Ave, Gulfport, MS 39501",
+    "phone": "(228) 897-4815",
+    "url": "https://www.gulfcoastcaa.org/",
+    "categorySlug": "community",
+    "zipCode": "39501"
+  },
+  {
+    "name": "Gulfport Housing Authority",
+    "description": "Administers public housing developments and Section 8 Housing Choice Vouchers for eligible low-income families and individuals in Gulfport.",
+    "address": "1400 26th Ave, Gulfport, MS 39501",
+    "phone": "(228) 863-1125",
+    "url": "https://www.gulfporthousing.com/",
+    "categorySlug": "housing",
+    "zipCode": "39501"
+  },
+  {
+    "name": "Marine Life Ministries",
+    "description": "Faith-based ministry in Harrison County providing food boxes, clothing, and emergency financial assistance to struggling families and individuals on the Gulf Coast.",
+    "address": "11101 Canal Rd, Gulfport, MS 39503",
+    "phone": "(228) 832-4803",
+    "url": "https://www.marinelifeministries.org/",
+    "categorySlug": "food",
+    "zipCode": "39503"
+  },
+  {
+    "name": "Care Lodge Domestic Violence Shelter",
+    "description": "Emergency shelter, transitional housing, legal advocacy, and counseling for survivors of domestic violence and their children in the Jackson metro area.",
+    "address": "P.O. Box 16482, Jackson, MS 39236",
+    "phone": "(601) 981-9196",
+    "url": "https://www.carelodge.org/",
+    "categorySlug": "housing",
+    "zipCode": "39216"
+  },
+  {
+    "name": "Grace House of Jackson",
+    "description": "Transitional and supportive housing for women and families experiencing homelessness in Jackson, with case management, life skills, and employment support.",
+    "address": "660 Division St, Jackson, MS 39202",
+    "phone": "(601) 355-6471",
+    "url": "https://www.gracehousejackson.org/",
+    "categorySlug": "housing",
+    "zipCode": "39202"
+  },
+  {
+    "name": "Jackson-Hinds Comprehensive Health Center (FQHC)",
+    "description": "Federally qualified health center network in Jackson providing primary medical, dental, behavioral health, and pharmacy services regardless of ability to pay.",
+    "address": "2309 W Northside Dr, Jackson, MS 39213",
+    "phone": "(601) 362-5321",
+    "url": "https://www.jhchc.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "39213"
+  },
+  {
+    "name": "Mississippi Food Network - Gulf Coast Distribution",
+    "description": "Feeding America-affiliated food bank distributing food to partner agencies across Harrison County and the Gulf Coast, including food pantries, shelters, and soup kitchens.",
+    "address": "4765 I-55 N, Jackson, MS 39206",
+    "phone": "(601) 353-7286",
+    "url": "https://www.msfoodnet.org/",
+    "categorySlug": "food",
+    "zipCode": "39206"
+  },
+  {
+    "name": "Open Arms Care Center (FQHC)",
+    "description": "Federally qualified health center in Jackson offering HIV/AIDS care, primary medical services, and mental health treatment on a sliding-fee scale.",
+    "address": "350 W Woodrow Wilson Ave, Jackson, MS 39213",
+    "phone": "(601) 362-0990",
+    "url": "https://www.openarmsms.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "39213"
+  },
+  {
+    "name": "Stewpot Community Services - Jackson",
+    "description": "Comprehensive social services in Jackson providing daily meals, case management, transitional housing, job training, and health services for homeless and low-income individuals.",
+    "address": "1100 W Capitol St, Jackson, MS 39203",
+    "phone": "(601) 353-2759",
+    "url": "https://www.stewpot.org/",
+    "categorySlug": "community",
+    "zipCode": "39203"
+  },
+  {
+    "name": "Voice of Calvary Ministries",
+    "description": "Faith-based community development organization in West Jackson providing food, housing support, health services, and economic development for underserved residents.",
+    "address": "1655 St. Charles St, Jackson, MS 39209",
+    "phone": "(601) 353-1635",
+    "url": "https://www.vocm.org/",
+    "categorySlug": "community",
+    "zipCode": "39209"
+  },
+  {
+    "name": "Holmes County Health Center (FQHC)",
+    "description": "Federally qualified health center in Lexington providing primary care, dental, and behavioral health services to Holmes County residents on a sliding-fee scale.",
+    "address": "239 W Huntington St, Lexington, MS 39095",
+    "phone": "(662) 834-2076",
+    "url": "https://www.msdh.ms.gov/",
+    "categorySlug": "healthcare",
+    "zipCode": "39095"
+  },
+  {
+    "name": "Fulton United Methodist Food Pantry",
+    "description": "Food pantry providing groceries on the third Saturday of each month to families meeting USDA income guidelines, with emergency food available via referral from local agencies.",
+    "address": "301 East Main St, Fulton, MS 38843",
+    "phone": "(662) 862-9530",
+    "url": "https://unitedwaynems.org/fulton-united-methodist-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "38843"
+  },
+  {
+    "name": "Itawamba County Health Department",
+    "description": "Mississippi State Department of Health clinic serving Itawamba County residents with WIC, immunizations, family planning, and primary clinical services.",
+    "address": "110 Crane St, Fulton, MS 38843",
+    "phone": "(662) 862-3710",
+    "url": "https://msdh.ms.gov/page/19,806,166.html",
+    "categorySlug": "healthcare",
+    "zipCode": "38843"
+  },
+  {
+    "name": "Community Action of South Mississippi",
+    "description": "Community action agency serving Jackson, Harrison, and George Counties with food pantry, Head Start, LIHEAP energy assistance, senior services, and VITA tax preparation.",
+    "address": "5343 Jefferson St, Moss Point, MS 39562",
+    "phone": "(228) 475-3877",
+    "url": "https://casoms.org/",
+    "categorySlug": "community",
+    "zipCode": "39562"
+  },
+  {
+    "name": "Salvation Army MS Gulf Coast – Jackson County Food Pantry",
+    "description": "Provides food boxes and emergency social services including rent and utility assistance to individuals and families in Pascagoula and Jackson County.",
+    "address": "3217 Nathan Hale Ave, Pascagoula, MS 39581",
+    "phone": "(228) 762-7222",
+    "url": "https://southernusa.salvationarmy.org/ala-lou-mis/",
+    "categorySlug": "food",
+    "zipCode": "39581"
+  },
+  {
+    "name": "Multi-County Community Service Agency",
+    "description": "Community action agency serving Jasper County and surrounding counties with emergency food and shelter, Meals on Wheels, and Head Start programs from its Heidelberg location.",
+    "address": "3870 County Road 8, Heidelberg, MS 39439",
+    "phone": "(601) 787-3831",
+    "url": "https://www.multicountycsa.org/",
+    "categorySlug": "community",
+    "zipCode": "39439"
+  },
+  {
+    "name": "Jefferson Comprehensive Health Center",
+    "description": "Federally Qualified Health Center offering primary care, pediatrics, dental, optometry, mental health, and WIC services to all patients regardless of ability to pay in Jefferson County.",
+    "address": "405 Main St, Fayette, MS 39069",
+    "phone": "(601) 786-3475",
+    "url": "https://www.jeffersonchc.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "39069"
+  },
+  {
+    "name": "Pearl River Valley Opportunity (PRVO)",
+    "description": "Community action agency serving Jefferson Davis, Marion, Pearl River, and surrounding counties with Head Start, LIHEAP energy assistance, senior services, housing resources, and emergency financial aid.",
+    "address": "1185 Frontage Rd, Prentiss, MS 39474",
+    "phone": "(601) 736-9564",
+    "url": "https://prvoinc.org/",
+    "categorySlug": "community",
+    "zipCode": "39474"
+  },
+  {
+    "name": "The Salvation Army – Laurel",
+    "description": "Provides emergency food boxes, utility and rent assistance, disaster relief, and social services to residents of Jones County and the Laurel area.",
+    "address": "205 N 13th Ave, Laurel, MS 39440",
+    "phone": "(601) 428-4232",
+    "url": "https://www.salvationarmyusa.org/ms/laurel/",
+    "categorySlug": "community",
+    "zipCode": "39440"
+  },
+  {
+    "name": "Communicare of Mississippi – Oxford",
+    "description": "Community mental health center serving Calhoun, Lafayette, Marshall, Panola, Tate, and Yalobusha counties with outpatient counseling, psychiatric services, substance abuse treatment, and 24-hour crisis services.",
+    "address": "152 Highway 7 S, Oxford, MS 38655",
+    "phone": "(662) 234-7521",
+    "url": "https://communicarems.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "38655"
+  },
+  {
+    "name": "North Mississippi Rural Legal Services",
+    "description": "Nonprofit providing free civil legal representation to low-income individuals in the northern 39 counties of Mississippi, including Lafayette County, covering family law, housing, benefits, and consumer issues.",
+    "address": "493 Ryland Way, Oxford, MS 38655",
+    "phone": "(662) 234-8731",
+    "url": "https://nmrls.com/",
+    "categorySlug": "community",
+    "zipCode": "38655"
+  },
+  {
+    "name": "The Pantry of Oxford and Lafayette County",
+    "description": "Volunteer-run food pantry open since 1982 providing groceries to low-income families and elderly residents of Lafayette County on a regular weekly schedule.",
+    "address": "713 Molly Barr Rd, Oxford, MS 38655",
+    "phone": "(662) 832-8001",
+    "url": "https://www.uwoxfordms.org/pantry/",
+    "categorySlug": "food",
+    "zipCode": "38655"
+  },
+  {
+    "name": "The Salvation Army – Meridian",
+    "description": "Provides food pantry services, emergency rent and utility assistance, disaster relief, and social services to residents of Lauderdale County and the Meridian area.",
+    "address": "1115 25th Ave, Meridian, MS 39301",
+    "phone": "(601) 483-6156",
+    "url": "https://www.salvationarmyusa.org/ms/meridian/",
+    "categorySlug": "community",
+    "zipCode": "39301"
+  },
+  {
+    "name": "Monticello Help Center",
+    "description": "Local nonprofit providing monthly food shelf distributions, food delivery to seniors and disabled residents, and drive-thru emergency food boxes to anyone in need in Lawrence County.",
+    "address": "Monticello, MS 39654",
+    "phone": "(601) 587-2528",
+    "url": "https://www.monticellohelpcenter.org/",
+    "categorySlug": "food",
+    "zipCode": "39654"
+  },
+  {
+    "name": "North Mississippi Medical Center – Tupelo",
+    "description": "Largest private nonprofit hospital in Mississippi serving 24 counties in north Mississippi with comprehensive inpatient and outpatient care, community health screenings, school health programs, and wellness services.",
+    "address": "830 South Gloster St, Tupelo, MS 38801",
+    "phone": "(662) 377-3000",
+    "url": "https://www.nmhs.net/locations/north-mississippi-medical-center-tupelo",
+    "categorySlug": "healthcare",
+    "zipCode": "38801"
+  },
+  {
+    "name": "St. Luke Food Pantry – Tupelo",
+    "description": "Independent nonprofit food pantry serving Lee County residents since 1995, distributing food boxes to income-qualified individuals and families at no cost.",
+    "address": "2653 South Eason Blvd, Tupelo, MS 38804",
+    "phone": "(662) 687-4500",
+    "url": "https://stlukefoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "38804"
+  },
+  {
+    "name": "United Way Northeast Mississippi",
+    "description": "Regional United Way coordinating health, education, and financial stability programs across northeast Mississippi counties including Monroe, Lee, and Prentiss counties through a network of nonprofit partner agencies.",
+    "address": "Tupelo, MS 38804",
+    "phone": "(662) 842-7171",
+    "url": "https://unitedwaynems.org/",
+    "categorySlug": "community",
+    "zipCode": "38804"
+  },
+  {
+    "name": "United Way of Northeast Mississippi",
+    "description": "Regional United Way serving Prentiss, Union, Lee and surrounding northeast Mississippi counties with youth programs, community resources, and agency funding.",
+    "address": "111 S Thomas St, Tupelo, MS 38804",
+    "phone": "(662) 842-7171",
+    "url": "https://unitedwaynems.org/prentiss-county/",
+    "categorySlug": "community",
+    "zipCode": "38804"
+  },
+  {
+    "name": "Greenwood Food Pantry",
+    "description": "Volunteer-operated food pantry serving low-income families and individuals in Leflore County, open Tuesdays and Thursdays with emergency food assistance available daily by referral.",
+    "address": "PO Box 372, Greenwood, MS 38930",
+    "phone": "(662) 453-9666",
+    "url": "https://greenwoodfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "38930"
+  },
+  {
+    "name": "Greenwood Interfaith Ministries Community Kitchen",
+    "description": "Faith-based organization in Greenwood offering a free noon meal Monday through Friday to anyone in need, plus food pantry services and emergency assistance for Leflore County residents.",
+    "address": "200 East Johnson St, Greenwood, MS 38930",
+    "phone": "(662) 455-4545",
+    "url": "https://www.msfoodnet.org/location/greenwood-interfaith-ministries/",
+    "categorySlug": "food",
+    "zipCode": "38930"
+  },
+  {
+    "name": "The Salvation Army – Greenwood",
+    "description": "Provides emergency social services including food boxes, utility and rent assistance, and disaster relief to residents of Leflore County in the Greenwood area.",
+    "address": "214 Highway 7 S, Greenwood, MS 38930",
+    "phone": "(662) 455-9679",
+    "url": "https://www.salvationarmyusa.org/ms/greenwood/",
+    "categorySlug": "community",
+    "zipCode": "38930"
+  },
+  {
+    "name": "Habitat for Humanity of Lincoln County",
+    "description": "Builds and rehabilitates affordable homes for low-income families in Lincoln County through volunteer labor and partner family sweat equity, with a ReStore supporting operations.",
+    "address": "230 S First St, Brookhaven, MS 39601",
+    "phone": "(601) 835-0090",
+    "url": "https://www.habitatlincoln.org/",
+    "categorySlug": "housing",
+    "zipCode": "39601"
+  },
+  {
+    "name": "The Salvation Army – Columbus",
+    "description": "Provides emergency food boxes, utility and rent assistance, clothing, and prescription aid to residents of Lowndes County and the Columbus area.",
+    "address": "2219 Main St, Columbus, MS 39701",
+    "phone": "(662) 327-5137",
+    "url": "https://southernusa.salvationarmy.org/columbus/",
+    "categorySlug": "community",
+    "zipCode": "39701"
+  },
+  {
+    "name": "United Way of the Golden Triangle Region",
+    "description": "United Way chapter supporting funded agencies serving Choctaw, Clay, Lowndes, Noxubee, Oktibbeha, Webster, and Winston counties with health, education, and financial stability programs.",
+    "address": "Columbus, MS 39701",
+    "phone": "(662) 329-1610",
+    "url": "https://www.liveunitedms.org/",
+    "categorySlug": "community",
+    "zipCode": "39701"
+  },
+  {
+    "name": "MadCAAP – Madison Countians Allied Against Poverty",
+    "description": "Community action agency fighting poverty in Madison County through food pantry distributions, clothing closet, emergency assistance, back-to-school drives, and afterschool educational programs in Canton.",
+    "address": "181 Watford Pkwy Dr, Canton, MS 39046",
+    "phone": "(601) 407-1404",
+    "url": "https://www.madcaap.org/",
+    "categorySlug": "community",
+    "zipCode": "39046"
+  },
+  {
+    "name": "Hope Community Collective",
+    "description": "Nonprofit serving Marion, Forrest, Lamar, and Walthall counties with a monthly mobile food pantry, Big Hope Truck neighborhood distributions, counseling services, and family advocacy programs.",
+    "address": "1452 Hwy 98 E, Columbia, MS 39429",
+    "phone": "(601) 731-4673",
+    "url": "https://www.hopecommunitycollective.com/",
+    "categorySlug": "community",
+    "zipCode": "39429"
+  },
+  {
+    "name": "Marshall County Helping Hands",
+    "description": "Food pantry and emergency assistance program serving low-income residents of Marshall County in the Holly Springs area with groceries and basic needs support.",
+    "address": "116 W College Ave, Holly Springs, MS 38635",
+    "phone": "(662) 252-2193",
+    "url": "https://www.marshallcountyhelpinghands.org/",
+    "categorySlug": "food",
+    "zipCode": "38635"
+  },
+  {
+    "name": "North Mississippi Rural Legal Services - Holly Springs",
+    "description": "Free civil legal aid to low-income residents in Marshall, Benton, and surrounding north Mississippi counties for housing, family, and benefits matters.",
+    "address": "134 W Van Dorn Ave, Holly Springs, MS 38635",
+    "phone": "(662) 252-3139",
+    "url": "https://www.nmrls.com/",
+    "categorySlug": "community",
+    "zipCode": "38635"
+  },
+  {
+    "name": "Sacred Heart Southern Missions – Holly Springs",
+    "description": "Faith-based social services office providing emergency aid for rent, utilities, food, and prescriptions to low-income residents of Marshall and Benton counties, plus a community garden and free hot meals.",
+    "address": "Holly Springs, MS 38635",
+    "phone": "(662) 252-1006",
+    "url": "https://www.shsm.org/",
+    "categorySlug": "community",
+    "zipCode": "38635"
+  },
+  {
+    "name": "Amory Food Pantry",
+    "description": "Community food pantry distributing groceries to low-income residents of north Monroe County every Tuesday morning, requiring ID, proof of income, and proof of residency.",
+    "address": "123 South Main St, Amory, MS 38821",
+    "phone": "(662) 350-5551",
+    "url": "https://unitedwaynems.org/amory-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "38821"
+  },
+  {
+    "name": "Life Help Mental Health – Winona",
+    "description": "Community mental health center providing outpatient mental health and substance abuse services for adults and youth in Montgomery County, with 24/7 mobile crisis response.",
+    "address": "718 Alberta Dr, Winona, MS 38967",
+    "phone": "(662) 283-2529",
+    "url": "https://mentalhealthms.com/life-help/",
+    "categorySlug": "healthcare",
+    "zipCode": "38967"
+  },
+  {
+    "name": "Mississippi Band of Choctaw Indians – Dept. of Family and Community Services",
+    "description": "Tribal social services department serving the Choctaw community with emergency assistance, domestic violence shelter (Nittak Himmona), family support, and referral services near Philadelphia, MS.",
+    "address": "PO Box 6010, Choctaw, MS 39350",
+    "phone": "(601) 656-5251",
+    "url": "https://www.choctaw.org/department-of-family-and-community-services/",
+    "categorySlug": "community",
+    "zipCode": "39350"
+  },
+  {
+    "name": "Neshoba General Hospital",
+    "description": "County-owned hospital serving Neshoba County and surrounding areas since 1948 with inpatient and outpatient care, mental health services, community health clinics, and a patient assistance program.",
+    "address": "1001 Holland Ave, Philadelphia, MS 39350",
+    "phone": "(601) 663-1200",
+    "url": "https://www.neshobageneral.com/",
+    "categorySlug": "healthcare",
+    "zipCode": "39350"
+  },
+  {
+    "name": "Weems Community Mental Health – Newton County",
+    "description": "State community mental health center offering outpatient counseling, psychiatric care, substance abuse treatment, and 24/7 mobile crisis response for Newton, Lauderdale, Neshoba, and surrounding Region 10 counties.",
+    "address": "1415 College Dr, Meridian, MS 39304",
+    "phone": "(601) 483-4821",
+    "url": "https://www.weemsmh.com/",
+    "categorySlug": "healthcare",
+    "zipCode": "39345"
+  },
+  {
+    "name": "Starkville Strong",
+    "description": "Nonprofit addressing food insecurity, housing instability, and homelessness in Starkville and Oktibbeha County through food vouchers, the Neighbor Exchange housing program, and case-managed Path to Stability services.",
+    "address": "109 South Lafayette St, Starkville, MS 39759",
+    "phone": "(662) 314-4648",
+    "url": "https://www.starkvillestrong.org/",
+    "categorySlug": "community",
+    "zipCode": "39759"
+  },
+  {
+    "name": "Panola County Food Pantry",
+    "description": "Community food pantry distributing groceries free of charge to low-income, unemployed, elderly, and veteran residents of Panola County every Wednesday morning.",
+    "address": "201 Van Voris St, Batesville, MS 38606",
+    "phone": "(662) 703-1739",
+    "url": "https://www.msfoodnet.org/location/panola-county-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "38606"
+  },
+  {
+    "name": "Manna Ministries – Picayune",
+    "description": "Nonprofit offering free medical and dental care, prescription assistance, food delivery, family advocacy, and an after-school tutoring program to low-income residents of Pearl River County.",
+    "address": "120 Street A, Picayune, MS 39466",
+    "phone": "(601) 799-2121",
+    "url": "https://www.mannaministry.net/",
+    "categorySlug": "healthcare",
+    "zipCode": "39466"
+  },
+  {
+    "name": "Pearl River County Help (PRC Help)",
+    "description": "Local resource hub connecting Pearl River County residents to food assistance, financial aid, healthcare, housing, and other social services available in the Picayune and Poplarville area.",
+    "address": "Picayune, MS 39466",
+    "phone": "(601) 749-5000",
+    "url": "https://prchelp.com/",
+    "categorySlug": "community",
+    "zipCode": "39466"
+  },
+  {
+    "name": "North Mississippi Medical Center - Pontotoc",
+    "description": "Community hospital and medical center providing 24/7 emergency care, inpatient services, and outpatient clinics for Pontotoc County residents.",
+    "address": "176 S Main St, Pontotoc, MS 38863",
+    "phone": "(662) 489-5000",
+    "url": "https://www.nmhs.net/locations/north-mississippi-medical-center-pontotoc",
+    "categorySlug": "healthcare",
+    "zipCode": "38863"
+  },
+  {
+    "name": "Pontotoc Food Pantry",
+    "description": "Community food pantry providing free groceries to income-qualifying residents of Pontotoc County, open Tuesdays and Thursdays.",
+    "address": "254 Highway 15 N, Pontotoc, MS 38863",
+    "phone": "(662) 419-0084",
+    "url": "https://www.findhelp.org/food/food-pantry--pontotoc-ms",
+    "categorySlug": "food",
+    "zipCode": "38863"
+  },
+  {
+    "name": "Northeast Mississippi Community Service Agency",
+    "description": "Community action agency based in Booneville serving northeast Mississippi counties with LIHEAP energy assistance, emergency aid, and social services for low-income households.",
+    "address": "801 Hatchie St, Booneville, MS 38829",
+    "phone": "(662) 728-2118",
+    "url": "https://communityactionpartnership.com/stores/northeast-mississippi-community-service-agency/",
+    "categorySlug": "community",
+    "zipCode": "38829"
+  },
+  {
+    "name": "Prentiss County Baptist Association Food Pantry",
+    "description": "Faith-based food pantry providing groceries and emergency food assistance to households facing food insecurity in Booneville and Prentiss County.",
+    "address": "406 N 2nd St, Booneville, MS 38829",
+    "phone": "(662) 728-5544",
+    "url": "https://www.findhelp.org/prentiss-county-baptist-association--booneville-ms--food-pantry/5604593883152384",
+    "categorySlug": "food",
+    "zipCode": "38829"
+  },
+  {
+    "name": "Quitman County Food Pantry",
+    "description": "Local food pantry distributing groceries and emergency food boxes to low-income families in Quitman County, partnering with the Mid-South Food Bank.",
+    "address": "417 10th St, Lambert, MS 38643",
+    "phone": "(662) 326-7913",
+    "url": "https://networks.whyhunger.org/organisation/36760",
+    "categorySlug": "food",
+    "zipCode": "38643"
+  },
+  {
+    "name": "South Rankin Food Resource Center",
+    "description": "Community food pantry providing groceries and food assistance to poverty-level individuals and families throughout Rankin County.",
+    "address": "235 Richland Cir, Richland, MS 39218",
+    "phone": "(601) 906-6588",
+    "url": "https://www.msfoodnet.org/location/south-rankin-food-resource-center/",
+    "categorySlug": "food",
+    "zipCode": "39218"
+  },
+  {
+    "name": "The Care Center - Reservoir",
+    "description": "Faith-based resource center in Brandon providing food pantry services and emergency assistance to families in Rankin County.",
+    "address": "103 F Marshall Rd, Brandon, MS 39047",
+    "phone": "(601) 829-3501",
+    "url": "https://www.findhelp.org/food/food-pantry--brandon-ms",
+    "categorySlug": "food",
+    "zipCode": "39047"
+  },
+  {
+    "name": "East Central MS Health Care (ECMHCI)",
+    "description": "Federally Qualified Health Center providing family medicine, behavioral health, and dental care with sliding-fee scale to rural residents across east-central Mississippi including Newton and Leake counties.",
+    "address": "2564 Highway 35 S, Sebastopol, MS 39359",
+    "phone": "(601) 625-7111",
+    "url": "https://www.ecmhci.com/",
+    "categorySlug": "healthcare",
+    "zipCode": "39359"
+  },
+  {
+    "name": "Scott County Health Department",
+    "description": "Mississippi State Department of Health clinic in Forest providing WIC, immunizations, family planning, and preventive health services to Scott County residents.",
+    "address": "519 Airport Rd, Forest, MS 39074",
+    "phone": "(601) 469-4941",
+    "url": "https://msdh.ms.gov/page/19,0,166.html",
+    "categorySlug": "healthcare",
+    "zipCode": "39074"
+  },
+  {
+    "name": "Pilgrim Rest Community Development Food Distribution",
+    "description": "Monthly food distribution serving Simpson County residents in partnership with the Mississippi Food Network, held on the third Thursday of each month.",
+    "address": "169 Pilgrim Rest Rd, Pinola, MS 39149",
+    "phone": "(601) 847-0000",
+    "url": "https://www.msfoodnet.org/locations/",
+    "categorySlug": "food",
+    "zipCode": "39149"
+  },
+  {
+    "name": "South Central Community Action Agency",
+    "description": "Community action agency serving Rankin and surrounding central Mississippi counties with food assistance, LIHEAP utility aid, weatherization, job training, and Head Start.",
+    "address": "398 Simpson Highway 149, Suite C, Magee, MS 39111",
+    "phone": "(601) 847-5552",
+    "url": "https://sccaams.com/",
+    "categorySlug": "community",
+    "zipCode": "39111"
+  },
+  {
+    "name": "Our Daily Bread Food Pantry - Wiggins",
+    "description": "Faith-based food pantry in Wiggins serving hot meals and distributing groceries to individuals and families in need in Stone County.",
+    "address": "227 First St S, Wiggins, MS 39577",
+    "phone": "(601) 928-1668",
+    "url": "https://www.findhelp.org/food/food-pantry--wiggins-ms",
+    "categorySlug": "food",
+    "zipCode": "39577"
+  },
+  {
+    "name": "South Sunflower County Hospital",
+    "description": "Critical access hospital and rural health clinic serving Indianola and Sunflower County with inpatient, emergency, and primary care services through Delta Primary Care.",
+    "address": "121 E Baker St, Indianola, MS 38751",
+    "phone": "(662) 887-5235",
+    "url": "https://www.southsunflower.com/",
+    "categorySlug": "healthcare",
+    "zipCode": "38751"
+  },
+  {
+    "name": "Mid State Opportunity - Tallahatchie County Office",
+    "description": "Community action agency serving Tallahatchie County with food pantry, economic assistance, and social services for low-income residents.",
+    "address": "Charleston, MS 38921",
+    "phone": "(662) 647-5055",
+    "url": "https://uwca.myresourcedirectory.com/index.php?option=com_cpx&task=resource.view&id=3804818",
+    "categorySlug": "community",
+    "zipCode": "38921"
+  },
+  {
+    "name": "Tate County Health Department",
+    "description": "Mississippi State Department of Health clinic in Senatobia offering WIC nutrition services, immunizations, family planning, and preventive health care for Tate County residents.",
+    "address": "100 Preston McKay Dr, Senatobia, MS 38668",
+    "phone": "(662) 562-4428",
+    "url": "https://msdh.ms.gov/page/19,821,166.html",
+    "categorySlug": "healthcare",
+    "zipCode": "38668"
+  },
+  {
+    "name": "Tippah County Good Samaritan Centers",
+    "description": "Interfaith food pantry network supported by 48 churches providing supplemental food, utility assistance, and emergency aid to over 555 low-income families monthly across Tippah County.",
+    "address": "113 Bails Rd, Ripley, MS 38663",
+    "phone": "(662) 587-3255",
+    "url": "https://tippahgoodsamaritan.org/",
+    "categorySlug": "food",
+    "zipCode": "38663"
+  },
+  {
+    "name": "Helpful Samaritan Food Pantry - Iuka",
+    "description": "Food pantry in Iuka providing free groceries and household necessities to income-qualifying individuals and families in Tishomingo County.",
+    "address": "119 Eastport St, Iuka, MS 38852",
+    "phone": "(662) 423-6272",
+    "url": "https://www.findhelp.org/food/food-pantry--iuka-ms",
+    "categorySlug": "food",
+    "zipCode": "38852"
+  },
+  {
+    "name": "North Mississippi Medical Center - New Albany",
+    "description": "Full-service community hospital in New Albany providing emergency care, inpatient services, surgical care, and outpatient clinics for Union County and surrounding areas.",
+    "address": "204 Helms Ave, New Albany, MS 38652",
+    "phone": "(662) 538-7631",
+    "url": "https://www.nmhs.net/",
+    "categorySlug": "healthcare",
+    "zipCode": "38652"
+  },
+  {
+    "name": "Union County Good Samaritan",
+    "description": "Non-denominational food pantry serving Union County since 1987, providing emergency food assistance, energy bill aid, and rental help to low-income individuals, families, and seniors in New Albany.",
+    "address": "845 B Sam T Barkley Dr, New Albany, MS 38652",
+    "phone": "(662) 534-0931",
+    "url": "https://unitedwaynems.org/union-county-good-samaritan/",
+    "categorySlug": "food",
+    "zipCode": "38652"
+  },
+  {
+    "name": "Walthall County Food Pantry",
+    "description": "Mississippi Food Network partner pantry providing groceries and food assistance to households experiencing food insecurity in Tylertown and Walthall County.",
+    "address": "15 Tylertown-Mesa Rd, Tylertown, MS 39667",
+    "phone": "(769) 204-4428",
+    "url": "https://www.msfoodnet.org/location/walthall-county-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "39667"
+  },
+  {
+    "name": "Salvation Army - Vicksburg",
+    "description": "Salvation Army corps in Vicksburg providing food pantry, emergency rent and utility assistance, clothing, furniture vouchers, and holiday programs to Warren County residents.",
+    "address": "530 Mission 66, Vicksburg, MS 39183",
+    "phone": "(601) 456-4444",
+    "url": "https://southernusa.salvationarmy.org/ala-lou-mis/vicksburg/",
+    "categorySlug": "community",
+    "zipCode": "39183"
+  },
+  {
+    "name": "Storehouse Community Food Pantry - Vicksburg",
+    "description": "Community food pantry in Vicksburg distributing groceries to low-income residents of Warren County.",
+    "address": "629 Cherry St, Vicksburg, MS 39183",
+    "phone": "(601) 638-4848",
+    "url": "https://www.unitedwayvicksburg.org/partners",
+    "categorySlug": "food",
+    "zipCode": "39183"
+  },
+  {
+    "name": "Warren-Washington-Issaquena-Sharkey Community Action Agency (WWISCAA)",
+    "description": "Multi-county community action agency serving Warren, Washington, Issaquena, Sharkey, and Yazoo counties with job training, energy assistance, meals for the elderly, homeless prevention, child care, and case management.",
+    "address": "2022 Cherry St, Vicksburg, MS 39180",
+    "phone": "(601) 638-2474",
+    "url": "https://www.wwiscaa.net/",
+    "categorySlug": "community",
+    "zipCode": "39180"
+  },
+  {
+    "name": "Webster County Baptist Association Food Pantry",
+    "description": "Faith-based food pantry in Eupora distributing groceries and emergency food assistance to households in need across Webster County.",
+    "address": "705 Mississippi 9, Eupora, MS 39744",
+    "phone": "(662) 258-5611",
+    "url": "https://www.findhelp.org/food/food-pantry--eupora-ms",
+    "categorySlug": "food",
+    "zipCode": "39744"
+  },
+  {
+    "name": "G.A. Carmichael Family Health Center - Yazoo City",
+    "description": "Federally Qualified Health Center (FQHC) serving Yazoo County with primary care, preventive care, mental health counseling, and HIV testing on a sliding-fee scale.",
+    "address": "1547 Jerry Clower Blvd, Yazoo City, MS 39194",
+    "phone": "(662) 749-9417",
+    "url": "https://www.gacfhc.org/locations/yazoo/",
+    "categorySlug": "healthcare",
+    "zipCode": "39194"
+  },
+  {
+    "name": "Warren-Yazoo Behavioral Health - Yazoo City",
+    "description": "Regional community mental health center providing outpatient behavioral health, substance use disorder treatment, and mobile crisis response services to Yazoo County residents.",
+    "address": "2303 Gordon Ave, Yazoo City, MS 39194",
+    "phone": "(601) 746-5712",
+    "url": "https://www.warren-yazoo.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "39194"
+  }
+]

@@ -1,0 +1,2702 @@
+[
+  {
+    "name": "Agape Ministries Servants Inc. Food Pantry",
+    "description": "A local food pantry providing critical food assistance to residents of Center Harbor and the surrounding Lakes Region communities. Distribution hours are Monday, Wednesday, Friday, and Saturday.",
+    "address": "80 Bean Road, Center Harbor, NH 03226",
+    "phone": "(603) 455-7053",
+    "url": "https://newhampshirefoodbanks.org/food-bank/agape-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "03226"
+  },
+  {
+    "name": "Alton Community Services Food Pantry",
+    "description": "A nonprofit providing food, clothing, furniture, and referral services to low-income individuals and families in Alton and surrounding communities. Fresh produce, meats, baked goods, and non-perishables distributed every Saturday morning.",
+    "address": "141 Main Street, Alton, NH 03809",
+    "phone": "(603) 875-2273",
+    "url": "https://www.altoncommunityservices.org/",
+    "categorySlug": "food",
+    "zipCode": "03809"
+  },
+  {
+    "name": "Barnstead Thrift Shop and Food Pantry",
+    "description": "A nonprofit food pantry and thrift shop providing food assistance to residents of Barnstead and surrounding areas. Food pantry distribution is Saturday mornings; thrift shop open Thursday through Saturday.",
+    "address": "134 Suncook Valley Parkway (Rt 28), Barnstead, NH 03218",
+    "phone": "(603) 435-6302",
+    "url": "http://www.barnsteadthriftshop.org/",
+    "categorySlug": "food",
+    "zipCode": "03218"
+  },
+  {
+    "name": "Belknap House",
+    "description": "The only family-centered homeless shelter in Belknap County, providing 24/7 emergency shelter to families experiencing homelessness. Case management and support services are available to help families transition to permanent housing.",
+    "address": "200 Court Street, Laconia, NH 03246",
+    "phone": "(603) 527-8097",
+    "url": "https://www.belknaphouse.org/",
+    "categorySlug": "housing",
+    "zipCode": "03246"
+  },
+  {
+    "name": "Calvary Bible Church Food Pantry",
+    "description": "A church-run food pantry in Meredith providing monthly food distributions and emergency assistance by appointment. Serves individuals and families facing food insecurity in the Meredith area.",
+    "address": "6 St. James Street, Meredith, NH 03253",
+    "phone": "(603) 279-6025",
+    "url": "https://food-banks.org/detail/calvary_bible_church_food_pantry_meredith_nh.html",
+    "categorySlug": "food",
+    "zipCode": "03253"
+  },
+  {
+    "name": "CAPBM Laconia Area Resource Center",
+    "description": "Community Action Program resource center serving Alton, Barnstead, Belmont, Gilford, Gilmanton, Laconia, and Sanbornton with food assistance, energy assistance, housing referrals, and other basic needs services. Open Monday–Friday 8:30am–4:30pm.",
+    "address": "522 Main Street, Laconia, NH 03246",
+    "phone": "(603) 524-5512",
+    "url": "https://capbm.org/CAP-Area-Resource-Centers",
+    "categorySlug": "community",
+    "zipCode": "03246"
+  },
+  {
+    "name": "Christ Life Center Food Pantry",
+    "description": "A faith-based food pantry providing emergency food assistance to individuals and families in the Laconia area. Open Thursday mornings.",
+    "address": "175 Mechanic Street, Laconia, NH 03246",
+    "phone": "(603) 524-2662",
+    "url": "https://www.laconianh.gov/247/Food-Pantry",
+    "categorySlug": "food",
+    "zipCode": "03246"
+  },
+  {
+    "name": "First Fruits Food Pantry - Second Baptist Church",
+    "description": "A community food pantry hosted by Second Baptist Church serving residents of Sanbornton. Open on the 1st and 3rd Wednesday of each month in the late afternoon.",
+    "address": "322 Upper Bay Road, Sanbornton, NH 03269",
+    "phone": "(603) 524-5996",
+    "url": "https://www.splnh.com/community-resources/",
+    "categorySlug": "food",
+    "zipCode": "03269"
+  },
+  {
+    "name": "Gilmanton Community Church Food Pantry",
+    "description": "A food pantry run by Gilmanton Community Church serving residents of Gilmanton and Gilmanton Iron Works. Open Wednesday afternoons and Saturday mornings.",
+    "address": "1817 Route 140, Gilmanton Iron Works, NH 03837",
+    "phone": "(603) 364-0114",
+    "url": "https://www.gilmantoncommunitychurch.com/",
+    "categorySlug": "food",
+    "zipCode": "03837"
+  },
+  {
+    "name": "New Beginnings - Without Violence and Abuse",
+    "description": "A nonprofit providing emergency shelter, crisis services, and support for survivors of domestic violence and abuse in the Lakes Region. A 24/7 crisis hotline is available.",
+    "address": "832 N Main Street, Laconia, NH 03246",
+    "phone": "(603) 528-6511",
+    "url": "https://www.newbeginningsnh.org/",
+    "categorySlug": "crisis",
+    "zipCode": "03246"
+  },
+  {
+    "name": "New Hampton Food Pantry",
+    "description": "A local food pantry serving New Hampton and nearby residents, providing access to food assistance multiple days per week. Hours include Monday, Wednesday, and Friday mornings.",
+    "address": "New Hampton, NH 03256",
+    "phone": "(603) 744-8252",
+    "url": "https://foodpantries.org/ci/nh-new_hampton",
+    "categorySlug": "food",
+    "zipCode": "03256"
+  },
+  {
+    "name": "Polly's Food Pantry at First Baptist Church of Belmont",
+    "description": "A community food pantry run by First Baptist Church of Belmont serving residents of Belmont who have experienced a sudden, unexpected financial setback. Open Saturday mornings by appointment.",
+    "address": "49 Church St, Belmont, NH 03220",
+    "phone": "(603) 490-1135",
+    "url": "https://belmontbaptistnh.com/",
+    "categorySlug": "food",
+    "zipCode": "03220"
+  },
+  {
+    "name": "Salvation Army Laconia - Carey House Emergency Shelter",
+    "description": "The Salvation Army Laconia Carey House offers emergency housing for individuals and families, with nutritious meals, case management, and job search assistance provided on-site.",
+    "address": "6 Spring Street, Laconia, NH 03246",
+    "phone": "(603) 528-8086",
+    "url": "https://easternusa.salvationarmy.org/northern-new-england/laconia/provide-shelter/",
+    "categorySlug": "housing",
+    "zipCode": "03246"
+  },
+  {
+    "name": "Salvation Army Laconia - Food Pantry and Soup Kitchen",
+    "description": "The Salvation Army Laconia operates a food pantry and Friendly Kitchen serving individuals and families in the Lakes Region. Pantry services available Tuesday–Friday with meals served regularly throughout the week.",
+    "address": "177 Union Avenue, Laconia, NH 03246",
+    "phone": "(603) 524-1834",
+    "url": "https://easternusa.salvationarmy.org/northern-new-england/laconia/",
+    "categorySlug": "food",
+    "zipCode": "03246"
+  },
+  {
+    "name": "St. Vincent de Paul Society - Laconia",
+    "description": "St. Vincent de Paul provides food pantry services to residents of Laconia, Gilford, Belmont, and Gilmanton. Open Monday and Wednesday for food distribution.",
+    "address": "Laconia, NH 03246",
+    "phone": "(603) 524-5470",
+    "url": "https://www.foodpantries.org/li/st_vincent_de_paul_society_and_laconia_3247",
+    "categorySlug": "food",
+    "zipCode": "03246"
+  },
+  {
+    "name": "Bartlett-Jackson Food Pantry",
+    "description": "A community food pantry serving Bartlett and Jackson residents, located in Intervale and operating the first and third Saturdays of each month from 10am to noon.",
+    "address": "9 Dundee Road, Intervale, NH 03845",
+    "phone": "(603) 383-9246",
+    "url": "https://jacksonbaptist.org/ministries/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "03845"
+  },
+  {
+    "name": "Caregivers of Southern Carroll County and Vicinity",
+    "description": "A volunteer-based nonprofit providing companionship visits, transportation to medical appointments and errands, and respite care for caregivers to help seniors remain independent.",
+    "address": "15 Baas Drive, Wolfeboro, NH 03894",
+    "phone": "(603) 569-6780",
+    "url": "https://keepnhmoving.com/provider/caregivers-of-southern-carroll-county/",
+    "categorySlug": "transportation",
+    "zipCode": "03894"
+  },
+  {
+    "name": "Carroll County RSVP Medical Transportation",
+    "description": "Volunteer-driven non-emergency medical transportation program offering free rides to medical appointments for ambulatory seniors, adults with disabilities, and veterans throughout Carroll County.",
+    "address": "53 Technology Lane, Conway, NH 03818",
+    "phone": "(603) 356-9331",
+    "url": "https://www.carrollcountyrsvp.org",
+    "categorySlug": "transportation",
+    "zipCode": "03818"
+  },
+  {
+    "name": "Carroll County Transit",
+    "description": "A public transit service providing demand-responsive transportation throughout Carroll County, helping residents access medical appointments, essential services, and employment.",
+    "address": "448 White Mountain Highway, Tamworth, NH 03886",
+    "phone": "(866) 752-6890",
+    "url": "https://tccap.org/services/transportation/",
+    "categorySlug": "transportation",
+    "zipCode": "03886"
+  },
+  {
+    "name": "Carroll County Transit (Blue Loon Transit)",
+    "description": "Fixed and flex-route public transit serving Carroll County towns including Conway, Albany, Wolfeboro, and surrounding communities, with door-to-door service for elderly and disabled riders; wheelchair accessible.",
+    "address": "448 White Mountain Hwy, Tamworth, NH 03886",
+    "phone": "(866) 752-6890",
+    "url": "https://www.tricountytransit.org",
+    "categorySlug": "transportation",
+    "zipCode": "03886"
+  },
+  {
+    "name": "Community Food Center - Tamworth and Sandwich",
+    "description": "A food pantry hosted at St. Andrew's-in-the-Valley Episcopal Church serving residents of Sandwich (03227) and Tamworth. Clients may choose their own foods; open on alternating Wednesdays.",
+    "address": "678 Whittier Road (Old Route 25), Tamworth, NH 03886",
+    "phone": "(603) 960-4067",
+    "url": "https://www.facebook.com/foodpantrytamworth/",
+    "categorySlug": "food",
+    "zipCode": "03886"
+  },
+  {
+    "name": "Eastern Lakes Region Housing Coalition",
+    "description": "A nonprofit affordable housing developer providing subsidized rental units across 15 towns in the Eastern Lakes Region of NH, with the Harriman Hill development offering income-qualified apartments in Wolfeboro.",
+    "address": "PO Box 2113, Wolfeboro, NH 03894",
+    "phone": "(800) 742-4686",
+    "url": "https://elrhc.org/",
+    "categorySlug": "housing",
+    "zipCode": "03894"
+  },
+  {
+    "name": "Freedom Food Pantry (First Christian Church of Freedom)",
+    "description": "A food pantry serving Freedom, Ossipee, and Effingham residents, open Saturdays from 10am to noon; proof of residence and ID required.",
+    "address": "12 Elm Street, Freedom, NH 03836",
+    "phone": "(603) 539-6484",
+    "url": "https://firstchristianchurchoffreedom.org/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "03836"
+  },
+  {
+    "name": "Gibson Center for Senior Services",
+    "description": "Provides Meals on Wheels, congregate dining, on-demand door-to-door transportation for seniors and persons with disabilities, social and educational programs, and Medicare counseling serving Albany, Bartlett, the Conways, Eaton, Jackson, and Madison.",
+    "address": "14 Grove St, North Conway, NH 03860",
+    "phone": "(603) 356-3231",
+    "url": "https://www.gibsoncenter.org",
+    "categorySlug": "community",
+    "zipCode": "03860"
+  },
+  {
+    "name": "Interlakes Community Caregivers",
+    "description": "A volunteer-driven nonprofit providing rides, errands, friendly visits, and community resource navigation to help adults in the Lakes Region live independently and with dignity. Serves towns including Moultonborough, Center Harbor, and Meredith.",
+    "address": "60 Whittier Highway Unit 8B, Moultonborough, NH 03254",
+    "phone": "(603) 253-9100",
+    "url": "https://interlakescares.org/",
+    "categorySlug": "community",
+    "zipCode": "03254"
+  },
+  {
+    "name": "L.I.F.E. Ministries Food Pantry",
+    "description": "A Christian nonprofit food pantry operating since 1985 serving 24 area towns in the Wolfeboro region, providing groceries sufficient for twelve meals per week per family member on the 1st and 3rd Wednesday of each month.",
+    "address": "264 South Main Street, Wolfeboro, NH 03894",
+    "phone": "(603) 569-0202",
+    "url": "https://lifeministriesfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "03894"
+  },
+  {
+    "name": "Lakes Region Food Pantry and Thrift Shop",
+    "description": "A well-established food pantry serving 22+ towns across Belknap, Grafton, and Carroll counties including Moultonborough, Center Harbor, Meredith, and Laconia. Offers food, food vouchers, personal care products, and seasonal programs; open Wednesday through Saturday.",
+    "address": "977 Whittier Highway, Moultonborough, NH 03254",
+    "phone": "(603) 476-5400",
+    "url": "http://www.lakesregionfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "03254"
+  },
+  {
+    "name": "Madison Community Food Pantry (The Madison Church)",
+    "description": "A volunteer-run community food pantry located at the Madison Church serving Madison residents by appointment on Wednesdays and Thursdays.",
+    "address": "53 Conway Road, Madison, NH 03849",
+    "phone": "(603) 733-6323",
+    "url": "https://www.themadisonchurch.org/madison-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "03849"
+  },
+  {
+    "name": "NH Department of Health and Human Services – Conway District Office",
+    "description": "State district office providing access to public assistance programs including food stamps (SNAP), Medicaid, Temporary Assistance for Needy Families (TANF), and other benefit programs for Carroll County residents.",
+    "address": "73 Hobbs Street, Conway, NH 03818",
+    "phone": "(603) 447-3841",
+    "url": "https://www.dhhs.nh.gov/about-dhhs/locations-facilities",
+    "categorySlug": "community",
+    "zipCode": "03818"
+  },
+  {
+    "name": "NH Works Conway – Employment Services",
+    "description": "The state American Job Center offering free employment services including job search assistance, career counseling, skills assessments, training referrals, and unemployment information for job seekers and employers across Carroll County.",
+    "address": "518 White Mountain Highway, Conway, NH 03818",
+    "phone": "(603) 447-5924",
+    "url": "https://www.nhes.nh.gov",
+    "categorySlug": "employment",
+    "zipCode": "03818"
+  },
+  {
+    "name": "Northern Human Services – Conway Mental Health Center",
+    "description": "A private nonprofit community mental health center serving all of Carroll County, providing mental health, substance use, and developmental disability services including crisis support.",
+    "address": "25 West Main Street, Conway, NH 03818",
+    "phone": "(603) 447-2111",
+    "url": "https://northernhs.org",
+    "categorySlug": "healthcare",
+    "zipCode": "03818"
+  },
+  {
+    "name": "Ossipee Concerned Citizens (OCC)",
+    "description": "A multi-purpose human service agency providing congregate meals, Meals on Wheels delivery, blood pressure and hearing clinics, senior activities, and referral services for residents across southern Carroll County.",
+    "address": "Center Ossipee, NH 03864",
+    "phone": "(603) 539-6851",
+    "url": "https://occnh.org",
+    "categorySlug": "community",
+    "zipCode": "03864"
+  },
+  {
+    "name": "Provisions Food Pantry & Thrift Store",
+    "description": "Formerly Agape Ministries, this food pantry and thrift store provides nutritious food to those facing food insecurity in the Ossipee area, with affordable thrift goods supporting their mission.",
+    "address": "1895 White Mountain Hwy (Route 16), West Ossipee, NH 03890",
+    "phone": "(603) 539-4456",
+    "url": "https://provisionsfoodandthrift.org",
+    "categorySlug": "food",
+    "zipCode": "03830"
+  },
+  {
+    "name": "ServiceLink Carroll County – Aging & Disability Resource Center",
+    "description": "A free resource center helping older adults and people with disabilities connect to services including housing, home care, transportation, and benefits assistance throughout Carroll County.",
+    "address": "448 White Mountain Highway, Tamworth, NH 03886",
+    "phone": "(603) 332-2043",
+    "url": "https://www.servicelink.nh.gov/",
+    "categorySlug": "community",
+    "zipCode": "03886"
+  },
+  {
+    "name": "Starting Point – Domestic & Sexual Violence Services",
+    "description": "Free and confidential services for victims of domestic violence, sexual violence, and stalking in Carroll County, including a 24-hour crisis hotline, emergency shelter, court advocacy, support groups, and a Child Advocacy Center.",
+    "address": "PO Box 1972, Conway, NH 03818",
+    "phone": "(800) 336-3795",
+    "url": "https://www.startingpointnh.org",
+    "categorySlug": "crisis",
+    "zipCode": "03818"
+  },
+  {
+    "name": "Tamworth Caregivers",
+    "description": "Volunteer caregiver organization providing free transportation to appointments, shopping, and prescription and library book delivery for Tamworth area residents.",
+    "address": "Tamworth, NH 03886",
+    "phone": "(603) 323-7697",
+    "url": "https://carrollcountyresources.weebly.com/transportation-services1.html",
+    "categorySlug": "transportation",
+    "zipCode": "03886"
+  },
+  {
+    "name": "TCCAP – Fuel & Energy Assistance (Carroll County Office)",
+    "description": "Tri-County Community Action Program administers the state Fuel Assistance Program (LIHEAP) and weatherization services to help low-income households in Carroll County with heating costs and home energy efficiency.",
+    "address": "448 White Mountain Hwy, Tamworth, NH 03886",
+    "phone": "(603) 323-7400",
+    "url": "https://tccap.org/services/housing-and-energy/energy-assistance-services/",
+    "categorySlug": "utilities",
+    "zipCode": "03886"
+  },
+  {
+    "name": "TCCAP – Housing Stability Services",
+    "description": "Tri-County Community Action Program provides homeless outreach, short- and medium-term rental assistance, eviction prevention, permanent supportive housing, and emergency shelter referrals for individuals and families in Carroll County.",
+    "address": "448 White Mountain Hwy, Tamworth, NH 03886",
+    "phone": "(603) 323-7400",
+    "url": "https://tccap.org/services/homelessness/",
+    "categorySlug": "housing",
+    "zipCode": "03886"
+  },
+  {
+    "name": "The Breadbasket Food Pantry & Soup Kitchen (The River Church)",
+    "description": "A food pantry and free community dinner ministry of The River Church serving Center Conway area residents, open the second Tuesday of each month with a community dinner on the fourth Tuesday.",
+    "address": "2600 East Main St, Center Conway, NH 03813",
+    "phone": "(603) 447-6633",
+    "url": "https://trcnh.org/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "03813"
+  },
+  {
+    "name": "The Brown Church Food Pantry (Conway Village Congregational Church)",
+    "description": "A food pantry serving Conway, Eaton, and Albany residents by appointment, offering food assistance every Tuesday morning with proof of residence and ID required.",
+    "address": "132 Main St, Conway, NH 03818",
+    "phone": "(603) 447-3851",
+    "url": "https://www.thebrownchurch.org/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "03818"
+  },
+  {
+    "name": "The Shepherd Program",
+    "description": "A volunteer transportation program providing medical appointment rides for Wakefield and Brookfield residents who are unable to drive themselves.",
+    "address": "Wakefield, NH 03872",
+    "phone": "(603) 522-3189",
+    "url": "https://greaterwakefieldresourcecenter.net/community-resources/",
+    "categorySlug": "transportation",
+    "zipCode": "03872"
+  },
+  {
+    "name": "Tri-County Community Action Program – Tamworth Resource Center",
+    "description": "Community action agency providing homeless outreach, housing stability services, energy assistance, and transportation for Coos, Carroll, and Grafton counties. The Tamworth office serves as the Carroll County access point.",
+    "address": "448 White Mountain Highway, Tamworth, NH 03886",
+    "phone": "(603) 323-7400",
+    "url": "https://tccap.org/",
+    "categorySlug": "housing",
+    "zipCode": "03886"
+  },
+  {
+    "name": "Tri-County Transit – North Conway Door-to-Door",
+    "description": "Door-to-door transit service connecting North Conway, Center Conway, Conway, Redstone, Albany, Madison, and Silver Lake, providing accessible public transportation for all residents.",
+    "address": "448 White Mountain Hwy, Tamworth, NH 03886",
+    "phone": "(888) 997-2020",
+    "url": "https://www.tricountytransit.org/door-to-door.html",
+    "categorySlug": "transportation",
+    "zipCode": "03886"
+  },
+  {
+    "name": "Vaughan Community Services Food Pantry",
+    "description": "A private nonprofit serving the Mt. Washington Valley since the late 1960s, providing food pantry services, senior non-food pantry items (health, hygiene, household goods), and referrals to local resources.",
+    "address": "2503 White Mountain Highway, North Conway, NH 03860",
+    "phone": "(603) 356-2324",
+    "url": "https://www.vaughannh.org",
+    "categorySlug": "food",
+    "zipCode": "03860"
+  },
+  {
+    "name": "Wakefield Community Food Pantry",
+    "description": "A community food pantry serving Wakefield, Brookfield, Middleton, Milton, and Effingham NH, and Newfield ME, providing food to individuals and families in need.",
+    "address": "1500 Wakefield Road, Wakefield, NH 03872",
+    "phone": "(603) 522-3094",
+    "url": "https://wakefieldfoodpantrynh.org/",
+    "categorySlug": "food",
+    "zipCode": "03872"
+  },
+  {
+    "name": "Way Station Day Resource Center",
+    "description": "A day resource center for homeless and housing-insecure residents of Mt. Washington Valley, providing go-bags (toiletries, food, supplies), wellness calls, mail, referrals, and mobile outreach in Ossipee on Wednesdays.",
+    "address": "17 Grove St, North Conway, NH 03860",
+    "phone": "(603) 452-7113",
+    "url": "https://www.waystationnh.org",
+    "categorySlug": "crisis",
+    "zipCode": "03860"
+  },
+  {
+    "name": "White Mountain Community Health Center",
+    "description": "A federally qualified health center providing primary care and dental services to anyone regardless of income or health status, serving the Mt. Washington Valley community.",
+    "address": "298 Route 16, Conway, NH 03818",
+    "phone": "(603) 447-8900",
+    "url": "https://www.whitemountainhealth.org",
+    "categorySlug": "healthcare",
+    "zipCode": "03818"
+  },
+  {
+    "name": "Wolfeboro Area Meals on Wheels",
+    "description": "A nonprofit delivering hot, nutritious meals to homebound elderly and disabled residents in the Wolfeboro area Monday through Friday by volunteer drivers.",
+    "address": "240 South Main Street, Wolfeboro, NH 03894",
+    "phone": "(603) 515-2043",
+    "url": "https://www.wamow.org/",
+    "categorySlug": "food",
+    "zipCode": "03894"
+  },
+  {
+    "name": "Catholic Charities New Hampshire – Keene Office",
+    "description": "Provides food boxes, grocery assistance, and connections to community resources addressing food insecurity, housing instability, and financial hardship for individuals and families in the Keene area.",
+    "address": "161 Main St, Suite 200, Keene, NH 03431",
+    "phone": "(603) 357-3093",
+    "url": "https://www.cc-nh.org/services/community-services-assistance/",
+    "categorySlug": "community",
+    "zipCode": "03431"
+  },
+  {
+    "name": "Cheshire Housing Trust",
+    "description": "Nonprofit charitable land trust that owns and manages single and multifamily low- and moderate-income rental housing units in Keene, Marlborough, Hinsdale, and surrounding Cheshire County communities.",
+    "address": "168 Castle St, Keene, NH 03431",
+    "phone": "(603) 357-7603",
+    "url": "https://www.cheshirehousingtrust.org/",
+    "categorySlug": "housing",
+    "zipCode": "03431"
+  },
+  {
+    "name": "ELMM Community Center",
+    "description": "A community center in Winchester offering to-go dinners Monday–Friday and Sunday pop-up food pantry, along with social programs and community support for Winchester-area residents.",
+    "address": "21 Durkee Street, Winchester, NH 03470",
+    "phone": "(603) 239-4316",
+    "url": "https://www.elmmcenter.org/",
+    "categorySlug": "community",
+    "zipCode": "03470"
+  },
+  {
+    "name": "Fall Mountain Food Shelf",
+    "description": "Food pantry open Wednesday, Friday, and Saturday for pick-up, plus a Friendly Meals hot lunch program Tuesday and Thursday at the Alstead Fire Department, serving Langdon and surrounding communities in southern Cheshire County.",
+    "address": "122 NH Route 12A, Langdon, NH 03602",
+    "phone": "(603) 835-2283",
+    "url": "https://www.fallmountainfoodshelf.org/",
+    "categorySlug": "food",
+    "zipCode": "03602"
+  },
+  {
+    "name": "Federated Church of Marlborough Food Pantry",
+    "description": "Church-based food pantry open multiple days per week, providing groceries and food assistance to residents of Marlborough and surrounding communities in Cheshire County.",
+    "address": "16 Pleasant St, Marlborough, NH 03455",
+    "phone": "(603) 876-3863",
+    "url": "https://www.federatedchurchmarlborough.org/",
+    "categorySlug": "food",
+    "zipCode": "03455"
+  },
+  {
+    "name": "Feeding Tiny Tummies",
+    "description": "A community food pantry in Keene focused on providing food for young children and families with infants and toddlers, open twice weekly.",
+    "address": "305 Park Street, Keene, NH 03431",
+    "phone": "(603) 762-5890",
+    "url": "https://mfcommunitycoalition.org/pantries-meals",
+    "categorySlug": "food",
+    "zipCode": "03431"
+  },
+  {
+    "name": "Feeding Tiny Tummies & Resource Center",
+    "description": "Nonprofit combating childhood food insecurity by filling and delivering weekly food bags to schools across 14 locations in Cheshire and Sullivan counties, and operating a Preloved Project thrift store.",
+    "address": "305 Park Ave, Keene, NH 03431",
+    "phone": "(603) 499-8002",
+    "url": "https://www.mightycause.com/organization/Feeding-Tiny-Tummies",
+    "categorySlug": "food",
+    "zipCode": "03431"
+  },
+  {
+    "name": "Helping Hand Center of Troy",
+    "description": "Community food pantry providing quality food items and critical nutrition to households experiencing food insecurity, serving residents of Troy and Fitzwilliam who can show proof of residency and income.",
+    "address": "1 Depot St, Troy, NH 03465",
+    "phone": "(603) 242-3007",
+    "url": "https://www.facebook.com/HelpingHandCenterofTroy/",
+    "categorySlug": "food",
+    "zipCode": "03465"
+  },
+  {
+    "name": "Helping Hand Center of Troy and Fitzwilliam",
+    "description": "A food pantry and clothing closet serving residents of Troy and Fitzwilliam, open three days a week with free groceries and gently-used clothing.",
+    "address": "1 Depot Street, Troy, NH 03465",
+    "phone": "(603) 242-3007",
+    "url": "https://www.foodpantries.org/li/the_helping_hand_center_food_pantry_03465",
+    "categorySlug": "food",
+    "zipCode": "03465"
+  },
+  {
+    "name": "Hinsdale Food Shelf",
+    "description": "A municipal food shelf located at the Hinsdale Town Hall providing food assistance to Hinsdale residents on Mondays or by appointment.",
+    "address": "19 Main Street (Town Hall), Hinsdale, NH 03451",
+    "phone": "(603) 336-5726",
+    "url": "https://www.town.hinsdale.nh.us/community_assistance",
+    "categorySlug": "food",
+    "zipCode": "03451"
+  },
+  {
+    "name": "Hundred Nights Shelter",
+    "description": "A low-barrier emergency shelter and daytime resource center providing overnight beds for up to 45 individuals and 4 families, plus case management, meals, showers, and housing navigation services year-round.",
+    "address": "122 Water Street, Keene, NH 03431",
+    "phone": "(603) 352-5197",
+    "url": "https://hundrednightsinc.org/",
+    "categorySlug": "housing",
+    "zipCode": "03431"
+  },
+  {
+    "name": "Jaffrey Food Pantry – United Church of Jaffrey",
+    "description": "Community food pantry operated through the United Church of Jaffrey, providing grocery assistance to individuals and families in Jaffrey and surrounding towns on Tuesdays and Wednesdays.",
+    "address": "54 Main St, Jaffrey, NH 03452",
+    "phone": "(603) 532-7047",
+    "url": "https://unitedchurchofjaffrey.org/food-pantry-new-hours/",
+    "categorySlug": "food",
+    "zipCode": "03452"
+  },
+  {
+    "name": "Joan's Food Pantry – Asbury Methodist Church",
+    "description": "A volunteer food pantry serving Chesterfield and Westmoreland residents from the basement of Asbury Methodist Church, providing curbside food pickup on Saturday mornings.",
+    "address": "532 Route 63, Chesterfield, NH 03443",
+    "phone": "(603) 363-4631",
+    "url": "https://nhfoodbank.org/locations/joans-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "03443"
+  },
+  {
+    "name": "Keene Housing Authority",
+    "description": "The public housing authority for Keene providing affordable public housing and Section 8 Housing Choice Voucher management to more than 791 low-income families and individuals across Cheshire County.",
+    "address": "831 Court Street, Keene, NH 03431",
+    "phone": "(603) 352-6161",
+    "url": "https://keenehousing.org/",
+    "categorySlug": "housing",
+    "zipCode": "03431"
+  },
+  {
+    "name": "Keene Mutual Aid",
+    "description": "Grassroots community organization founded in 2020 that distributes free food, hygiene supplies, harm reduction materials, and camping supplies every Saturday afternoon at Railroad Square in downtown Keene.",
+    "address": "Railroad Square, Keene, NH 03431",
+    "phone": "",
+    "url": "https://keenemutualaid.org/",
+    "categorySlug": "food",
+    "zipCode": "03431"
+  },
+  {
+    "name": "Love Thy Neighbor Food Pantry",
+    "description": "A community food pantry in West Swanzey providing free groceries to area residents every Friday afternoon.",
+    "address": "121 Cobble Hill Road, Swanzey, NH 03446",
+    "phone": "(603) 209-4225",
+    "url": "https://lovethyneighborbc.org/contact-2-2-2-2/",
+    "categorySlug": "food",
+    "zipCode": "03446"
+  },
+  {
+    "name": "Love Thy Neighbor Ministry Food Pantry",
+    "description": "Faith-based food pantry in West Swanzey providing free food to community members every Friday afternoon at a convenient Cobble Hill Road location.",
+    "address": "121 Cobble Hill Rd, Swanzey, NH 03446",
+    "phone": "(603) 209-4225",
+    "url": "https://www.facebook.com/p/Love-Thy-Neighbor-Ministry-100082049132036/",
+    "categorySlug": "food",
+    "zipCode": "03446"
+  },
+  {
+    "name": "MCVP: Monadnock Center for Violence Prevention",
+    "description": "The only nonprofit in Cheshire County working solely to end domestic and sexual violence through 24-hour crisis intervention, emergency shelter, peer counseling, safety planning, and prevention education serving all of Cheshire County.",
+    "address": "12 Court St #103, Keene, NH 03431",
+    "phone": "(603) 352-3782",
+    "url": "https://mcvprevention.org/",
+    "categorySlug": "crisis",
+    "zipCode": "03431"
+  },
+  {
+    "name": "Monadnock Family Services",
+    "description": "Comprehensive nonprofit community mental health agency providing outpatient therapy, psychiatric evaluation, case management, and 24/7 emergency services to individuals and families across 35 towns in Cheshire and western Hillsborough counties.",
+    "address": "64 Main St, Keene, NH 03431",
+    "phone": "(603) 357-4400",
+    "url": "https://www.mfs.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "03431"
+  },
+  {
+    "name": "Monadnock Farm and Community Coalition",
+    "description": "A 140-member local food coalition operating a Monadnock Mobile Food Pantry program and supporting equitable food access throughout the Monadnock Region of New Hampshire.",
+    "address": "11 Industrial Park Dr., Walpole, NH 03608",
+    "phone": "603-756-2988",
+    "url": "https://mfcommunitycoalition.org",
+    "categorySlug": "food",
+    "zipCode": "03608"
+  },
+  {
+    "name": "Monadnock United Way",
+    "description": "Regional United Way organization mobilizing community partners and investing in programs focused on children, education, and financial stability across the Monadnock Region of Cheshire County since 1952.",
+    "address": "23 Center St, Keene, NH 03431",
+    "phone": "(603) 352-4209",
+    "url": "https://www.muw.org/",
+    "categorySlug": "community",
+    "zipCode": "03431"
+  },
+  {
+    "name": "NH Works Career Center – Keene",
+    "description": "State-operated American Job Center offering job search workshops, career counseling, skills assessment, labor market information, and employment services to job seekers and employers in Cheshire County.",
+    "address": "149 Emerald St, Suite Y, Keene, NH 03431",
+    "phone": "(603) 352-1904",
+    "url": "https://www.nhworks.org/job-seekers/nh-works-centers/",
+    "categorySlug": "employment",
+    "zipCode": "03431"
+  },
+  {
+    "name": "Richmond Community United Methodist Church Food Pantry",
+    "description": "Church-operated food pantry serving Richmond and surrounding towns, open Monday, Wednesday, and Thursday with multiple daily time slots to accommodate community members' schedules.",
+    "address": "105 Old Homestead Hwy, Richmond, NH 03470",
+    "phone": "(603) 239-6202",
+    "url": "https://www.richmond-community-united-methodist-church.org/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "03470"
+  },
+  {
+    "name": "Rindge Food Pantry",
+    "description": "501(c)(3) nonprofit food pantry serving residents of Rindge and surrounding towns in New Hampshire, open Thursdays for food distribution.",
+    "address": "1102 NH Route 119, Rindge, NH 03461",
+    "phone": "(603) 899-5031",
+    "url": "https://rindgefoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "03461"
+  },
+  {
+    "name": "Salvation Army – Keene",
+    "description": "A Salvation Army corps providing food pantry assistance and social services including emergency financial aid for utilities, rent, and other basic needs.",
+    "address": "15 Roxbury Place, Keene, NH 03431",
+    "phone": "(603) 352-0607",
+    "url": "https://www.salvationarmyusa.org/",
+    "categorySlug": "food",
+    "zipCode": "03431"
+  },
+  {
+    "name": "Shelter From The Storm (SFTS)",
+    "description": "Nonprofit providing transitional housing and supportive services to individuals and families experiencing homelessness in the Jaffrey/Rindge area, helping residents achieve financial independence and stable housing within eight months.",
+    "address": "PO Box 257, Jaffrey, NH 03452",
+    "phone": "(603) 532-8222",
+    "url": "https://www.shelterfromthestormnh.org/",
+    "categorySlug": "housing",
+    "zipCode": "03452"
+  },
+  {
+    "name": "Southwestern Community Services",
+    "description": "The Community Action agency for Cheshire and Sullivan Counties providing emergency shelter, housing stabilization, fuel assistance, electric bill discounts, weatherization, and other anti-poverty programs.",
+    "address": "63 Community Way, Keene, NH 03431",
+    "phone": "(603) 352-7512",
+    "url": "https://www.scshelps.org/",
+    "categorySlug": "utilities",
+    "zipCode": "03431"
+  },
+  {
+    "name": "St. Vincent de Paul – Mary Queen of Peace (Winchester)",
+    "description": "St. Vincent de Paul conference offering food pantry assistance and neighbor-to-neighbor support to individuals and families in Winchester and surrounding southern Cheshire County towns.",
+    "address": "99 Main St, Winchester, NH 03470",
+    "phone": "(603) 336-6168",
+    "url": "https://nhfoodbank.org/locations/st-vdp-mary-queen-of-peace-fp/",
+    "categorySlug": "food",
+    "zipCode": "03470"
+  },
+  {
+    "name": "St. Vincent de Paul Society – Keene",
+    "description": "A Catholic charitable organization providing weekly food distributions from St. Bernard's Parish Hall and neighbor-to-neighbor assistance to those in need in the Keene area.",
+    "address": "173 Main Street, Keene, NH 03431",
+    "phone": "(603) 357-1647",
+    "url": "https://svdpkeene.org/",
+    "categorySlug": "food",
+    "zipCode": "03431"
+  },
+  {
+    "name": "The Community Kitchen",
+    "description": "The primary food resource for Cheshire County, offering twice-weekly food pantry distributions and hot weeknight meals to low- and moderate-income individuals and families.",
+    "address": "37 Mechanic Street, Keene, NH 03431",
+    "phone": "(603) 352-3200",
+    "url": "https://thecommunitykitchen.org/",
+    "categorySlug": "food",
+    "zipCode": "03431"
+  },
+  {
+    "name": "The Salvation Army of Keene Food Pantry",
+    "description": "Provides food pantry services as well as assistance with housing, utilities, clothing, and prescription costs through the Pathway of Hope program for families in need.",
+    "address": "15 Roxbury Plz, Keene, NH 03431",
+    "phone": "(603) 352-0607",
+    "url": "https://easternusa.salvationarmy.org/northern-new-england/keene/",
+    "categorySlug": "food",
+    "zipCode": "03431"
+  },
+  {
+    "name": "United Church of Winchester Food Pantry",
+    "description": "Emergency food pantry operating Wednesday evenings for residents of Winchester, Richmond, Ashuelot, and Hinsdale who can provide ID and proof of income and residency.",
+    "address": "99 Main St, Winchester, NH 03470",
+    "phone": "(603) 239-4465",
+    "url": "https://www.theunitedchurchofwinchester.com/",
+    "categorySlug": "food",
+    "zipCode": "03470"
+  },
+  {
+    "name": "United Church of Winchester Food Pantry",
+    "description": "An emergency food pantry serving residents of Winchester, Hinsdale, Ashuelot, and Richmond by appointment on Wednesday evenings, requiring ID and proof of residency and income.",
+    "address": "99 Main Street, Winchester, NH 03470",
+    "phone": "(603) 499-3245",
+    "url": "https://www.foodpantries.org/ci/nh-winchester",
+    "categorySlug": "food",
+    "zipCode": "03470"
+  },
+  {
+    "name": "Walpole Community Food Pantry",
+    "description": "Volunteer-driven food pantry established in 1993, serving families in need throughout the Walpole area. Sources food from the Greater Boston Food Bank and distributes on a regular schedule.",
+    "address": "Walpole, NH 03608",
+    "phone": "",
+    "url": "https://www.wcfp.org/",
+    "categorySlug": "food",
+    "zipCode": "03608"
+  },
+  {
+    "name": "Berlin Housing Authority",
+    "description": "Public housing authority offering Section 8 Housing Choice Vouchers and affordable public housing units for low- and moderate-income families and seniors in Berlin.",
+    "address": "10 Serenity Circle, Berlin, NH 03570",
+    "phone": "603-752-4240",
+    "url": "https://www.berlinnh.gov/172/Housing-Authority",
+    "categorySlug": "housing",
+    "zipCode": "03570"
+  },
+  {
+    "name": "Burch House Shelter – TCCAP",
+    "description": "TCCAP emergency shelter serving women and children experiencing homelessness in northern New Hampshire, with capacity for up to fifteen guests and supportive case management services.",
+    "address": "Lancaster, NH 03584",
+    "phone": "603-444-0624",
+    "url": "https://tccap.org/services/homeless-shelter/",
+    "categorySlug": "housing",
+    "zipCode": "03584"
+  },
+  {
+    "name": "Coos County Family Health Services – Colebrook Clinic",
+    "description": "Community health center offering sliding-fee primary care, women's health, behavioral health, and preventive wellness services to North Country residents regardless of income.",
+    "address": "152 Colby Street, Colebrook, NH 03576",
+    "phone": "603-237-4262",
+    "url": "https://coosfamilyhealth.org/locations/colebrook-clinic/",
+    "categorySlug": "healthcare",
+    "zipCode": "03576"
+  },
+  {
+    "name": "Coos County Family Health Services – Pleasant Street Clinic",
+    "description": "Federally qualified health center offering primary care, pediatrics, women's health, behavioral health, and oral health services on a sliding-fee scale regardless of insurance status.",
+    "address": "133 Pleasant Street, Berlin, NH 03570",
+    "phone": "603-752-2040",
+    "url": "https://coosfamilyhealth.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "03570"
+  },
+  {
+    "name": "Errol Community Food Pantry",
+    "description": "Town-run monthly food distribution pantry serving residents of Errol and surrounding Coos County communities, held on the Saturday following the first Tuesday of each month.",
+    "address": "33 Main Street, Errol, NH 03579",
+    "phone": "603-482-3351",
+    "url": "https://www.errolnh.org/community-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "03579"
+  },
+  {
+    "name": "Feeding Hope Food Pantry – Harvest Christian Fellowship",
+    "description": "Free food pantry providing groceries to food-insecure individuals and families in Berlin and surrounding Coos County communities in a safe, friendly environment.",
+    "address": "219 Willow Street, Berlin, NH 03570",
+    "phone": "603-752-5374",
+    "url": "https://www.berlinharvest.org/feeding-hope-food-pantry.html",
+    "categorySlug": "food",
+    "zipCode": "03570"
+  },
+  {
+    "name": "First Baptist Church of North Stratford Food Pantry",
+    "description": "Church-run food pantry distributing free groceries to Stratford-area families twice a week, with emergency appointments available by calling the pastor.",
+    "address": "51 Main Street, North Stratford, NH 03590",
+    "phone": "603-331-2690",
+    "url": "https://www.firstbaptistchurchofnstratford.org/",
+    "categorySlug": "food",
+    "zipCode": "03590"
+  },
+  {
+    "name": "Helping Hands North, Inc.",
+    "description": "Nonprofit providing emergency food, clothing, infant supplies, and basic needs assistance to struggling families and individuals throughout Coos County's North Country communities.",
+    "address": "96 Main Street, Colebrook, NH 03576",
+    "phone": "603-237-5891",
+    "url": "https://www.helpinghandsnorthinc.com/",
+    "categorySlug": "food",
+    "zipCode": "03576"
+  },
+  {
+    "name": "Lancaster Community Cupboard Food Pantry",
+    "description": "Free community food pantry open three days a week serving Lancaster and surrounding tri-county (Coos, Carroll, and Grafton) area residents without turning anyone away.",
+    "address": "135 Main Street, Lancaster, NH 03584",
+    "phone": "603-631-1017",
+    "url": "https://sites.google.com/view/lancasternhfoodpantry/home",
+    "categorySlug": "food",
+    "zipCode": "03584"
+  },
+  {
+    "name": "Lancaster Food Shelf – TCCAP",
+    "description": "TCCAP-operated food shelf distributing USDA and donated food to income-eligible residents of Coos, Carroll, and Grafton counties, Monday through Friday during business hours.",
+    "address": "73 Main Street, Lancaster, NH 03584",
+    "phone": "603-788-4477",
+    "url": "https://tccap.org/services/hunger/",
+    "categorySlug": "food",
+    "zipCode": "03584"
+  },
+  {
+    "name": "Marie Rivier Pantry & Ministries (Good Shepherd & Holy Family Parishes)",
+    "description": "Catholic parish food pantry serving residents of Berlin, Gorham, Milan, Dummer, Stark, Shelburne, and Randolph with food, toiletries, basic supplies, and financial assistance.",
+    "address": "153 Grafton Street, Berlin, NH 03570",
+    "phone": "603-752-2880",
+    "url": "https://berlingorhamcatholics.org/feedthehungry",
+    "categorySlug": "food",
+    "zipCode": "03570"
+  },
+  {
+    "name": "NH Food Bank Mobile Food Pantry – Gorham (Chapman's)",
+    "description": "Monthly mobile food pantry distribution held at Chapman's, providing quality food items to households experiencing food insecurity in Gorham and the surrounding White Mountains area.",
+    "address": "459 Main Street, Gorham, NH 03581",
+    "phone": "",
+    "url": "https://nhfoodbank.org/find-food/mobile-food-pantry-schedule/",
+    "categorySlug": "food",
+    "zipCode": "03581"
+  },
+  {
+    "name": "NH Legal Assistance – Berlin Office",
+    "description": "Provides free civil legal aid to low-income New Hampshire residents in housing (eviction, foreclosure), domestic violence and family law, public benefits, aging, and immigration matters; serves Carroll County.",
+    "address": "38 Glen Avenue, Berlin, NH 03570",
+    "phone": "(603) 752-1102",
+    "url": "https://www.nhla.org",
+    "categorySlug": "legal",
+    "zipCode": "03570"
+  },
+  {
+    "name": "Salvation Army of Berlin",
+    "description": "Provides food pantry, community meals, emergency financial assistance, clothing, and social services to residents of Berlin and northern Coos County.",
+    "address": "15 Cole Street, Berlin, NH 03570",
+    "phone": "603-752-1644",
+    "url": "https://easternusa.salvationarmy.org/northern-new-england/berlin/",
+    "categorySlug": "food",
+    "zipCode": "03570"
+  },
+  {
+    "name": "Tyler Blain Shelter – TCCAP",
+    "description": "Emergency and transitional shelter for men and families experiencing homelessness, providing case management, food pantry access, laundry, and housing stability support toward permanent housing.",
+    "address": "56 Prospect Street, Lancaster, NH 03584",
+    "phone": "603-788-2344",
+    "url": "https://tccap.org/tyler-blain-shelter-2-0/",
+    "categorySlug": "housing",
+    "zipCode": "03584"
+  },
+  {
+    "name": "AHEAD (Affordable Housing Education and Development)",
+    "description": "Nonprofit housing organization serving northern New Hampshire providing affordable rental housing, homebuyer education, and housing programs for low-income families, seniors, and disabled adults in Coos and Grafton counties.",
+    "address": "262 Cottage Street, Littleton, NH 03561",
+    "phone": "(603) 444-1377",
+    "url": "https://www.homesahead.org/",
+    "categorySlug": "housing",
+    "zipCode": "03561"
+  },
+  {
+    "name": "All Saints Church Food Pantry",
+    "description": "Church-based food pantry in Littleton offering free groceries three days per week to community members in need.",
+    "address": "35 School Street, Littleton, NH 03561",
+    "phone": "(603) 444-3414",
+    "url": "https://www.foodpantries.org/li/all_saints_church_food_pantry_03561",
+    "categorySlug": "food",
+    "zipCode": "03561"
+  },
+  {
+    "name": "Ammonoosuc Community Health Services – Franconia",
+    "description": "Federally Qualified Community Health Center satellite location providing primary care and behavioral health services to the Franconia and Easton area.",
+    "address": "1095 Profile Road, Suite B, Franconia, NH 03580",
+    "phone": "(603) 823-7078",
+    "url": "https://www.ammonoosuc.org/locations/",
+    "categorySlug": "healthcare",
+    "zipCode": "03580"
+  },
+  {
+    "name": "Ammonoosuc Community Health Services – Littleton",
+    "description": "Federally Qualified Community Health Center offering integrated primary care, behavioral health, and medication-assisted treatment for substance use disorders; serves patients regardless of ability to pay.",
+    "address": "25 Mount Eustis Road, Littleton, NH 03561",
+    "phone": "(603) 444-2464",
+    "url": "https://www.ammonoosuc.org/achs-littleton/",
+    "categorySlug": "healthcare",
+    "zipCode": "03561"
+  },
+  {
+    "name": "Ashland Community Center and Food Pantry",
+    "description": "Community food pantry serving Ashland and Holderness residents. Provides groceries and food assistance to local families in need.",
+    "address": "4 Highland Street, Ashland, NH 03217",
+    "phone": "(603) 968-9698",
+    "url": "https://www.foodpantries.org/li/ashland_community_center_and_food_pantry_03217",
+    "categorySlug": "food",
+    "zipCode": "03217"
+  },
+  {
+    "name": "Bancroft House",
+    "description": "Emergency shelter for women, children, and families experiencing homelessness in northern Grafton County, operating 24/7 since 1982 with case management and life skills support.",
+    "address": "104 Harvard Street, Franconia, NH 03580",
+    "phone": "(603) 823-8842",
+    "url": "https://thebancrofthouse.com/",
+    "categorySlug": "housing",
+    "zipCode": "03580"
+  },
+  {
+    "name": "Bethlehem Food Pantry",
+    "description": "Community food pantry open to all Bethlehem residents multiple times per week, located near the town police department.",
+    "address": "2155 Main Street, Bethlehem, NH 03574",
+    "phone": "(603) 869-3351",
+    "url": "https://askpetra.org/resource/bethlehem-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "03574"
+  },
+  {
+    "name": "Bridge House",
+    "description": "Grafton County's primary emergency shelter providing 30+ beds for single adults and families experiencing homelessness, plus food, job training, transitional living support, and aftercare services.",
+    "address": "260 Highland Street, Plymouth, NH 03264",
+    "phone": "(603) 536-7631",
+    "url": "https://bhshelter.org/",
+    "categorySlug": "housing",
+    "zipCode": "03264"
+  },
+  {
+    "name": "Bristol Community Services Food Pantry",
+    "description": "Nonprofit food pantry serving low-income residents of Alexandria, Bridgewater, Bristol, Groton, and Hebron. Provides food, utility assistance, fuel, and medical prescription help.",
+    "address": "24 Pleasant Street, Bristol, NH 03222",
+    "phone": "(603) 744-2222",
+    "url": "https://www.causeiq.com/organizations/bristol-community-services,237105657/",
+    "categorySlug": "food",
+    "zipCode": "03222"
+  },
+  {
+    "name": "Campton Baptist Church Food Pantry",
+    "description": "Church-based food pantry serving Campton area residents by appointment on Wednesday evenings.",
+    "address": "1345 Main Street, Campton, NH 03223",
+    "phone": "(603) 723-0060",
+    "url": "https://www.foodpantries.org/ci/nh-campton",
+    "categorySlug": "food",
+    "zipCode": "03223"
+  },
+  {
+    "name": "CommunityCare of Lyme",
+    "description": "A community nonprofit serving Lyme, NH that connects neighbors with food assistance, meal delivery, volunteer grocery shopping, and financial support through its Welcome Fund for residents facing hardship.",
+    "address": "183 Dorchester Road, Lyme, NH 03768",
+    "phone": "603-795-0603",
+    "url": "https://cclyme.org/",
+    "categorySlug": "community",
+    "zipCode": "03768"
+  },
+  {
+    "name": "Corner Cupboard Food Pantry",
+    "description": "Community food pantry operated by the Campton Area Resource Center, providing supplemental groceries to income-qualified residents of Campton and surrounding towns.",
+    "address": "1307 NH Route 175, Campton, NH 03223",
+    "phone": "(603) 726-3223",
+    "url": "http://www.carcnh.com/food-pantry.html",
+    "categorySlug": "food",
+    "zipCode": "03223"
+  },
+  {
+    "name": "Elevate Church Food Pantry",
+    "description": "Food pantry providing free groceries and fresh produce multiple days a week to Littleton area residents; registration requires proof of need and identification.",
+    "address": "70 Redington Street, Littleton, NH 03561",
+    "phone": "(603) 444-6517",
+    "url": "https://askpetra.org/resource-region/littleton-area/",
+    "categorySlug": "food",
+    "zipCode": "03561"
+  },
+  {
+    "name": "Enfield Human Services Department",
+    "description": "Town welfare office providing emergency assistance and referrals to local, state, and federal programs for Enfield residents in need of food, housing, and financial help.",
+    "address": "74 Lockehaven Road, Enfield, NH 03748",
+    "phone": "603-442-5429",
+    "url": "https://www.enfieldnh.gov/human-services-department",
+    "categorySlug": "community",
+    "zipCode": "03748"
+  },
+  {
+    "name": "Friends Feeding Friends - Canaan Pantry",
+    "description": "A community food pantry run by Friends of Mascoma Foundation, welcoming individuals and families to shop once per week for frozen foods, healthy meats, shelf-stable staples, and fresh produce. Serves residents of Canaan, Dorchester, Enfield, Grafton, and Orange.",
+    "address": "9 On the Common Way, Canaan, NH 03741",
+    "phone": "603-632-4542",
+    "url": "https://friendsofmascoma.org/friends-feeding-friends",
+    "categorySlug": "food",
+    "zipCode": "03741"
+  },
+  {
+    "name": "Friends Feeding Friends (Friends of Mascoma) – Canaan Pantry",
+    "description": "Volunteer-run food pantry providing a 3–5 day supplemental grocery supply to residents of Canaan, Enfield, Grafton, Orange, and Dorchester.",
+    "address": "9 On the Common Way, Canaan, NH 03741",
+    "phone": "(603) 632-4542",
+    "url": "http://friendsofmascoma.org/friends-feeding-friends",
+    "categorySlug": "food",
+    "zipCode": "03741"
+  },
+  {
+    "name": "Good Neighbor Food Pantry – Community Church of Christ",
+    "description": "Church-based food pantry in Franconia open Tuesdays, serving residents of Franconia and surrounding communities in the White Mountains region.",
+    "address": "44 Church Street, Franconia, NH 03580",
+    "phone": "(603) 823-8421",
+    "url": "https://www.homelessshelterdirectory.org/foodbank/nh_good-neighbor-food-pantry-community-church-of-christ",
+    "categorySlug": "food",
+    "zipCode": "03580"
+  },
+  {
+    "name": "Good Shepherd Ecumenical Food Pantry",
+    "description": "Ecumenical food pantry in Woodsville serving Haverhill area residents four days per week with groceries and food staples.",
+    "address": "65 South Court Street, Woodsville, NH 03785",
+    "phone": "(603) 243-0327",
+    "url": "https://www.foodpantries.org/li/nh_03785_good-shepherd-ecumenical-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "03785"
+  },
+  {
+    "name": "Good Shepherd Ecumenical Food Pantry",
+    "description": "An ecumenical food pantry serving Haverhill, Benton, Orford, Piermont, Warren, Woodstock, Wentworth, Bath, Landaff, Lisbon, Lyman, and Monroe, open Monday, Tuesday, and Thursday mornings and Wednesday evenings.",
+    "address": "65 South Court Street, Woodsville, NH 03785",
+    "phone": "603-243-0327",
+    "url": "https://nhfoodbank.org/locations/good-shepherd-ecumenical-fp/",
+    "categorySlug": "food",
+    "zipCode": "03785"
+  },
+  {
+    "name": "Grafton County Senior Citizens Council",
+    "description": "A county-wide nonprofit providing transportation, home-delivered meals, senior center programs, and outreach services for older adults across every town in Grafton County, NH.",
+    "address": "10 Campbell Street, Lebanon, NH 03784",
+    "phone": "603-448-4897",
+    "url": "https://www.gcscc.org/",
+    "categorySlug": "transportation",
+    "zipCode": "03784"
+  },
+  {
+    "name": "Hanover Food Pantry",
+    "description": "A community food pantry housed at the United Church of Christ, open Saturday mornings with deliveries available for those lacking transportation. Provides free groceries to residents in need.",
+    "address": "40 College Street, Hanover, NH 03755",
+    "phone": "802-356-0629",
+    "url": "https://www.hanoverfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "03755"
+  },
+  {
+    "name": "Helping Hands Food Pantry",
+    "description": "Community food pantry in Bethlehem serving local residents with weekly distributions of groceries; requires a New Hampshire driver's license or ID.",
+    "address": "475 Whitefield Road, Bethlehem, NH 03574",
+    "phone": "(603) 444-1230",
+    "url": "https://askpetra.org/resource/helping-hands-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "03574"
+  },
+  {
+    "name": "Horse Meadow Senior Center",
+    "description": "A senior center operated by Grafton County Senior Citizens Council offering congregate meals, home-delivered meals (Meals on Wheels), transportation services, and a food pantry serving Haverhill, Woodsville, Pike, Monroe, Bath, Benton, and Piermont communities.",
+    "address": "91 Horse Meadow Road, North Haverhill, NH 03774",
+    "phone": "603-787-2539",
+    "url": "https://www.gcscc.org/horse-meadow",
+    "categorySlug": "food",
+    "zipCode": "03774"
+  },
+  {
+    "name": "Lebanon First Baptist Church Food Pantry",
+    "description": "A church-run food pantry offering free groceries and compassionate support to families in need across the Lebanon community, open Tuesday afternoons and Thursday mornings.",
+    "address": "11 School Street, Lebanon, NH 03766",
+    "phone": "603-448-5618",
+    "url": "https://lebfirstbaptist.com/",
+    "categorySlug": "food",
+    "zipCode": "03766"
+  },
+  {
+    "name": "Lincoln-Woodstock Food Pantry",
+    "description": "Community food pantry serving Lincoln and Woodstock residents, located at the Father Roger Bilodeau Community Center. Open Tuesdays or by appointment Monday–Friday.",
+    "address": "194 Pollard Road, Lincoln, NH 03251",
+    "phone": "(603) 745-8752",
+    "url": "https://newhampshirefoodbanks.org/food-bank/lincoln-woodstock-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "03251"
+  },
+  {
+    "name": "LISTEN Community Services - Food Pantry",
+    "description": "A nonprofit food pantry open weekdays providing free groceries to anyone in need, walk-ins welcome, serving residents across the Upper Valley region of NH and VT including Lebanon, Hanover, Lyme, and surrounding towns.",
+    "address": "60 Hanover Street, Lebanon, NH 03766",
+    "phone": "603-448-4553",
+    "url": "https://www.listencs.org/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "03766"
+  },
+  {
+    "name": "LISTEN Community Services - Housing Helpers",
+    "description": "A nonprofit program providing grants and one-on-one support to Upper Valley residents threatened by homelessness, helping them secure or maintain housing with financial assistance up to $500 and referrals to community resources.",
+    "address": "60 Hanover Street, Lebanon, NH 03755",
+    "phone": "603-448-4553",
+    "url": "https://www.listencs.org/housing-helpers",
+    "categorySlug": "housing",
+    "zipCode": "03755"
+  },
+  {
+    "name": "Lyme Food Pantry - CommunityCare of Lyme",
+    "description": "An all-volunteer food pantry providing free supplemental nutritious food to Lyme and surrounding communities in a respectful and welcoming setting, currently serving 20–25 households weekly including about 50–60 individuals.",
+    "address": "Lyme Congregational Church, 9 Church Street, Lyme, NH 03768",
+    "phone": "603-795-0603",
+    "url": "https://www.cclyme.org/the-lyme-food-pantry-here-for-everyone/",
+    "categorySlug": "food",
+    "zipCode": "03768"
+  },
+  {
+    "name": "Mascoma Area Senior Center Food Pantry",
+    "description": "A food pantry operated by the Grafton County Senior Citizens Council, offering food by appointment to all residents of the five-town area of Canaan, Enfield, Dorchester, Orange, and Grafton, with home delivery available.",
+    "address": "1166 US Route 4, Canaan, NH 03741",
+    "phone": "603-523-4333",
+    "url": "https://www.gcscc.org/mascoma",
+    "categorySlug": "food",
+    "zipCode": "03741"
+  },
+  {
+    "name": "Nannie's Canning Pantry",
+    "description": "Community food pantry in Wentworth open Friday mornings, providing canned goods and food staples to local residents in need.",
+    "address": "586 Atwell Hill Road, Wentworth, NH 03282",
+    "phone": "(603) 764-9344",
+    "url": "https://www.facebook.com/nanniescanningpantry/",
+    "categorySlug": "food",
+    "zipCode": "03282"
+  },
+  {
+    "name": "New Life Church of the White Mountains Food Pantry",
+    "description": "Church-based food pantry providing weekly food distribution to community members in the Ashland area.",
+    "address": "55 Highland Street, Ashland, NH 03217",
+    "phone": "(603) 968-7251",
+    "url": "https://www.foodpantries.org/li/new_life_church_food_pantry_03217",
+    "categorySlug": "food",
+    "zipCode": "03217"
+  },
+  {
+    "name": "Orford Area Senior Services",
+    "description": "A senior center operated by Grafton County Senior Citizens Council providing congregate meals, Meals on Wheels home delivery, and accessible transportation for Orford and Lyme area residents.",
+    "address": "Congregational Church, Dartmouth College Highway, Orford, NH 03777",
+    "phone": "603-353-9107",
+    "url": "https://www.gcscc.org/orford",
+    "categorySlug": "community",
+    "zipCode": "03777"
+  },
+  {
+    "name": "Plymouth Area Community Closet (PACC) – Food Pantry",
+    "description": "Local nonprofit serving Plymouth and surrounding towns for over 70 years, offering a food pantry, emergency funds, clothing, and heating assistance to those in need.",
+    "address": "15 Railroad Square, Plymouth, NH 03264",
+    "phone": "(603) 536-9889",
+    "url": "https://paccnh.org/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "03264"
+  },
+  {
+    "name": "Support Center at Burch House",
+    "description": "A program of Tri-County Community Action providing free, confidential support and emergency shelter to victims of domestic violence, sexual assault, and stalking in Northern Grafton County, with a 24-hour hotline and advocacy services.",
+    "address": "PO Box 965, Littleton, NH 03561",
+    "phone": "603-747-2441",
+    "url": "https://www.tccap.org/",
+    "categorySlug": "crisis",
+    "zipCode": "03561"
+  },
+  {
+    "name": "The Bridge Outreach – Littleton Food Pantry",
+    "description": "Food pantry serving Littleton, Bethlehem, and surrounding communities three days per week, providing food, personal hygiene products, household items, and clothing.",
+    "address": "70 Redington Street, Littleton, NH 03561",
+    "phone": "(603) 444-6517",
+    "url": "https://www.bridgeoutreachnh.org/littletonfoodpantry",
+    "categorySlug": "food",
+    "zipCode": "03561"
+  },
+  {
+    "name": "Trinity Church of the Nazarene Food Pantry",
+    "description": "A church-based food pantry serving residents of Haverhill, Benton, Bath, Piermont, Warren, and Wells River and Newbury, VT, with distributions on third Saturdays from 9:00–10:30 AM.",
+    "address": "41 Nazarene Drive, North Haverhill, NH 03774",
+    "phone": "603-787-6177",
+    "url": "https://www.trinitynazarenenh.org/ministries",
+    "categorySlug": "food",
+    "zipCode": "03774"
+  },
+  {
+    "name": "Upper Valley Haven Emergency Winter Shelter",
+    "description": "A low-barrier emergency shelter open nightly for adults 18 and older, providing a warm safe space, meals, and connections to local resources; operated in collaboration between the City of Lebanon and Upper Valley Haven.",
+    "address": "160 Mechanic Street, Lebanon, NH 03766",
+    "phone": "802-295-6500",
+    "url": "https://uppervalleyhaven.org/",
+    "categorySlug": "crisis",
+    "zipCode": "03766"
+  },
+  {
+    "name": "Voices Against Violence",
+    "description": "Crisis services agency in Plymouth providing support, advocacy, and emergency shelter referrals to survivors of domestic violence, sexual violence, stalking, and human trafficking in southern Grafton County.",
+    "address": "28 Main Street, Plymouth, NH 03264",
+    "phone": "(603) 536-5999",
+    "url": "https://www.voicesagainstviolence.net/",
+    "categorySlug": "crisis",
+    "zipCode": "03264"
+  },
+  {
+    "name": "Warren/Wentworth Food Pantry",
+    "description": "Community food pantry serving residents of Warren and Wentworth, a partner agency of the New Hampshire Food Bank providing free groceries.",
+    "address": "446 Mt. Moosilauke Highway, Warren, NH 03279",
+    "phone": "(603) 764-5265",
+    "url": "https://nhfoodbank.org/locations/warren-wentworth-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "03279"
+  },
+  {
+    "name": "We Care Food Pantry at Restoration Church",
+    "description": "Church-based food pantry in Plymouth open Monday mornings, providing free food to community members regardless of income.",
+    "address": "319 Highland Street, Plymouth, NH 03264",
+    "phone": "(603) 923-9456",
+    "url": "https://www.foodpantries.org/co/nh-grafton",
+    "categorySlug": "food",
+    "zipCode": "03264"
+  },
+  {
+    "name": "Wellspring Worship Center Food Pantry",
+    "description": "A church-based food pantry open every Saturday morning to anyone in the community with a need for food, providing free groceries to struggling individuals and families in the Upper Valley area.",
+    "address": "407 North Main Street, West Lebanon, NH 03784",
+    "phone": "603-643-2700",
+    "url": "https://www.wellspringworship.org/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "03784"
+  },
+  {
+    "name": "Whole Village Family Resource Center",
+    "description": "Hub housing 16 social service agencies serving Plymouth and 18 surrounding towns, offering family support, childcare, parent education, and connections to community resources.",
+    "address": "258 Highland Street, Plymouth, NH 03264",
+    "phone": "(603) 536-3720",
+    "url": "https://wholevillagefrc.org/",
+    "categorySlug": "community",
+    "zipCode": "03264"
+  },
+  {
+    "name": "WISE - Women's Information Service",
+    "description": "A nonprofit providing free, confidential crisis support, emergency and transitional shelter, advocacy, and safety planning for people affected by domestic violence, sexual violence, stalking, and trafficking across 23 Upper Valley towns in NH and VT.",
+    "address": "38 Bank Street, Lebanon, NH 03766",
+    "phone": "603-448-5922",
+    "url": "https://wiseuv.org/",
+    "categorySlug": "crisis",
+    "zipCode": "03766"
+  },
+  {
+    "name": "Antrim Bennington Food Pantry",
+    "description": "Nonprofit dedicated to collecting, storing, and distributing nutritious food — including fresh produce, dairy, and protein — to food-insecure residents of Antrim and Bennington.",
+    "address": "85 Main Street, Antrim, NH 03440",
+    "phone": "(603) 588-6614",
+    "url": "https://www.facebook.com/FoodPantryAntrimBennington/",
+    "categorySlug": "food",
+    "zipCode": "03440"
+  },
+  {
+    "name": "Antrim-Bennington Food Pantry",
+    "description": "A nonprofit food pantry at Antrim Baptist Church serving residents of Antrim and Bennington with drive-through style distribution every Saturday morning from 10 AM to noon.",
+    "address": "85 Main Street, Antrim, NH 03440",
+    "phone": "603-588-6614",
+    "url": "https://antrimbaptist.org/home-2/",
+    "categorySlug": "food",
+    "zipCode": "03440"
+  },
+  {
+    "name": "Bedford Community Food Pantry",
+    "description": "A community food pantry at Bedford Presbyterian Church open on the 1st and 3rd Saturday and Monday of each month, providing groceries to all Bedford residents in need.",
+    "address": "4 Church Road, Bedford, NH 03110",
+    "phone": "603-867-1445",
+    "url": "https://bedfordnhfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "03110"
+  },
+  {
+    "name": "Bridges: Domestic & Sexual Violence Support",
+    "description": "Nonprofit providing crisis intervention, emergency shelter (confidential location), advocacy, and support services to survivors of domestic and sexual violence in the Milford and greater Nashua region. 24-hour crisis line available.",
+    "address": "16 Elm Street, Suite 2, Milford, NH 03055",
+    "phone": "603-672-9833",
+    "url": "https://www.bridgesnh.org",
+    "categorySlug": "crisis",
+    "zipCode": "03055"
+  },
+  {
+    "name": "Brookline Food Pantry",
+    "description": "A volunteer-driven food pantry serving Brookline and Hollis residents to ensure no neighbor goes to bed hungry. Located in the lower level of Brookline Town Hall, open multiple days per week.",
+    "address": "1 Main Street, Brookline, NH 03033",
+    "phone": "603-673-8855",
+    "url": "https://brooklinefoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "03033"
+  },
+  {
+    "name": "Catholic Charities New Hampshire",
+    "description": "A statewide Catholic nonprofit providing food distribution, community services, and other social assistance programs. Operates the New Hampshire Food Bank and a wide range of community service programs.",
+    "address": "100 William Loeb Drive, Unit 3, Manchester, NH 03109",
+    "phone": "603-669-3030",
+    "url": "https://www.cc-nh.org/services/food-distribution/",
+    "categorySlug": "food",
+    "zipCode": "03109"
+  },
+  {
+    "name": "Corpus Christi Food Pantry and Assistance",
+    "description": "A Catholic parish-sponsored food pantry serving the Nashua community since 1999, providing food, basic toiletries, and cleaning supplies four days per week to all clients in need.",
+    "address": "3 Crown Street, Nashua, NH 03060",
+    "phone": "603-882-6372",
+    "url": "https://corpuschristifoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "03060"
+  },
+  {
+    "name": "Families in Transition Emergency Shelter",
+    "description": "A 501(c)(3) nonprofit offering 24/7 emergency shelter programs for adults and families experiencing homelessness in Manchester, with case management, meals, and connections to permanent housing.",
+    "address": "122 Market Street, Manchester, NH 03101",
+    "phone": "603-641-9441",
+    "url": "https://www.fitnh.org/services/emergency-homeless-services/shelter/",
+    "categorySlug": "housing",
+    "zipCode": "03101"
+  },
+  {
+    "name": "Families in Transition Food Pantry",
+    "description": "A statewide nonprofit providing food assistance to food-insecure individuals and families in Manchester. The pantry offers non-perishable items and meats once per month per household.",
+    "address": "122 Market Street, Manchester, NH 03101",
+    "phone": "603-641-9441",
+    "url": "https://www.fitnh.org/food-programs/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "03101"
+  },
+  {
+    "name": "First Congregational Church Food Closet",
+    "description": "A food closet providing free groceries by prearrangement to feed families and individuals lacking sufficient resources. Open Monday through Friday mornings; call ahead to schedule a pickup.",
+    "address": "508 Union Street, Manchester, NH 03104",
+    "phone": "603-625-5093",
+    "url": "https://www.fccmanchesternh.org/",
+    "categorySlug": "food",
+    "zipCode": "03104"
+  },
+  {
+    "name": "First United Methodist Church Food Pantry",
+    "description": "A weekly food pantry in partnership with the NH Food Bank, open every Tuesday morning. A current NH driver's license or utility bill with current address is required to register.",
+    "address": "961 Valley Street, Manchester, NH 03103",
+    "phone": "603-622-8863",
+    "url": "https://www.fumcmanchester.org/ministries",
+    "categorySlug": "food",
+    "zipCode": "03103"
+  },
+  {
+    "name": "Food For Children",
+    "description": "A nonprofit ministry that hosts a weekly outdoor food distribution at the Beech Street School playground each Saturday, serving 250–350 families with groceries, fresh produce, dairy, and protein.",
+    "address": "333 Beech Street, Manchester, NH 03103",
+    "phone": "603-620-4391",
+    "url": "https://www.foodfc.org/",
+    "categorySlug": "food",
+    "zipCode": "03103"
+  },
+  {
+    "name": "Goffstown Network Food Pantry",
+    "description": "A neighbor-to-neighbor food pantry serving residents of Goffstown, New Boston, and Dunbarton. Open Wednesday evenings and Saturday mornings with free food distributions.",
+    "address": "7 N Mast Street, Goffstown, NH 03045",
+    "phone": "603-497-3433",
+    "url": "https://goffstownnetwork.org",
+    "categorySlug": "food",
+    "zipCode": "03045"
+  },
+  {
+    "name": "Grace Lutheran Church Food Pantry",
+    "description": "A volunteer-run parish food pantry serving Nashua and surrounding area residents with emergency food assistance on the third Thursday of each month.",
+    "address": "130 Spit Brook Road, Nashua, NH 03062",
+    "phone": "603-888-7579",
+    "url": "https://www.gracelutherannashua.org/FoodPantry",
+    "categorySlug": "food",
+    "zipCode": "03062"
+  },
+  {
+    "name": "Greater Nashua Mental Health",
+    "description": "State-designated nonprofit community mental health center serving Southern Hillsborough County towns including Nashua, Hudson, Merrimack, Milford, and surrounding communities. No one is turned away due to financial limitations; 24/7 crisis line available.",
+    "address": "100 West Pearl Street, Nashua, NH 03060",
+    "phone": "603-889-6147",
+    "url": "https://gnmhc.org",
+    "categorySlug": "healthcare",
+    "zipCode": "03060"
+  },
+  {
+    "name": "Greenfield Covenant Church Food Pantry",
+    "description": "A community food pantry open every Saturday morning providing food and clothing to residents of Hillsborough County and Cheshire County. Clients may visit once per month, with exceptions for extreme need.",
+    "address": "12 Depot Drive, Greenfield, NH 03047",
+    "phone": "603-547-3626",
+    "url": "https://www.greenfieldchurch.org/in-ministry/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "03047"
+  },
+  {
+    "name": "Habitat for Humanity Greater Nashua Manchester",
+    "description": "A 501(c)(3) nonprofit providing affordable homeownership and critical home repair opportunities to low-income families across southern New Hampshire, including Amherst, Wilton, Lyndeborough, and Pelham.",
+    "address": "10 Clinton Drive, Hollis, NH 03049",
+    "phone": "603-883-0295",
+    "url": "https://www.habitatgnm.org/",
+    "categorySlug": "housing",
+    "zipCode": "03049"
+  },
+  {
+    "name": "Harbor Care",
+    "description": "Formerly Harbor Homes, a nonprofit providing affordable housing, primary and behavioral health care, employment and job training, and supportive services to low-income, homeless, and disabled New Hampshire residents. Operates SafeHaven and Maple Arms homeless shelter programs.",
+    "address": "77 Northeastern Boulevard, Nashua, NH 03062",
+    "phone": "603-882-3616",
+    "url": "https://harborcarenh.org",
+    "categorySlug": "housing",
+    "zipCode": "03062"
+  },
+  {
+    "name": "Health Care for the Homeless Manchester",
+    "description": "A healthcare program providing primary care, mental health, and mobile health services to individuals experiencing homelessness or at risk of homelessness in Manchester. No one is turned away due to inability to pay.",
+    "address": "293 Wilson Street, Manchester, NH 03103",
+    "phone": "603-663-8718",
+    "url": "https://hchnh.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "03103"
+  },
+  {
+    "name": "Hillsboro District Food Pantry",
+    "description": "A nonprofit food pantry serving low-income families, seniors, veterans, and others in the greater Hillsboro district since 1989. Open every Tuesday evening; proof of income and residency required.",
+    "address": "7 Church Street, Hillsborough, NH 03244",
+    "phone": "603-464-4080",
+    "url": "https://hillsborofoodpantry.wordpress.com/",
+    "categorySlug": "food",
+    "zipCode": "03244"
+  },
+  {
+    "name": "Hudson Community Food Pantry",
+    "description": "A community food pantry serving Hudson residents with weekly food distributions on Thursday evenings. Located in the light green building next to St. John XXIII Parish.",
+    "address": "23 Library Street, Hudson, NH 03051",
+    "phone": "603-883-6048",
+    "url": "https://www.hudsonfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "03051"
+  },
+  {
+    "name": "Litchfield Community Church Food Pantry",
+    "description": "A Presbyterian church-based food pantry serving Litchfield community residents twice a month, providing emergency groceries to families in need.",
+    "address": "259 Charles Bancroft Highway, Litchfield, NH 03052",
+    "phone": "603-424-6057",
+    "url": "https://www.litchfieldcommunitychurchnh.com/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "03052"
+  },
+  {
+    "name": "Merrimack Community Food Pantry",
+    "description": "A nonprofit outreach program of St. James United Methodist Church operating for over 20 years, serving more than 300 families in the greater Merrimack area with food, cleaning supplies, and household goods on a bi-weekly basis.",
+    "address": "646 Daniel Webster Highway, Merrimack, NH 03054",
+    "phone": "603-440-9597",
+    "url": "https://stjames-umchurch.org/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "03054"
+  },
+  {
+    "name": "Monadnock Area Transitional Shelter (MATS)",
+    "description": "A transitional housing organization providing fully furnished apartments and intensive case management for individuals and families experiencing homelessness in the Monadnock region.",
+    "address": "PO Box 3053, Peterborough, NH 03458",
+    "phone": "(603) 924-5033",
+    "url": "https://matsnh.org/",
+    "categorySlug": "housing",
+    "zipCode": "03458"
+  },
+  {
+    "name": "Monadnock Area Transitional Shelter (MATS)",
+    "description": "Transitional shelter founded in 1991 providing six fully furnished apartments across two secure locations in the Monadnock Region, with safe housing, compassionate support, and referral services for homeless individuals and families.",
+    "address": "Peterborough, NH (address confidential)",
+    "phone": "(603) 924-5033",
+    "url": "https://www.matsnh.org/",
+    "categorySlug": "housing",
+    "zipCode": "03458"
+  },
+  {
+    "name": "Nashua Housing Authority",
+    "description": "A public housing authority providing affordable rental housing and Section 8 Housing Choice Vouchers to low- and moderate-income households, elderly, and persons with disabilities in the Nashua area.",
+    "address": "40 East Pearl Street, Nashua, NH 03060",
+    "phone": "603-883-5661",
+    "url": "https://www.nashuanh.gov/635/Nashua-Housing-and-Redevelopment-Authori",
+    "categorySlug": "housing",
+    "zipCode": "03060"
+  },
+  {
+    "name": "Nashua Soup Kitchen and Shelter",
+    "description": "A nonprofit providing emergency shelter, meals, and supportive services to vulnerable individuals and families across the Greater Nashua region including Hillsborough County towns such as Amherst.",
+    "address": "2 Quincy Street, Nashua, NH 03061",
+    "phone": "603-889-7770",
+    "url": "https://nsks.org/",
+    "categorySlug": "crisis",
+    "zipCode": "03031"
+  },
+  {
+    "name": "NeighborWorks Southern New Hampshire",
+    "description": "A nonprofit providing affordable housing development, homeownership counseling, and financial wellness education for individuals and families in southern New Hampshire.",
+    "address": "801 Elm Street, 2nd Floor, Manchester, NH 03101",
+    "phone": "866-701-9097",
+    "url": "https://nwsnh.org/",
+    "categorySlug": "housing",
+    "zipCode": "03101"
+  },
+  {
+    "name": "New Covenant Bible Church Food Pantry",
+    "description": "A weekly food pantry open every Tuesday afternoon providing free food assistance to Greenville-area residents in need.",
+    "address": "32 Mill Street, Greenville, NH 03048",
+    "phone": "603-291-2179",
+    "url": "https://www.ncbcnh.org",
+    "categorySlug": "food",
+    "zipCode": "03048"
+  },
+  {
+    "name": "New Hampshire Food Bank",
+    "description": "The only food bank in New Hampshire, distributing millions of pounds of food annually to over 400 partner agencies including food pantries, soup kitchens, and homeless shelters statewide.",
+    "address": "700 East Industrial Park Drive, Manchester, NH 03109",
+    "phone": "603-669-9725",
+    "url": "https://nhfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "03109"
+  },
+  {
+    "name": "New Horizons for New Hampshire Food Pantry",
+    "description": "A food pantry serving Manchester residents experiencing financial hardship, providing pre-packed groceries once per month based on household size. Part of New Horizons' comprehensive homeless services.",
+    "address": "199 Manchester Street, Manchester, NH 03103",
+    "phone": "603-668-1877",
+    "url": "http://www.newhorizonsfornh.org/programs/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "03103"
+  },
+  {
+    "name": "New Horizons for New Hampshire Shelter",
+    "description": "Manchester's largest emergency shelter providing housing for up to 63 men and 13 women, along with a soup kitchen and food pantry for adults 18 and older experiencing homelessness.",
+    "address": "199 Manchester Street, Manchester, NH 03103",
+    "phone": "603-668-1877",
+    "url": "https://newhorizonsnh.org/",
+    "categorySlug": "housing",
+    "zipCode": "03103"
+  },
+  {
+    "name": "Open Cupboard Food Pantry",
+    "description": "An emergency food pantry serving residents of Temple, Wilton, Lyndeborough, and Greenfield. Open by appointment only; call ahead to arrange a pickup time.",
+    "address": "47 Maple Street, Wilton, NH 03086",
+    "phone": "603-654-2635",
+    "url": "https://2ccwilton.org/open-cupboard-pantry/",
+    "categorySlug": "food",
+    "zipCode": "03086"
+  },
+  {
+    "name": "Parish of the Transfiguration (ARK Church) Food Pantry",
+    "description": "A community food pantry serving Manchester residents open every Tuesday afternoon and on the first and third Saturdays of each month. Proof of residency required.",
+    "address": "107 Alsace Street, Manchester, NH 03102",
+    "phone": "603-623-4715",
+    "url": "https://www.foodpantries.org/li/parish_of_the_transfiguration_food_pantry_03102",
+    "categorySlug": "food",
+    "zipCode": "03102"
+  },
+  {
+    "name": "Pelham Good Neighbor Fund",
+    "description": "A volunteer-run 501(c)(3) charity founded in 1969 providing emergency assistance to Pelham residents for food, rent, utilities, medical bills, and other urgent household expenses.",
+    "address": "Pelham, NH 03076",
+    "phone": "603-386-1347",
+    "url": "https://pelhamgoodneighborfund.org/",
+    "categorySlug": "community",
+    "zipCode": "03076"
+  },
+  {
+    "name": "Peterborough Area Community Aid (Food Pantry)",
+    "description": "Nonprofit food pantry providing grocery assistance to residents of Peterborough and surrounding towns, open three days per week plus select Saturdays, offering fresh and shelf-stable foods.",
+    "address": "25 Elm St, Peterborough, NH 03458",
+    "phone": "(603) 924-3008",
+    "url": "https://www.pfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "03458"
+  },
+  {
+    "name": "Salvation Army Manchester Food Pantry",
+    "description": "The Salvation Army Corps operates a food pantry for community members struggling with hunger, open on the third Thursday of each month. Participants must bring ID and proof of residence.",
+    "address": "121 Cedar Street, Manchester, NH 03101",
+    "phone": "603-627-7013",
+    "url": "https://nne.salvationarmy.org/manchester/",
+    "categorySlug": "food",
+    "zipCode": "03101"
+  },
+  {
+    "name": "Salvation Army Nashua Food Pantry",
+    "description": "Salvation Army corps providing a food pantry with daily donations of bread, pastries, and groceries to Nashua-area residents in need. Appointments required; walk-ins considered.",
+    "address": "1 Montgomery Avenue, Nashua, NH 03060",
+    "phone": "603-889-5151",
+    "url": "https://easternusa.salvationarmy.org/northern-new-england/nashua/alleviate-hunger/",
+    "categorySlug": "food",
+    "zipCode": "03060"
+  },
+  {
+    "name": "SHARE Outreach",
+    "description": "A nonprofit community outreach program providing food, clothing, emergency financial assistance, and referrals to housing, transportation, medical, and utilities resources for residents of Amherst, Milford, Brookline, and Mont Vernon.",
+    "address": "1 Columbus Avenue, Milford, NH 03055",
+    "phone": "603-673-9898",
+    "url": "https://www.sharenh.org/",
+    "categorySlug": "food",
+    "zipCode": "03055"
+  },
+  {
+    "name": "Society of St. Vincent de Paul - Ste. Marie's Food Pantry",
+    "description": "A Catholic charitable organization providing food assistance to low-income residents on Manchester's west side. Open Monday, Wednesday, and Friday for food distribution.",
+    "address": "378 Notre Dame Avenue, Manchester, NH 03102",
+    "phone": "603-622-4615",
+    "url": "https://svdpmanchester.com/",
+    "categorySlug": "food",
+    "zipCode": "03102"
+  },
+  {
+    "name": "Southern New Hampshire Rescue Mission",
+    "description": "A rescue mission providing emergency shelter, meals, food, and clothing to those in need in the Nashua area. Also offers a transitional employment program to help residents toward self-sufficiency.",
+    "address": "40 Chestnut Street, Nashua, NH 03060",
+    "phone": "603-889-3421",
+    "url": "https://www.hope4nashua.org",
+    "categorySlug": "housing",
+    "zipCode": "03060"
+  },
+  {
+    "name": "Southern New Hampshire Services (CAPHR) Nashua",
+    "description": "Community Action Partnership office serving Hillsborough County residents with fuel assistance, weatherization, electric assistance, food programs, and homelessness prevention services.",
+    "address": "134 Allds Street, Nashua, NH 03060",
+    "phone": "603-889-3440",
+    "url": "https://www.caphr.org",
+    "categorySlug": "utilities",
+    "zipCode": "03060"
+  },
+  {
+    "name": "St. Anthony of Padua Parish Food Pantry",
+    "description": "A parish-run food pantry distributing bags of groceries by appointment on Thursdays. Residents must call by Tuesday noon to reserve a bag for that week's distribution.",
+    "address": "61 W Baker Street, Manchester, NH 03103",
+    "phone": "603-625-6409",
+    "url": "https://stanthonyofpaduanh.org/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "03103"
+  },
+  {
+    "name": "St. John Neumann Catholic Community Food Pantry",
+    "description": "Volunteer-run parish food pantry serving Merrimack, Hollis, and Amherst residents. Provides food for three meals a day for 15 days per visit; proof of residency, income, and photo ID required.",
+    "address": "708 Milford Road, Merrimack, NH 03054",
+    "phone": "603-880-4689",
+    "url": "https://sjnnh.org/outreach",
+    "categorySlug": "food",
+    "zipCode": "03054"
+  },
+  {
+    "name": "St. Patrick Parish Food Pantry",
+    "description": "A nonprofit parish food pantry committed to ending food insecurity for those who live, worship, or work in the Pelham community. Open Tuesday evenings and Wednesday afternoons.",
+    "address": "12 Main Street, Pelham, NH 03076",
+    "phone": "603-635-7592",
+    "url": "https://stpatricks-pelham.com/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "03076"
+  },
+  {
+    "name": "The CareGivers Caring Cupboard",
+    "description": "A volunteer-driven mobile food pantry program that delivers free groceries to eligible low-income seniors and vulnerable individuals in Hillsborough County, including Bedford residents.",
+    "address": "19 Harvey Road, Bedford, NH 03110",
+    "phone": "603-622-4948",
+    "url": "https://caregiversnh.org/services/caring-cupboard/",
+    "categorySlug": "food",
+    "zipCode": "03110"
+  },
+  {
+    "name": "The Front Door Agency",
+    "description": "A Hillsborough County nonprofit helping individuals and families transition from homelessness to self-sufficiency through security deposit assistance, back rent, rapid rehousing, transitional housing, and intensive case management.",
+    "address": "7 Concord Street, Nashua, NH 03064",
+    "phone": "603-886-2866",
+    "url": "https://www.frontdooragency.org/",
+    "categorySlug": "housing",
+    "zipCode": "03064"
+  },
+  {
+    "name": "The Grapevine Family & Community Resource Center",
+    "description": "A nonprofit resource center in Antrim promoting family and community health and well-being through education, support, and the sharing of resources for Antrim-area residents.",
+    "address": "4 Aiken Street, Antrim, NH 03440",
+    "phone": "603-588-2620",
+    "url": "https://grapevinenh.org/",
+    "categorySlug": "community",
+    "zipCode": "03440"
+  },
+  {
+    "name": "Tolles Street Mission Food Pantry",
+    "description": "A Christian community ministry providing free food pantry services, nourishment, and support to those in need in the Nashua area. No appointment needed; open Monday and Thursday afternoons.",
+    "address": "52 Whitney Street, Nashua, NH 03064",
+    "phone": "603-880-4984",
+    "url": "https://www.thetollesstreetmission.org",
+    "categorySlug": "food",
+    "zipCode": "03064"
+  },
+  {
+    "name": "Town of Weare Welfare Department Food Pantry",
+    "description": "A municipal food pantry operated by the Town of Weare Welfare Department offering food to residents in need to meet basic nutritional needs. New visitors complete an on-site application.",
+    "address": "15 Flanders Memorial Road, Weare, NH 03281",
+    "phone": "603-529-2572",
+    "url": "https://www.findhelp.org/town-of-weare-welfare-department--weare-nh--food-pantry/6641584866328576?postal=03281",
+    "categorySlug": "food",
+    "zipCode": "03281"
+  },
+  {
+    "name": "Waypoint Emergency Young Adult Shelter",
+    "description": "New Hampshire's first youth emergency shelter serving young adults ages 18–24 experiencing homelessness, with 14 low-barrier beds and access to case management and drop-in services.",
+    "address": "298 Hanover Street, Manchester, NH 03103",
+    "phone": "603-851-2424",
+    "url": "https://waypointnh.org/programs/emergency-homeless-shelter-for-young-adults/",
+    "categorySlug": "housing",
+    "zipCode": "03103"
+  },
+  {
+    "name": "Weare Food Pantry & Community Thrift Shoppe",
+    "description": "A faith-based nonprofit providing food and clothing to Weare-area residents experiencing financial hardship, addressing physical, emotional, and spiritual needs through programs and community collaboration.",
+    "address": "613 South Stark Highway, Weare, NH 03281",
+    "phone": "603-529-0320",
+    "url": "https://www.foodpantries.org/ci/nh-weare",
+    "categorySlug": "food",
+    "zipCode": "03281"
+  },
+  {
+    "name": "YMCA Downtown Manchester Food Pantry",
+    "description": "The Granite YMCA operates a community food pantry open every Thursday evening, providing food assistance to Manchester residents in need.",
+    "address": "30 Mechanic Street, Manchester, NH 03101",
+    "phone": "603-623-3558",
+    "url": "https://www.graniteymca.org/events/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "03101"
+  },
+  {
+    "name": "Bradford Community Food Pantry",
+    "description": "Community food pantry affiliated with Bradford Community Church, providing food assistance to residents of Bradford and surrounding Merrimack County towns on Monday, Wednesday, and Friday afternoons.",
+    "address": "88 West Main Street, Bradford, NH 03221",
+    "phone": "(603) 938-5313",
+    "url": "https://bradfordcommunitychurch.org/better-together/serve-together/",
+    "categorySlug": "food",
+    "zipCode": "03221"
+  },
+  {
+    "name": "Bread and Roses Kitchen – Hill Pantry",
+    "description": "Emergency food pantry in Hill, NH providing food distributions on Mondays and Thursdays to residents of Hill and surrounding communities in Merrimack County.",
+    "address": "91 New Chester Road, Hill, NH 03243",
+    "phone": "(603) 934-6086",
+    "url": "https://breadandroseskitchen.org/emergency-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "03243"
+  },
+  {
+    "name": "CAPBM Affordable Housing Program – Franklin",
+    "description": "Community Action Program offering affordable housing units and housing stability services in Franklin, helping low-income individuals and families secure and maintain stable housing.",
+    "address": "38 River Street, Franklin, NH 03235",
+    "phone": "(603) 934-5340",
+    "url": "https://capbm.org/Affordable-Housing-Program",
+    "categorySlug": "housing",
+    "zipCode": "03235"
+  },
+  {
+    "name": "CAPBM Mobile Food Assistance Program",
+    "description": "Mobile food delivery program from Community Action Program Belknap-Merrimack Counties providing hunger relief to homebound elderly and disabled individuals and rural households across Merrimack and Belknap Counties who cannot reach a food pantry.",
+    "address": "2 Industrial Park Drive, Building 2, Concord, NH 03301",
+    "phone": "(603) 228-6202",
+    "url": "https://capbm.org/Mobile-Food-Assistance",
+    "categorySlug": "food",
+    "zipCode": "03301"
+  },
+  {
+    "name": "CAPBM Warner Area Resource Center",
+    "description": "Community Action Program serving Bradford, Henniker, Hopkinton, Newbury, and surrounding towns with an on-site food pantry, energy assistance referrals, and connections to community resources.",
+    "address": "49 West Main Street, Warner, NH 03278",
+    "phone": "(603) 456-2207",
+    "url": "https://capbm.org/warner-area-resource-center",
+    "categorySlug": "community",
+    "zipCode": "03278"
+  },
+  {
+    "name": "Christ the King Food Pantry",
+    "description": "Parish-run food pantry providing free groceries to families and individuals in need in the greater Concord area. Open Monday through Thursday evenings.",
+    "address": "67 South State Street, Concord, NH 03301",
+    "phone": "603-224-2328",
+    "url": "https://christthekingfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "03301"
+  },
+  {
+    "name": "Concord Coalition to End Homelessness – Resource Center",
+    "description": "Resource center and emergency winter shelter in Concord helping individuals experiencing homelessness access showers, laundry, mail receipt, phone and internet, and caseworker assistance to connect with housing and social services.",
+    "address": "238 North Main Street, Concord, NH 03301",
+    "phone": "(603) 290-3375",
+    "url": "https://concordhomeless.org",
+    "categorySlug": "housing",
+    "zipCode": "03301"
+  },
+  {
+    "name": "Concord Coalition to End Homelessness Resource Center",
+    "description": "Drop-in resource center for people experiencing homelessness, connecting individuals with services and support. Open weekday mornings and select afternoons.",
+    "address": "238 N. Main Street, Concord, NH 03301",
+    "phone": "603-290-3375",
+    "url": "https://concordhomeless.org/resource-center/",
+    "categorySlug": "crisis",
+    "zipCode": "03301"
+  },
+  {
+    "name": "Family Promise of Greater Concord",
+    "description": "Emergency shelter program for families with children experiencing homelessness, using a rotating network of faith communities to provide shelter, meals, and intensive case management. Helps families stabilize and secure permanent housing.",
+    "address": "176 Loudon Rd, Suite 2, Concord, NH 03301",
+    "phone": "603-856-8490",
+    "url": "https://www.familypromisegcnh.org/emergency-shelter",
+    "categorySlug": "housing",
+    "zipCode": "03301"
+  },
+  {
+    "name": "Friends of Forgotten Children (FOFC) Food Pantry",
+    "description": "Volunteer-run nonprofit providing food, clothing, and support services to low-income and at-risk families and individuals in the greater Concord area since 1972.",
+    "address": "224 Bog Road, Concord, NH 03303",
+    "phone": "603-753-4801",
+    "url": "https://www.fofc-nh.org/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "03303"
+  },
+  {
+    "name": "Friends Program Emergency Housing",
+    "description": "The only permanent year-round family shelter in Merrimack County, providing 24/7 emergency shelter for families with children under 18. Services include case management, employment assistance, and help securing permanent housing.",
+    "address": "130 Pembroke Road, Suite 200, Concord, NH 03301",
+    "phone": "603-228-1462",
+    "url": "https://www.friendsprogram.org/emergency-housing",
+    "categorySlug": "housing",
+    "zipCode": "03301"
+  },
+  {
+    "name": "Henniker Food Pantry",
+    "description": "Community food pantry located at the Grange Building in Henniker, providing food assistance to residents on Monday mornings and Wednesday evenings.",
+    "address": "7 Western Avenue, Henniker, NH 03242",
+    "phone": "(603) 428-7474",
+    "url": "https://www.henniker.org/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "03242"
+  },
+  {
+    "name": "Hooksett Community Food Pantry",
+    "description": "Town-supported community food pantry located at Hooksett Town Offices serving Hooksett residents Monday through Thursday, accessible via a private entrance at the rear of the building.",
+    "address": "35 Main Street, Hooksett, NH 03106",
+    "phone": "(603) 485-7222",
+    "url": "https://k16021.site.kiwanis.org/community-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "03106"
+  },
+  {
+    "name": "Hopkinton Food Pantry",
+    "description": "Food pantry located at the Slusser Center serving Hopkinton and Contoocook residents every other Wednesday evening. Operated by Hopkinton Food Pantry & Charitable Services.",
+    "address": "41 Houston Drive, Contoocook, NH 03229",
+    "phone": "(603) 746-8244",
+    "url": "https://www.charitynavigator.org/ein/205068380",
+    "categorySlug": "food",
+    "zipCode": "03229"
+  },
+  {
+    "name": "Immaculate Conception Food Pantry",
+    "description": "Parish food pantry in Penacook providing free food to individuals and families in need. Open Tuesday through Saturday with multiple weekly distributions.",
+    "address": "9 Bonney Street, Penacook, NH 03303",
+    "phone": "603-753-4413",
+    "url": "https://icpenacook.org/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "03303"
+  },
+  {
+    "name": "Kearsarge Lake Sunapee (KLS) Community Food Pantry",
+    "description": "Regional food pantry serving low-income households across the Kearsarge and Lake Sunapee area, providing canned goods, fresh produce, meat, dairy, bread, and household products. Open Wednesday evenings and Saturday mornings.",
+    "address": "461 Main Street, New London, NH 03257",
+    "phone": "603-526-6511",
+    "url": "https://klsfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "03257"
+  },
+  {
+    "name": "Loudon Food Pantry",
+    "description": "Community food pantry serving Loudon, Belmont, Canterbury, and Chichester residents by appointment, offering food, cleaning supplies, and household items on a weekly basis.",
+    "address": "30 Chichester Road, Unit D, Loudon, NH 03307",
+    "phone": "(603) 724-9731",
+    "url": "https://loudonfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "03307"
+  },
+  {
+    "name": "Northfield-Tilton Congregational Church Food Pantry",
+    "description": "Community food pantry providing quality food items to households experiencing food insecurity in Tilton, Northfield, and surrounding towns. Open Tuesday mornings.",
+    "address": "283 Main Street, Tilton, NH 03276",
+    "phone": "603-800-1328",
+    "url": "https://nhfoodbank.org/locations/northfield-tilton-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "03276"
+  },
+  {
+    "name": "Pittsfield Community Food Pantry",
+    "description": "Local food pantry serving Pittsfield residents, open Monday and Thursday with multiple distribution windows. Located near Joy Church.",
+    "address": "55 Barnstead Road, Bay 6, Pittsfield, NH 03263",
+    "phone": "603-435-7300",
+    "url": "https://pittsfieldfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "03263"
+  },
+  {
+    "name": "Pittsfield Welfare Department",
+    "description": "Town welfare office providing emergency housing assistance, financial aid referrals, and connection to community resources for Pittsfield residents in need.",
+    "address": "85 Main Street, Pittsfield, NH 03263",
+    "phone": "603-435-6773",
+    "url": "https://www.pittsfieldnh.gov/welfare-department",
+    "categorySlug": "housing",
+    "zipCode": "03263"
+  },
+  {
+    "name": "Salvation Army Concord Corps Food Pantry",
+    "description": "Food pantry offering groceries to families and individuals in need, open by appointment on Wednesdays and Fridays. Part of the Salvation Army's broader hunger relief services.",
+    "address": "58 Clinton St., Concord, NH 03301",
+    "phone": "603-225-5586",
+    "url": "https://easternusa.salvationarmy.org/northern-new-england/concord/alleviate-hunger/",
+    "categorySlug": "food",
+    "zipCode": "03301"
+  },
+  {
+    "name": "Salvation Army McKenna House Shelter",
+    "description": "42-bed emergency shelter for single men and women experiencing homelessness, providing meals, toiletries, laundry, clothing, and case management services.",
+    "address": "100 S. Fruit Street, Concord, NH 03301",
+    "phone": "603-228-2505",
+    "url": "https://easternusa.salvationarmy.org/northern-new-england/concord/provide-shelter/",
+    "categorySlug": "housing",
+    "zipCode": "03301"
+  },
+  {
+    "name": "South Newbury Union Church – Friendship House Food Pantry",
+    "description": "A local food pantry at the Friendship House serving residents of Newbury and surrounding communities in Sullivan County. Offers food assistance to neighbors in need.",
+    "address": "162 Village Road, South Newbury, NH 03255",
+    "phone": "603-938-5369",
+    "url": "https://greatersullivanstrong.org/resources/food-access/",
+    "categorySlug": "food",
+    "zipCode": "03255"
+  },
+  {
+    "name": "South Newbury Union Church Food Pantry",
+    "description": "Church-based food pantry serving Newbury and surrounding communities by appointment, located at the corner of Village and Sutton Roads in South Newbury.",
+    "address": "162 Village Road, South Newbury, NH 03255",
+    "phone": "(603) 938-5369",
+    "url": "https://newhampshirefoodbanks.org/food-bank/south-newbury-union-church/",
+    "categorySlug": "food",
+    "zipCode": "03255"
+  },
+  {
+    "name": "St. Paul's Episcopal Church Food Pantry",
+    "description": "Free food pantry serving individuals and families facing food insecurity, with clients able to visit as frequently as every two weeks. Open multiple days per week.",
+    "address": "21 Centre St., Concord, NH 03301",
+    "phone": "603-224-2523",
+    "url": "https://www.stpaulsconcord.org/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "03301"
+  },
+  {
+    "name": "The Friendly Kitchen",
+    "description": "Community soup kitchen serving meals daily in a warm, non-discriminating environment. Serves over 45,000 meals annually to anyone in need.",
+    "address": "2 South Commercial St., Concord, NH 03301",
+    "phone": "603-224-7678",
+    "url": "https://www.thefriendlykitchen.org",
+    "categorySlug": "food",
+    "zipCode": "03301"
+  },
+  {
+    "name": "Twin Rivers Food Pantry",
+    "description": "Emergency food pantry serving Franklin and 15 surrounding communities, providing nonperishable food, fresh produce, farm-fresh milk, frozen meat, baked goods, and hygiene items three days per week.",
+    "address": "2 Central Street, Franklin, NH 03235",
+    "phone": "(603) 934-2662",
+    "url": "https://twinriversfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "03235"
+  },
+  {
+    "name": "WarnerConnects NH Food Pantry",
+    "description": "Nonprofit food pantry and community resource center in Warner offering emergency food assistance by appointment Monday through Friday, with a thrift boutique whose proceeds support pantry operations.",
+    "address": "49 West Main Street, Warner, NH 03278",
+    "phone": "(603) 456-2053",
+    "url": "https://www.warnerconnectsnh.org",
+    "categorySlug": "food",
+    "zipCode": "03278"
+  },
+  {
+    "name": "Bread of Life Food Pantry",
+    "description": "Ministry of Triumphant Cross Lutheran Church providing free groceries to approximately 50 local families each week. Open Monday mornings and Thursday evenings.",
+    "address": "171 Zion Hill Road, Salem, NH 03079",
+    "phone": "(603) 893-0305",
+    "url": "https://triumphantcross.org/bread-of-life-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "03079"
+  },
+  {
+    "name": "Candia Food Pantry (Candia Community Woman's Club)",
+    "description": "Community food pantry run by the Candia Community Woman's Club serving all Candia residents, stocked with nonperishable foods, toiletries, and household products. Open twice monthly.",
+    "address": "74 High Street, Candia, NH 03034",
+    "phone": "603-587-1166",
+    "url": "https://candiawomansgroup.org/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "03034"
+  },
+  {
+    "name": "CAPHR – Homelessness Prevention & Housing (Portsmouth)",
+    "description": "Community Action Partnership of Hillsborough and Rockingham Counties offering homelessness prevention, short-term rental assistance, and housing stabilization services to prevent eviction and secure stable housing.",
+    "address": "4 Cutts Street, Portsmouth, NH 03801",
+    "phone": "(603) 431-2911",
+    "url": "https://www.caphr.org/services/homelessness-prevention-housing",
+    "categorySlug": "housing",
+    "zipCode": "03801"
+  },
+  {
+    "name": "Center for Life Management – Supported Housing and Homeless Outreach",
+    "description": "Community mental health center offering supported housing, homeless outreach, transitional housing, and substance use services to Salem-area residents. Provides a continuum of housing stability support.",
+    "address": "103 Stiles Road, Salem, NH 03079",
+    "phone": "(603) 434-1577",
+    "url": "https://centerforlifemanagement.org/programs-services/",
+    "categorySlug": "housing",
+    "zipCode": "03079"
+  },
+  {
+    "name": "Chester Congregational Baptist Church Food Pantry",
+    "description": "Community food pantry serving Chester and Auburn residents, providing supplemental groceries on a monthly basis. Distribution is held on the 4th Saturday of each month; ID required.",
+    "address": "4 Chester Street, Chester, NH 03036",
+    "phone": "(603) 887-4626",
+    "url": "https://chesternhchurch.org/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "03036"
+  },
+  {
+    "name": "Community Congregational Church Food Pantry (Greenland)",
+    "description": "Provides two bags of food per individual or family each week to anyone in need. Open Wednesdays and Saturdays from the Community Parish Hall in Greenland, also available by appointment.",
+    "address": "44 Post Road, Greenland, NH 03840",
+    "phone": "(603) 436-8336",
+    "url": "https://www.greenlanducc.org",
+    "categorySlug": "food",
+    "zipCode": "03840"
+  },
+  {
+    "name": "Cross Roads House",
+    "description": "Emergency and transitional shelter providing 24/7 secure shelter and supportive services to unhoused individuals and families from Rockingham and Strafford Counties. Residents receive case management, medical care, and post-shelter housing support.",
+    "address": "600 Lafayette Road, Portsmouth, NH 03801",
+    "phone": "(603) 436-2218",
+    "url": "https://www.crossroadshouse.org/",
+    "categorySlug": "housing",
+    "zipCode": "03801"
+  },
+  {
+    "name": "Epping Bible Baptist Church Food Pantry",
+    "description": "Food pantry operating twice monthly serving residents of Epping and surrounding communities with non-perishable groceries and staples.",
+    "address": "243 Route 27, Epping, NH 03042",
+    "phone": "(603) 778-3748",
+    "url": "https://www.eppingbiblechurch.org/",
+    "categorySlug": "food",
+    "zipCode": "03042"
+  },
+  {
+    "name": "Epping Community Church Food Pantry",
+    "description": "Free community food pantry in Epping open Saturday mornings, providing groceries with no ID or income verification required. Serves residents of Epping and surrounding towns.",
+    "address": "4 Pleasant Street, Epping, NH 03042",
+    "phone": "(603) 679-5542",
+    "url": "https://www.foodpantries.org/li/epping_community_church_03042",
+    "categorySlug": "food",
+    "zipCode": "03042"
+  },
+  {
+    "name": "Exeter Housing Authority",
+    "description": "Public housing agency providing safe, decent, and affordable housing to income-eligible households in Exeter and surrounding towns, including public housing units and housing assistance programs.",
+    "address": "277 Water Street, Exeter, NH 03833",
+    "phone": "(603) 778-8110",
+    "url": "https://www.exeternh.gov/eha",
+    "categorySlug": "housing",
+    "zipCode": "03833"
+  },
+  {
+    "name": "FBC Community Food Pantry",
+    "description": "Walk-in food pantry operated by First Baptist Church in downtown Derry, providing non-perishable goods and fresh items to individuals and families in need. Open Tuesdays and Thursdays.",
+    "address": "4 Crystal Avenue, Derry, NH 03038",
+    "phone": "(603) 421-1897",
+    "url": "https://fbcfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "03038"
+  },
+  {
+    "name": "Fremont Food Pantry",
+    "description": "Free, confidential food pantry serving Fremont residents, partnering with the NH Food Bank to provide non-perishable groceries twice monthly. Proof of residency and photo ID required.",
+    "address": "295 Main Street, Fremont, NH 03044",
+    "phone": "(603) 244-1404",
+    "url": "https://www.fremont.nh.gov/social-services/pages/fremont-food-pantry",
+    "categorySlug": "food",
+    "zipCode": "03044"
+  },
+  {
+    "name": "Gather (Seacoast Family Food Pantry)",
+    "description": "Free, full-service pantry market open to all Seacoast area residents experiencing hunger. Offers a supermarket-style shopping experience, mobile markets throughout the region, and a Fresh Foods Bus providing produce, dairy, and dry goods to underserved communities.",
+    "address": "210 West Road, Unit 3, Portsmouth, NH 03801",
+    "phone": "(603) 436-0641",
+    "url": "https://www.gathernh.org",
+    "categorySlug": "food",
+    "zipCode": "03801"
+  },
+  {
+    "name": "Gather Food Pantry Market",
+    "description": "Full-service food pantry market in Portsmouth operating as a shopping-style pantry, distributing nourishing food and working toward an equitable regional food system. Open Monday through Friday.",
+    "address": "124 Heritage Avenue, Portsmouth, NH 03801",
+    "phone": "(603) 436-0641",
+    "url": "https://www.gathernh.org/pantry-market",
+    "categorySlug": "food",
+    "zipCode": "03801"
+  },
+  {
+    "name": "Greater Raymond Community Action Center Food Pantry",
+    "description": "Food pantry operated by Rockingham Community Action offering non-perishables, frozen meats, dairy, and perishables to households facing severe economic hardship. Also provides energy assistance and homelessness prevention services.",
+    "address": "55 Prescott Road, Raymond, NH 03077",
+    "phone": "(603) 895-2303",
+    "url": "https://newhampshirefoodbanks.org/food-bank/greater-raymond-community-action-center-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "03077"
+  },
+  {
+    "name": "Greater Salem Community Action Center Food Pantry",
+    "description": "Emergency food pantry operated by Rockingham Community Action serving households in severe economic hardship with non-perishables, frozen meats, and dairy. Open Monday through Friday with emergency Friday appointments.",
+    "address": "85 Stiles Road, Suite 103, Salem, NH 03079",
+    "phone": "(603) 893-9172",
+    "url": "https://www.caphr.org/services/food-pantries",
+    "categorySlug": "food",
+    "zipCode": "03079"
+  },
+  {
+    "name": "Greater Seacoast Salvation Army",
+    "description": "Provides food pantry, emergency food baskets, and social service assistance to residents of Rockingham County. Services include emergency financial assistance for rent, mortgage, and utilities, available by appointment.",
+    "address": "324 Lafayette Road, Suite 3, Hampton, NH 03842",
+    "phone": "(603) 929-1729",
+    "url": "https://easternusa.salvationarmy.org/northern-new-england/greater-seacoast/",
+    "categorySlug": "food",
+    "zipCode": "03842"
+  },
+  {
+    "name": "Hampton Welfare Office",
+    "description": "Municipal welfare office providing general assistance to eligible residents including help with food, shelter, and access to medical care. Operates Monday through Wednesday 8am–3:30pm and Thursday 8am–1pm.",
+    "address": "100 Winnacunnet Road, Hampton, NH 03842",
+    "phone": "(603) 926-5948",
+    "url": "https://www.hamptonnh.gov/299/Welfare",
+    "categorySlug": "community",
+    "zipCode": "03842"
+  },
+  {
+    "name": "Hobbs House Help Center – Trinity Episcopal Church",
+    "description": "Community help center and food pantry operated through Trinity Episcopal Church, offering food assistance on the first and third Saturdays of each month plus Tuesday walk-ins during school year. Also provides transportation assistance and school supply distribution.",
+    "address": "200 High Street, Hampton, NH 03842",
+    "phone": "(603) 926-4936",
+    "url": "https://trinityhampton.org/hobbs-house/",
+    "categorySlug": "food",
+    "zipCode": "03842"
+  },
+  {
+    "name": "Isaiah 58 NH",
+    "description": "Nonprofit organization dedicated to helping individuals experiencing homelessness or housing insecurity, providing essential services including food, clothing, and crisis support. Open Wednesday mornings.",
+    "address": "68 North Broadway, Salem, NH 03079",
+    "phone": "(603) 234-1982",
+    "url": "https://www.isaiah58nh.com",
+    "categorySlug": "crisis",
+    "zipCode": "03079"
+  },
+  {
+    "name": "Joseph's Storehouse Community Pantry",
+    "description": "Community food pantry serving Epping residents, providing supplemental groceries and food assistance to families experiencing hardship.",
+    "address": "157 Main Street, Epping, NH 03042",
+    "phone": "(603) 679-5441",
+    "url": "https://nhfoodbank.org/locations/josephs-storehouse-fp/",
+    "categorySlug": "food",
+    "zipCode": "03042"
+  },
+  {
+    "name": "Kingston Food Pantry",
+    "description": "Municipal food pantry serving Kingston and surrounding area residents including East Kingston. Provides food to Kingston residents with delivery available for those unable to travel. Operated out of Kingston Town Hall.",
+    "address": "163 Main Street, Kingston, NH 03848",
+    "phone": "(603) 642-9971",
+    "url": "https://www.kingstonnh.gov/human-services",
+    "categorySlug": "food",
+    "zipCode": "03848"
+  },
+  {
+    "name": "Londonderry United Methodist Church Food Pantry",
+    "description": "Church-run food pantry providing supplemental groceries to Londonderry-area residents as part of a regional food security ministry. Open Tuesday mornings.",
+    "address": "258 Mammoth Road, Londonderry, NH 03053",
+    "phone": "(603) 432-7083",
+    "url": "https://nhfoodbank.org/locations/londonderry-united-methodist-church-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "03053"
+  },
+  {
+    "name": "Newfields Community Church Food Pantry",
+    "description": "Community church food pantry serving Newfields and surrounding area residents. Provides food assistance by appointment.",
+    "address": "71 Main Street, Newfields, NH 03856",
+    "phone": "(603) 778-8626",
+    "url": "https://www.newfieldscommunitychurch.org",
+    "categorySlug": "food",
+    "zipCode": "03856"
+  },
+  {
+    "name": "Newton Food Pantry",
+    "description": "Community food pantry serving Newton, NH residents since 1983. Provides food assistance by appointment Monday through Friday. One of the oldest food assistance programs in the Newton area.",
+    "address": "108 S Main Street, Newton, NH 03858",
+    "phone": "(603) 382-0398",
+    "url": "https://newtonfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "03858"
+  },
+  {
+    "name": "North Hampton United Church of Christ – Community Cupboard",
+    "description": "Food pantry called 'Ur Community Cupboard' operated by North Hampton UCC, open to all community members. Provides food assistance to residents of North Hampton and surrounding areas.",
+    "address": "295 Atlantic Avenue, North Hampton, NH 03862",
+    "phone": "(603) 964-8687",
+    "url": "https://www.uccnorthhampton.org/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "03862"
+  },
+  {
+    "name": "Northwood Emergency Food Pantry",
+    "description": "Community food pantry operating out of Saint Joseph's Church Parish Hall in Northwood, offering supplemental groceries three times monthly to area residents. Run entirely by volunteers.",
+    "address": "844 First NH Turnpike (Route 4), Northwood, NH 03261",
+    "phone": "(603) 664-6937",
+    "url": "https://www.northwoodnh.org/news-item/The-Northwood-Emergency-Food-Pantry-856",
+    "categorySlug": "food",
+    "zipCode": "03261"
+  },
+  {
+    "name": "Nottingham Food Pantry",
+    "description": "Volunteer-run food pantry serving Nottingham residents in need of supplemental food, distributing groceries on the third Thursday of each month. New clients served by appointment.",
+    "address": "139 Stage Road, Nottingham, NH 03290",
+    "phone": "(603) 679-5209",
+    "url": "https://nhfoodbank.org/locations/nottingham-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "03290"
+  },
+  {
+    "name": "Operation Blessing of New Hampshire",
+    "description": "Nonprofit providing a shopping-style food pantry, clothing and household essentials, warm showers, and emergency assistance to families in the seacoast region. Open by appointment Wednesday through Saturday.",
+    "address": "600A Lafayette Road, Portsmouth, NH 03801",
+    "phone": "(603) 430-8561",
+    "url": "https://operationblessingnh.org/",
+    "categorySlug": "food",
+    "zipCode": "03801"
+  },
+  {
+    "name": "Pilgrim UCC Food Pantry",
+    "description": "Food pantry operated by Pilgrim United Church of Christ in Brentwood, serving residents of the Brentwood-Kingston area by appointment. Provides food assistance to those in need.",
+    "address": "197 Middle Road, Brentwood, NH 03833",
+    "phone": "(603) 778-3189",
+    "url": "https://pilgrimucc-nh.org",
+    "categorySlug": "food",
+    "zipCode": "03833"
+  },
+  {
+    "name": "Saint Luke the Evangelist Parish Food Pantry",
+    "description": "Catholic parish food pantry in Plaistow providing food assistance to community members in need. Serves residents of Plaistow and surrounding areas.",
+    "address": "8 Atkinson Depot Road, Plaistow, NH 03865",
+    "phone": "(603) 819-4949",
+    "url": "https://www.foodpantries.org/ci/nh-plaistow",
+    "categorySlug": "food",
+    "zipCode": "03865"
+  },
+  {
+    "name": "Saint Vincent de Paul Hampton Food Pantry",
+    "description": "Volunteer-run nonprofit providing free food every two weeks to residents of Hampton, Hampton Falls, North Hampton, Seabrook, and Rye. Offers a food pantry and community kitchen serving the greater Hampton seacoast area.",
+    "address": "289 Lafayette Road, Hampton, NH 03842",
+    "phone": "(603) 929-4427",
+    "url": "https://svdphampton.com",
+    "categorySlug": "food",
+    "zipCode": "03842"
+  },
+  {
+    "name": "Sandown Food Pantry",
+    "description": "A town-operated food pantry run through the Sandown Department of Human Services, providing food to residents in need. No appointment necessary; open Tuesday afternoons and Friday mornings.",
+    "address": "1 Hampstead Road, Sandown, NH 03873",
+    "phone": "(603) 887-3453",
+    "url": "https://www.sandown.us/community-assistance/pages/food-assistance",
+    "categorySlug": "food",
+    "zipCode": "03873"
+  },
+  {
+    "name": "Seabrook Church of Christ Food Pantry",
+    "description": "Church-based food pantry providing food assistance to Seabrook and surrounding community members every Wednesday morning.",
+    "address": "867 Lafayette Road, Seabrook, NH 03874",
+    "phone": "(603) 474-2660",
+    "url": "https://seabrookcoc.com",
+    "categorySlug": "food",
+    "zipCode": "03874"
+  },
+  {
+    "name": "Seacoast Family Promise",
+    "description": "Provides temporary housing, food, and shelter to families with children experiencing homelessness in Rockingham County. Uses a community-based model with case management, trauma-informed care, and employment and financial education to guide families back to stable housing.",
+    "address": "27 Hampton Road, Exeter, NH 03833",
+    "phone": "(603) 658-8448",
+    "url": "https://seacoastfamilypromise.org",
+    "categorySlug": "housing",
+    "zipCode": "03833"
+  },
+  {
+    "name": "Shepherd's Pantry",
+    "description": "Volunteer-run food pantry at Windham Presbyterian Church serving approximately 100 New Hampshire families per week with groceries, meat, bread, eggs, and seasonal vegetables. Open Monday mornings.",
+    "address": "1 Church Road, Windham, NH 03087",
+    "phone": "(603) 432-2150",
+    "url": "https://shepherdspantry.net/",
+    "categorySlug": "food",
+    "zipCode": "03087"
+  },
+  {
+    "name": "Society of St. Vincent de Paul Exeter (SVdP)",
+    "description": "Provides emergency food to low-income individuals and families who are residents of Exeter, Stratham, Newfields, Brentwood, Kensington, and East Kingston. Clients may visit the food pantry weekly to select perishables, non-perishables, and personal hygiene items.",
+    "address": "53 Lincoln Street, Exeter, NH 03833",
+    "phone": "(603) 772-9922",
+    "url": "https://svdpexeter.com",
+    "categorySlug": "food",
+    "zipCode": "03833"
+  },
+  {
+    "name": "Sonshine Soup Kitchen",
+    "description": "Nonprofit soup kitchen in Derry serving free hot meals Monday through Thursday to community members in need. Provides a welcoming, dignified dining experience.",
+    "address": "6 Crystal Avenue, Derry, NH 03038",
+    "phone": "(603) 437-2833",
+    "url": "https://greaterderryfood.org/prepared-meals",
+    "categorySlug": "food",
+    "zipCode": "03038"
+  },
+  {
+    "name": "St. Anne Ecumenical Food Pantry",
+    "description": "Ecumenical food pantry serving residents of Atkinson, Danville, Hampstead, and Sandown, providing basic grocery supplies to people of all faiths. Open Thursdays and Saturdays.",
+    "address": "26 Emerson Avenue, Hampstead, NH 03841",
+    "phone": "(603) 329-5886",
+    "url": "https://www.sapcharitableoutreach.com/charitable-programs/saint-anne-parish-food-pantry-in-southern-nh",
+    "categorySlug": "food",
+    "zipCode": "03841"
+  },
+  {
+    "name": "SVdP Exeter Food Pantry",
+    "description": "Society of St. Vincent de Paul serving Exeter, Stratham, Brentwood, Kensington, East Kingston, and Newfields residents with a choice food pantry offering perishables, produce, meat, and non-perishables. Multiple weekly sessions including evenings.",
+    "address": "53 Lincoln Street, Exeter, NH 03833",
+    "phone": "(603) 772-9922",
+    "url": "https://svdpexeter.com/our-services",
+    "categorySlug": "food",
+    "zipCode": "03833"
+  },
+  {
+    "name": "The Upper Room Food Pantry",
+    "description": "A community food pantry in Derry serving Pelham residents on Mondays. Photo identification and proof of residency are required; open every Monday unless a school snow day or holiday.",
+    "address": "36 Tsienneto Road, Derry, NH 03038",
+    "phone": "603-437-8477",
+    "url": "https://www.urteachers.org/our-services",
+    "categorySlug": "food",
+    "zipCode": "03038"
+  },
+  {
+    "name": "Tower Hill Church Food Ministry",
+    "description": "Church-run food ministry providing free groceries to Auburn area residents on Saturday mornings, open to anyone in need.",
+    "address": "45 Myles Drive, Auburn, NH 03032",
+    "phone": "603-483-2272",
+    "url": "https://nhfoodbank.org/locations/tower-hill-church-food-ministry/",
+    "categorySlug": "food",
+    "zipCode": "03032"
+  },
+  {
+    "name": "United Methodist Church Food Pantry (Hampton)",
+    "description": "Food pantry operated by Hampton United Methodist Church providing food assistance to community members in need, open Wednesday mornings.",
+    "address": "525 Lafayette Road, Hampton, NH 03842",
+    "phone": "(603) 926-2702",
+    "url": "https://www.hamptonnhumc.org",
+    "categorySlug": "food",
+    "zipCode": "03842"
+  },
+  {
+    "name": "We Care Charity Food Pantry",
+    "description": "Volunteer-run food pantry in Salem offering free groceries to individuals and families in need, open Tuesday mornings and Saturday mornings. Serves residents of Salem and surrounding communities.",
+    "address": "224 North Broadway, Unit 14D10, Salem, NH 03079",
+    "phone": "(603) 560-1471",
+    "url": "https://www.wecarecharity.org/projects",
+    "categorySlug": "food",
+    "zipCode": "03079"
+  },
+  {
+    "name": "Barrington Community Food Pantry",
+    "description": "A community food pantry located at the Barrington Public Library distributing food and personal care products to Barrington residents. Open Thursday evenings; provides holiday food baskets at Thanksgiving and Christmas.",
+    "address": "105C Ramsdell Lane, Barrington, NH 03825",
+    "phone": "(603) 664-0233",
+    "url": "http://www.barringtonfoodpantry.org/",
+    "categorySlug": "food",
+    "zipCode": "03825"
+  },
+  {
+    "name": "CAPSC Homeless Services – Housing Opportunity Center",
+    "description": "Strafford County community action program providing homeless prevention, eviction prevention assistance, housing search help, and a Housing Opportunity Center offering essential supplies and services to those living outdoors. Open Monday–Friday.",
+    "address": "577 Central Avenue, Suite 10, Dover, NH 03820",
+    "phone": "(603) 435-2500",
+    "url": "https://straffordcap.org/homeless-services/",
+    "categorySlug": "housing",
+    "zipCode": "03820"
+  },
+  {
+    "name": "CAPSC Housing Opportunity Center",
+    "description": "Community Action Partnership of Strafford County provides housing navigation, homeless prevention services, emergency rental assistance, and outreach to individuals experiencing housing instability or homelessness throughout Strafford County.",
+    "address": "577 Central Avenue, Suite 10, Dover, NH 03820",
+    "phone": "(603) 403-2032",
+    "url": "https://straffordcap.org/housing/",
+    "categorySlug": "housing",
+    "zipCode": "03820"
+  },
+  {
+    "name": "CAPSC Rochester Food Pantry",
+    "description": "Strafford County community action food pantry at Cold Springs Manor offering short-term food supplies to eligible low-income households. Open Tuesdays; call for current hours.",
+    "address": "10 Cold Springs Manor, Rochester, NH 03867",
+    "phone": "(603) 435-2500",
+    "url": "https://straffordcap.org/food-pantries/",
+    "categorySlug": "food",
+    "zipCode": "03867"
+  },
+  {
+    "name": "Community Action Partnership of Strafford County (CAPSC)",
+    "description": "Strafford County's primary community action agency, providing food pantry, energy assistance, homelessness prevention, housing, and case management services from offices in Dover, Rochester, Farmington, and Somersworth. Call or visit Monday–Friday 8:30am–4:30pm.",
+    "address": "577 Central Avenue, Suite 10, Dover, NH 03820",
+    "phone": "(603) 435-2500",
+    "url": "https://straffordcap.org/",
+    "categorySlug": "community",
+    "zipCode": "03820"
+  },
+  {
+    "name": "Community Food Pantry – Somersworth",
+    "description": "Nonprofit food pantry serving Somersworth, Rollinsford, and Berwick ME residents with food to meet basic nutritional needs. Open Monday mornings, Wednesday evenings, and Thursday afternoons; requires photo ID and proof of residency.",
+    "address": "176 West High Street, Somersworth, NH 03878",
+    "phone": "(603) 692-2907",
+    "url": "https://newhampshirefoodbanks.org/food-bank/community-food-pantry-somersworth/",
+    "categorySlug": "food",
+    "zipCode": "03878"
+  },
+  {
+    "name": "Dover Food Pantry",
+    "description": "A cooperative ministry food pantry serving Dover residents, located in a building adjacent to First Parish Church. Open Tuesday afternoons and Thursday mornings; requires proof of Dover residency.",
+    "address": "218 Central Avenue, Dover, NH 03820",
+    "phone": "(603) 742-5664",
+    "url": "https://dovercooperativeministries.org/",
+    "categorySlug": "food",
+    "zipCode": "03820"
+  },
+  {
+    "name": "Grace Community Church Food Pantry",
+    "description": "Volunteer-run emergency food pantry serving Rochester and Strafford County residents, open the last Saturday of each month from 3:30–5pm. No appointment necessary.",
+    "address": "57 Wakefield Street, Rochester, NH 03867",
+    "phone": "(603) 332-9689",
+    "url": "https://graceplace.com/outreach/",
+    "categorySlug": "food",
+    "zipCode": "03867"
+  },
+  {
+    "name": "Greater Wakefield Resource Center",
+    "description": "A multi-generational community resource center offering senior congregate meals three times a week and connections to social services for Union and surrounding communities.",
+    "address": "254 Main Street, Union, NH 03887",
+    "phone": "(603) 473-8324",
+    "url": "https://greaterwakefieldresourcecenter.net/",
+    "categorySlug": "community",
+    "zipCode": "03887"
+  },
+  {
+    "name": "HAVEN – Rochester Office",
+    "description": "Provides safe shelter, advocacy, and support services for survivors of domestic violence and sexual assault in Rockingham and Strafford counties. 24-hour crisis hotline available.",
+    "address": "150 Wakefield Street, Suite 16, Rochester, NH 03867",
+    "phone": "(603) 994-7233",
+    "url": "https://havennh.org/our-services/safe-shelter",
+    "categorySlug": "crisis",
+    "zipCode": "03867"
+  },
+  {
+    "name": "Homeless Center for Strafford County – Home for Now",
+    "description": "Year-round emergency and transitional shelter providing case management, educational programs, nutrition, parenting support, and employment assistance to individuals and families experiencing homelessness. Serves Strafford and Rockingham counties.",
+    "address": "202 Washington Street, Rochester, NH 03867",
+    "phone": "(603) 332-3065",
+    "url": "https://straffordcap.org/home-for-now/",
+    "categorySlug": "housing",
+    "zipCode": "03867"
+  },
+  {
+    "name": "Homeless Center for Strafford County (HCSC)",
+    "description": "A dry emergency shelter providing temporary housing, case management, educational programs, and support services to individuals and families experiencing homelessness in Strafford County, with the goal of leading clients to self-sufficiency and permanent housing.",
+    "address": "202 Washington Street, Rochester, NH 03867",
+    "phone": "(603) 332-3065",
+    "url": "https://hcscnh.org/",
+    "categorySlug": "housing",
+    "zipCode": "03867"
+  },
+  {
+    "name": "Interfaith Food Pantry – Farmington",
+    "description": "A cooperative interfaith food pantry serving Farmington-area residents through a partnership of local churches. Distributes food on the last Saturday of each month from 9:30–10:30am (except August).",
+    "address": "400 Main Street, Farmington, NH 03835",
+    "phone": "(603) 755-4816",
+    "url": "https://www.foodpantries.org/li/interfaith_food_pantry_03835",
+    "categorySlug": "food",
+    "zipCode": "03835"
+  },
+  {
+    "name": "My Friend's Place",
+    "description": "Emergency homeless shelter providing free shelter, case management, daily life skills support, peer support, and referrals to counseling for single men, women, and families. Serves Rockingham and Strafford County residents.",
+    "address": "368 Washington Street, Dover, NH 03820",
+    "phone": "(603) 749-3017",
+    "url": "https://myfriendsplacenh.org/",
+    "categorySlug": "housing",
+    "zipCode": "03820"
+  },
+  {
+    "name": "New Durham Food Pantry",
+    "description": "A community food pantry serving New Durham residents, open Saturday mornings from 9–10am at the town hall. Proof of residency is required.",
+    "address": "5 Main Street, New Durham, NH 03855",
+    "phone": "(603) 817-0372",
+    "url": "https://nhfoodbank.org/locations/new-durham-food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "03855"
+  },
+  {
+    "name": "Our Daily Bread Food Pantry – Parish of the Assumption",
+    "description": "Church-based food pantry distributing donated food three days a week from the St. Joseph Church campus in Dover. Serves Dover residents; entrance at the back of St. Joseph Church.",
+    "address": "180 Locust Street, Dover, NH 03820",
+    "phone": "(603) 742-3066",
+    "url": "https://poadovernh.org/food-pantry",
+    "categorySlug": "food",
+    "zipCode": "03820"
+  },
+  {
+    "name": "SCCAC Farmington Outreach Food Pantry",
+    "description": "Outreach food pantry serving Farmington residents with food and basic necessities, operated Monday through Friday from 7:30am to 1:30pm.",
+    "address": "527 Main Street, Farmington, NH 03835",
+    "phone": "(603) 755-9305",
+    "url": "https://www.foodpantries.org/li/sccac_farmington_outreach_food_pantry_03835",
+    "categorySlug": "food",
+    "zipCode": "03835"
+  },
+  {
+    "name": "Seeds of Faith Food Pantry",
+    "description": "Community food pantry in Rollinsford providing monthly and emergency food boxes, birthday bags, and seasonal baskets. No ID or proof of residence required; walk-ins welcome Monday mornings and select Thursday evenings.",
+    "address": "1 Front Street, Suite 160, Rollinsford, NH 03869",
+    "phone": "(207) 703-3185",
+    "url": "https://lydiashousenh.org/food-pantry/",
+    "categorySlug": "food",
+    "zipCode": "03869"
+  },
+  {
+    "name": "SHARE Fund – Gerry's Emergency Food Pantry",
+    "description": "Nonprofit offering an emergency food pantry (nonperishables, frozen meats, eggs, dairy, diapers), emergency financial assistance for housing and utilities, and a community thrift store. Serves Rochester, East Rochester, Gonic, and Farmington residents.",
+    "address": "150 Wakefield Street, Rochester, NH 03867",
+    "phone": "(603) 335-0011",
+    "url": "https://www.sharefund.org/",
+    "categorySlug": "food",
+    "zipCode": "03867"
+  },
+  {
+    "name": "The Salvation Army – Rochester Corps",
+    "description": "Full-service Salvation Army corps providing a food pantry, hot meals (noon Monday/Wednesday/Friday), emergency financial assistance for utilities and housing, and other social services. Open Monday, Wednesday, and Friday.",
+    "address": "10 Olde Farm Lane, Rochester, NH 03867",
+    "phone": "(603) 332-2623",
+    "url": "https://easternusa.salvationarmy.org/northern-new-england/rochester/",
+    "categorySlug": "food",
+    "zipCode": "03867"
+  },
+  {
+    "name": "We Care Food Pantry",
+    "description": "A food pantry hosted at Restoration Church in Milton, open Fridays from 9:30am to 6:30pm providing food to individuals and families in need. No appointment necessary.",
+    "address": "370 White Mountain Highway, Milton, NH 03851",
+    "phone": "(603) 923-9456",
+    "url": "https://wecarefoodpantry.us/",
+    "categorySlug": "food",
+    "zipCode": "03839"
+  },
+  {
+    "name": "Wilkinson Food Pantry",
+    "description": "A local food pantry serving residents of Lee and surrounding areas with free food distribution. Open the 1st and 3rd Monday of each month from 5:30pm–7:00pm.",
+    "address": "17 Mast Road, Lee, NH 03861",
+    "phone": "(603) 659-2861",
+    "url": "https://nhfoodbank.org/find-food/food-map/",
+    "categorySlug": "food",
+    "zipCode": "03884"
+  },
+  {
+    "name": "Baby Steps Family Assistance",
+    "description": "A nonprofit providing food, clothing, cleaning supplies, and other household necessities to families and seniors in Claremont and Sullivan County. Also hosts WIC, a teen shelter, drop-in daycare, and family support services on-site.",
+    "address": "169 Main Street, Suite 217, Claremont, NH 03743",
+    "phone": "(603) 372-6134",
+    "url": "https://babystepsfam.org/",
+    "categorySlug": "community",
+    "zipCode": "03743"
+  },
+  {
+    "name": "Center for Safer Communities",
+    "description": "Provides free 24-hour crisis intervention, emergency shelter at a confidential location, and advocacy services for survivors of domestic violence, sexual assault, sex trafficking, and stalking throughout Sullivan County.",
+    "address": "Sullivan County, NH (confidential location)",
+    "phone": "1-800-639-3130",
+    "url": "https://cscnh.org/emergency-shelter/",
+    "categorySlug": "crisis",
+    "zipCode": "03781"
+  },
+  {
+    "name": "City of Claremont Food Pantry",
+    "description": "A municipal food pantry operated by the City of Claremont providing food assistance to residents in need by appointment. Open Monday through Friday; call to schedule an appointment.",
+    "address": "58 Opera House Square, Claremont, NH 03743",
+    "phone": "(603) 542-7007",
+    "url": "https://www.claremontnh.com/public-welfare",
+    "categorySlug": "food",
+    "zipCode": "03743"
+  },
+  {
+    "name": "Claremont Housing Authority",
+    "description": "Public housing agency administering low-rent public housing apartments and Housing Choice Voucher (Section 8) rental assistance for low-income individuals and families in Claremont and the greater Sullivan County area.",
+    "address": "243 Broad Street, Claremont, NH 03743",
+    "phone": "(603) 542-6411",
+    "url": "http://www.claremontha.org/",
+    "categorySlug": "housing",
+    "zipCode": "03743"
+  },
+  {
+    "name": "Claremont Soup Kitchen",
+    "description": "A nonprofit providing free meals (breakfast and lunch weekdays, dinner daily) and a monthly food box pantry to Sullivan County residents. Open pantry items including bread, produce, and eggs are available to any community member with no check-in required. Pantry open Monday–Friday 9:00am–1:00pm.",
+    "address": "53 Central Street, Claremont, NH 03743",
+    "phone": "(603) 543-3290",
+    "url": "https://claremontsoupkitchen.wordpress.com/",
+    "categorySlug": "food",
+    "zipCode": "03743"
+  },
+  {
+    "name": "Community Resource Room & Food Pantry – Christ Community Church",
+    "description": "A community food pantry serving residents of Plainfield, Meriden, and Cornish three times per month at Christ Community Church. Open the 1st Thursday and 3rd Friday and Saturday of each month from 9:00am–10:30am.",
+    "address": "1259 Route 12A, Plainfield, NH 03781",
+    "phone": "(603) 469-3201",
+    "url": "https://www.plainfieldnh.org/pview.aspx?id=55873&catid=890",
+    "categorySlug": "food",
+    "zipCode": "03781"
+  },
+  {
+    "name": "Greater Sullivan Strong – Housing Resources",
+    "description": "A regional resource hub connecting Sullivan County residents to housing assistance, food access, and social services, including guidance on town welfare offices and community action programs.",
+    "address": "Sullivan County, NH",
+    "phone": "",
+    "url": "https://greatersullivanstrong.org/resources/housing/",
+    "categorySlug": "community",
+    "zipCode": "03782"
+  },
+  {
+    "name": "Lake Sunapee United Methodist Church – Food Pantry",
+    "description": "A local church in Sunapee that operates a food pantry stocked with non-perishable goods and grocery cards for supplementing fresh food items, available to community members in need.",
+    "address": "9 Lower Main Street, Sunapee, NH 03782",
+    "phone": "603-763-4301",
+    "url": "https://www.lakesunapeeumc.org/",
+    "categorySlug": "food",
+    "zipCode": "03782"
+  },
+  {
+    "name": "Newport Area Association of Churches Food Pantry",
+    "description": "A faith-based food pantry serving 12 Sullivan County communities including Newport, Washington, Springfield, Lempster, Marlow, Goshen, Acworth, Croydon, Grantham, Newbury, Sunapee, and Unity. Open Monday, Wednesday, and Thursday 9:00am–11:00am; other times by appointment.",
+    "address": "95 South Main Street, Newport, NH 03773",
+    "phone": "(603) 863-3411",
+    "url": "https://newportaac.org/",
+    "categorySlug": "food",
+    "zipCode": "03773"
+  },
+  {
+    "name": "NH Legal Aid",
+    "description": "Provides free civil legal information, referrals, and pro se assistance to low-income New Hampshire residents, including help with housing, tenant rights, and other legal issues.",
+    "address": "New Hampshire (statewide, serving Sullivan County)",
+    "phone": "1-800-639-5290",
+    "url": "https://nhlegalaid.org/",
+    "categorySlug": "legal",
+    "zipCode": "03781"
+  },
+  {
+    "name": "Southwestern Community Services (SCS) – Housing Stabilization",
+    "description": "Provides rental assistance, case management, and housing stabilization services to individuals and families experiencing homelessness or at risk of losing housing in Sullivan County, including rapid re-housing for Newport residents.",
+    "address": "96-102 Main Street, Claremont, NH 03743",
+    "phone": "(603) 542-9528",
+    "url": "https://www.scshelps.org/housing-stabilization-services/",
+    "categorySlug": "housing",
+    "zipCode": "03743"
+  },
+  {
+    "name": "Stepping Stone & Next Step Peer Support Center",
+    "description": "A peer-run mental health respite and warmline center offering free peer-to-peer support for individuals on their path to wellness. Open Tuesday–Saturday afternoons/evenings; also operates a 24/7 warmline.",
+    "address": "108 Pleasant Street, Claremont, NH 03743",
+    "phone": "(603) 543-1388",
+    "url": "https://www.steppingstonenextstep.org/",
+    "categorySlug": "crisis",
+    "zipCode": "03743"
+  },
+  {
+    "name": "Town of Sunapee Food Pantry",
+    "description": "Provides non-perishable food items year-round to any resident in need, with bags available for pickup 24/7 in the foyer of the Sunapee Town Office. No income verification required.",
+    "address": "23 Edgemont Road, Sunapee, NH 03782",
+    "phone": "603-763-2212",
+    "url": "https://www.town.sunapee.nh.us/welfare",
+    "categorySlug": "food",
+    "zipCode": "03782"
+  }
+]
